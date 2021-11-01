@@ -1,0 +1,22 @@
+##sequence-region NC_048212.1 1 28975
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1508220
+NC_048212.1	RefSeq	region	1	28975	.	+	.	ID=NC_048212.1:1..28975;Dbxref=taxon:1508220;collection-date=Dec-2013;country=Cameroon;gbkey=Src;genome=genomic;isolate=CMR704-P12;isolation-source=Feces;mol_type=genomic RNA;nat-host=Eidolon helvum
+NC_048212.1	RefSeq	five_prime_UTR	1	209	.	+	.	ID=id-NC_048212.1:1..209;gbkey=5'UTR
+NC_048212.1	RefSeq	gene	210	12827	.	+	.	ID=gene-HO265_gp1;Dbxref=GeneID:55060235;Name=HO265_gp1;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HO265_gp1
+NC_048212.1	RefSeq	CDS	210	12827	.	+	0	ID=cds-YP_009824988.1;Parent=gene-HO265_gp1;Dbxref=Genbank:YP_009824988.1,GeneID:55060235;Name=YP_009824988.1;gbkey=CDS;locus_tag=HO265_gp1;product=ORF1a;protein_id=YP_009824988.1
+NC_048212.1	RefSeq	gene	13106	20842	.	+	.	ID=gene-HO265_gp2;Dbxref=GeneID:55060228;Name=HO265_gp2;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HO265_gp2
+NC_048212.1	RefSeq	CDS	13106	20842	.	+	0	ID=cds-YP_009824989.1;Parent=gene-HO265_gp2;Dbxref=Genbank:YP_009824989.1,GeneID:55060228;Name=YP_009824989.1;gbkey=CDS;locus_tag=HO265_gp2;product=ORF1b;protein_id=YP_009824989.1
+NC_048212.1	RefSeq	gene	20814	24623	.	+	.	ID=gene-HO265_gp3;Dbxref=GeneID:55060229;Name=HO265_gp3;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HO265_gp3
+NC_048212.1	RefSeq	CDS	20814	24623	.	+	0	ID=cds-YP_009824990.1;Parent=gene-HO265_gp3;Dbxref=Genbank:YP_009824990.1,GeneID:55060229;Name=YP_009824990.1;gbkey=CDS;locus_tag=HO265_gp3;product=spike protein;protein_id=YP_009824990.1
+NC_048212.1	RefSeq	gene	24620	25339	.	+	.	ID=gene-HO265_gp4;Dbxref=GeneID:55060230;Name=HO265_gp4;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HO265_gp4
+NC_048212.1	RefSeq	CDS	24620	25339	.	+	0	ID=cds-YP_009824991.1;Parent=gene-HO265_gp4;Dbxref=Genbank:YP_009824991.1,GeneID:55060230;Name=YP_009824991.1;gbkey=CDS;locus_tag=HO265_gp4;product=ORF3;protein_id=YP_009824991.1
+NC_048212.1	RefSeq	gene	25568	26233	.	+	.	ID=gene-HO265_gp5;Dbxref=GeneID:55060231;Name=HO265_gp5;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HO265_gp5
+NC_048212.1	RefSeq	CDS	25568	26233	.	+	0	ID=cds-YP_009824992.1;Parent=gene-HO265_gp5;Dbxref=Genbank:YP_009824992.1,GeneID:55060231;Name=YP_009824992.1;gbkey=CDS;locus_tag=HO265_gp5;product=Membrane protein;protein_id=YP_009824992.1
+NC_048212.1	RefSeq	gene	26302	27714	.	+	.	ID=gene-HO265_gp6;Dbxref=GeneID:55060232;Name=HO265_gp6;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HO265_gp6
+NC_048212.1	RefSeq	CDS	26302	27714	.	+	0	ID=cds-YP_009824993.1;Parent=gene-HO265_gp6;Dbxref=Genbank:YP_009824993.1,GeneID:55060232;Name=YP_009824993.1;gbkey=CDS;locus_tag=HO265_gp6;product=capsid;protein_id=YP_009824993.1
+NC_048212.1	RefSeq	gene	27726	28277	.	+	.	ID=gene-HO265_gp7;Dbxref=GeneID:55060233;Name=HO265_gp7;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HO265_gp7
+NC_048212.1	RefSeq	CDS	27726	28277	.	+	0	ID=cds-YP_009824994.1;Parent=gene-HO265_gp7;Dbxref=Genbank:YP_009824994.1,GeneID:55060233;Name=YP_009824994.1;gbkey=CDS;locus_tag=HO265_gp7;product=hypothetical protein ORFx;protein_id=YP_009824994.1
+NC_048212.1	RefSeq	gene	28278	28718	.	+	.	ID=gene-HO265_gp8;Dbxref=GeneID:55060234;Name=HO265_gp8;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HO265_gp8
+NC_048212.1	RefSeq	CDS	28278	28718	.	+	0	ID=cds-YP_009824995.1;Parent=gene-HO265_gp8;Dbxref=Genbank:YP_009824995.1,GeneID:55060234;Name=YP_009824995.1;gbkey=CDS;locus_tag=HO265_gp8;product=hypothetical protein ORFy;protein_id=YP_009824995.1
+NC_048212.1	RefSeq	three_prime_UTR	28721	28950	.	+	.	ID=id-NC_048212.1:28721..28950;gbkey=3'UTR
+

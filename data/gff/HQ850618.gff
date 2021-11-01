@@ -1,0 +1,24 @@
+##sequence-region HQ850618.1 1 27597
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+HQ850618.1	Genbank	region	1	27597	.	+	.	ID=HQ850618.1:1..27597;Dbxref=taxon:11120;collection-date=25-Aug-2007;country=China;gbkey=Src;isolate=GX-YL9;isolation-source=chick embryo;mol_type=genomic RNA;nat-host=Gallus gallus
+HQ850618.1	Genbank	gene	526	20420	.	+	.	ID=gene-1;Name=1;gbkey=Gene;gene=1;gene_biotype=protein_coding
+HQ850618.1	Genbank	CDS	526	12345	.	+	0	ID=cds-AEB00723.1;Parent=gene-1;Dbxref=NCBI_GP:AEB00723.1;Name=AEB00723.1;Note=translational frameshift results in expression of orf1a and orf1b as a single polyprotein;exception=ribosomal slippage;gbkey=CDS;gene=1;product=polyprotein 1ab;protein_id=AEB00723.1
+HQ850618.1	Genbank	CDS	12345	20420	.	+	0	ID=cds-AEB00723.1;Parent=gene-1;Dbxref=NCBI_GP:AEB00723.1;Name=AEB00723.1;Note=translational frameshift results in expression of orf1a and orf1b as a single polyprotein;exception=ribosomal slippage;gbkey=CDS;gene=1;product=polyprotein 1ab;protein_id=AEB00723.1
+HQ850618.1	Genbank	CDS	526	12387	.	+	0	ID=cds-AEB00724.1;Parent=gene-1;Dbxref=NCBI_GP:AEB00724.1;Name=AEB00724.1;gbkey=CDS;gene=1;product=polyprotein 1a;protein_id=AEB00724.1
+HQ850618.1	Genbank	gene	20371	23874	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+HQ850618.1	Genbank	CDS	20371	23874	.	+	0	ID=cds-AEB00715.1;Parent=gene-S;Dbxref=NCBI_GP:AEB00715.1;Name=AEB00715.1;gbkey=CDS;gene=S;product=spike glycoprotein;protein_id=AEB00715.1
+HQ850618.1	Genbank	gene	23874	24047	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+HQ850618.1	Genbank	CDS	23874	24047	.	+	0	ID=cds-AEB00716.1;Parent=gene-3a;Dbxref=NCBI_GP:AEB00716.1;Name=AEB00716.1;gbkey=CDS;gene=3a;product=3a protein;protein_id=AEB00716.1
+HQ850618.1	Genbank	gene	24047	24235	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+HQ850618.1	Genbank	CDS	24047	24235	.	+	0	ID=cds-AEB00717.1;Parent=gene-3b;Dbxref=NCBI_GP:AEB00717.1;Name=AEB00717.1;gbkey=CDS;gene=3b;product=3b protein;protein_id=AEB00717.1
+HQ850618.1	Genbank	gene	24219	24545	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+HQ850618.1	Genbank	CDS	24219	24545	.	+	0	ID=cds-AEB00718.1;Parent=gene-E;Dbxref=NCBI_GP:AEB00718.1;Name=AEB00718.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=AEB00718.1
+HQ850618.1	Genbank	gene	24517	25194	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+HQ850618.1	Genbank	CDS	24517	25194	.	+	0	ID=cds-AEB00719.1;Parent=gene-M;Dbxref=NCBI_GP:AEB00719.1;Name=AEB00719.1;gbkey=CDS;gene=M;product=membrane glycoprotein;protein_id=AEB00719.1
+HQ850618.1	Genbank	gene	25548	25745	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+HQ850618.1	Genbank	CDS	25548	25745	.	+	0	ID=cds-AEB00720.1;Parent=gene-5a;Dbxref=NCBI_GP:AEB00720.1;Name=AEB00720.1;gbkey=CDS;gene=5a;product=5a protein;protein_id=AEB00720.1
+HQ850618.1	Genbank	gene	25742	25990	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+HQ850618.1	Genbank	CDS	25742	25990	.	+	0	ID=cds-AEB00721.1;Parent=gene-5b;Dbxref=NCBI_GP:AEB00721.1;Name=AEB00721.1;gbkey=CDS;gene=5b;product=5b protein;protein_id=AEB00721.1
+HQ850618.1	Genbank	gene	25933	27162	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+HQ850618.1	Genbank	CDS	25933	27162	.	+	0	ID=cds-AEB00722.1;Parent=gene-N;Dbxref=NCBI_GP:AEB00722.1;Name=AEB00722.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=AEB00722.1
+

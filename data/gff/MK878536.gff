@@ -1,0 +1,18 @@
+##sequence-region MK878536.1 1 27672
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+MK878536.1	Genbank	region	1	27672	.	+	.	ID=MK878536.1:1..27672;Dbxref=taxon:11120;collection-date=10-Jan-2019;country=USA;gbkey=Src;genome=genomic;isolate=GA9977/2019;mol_type=genomic RNA;nat-host=chicken;strain=DMV/1639
+MK878536.1	Genbank	CDS	529	12354	.	+	0	ID=cds-QCX19618.1;Dbxref=NCBI_GP:QCX19618.1;Name=QCX19618.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein 1ab;protein_id=QCX19618.1
+MK878536.1	Genbank	CDS	12354	20420	.	+	0	ID=cds-QCX19618.1;Dbxref=NCBI_GP:QCX19618.1;Name=QCX19618.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein 1ab;protein_id=QCX19618.1
+MK878536.1	Genbank	CDS	529	12387	.	+	0	ID=cds-QCX19617.1;Dbxref=NCBI_GP:QCX19617.1;Name=QCX19617.1;gbkey=CDS;product=polyprotein 1a;protein_id=QCX19617.1
+MK878536.1	Genbank	CDS	20371	23871	.	+	0	ID=cds-QCX19619.1;Dbxref=NCBI_GP:QCX19619.1;Name=QCX19619.1;Note=S;gbkey=CDS;product=spike glycoprotein;protein_id=QCX19619.1
+MK878536.1	Genbank	CDS	23871	24044	.	+	0	ID=cds-QCX19620.1;Dbxref=NCBI_GP:QCX19620.1;Name=QCX19620.1;gbkey=CDS;product=3a protein;protein_id=QCX19620.1
+MK878536.1	Genbank	CDS	24044	24238	.	+	0	ID=cds-QCX19621.1;Dbxref=NCBI_GP:QCX19621.1;Name=QCX19621.1;gbkey=CDS;product=3b protein;protein_id=QCX19621.1
+MK878536.1	Genbank	CDS	24219	24521	.	+	0	ID=cds-QCX19622.1;Dbxref=NCBI_GP:QCX19622.1;Name=QCX19622.1;Note=E;gbkey=CDS;product=envelope protein;protein_id=QCX19622.1
+MK878536.1	Genbank	CDS	24521	25189	.	+	0	ID=cds-QCX19623.1;Dbxref=NCBI_GP:QCX19623.1;Name=QCX19623.1;Note=M;gbkey=CDS;product=membrane protein;protein_id=QCX19623.1
+MK878536.1	Genbank	CDS	25190	25474	.	+	0	ID=cds-QCX19624.1;Dbxref=NCBI_GP:QCX19624.1;Name=QCX19624.1;gbkey=CDS;product=4b protein;protein_id=QCX19624.1
+MK878536.1	Genbank	CDS	25395	25565	.	+	0	ID=cds-QCX19625.1;Dbxref=NCBI_GP:QCX19625.1;Name=QCX19625.1;gbkey=CDS;product=4c protein;protein_id=QCX19625.1
+MK878536.1	Genbank	CDS	25549	25746	.	+	0	ID=cds-QCX19626.1;Dbxref=NCBI_GP:QCX19626.1;Name=QCX19626.1;gbkey=CDS;product=5a protein;protein_id=QCX19626.1
+MK878536.1	Genbank	CDS	25743	25991	.	+	0	ID=cds-QCX19627.1;Dbxref=NCBI_GP:QCX19627.1;Name=QCX19627.1;gbkey=CDS;product=5b protein;protein_id=QCX19627.1
+MK878536.1	Genbank	CDS	25934	27163	.	+	0	ID=cds-QCX19628.1;Dbxref=NCBI_GP:QCX19628.1;Name=QCX19628.1;Note=N;gbkey=CDS;product=nucleocapsid protein;protein_id=QCX19628.1
+MK878536.1	Genbank	CDS	27172	27396	.	+	0	ID=cds-QCX19629.1;Dbxref=NCBI_GP:QCX19629.1;Name=QCX19629.1;gbkey=CDS;product=6b protein;protein_id=QCX19629.1
+

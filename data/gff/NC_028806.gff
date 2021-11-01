@@ -1,0 +1,22 @@
+##sequence-region NC_028806.1 1 28111
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1766554
+NC_028806.1	RefSeq	region	1	28111	.	+	.	ID=NC_028806.1:1..28111;Dbxref=taxon:1766554;collection-date=04-Sep-2009;country=Italy;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=pig;strain=Italy/213306/2009
+NC_028806.1	RefSeq	gene	307	12354	.	+	.	ID=gene-AVT88_gp1;Dbxref=GeneID:26626395;Name=AVT88_gp1;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AVT88_gp1
+NC_028806.1	RefSeq	CDS	307	12354	.	+	0	ID=cds-YP_009199240.1;Parent=gene-AVT88_gp1;Dbxref=Genbank:YP_009199240.1,GeneID:26626395;Name=YP_009199240.1;gbkey=CDS;locus_tag=AVT88_gp1;product=replicase polyprotein 1a;protein_id=YP_009199240.1
+NC_028806.1	RefSeq	gene	12312	20354	.	+	.	ID=gene-AVT88_gp2;Dbxref=GeneID:26626387;Name=AVT88_gp2;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AVT88_gp2
+NC_028806.1	RefSeq	CDS	12312	20354	.	+	0	ID=cds-YP_009199241.1;Parent=gene-AVT88_gp2;Dbxref=Genbank:YP_009199241.1,GeneID:26626387;Name=YP_009199241.1;gbkey=CDS;locus_tag=AVT88_gp2;partial=true;product=replicase polyprotein 1b;protein_id=YP_009199241.1;start_range=.,12312
+NC_028806.1	RefSeq	gene	20355	24503	.	+	.	ID=gene-AVT88_gp3;Dbxref=GeneID:26626388;Name=AVT88_gp3;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AVT88_gp3
+NC_028806.1	RefSeq	CDS	20355	24503	.	+	0	ID=cds-YP_009199242.1;Parent=gene-AVT88_gp3;Dbxref=Genbank:YP_009199242.1,GeneID:26626388;Name=YP_009199242.1;gbkey=CDS;locus_tag=AVT88_gp3;product=spike protein;protein_id=YP_009199242.1
+NC_028806.1	RefSeq	gene	24493	24585	.	+	.	ID=gene-AVT88_gp4;Dbxref=GeneID:26626389;Name=AVT88_gp4;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AVT88_gp4
+NC_028806.1	RefSeq	CDS	24493	24585	.	+	0	ID=cds-YP_009199243.1;Parent=gene-AVT88_gp4;Dbxref=Genbank:YP_009199243.1,GeneID:26626389;Name=YP_009199243.1;gbkey=CDS;locus_tag=AVT88_gp4;product=non-structural protein 3a;protein_id=YP_009199243.1
+NC_028806.1	RefSeq	gene	24666	25400	.	+	.	ID=gene-AVT88_gp5;Dbxref=GeneID:26626390;Name=AVT88_gp5;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AVT88_gp5
+NC_028806.1	RefSeq	CDS	24666	25400	.	+	0	ID=cds-YP_009199244.1;Parent=gene-AVT88_gp5;Dbxref=Genbank:YP_009199244.1,GeneID:26626390;Name=YP_009199244.1;gbkey=CDS;locus_tag=AVT88_gp5;product=non-structural protein 3b;protein_id=YP_009199244.1
+NC_028806.1	RefSeq	gene	25387	25635	.	+	.	ID=gene-AVT88_gp6;Dbxref=GeneID:26626391;Name=AVT88_gp6;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AVT88_gp6
+NC_028806.1	RefSeq	CDS	25387	25635	.	+	0	ID=cds-YP_009199245.1;Parent=gene-AVT88_gp6;Dbxref=Genbank:YP_009199245.1,GeneID:26626391;Name=YP_009199245.1;gbkey=CDS;locus_tag=AVT88_gp6;product=envelope protein;protein_id=YP_009199245.1
+NC_028806.1	RefSeq	gene	25646	26434	.	+	.	ID=gene-AVT88_gp7;Dbxref=GeneID:26626392;Name=AVT88_gp7;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AVT88_gp7
+NC_028806.1	RefSeq	CDS	25646	26434	.	+	0	ID=cds-YP_009199246.1;Parent=gene-AVT88_gp7;Dbxref=Genbank:YP_009199246.1,GeneID:26626392;Name=YP_009199246.1;gbkey=CDS;locus_tag=AVT88_gp7;product=membrane protein;protein_id=YP_009199246.1
+NC_028806.1	RefSeq	gene	26447	27595	.	+	.	ID=gene-AVT88_gp8;Dbxref=GeneID:26626393;Name=AVT88_gp8;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AVT88_gp8
+NC_028806.1	RefSeq	CDS	26447	27595	.	+	0	ID=cds-YP_009199247.1;Parent=gene-AVT88_gp8;Dbxref=Genbank:YP_009199247.1,GeneID:26626393;Name=YP_009199247.1;gbkey=CDS;locus_tag=AVT88_gp8;product=nucleoprotein;protein_id=YP_009199247.1
+NC_028806.1	RefSeq	gene	27601	27837	.	+	.	ID=gene-AVT88_gp9;Dbxref=GeneID:26626394;Name=AVT88_gp9;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AVT88_gp9
+NC_028806.1	RefSeq	CDS	27601	27837	.	+	0	ID=cds-YP_009199248.1;Parent=gene-AVT88_gp9;Dbxref=Genbank:YP_009199248.1,GeneID:26626394;Name=YP_009199248.1;gbkey=CDS;locus_tag=AVT88_gp9;product=non-structural protein 7;protein_id=YP_009199248.1
+

@@ -1,0 +1,23 @@
+##sequence-region MK217374.1 1 27695
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+MK217374.1	Genbank	region	1	27695	.	+	.	ID=MK217374.1:1..27695;Dbxref=taxon:11120;collection-date=2016;country=China;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Gallus;strain=I0916/16
+MK217374.1	Genbank	gene	526	20420	.	+	.	ID=gene-1ab;Name=1ab;gbkey=Gene;gene=1ab;gene_biotype=protein_coding
+MK217374.1	Genbank	CDS	526	12357	.	+	0	ID=cds-QDA76236.1;Parent=gene-1ab;Dbxref=NCBI_GP:QDA76236.1;Name=QDA76236.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=ORF1ab;protein_id=QDA76236.1
+MK217374.1	Genbank	CDS	12357	20420	.	+	0	ID=cds-QDA76236.1;Parent=gene-1ab;Dbxref=NCBI_GP:QDA76236.1;Name=QDA76236.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=ORF1ab;protein_id=QDA76236.1
+MK217374.1	Genbank	gene	20371	23883	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MK217374.1	Genbank	CDS	20371	23883	.	+	0	ID=cds-QDA76237.1;Parent=gene-S;Dbxref=NCBI_GP:QDA76237.1;Name=QDA76237.1;gbkey=CDS;gene=S;product=spike protein;protein_id=QDA76237.1
+MK217374.1	Genbank	gene	23883	24056	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+MK217374.1	Genbank	CDS	23883	24056	.	+	0	ID=cds-QDA76238.1;Parent=gene-3a;Dbxref=NCBI_GP:QDA76238.1;Name=QDA76238.1;gbkey=CDS;gene=3a;product=ORF3a;protein_id=QDA76238.1
+MK217374.1	Genbank	gene	24056	24244	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+MK217374.1	Genbank	CDS	24056	24244	.	+	0	ID=cds-QDA76239.1;Parent=gene-3b;Dbxref=NCBI_GP:QDA76239.1;Name=QDA76239.1;gbkey=CDS;gene=3b;product=ORF3b;protein_id=QDA76239.1
+MK217374.1	Genbank	gene	24225	24536	.	+	.	ID=gene-3c;Name=3c;gbkey=Gene;gene=3c;gene_biotype=protein_coding
+MK217374.1	Genbank	CDS	24225	24536	.	+	0	ID=cds-QDA76240.1;Parent=gene-3c;Dbxref=NCBI_GP:QDA76240.1;Name=QDA76240.1;gbkey=CDS;gene=3c;product=ORF3c;protein_id=QDA76240.1
+MK217374.1	Genbank	gene	24526	25206	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MK217374.1	Genbank	CDS	24526	25206	.	+	0	ID=cds-QDA76241.1;Parent=gene-M;Dbxref=NCBI_GP:QDA76241.1;Name=QDA76241.1;gbkey=CDS;gene=M;product=M protein;protein_id=QDA76241.1
+MK217374.1	Genbank	gene	25568	25765	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+MK217374.1	Genbank	CDS	25568	25765	.	+	0	ID=cds-QDA76242.1;Parent=gene-5a;Dbxref=NCBI_GP:QDA76242.1;Name=QDA76242.1;gbkey=CDS;gene=5a;product=ORF5a;protein_id=QDA76242.1
+MK217374.1	Genbank	gene	25762	26010	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+MK217374.1	Genbank	CDS	25762	26010	.	+	0	ID=cds-QDA76243.1;Parent=gene-5b;Dbxref=NCBI_GP:QDA76243.1;Name=QDA76243.1;gbkey=CDS;gene=5b;product=ORF5b;protein_id=QDA76243.1
+MK217374.1	Genbank	gene	25953	27179	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MK217374.1	Genbank	CDS	25953	27179	.	+	0	ID=cds-QDA76244.1;Parent=gene-N;Dbxref=NCBI_GP:QDA76244.1;Name=QDA76244.1;gbkey=CDS;gene=N;product=N protein;protein_id=QDA76244.1
+

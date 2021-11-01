@@ -1,0 +1,23 @@
+##sequence-region KY407556.1 1 27681
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+KY407556.1	Genbank	region	1	27681	.	+	.	ID=KY407556.1:1..27681;Dbxref=taxon:11120;collection-date=2014;country=China;gbkey=Src;genome=genomic;genotype=TW I;mol_type=genomic RNA;nat-host=Gallus gallus;strain=gammaCoV/ck/China/I0114/14
+KY407556.1	Genbank	gene	526	20420	.	+	.	ID=gene-1ab;Name=1ab;gbkey=Gene;gene=1ab;gene_biotype=protein_coding
+KY407556.1	Genbank	CDS	526	12357	.	+	0	ID=cds-AQY61304.1;Parent=gene-1ab;Dbxref=NCBI_GP:AQY61304.1;Name=AQY61304.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=ORF1ab;protein_id=AQY61304.1
+KY407556.1	Genbank	CDS	12357	20420	.	+	0	ID=cds-AQY61304.1;Parent=gene-1ab;Dbxref=NCBI_GP:AQY61304.1;Name=AQY61304.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=ORF1ab;protein_id=AQY61304.1
+KY407556.1	Genbank	gene	20371	23877	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KY407556.1	Genbank	CDS	20371	23877	.	+	0	ID=cds-AQY61305.1;Parent=gene-S;Dbxref=NCBI_GP:AQY61305.1;Name=AQY61305.1;gbkey=CDS;gene=S;product=spike glycoprotein;protein_id=AQY61305.1
+KY407556.1	Genbank	gene	23877	24050	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+KY407556.1	Genbank	CDS	23877	24050	.	+	0	ID=cds-AQY61306.1;Parent=gene-3a;Dbxref=NCBI_GP:AQY61306.1;Name=AQY61306.1;gbkey=CDS;gene=3a;product=ORF3a;protein_id=AQY61306.1
+KY407556.1	Genbank	gene	24050	24238	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+KY407556.1	Genbank	CDS	24050	24238	.	+	0	ID=cds-AQY61307.1;Parent=gene-3b;Dbxref=NCBI_GP:AQY61307.1;Name=AQY61307.1;gbkey=CDS;gene=3b;product=ORF3b;protein_id=AQY61307.1
+KY407556.1	Genbank	gene	24222	24548	.	+	.	ID=gene-3c;Name=3c;gbkey=Gene;gene=3c;gene_biotype=protein_coding
+KY407556.1	Genbank	CDS	24222	24548	.	+	0	ID=cds-AQY61308.1;Parent=gene-3c;Dbxref=NCBI_GP:AQY61308.1;Name=AQY61308.1;gbkey=CDS;gene=3c;product=ORF3c;protein_id=AQY61308.1
+KY407556.1	Genbank	gene	24520	25197	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KY407556.1	Genbank	CDS	24520	25197	.	+	0	ID=cds-AQY61309.1;Parent=gene-M;Dbxref=NCBI_GP:AQY61309.1;Name=AQY61309.1;gbkey=CDS;gene=M;product=M protein;protein_id=AQY61309.1
+KY407556.1	Genbank	gene	25551	25748	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+KY407556.1	Genbank	CDS	25551	25748	.	+	0	ID=cds-AQY61310.1;Parent=gene-5a;Dbxref=NCBI_GP:AQY61310.1;Name=AQY61310.1;gbkey=CDS;gene=5a;product=ORF5a;protein_id=AQY61310.1
+KY407556.1	Genbank	gene	25745	25993	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+KY407556.1	Genbank	CDS	25745	25993	.	+	0	ID=cds-AQY61311.1;Parent=gene-5b;Dbxref=NCBI_GP:AQY61311.1;Name=AQY61311.1;gbkey=CDS;gene=5b;product=ORF5b;protein_id=AQY61311.1
+KY407556.1	Genbank	gene	25936	27165	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KY407556.1	Genbank	CDS	25936	27165	.	+	0	ID=cds-AQY61312.1;Parent=gene-N;Dbxref=NCBI_GP:AQY61312.1;Name=AQY61312.1;gbkey=CDS;gene=N;product=N protein;protein_id=AQY61312.1
+

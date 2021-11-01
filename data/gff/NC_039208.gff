@@ -1,0 +1,19 @@
+##sequence-region NC_039208.1 1 25425
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1159905
+NC_039208.1	RefSeq	region	1	25425	.	+	.	ID=NC_039208.1:1..25425;Dbxref=taxon:1159905;collection-date=2010;country=China: Hong Kong;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=pig;strain=HKU15-155
+NC_039208.1	RefSeq	gene	533	19335	.	+	.	ID=gene-D1Y29_gp1;Dbxref=GeneID:37627021;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding;locus_tag=D1Y29_gp1
+NC_039208.1	RefSeq	CDS	533	11407	.	+	0	ID=cds-YP_009513020.1;Parent=gene-D1Y29_gp1;Dbxref=Genbank:YP_009513020.1,GeneID:37627021;Name=YP_009513020.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;locus_tag=D1Y29_gp1;product=replicase polyprotein;protein_id=YP_009513020.1
+NC_039208.1	RefSeq	CDS	11407	19335	.	+	0	ID=cds-YP_009513020.1;Parent=gene-D1Y29_gp1;Dbxref=Genbank:YP_009513020.1,GeneID:37627021;Name=YP_009513020.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;locus_tag=D1Y29_gp1;product=replicase polyprotein;protein_id=YP_009513020.1
+NC_039208.1	RefSeq	gene	19317	22796	.	+	.	ID=gene-D1Y29_gp2;Dbxref=GeneID:37627015;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding;locus_tag=D1Y29_gp2
+NC_039208.1	RefSeq	CDS	19317	22796	.	+	0	ID=cds-YP_009513021.1;Parent=gene-D1Y29_gp2;Dbxref=Genbank:YP_009513021.1,GeneID:37627015;Name=YP_009513021.1;gbkey=CDS;gene=S;locus_tag=D1Y29_gp2;product=spike glycoprotein;protein_id=YP_009513021.1
+NC_039208.1	RefSeq	gene	22790	23041	.	+	.	ID=gene-D1Y29_gp3;Dbxref=GeneID:37627016;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding;locus_tag=D1Y29_gp3
+NC_039208.1	RefSeq	CDS	22790	23041	.	+	0	ID=cds-YP_009513022.1;Parent=gene-D1Y29_gp3;Dbxref=Genbank:YP_009513022.1,GeneID:37627016;Name=YP_009513022.1;gbkey=CDS;gene=E;locus_tag=D1Y29_gp3;product=envelope protein;protein_id=YP_009513022.1
+NC_039208.1	RefSeq	gene	23034	23687	.	+	.	ID=gene-D1Y29_gp4;Dbxref=GeneID:37627017;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding;locus_tag=D1Y29_gp4
+NC_039208.1	RefSeq	CDS	23034	23687	.	+	0	ID=cds-YP_009513023.1;Parent=gene-D1Y29_gp4;Dbxref=Genbank:YP_009513023.1,GeneID:37627017;Name=YP_009513023.1;gbkey=CDS;gene=M;locus_tag=D1Y29_gp4;product=membrane protein;protein_id=YP_009513023.1
+NC_039208.1	RefSeq	gene	23687	23971	.	+	.	ID=gene-D1Y29_gp5;Dbxref=GeneID:37627018;Name=NS6;gbkey=Gene;gene=NS6;gene_biotype=protein_coding;locus_tag=D1Y29_gp5
+NC_039208.1	RefSeq	CDS	23687	23971	.	+	0	ID=cds-YP_009513024.1;Parent=gene-D1Y29_gp5;Dbxref=Genbank:YP_009513024.1,GeneID:37627018;Name=YP_009513024.1;gbkey=CDS;gene=NS6;locus_tag=D1Y29_gp5;product=NS6 protein;protein_id=YP_009513024.1
+NC_039208.1	RefSeq	gene	23992	25020	.	+	.	ID=gene-D1Y29_gp6;Dbxref=GeneID:37627019;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding;locus_tag=D1Y29_gp6
+NC_039208.1	RefSeq	CDS	23992	25020	.	+	0	ID=cds-YP_009513025.1;Parent=gene-D1Y29_gp6;Dbxref=Genbank:YP_009513025.1,GeneID:37627019;Name=YP_009513025.1;gbkey=CDS;gene=N;locus_tag=D1Y29_gp6;product=nucleocapsid protein;protein_id=YP_009513025.1
+NC_039208.1	RefSeq	gene	24086	24688	.	+	.	ID=gene-D1Y29_gp7;Dbxref=GeneID:37627020;Name=NS7;gbkey=Gene;gene=NS7;gene_biotype=protein_coding;locus_tag=D1Y29_gp7
+NC_039208.1	RefSeq	CDS	24086	24688	.	+	0	ID=cds-YP_009513026.1;Parent=gene-D1Y29_gp7;Dbxref=Genbank:YP_009513026.1,GeneID:37627020;Name=YP_009513026.1;gbkey=CDS;gene=NS7;locus_tag=D1Y29_gp7;product=NS7 protein;protein_id=YP_009513026.1
+

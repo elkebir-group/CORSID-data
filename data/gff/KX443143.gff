@@ -1,0 +1,18 @@
+##sequence-region KX443143.2 1 25404
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1586324
+KX443143.2	Genbank	region	1	25404	.	+	.	ID=KX443143.2:1..25404;Dbxref=taxon:1586324;collection-date=2016;country=China;gbkey=Src;genome=genomic;mol_type=genomic RNA;strain=CH-01
+KX443143.2	Genbank	gene	540	11405	.	+	.	ID=gene-ORF 1a;Name=ORF 1a;gbkey=Gene;gene=ORF 1a;gene_biotype=protein_coding
+KX443143.2	Genbank	CDS	540	11405	.	+	0	ID=cds-AQS99159.2;Parent=gene-ORF 1a;Dbxref=NCBI_GP:AQS99159.2;Name=AQS99159.2;gbkey=CDS;gene=ORF 1a;product=ORF 1a protein;protein_id=AQS99159.2
+KX443143.2	Genbank	gene	19309	22788	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KX443143.2	Genbank	CDS	19309	22788	.	+	0	ID=cds-AQS99154.1;Parent=gene-S;Dbxref=NCBI_GP:AQS99154.1;Name=AQS99154.1;gbkey=CDS;gene=S;product=S protein;protein_id=AQS99154.1
+KX443143.2	Genbank	gene	22782	23033	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+KX443143.2	Genbank	CDS	22782	23033	.	+	0	ID=cds-AQS99153.1;Parent=gene-E;Dbxref=NCBI_GP:AQS99153.1;Name=AQS99153.1;gbkey=CDS;gene=E;product=E protein;protein_id=AQS99153.1
+KX443143.2	Genbank	gene	23026	23679	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KX443143.2	Genbank	CDS	23026	23679	.	+	0	ID=cds-AQS99155.1;Parent=gene-M;Dbxref=NCBI_GP:AQS99155.1;Name=AQS99155.1;gbkey=CDS;gene=M;product=M protein;protein_id=AQS99155.1
+KX443143.2	Genbank	gene	23679	23963	.	+	.	ID=gene-NS6;Name=NS6;gbkey=Gene;gene=NS6;gene_biotype=protein_coding
+KX443143.2	Genbank	CDS	23679	23963	.	+	0	ID=cds-AQS99156.1;Parent=gene-NS6;Dbxref=NCBI_GP:AQS99156.1;Name=AQS99156.1;gbkey=CDS;gene=NS6;product=NS6 protein;protein_id=AQS99156.1
+KX443143.2	Genbank	gene	23984	25012	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KX443143.2	Genbank	CDS	23984	25012	.	+	0	ID=cds-AQS99157.1;Parent=gene-N;Dbxref=NCBI_GP:AQS99157.1;Name=AQS99157.1;gbkey=CDS;gene=N;product=N protein;protein_id=AQS99157.1
+KX443143.2	Genbank	gene	24078	24680	.	+	.	ID=gene-NS7;Name=NS7;gbkey=Gene;gene=NS7;gene_biotype=protein_coding
+KX443143.2	Genbank	CDS	24078	24680	.	+	0	ID=cds-AQS99158.1;Parent=gene-NS7;Dbxref=NCBI_GP:AQS99158.1;Name=AQS99158.1;gbkey=CDS;gene=NS7;product=NS7 protein;protein_id=AQS99158.1
+

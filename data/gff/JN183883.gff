@@ -1,0 +1,16 @@
+##sequence-region JN183883.1 1 29222
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1052158
+JN183883.1	Genbank	region	1	29222	.	+	.	ID=JN183883.1:1..29222;Dbxref=taxon:1052158;collection-date=12-Mar-2010;country=Netherlands: Utrecht;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Felis catus;strain=UU54
+JN183883.1	Genbank	CDS	272	12307	.	+	0	ID=cds-AEK25520.1;Dbxref=NCBI_GP:AEK25520.1;Name=AEK25520.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein orf1ab;protein_id=AEK25520.1
+JN183883.1	Genbank	CDS	12307	20349	.	+	0	ID=cds-AEK25520.1;Dbxref=NCBI_GP:AEK25520.1;Name=AEK25520.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein orf1ab;protein_id=AEK25520.1
+JN183883.1	Genbank	CDS	272	12349	.	+	0	ID=cds-AEK25519.1;Dbxref=NCBI_GP:AEK25519.1;Name=AEK25519.1;gbkey=CDS;product=polyprotein orf1a;protein_id=AEK25519.1
+JN183883.1	Genbank	CDS	20346	24746	.	+	0	ID=cds-AEK25521.1;Dbxref=NCBI_GP:AEK25521.1;Name=AEK25521.1;gbkey=CDS;product=spike protein;protein_id=AEK25521.1
+JN183883.1	Genbank	CDS	24758	24970	.	+	0	ID=cds-AEK25522.1;Dbxref=NCBI_GP:AEK25522.1;Name=AEK25522.1;gbkey=CDS;product=non-structural protein 3a;protein_id=AEK25522.1
+JN183883.1	Genbank	CDS	24918	25139	.	+	0	ID=cds-AEK25523.1;Dbxref=NCBI_GP:AEK25523.1;Name=AEK25523.1;gbkey=CDS;product=non-structural protein 3b;protein_id=AEK25523.1
+JN183883.1	Genbank	CDS	25136	25849	.	+	0	ID=cds-AEK25524.1;Dbxref=NCBI_GP:AEK25524.1;Name=AEK25524.1;gbkey=CDS;product=non-structural protein 3c;protein_id=AEK25524.1
+JN183883.1	Genbank	CDS	25836	26084	.	+	0	ID=cds-AEK25525.1;Dbxref=NCBI_GP:AEK25525.1;Name=AEK25525.1;gbkey=CDS;product=envelope protein;protein_id=AEK25525.1
+JN183883.1	Genbank	CDS	26095	26886	.	+	0	ID=cds-AEK25526.1;Dbxref=NCBI_GP:AEK25526.1;Name=AEK25526.1;gbkey=CDS;product=membrane protein;protein_id=AEK25526.1
+JN183883.1	Genbank	CDS	26899	28032	.	+	0	ID=cds-AEK25527.1;Dbxref=NCBI_GP:AEK25527.1;Name=AEK25527.1;gbkey=CDS;product=nucleocapsid protein;protein_id=AEK25527.1
+JN183883.1	Genbank	CDS	28037	28342	.	+	0	ID=cds-AEK25528.1;Dbxref=NCBI_GP:AEK25528.1;Name=AEK25528.1;gbkey=CDS;product=non-structural protein 7a;protein_id=AEK25528.1
+JN183883.1	Genbank	CDS	28347	28967	.	+	0	ID=cds-AEK25529.1;Dbxref=NCBI_GP:AEK25529.1;Name=AEK25529.1;gbkey=CDS;product=non-structural protein 7b;protein_id=AEK25529.1
+

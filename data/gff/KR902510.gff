@@ -1,0 +1,21 @@
+##sequence-region KR902510.1 1 27464
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+KR902510.1	Genbank	region	1	27464	.	+	.	ID=KR902510.1:1..27464;Dbxref=taxon:11120;collection-date=2003;country=India;gbkey=Src;genome=genomic;genotype=Mass41;isolate=Ind-TN92-03;isolation-source=kidneys;mol_type=genomic RNA;nat-host=chicken
+KR902510.1	Genbank	gene	529	20423	.	+	.	ID=gene-IBVgp1;Name=IBVgp1;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IBVgp1
+KR902510.1	Genbank	CDS	529	12360	.	+	0	ID=cds-AKV63203.1;Parent=gene-IBVgp1;Dbxref=NCBI_GP:AKV63203.1;Name=AKV63203.1;exception=ribosomal slippage;gbkey=CDS;locus_tag=IBVgp1;product=ORF1ab polyprotein;protein_id=AKV63203.1
+KR902510.1	Genbank	CDS	12360	20423	.	+	0	ID=cds-AKV63203.1;Parent=gene-IBVgp1;Dbxref=NCBI_GP:AKV63203.1;Name=AKV63203.1;exception=ribosomal slippage;gbkey=CDS;locus_tag=IBVgp1;product=ORF1ab polyprotein;protein_id=AKV63203.1
+KR902510.1	Genbank	CDS	529	12480	.	+	0	ID=cds-AKV63204.1;Parent=gene-IBVgp1;Dbxref=NCBI_GP:AKV63204.1;Name=AKV63204.1;gbkey=CDS;locus_tag=IBVgp1;product=ORF 1a polyprotein;protein_id=AKV63204.1
+KR902510.1	Genbank	gene	20374	23835	.	+	.	ID=gene-IBVgp2;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding;locus_tag=IBVgp2
+KR902510.1	Genbank	CDS	20374	23835	.	+	0	ID=cds-AKV63205.1;Parent=gene-IBVgp2;Dbxref=NCBI_GP:AKV63205.1;Name=AKV63205.1;Note=surface protein;gbkey=CDS;gene=S;locus_tag=IBVgp2;product=spike glycoprotein;protein_id=AKV63205.1
+KR902510.1	Genbank	gene	23862	24539	.	+	.	ID=gene-IBVgp3;Name=3;gbkey=Gene;gene=3;gene_biotype=protein_coding;locus_tag=IBVgp3
+KR902510.1	Genbank	CDS	23862	24035	.	+	0	ID=cds-AKV63206.1;Parent=gene-IBVgp3;Dbxref=NCBI_GP:AKV63206.1;Name=AKV63206.1;gbkey=CDS;gene=3;locus_tag=IBVgp3;product=3a protein;protein_id=AKV63206.1
+KR902510.1	Genbank	CDS	24035	24229	.	+	0	ID=cds-AKV63207.1;Parent=gene-IBVgp3;Dbxref=NCBI_GP:AKV63207.1;Name=AKV63207.1;gbkey=CDS;gene=3;locus_tag=IBVgp3;product=3b protein;protein_id=AKV63207.1
+KR902510.1	Genbank	CDS	24210	24539	.	+	0	ID=cds-AKV63208.1;Parent=gene-IBVgp3;Dbxref=NCBI_GP:AKV63208.1;Name=AKV63208.1;Note=E%3B small membrane protein%3B envelope protein;gbkey=CDS;gene=3;locus_tag=IBVgp3;product=3c protein;protein_id=AKV63208.1
+KR902510.1	Genbank	gene	24511	25188	.	+	.	ID=gene-IBVgp4;Name=4;gbkey=Gene;gene=4;gene_biotype=protein_coding;locus_tag=IBVgp4
+KR902510.1	Genbank	CDS	24511	25188	.	+	0	ID=cds-AKV63209.1;Parent=gene-IBVgp4;Dbxref=NCBI_GP:AKV63209.1;Name=AKV63209.1;Note=M;gbkey=CDS;gene=4;locus_tag=IBVgp4;product=membrane glycoprotein;protein_id=AKV63209.1
+KR902510.1	Genbank	gene	25539	25981	.	+	.	ID=gene-IBVgp5;Name=5;gbkey=Gene;gene=5;gene_biotype=protein_coding;locus_tag=IBVgp5
+KR902510.1	Genbank	CDS	25539	25736	.	+	0	ID=cds-AKV63210.1;Parent=gene-IBVgp5;Dbxref=NCBI_GP:AKV63210.1;Name=AKV63210.1;gbkey=CDS;gene=5;locus_tag=IBVgp5;product=5a protein;protein_id=AKV63210.1
+KR902510.1	Genbank	CDS	25733	25981	.	+	0	ID=cds-AKV63211.1;Parent=gene-IBVgp5;Dbxref=NCBI_GP:AKV63211.1;Name=AKV63211.1;gbkey=CDS;gene=5;locus_tag=IBVgp5;product=5b protein;protein_id=AKV63211.1
+KR902510.1	Genbank	gene	25924	27153	.	+	.	ID=gene-IBVgp6;Name=6;gbkey=Gene;gene=6;gene_biotype=protein_coding;locus_tag=IBVgp6
+KR902510.1	Genbank	CDS	25924	27153	.	+	0	ID=cds-AKV63212.1;Parent=gene-IBVgp6;Dbxref=NCBI_GP:AKV63212.1;Name=AKV63212.1;gbkey=CDS;gene=6;locus_tag=IBVgp6;product=nucleocapsid protein;protein_id=AKV63212.1
+

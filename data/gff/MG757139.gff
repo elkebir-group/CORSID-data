@@ -1,0 +1,27 @@
+##sequence-region MG757139.1 1 31028
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11128
+MG757139.1	Genbank	region	1	31028	.	+	.	ID=MG757139.1:1..31028;Dbxref=taxon:11128;collected-by=Gilles Meyer;collection-date=2014;country=France;gbkey=Src;genome=genomic;isolate=ICSA16-EN;isolation-source=nasal swab;mol_type=genomic RNA;nat-host=cattle
+MG757139.1	Genbank	gene	197	21480	.	+	.	ID=gene-orf1ab;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding
+MG757139.1	Genbank	CDS	197	13337	.	+	0	ID=cds-AVI15018.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:AVI15018.1;Name=AVI15018.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=Orf1ab protein;protein_id=AVI15018.1
+MG757139.1	Genbank	CDS	13337	21480	.	+	2	ID=cds-AVI15018.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:AVI15018.1;Name=AVI15018.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=Orf1ab protein;protein_id=AVI15018.1
+MG757139.1	Genbank	gene	197	13348	.	+	.	ID=gene-orf1a;Name=orf1a;gbkey=Gene;gene=orf1a;gene_biotype=protein_coding
+MG757139.1	Genbank	CDS	197	13348	.	+	0	ID=cds-AVI15008.1;Parent=gene-orf1a;Dbxref=NCBI_GP:AVI15008.1;Name=AVI15008.1;gbkey=CDS;gene=orf1a;product=Orf1a protein;protein_id=AVI15008.1
+MG757139.1	Genbank	gene	21490	22326	.	+	.	ID=gene-NS2;Name=NS2;gbkey=Gene;gene=NS2;gene_biotype=protein_coding
+MG757139.1	Genbank	CDS	21490	22326	.	+	0	ID=cds-AVI15009.1;Parent=gene-NS2;Dbxref=NCBI_GP:AVI15009.1;Name=AVI15009.1;gbkey=CDS;gene=NS2;product=32KDa protein product;protein_id=AVI15009.1
+MG757139.1	Genbank	gene	22338	23612	.	+	.	ID=gene-HE;Name=HE;gbkey=Gene;gene=HE;gene_biotype=protein_coding
+MG757139.1	Genbank	CDS	22338	23612	.	+	0	ID=cds-AVI15010.1;Parent=gene-HE;Dbxref=NCBI_GP:AVI15010.1;Name=AVI15010.1;gbkey=CDS;gene=HE;product=hemagglutinin esterase;protein_id=AVI15010.1
+MG757139.1	Genbank	gene	23627	27721	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MG757139.1	Genbank	CDS	23627	27721	.	+	0	ID=cds-AVI15011.1;Parent=gene-S;Dbxref=NCBI_GP:AVI15011.1;Name=AVI15011.1;gbkey=CDS;gene=S;product=spike protein;protein_id=AVI15011.1
+MG757139.1	Genbank	gene	27711	27842	.	+	.	ID=gene-ns4.9;Name=ns4.9;gbkey=Gene;gene=ns4.9;gene_biotype=protein_coding
+MG757139.1	Genbank	CDS	27711	27842	.	+	0	ID=cds-AVI15012.1;Parent=gene-ns4.9;Dbxref=NCBI_GP:AVI15012.1;Name=AVI15012.1;gbkey=CDS;gene=ns4.9;product=4.9 kDa nonstructural protein;protein_id=AVI15012.1
+MG757139.1	Genbank	gene	27878	28009	.	+	.	ID=gene-ns4.8;Name=ns4.8;gbkey=Gene;gene=ns4.8;gene_biotype=protein_coding
+MG757139.1	Genbank	CDS	27878	28009	.	+	0	ID=cds-AVI15013.1;Parent=gene-ns4.8;Dbxref=NCBI_GP:AVI15013.1;Name=AVI15013.1;gbkey=CDS;gene=ns4.8;product=4.8 kDa nonstructural protein;protein_id=AVI15013.1
+MG757139.1	Genbank	gene	28090	28419	.	+	.	ID=gene-ns12.7;Name=ns12.7;gbkey=Gene;gene=ns12.7;gene_biotype=protein_coding
+MG757139.1	Genbank	CDS	28090	28419	.	+	0	ID=cds-AVI15014.1;Parent=gene-ns12.7;Dbxref=NCBI_GP:AVI15014.1;Name=AVI15014.1;gbkey=CDS;gene=ns12.7;product=12.7 kDa nonstructural protein;protein_id=AVI15014.1
+MG757139.1	Genbank	gene	28406	28660	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MG757139.1	Genbank	CDS	28406	28660	.	+	0	ID=cds-AVI15015.1;Parent=gene-E;Dbxref=NCBI_GP:AVI15015.1;Name=AVI15015.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=AVI15015.1
+MG757139.1	Genbank	gene	28675	29367	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MG757139.1	Genbank	CDS	28675	29367	.	+	0	ID=cds-AVI15016.1;Parent=gene-M;Dbxref=NCBI_GP:AVI15016.1;Name=AVI15016.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=AVI15016.1
+MG757139.1	Genbank	gene	29377	30723	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MG757139.1	Genbank	CDS	29377	30723	.	+	0	ID=cds-AVI15017.1;Parent=gene-N;Dbxref=NCBI_GP:AVI15017.1;Name=AVI15017.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=AVI15017.1
+

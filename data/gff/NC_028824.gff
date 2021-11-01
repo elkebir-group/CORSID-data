@@ -1,0 +1,17 @@
+##sequence-region NC_028824.1 1 26975
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1503293
+NC_028824.1	RefSeq	region	1	26975	.	+	.	ID=NC_028824.1:1..26975;Dbxref=taxon:1503293;collection-date=2012;country=China;gbkey=Src;genome=genomic;isolate=BtRf-YN2012;mol_type=genomic RNA;nat-host=Rhinolophus ferrumequinum
+NC_028824.1	RefSeq	gene	135	20284	.	+	.	ID=gene-AVU56_gp1;Dbxref=GeneID:26628039;Name=AVU56_gp1;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AVU56_gp1
+NC_028824.1	RefSeq	CDS	135	12251	.	+	0	ID=cds-YP_009200734.1;Parent=gene-AVU56_gp1;Dbxref=Genbank:YP_009200734.1,GeneID:26628039;Name=YP_009200734.1;exception=ribosomal slippage;gbkey=CDS;locus_tag=AVU56_gp1;product=ORF1ab polyprotein;protein_id=YP_009200734.1
+NC_028824.1	RefSeq	CDS	12251	20284	.	+	0	ID=cds-YP_009200734.1;Parent=gene-AVU56_gp1;Dbxref=Genbank:YP_009200734.1,GeneID:26628039;Name=YP_009200734.1;exception=ribosomal slippage;gbkey=CDS;locus_tag=AVU56_gp1;product=ORF1ab polyprotein;protein_id=YP_009200734.1
+NC_028824.1	RefSeq	gene	20281	23679	.	+	.	ID=gene-AVU56_gp2;Dbxref=GeneID:26628034;Name=AVU56_gp2;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AVU56_gp2
+NC_028824.1	RefSeq	CDS	20281	23679	.	+	0	ID=cds-YP_009200735.1;Parent=gene-AVU56_gp2;Dbxref=Genbank:YP_009200735.1,GeneID:26628034;Name=YP_009200735.1;gbkey=CDS;locus_tag=AVU56_gp2;product=spike glycoprotein;protein_id=YP_009200735.1
+NC_028824.1	RefSeq	gene	23679	24368	.	+	.	ID=gene-AVU56_gp3;Dbxref=GeneID:26628035;Name=AVU56_gp3;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AVU56_gp3
+NC_028824.1	RefSeq	CDS	23679	24368	.	+	0	ID=cds-YP_009200736.1;Parent=gene-AVU56_gp3;Dbxref=Genbank:YP_009200736.1,GeneID:26628035;Name=YP_009200736.1;gbkey=CDS;locus_tag=AVU56_gp3;product=hypothetical protein ORF3;protein_id=YP_009200736.1
+NC_028824.1	RefSeq	gene	24349	24576	.	+	.	ID=gene-AVU56_gp4;Dbxref=GeneID:26628036;Name=AVU56_gp4;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AVU56_gp4
+NC_028824.1	RefSeq	CDS	24349	24576	.	+	0	ID=cds-YP_009200737.1;Parent=gene-AVU56_gp4;Dbxref=Genbank:YP_009200737.1,GeneID:26628036;Name=YP_009200737.1;gbkey=CDS;locus_tag=AVU56_gp4;product=small envelope protein;protein_id=YP_009200737.1
+NC_028824.1	RefSeq	gene	24585	25271	.	+	.	ID=gene-AVU56_gp5;Dbxref=GeneID:26628037;Name=AVU56_gp5;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AVU56_gp5
+NC_028824.1	RefSeq	CDS	24585	25271	.	+	0	ID=cds-YP_009200738.1;Parent=gene-AVU56_gp5;Dbxref=Genbank:YP_009200738.1,GeneID:26628037;Name=YP_009200738.1;gbkey=CDS;locus_tag=AVU56_gp5;product=membrane glycoprotein;protein_id=YP_009200738.1
+NC_028824.1	RefSeq	gene	25283	26410	.	+	.	ID=gene-AVU56_gp6;Dbxref=GeneID:26628038;Name=AVU56_gp6;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AVU56_gp6
+NC_028824.1	RefSeq	CDS	25283	26410	.	+	0	ID=cds-YP_009200739.1;Parent=gene-AVU56_gp6;Dbxref=Genbank:YP_009200739.1,GeneID:26628038;Name=YP_009200739.1;gbkey=CDS;locus_tag=AVU56_gp6;product=nucleocapsid protein;protein_id=YP_009200739.1
+

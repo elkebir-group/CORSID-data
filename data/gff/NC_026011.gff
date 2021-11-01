@@ -1,0 +1,25 @@
+##sequence-region NC_026011.1 1 31249
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1590370
+NC_026011.1	RefSeq	region	1	31249	.	+	.	ID=NC_026011.1:1..31249;Dbxref=taxon:1590370;collection-date=17-May-2012;country=China;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Rattus norvegicus (Norway rat);strain=HKU24-R05005I
+NC_026011.1	RefSeq	gene	213	21637	.	+	.	ID=gene-SF15_gp01;Dbxref=GeneID:22807888;Name=SF15_gp01;description=orf1ab;gbkey=Gene;gene_biotype=protein_coding;locus_tag=SF15_gp01
+NC_026011.1	RefSeq	CDS	213	13484	.	+	0	ID=cds-YP_009113022.1;Parent=gene-SF15_gp01;Dbxref=Genbank:YP_009113022.1,GeneID:22807888;Name=YP_009113022.1;exception=ribosomal slippage;gbkey=CDS;locus_tag=SF15_gp01;product=replicase polyprotein;protein_id=YP_009113022.1
+NC_026011.1	RefSeq	CDS	13484	21637	.	+	0	ID=cds-YP_009113022.1;Parent=gene-SF15_gp01;Dbxref=Genbank:YP_009113022.1,GeneID:22807888;Name=YP_009113022.1;exception=ribosomal slippage;gbkey=CDS;locus_tag=SF15_gp01;product=replicase polyprotein;protein_id=YP_009113022.1
+NC_026011.1	RefSeq	gene	21639	22469	.	+	.	ID=gene-SF15_gp02;Dbxref=GeneID:22807879;Name=SF15_gp02;description=NS2a;gbkey=Gene;gene_biotype=protein_coding;locus_tag=SF15_gp02
+NC_026011.1	RefSeq	CDS	21639	22469	.	+	0	ID=cds-YP_009113023.1;Parent=gene-SF15_gp02;Dbxref=Genbank:YP_009113023.1,GeneID:22807879;Name=YP_009113023.1;gbkey=CDS;locus_tag=SF15_gp02;product=non-structural protein NS2a;protein_id=YP_009113023.1
+NC_026011.1	RefSeq	gene	22484	23761	.	+	.	ID=gene-SF15_gp03;Dbxref=GeneID:22807880;Name=SF15_gp03;description=HE;gbkey=Gene;gene_biotype=protein_coding;locus_tag=SF15_gp03
+NC_026011.1	RefSeq	CDS	22484	23761	.	+	0	ID=cds-YP_009113024.1;Parent=gene-SF15_gp03;Dbxref=Genbank:YP_009113024.1,GeneID:22807880;Name=YP_009113024.1;gbkey=CDS;locus_tag=SF15_gp03;product=hemagglutinin-esterase protein;protein_id=YP_009113024.1
+NC_026011.1	RefSeq	gene	23777	27853	.	+	.	ID=gene-SF15_gp04;Dbxref=GeneID:22807881;Name=SF15_gp04;description=S;gbkey=Gene;gene_biotype=protein_coding;locus_tag=SF15_gp04
+NC_026011.1	RefSeq	CDS	23777	27853	.	+	0	ID=cds-YP_009113025.1;Parent=gene-SF15_gp04;Dbxref=Genbank:YP_009113025.1,GeneID:22807881;Name=YP_009113025.1;gbkey=CDS;locus_tag=SF15_gp04;product=spike glycoprotein;protein_id=YP_009113025.1
+NC_026011.1	RefSeq	gene	27946	28356	.	+	.	ID=gene-SF15_gp05;Dbxref=GeneID:22807882;Name=SF15_gp05;description=NS4;gbkey=Gene;gene_biotype=protein_coding;locus_tag=SF15_gp05
+NC_026011.1	RefSeq	CDS	27946	28356	.	+	0	ID=cds-YP_009113026.1;Parent=gene-SF15_gp05;Dbxref=Genbank:YP_009113026.1,GeneID:22807882;Name=YP_009113026.1;gbkey=CDS;locus_tag=SF15_gp05;product=non-structural protein NS4;protein_id=YP_009113026.1
+NC_026011.1	RefSeq	gene	28338	28652	.	+	.	ID=gene-SF15_gp06;Dbxref=GeneID:22807883;Name=SF15_gp06;description=NS5;gbkey=Gene;gene_biotype=protein_coding;locus_tag=SF15_gp06
+NC_026011.1	RefSeq	CDS	28338	28652	.	+	0	ID=cds-YP_009113027.1;Parent=gene-SF15_gp06;Dbxref=Genbank:YP_009113027.1,GeneID:22807883;Name=YP_009113027.1;gbkey=CDS;locus_tag=SF15_gp06;product=non-structural protein NS5;protein_id=YP_009113027.1
+NC_026011.1	RefSeq	gene	28645	28893	.	+	.	ID=gene-SF15_gp07;Dbxref=GeneID:22807884;Name=SF15_gp07;description=E;gbkey=Gene;gene_biotype=protein_coding;locus_tag=SF15_gp07
+NC_026011.1	RefSeq	CDS	28645	28893	.	+	0	ID=cds-YP_009113028.1;Parent=gene-SF15_gp07;Dbxref=Genbank:YP_009113028.1,GeneID:22807884;Name=YP_009113028.1;gbkey=CDS;locus_tag=SF15_gp07;product=envelope protein;protein_id=YP_009113028.1
+NC_026011.1	RefSeq	gene	28908	29603	.	+	.	ID=gene-SF15_gp08;Dbxref=GeneID:22807885;Name=SF15_gp08;description=M;gbkey=Gene;gene_biotype=protein_coding;locus_tag=SF15_gp08
+NC_026011.1	RefSeq	CDS	28908	29603	.	+	0	ID=cds-YP_009113029.1;Parent=gene-SF15_gp08;Dbxref=Genbank:YP_009113029.1,GeneID:22807885;Name=YP_009113029.1;gbkey=CDS;locus_tag=SF15_gp08;product=membrane protein;protein_id=YP_009113029.1
+NC_026011.1	RefSeq	gene	29596	30288	.	+	.	ID=gene-SF15_gp09;Dbxref=GeneID:22807886;Name=SF15_gp09;description=N2;gbkey=Gene;gene_biotype=protein_coding;locus_tag=SF15_gp09
+NC_026011.1	RefSeq	CDS	29596	30288	.	+	0	ID=cds-YP_009113030.1;Parent=gene-SF15_gp09;Dbxref=Genbank:YP_009113030.1,GeneID:22807886;Name=YP_009113030.1;gbkey=CDS;locus_tag=SF15_gp09;product=internal protein;protein_id=YP_009113030.1
+NC_026011.1	RefSeq	gene	29613	30944	.	+	.	ID=gene-SF15_gp10;Dbxref=GeneID:22807887;Name=SF15_gp10;description=N;gbkey=Gene;gene_biotype=protein_coding;locus_tag=SF15_gp10
+NC_026011.1	RefSeq	CDS	29613	30944	.	+	0	ID=cds-YP_009113031.1;Parent=gene-SF15_gp10;Dbxref=Genbank:YP_009113031.1,GeneID:22807887;Name=YP_009113031.1;gbkey=CDS;locus_tag=SF15_gp10;product=nucleocapsid protein;protein_id=YP_009113031.1
+

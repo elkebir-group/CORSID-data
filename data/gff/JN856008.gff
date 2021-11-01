@@ -1,0 +1,43 @@
+##sequence-region JN856008.2 1 29271
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11153
+JN856008.2	Genbank	region	1	29271	.	+	.	ID=JN856008.2:1..29271;Dbxref=taxon:11153;collection-date=1976;country=USA: Ithaca%2C NY;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Canis lupus familiaris;note=group 2 variant;strain=A76
+JN856008.2	Genbank	gene	277	20327	.	+	.	ID=gene-1ab;Name=1ab;gbkey=Gene;gene=1ab;gene_biotype=protein_coding
+JN856008.2	Genbank	CDS	277	12297	.	+	0	ID=cds-AEQ61967.2;Parent=gene-1ab;Dbxref=NCBI_GP:AEQ61967.2;Name=AEQ61967.2;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=ORF1ab polyprotein;protein_id=AEQ61967.2
+JN856008.2	Genbank	CDS	12297	20327	.	+	0	ID=cds-AEQ61967.2;Parent=gene-1ab;Dbxref=NCBI_GP:AEQ61967.2;Name=AEQ61967.2;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=ORF1ab polyprotein;protein_id=AEQ61967.2
+JN856008.2	Genbank	mature_protein_region_of_CDS	277	606	.	+	.	ID=id-AEQ61967.2:1..110;Parent=cds-AEQ61967.2;gbkey=Prot;gene=1ab;product=nsp1
+JN856008.2	Genbank	mature_protein_region_of_CDS	607	2913	.	+	.	ID=id-AEQ61967.2:111..879;Parent=cds-AEQ61967.2;gbkey=Prot;gene=1ab;product=nsp2
+JN856008.2	Genbank	mature_protein_region_of_CDS	2914	7437	.	+	.	ID=id-AEQ61967.2:880..2387;Parent=cds-AEQ61967.2;gbkey=Prot;gene=1ab;product=nsp3
+JN856008.2	Genbank	mature_protein_region_of_CDS	7438	8907	.	+	.	ID=id-AEQ61967.2:2388..2877;Parent=cds-AEQ61967.2;gbkey=Prot;gene=1ab;product=nsp4
+JN856008.2	Genbank	mature_protein_region_of_CDS	8908	9813	.	+	.	ID=id-AEQ61967.2:2878..3179;Parent=cds-AEQ61967.2;gbkey=Prot;gene=1ab;product=3C-like proteinase nsp5
+JN856008.2	Genbank	mature_protein_region_of_CDS	9814	10695	.	+	.	ID=id-AEQ61967.2:3180..3473;Parent=cds-AEQ61967.2;gbkey=Prot;gene=1ab;product=nsp6
+JN856008.2	Genbank	mature_protein_region_of_CDS	10696	10944	.	+	.	ID=id-AEQ61967.2:3474..3556;Parent=cds-AEQ61967.2;gbkey=Prot;gene=1ab;product=nsp7
+JN856008.2	Genbank	mature_protein_region_of_CDS	10945	11529	.	+	.	ID=id-AEQ61967.2:3557..3751;Parent=cds-AEQ61967.2;gbkey=Prot;gene=1ab;product=nsp8
+JN856008.2	Genbank	mature_protein_region_of_CDS	11530	11862	.	+	.	ID=id-AEQ61967.2:3752..3862;Parent=cds-AEQ61967.2;gbkey=Prot;gene=1ab;product=nsp9
+JN856008.2	Genbank	mature_protein_region_of_CDS	11863	12267	.	+	.	ID=id-AEQ61967.2:3863..3997;Parent=cds-AEQ61967.2;gbkey=Prot;gene=1ab;product=nsp10
+JN856008.2	Genbank	mature_protein_region_of_CDS	12268	12297	.	+	.	ID=id-AEQ61967.2:3998..4926;Parent=cds-AEQ61967.2;gbkey=Prot;gene=1ab;product=RNA-directed RNA polymerase nsp12
+JN856008.2	Genbank	mature_protein_region_of_CDS	12297	15053	.	+	.	ID=id-AEQ61967.2:3998..4926;Parent=cds-AEQ61967.2;gbkey=Prot;gene=1ab;product=RNA-directed RNA polymerase nsp12
+JN856008.2	Genbank	mature_protein_region_of_CDS	15054	16850	.	+	.	ID=id-AEQ61967.2:4927..5525;Parent=cds-AEQ61967.2;gbkey=Prot;product=helicase nsp13
+JN856008.2	Genbank	mature_protein_region_of_CDS	16851	18407	.	+	.	ID=id-AEQ61967.2:5526..6044;Parent=cds-AEQ61967.2;gbkey=Prot;product=exoribonuclease nsp14
+JN856008.2	Genbank	mature_protein_region_of_CDS	18408	19424	.	+	.	ID=id-AEQ61967.2:6045..6383;Parent=cds-AEQ61967.2;gbkey=Prot;product=uridylate-specific endoribonuclease nsp15
+JN856008.2	Genbank	mature_protein_region_of_CDS	19425	20324	.	+	.	ID=id-AEQ61967.2:6384..6683;Parent=cds-AEQ61967.2;gbkey=Prot;product=putative 2'-O-methyl transferase nsp16
+JN856008.2	Genbank	gene	277	12327	.	+	.	ID=gene-1a;Name=1a;gbkey=Gene;gene=1a;gene_biotype=protein_coding
+JN856008.2	Genbank	CDS	277	12327	.	+	0	ID=cds-AFX65759.1;Parent=gene-1a;Dbxref=NCBI_GP:AFX65759.1;Name=AFX65759.1;gbkey=CDS;gene=1a;product=ORF1a polyprotein;protein_id=AFX65759.1
+JN856008.2	Genbank	mature_protein_region_of_CDS	12268	12324	.	+	.	ID=id-AFX65759.1:3998..4016;Parent=cds-AFX65759.1;gbkey=Prot;gene=1a;product=nsp11
+JN856008.2	Genbank	gene	20324	24745	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+JN856008.2	Genbank	CDS	20324	24745	.	+	0	ID=cds-AEQ61968.1;Parent=gene-S;Dbxref=NCBI_GP:AEQ61968.1;Name=AEQ61968.1;gbkey=CDS;gene=S;product=spike protein;protein_id=AEQ61968.1
+JN856008.2	Genbank	gene	24814	25029	.	+	.	ID=gene-NS3a;Name=NS3a;gbkey=Gene;gene=NS3a;gene_biotype=protein_coding
+JN856008.2	Genbank	CDS	24814	25029	.	+	0	ID=cds-AEQ61969.2;Parent=gene-NS3a;Dbxref=NCBI_GP:AEQ61969.2;Name=AEQ61969.2;gbkey=CDS;gene=NS3a;product=non-structural protein 3a;protein_id=AEQ61969.2
+JN856008.2	Genbank	pseudogene	24974	25139	.	+	.	ID=gene-NS3b;Name=NS3b;Note=frameshift;description=non-structural protein 3b;gbkey=Gene;gene=NS3b;gene_biotype=pseudogene;pseudo=true;pseudogene=unitary
+JN856008.2	Genbank	gene	25136	25870	.	+	.	ID=gene-NS3c;Name=NS3c;gbkey=Gene;gene=NS3c;gene_biotype=protein_coding
+JN856008.2	Genbank	CDS	25136	25870	.	+	0	ID=cds-AEQ61970.1;Parent=gene-NS3c;Dbxref=NCBI_GP:AEQ61970.1;Name=AEQ61970.1;gbkey=CDS;gene=NS3c;product=non-structural protein 3c;protein_id=AEQ61970.1
+JN856008.2	Genbank	gene	25857	26105	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+JN856008.2	Genbank	CDS	25857	26105	.	+	0	ID=cds-AEQ61971.1;Parent=gene-E;Dbxref=NCBI_GP:AEQ61971.1;Name=AEQ61971.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=AEQ61971.1
+JN856008.2	Genbank	gene	26116	26901	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+JN856008.2	Genbank	CDS	26116	26901	.	+	0	ID=cds-AEQ61972.1;Parent=gene-M;Dbxref=NCBI_GP:AEQ61972.1;Name=AEQ61972.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=AEQ61972.1
+JN856008.2	Genbank	gene	26914	28062	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+JN856008.2	Genbank	CDS	26914	28062	.	+	0	ID=cds-AEQ61973.1;Parent=gene-N;Dbxref=NCBI_GP:AEQ61973.1;Name=AEQ61973.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=AEQ61973.1
+JN856008.2	Genbank	gene	28067	28372	.	+	.	ID=gene-NS7a;Name=NS7a;gbkey=Gene;gene=NS7a;gene_biotype=protein_coding
+JN856008.2	Genbank	CDS	28067	28372	.	+	0	ID=cds-AEQ61974.1;Parent=gene-NS7a;Dbxref=NCBI_GP:AEQ61974.1;Name=AEQ61974.1;gbkey=CDS;gene=NS7a;product=non-structural protein 7a;protein_id=AEQ61974.1
+JN856008.2	Genbank	gene	28377	29018	.	+	.	ID=gene-NS7b;Name=NS7b;gbkey=Gene;gene=NS7b;gene_biotype=protein_coding
+JN856008.2	Genbank	CDS	28377	29018	.	+	0	ID=cds-AEQ61975.1;Parent=gene-NS7b;Dbxref=NCBI_GP:AEQ61975.1;Name=AEQ61975.1;gbkey=CDS;gene=NS7b;product=non-structural protein 7b;protein_id=AEQ61975.1
+

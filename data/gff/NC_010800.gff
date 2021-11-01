@@ -1,0 +1,44 @@
+##sequence-region NC_010800.1 1 27657
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11152
+NC_010800.1	RefSeq	region	1	27657	.	+	.	ID=NC_010800.1:1..27657;Dbxref=taxon:11152;country=Canada;gbkey=Src;isolate=MG10;mol_type=genomic RNA;nat-host=turkey
+NC_010800.1	RefSeq	gene	529	20336	.	+	.	ID=gene-TCoV_gp01;Dbxref=GeneID:6353556;Name=1ab;gbkey=Gene;gene=1ab;gene_biotype=protein_coding;locus_tag=TCoV_gp01
+NC_010800.1	RefSeq	CDS	529	12354	.	+	0	ID=cds-YP_001941164.2;Parent=gene-TCoV_gp01;Dbxref=Genbank:YP_001941164.2,GeneID:6353556;Name=YP_001941164.2;Note=translated by ribosomal frameshift;exception=ribosomal slippage;gbkey=CDS;gene=1ab;locus_tag=TCoV_gp01;product=ORF1ab polyprotein;protein_id=YP_001941164.2
+NC_010800.1	RefSeq	CDS	12354	20336	.	+	0	ID=cds-YP_001941164.2;Parent=gene-TCoV_gp01;Dbxref=Genbank:YP_001941164.2,GeneID:6353556;Name=YP_001941164.2;Note=translated by ribosomal frameshift;exception=ribosomal slippage;gbkey=CDS;gene=1ab;locus_tag=TCoV_gp01;product=ORF1ab polyprotein;protein_id=YP_001941164.2
+NC_010800.1	RefSeq	mature_protein_region_of_CDS	529	2547	.	+	.	ID=id-YP_001941164.2:1..673;Parent=cds-YP_001941164.2;gbkey=Prot;product=NSP1/2;protein_id=YP_001941175.1
+NC_010800.1	RefSeq	mature_protein_region_of_CDS	2548	7323	.	+	.	ID=id-YP_001941164.2:674..2265;Parent=cds-YP_001941164.2;gbkey=Prot;product=NSP3;protein_id=YP_001941176.1
+NC_010800.1	RefSeq	mature_protein_region_of_CDS	7324	8865	.	+	.	ID=id-YP_001941164.2:2266..2779;Parent=cds-YP_001941164.2;gbkey=Prot;product=NSP4;protein_id=YP_001941177.1
+NC_010800.1	RefSeq	mature_protein_region_of_CDS	8866	9786	.	+	.	ID=id-YP_001941164.2:2780..3086;Parent=cds-YP_001941164.2;gbkey=Prot;product=NSP5;protein_id=YP_001941178.1
+NC_010800.1	RefSeq	mature_protein_region_of_CDS	9787	10665	.	+	.	ID=id-YP_001941164.2:3087..3379;Parent=cds-YP_001941164.2;gbkey=Prot;product=NSP6;protein_id=YP_001941179.1
+NC_010800.1	RefSeq	mature_protein_region_of_CDS	10666	10914	.	+	.	ID=id-YP_001941164.2:3380..3462;Parent=cds-YP_001941164.2;gbkey=Prot;product=NSP7;protein_id=YP_001941180.1
+NC_010800.1	RefSeq	mature_protein_region_of_CDS	10915	11544	.	+	.	ID=id-YP_001941164.2:3463..3672;Parent=cds-YP_001941164.2;gbkey=Prot;product=NSP8;protein_id=YP_001941181.1
+NC_010800.1	RefSeq	mature_protein_region_of_CDS	11545	11877	.	+	.	ID=id-YP_001941164.2:3673..3783;Parent=cds-YP_001941164.2;gbkey=Prot;product=NSP9;protein_id=YP_001941182.1
+NC_010800.1	RefSeq	mature_protein_region_of_CDS	11878	12312	.	+	.	ID=id-YP_001941164.2:3784..3928;Parent=cds-YP_001941164.2;gbkey=Prot;product=NSP10;protein_id=YP_001941183.1
+NC_010800.1	RefSeq	mature_protein_region_of_CDS	12313	12354	.	+	.	ID=id-YP_001941164.2:3929..4869;Parent=cds-YP_001941164.2;gbkey=Prot;product=NSP12;protein_id=YP_001941185.1
+NC_010800.1	RefSeq	mature_protein_region_of_CDS	12354	15134	.	+	.	ID=id-YP_001941164.2:3929..4869;Parent=cds-YP_001941164.2;gbkey=Prot;product=NSP12;protein_id=YP_001941185.1
+NC_010800.1	RefSeq	mature_protein_region_of_CDS	12313	12354	.	+	.	ID=id-YP_001941164.2:3929..3950;Parent=cds-YP_001941164.2;gbkey=Prot;product=NSP11;protein_id=YP_001941184.1
+NC_010800.1	RefSeq	mature_protein_region_of_CDS	12354	12377	.	+	.	ID=id-YP_001941164.2:3929..3950;Parent=cds-YP_001941164.2;gbkey=Prot;product=NSP11;protein_id=YP_001941184.1
+NC_010800.1	RefSeq	mature_protein_region_of_CDS	15135	16934	.	+	.	ID=id-YP_001941164.2:4870..5469;Parent=cds-YP_001941164.2;gbkey=Prot;product=NSP13;protein_id=YP_001941186.1
+NC_010800.1	RefSeq	mature_protein_region_of_CDS	16935	18488	.	+	.	ID=id-YP_001941164.2:5470..5987;Parent=cds-YP_001941164.2;gbkey=Prot;product=NSP14;protein_id=YP_001941187.1
+NC_010800.1	RefSeq	mature_protein_region_of_CDS	18489	19502	.	+	.	ID=id-YP_001941164.2:5988..6325;Parent=cds-YP_001941164.2;gbkey=Prot;product=NSP15;protein_id=YP_001941188.1
+NC_010800.1	RefSeq	mature_protein_region_of_CDS	19503	20333	.	+	.	ID=id-YP_001941164.2:6326..6602;Parent=cds-YP_001941164.2;gbkey=Prot;product=NSP16;protein_id=YP_001941189.1
+NC_010800.1	RefSeq	gene	529	12384	.	+	.	ID=gene-TCoV_gp02;Dbxref=GeneID:6353560;Name=1a;gbkey=Gene;gene=1a;gene_biotype=protein_coding;locus_tag=TCoV_gp02
+NC_010800.1	RefSeq	CDS	529	12384	.	+	0	ID=cds-YP_001941165.1;Parent=gene-TCoV_gp02;Dbxref=Genbank:YP_001941165.1,GeneID:6353560;Name=YP_001941165.1;gbkey=CDS;gene=1a;locus_tag=TCoV_gp02;product=ORF1a;protein_id=YP_001941165.1
+NC_010800.1	RefSeq	gene	20360	24040	.	+	.	ID=gene-TCoV_gp03;Dbxref=GeneID:6353553;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding;locus_tag=TCoV_gp03
+NC_010800.1	RefSeq	CDS	20360	24040	.	+	0	ID=cds-YP_001941166.1;Parent=gene-TCoV_gp03;Dbxref=Genbank:YP_001941166.1,GeneID:6353553;Name=YP_001941166.1;gbkey=CDS;gene=S;locus_tag=TCoV_gp03;product=spike protein;protein_id=YP_001941166.1
+NC_010800.1	RefSeq	gene	23988	24161	.	+	.	ID=gene-TCoV_gp04;Dbxref=GeneID:6353554;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding;locus_tag=TCoV_gp04
+NC_010800.1	RefSeq	CDS	23988	24161	.	+	0	ID=cds-YP_001941167.1;Parent=gene-TCoV_gp04;Dbxref=Genbank:YP_001941167.1,GeneID:6353554;Name=YP_001941167.1;gbkey=CDS;gene=3a;locus_tag=TCoV_gp04;product=3a protein;protein_id=YP_001941167.1
+NC_010800.1	RefSeq	gene	24161	24355	.	+	.	ID=gene-TCoV_gp05;Dbxref=GeneID:6353552;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding;locus_tag=TCoV_gp05
+NC_010800.1	RefSeq	CDS	24161	24355	.	+	0	ID=cds-YP_001941168.1;Parent=gene-TCoV_gp05;Dbxref=Genbank:YP_001941168.1,GeneID:6353552;Name=YP_001941168.1;gbkey=CDS;gene=3b;locus_tag=TCoV_gp05;product=3b protein;protein_id=YP_001941168.1
+NC_010800.1	RefSeq	gene	24336	24635	.	+	.	ID=gene-TCoV_gp06;Dbxref=GeneID:6353555;Name=3c;gbkey=Gene;gene=3c;gene_biotype=protein_coding;locus_tag=TCoV_gp06
+NC_010800.1	RefSeq	CDS	24336	24635	.	+	0	ID=cds-YP_001941169.1;Parent=gene-TCoV_gp06;Dbxref=Genbank:YP_001941169.1,GeneID:6353555;Name=YP_001941169.1;gbkey=CDS;gene=3c;locus_tag=TCoV_gp06;product=envelope protein;protein_id=YP_001941169.1
+NC_010800.1	RefSeq	gene	24637	25308	.	+	.	ID=gene-TCoV_gp07;Dbxref=GeneID:6353557;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding;locus_tag=TCoV_gp07
+NC_010800.1	RefSeq	CDS	24637	25308	.	+	0	ID=cds-YP_001941170.1;Parent=gene-TCoV_gp07;Dbxref=Genbank:YP_001941170.1,GeneID:6353557;Name=YP_001941170.1;gbkey=CDS;gene=M;locus_tag=TCoV_gp07;product=membrane protein;protein_id=YP_001941170.1
+NC_010800.1	RefSeq	gene	25309	25593	.	+	.	ID=gene-TCoV_gp08;Dbxref=GeneID:6353559;Name=ORFX;gbkey=Gene;gene=ORFX;gene_biotype=protein_coding;locus_tag=TCoV_gp08
+NC_010800.1	RefSeq	CDS	25309	25593	.	+	0	ID=cds-YP_001941171.1;Parent=gene-TCoV_gp08;Dbxref=Genbank:YP_001941171.1,GeneID:6353559;Name=YP_001941171.1;gbkey=CDS;gene=ORFX;locus_tag=TCoV_gp08;product=hypothetical protein;protein_id=YP_001941171.1
+NC_010800.1	RefSeq	gene	25669	25866	.	+	.	ID=gene-TCoV_gp09;Dbxref=GeneID:6353562;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding;locus_tag=TCoV_gp09
+NC_010800.1	RefSeq	CDS	25669	25866	.	+	0	ID=cds-YP_001941172.1;Parent=gene-TCoV_gp09;Dbxref=Genbank:YP_001941172.1,GeneID:6353562;Name=YP_001941172.1;gbkey=CDS;gene=5a;locus_tag=TCoV_gp09;product=5a protein;protein_id=YP_001941172.1
+NC_010800.1	RefSeq	gene	25863	26111	.	+	.	ID=gene-TCoV_gp10;Dbxref=GeneID:6353561;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding;locus_tag=TCoV_gp10
+NC_010800.1	RefSeq	CDS	25863	26111	.	+	0	ID=cds-YP_001941173.1;Parent=gene-TCoV_gp10;Dbxref=Genbank:YP_001941173.1,GeneID:6353561;Name=YP_001941173.1;gbkey=CDS;gene=5b;locus_tag=TCoV_gp10;product=5b protein;protein_id=YP_001941173.1
+NC_010800.1	RefSeq	gene	26054	27283	.	+	.	ID=gene-TCoV_gp11;Dbxref=GeneID:6353558;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding;locus_tag=TCoV_gp11
+NC_010800.1	RefSeq	CDS	26054	27283	.	+	0	ID=cds-YP_001941174.1;Parent=gene-TCoV_gp11;Dbxref=Genbank:YP_001941174.1,GeneID:6353558;Name=YP_001941174.1;gbkey=CDS;gene=N;locus_tag=TCoV_gp11;product=nucleocapsid protein;protein_id=YP_001941174.1
+

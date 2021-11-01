@@ -1,0 +1,23 @@
+##sequence-region KX236015.1 1 27672
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+KX236015.1	Genbank	region	1	27672	.	+	.	ID=KX236015.1:1..27672;Dbxref=taxon:11120;collection-date=Jul-2014;country=China;gbkey=Src;genome=genomic;genotype=LX4;mol_type=genomic RNA;nat-host=Gallus gallus;strain=ck/CH/LDL/140709
+KX236015.1	Genbank	gene	526	20417	.	+	.	ID=gene-1ab;Name=1ab;gbkey=Gene;gene=1ab;gene_biotype=protein_coding
+KX236015.1	Genbank	CDS	526	12354	.	+	0	ID=cds-APY26869.1;Parent=gene-1ab;Dbxref=NCBI_GP:APY26869.1;Name=APY26869.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=ORF1ab;protein_id=APY26869.1
+KX236015.1	Genbank	CDS	12354	20417	.	+	0	ID=cds-APY26869.1;Parent=gene-1ab;Dbxref=NCBI_GP:APY26869.1;Name=APY26869.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=ORF1ab;protein_id=APY26869.1
+KX236015.1	Genbank	gene	20368	23865	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KX236015.1	Genbank	CDS	20368	23865	.	+	0	ID=cds-APY26870.1;Parent=gene-S;Dbxref=NCBI_GP:APY26870.1;Name=APY26870.1;gbkey=CDS;gene=S;product=S protein;protein_id=APY26870.1
+KX236015.1	Genbank	gene	23865	24038	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+KX236015.1	Genbank	CDS	23865	24038	.	+	0	ID=cds-APY26871.1;Parent=gene-3a;Dbxref=NCBI_GP:APY26871.1;Name=APY26871.1;gbkey=CDS;gene=3a;product=ORF3a;protein_id=APY26871.1
+KX236015.1	Genbank	gene	24038	24226	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+KX236015.1	Genbank	CDS	24038	24226	.	+	0	ID=cds-APY26872.1;Parent=gene-3b;Dbxref=NCBI_GP:APY26872.1;Name=APY26872.1;gbkey=CDS;gene=3b;product=ORF3b;protein_id=APY26872.1
+KX236015.1	Genbank	gene	24213	24539	.	+	.	ID=gene-3c;Name=3c;gbkey=Gene;gene=3c;gene_biotype=protein_coding
+KX236015.1	Genbank	CDS	24213	24539	.	+	0	ID=cds-APY26873.1;Parent=gene-3c;Dbxref=NCBI_GP:APY26873.1;Name=APY26873.1;gbkey=CDS;gene=3c;product=ORF3c;protein_id=APY26873.1
+KX236015.1	Genbank	gene	24511	25188	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KX236015.1	Genbank	CDS	24511	25188	.	+	0	ID=cds-APY26874.1;Parent=gene-M;Dbxref=NCBI_GP:APY26874.1;Name=APY26874.1;gbkey=CDS;gene=M;product=M protein;protein_id=APY26874.1
+KX236015.1	Genbank	gene	25542	25739	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+KX236015.1	Genbank	CDS	25542	25739	.	+	0	ID=cds-APY26875.1;Parent=gene-5a;Dbxref=NCBI_GP:APY26875.1;Name=APY26875.1;gbkey=CDS;gene=5a;product=ORF5a;protein_id=APY26875.1
+KX236015.1	Genbank	gene	25736	25984	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+KX236015.1	Genbank	CDS	25736	25984	.	+	0	ID=cds-APY26876.1;Parent=gene-5b;Dbxref=NCBI_GP:APY26876.1;Name=APY26876.1;gbkey=CDS;gene=5b;product=ORF5b;protein_id=APY26876.1
+KX236015.1	Genbank	gene	25927	27156	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KX236015.1	Genbank	CDS	25927	27156	.	+	0	ID=cds-APY26877.1;Parent=gene-N;Dbxref=NCBI_GP:APY26877.1;Name=APY26877.1;gbkey=CDS;gene=N;product=N protein;protein_id=APY26877.1
+

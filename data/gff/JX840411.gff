@@ -1,0 +1,30 @@
+##sequence-region JX840411.1 1 27674
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+JX840411.1	Genbank	region	1	27674	.	+	.	ID=JX840411.1:1..27674;Dbxref=taxon:11120;collection-date=Oct-2010;country=China;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=chicken;strain=YX10
+JX840411.1	Genbank	gene	526	12387	.	+	.	ID=gene-1a;Name=1a;gbkey=Gene;gene=1a;gene_biotype=protein_coding
+JX840411.1	Genbank	CDS	526	12387	.	+	0	ID=cds-AFX59325.1;Parent=gene-1a;Dbxref=NCBI_GP:AFX59325.1;Name=AFX59325.1;gbkey=CDS;gene=1a;product=1a polyprotein;protein_id=AFX59325.1
+JX840411.1	Genbank	gene	12462	20420	.	+	.	ID=gene-1b;Name=1b;gbkey=Gene;gene=1b;gene_biotype=protein_coding
+JX840411.1	Genbank	CDS	12462	20420	.	+	0	ID=cds-AFX59326.1;Parent=gene-1b;Dbxref=NCBI_GP:AFX59326.1;Name=AFX59326.1;gbkey=CDS;gene=1b;product=1b polyprotein;protein_id=AFX59326.1
+JX840411.1	Genbank	gene	20371	23841	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+JX840411.1	Genbank	CDS	20371	23841	.	+	0	ID=cds-AFX59327.1;Parent=gene-S;Dbxref=NCBI_GP:AFX59327.1;Name=AFX59327.1;gbkey=CDS;gene=S;product=spike glycoprotein;protein_id=AFX59327.1
+JX840411.1	Genbank	gene	23868	24041	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+JX840411.1	Genbank	CDS	23868	24041	.	+	0	ID=cds-AFX59328.1;Parent=gene-3a;Dbxref=NCBI_GP:AFX59328.1;Name=AFX59328.1;gbkey=CDS;gene=3a;product=3a protein;protein_id=AFX59328.1
+JX840411.1	Genbank	gene	24041	24229	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+JX840411.1	Genbank	CDS	24041	24229	.	+	0	ID=cds-AFX59329.1;Parent=gene-3b;Dbxref=NCBI_GP:AFX59329.1;Name=AFX59329.1;gbkey=CDS;gene=3b;product=3b protein;protein_id=AFX59329.1
+JX840411.1	Genbank	gene	24216	24542	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+JX840411.1	Genbank	CDS	24216	24542	.	+	0	ID=cds-AFX59330.1;Parent=gene-E;Dbxref=NCBI_GP:AFX59330.1;Name=AFX59330.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=AFX59330.1
+JX840411.1	Genbank	gene	24514	25191	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+JX840411.1	Genbank	CDS	24514	25191	.	+	0	ID=cds-AFX59331.1;Parent=gene-M;Dbxref=NCBI_GP:AFX59331.1;Name=AFX59331.1;gbkey=CDS;gene=M;product=membrane glycoprotein;protein_id=AFX59331.1
+JX840411.1	Genbank	gene	25192	25476	.	+	.	ID=gene-4b;Name=4b;gbkey=Gene;gene=4b;gene_biotype=protein_coding
+JX840411.1	Genbank	CDS	25192	25476	.	+	0	ID=cds-AFX59332.1;Parent=gene-4b;Dbxref=NCBI_GP:AFX59332.1;Name=AFX59332.1;gbkey=CDS;gene=4b;product=4b protein;protein_id=AFX59332.1
+JX840411.1	Genbank	gene	25397	25558	.	+	.	ID=gene-4c;Name=4c;gbkey=Gene;gene=4c;gene_biotype=protein_coding
+JX840411.1	Genbank	CDS	25397	25558	.	+	0	ID=cds-AFX59333.1;Parent=gene-4c;Dbxref=NCBI_GP:AFX59333.1;Name=AFX59333.1;gbkey=CDS;gene=4c;product=4c protein;protein_id=AFX59333.1
+JX840411.1	Genbank	gene	25555	25752	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+JX840411.1	Genbank	CDS	25555	25752	.	+	0	ID=cds-AFX59334.1;Parent=gene-5a;Dbxref=NCBI_GP:AFX59334.1;Name=AFX59334.1;gbkey=CDS;gene=5a;product=5a protein;protein_id=AFX59334.1
+JX840411.1	Genbank	gene	25749	25997	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+JX840411.1	Genbank	CDS	25749	25997	.	+	0	ID=cds-AFX59335.1;Parent=gene-5b;Dbxref=NCBI_GP:AFX59335.1;Name=AFX59335.1;gbkey=CDS;gene=5b;product=5b protein;protein_id=AFX59335.1
+JX840411.1	Genbank	gene	25940	27169	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+JX840411.1	Genbank	CDS	25940	27169	.	+	0	ID=cds-AFX59336.1;Parent=gene-N;Dbxref=NCBI_GP:AFX59336.1;Name=AFX59336.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=AFX59336.1
+JX840411.1	Genbank	gene	27178	27399	.	+	.	ID=gene-6b;Name=6b;gbkey=Gene;gene=6b;gene_biotype=protein_coding
+JX840411.1	Genbank	CDS	27178	27399	.	+	0	ID=cds-AFX59337.1;Parent=gene-6b;Dbxref=NCBI_GP:AFX59337.1;Name=AFX59337.1;gbkey=CDS;gene=6b;product=6b protein;protein_id=AFX59337.1
+

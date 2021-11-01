@@ -1,0 +1,20 @@
+##sequence-region DQ811787.1 1 27550
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=398815
+DQ811787.1	Genbank	region	1	27550	.	+	.	ID=DQ811787.1:1..27550;Dbxref=taxon:398815;acronym=PRCV;country=USA:Indiana;gbkey=Src;mol_type=genomic RNA;nat-host=pig;note=total 18 passages in ST;strain=ISU-1
+DQ811787.1	Genbank	gene	304	12348	.	+	.	ID=gene-138.1;Name=138.1;gbkey=Gene;gene_biotype=protein_coding;locus_tag=138.1
+DQ811787.1	Genbank	CDS	304	12348	.	+	0	ID=cds-ABG89316.1;Parent=gene-138.1;Dbxref=NCBI_GP:ABG89316.1;Name=ABG89316.1;gbkey=CDS;locus_tag=138.1;product=replicase 1a;protein_id=ABG89316.1
+DQ811787.1	Genbank	gene	12306	20348	.	+	.	ID=gene-138.2;Name=138.2;gbkey=Gene;gene_biotype=protein_coding;locus_tag=138.2;partial=true;start_range=.,12306
+DQ811787.1	Genbank	CDS	12306	20348	.	+	0	ID=cds-ABG89318.1;Parent=gene-138.2;Dbxref=NCBI_GP:ABG89318.1;Name=ABG89318.1;gbkey=CDS;locus_tag=138.2;partial=true;product=replicase 1b;protein_id=ABG89318.1;start_range=.,12306
+DQ811787.1	Genbank	gene	20345	24013	.	+	.	ID=gene-138.3;Name=138.3;gbkey=Gene;gene_biotype=protein_coding;locus_tag=138.3
+DQ811787.1	Genbank	CDS	20345	24013	.	+	0	ID=cds-ABG89317.1;Parent=gene-138.3;Dbxref=NCBI_GP:ABG89317.1;Name=ABG89317.1;gbkey=CDS;locus_tag=138.3;product=spike protein;protein_id=ABG89317.1
+DQ811787.1	Genbank	gene	24220	24837	.	+	.	ID=gene-138.4;Name=138.4;gbkey=Gene;gene_biotype=protein_coding;locus_tag=138.4
+DQ811787.1	Genbank	CDS	24220	24837	.	+	0	ID=cds-ABG89311.1;Parent=gene-138.4;Dbxref=NCBI_GP:ABG89311.1;Name=ABG89311.1;gbkey=CDS;locus_tag=138.4;product=non-structural protein 3b;protein_id=ABG89311.1
+DQ811787.1	Genbank	gene	24824	25072	.	+	.	ID=gene-138.5;Name=138.5;gbkey=Gene;gene_biotype=protein_coding;locus_tag=138.5
+DQ811787.1	Genbank	CDS	24824	25072	.	+	0	ID=cds-ABG89314.1;Parent=gene-138.5;Dbxref=NCBI_GP:ABG89314.1;Name=ABG89314.1;gbkey=CDS;locus_tag=138.5;product=envelope protein;protein_id=ABG89314.1
+DQ811787.1	Genbank	gene	25083	25868	.	+	.	ID=gene-138.6;Name=138.6;gbkey=Gene;gene_biotype=protein_coding;locus_tag=138.6
+DQ811787.1	Genbank	CDS	25083	25868	.	+	0	ID=cds-ABG89312.1;Parent=gene-138.6;Dbxref=NCBI_GP:ABG89312.1;Name=ABG89312.1;gbkey=CDS;locus_tag=138.6;product=membrane protein;protein_id=ABG89312.1
+DQ811787.1	Genbank	gene	25881	27029	.	+	.	ID=gene-138.7;Name=138.7;gbkey=Gene;gene_biotype=protein_coding;locus_tag=138.7
+DQ811787.1	Genbank	CDS	25881	27029	.	+	0	ID=cds-ABG89315.1;Parent=gene-138.7;Dbxref=NCBI_GP:ABG89315.1;Name=ABG89315.1;gbkey=CDS;locus_tag=138.7;product=nucleoprotein;protein_id=ABG89315.1
+DQ811787.1	Genbank	gene	27035	27271	.	+	.	ID=gene-138.8;Name=138.8;gbkey=Gene;gene_biotype=protein_coding;locus_tag=138.8
+DQ811787.1	Genbank	CDS	27035	27271	.	+	0	ID=cds-ABG89313.1;Parent=gene-138.8;Dbxref=NCBI_GP:ABG89313.1;Name=ABG89313.1;gbkey=CDS;locus_tag=138.8;product=non-structural protein 7;protein_id=ABG89313.1
+

@@ -1,0 +1,15 @@
+##sequence-region KJ473816.1 1 29142
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1503303
+KJ473816.1	Genbank	region	1	29142	.	+	.	ID=KJ473816.1:1..29142;Dbxref=taxon:1503303;collection-date=2013;country=China;gbkey=Src;genome=genomic;isolate=BtRs-YN2013;mol_type=genomic RNA;nat-host=Rhinolophus sinicus
+KJ473816.1	Genbank	CDS	30	13163	.	+	0	ID=cds-AIA62329.1;Dbxref=NCBI_GP:AIA62329.1;Name=AIA62329.1;exception=ribosomal slippage;gbkey=CDS;product=ORF1ab polyprotein;protein_id=AIA62329.1
+KJ473816.1	Genbank	CDS	13163	21250	.	+	0	ID=cds-AIA62329.1;Dbxref=NCBI_GP:AIA62329.1;Name=AIA62329.1;exception=ribosomal slippage;gbkey=CDS;product=ORF1ab polyprotein;protein_id=AIA62329.1
+KJ473816.1	Genbank	CDS	21257	24958	.	+	0	ID=cds-AIA62330.1;Dbxref=NCBI_GP:AIA62330.1;Name=AIA62330.1;gbkey=CDS;product=spike glycoprotein;protein_id=AIA62330.1
+KJ473816.1	Genbank	CDS	24968	25792	.	+	0	ID=cds-AIA62331.1;Dbxref=NCBI_GP:AIA62331.1;Name=AIA62331.1;gbkey=CDS;product=hypothetical protein ORF3;protein_id=AIA62331.1
+KJ473816.1	Genbank	CDS	25817	26047	.	+	0	ID=cds-AIA62332.1;Dbxref=NCBI_GP:AIA62332.1;Name=AIA62332.1;gbkey=CDS;product=small envelope protein;protein_id=AIA62332.1
+KJ473816.1	Genbank	CDS	26098	26763	.	+	0	ID=cds-AIA62333.1;Dbxref=NCBI_GP:AIA62333.1;Name=AIA62333.1;gbkey=CDS;product=membrane glycoprotein;protein_id=AIA62333.1
+KJ473816.1	Genbank	CDS	26774	26926	.	+	0	ID=cds-AIA62334.1;Dbxref=NCBI_GP:AIA62334.1;Name=AIA62334.1;gbkey=CDS;product=hypothetical protein ORF6;protein_id=AIA62334.1
+KJ473816.1	Genbank	CDS	26973	27341	.	+	0	ID=cds-AIA62335.1;Dbxref=NCBI_GP:AIA62335.1;Name=AIA62335.1;gbkey=CDS;product=hypothetical protein ORF7a;protein_id=AIA62335.1
+KJ473816.1	Genbank	CDS	27338	27472	.	+	0	ID=cds-AIA62336.1;Dbxref=NCBI_GP:AIA62336.1;Name=AIA62336.1;gbkey=CDS;product=hypothetical protein ORF7b;protein_id=AIA62336.1
+KJ473816.1	Genbank	CDS	27479	27847	.	+	0	ID=cds-AIA62337.1;Dbxref=NCBI_GP:AIA62337.1;Name=AIA62337.1;gbkey=CDS;product=hypothetical protein ORF8;protein_id=AIA62337.1
+KJ473816.1	Genbank	CDS	27849	29117	.	+	0	ID=cds-AIA62338.1;Dbxref=NCBI_GP:AIA62338.1;Name=AIA62338.1;gbkey=CDS;product=nucleocapsid protein;protein_id=AIA62338.1
+

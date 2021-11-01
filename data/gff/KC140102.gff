@@ -1,0 +1,11 @@
+##sequence-region KC140102.1 1 28038
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=28295
+KC140102.1	Genbank	region	1	28038	.	+	.	ID=KC140102.1:1..28038;Dbxref=taxon:28295;collection-date=20-Aug-2012;country=China;gb-acronym=PEDV;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=pig;strain=CH/FJZZ-9/2012
+KC140102.1	Genbank	CDS	293	12601	.	+	0	ID=cds-AGK89913.1;Dbxref=NCBI_GP:AGK89913.1;Name=AGK89913.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein;protein_id=AGK89913.1
+KC140102.1	Genbank	CDS	12601	20637	.	+	0	ID=cds-AGK89913.1;Dbxref=NCBI_GP:AGK89913.1;Name=AGK89913.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein;protein_id=AGK89913.1
+KC140102.1	Genbank	CDS	20634	24794	.	+	0	ID=cds-AGK89914.1;Dbxref=NCBI_GP:AGK89914.1;Name=AGK89914.1;gbkey=CDS;product=spike protein;protein_id=AGK89914.1
+KC140102.1	Genbank	CDS	24794	25468	.	+	0	ID=cds-AGK89915.1;Dbxref=NCBI_GP:AGK89915.1;Name=AGK89915.1;gbkey=CDS;product=hypothetical protein;protein_id=AGK89915.1
+KC140102.1	Genbank	CDS	25449	25679	.	+	0	ID=cds-AGK89916.1;Dbxref=NCBI_GP:AGK89916.1;Name=AGK89916.1;gbkey=CDS;product=envelop protein;protein_id=AGK89916.1
+KC140102.1	Genbank	CDS	25687	26367	.	+	0	ID=cds-AGK89917.1;Dbxref=NCBI_GP:AGK89917.1;Name=AGK89917.1;gbkey=CDS;product=membrane protein;protein_id=AGK89917.1
+KC140102.1	Genbank	CDS	26379	27704	.	+	0	ID=cds-AGK89918.1;Dbxref=NCBI_GP:AGK89918.1;Name=AGK89918.1;gbkey=CDS;product=nucleocapsid protein;protein_id=AGK89918.1
+

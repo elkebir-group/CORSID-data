@@ -1,0 +1,14 @@
+##sequence-region KY421672.1 1 27679
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+KY421672.1	Genbank	region	1	27679	.	+	.	ID=KY421672.1:1..27679;Dbxref=taxon:11120;collection-date=2012;country=China;gbkey=Src;genome=genomic;genotype=QX-like;isolate=SZ;mol_type=genomic RNA;nat-host=chicken
+KY421672.1	Genbank	CDS	527	12388	.	+	0	ID=cds-ATJ01091.1;Dbxref=NCBI_GP:ATJ01091.1;Name=ATJ01091.1;gbkey=CDS;product=1a polyprotein;protein_id=ATJ01091.1
+KY421672.1	Genbank	CDS	12463	20421	.	+	0	ID=cds-ATJ01092.1;Dbxref=NCBI_GP:ATJ01092.1;Name=ATJ01092.1;gbkey=CDS;product=1b polyprotein;protein_id=ATJ01092.1
+KY421672.1	Genbank	CDS	20372	23869	.	+	0	ID=cds-ATJ01093.1;Dbxref=NCBI_GP:ATJ01093.1;Name=ATJ01093.1;gbkey=CDS;product=spike glycoprotein;protein_id=ATJ01093.1
+KY421672.1	Genbank	CDS	23869	24042	.	+	0	ID=cds-ATJ01094.1;Dbxref=NCBI_GP:ATJ01094.1;Name=ATJ01094.1;gbkey=CDS;product=3a protein;protein_id=ATJ01094.1
+KY421672.1	Genbank	CDS	24042	24230	.	+	0	ID=cds-ATJ01095.1;Dbxref=NCBI_GP:ATJ01095.1;Name=ATJ01095.1;gbkey=CDS;product=3b protein;protein_id=ATJ01095.1
+KY421672.1	Genbank	CDS	24217	24543	.	+	0	ID=cds-ATJ01096.1;Dbxref=NCBI_GP:ATJ01096.1;Name=ATJ01096.1;gbkey=CDS;product=envelope protein;protein_id=ATJ01096.1
+KY421672.1	Genbank	CDS	24515	25192	.	+	0	ID=cds-ATJ01097.1;Dbxref=NCBI_GP:ATJ01097.1;Name=ATJ01097.1;gbkey=CDS;product=membrane glycoprotein;protein_id=ATJ01097.1
+KY421672.1	Genbank	CDS	25556	25753	.	+	0	ID=cds-ATJ01098.1;Dbxref=NCBI_GP:ATJ01098.1;Name=ATJ01098.1;gbkey=CDS;product=5a protein;protein_id=ATJ01098.1
+KY421672.1	Genbank	CDS	25750	25998	.	+	0	ID=cds-ATJ01099.1;Dbxref=NCBI_GP:ATJ01099.1;Name=ATJ01099.1;gbkey=CDS;product=5b protein;protein_id=ATJ01099.1
+KY421672.1	Genbank	CDS	25941	27170	.	+	0	ID=cds-ATJ01100.1;Dbxref=NCBI_GP:ATJ01100.1;Name=ATJ01100.1;gbkey=CDS;product=nucleocapsid protein;protein_id=ATJ01100.1
+

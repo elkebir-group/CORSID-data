@@ -1,0 +1,11 @@
+##sequence-region KJ473796.1 1 28311
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1503288
+KJ473796.1	Genbank	region	1	28311	.	+	.	ID=KJ473796.1:1..28311;Dbxref=taxon:1503288;collection-date=2012;country=China;gbkey=Src;genome=genomic;isolate=BtMf-JX2012;mol_type=genomic RNA;nat-host=Miniopterus fuliginosus
+KJ473796.1	Genbank	CDS	274	13047	.	+	0	ID=cds-AIA62205.1;Dbxref=NCBI_GP:AIA62205.1;Name=AIA62205.1;exception=ribosomal slippage;gbkey=CDS;product=ORF1ab polyprotein;protein_id=AIA62205.1
+KJ473796.1	Genbank	CDS	13047	21068	.	+	0	ID=cds-AIA62205.1;Dbxref=NCBI_GP:AIA62205.1;Name=AIA62205.1;exception=ribosomal slippage;gbkey=CDS;product=ORF1ab polyprotein;protein_id=AIA62205.1
+KJ473796.1	Genbank	CDS	21070	25200	.	+	0	ID=cds-AIA62206.1;Dbxref=NCBI_GP:AIA62206.1;Name=AIA62206.1;gbkey=CDS;product=spike glycoprotein;protein_id=AIA62206.1
+KJ473796.1	Genbank	CDS	25200	25859	.	+	0	ID=cds-AIA62207.1;Dbxref=NCBI_GP:AIA62207.1;Name=AIA62207.1;gbkey=CDS;product=hypothetical protein ORF3;protein_id=AIA62207.1
+KJ473796.1	Genbank	CDS	25853	26077	.	+	0	ID=cds-AIA62208.1;Dbxref=NCBI_GP:AIA62208.1;Name=AIA62208.1;gbkey=CDS;product=small envelope protein;protein_id=AIA62208.1
+KJ473796.1	Genbank	CDS	26084	26842	.	+	0	ID=cds-AIA62209.1;Dbxref=NCBI_GP:AIA62209.1;Name=AIA62209.1;gbkey=CDS;product=membrane glycoprotein;protein_id=AIA62209.1
+KJ473796.1	Genbank	CDS	26863	28032	.	+	0	ID=cds-AIA62210.1;Dbxref=NCBI_GP:AIA62210.1;Name=AIA62210.1;gbkey=CDS;product=nucleocapsid protein;protein_id=AIA62210.1
+

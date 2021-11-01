@@ -1,0 +1,15 @@
+##sequence-region NC_032730.1 1 28763
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1508224
+NC_032730.1	RefSeq	region	1	28763	.	+	.	ID=NC_032730.1:1..28763;Dbxref=taxon:1508224;collection-date=2013;country=China;gbkey=Src;genome=genomic;isolate=Lucheng-19;mol_type=genomic RNA;nat-host=Rattus norvegicus
+NC_032730.1	RefSeq	gene	332	20580	.	+	.	ID=gene-BWV08_gp1;Dbxref=GeneID:30853696;Name=BWV08_gp1;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BWV08_gp1
+NC_032730.1	RefSeq	CDS	332	12538	.	+	0	ID=cds-YP_009336483.1;Parent=gene-BWV08_gp1;Dbxref=Genbank:YP_009336483.1,GeneID:30853696;Name=YP_009336483.1;exception=ribosomal slippage;gbkey=CDS;locus_tag=BWV08_gp1;product=orf1ab polyprotein;protein_id=YP_009336483.1
+NC_032730.1	RefSeq	CDS	12538	20580	.	+	0	ID=cds-YP_009336483.1;Parent=gene-BWV08_gp1;Dbxref=Genbank:YP_009336483.1,GeneID:30853696;Name=YP_009336483.1;exception=ribosomal slippage;gbkey=CDS;locus_tag=BWV08_gp1;product=orf1ab polyprotein;protein_id=YP_009336483.1
+NC_032730.1	RefSeq	gene	21412	24816	.	+	.	ID=gene-BWV08_gp2;Dbxref=GeneID:30853692;Name=BWV08_gp2;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BWV08_gp2
+NC_032730.1	RefSeq	CDS	21412	24816	.	+	0	ID=cds-YP_009336484.1;Parent=gene-BWV08_gp2;Dbxref=Genbank:YP_009336484.1,GeneID:30853692;Name=YP_009336484.1;gbkey=CDS;locus_tag=BWV08_gp2;product=spike glycoprotein;protein_id=YP_009336484.1
+NC_032730.1	RefSeq	gene	25457	25693	.	+	.	ID=gene-BWV08_gp3;Dbxref=GeneID:30853693;Name=BWV08_gp3;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BWV08_gp3
+NC_032730.1	RefSeq	CDS	25457	25693	.	+	0	ID=cds-YP_009336485.1;Parent=gene-BWV08_gp3;Dbxref=Genbank:YP_009336485.1,GeneID:30853693;Name=YP_009336485.1;gbkey=CDS;locus_tag=BWV08_gp3;product=envelope protein;protein_id=YP_009336485.1
+NC_032730.1	RefSeq	gene	25703	26449	.	+	.	ID=gene-BWV08_gp4;Dbxref=GeneID:30853694;Name=BWV08_gp4;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BWV08_gp4
+NC_032730.1	RefSeq	CDS	25703	26449	.	+	0	ID=cds-YP_009336486.1;Parent=gene-BWV08_gp4;Dbxref=Genbank:YP_009336486.1,GeneID:30853694;Name=YP_009336486.1;gbkey=CDS;locus_tag=BWV08_gp4;product=membrane protein;protein_id=YP_009336486.1
+NC_032730.1	RefSeq	gene	26974	28149	.	+	.	ID=gene-BWV08_gp5;Dbxref=GeneID:30853695;Name=BWV08_gp5;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BWV08_gp5
+NC_032730.1	RefSeq	CDS	26974	28149	.	+	0	ID=cds-YP_009336487.1;Parent=gene-BWV08_gp5;Dbxref=Genbank:YP_009336487.1,GeneID:30853695;Name=YP_009336487.1;gbkey=CDS;locus_tag=BWV08_gp5;product=nucleocapsid protein;protein_id=YP_009336487.1
+

@@ -1,0 +1,25 @@
+##sequence-region MK907286.1 1 29951
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2664184
+MK907286.1	Genbank	region	1	29951	.	+	.	ID=MK907286.1:1..29951;Dbxref=taxon:2664184;collection-date=Aug-2014;country=China;gbkey=Src;genome=genomic;isolation-source=Alimentary sample;mol_type=genomic RNA;nat-host=Erinaceus amurensis;strain=F6
+MK907286.1	Genbank	gene	244	21497	.	+	.	ID=gene-orf1ab;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding
+MK907286.1	Genbank	CDS	244	13416	.	+	0	ID=cds-QGA70691.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:QGA70691.1;Name=QGA70691.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=replicase polyprotein 1ab;protein_id=QGA70691.1
+MK907286.1	Genbank	CDS	13416	21497	.	+	0	ID=cds-QGA70691.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:QGA70691.1;Name=QGA70691.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=replicase polyprotein 1ab;protein_id=QGA70691.1
+MK907286.1	Genbank	gene	21442	25425	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MK907286.1	Genbank	CDS	21442	25425	.	+	0	ID=cds-QGA70692.1;Parent=gene-S;Dbxref=NCBI_GP:QGA70692.1;Name=QGA70692.1;gbkey=CDS;gene=S;product=spike glycoprotein;protein_id=QGA70692.1
+MK907286.1	Genbank	gene	25441	25752	.	+	.	ID=gene-orf3;Name=orf3;gbkey=Gene;gene=orf3;gene_biotype=protein_coding
+MK907286.1	Genbank	CDS	25441	25752	.	+	0	ID=cds-QGA70693.1;Parent=gene-orf3;Dbxref=NCBI_GP:QGA70693.1;Name=QGA70693.1;gbkey=CDS;gene=orf3;product=hypothetical protein;protein_id=QGA70693.1
+MK907286.1	Genbank	gene	25667	25957	.	+	.	ID=gene-orf4a;Name=orf4a;gbkey=Gene;gene=orf4a;gene_biotype=protein_coding
+MK907286.1	Genbank	CDS	25667	25957	.	+	0	ID=cds-QGA70694.1;Parent=gene-orf4a;Dbxref=NCBI_GP:QGA70694.1;Name=QGA70694.1;gbkey=CDS;gene=orf4a;product=hypothetical protein;protein_id=QGA70694.1
+MK907286.1	Genbank	gene	25947	26624	.	+	.	ID=gene-orf4b;Name=orf4b;gbkey=Gene;gene=orf4b;gene_biotype=protein_coding
+MK907286.1	Genbank	CDS	25947	26624	.	+	0	ID=cds-QGA70695.1;Parent=gene-orf4b;Dbxref=NCBI_GP:QGA70695.1;Name=QGA70695.1;gbkey=CDS;gene=orf4b;product=hypothetical protein;protein_id=QGA70695.1
+MK907286.1	Genbank	gene	26634	27320	.	+	.	ID=gene-orf5;Name=orf5;gbkey=Gene;gene=orf5;gene_biotype=protein_coding
+MK907286.1	Genbank	CDS	26634	27320	.	+	0	ID=cds-QGA70696.1;Parent=gene-orf5;Dbxref=NCBI_GP:QGA70696.1;Name=QGA70696.1;gbkey=CDS;gene=orf5;product=hypothetical protein;protein_id=QGA70696.1
+MK907286.1	Genbank	gene	27395	27643	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MK907286.1	Genbank	CDS	27395	27643	.	+	0	ID=cds-QGA70697.1;Parent=gene-E;Dbxref=NCBI_GP:QGA70697.1;Name=QGA70697.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=QGA70697.1
+MK907286.1	Genbank	gene	27654	28310	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MK907286.1	Genbank	CDS	27654	28310	.	+	0	ID=cds-QGA70698.1;Parent=gene-M;Dbxref=NCBI_GP:QGA70698.1;Name=QGA70698.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=QGA70698.1
+MK907286.1	Genbank	gene	28365	29648	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MK907286.1	Genbank	CDS	28365	29648	.	+	0	ID=cds-QGA70699.1;Parent=gene-N;Dbxref=NCBI_GP:QGA70699.1;Name=QGA70699.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=QGA70699.1
+MK907286.1	Genbank	gene	28411	28977	.	+	.	ID=gene-orf8b;Name=orf8b;gbkey=Gene;gene=orf8b;gene_biotype=protein_coding
+MK907286.1	Genbank	CDS	28411	28977	.	+	0	ID=cds-QGA70700.1;Parent=gene-orf8b;Dbxref=NCBI_GP:QGA70700.1;Name=QGA70700.1;gbkey=CDS;gene=orf8b;product=hypothetical protein;protein_id=QGA70700.1
+

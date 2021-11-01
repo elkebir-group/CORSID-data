@@ -1,0 +1,11 @@
+##sequence-region KX981440.1 1 28124
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=28295
+KX981440.1	Genbank	region	1	28124	.	+	.	ID=KX981440.1:1..28124;Dbxref=taxon:28295;collection-date=May-2016;country=China;gb-acronym=PEDV;gbkey=Src;genome=genomic;isolate=CH/HNZZ47/2016;isolation-source=feces;mol_type=genomic RNA;nat-host=pig
+KX981440.1	Genbank	CDS	284	12592	.	+	0	ID=cds-APH81305.1;Dbxref=NCBI_GP:APH81305.1;Name=APH81305.1;Note=1a polyprotein;exception=ribosomal slippage;gbkey=CDS;product=polyprotein;protein_id=APH81305.1
+KX981440.1	Genbank	CDS	12592	20628	.	+	0	ID=cds-APH81305.1;Dbxref=NCBI_GP:APH81305.1;Name=APH81305.1;Note=1a polyprotein;exception=ribosomal slippage;gbkey=CDS;product=polyprotein;protein_id=APH81305.1
+KX981440.1	Genbank	CDS	20625	24779	.	+	0	ID=cds-APH81306.1;Dbxref=NCBI_GP:APH81306.1;Name=APH81306.1;gbkey=CDS;product=spike protein;protein_id=APH81306.1
+KX981440.1	Genbank	CDS	24779	25453	.	+	0	ID=cds-APH81307.1;Dbxref=NCBI_GP:APH81307.1;Name=APH81307.1;gbkey=CDS;product=hypothetical protein;protein_id=APH81307.1
+KX981440.1	Genbank	CDS	25434	25664	.	+	0	ID=cds-APH81308.1;Dbxref=NCBI_GP:APH81308.1;Name=APH81308.1;gbkey=CDS;product=envelope protein;protein_id=APH81308.1
+KX981440.1	Genbank	CDS	25672	26352	.	+	0	ID=cds-APH81309.1;Dbxref=NCBI_GP:APH81309.1;Name=APH81309.1;gbkey=CDS;product=membrane protein;protein_id=APH81309.1
+KX981440.1	Genbank	CDS	26364	27689	.	+	0	ID=cds-APH81310.1;Dbxref=NCBI_GP:APH81310.1;Name=APH81310.1;gbkey=CDS;product=nucleocapsid protein;protein_id=APH81310.1
+

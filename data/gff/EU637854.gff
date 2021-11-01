@@ -1,0 +1,26 @@
+##sequence-region EU637854.1 1 27638
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+EU637854.1	Genbank	region	1	27638	.	+	.	ID=EU637854.1:1..27638;Dbxref=taxon:11120;country=China;gbkey=Src;mol_type=genomic RNA;old-name=Avian infectious bronchitis virus;strain=CK/CH/LSD/05I
+EU637854.1	Genbank	gene	530	20391	.	+	.	ID=gene-1;Name=1;gbkey=Gene;gene=1;gene_biotype=protein_coding
+EU637854.1	Genbank	CDS	530	12328	.	+	0	ID=cds-ACC94324.1;Parent=gene-1;Dbxref=NCBI_GP:ACC94324.1;Name=ACC94324.1;Note=contains RNA-dependent RNA polymerase;exception=ribosomal slippage;gbkey=CDS;gene=1;product=1ab polyprotein;protein_id=ACC94324.1
+EU637854.1	Genbank	CDS	12328	20391	.	+	0	ID=cds-ACC94324.1;Parent=gene-1;Dbxref=NCBI_GP:ACC94324.1;Name=ACC94324.1;Note=contains RNA-dependent RNA polymerase;exception=ribosomal slippage;gbkey=CDS;gene=1;product=1ab polyprotein;protein_id=ACC94324.1
+EU637854.1	Genbank	gene	530	12358	.	+	.	ID=gene-1a;Name=1a;gbkey=Gene;gene=1a;gene_biotype=protein_coding
+EU637854.1	Genbank	CDS	530	12358	.	+	0	ID=cds-ACC94325.1;Parent=gene-1a;Dbxref=NCBI_GP:ACC94325.1;Name=ACC94325.1;gbkey=CDS;gene=1a;product=1a protein;protein_id=ACC94325.1
+EU637854.1	Genbank	gene	20342	23833	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+EU637854.1	Genbank	CDS	20342	23833	.	+	0	ID=cds-ACC94326.1;Parent=gene-S;Dbxref=NCBI_GP:ACC94326.1;Name=ACC94326.1;gbkey=CDS;gene=S;product=S protein;protein_id=ACC94326.1
+EU637854.1	Genbank	gene	23833	23991	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+EU637854.1	Genbank	CDS	23833	23991	.	+	0	ID=cds-ACC94327.1;Parent=gene-3a;Dbxref=NCBI_GP:ACC94327.1;Name=ACC94327.1;gbkey=CDS;gene=3a;product=3a protein;protein_id=ACC94327.1
+EU637854.1	Genbank	gene	23991	24182	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+EU637854.1	Genbank	CDS	23991	24182	.	+	0	ID=cds-ACC94328.1;Parent=gene-3b;Dbxref=NCBI_GP:ACC94328.1;Name=ACC94328.1;gbkey=CDS;gene=3b;product=3b;protein_id=ACC94328.1
+EU637854.1	Genbank	gene	24166	24495	.	+	.	ID=gene-3c;Name=3c;gbkey=Gene;gene=3c;gene_biotype=protein_coding
+EU637854.1	Genbank	CDS	24166	24495	.	+	0	ID=cds-ACC94329.1;Parent=gene-3c;Dbxref=NCBI_GP:ACC94329.1;Name=ACC94329.1;gbkey=CDS;gene=3c;product=E protein;protein_id=ACC94329.1
+EU637854.1	Genbank	gene	24467	25144	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+EU637854.1	Genbank	CDS	24467	25144	.	+	0	ID=cds-ACC94330.1;Parent=gene-M;Dbxref=NCBI_GP:ACC94330.1;Name=ACC94330.1;gbkey=CDS;gene=M;product=M protein;protein_id=ACC94330.1
+EU637854.1	Genbank	gene	25504	25701	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+EU637854.1	Genbank	CDS	25504	25701	.	+	0	ID=cds-ACC94331.1;Parent=gene-5a;Dbxref=NCBI_GP:ACC94331.1;Name=ACC94331.1;gbkey=CDS;gene=5a;product=5a protein;protein_id=ACC94331.1
+EU637854.1	Genbank	gene	25698	25946	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+EU637854.1	Genbank	CDS	25698	25946	.	+	0	ID=cds-ACC94332.1;Parent=gene-5b;Dbxref=NCBI_GP:ACC94332.1;Name=ACC94332.1;gbkey=CDS;gene=5b;product=5b protein;protein_id=ACC94332.1
+EU637854.1	Genbank	gene	25889	27118	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+EU637854.1	Genbank	CDS	25889	27118	.	+	0	ID=cds-ACC94333.1;Parent=gene-N;Dbxref=NCBI_GP:ACC94333.1;Name=ACC94333.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=ACC94333.1
+EU637854.1	Genbank	three_prime_UTR	27119	27638	.	+	.	ID=id-EU637854.1:27119..27638;gbkey=3'UTR
+

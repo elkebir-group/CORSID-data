@@ -1,0 +1,31 @@
+##sequence-region KP849472.1 1 30004
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=693997
+KP849472.1	Genbank	region	1	30004	.	+	.	ID=KP849472.1:1..30004;Dbxref=taxon:693997;collection-date=2003;country=Italy;gbkey=Src;genome=genomic;genotype=type I;isolation-source=feces;mol_type=genomic RNA;strain=23/03
+KP849472.1	Genbank	five_prime_UTR	1	313	.	+	.	ID=id-KP849472.1:1..313;gbkey=5'UTR
+KP849472.1	Genbank	gene	314	20358	.	+	.	ID=gene-ORF1ab;Name=ORF1ab;gbkey=Gene;gene=ORF1ab;gene_biotype=protein_coding
+KP849472.1	Genbank	CDS	314	12327	.	+	0	ID=cds-AKZ66481.1;Parent=gene-ORF1ab;Dbxref=NCBI_GP:AKZ66481.1;Name=AKZ66481.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;product=ORF1ab polyprotein;protein_id=AKZ66481.1
+KP849472.1	Genbank	CDS	12327	20358	.	+	1	ID=cds-AKZ66481.1;Parent=gene-ORF1ab;Dbxref=NCBI_GP:AKZ66481.1;Name=AKZ66481.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;product=ORF1ab polyprotein;protein_id=AKZ66481.1
+KP849472.1	Genbank	gene	314	12358	.	+	.	ID=gene-ORF1a;Name=ORF1a;gbkey=Gene;gene=ORF1a;gene_biotype=protein_coding
+KP849472.1	Genbank	CDS	314	12358	.	+	0	ID=cds-AKZ66470.1;Parent=gene-ORF1a;Dbxref=NCBI_GP:AKZ66470.1;Name=AKZ66470.1;gbkey=CDS;gene=ORF1a;product=ORF1a;protein_id=AKZ66470.1
+KP849472.1	Genbank	gene	20359	24804	.	+	.	ID=gene-ORF2;Name=ORF2;description=S gene;gbkey=Gene;gene=ORF2;gene_biotype=protein_coding
+KP849472.1	Genbank	CDS	20359	24804	.	+	0	ID=cds-AKZ66476.1;Parent=gene-ORF2;Dbxref=NCBI_GP:AKZ66476.1;Name=AKZ66476.1;gbkey=CDS;gene=ORF2;product=spike protein;protein_id=AKZ66476.1
+KP849472.1	Genbank	gene	24812	25435	.	+	.	ID=gene-ORF3;Name=ORF3;gbkey=Gene;gene=ORF3;gene_biotype=protein_coding
+KP849472.1	Genbank	CDS	24812	25435	.	+	0	ID=cds-AKZ66471.1;Parent=gene-ORF3;Dbxref=NCBI_GP:AKZ66471.1;Name=AKZ66471.1;gbkey=CDS;gene=ORF3;product=nonstructural protein;protein_id=AKZ66471.1
+KP849472.1	Genbank	gene	25447	25683	.	+	.	ID=gene-ORF3a;Name=ORF3a;gbkey=Gene;gene=ORF3a;gene_biotype=protein_coding
+KP849472.1	Genbank	CDS	25447	25683	.	+	0	ID=cds-AKZ66472.1;Parent=gene-ORF3a;Dbxref=NCBI_GP:AKZ66472.1;Name=AKZ66472.1;gbkey=CDS;gene=ORF3a;product=nonstructural protein;protein_id=AKZ66472.1
+KP849472.1	Genbank	gene	25628	25843	.	+	.	ID=gene-ORF3b;Name=ORF3b;gbkey=Gene;gene=ORF3b;gene_biotype=protein_coding
+KP849472.1	Genbank	CDS	25628	25843	.	+	0	ID=cds-AKZ66473.1;Parent=gene-ORF3b;Dbxref=NCBI_GP:AKZ66473.1;Name=AKZ66473.1;gbkey=CDS;gene=ORF3b;product=nonstructural protein;protein_id=AKZ66473.1
+KP849472.1	Genbank	gene	25840	26595	.	+	.	ID=gene-ORF3c;Name=ORF3c;gbkey=Gene;gene=ORF3c;gene_biotype=protein_coding
+KP849472.1	Genbank	CDS	25840	26595	.	+	0	ID=cds-AKZ66474.1;Parent=gene-ORF3c;Dbxref=NCBI_GP:AKZ66474.1;Name=AKZ66474.1;gbkey=CDS;gene=ORF3c;product=nonstructural protein;protein_id=AKZ66474.1
+KP849472.1	Genbank	gene	26561	26809	.	+	.	ID=gene-ORF4;Name=ORF4;description=E gene;gbkey=Gene;gene=ORF4;gene_biotype=protein_coding
+KP849472.1	Genbank	CDS	26561	26809	.	+	0	ID=cds-AKZ66478.1;Parent=gene-ORF4;Dbxref=NCBI_GP:AKZ66478.1;Name=AKZ66478.1;gbkey=CDS;gene=ORF4;product=small envelope protein;protein_id=AKZ66478.1
+KP849472.1	Genbank	gene	26820	27614	.	+	.	ID=gene-ORF5;Name=ORF5;description=M gene;gbkey=Gene;gene=ORF5;gene_biotype=protein_coding
+KP849472.1	Genbank	CDS	26820	27614	.	+	0	ID=cds-AKZ66477.1;Parent=gene-ORF5;Dbxref=NCBI_GP:AKZ66477.1;Name=AKZ66477.1;gbkey=CDS;gene=ORF5;product=membrane protein;protein_id=AKZ66477.1
+KP849472.1	Genbank	gene	27627	28769	.	+	.	ID=gene-ORF6;Name=ORF6;description=N gene;gbkey=Gene;gene=ORF6;gene_biotype=protein_coding
+KP849472.1	Genbank	CDS	27627	28769	.	+	0	ID=cds-AKZ66475.1;Parent=gene-ORF6;Dbxref=NCBI_GP:AKZ66475.1;Name=AKZ66475.1;gbkey=CDS;gene=ORF6;product=nucleocapsid protein;protein_id=AKZ66475.1
+KP849472.1	Genbank	gene	28774	29079	.	+	.	ID=gene-ORF7a;Name=ORF7a;gbkey=Gene;gene=ORF7a;gene_biotype=protein_coding
+KP849472.1	Genbank	CDS	28774	29079	.	+	0	ID=cds-AKZ66479.1;Parent=gene-ORF7a;Dbxref=NCBI_GP:AKZ66479.1;Name=AKZ66479.1;gbkey=CDS;gene=ORF7a;product=nonstructural protein;protein_id=AKZ66479.1
+KP849472.1	Genbank	gene	29084	29725	.	+	.	ID=gene-ORF7b;Name=ORF7b;gbkey=Gene;gene=ORF7b;gene_biotype=protein_coding
+KP849472.1	Genbank	CDS	29084	29725	.	+	0	ID=cds-AKZ66480.1;Parent=gene-ORF7b;Dbxref=NCBI_GP:AKZ66480.1;Name=AKZ66480.1;gbkey=CDS;gene=ORF7b;product=nonstructural protein;protein_id=AKZ66480.1
+KP849472.1	Genbank	three_prime_UTR	29726	30004	.	+	.	ID=id-KP849472.1:29726..30004;gbkey=3'UTR
+

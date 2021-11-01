@@ -1,0 +1,11 @@
+##sequence-region MH687941.1 1 28008
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1906673
+MH687941.1	Genbank	region	1	28008	.	+	.	ID=MH687941.1:1..28008;Dbxref=taxon:1906673;collection-date=17-Jun-2014;country=Viet Nam;gbkey=Src;mol_type=genomic RNA;nat-host=Scotophilus kuhlii;strain=VZ_AlphaCoV_16715_47_c1
+MH687941.1	Genbank	CDS	265	12621	.	+	0	ID=cds-AYR18441.1;Dbxref=NCBI_GP:AYR18441.1;Name=AYR18441.1;exception=ribosomal slippage;gbkey=CDS;product=replicase polyprotein;protein_id=AYR18441.1
+MH687941.1	Genbank	CDS	12621	20615	.	+	0	ID=cds-AYR18441.1;Dbxref=NCBI_GP:AYR18441.1;Name=AYR18441.1;exception=ribosomal slippage;gbkey=CDS;product=replicase polyprotein;protein_id=AYR18441.1
+MH687941.1	Genbank	CDS	20612	24730	.	+	0	ID=cds-AYR18442.1;Dbxref=NCBI_GP:AYR18442.1;Name=AYR18442.1;gbkey=CDS;product=spike glycoprotein;protein_id=AYR18442.1
+MH687941.1	Genbank	CDS	24730	25404	.	+	0	ID=cds-AYR18443.1;Dbxref=NCBI_GP:AYR18443.1;Name=AYR18443.1;gbkey=CDS;product=orf3;protein_id=AYR18443.1
+MH687941.1	Genbank	CDS	25385	25615	.	+	0	ID=cds-AYR18444.1;Dbxref=NCBI_GP:AYR18444.1;Name=AYR18444.1;gbkey=CDS;product=envelope protein;protein_id=AYR18444.1
+MH687941.1	Genbank	CDS	25622	26308	.	+	0	ID=cds-AYR18445.1;Dbxref=NCBI_GP:AYR18445.1;Name=AYR18445.1;gbkey=CDS;product=matrix protein;protein_id=AYR18445.1
+MH687941.1	Genbank	CDS	26319	27503	.	+	0	ID=cds-AYR18446.1;Dbxref=NCBI_GP:AYR18446.1;Name=AYR18446.1;gbkey=CDS;product=nucleocapsid protein;protein_id=AYR18446.1
+

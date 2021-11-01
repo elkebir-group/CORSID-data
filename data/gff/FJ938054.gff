@@ -1,0 +1,14 @@
+##sequence-region FJ938054.1 1 29269
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=454952
+FJ938054.1	Genbank	region	1	29269	.	+	.	ID=FJ938054.1:1..29269;Dbxref=taxon:454952;collection-date=02-Feb-2007;country=Netherlands: Utrecht;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=cat;strain=UU4
+FJ938054.1	Genbank	CDS	312	12359	.	+	0	ID=cds-ACT10886.1;Dbxref=NCBI_GP:ACT10886.1;Name=ACT10886.1;exception=ribosomal slippage;gbkey=CDS;product=orf1ab polyprotein;protein_id=ACT10886.1
+FJ938054.1	Genbank	CDS	12359	20401	.	+	0	ID=cds-ACT10886.1;Dbxref=NCBI_GP:ACT10886.1;Name=ACT10886.1;exception=ribosomal slippage;gbkey=CDS;product=orf1ab polyprotein;protein_id=ACT10886.1
+FJ938054.1	Genbank	CDS	312	12401	.	+	0	ID=cds-ACT10885.1;Dbxref=NCBI_GP:ACT10885.1;Name=ACT10885.1;gbkey=CDS;product=orf1a polyprotein;protein_id=ACT10885.1
+FJ938054.1	Genbank	CDS	20398	24795	.	+	0	ID=cds-ACT10887.1;Dbxref=NCBI_GP:ACT10887.1;Name=ACT10887.1;gbkey=CDS;product=spike protein;protein_id=ACT10887.1
+FJ938054.1	Genbank	CDS	25180	25890	.	+	0	ID=cds-ACT10888.1;Dbxref=NCBI_GP:ACT10888.1;Name=ACT10888.1;gbkey=CDS;product=non-structural protein 3c;protein_id=ACT10888.1
+FJ938054.1	Genbank	CDS	25877	26125	.	+	0	ID=cds-ACT10889.1;Dbxref=NCBI_GP:ACT10889.1;Name=ACT10889.1;gbkey=CDS;product=envelope protein;protein_id=ACT10889.1
+FJ938054.1	Genbank	CDS	26136	26924	.	+	0	ID=cds-ACT10890.1;Dbxref=NCBI_GP:ACT10890.1;Name=ACT10890.1;gbkey=CDS;product=membrane protein;protein_id=ACT10890.1
+FJ938054.1	Genbank	CDS	26937	28061	.	+	0	ID=cds-ACT10891.1;Dbxref=NCBI_GP:ACT10891.1;Name=ACT10891.1;gbkey=CDS;product=nucleocapsid protein;protein_id=ACT10891.1
+FJ938054.1	Genbank	CDS	28066	28371	.	+	0	ID=cds-ACT10892.1;Dbxref=NCBI_GP:ACT10892.1;Name=ACT10892.1;gbkey=CDS;product=non-structural protein 7a;protein_id=ACT10892.1
+FJ938054.1	Genbank	CDS	28376	28996	.	+	0	ID=cds-ACT10893.1;Dbxref=NCBI_GP:ACT10893.1;Name=ACT10893.1;gbkey=CDS;product=non-structural protein 7b;protein_id=ACT10893.1
+

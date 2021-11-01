@@ -1,0 +1,11 @@
+##sequence-region KP765609.1 1 28056
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=28295
+KP765609.1	Genbank	region	1	28056	.	+	.	ID=KP765609.1:1..28056;Dbxref=taxon:28295;collection-date=Jul-2013;country=China;gb-acronym=PEDV;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=porcine;strain=FL2013
+KP765609.1	Genbank	CDS	293	12601	.	+	0	ID=cds-AKO90054.1;Dbxref=NCBI_GP:AKO90054.1;Name=AKO90054.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein;protein_id=AKO90054.1
+KP765609.1	Genbank	CDS	12601	20637	.	+	0	ID=cds-AKO90054.1;Dbxref=NCBI_GP:AKO90054.1;Name=AKO90054.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein;protein_id=AKO90054.1
+KP765609.1	Genbank	CDS	20634	24770	.	+	0	ID=cds-AKO90055.1;Dbxref=NCBI_GP:AKO90055.1;Name=AKO90055.1;gbkey=CDS;product=spike protein;protein_id=AKO90055.1
+KP765609.1	Genbank	CDS	24800	25474	.	+	0	ID=cds-AKO90056.1;Dbxref=NCBI_GP:AKO90056.1;Name=AKO90056.1;gbkey=CDS;product=hypothetical protein;protein_id=AKO90056.1
+KP765609.1	Genbank	CDS	25455	25685	.	+	0	ID=cds-AKO90057.1;Dbxref=NCBI_GP:AKO90057.1;Name=AKO90057.1;gbkey=CDS;product=envelope protein;protein_id=AKO90057.1
+KP765609.1	Genbank	CDS	25693	26373	.	+	0	ID=cds-AKO90058.1;Dbxref=NCBI_GP:AKO90058.1;Name=AKO90058.1;gbkey=CDS;product=membrane protein;protein_id=AKO90058.1
+KP765609.1	Genbank	CDS	26385	27710	.	+	0	ID=cds-AKO90059.1;Dbxref=NCBI_GP:AKO90059.1;Name=AKO90059.1;gbkey=CDS;product=nucleocapsid protein;protein_id=AKO90059.1
+

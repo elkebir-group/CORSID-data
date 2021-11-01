@@ -1,0 +1,23 @@
+##sequence-region KC506155.1 1 27648
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+KC506155.1	Genbank	region	1	27648	.	+	.	ID=KC506155.1:1..27648;Dbxref=taxon:11120;collection-date=10-Oct-2011;country=China;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=chicken;strain=ck/CH/LJL/111054
+KC506155.1	Genbank	gene	529	20426	.	+	.	ID=gene-ORF1ab;Name=ORF1ab;gbkey=Gene;gene=ORF1ab;gene_biotype=protein_coding
+KC506155.1	Genbank	CDS	529	12390	.	+	0	ID=cds-AGJ98436.1;Parent=gene-ORF1ab;Dbxref=NCBI_GP:AGJ98436.1;Name=AGJ98436.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;product=ORF1ab;protein_id=AGJ98436.1
+KC506155.1	Genbank	CDS	12393	20426	.	+	0	ID=cds-AGJ98436.1;Parent=gene-ORF1ab;Dbxref=NCBI_GP:AGJ98436.1;Name=AGJ98436.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;product=ORF1ab;protein_id=AGJ98436.1
+KC506155.1	Genbank	gene	20377	23856	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KC506155.1	Genbank	CDS	20377	23856	.	+	0	ID=cds-AGJ98437.1;Parent=gene-S;Dbxref=NCBI_GP:AGJ98437.1;Name=AGJ98437.1;gbkey=CDS;gene=S;product=S protein;protein_id=AGJ98437.1
+KC506155.1	Genbank	gene	23856	24029	.	+	.	ID=gene-ORF3a;Name=ORF3a;gbkey=Gene;gene=ORF3a;gene_biotype=protein_coding
+KC506155.1	Genbank	CDS	23856	24029	.	+	0	ID=cds-AGJ98438.1;Parent=gene-ORF3a;Dbxref=NCBI_GP:AGJ98438.1;Name=AGJ98438.1;gbkey=CDS;gene=ORF3a;product=ORF3a;protein_id=AGJ98438.1
+KC506155.1	Genbank	gene	24029	24223	.	+	.	ID=gene-ORF3b;Name=ORF3b;gbkey=Gene;gene=ORF3b;gene_biotype=protein_coding
+KC506155.1	Genbank	CDS	24029	24223	.	+	0	ID=cds-AGJ98439.1;Parent=gene-ORF3b;Dbxref=NCBI_GP:AGJ98439.1;Name=AGJ98439.1;gbkey=CDS;gene=ORF3b;product=ORF3b;protein_id=AGJ98439.1
+KC506155.1	Genbank	gene	24204	24527	.	+	.	ID=gene-ORF3c;Name=ORF3c;gbkey=Gene;gene=ORF3c;gene_biotype=protein_coding
+KC506155.1	Genbank	CDS	24204	24527	.	+	0	ID=cds-AGJ98440.1;Parent=gene-ORF3c;Dbxref=NCBI_GP:AGJ98440.1;Name=AGJ98440.1;gbkey=CDS;gene=ORF3c;product=ORF3c;protein_id=AGJ98440.1
+KC506155.1	Genbank	gene	24505	25176	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KC506155.1	Genbank	CDS	24505	25176	.	+	0	ID=cds-AGJ98441.1;Parent=gene-M;Dbxref=NCBI_GP:AGJ98441.1;Name=AGJ98441.1;gbkey=CDS;gene=M;product=M protein;protein_id=AGJ98441.1
+KC506155.1	Genbank	gene	25536	25733	.	+	.	ID=gene-ORF5a;Name=ORF5a;gbkey=Gene;gene=ORF5a;gene_biotype=protein_coding
+KC506155.1	Genbank	CDS	25536	25733	.	+	0	ID=cds-AGJ98442.1;Parent=gene-ORF5a;Dbxref=NCBI_GP:AGJ98442.1;Name=AGJ98442.1;gbkey=CDS;gene=ORF5a;product=ORF5a;protein_id=AGJ98442.1
+KC506155.1	Genbank	gene	25730	25978	.	+	.	ID=gene-ORF5b;Name=ORF5b;gbkey=Gene;gene=ORF5b;gene_biotype=protein_coding
+KC506155.1	Genbank	CDS	25730	25978	.	+	0	ID=cds-AGJ98443.1;Parent=gene-ORF5b;Dbxref=NCBI_GP:AGJ98443.1;Name=AGJ98443.1;gbkey=CDS;gene=ORF5b;product=ORF5b;protein_id=AGJ98443.1
+KC506155.1	Genbank	gene	25921	27150	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KC506155.1	Genbank	CDS	25921	27150	.	+	0	ID=cds-AGJ98444.1;Parent=gene-N;Dbxref=NCBI_GP:AGJ98444.1;Name=AGJ98444.1;gbkey=CDS;gene=N;product=N protein;protein_id=AGJ98444.1
+

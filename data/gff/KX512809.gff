@@ -1,0 +1,20 @@
+##sequence-region KX512809.1 1 28151
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=741336
+KX512809.1	Genbank	region	1	28151	.	+	.	ID=KX512809.1:1..28151;Dbxref=taxon:741336;collected-by=Michigan State University;collection-date=2015;country=USA: Michigan;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=ferret;strain=FECV1
+KX512809.1	Genbank	gene	235	11874	.	+	.	ID=gene-orf1a;Name=orf1a;gbkey=Gene;gene=orf1a;gene_biotype=protein_coding
+KX512809.1	Genbank	CDS	235	11874	.	+	0	ID=cds-ASR18936.1;Parent=gene-orf1a;Dbxref=NCBI_GP:ASR18936.1;Name=ASR18936.1;gbkey=CDS;gene=orf1a;product=pp1a;protein_id=ASR18936.1
+KX512809.1	Genbank	gene	12097	19866	.	+	.	ID=gene-orf1ab;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding
+KX512809.1	Genbank	CDS	12097	19866	.	+	0	ID=cds-ASR18937.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:ASR18937.1;Name=ASR18937.1;gbkey=CDS;gene=orf1ab;product=pp1ab;protein_id=ASR18937.1
+KX512809.1	Genbank	gene	19859	24223	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KX512809.1	Genbank	CDS	19859	24223	.	+	0	ID=cds-ASR18938.1;Parent=gene-S;Dbxref=NCBI_GP:ASR18938.1;Name=ASR18938.1;gbkey=CDS;gene=S;product=spike protein;protein_id=ASR18938.1
+KX512809.1	Genbank	gene	24244	24987	.	+	.	ID=gene-orf3;Name=orf3;gbkey=Gene;gene=orf3;gene_biotype=protein_coding
+KX512809.1	Genbank	CDS	24244	24987	.	+	0	ID=cds-ASR18939.1;Parent=gene-orf3;Dbxref=NCBI_GP:ASR18939.1;Name=ASR18939.1;gbkey=CDS;gene=orf3;product=hypothetical protein;protein_id=ASR18939.1
+KX512809.1	Genbank	gene	24956	25204	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+KX512809.1	Genbank	CDS	24956	25204	.	+	0	ID=cds-ASR18940.1;Parent=gene-E;Dbxref=NCBI_GP:ASR18940.1;Name=ASR18940.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=ASR18940.1
+KX512809.1	Genbank	gene	25219	26001	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KX512809.1	Genbank	CDS	25219	26001	.	+	0	ID=cds-ASR18941.1;Parent=gene-M;Dbxref=NCBI_GP:ASR18941.1;Name=ASR18941.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=ASR18941.1
+KX512809.1	Genbank	gene	26018	27142	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KX512809.1	Genbank	CDS	26018	27142	.	+	0	ID=cds-ASR18942.1;Parent=gene-N;Dbxref=NCBI_GP:ASR18942.1;Name=ASR18942.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=ASR18942.1
+KX512809.1	Genbank	gene	27314	27928	.	+	.	ID=gene-orf7b;Name=orf7b;gbkey=Gene;gene=orf7b;gene_biotype=protein_coding
+KX512809.1	Genbank	CDS	27314	27928	.	+	0	ID=cds-ASR18943.1;Parent=gene-orf7b;Dbxref=NCBI_GP:ASR18943.1;Name=ASR18943.1;gbkey=CDS;gene=orf7b;product=nsp 7b protein;protein_id=ASR18943.1
+

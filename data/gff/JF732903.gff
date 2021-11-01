@@ -1,0 +1,21 @@
+##sequence-region JF732903.1 1 27695
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+JF732903.1	Genbank	region	1	27695	.	+	.	ID=JF732903.1:1..27695;Dbxref=taxon:11120;collection-date=Apr-2009;country=China;gbkey=Src;genome=genomic;isolation-source=kidney;mol_type=genomic RNA;nat-host=chicken;strain=Sczy3
+JF732903.1	Genbank	gene	526	20414	.	+	.	ID=gene-Rep1ab;Name=Rep1ab;gbkey=Gene;gene=Rep1ab;gene_biotype=protein_coding
+JF732903.1	Genbank	CDS	526	12345	.	+	0	ID=cds-AFH35028.1;Parent=gene-Rep1ab;Dbxref=NCBI_GP:AFH35028.1;Name=AFH35028.1;exception=ribosomal slippage;gbkey=CDS;gene=Rep1ab;product=1ab polyprotein;protein_id=AFH35028.1
+JF732903.1	Genbank	CDS	12345	20414	.	+	0	ID=cds-AFH35028.1;Parent=gene-Rep1ab;Dbxref=NCBI_GP:AFH35028.1;Name=AFH35028.1;exception=ribosomal slippage;gbkey=CDS;gene=Rep1ab;product=1ab polyprotein;protein_id=AFH35028.1
+JF732903.1	Genbank	CDS	526	12381	.	+	0	ID=cds-AFH35021.1;Parent=gene-Rep1ab;Dbxref=NCBI_GP:AFH35021.1;Name=AFH35021.1;gbkey=CDS;gene=Rep1ab;product=1a;protein_id=AFH35021.1
+JF732903.1	Genbank	gene	20365	23862	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+JF732903.1	Genbank	CDS	20365	23862	.	+	0	ID=cds-ADD62481.2;Parent=gene-S;Dbxref=NCBI_GP:ADD62481.2;Name=ADD62481.2;Note=processed proteolytically into S1 and S2 proteins%3B related to neutralization and type-specific antibodies;gbkey=CDS;gene=S;product=spike protein;protein_id=ADD62481.2
+JF732903.1	Genbank	gene	23862	24536	.	+	.	ID=gene-3;Name=3;gbkey=Gene;gene=3;gene_biotype=protein_coding
+JF732903.1	Genbank	CDS	23862	24035	.	+	0	ID=cds-AFH35022.1;Parent=gene-3;Dbxref=NCBI_GP:AFH35022.1;Name=AFH35022.1;gbkey=CDS;gene=3;product=3a protein;protein_id=AFH35022.1
+JF732903.1	Genbank	CDS	24035	24223	.	+	0	ID=cds-AFH35023.1;Parent=gene-3;Dbxref=NCBI_GP:AFH35023.1;Name=AFH35023.1;gbkey=CDS;gene=3;product=3b protein;protein_id=AFH35023.1
+JF732903.1	Genbank	CDS	24210	24536	.	+	0	ID=cds-AFH35024.1;Parent=gene-3;Dbxref=NCBI_GP:AFH35024.1;Name=AFH35024.1;gbkey=CDS;gene=3;product=envelope protein;protein_id=AFH35024.1
+JF732903.1	Genbank	gene	24508	25185	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+JF732903.1	Genbank	CDS	24508	25185	.	+	0	ID=cds-AFH35025.1;Parent=gene-M;Dbxref=NCBI_GP:AFH35025.1;Name=AFH35025.1;gbkey=CDS;gene=M;product=membrane glycoprotein;protein_id=AFH35025.1
+JF732903.1	Genbank	gene	25549	25991	.	+	.	ID=gene-5;Name=5;gbkey=Gene;gene=5;gene_biotype=protein_coding
+JF732903.1	Genbank	CDS	25549	25746	.	+	0	ID=cds-AFH35026.1;Parent=gene-5;Dbxref=NCBI_GP:AFH35026.1;Name=AFH35026.1;gbkey=CDS;gene=5;product=5a protein;protein_id=AFH35026.1
+JF732903.1	Genbank	CDS	25743	25991	.	+	0	ID=cds-AFH35027.1;Parent=gene-5;Dbxref=NCBI_GP:AFH35027.1;Name=AFH35027.1;gbkey=CDS;gene=5;product=5b protein;protein_id=AFH35027.1
+JF732903.1	Genbank	gene	25934	27163	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+JF732903.1	Genbank	CDS	25934	27163	.	+	0	ID=cds-ADW77548.1;Parent=gene-N;Dbxref=NCBI_GP:ADW77548.1;Name=ADW77548.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=ADW77548.1
+

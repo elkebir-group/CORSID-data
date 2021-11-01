@@ -1,0 +1,26 @@
+##sequence-region MH002338.1 1 30252
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=694007
+MH002338.1	Genbank	region	1	30252	.	+	.	ID=MH002338.1:1..30252;Dbxref=taxon:694007;collected-by=G.Zhu;collection-date=01-Nov-2012;country=China;gbkey=Src;genome=genomic;identified-by=B.Li;isolate=CZ07;mol_type=genomic RNA
+MH002338.1	Genbank	gene	238	21617	.	+	.	ID=gene-orf1ab;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding
+MH002338.1	Genbank	CDS	238	13545	.	+	0	ID=cds-AWH65886.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:AWH65886.1;Name=AWH65886.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=ORF1ab;protein_id=AWH65886.1
+MH002338.1	Genbank	CDS	13545	21617	.	+	0	ID=cds-AWH65886.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:AWH65886.1;Name=AWH65886.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=ORF1ab;protein_id=AWH65886.1
+MH002338.1	Genbank	CDS	238	13566	.	+	0	ID=cds-AWH65887.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:AWH65887.1;Name=AWH65887.1;gbkey=CDS;gene=orf1ab;product=ORF1a;protein_id=AWH65887.1
+MH002338.1	Genbank	gene	21562	25620	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MH002338.1	Genbank	CDS	21562	25620	.	+	0	ID=cds-AWH65888.1;Parent=gene-S;Dbxref=NCBI_GP:AWH65888.1;Name=AWH65888.1;gbkey=CDS;gene=S;product=S protein;protein_id=AWH65888.1
+MH002338.1	Genbank	gene	25647	25913	.	+	.	ID=gene-orf3;Name=orf3;gbkey=Gene;gene=orf3;gene_biotype=protein_coding
+MH002338.1	Genbank	CDS	25647	25913	.	+	0	ID=cds-AWH65889.1;Parent=gene-orf3;Dbxref=NCBI_GP:AWH65889.1;Name=AWH65889.1;gbkey=CDS;gene=orf3;product=ORF3;protein_id=AWH65889.1
+MH002338.1	Genbank	gene	25931	26287	.	+	.	ID=gene-orf4a;Name=orf4a;gbkey=Gene;gene=orf4a;gene_biotype=protein_coding
+MH002338.1	Genbank	CDS	25931	26287	.	+	0	ID=cds-AWH65890.1;Parent=gene-orf4a;Dbxref=NCBI_GP:AWH65890.1;Name=AWH65890.1;gbkey=CDS;gene=orf4a;product=ORF4a;protein_id=AWH65890.1
+MH002338.1	Genbank	gene	26094	26948	.	+	.	ID=gene-orf4b;Name=orf4b;gbkey=Gene;gene=orf4b;gene_biotype=protein_coding
+MH002338.1	Genbank	CDS	26094	26948	.	+	0	ID=cds-AWH65891.1;Parent=gene-orf4b;Dbxref=NCBI_GP:AWH65891.1;Name=AWH65891.1;gbkey=CDS;gene=orf4b;product=ORF4b;protein_id=AWH65891.1
+MH002338.1	Genbank	gene	26964	27647	.	+	.	ID=gene-orf5;Name=orf5;gbkey=Gene;gene=orf5;gene_biotype=protein_coding
+MH002338.1	Genbank	CDS	26964	27647	.	+	0	ID=cds-AWH65892.1;Parent=gene-orf5;Dbxref=NCBI_GP:AWH65892.1;Name=AWH65892.1;gbkey=CDS;gene=orf5;product=ORF5;protein_id=AWH65892.1
+MH002338.1	Genbank	gene	27717	27965	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MH002338.1	Genbank	CDS	27717	27965	.	+	0	ID=cds-AWH65893.1;Parent=gene-E;Dbxref=NCBI_GP:AWH65893.1;Name=AWH65893.1;gbkey=CDS;gene=E;product=E protein;protein_id=AWH65893.1
+MH002338.1	Genbank	gene	27980	28636	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MH002338.1	Genbank	CDS	27980	28636	.	+	0	ID=cds-AWH65894.1;Parent=gene-M;Dbxref=NCBI_GP:AWH65894.1;Name=AWH65894.1;gbkey=CDS;gene=M;product=M protein;protein_id=AWH65894.1
+MH002338.1	Genbank	gene	28674	29945	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MH002338.1	Genbank	CDS	28674	29945	.	+	0	ID=cds-AWH65895.1;Parent=gene-N;Dbxref=NCBI_GP:AWH65895.1;Name=AWH65895.1;gbkey=CDS;gene=N;product=N protein;protein_id=AWH65895.1
+MH002338.1	Genbank	gene	28870	29310	.	+	.	ID=gene-orf8b;Name=orf8b;gbkey=Gene;gene=orf8b;gene_biotype=protein_coding
+MH002338.1	Genbank	CDS	28870	29310	.	+	0	ID=cds-AWH65896.1;Parent=gene-orf8b;Dbxref=NCBI_GP:AWH65896.1;Name=AWH65896.1;gbkey=CDS;gene=orf8b;product=ORF8b;protein_id=AWH65896.1
+

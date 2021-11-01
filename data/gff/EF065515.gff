@@ -1,0 +1,21 @@
+##sequence-region EF065515.1 1 29136
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=424369
+EF065515.1	Genbank	region	1	29136	.	+	.	ID=EF065515.1:1..29136;Dbxref=taxon:424369;country=China: Guangdong province;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=bat;strain=BF_493I
+EF065515.1	Genbank	gene	229	20999	.	+	.	ID=gene-orf1ab;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding
+EF065515.1	Genbank	CDS	229	12936	.	+	0	ID=cds-ABN10926.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:ABN10926.1;Name=ABN10926.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab polyprotein;protein_id=ABN10926.1
+EF065515.1	Genbank	CDS	12936	20999	.	+	0	ID=cds-ABN10926.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:ABN10926.1;Name=ABN10926.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab polyprotein;protein_id=ABN10926.1
+EF065515.1	Genbank	gene	20959	24768	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+EF065515.1	Genbank	CDS	20959	24768	.	+	0	ID=cds-ABN10927.1;Parent=gene-S;Dbxref=NCBI_GP:ABN10927.1;Name=ABN10927.1;gbkey=CDS;gene=S;product=spike glycoprotein;protein_id=ABN10927.1
+EF065515.1	Genbank	gene	24765	25457	.	+	.	ID=gene-NS3;Name=NS3;gbkey=Gene;gene=NS3;gene_biotype=protein_coding
+EF065515.1	Genbank	CDS	24765	25457	.	+	0	ID=cds-ABN10928.1;Parent=gene-NS3;Dbxref=NCBI_GP:ABN10928.1;Name=ABN10928.1;gbkey=CDS;gene=NS3;product=hypothetical protein;protein_id=ABN10928.1
+EF065515.1	Genbank	gene	25457	25687	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+EF065515.1	Genbank	CDS	25457	25687	.	+	0	ID=cds-ABN10929.1;Parent=gene-E;Dbxref=NCBI_GP:ABN10929.1;Name=ABN10929.1;gbkey=CDS;gene=E;product=small membrane protein;protein_id=ABN10929.1
+EF065515.1	Genbank	gene	25693	26355	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+EF065515.1	Genbank	CDS	25693	26355	.	+	0	ID=cds-ABN10930.1;Parent=gene-M;Dbxref=NCBI_GP:ABN10930.1;Name=ABN10930.1;gbkey=CDS;gene=M;product=membrane glycoprotein;protein_id=ABN10930.1
+EF065515.1	Genbank	gene	26418	27824	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+EF065515.1	Genbank	CDS	26418	27824	.	+	0	ID=cds-ABN10931.1;Parent=gene-N;Dbxref=NCBI_GP:ABN10931.1;Name=ABN10931.1;gbkey=CDS;gene=N;product=nucleocapsid phosphoprotein;protein_id=ABN10931.1
+EF065515.1	Genbank	gene	27861	28457	.	+	.	ID=gene-NS7a;Name=NS7a;gbkey=Gene;gene=NS7a;gene_biotype=protein_coding
+EF065515.1	Genbank	CDS	27861	28457	.	+	0	ID=cds-ABN10932.1;Parent=gene-NS7a;Dbxref=NCBI_GP:ABN10932.1;Name=ABN10932.1;gbkey=CDS;gene=NS7a;product=hypothetical protein;protein_id=ABN10932.1
+EF065515.1	Genbank	gene	28459	28905	.	+	.	ID=gene-NS7b;Name=NS7b;gbkey=Gene;gene=NS7b;gene_biotype=protein_coding
+EF065515.1	Genbank	CDS	28459	28905	.	+	0	ID=cds-ABN10933.1;Parent=gene-NS7b;Dbxref=NCBI_GP:ABN10933.1;Name=ABN10933.1;gbkey=CDS;gene=NS7b;product=hypothetical protein;protein_id=ABN10933.1
+

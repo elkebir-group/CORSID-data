@@ -1,0 +1,23 @@
+##sequence-region NC_016996.1 1 26223
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1159902
+NC_016996.1	RefSeq	region	1	26223	.	+	.	ID=NC_016996.1:1..26223;Dbxref=taxon:1159902;collection-date=2007;country=China: Hong Kong;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=common moorhen;old-name=Common-moorhen coronavirus HKU21;strain=HKU21-8295
+NC_016996.1	RefSeq	gene	478	19103	.	+	.	ID=gene-CMCoV-HKU21_gp1;Dbxref=GeneID:11945676;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding;locus_tag=CMCoV-HKU21_gp1
+NC_016996.1	RefSeq	CDS	478	11061	.	+	0	ID=cds-YP_005352880.1;Parent=gene-CMCoV-HKU21_gp1;Dbxref=Genbank:YP_005352880.1,GeneID:11945676;Name=YP_005352880.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;locus_tag=CMCoV-HKU21_gp1;product=replicase polyprotein;protein_id=YP_005352880.1
+NC_016996.1	RefSeq	CDS	11061	19103	.	+	0	ID=cds-YP_005352880.1;Parent=gene-CMCoV-HKU21_gp1;Dbxref=Genbank:YP_005352880.1,GeneID:11945676;Name=YP_005352880.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;locus_tag=CMCoV-HKU21_gp1;product=replicase polyprotein;protein_id=YP_005352880.1
+NC_016996.1	RefSeq	gene	19085	22729	.	+	.	ID=gene-CMCoV-HKU21_gp2;Dbxref=GeneID:11945677;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding;locus_tag=CMCoV-HKU21_gp2
+NC_016996.1	RefSeq	CDS	19085	22729	.	+	0	ID=cds-YP_005352881.1;Parent=gene-CMCoV-HKU21_gp2;Dbxref=Genbank:YP_005352881.1,GeneID:11945677;Name=YP_005352881.1;gbkey=CDS;gene=S;locus_tag=CMCoV-HKU21_gp2;product=spike glycoprotein;protein_id=YP_005352881.1
+NC_016996.1	RefSeq	gene	22723	22971	.	+	.	ID=gene-CMCoV-HKU21_gp3;Dbxref=GeneID:11945678;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding;locus_tag=CMCoV-HKU21_gp3
+NC_016996.1	RefSeq	CDS	22723	22971	.	+	0	ID=cds-YP_005352882.1;Parent=gene-CMCoV-HKU21_gp3;Dbxref=Genbank:YP_005352882.1,GeneID:11945678;Name=YP_005352882.1;gbkey=CDS;gene=E;locus_tag=CMCoV-HKU21_gp3;product=envelope protein;protein_id=YP_005352882.1
+NC_016996.1	RefSeq	gene	22973	23779	.	+	.	ID=gene-CMCoV-HKU21_gp4;Dbxref=GeneID:11945679;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding;locus_tag=CMCoV-HKU21_gp4
+NC_016996.1	RefSeq	CDS	22973	23779	.	+	0	ID=cds-YP_005352883.1;Parent=gene-CMCoV-HKU21_gp4;Dbxref=Genbank:YP_005352883.1,GeneID:11945679;Name=YP_005352883.1;gbkey=CDS;gene=M;locus_tag=CMCoV-HKU21_gp4;product=membrane protein;protein_id=YP_005352883.1
+NC_016996.1	RefSeq	gene	23779	24024	.	+	.	ID=gene-CMCoV-HKU21_gp5;Dbxref=GeneID:11945680;Name=NS6;gbkey=Gene;gene=NS6;gene_biotype=protein_coding;locus_tag=CMCoV-HKU21_gp5
+NC_016996.1	RefSeq	CDS	23779	24024	.	+	0	ID=cds-YP_005352884.1;Parent=gene-CMCoV-HKU21_gp5;Dbxref=Genbank:YP_005352884.1,GeneID:11945680;Name=YP_005352884.1;gbkey=CDS;gene=NS6;locus_tag=CMCoV-HKU21_gp5;product=NS6 protein;protein_id=YP_005352884.1
+NC_016996.1	RefSeq	gene	24052	25107	.	+	.	ID=gene-CMCoV-HKU21_gp6;Dbxref=GeneID:11945681;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding;locus_tag=CMCoV-HKU21_gp6
+NC_016996.1	RefSeq	CDS	24052	25107	.	+	0	ID=cds-YP_005352885.1;Parent=gene-CMCoV-HKU21_gp6;Dbxref=Genbank:YP_005352885.1,GeneID:11945681;Name=YP_005352885.1;gbkey=CDS;gene=N;locus_tag=CMCoV-HKU21_gp6;product=nucleocapsid protein;protein_id=YP_005352885.1
+NC_016996.1	RefSeq	gene	25107	25379	.	+	.	ID=gene-CMCoV-HKU21_gp7;Dbxref=GeneID:11945682;Name=NS7a;gbkey=Gene;gene=NS7a;gene_biotype=protein_coding;locus_tag=CMCoV-HKU21_gp7
+NC_016996.1	RefSeq	CDS	25107	25379	.	+	0	ID=cds-YP_005352886.1;Parent=gene-CMCoV-HKU21_gp7;Dbxref=Genbank:YP_005352886.1,GeneID:11945682;Name=YP_005352886.1;gbkey=CDS;gene=NS7a;locus_tag=CMCoV-HKU21_gp7;product=NS7a protein;protein_id=YP_005352886.1
+NC_016996.1	RefSeq	gene	25391	25576	.	+	.	ID=gene-CMCoV-HKU21_gp8;Dbxref=GeneID:11945683;Name=NS7b;gbkey=Gene;gene=NS7b;gene_biotype=protein_coding;locus_tag=CMCoV-HKU21_gp8
+NC_016996.1	RefSeq	CDS	25391	25576	.	+	0	ID=cds-YP_005352887.1;Parent=gene-CMCoV-HKU21_gp8;Dbxref=Genbank:YP_005352887.1,GeneID:11945683;Name=YP_005352887.1;gbkey=CDS;gene=NS7b;locus_tag=CMCoV-HKU21_gp8;product=NS7b protein;protein_id=YP_005352887.1
+NC_016996.1	RefSeq	gene	25500	25916	.	+	.	ID=gene-CMCoV-HKU21_gp9;Dbxref=GeneID:11945684;Name=NS7c;gbkey=Gene;gene=NS7c;gene_biotype=protein_coding;locus_tag=CMCoV-HKU21_gp9
+NC_016996.1	RefSeq	CDS	25500	25916	.	+	0	ID=cds-YP_005352888.1;Parent=gene-CMCoV-HKU21_gp9;Dbxref=Genbank:YP_005352888.1,GeneID:11945684;Name=YP_005352888.1;gbkey=CDS;gene=NS7c;locus_tag=CMCoV-HKU21_gp9;product=NS7c protein;protein_id=YP_005352888.1
+

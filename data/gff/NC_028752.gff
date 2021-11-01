@@ -1,0 +1,19 @@
+##sequence-region NC_028752.1 1 27395
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1699095
+NC_028752.1	RefSeq	region	1	27395	.	+	.	ID=NC_028752.1:1..27395;Dbxref=taxon:1699095;collection-date=Mar-2015;country=Saudi Arabia;gbkey=Src;genome=genomic;isolate=camel/Riyadh/Ry141/2015;mol_type=genomic RNA;nat-host=camel
+NC_028752.1	RefSeq	gene	293	20583	.	+	.	ID=gene-AU268_gp1;Dbxref=GeneID:26613670;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding;locus_tag=AU268_gp1
+NC_028752.1	RefSeq	CDS	293	12534	.	+	0	ID=cds-YP_009194637.1;Parent=gene-AU268_gp1;Dbxref=Genbank:YP_009194637.1,GeneID:26613670;Name=YP_009194637.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;locus_tag=AU268_gp1;product=polyprotein ORF1ab;protein_id=YP_009194637.1
+NC_028752.1	RefSeq	CDS	12534	20583	.	+	1	ID=cds-YP_009194637.1;Parent=gene-AU268_gp1;Dbxref=Genbank:YP_009194637.1,GeneID:26613670;Name=YP_009194637.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;locus_tag=AU268_gp1;product=polyprotein ORF1ab;protein_id=YP_009194637.1
+NC_028752.1	RefSeq	gene	293	12565	.	+	.	ID=gene-AU268_gp2;Dbxref=GeneID:26613665;Name=orf1a;gbkey=Gene;gene=orf1a;gene_biotype=protein_coding;locus_tag=AU268_gp2
+NC_028752.1	RefSeq	CDS	293	12565	.	+	0	ID=cds-YP_009194638.1;Parent=gene-AU268_gp2;Dbxref=Genbank:YP_009194638.1,GeneID:26613665;Name=YP_009194638.1;gbkey=CDS;gene=orf1a;locus_tag=AU268_gp2;product=polyprotein ORF1a;protein_id=YP_009194638.1
+NC_028752.1	RefSeq	gene	20585	24094	.	+	.	ID=gene-AU268_gp3;Dbxref=GeneID:26613664;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding;locus_tag=AU268_gp3
+NC_028752.1	RefSeq	CDS	20585	24094	.	+	0	ID=cds-YP_009194639.1;Parent=gene-AU268_gp3;Dbxref=Genbank:YP_009194639.1,GeneID:26613664;Name=YP_009194639.1;gbkey=CDS;gene=S;locus_tag=AU268_gp3;product=spike protein;protein_id=YP_009194639.1
+NC_028752.1	RefSeq	gene	24094	24774	.	+	.	ID=gene-AU268_gp4;Dbxref=GeneID:26613666;Name=orf4;gbkey=Gene;gene=orf4;gene_biotype=protein_coding;locus_tag=AU268_gp4
+NC_028752.1	RefSeq	CDS	24094	24774	.	+	0	ID=cds-YP_009194640.1;Parent=gene-AU268_gp4;Dbxref=Genbank:YP_009194640.1,GeneID:26613666;Name=YP_009194640.1;gbkey=CDS;gene=orf4;locus_tag=AU268_gp4;product=ORF4;protein_id=YP_009194640.1
+NC_028752.1	RefSeq	gene	24752	24985	.	+	.	ID=gene-AU268_gp5;Dbxref=GeneID:26613667;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding;locus_tag=AU268_gp5
+NC_028752.1	RefSeq	CDS	24752	24985	.	+	0	ID=cds-YP_009194641.1;Parent=gene-AU268_gp5;Dbxref=Genbank:YP_009194641.1,GeneID:26613667;Name=YP_009194641.1;gbkey=CDS;gene=E;locus_tag=AU268_gp5;product=envelope protein;protein_id=YP_009194641.1
+NC_028752.1	RefSeq	gene	24997	25677	.	+	.	ID=gene-AU268_gp6;Dbxref=GeneID:26613668;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding;locus_tag=AU268_gp6
+NC_028752.1	RefSeq	CDS	24997	25677	.	+	0	ID=cds-YP_009194642.1;Parent=gene-AU268_gp6;Dbxref=Genbank:YP_009194642.1,GeneID:26613668;Name=YP_009194642.1;gbkey=CDS;gene=M;locus_tag=AU268_gp6;product=membrane protein;protein_id=YP_009194642.1
+NC_028752.1	RefSeq	gene	25691	26839	.	+	.	ID=gene-AU268_gp7;Dbxref=GeneID:26613669;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding;locus_tag=AU268_gp7
+NC_028752.1	RefSeq	CDS	25691	26839	.	+	0	ID=cds-YP_009194643.1;Parent=gene-AU268_gp7;Dbxref=Genbank:YP_009194643.1,GeneID:26613669;Name=YP_009194643.1;gbkey=CDS;gene=N;locus_tag=AU268_gp7;product=nucleocapsid protein;protein_id=YP_009194643.1
+

@@ -1,0 +1,25 @@
+##sequence-region NC_012936.1 1 31250
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=502102
+NC_012936.1	RefSeq	region	1	31250	.	+	.	ID=NC_012936.1:1..31250;Dbxref=taxon:502102;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=rat;strain=Parker
+NC_012936.1	RefSeq	gene	183	21700	.	+	.	ID=gene-PRCV_gp01;Dbxref=GeneID:11273175;Name=PRCV_gp01;gbkey=Gene;gene_biotype=protein_coding;locus_tag=PRCV_gp01
+NC_012936.1	RefSeq	CDS	183	13556	.	+	0	ID=cds-YP_003029844.1;Parent=gene-PRCV_gp01;Dbxref=Genbank:YP_003029844.1,GeneID:11273175;Name=YP_003029844.1;exception=ribosomal slippage;gbkey=CDS;locus_tag=PRCV_gp01;product=orf1ab polyprotein;protein_id=YP_003029844.1
+NC_012936.1	RefSeq	CDS	13556	21700	.	+	0	ID=cds-YP_003029844.1;Parent=gene-PRCV_gp01;Dbxref=Genbank:YP_003029844.1,GeneID:11273175;Name=YP_003029844.1;exception=ribosomal slippage;gbkey=CDS;locus_tag=PRCV_gp01;product=orf1ab polyprotein;protein_id=YP_003029844.1
+NC_012936.1	RefSeq	gene	183	13577	.	+	.	ID=gene-PRCV_gp02;Dbxref=GeneID:11273166;Name=PRCV_gp02;gbkey=Gene;gene_biotype=protein_coding;locus_tag=PRCV_gp02
+NC_012936.1	RefSeq	CDS	183	13577	.	+	0	ID=cds-YP_003029845.1;Parent=gene-PRCV_gp02;Dbxref=Genbank:YP_003029845.1,GeneID:11273166;Name=YP_003029845.1;gbkey=CDS;locus_tag=PRCV_gp02;product=orf1a polyprotein;protein_id=YP_003029845.1
+NC_012936.1	RefSeq	gene	21714	22511	.	+	.	ID=gene-PRCV_gp03;Dbxref=GeneID:11273167;Name=PRCV_gp03;gbkey=Gene;gene_biotype=protein_coding;locus_tag=PRCV_gp03
+NC_012936.1	RefSeq	CDS	21714	22511	.	+	0	ID=cds-YP_003029846.1;Parent=gene-PRCV_gp03;Dbxref=Genbank:YP_003029846.1,GeneID:11273167;Name=YP_003029846.1;gbkey=CDS;locus_tag=PRCV_gp03;product=32 kD non-structural protein;protein_id=YP_003029846.1
+NC_012936.1	RefSeq	gene	22557	23876	.	+	.	ID=gene-PRCV_gp04;Dbxref=GeneID:11273168;Name=PRCV_gp04;gbkey=Gene;gene_biotype=protein_coding;locus_tag=PRCV_gp04
+NC_012936.1	RefSeq	CDS	22557	23876	.	+	0	ID=cds-YP_003029847.1;Parent=gene-PRCV_gp04;Dbxref=Genbank:YP_003029847.1,GeneID:11273168;Name=YP_003029847.1;gbkey=CDS;locus_tag=PRCV_gp04;product=hemagglutinin-esterase;protein_id=YP_003029847.1
+NC_012936.1	RefSeq	gene	23891	27973	.	+	.	ID=gene-PRCV_gp05;Dbxref=GeneID:11273169;Name=PRCV_gp05;gbkey=Gene;gene_biotype=protein_coding;locus_tag=PRCV_gp05
+NC_012936.1	RefSeq	CDS	23891	27973	.	+	0	ID=cds-YP_003029848.1;Parent=gene-PRCV_gp05;Dbxref=Genbank:YP_003029848.1,GeneID:11273169;Name=YP_003029848.1;gbkey=CDS;locus_tag=PRCV_gp05;product=spike protein;protein_id=YP_003029848.1
+NC_012936.1	RefSeq	gene	28064	28465	.	+	.	ID=gene-PRCV_gp06;Dbxref=GeneID:11273170;Name=PRCV_gp06;gbkey=Gene;gene_biotype=protein_coding;locus_tag=PRCV_gp06
+NC_012936.1	RefSeq	CDS	28064	28465	.	+	0	ID=cds-YP_003029849.1;Parent=gene-PRCV_gp06;Dbxref=Genbank:YP_003029849.1,GeneID:11273170;Name=YP_003029849.1;gbkey=CDS;locus_tag=PRCV_gp06;product=15 kD non-structural protein;protein_id=YP_003029849.1
+NC_012936.1	RefSeq	gene	28639	28905	.	+	.	ID=gene-PRCV_gp07;Dbxref=GeneID:11273171;Name=PRCV_gp07;gbkey=Gene;gene_biotype=protein_coding;locus_tag=PRCV_gp07
+NC_012936.1	RefSeq	CDS	28639	28905	.	+	0	ID=cds-YP_003029850.1;Parent=gene-PRCV_gp07;Dbxref=Genbank:YP_003029850.1,GeneID:11273171;Name=YP_003029850.1;gbkey=CDS;locus_tag=PRCV_gp07;product=envelope protein;protein_id=YP_003029850.1
+NC_012936.1	RefSeq	gene	28902	29588	.	+	.	ID=gene-PRCV_gp08;Dbxref=GeneID:11273172;Name=PRCV_gp08;gbkey=Gene;gene_biotype=protein_coding;locus_tag=PRCV_gp08
+NC_012936.1	RefSeq	CDS	28902	29588	.	+	0	ID=cds-YP_003029851.1;Parent=gene-PRCV_gp08;Dbxref=Genbank:YP_003029851.1,GeneID:11273172;Name=YP_003029851.1;gbkey=CDS;locus_tag=PRCV_gp08;product=membrane protein;protein_id=YP_003029851.1
+NC_012936.1	RefSeq	gene	29603	30967	.	+	.	ID=gene-PRCV_gp09;Dbxref=GeneID:11273173;Name=PRCV_gp09;gbkey=Gene;gene_biotype=protein_coding;locus_tag=PRCV_gp09
+NC_012936.1	RefSeq	CDS	29603	30967	.	+	0	ID=cds-YP_003029852.1;Parent=gene-PRCV_gp09;Dbxref=Genbank:YP_003029852.1,GeneID:11273173;Name=YP_003029852.1;gbkey=CDS;locus_tag=PRCV_gp09;product=nucleocapsid protein;protein_id=YP_003029852.1
+NC_012936.1	RefSeq	gene	29667	30290	.	+	.	ID=gene-PRCV_gp10;Dbxref=GeneID:11273174;Name=PRCV_gp10;gbkey=Gene;gene_biotype=protein_coding;locus_tag=PRCV_gp10
+NC_012936.1	RefSeq	CDS	29667	30290	.	+	0	ID=cds-YP_003029853.1;Parent=gene-PRCV_gp10;Dbxref=Genbank:YP_003029853.1,GeneID:11273174;Name=YP_003029853.1;gbkey=CDS;locus_tag=PRCV_gp10;product=internal protein;protein_id=YP_003029853.1
+

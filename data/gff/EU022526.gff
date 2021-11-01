@@ -1,0 +1,25 @@
+##sequence-region EU022526.1 1 27854
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11152
+EU022526.1	Genbank	region	1	27854	.	+	.	ID=EU022526.1:1..27854;Dbxref=taxon:11152;country=USA: Indiana;gbkey=Src;genome=genomic;isolate=TCoV-ATCC;isolation-source=turkey small intestine;lab-host=embryonated turkey eggs (21 day);mol_type=genomic RNA
+EU022526.1	Genbank	gene	1	27854	.	+	.	ID=gene-1ab;Name=1ab;gbkey=Gene;gene=1ab;gene_biotype=protein_coding
+EU022526.1	Genbank	CDS	529	12372	.	+	0	ID=cds-ABW75136.1;Parent=gene-1ab;Dbxref=NCBI_GP:ABW75136.1;Name=ABW75136.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=polyprotein 1ab;protein_id=ABW75136.1
+EU022526.1	Genbank	CDS	12372	20441	.	+	0	ID=cds-ABW75136.1;Parent=gene-1ab;Dbxref=NCBI_GP:ABW75136.1;Name=ABW75136.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=polyprotein 1ab;protein_id=ABW75136.1
+EU022526.1	Genbank	CDS	27307	27531	.	+	0	ID=cds-ACB87503.1;Parent=gene-1ab;Dbxref=NCBI_GP:ACB87503.1;Name=ACB87503.1;gbkey=CDS;gene=1ab;product=6b;protein_id=ACB87503.1
+EU022526.1	Genbank	gene	529	20401	.	+	.	ID=gene-1;Name=1;gbkey=Gene;gene=1;gene_biotype=protein_coding
+EU022526.1	Genbank	CDS	529	12402	.	+	0	ID=cds-ABW75137.1;Parent=gene-1;Dbxref=NCBI_GP:ABW75137.1;Name=ABW75137.1;gbkey=CDS;gene=1;product=polyprotein 1a;protein_id=ABW75137.1
+EU022526.1	Genbank	gene	20352	24003	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+EU022526.1	Genbank	CDS	20392	24003	.	+	0	ID=cds-ABW75138.1;Parent=gene-S;Dbxref=NCBI_GP:ABW75138.1;Name=ABW75138.1;gbkey=CDS;gene=S;product=spike;protein_id=ABW75138.1
+EU022526.1	Genbank	gene	23963	24662	.	+	.	ID=gene-3;Name=3;gbkey=Gene;gene=3;gene_biotype=protein_coding
+EU022526.1	Genbank	CDS	24003	24176	.	+	0	ID=cds-ABW75139.1;Parent=gene-3;Dbxref=NCBI_GP:ABW75139.1;Name=ABW75139.1;gbkey=CDS;gene=3;product=3a;protein_id=ABW75139.1
+EU022526.1	Genbank	CDS	24176	24370	.	+	0	ID=cds-ABW75140.1;Parent=gene-3;Dbxref=NCBI_GP:ABW75140.1;Name=ABW75140.1;gbkey=CDS;gene=3;product=3b;protein_id=ABW75140.1
+EU022526.1	Genbank	CDS	24351	24662	.	+	0	ID=cds-ABW75141.1;Parent=gene-3;Dbxref=NCBI_GP:ABW75141.1;Name=ABW75141.1;gbkey=CDS;gene=3;product=E;protein_id=ABW75141.1
+EU022526.1	Genbank	gene	24610	25687	.	+	.	ID=gene-4;Name=4;gbkey=Gene;gene=4;gene_biotype=protein_coding
+EU022526.1	Genbank	CDS	24652	25323	.	+	0	ID=cds-ABW75142.1;Parent=gene-4;Dbxref=NCBI_GP:ABW75142.1;Name=ABW75142.1;gbkey=CDS;gene=4;product=M;protein_id=ABW75142.1
+EU022526.1	Genbank	CDS	25324	25608	.	+	0	ID=cds-ABW75143.1;Parent=gene-4;Dbxref=NCBI_GP:ABW75143.1;Name=ABW75143.1;gbkey=CDS;gene=4;product=4b;protein_id=ABW75143.1
+EU022526.1	Genbank	CDS	25529	25687	.	+	0	ID=cds-ABW75144.1;Parent=gene-4;Dbxref=NCBI_GP:ABW75144.1;Name=ABW75144.1;gbkey=CDS;gene=4;product=4c;protein_id=ABW75144.1
+EU022526.1	Genbank	gene	25638	26126	.	+	.	ID=gene-5;Name=5;gbkey=Gene;gene=5;gene_biotype=protein_coding
+EU022526.1	Genbank	CDS	25684	25881	.	+	0	ID=cds-ABW75145.1;Parent=gene-5;Dbxref=NCBI_GP:ABW75145.1;Name=ABW75145.1;gbkey=CDS;gene=5;product=5a;protein_id=ABW75145.1
+EU022526.1	Genbank	CDS	25878	26126	.	+	0	ID=cds-ABW75146.1;Parent=gene-5;Dbxref=NCBI_GP:ABW75146.1;Name=ABW75146.1;gbkey=CDS;gene=5;product=5b;protein_id=ABW75146.1
+EU022526.1	Genbank	gene	26017	27298	.	+	.	ID=gene-6;Name=6;gbkey=Gene;gene=6;gene_biotype=protein_coding
+EU022526.1	Genbank	CDS	26069	27298	.	+	0	ID=cds-ABW75147.1;Parent=gene-6;Dbxref=NCBI_GP:ABW75147.1;Name=ABW75147.1;gbkey=CDS;gene=6;product=N;protein_id=ABW75147.1
+

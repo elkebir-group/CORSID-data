@@ -1,0 +1,14 @@
+##sequence-region HM245924.1 1 27709
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+HM245924.1	Genbank	region	1	27709	.	+	.	ID=HM245924.1:1..27709;Dbxref=taxon:11120;collection-date=2004;country=China;gbkey=Src;isolate=CQ04-1;mol_type=genomic RNA;nat-host=chicken
+HM245924.1	Genbank	CDS	526	12387	.	+	0	ID=cds-ADI54954.1;Dbxref=NCBI_GP:ADI54954.1;Name=ADI54954.1;gbkey=CDS;product=1a polyprotein;protein_id=ADI54954.1
+HM245924.1	Genbank	CDS	12357	20420	.	+	0	ID=cds-ADI54953.1;Dbxref=NCBI_GP:ADI54953.1;Name=ADI54953.1;Note=translated as extension of 1a polyprotein via ribosomal frameshift%3B location of frameshift not determined;gbkey=CDS;partial=true;product=1b polyprotein;protein_id=ADI54953.1;start_range=.,12357
+HM245924.1	Genbank	CDS	20371	23874	.	+	0	ID=cds-ADI54955.1;Dbxref=NCBI_GP:ADI54955.1;Name=ADI54955.1;gbkey=CDS;product=spike glycoprotein;protein_id=ADI54955.1
+HM245924.1	Genbank	CDS	23874	24047	.	+	0	ID=cds-ADI54956.1;Dbxref=NCBI_GP:ADI54956.1;Name=ADI54956.1;gbkey=CDS;product=3a protein;protein_id=ADI54956.1
+HM245924.1	Genbank	CDS	24047	24235	.	+	0	ID=cds-ADI54957.1;Dbxref=NCBI_GP:ADI54957.1;Name=ADI54957.1;gbkey=CDS;product=3b protein;protein_id=ADI54957.1
+HM245924.1	Genbank	CDS	24219	24578	.	+	0	ID=cds-ADI54958.1;Dbxref=NCBI_GP:ADI54958.1;Name=ADI54958.1;gbkey=CDS;product=envelope protein;protein_id=ADI54958.1
+HM245924.1	Genbank	CDS	24547	25227	.	+	0	ID=cds-ADI54959.1;Dbxref=NCBI_GP:ADI54959.1;Name=ADI54959.1;gbkey=CDS;product=membrane glycoprotein;protein_id=ADI54959.1
+HM245924.1	Genbank	CDS	25581	25778	.	+	0	ID=cds-ADI54960.1;Dbxref=NCBI_GP:ADI54960.1;Name=ADI54960.1;gbkey=CDS;product=5a protein;protein_id=ADI54960.1
+HM245924.1	Genbank	CDS	25775	26023	.	+	0	ID=cds-ADI54961.1;Dbxref=NCBI_GP:ADI54961.1;Name=ADI54961.1;gbkey=CDS;product=5b protein;protein_id=ADI54961.1
+HM245924.1	Genbank	CDS	25966	27195	.	+	0	ID=cds-ADI54962.1;Dbxref=NCBI_GP:ADI54962.1;Name=ADI54962.1;gbkey=CDS;product=nucleocapsid protein;protein_id=ADI54962.1
+

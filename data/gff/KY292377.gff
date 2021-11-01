@@ -1,0 +1,16 @@
+##sequence-region KY292377.1 1 29303
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12663
+KY292377.1	Genbank	region	1	29303	.	+	.	ID=KY292377.1:1..29303;Dbxref=taxon:12663;collection-date=Oct-2016;country=China;gbkey=Src;genome=genomic;isolation-source=ascites;mol_type=genomic RNA;nat-host=cat;strain=HLJ/DQ/2016/01
+KY292377.1	Genbank	CDS	292	12363	.	+	0	ID=cds-ASB16886.1;Dbxref=NCBI_GP:ASB16886.1;Name=ASB16886.1;Note=ORF1b;exception=ribosomal slippage;gbkey=CDS;product=polyprotein 1ab;protein_id=ASB16886.1
+KY292377.1	Genbank	CDS	12363	20405	.	+	0	ID=cds-ASB16886.1;Dbxref=NCBI_GP:ASB16886.1;Name=ASB16886.1;Note=ORF1b;exception=ribosomal slippage;gbkey=CDS;product=polyprotein 1ab;protein_id=ASB16886.1
+KY292377.1	Genbank	CDS	292	12405	.	+	0	ID=cds-ASB16885.1;Dbxref=NCBI_GP:ASB16885.1;Name=ASB16885.1;Note=ORF1a;gbkey=CDS;product=polyprotein 1a;protein_id=ASB16885.1
+KY292377.1	Genbank	CDS	20402	24805	.	+	0	ID=cds-ASB16887.1;Dbxref=NCBI_GP:ASB16887.1;Name=ASB16887.1;Note=S;gbkey=CDS;product=spike protein;protein_id=ASB16887.1
+KY292377.1	Genbank	CDS	24817	25029	.	+	0	ID=cds-ASB16888.1;Dbxref=NCBI_GP:ASB16888.1;Name=ASB16888.1;Note=nsp3a;gbkey=CDS;product=non-structural protein 3a;protein_id=ASB16888.1
+KY292377.1	Genbank	CDS	24977	25198	.	+	0	ID=cds-ASB16889.1;Dbxref=NCBI_GP:ASB16889.1;Name=ASB16889.1;Note=nsp3b;gbkey=CDS;product=non-structural protein 3b;protein_id=ASB16889.1
+KY292377.1	Genbank	CDS	25195	25908	.	+	0	ID=cds-ASB16890.1;Dbxref=NCBI_GP:ASB16890.1;Name=ASB16890.1;Note=nsp3c;gbkey=CDS;product=non-structural protein 3c;protein_id=ASB16890.1
+KY292377.1	Genbank	CDS	25895	26143	.	+	0	ID=cds-ASB16891.1;Dbxref=NCBI_GP:ASB16891.1;Name=ASB16891.1;Note=E;gbkey=CDS;product=envelope protein;protein_id=ASB16891.1
+KY292377.1	Genbank	CDS	26154	26948	.	+	0	ID=cds-ASB16892.1;Dbxref=NCBI_GP:ASB16892.1;Name=ASB16892.1;Note=M;gbkey=CDS;product=membrane protein;protein_id=ASB16892.1
+KY292377.1	Genbank	CDS	26961	28094	.	+	0	ID=cds-ASB16893.1;Dbxref=NCBI_GP:ASB16893.1;Name=ASB16893.1;Note=N;gbkey=CDS;product=nucleocapsid protein;protein_id=ASB16893.1
+KY292377.1	Genbank	CDS	28099	28404	.	+	0	ID=cds-ASB16894.1;Dbxref=NCBI_GP:ASB16894.1;Name=ASB16894.1;Note=nsp7a;gbkey=CDS;product=non-structural protein 7a;protein_id=ASB16894.1
+KY292377.1	Genbank	CDS	28409	29029	.	+	0	ID=cds-ASB16895.1;Dbxref=NCBI_GP:ASB16895.1;Name=ASB16895.1;Note=nsp7b;gbkey=CDS;product=non-structural protein 7b;protein_id=ASB16895.1
+

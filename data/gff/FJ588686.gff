@@ -1,0 +1,22 @@
+##sequence-region FJ588686.1 1 29059
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=722424
+FJ588686.1	Genbank	region	1	29059	.	+	.	ID=FJ588686.1:1..29059;Dbxref=taxon:722424;collection-date=2006;country=China;gbkey=Src;genome=genomic;isolate=Rs672;mol_type=genomic RNA;nat-host=Rhinolophus sinicus;old-name=bat SARS coronavirus Rs_672/2006
+FJ588686.1	Genbank	CDS	246	12800	.	+	0	ID=cds-ACU31044.1;Dbxref=NCBI_GP:ACU31044.1;Name=ACU31044.1;Note=ORF1ab;exception=ribosomal slippage;gbkey=CDS;product=non-structural polyprotein pp1ab;protein_id=ACU31044.1
+FJ588686.1	Genbank	CDS	12800	20887	.	+	0	ID=cds-ACU31044.1;Dbxref=NCBI_GP:ACU31044.1;Name=ACU31044.1;Note=ORF1ab;exception=ribosomal slippage;gbkey=CDS;product=non-structural polyprotein pp1ab;protein_id=ACU31044.1
+FJ588686.1	Genbank	CDS	246	12815	.	+	0	ID=cds-ACU31042.1;Dbxref=NCBI_GP:ACU31042.1;Name=ACU31042.1;Note=ORF1ab;gbkey=CDS;product=non-structural polyprotein pp1a;protein_id=ACU31042.1
+FJ588686.1	Genbank	CDS	20894	24619	.	+	0	ID=cds-ACU31032.1;Dbxref=NCBI_GP:ACU31032.1;Name=ACU31032.1;gbkey=CDS;product=spike protein;protein_id=ACU31032.1
+FJ588686.1	Genbank	CDS	24629	25453	.	+	0	ID=cds-ACU31034.1;Dbxref=NCBI_GP:ACU31034.1;Name=ACU31034.1;gbkey=CDS;product=hypothetical protein;protein_id=ACU31034.1
+FJ588686.1	Genbank	CDS	25050	25394	.	+	0	ID=cds-ACU31033.1;Dbxref=NCBI_GP:ACU31033.1;Name=ACU31033.1;gbkey=CDS;product=hypothetical protein;protein_id=ACU31033.1
+FJ588686.1	Genbank	gene	25478	25708	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+FJ588686.1	Genbank	CDS	25478	25708	.	+	0	ID=cds-ACU31035.1;Parent=gene-E;Dbxref=NCBI_GP:ACU31035.1;Name=ACU31035.1;gbkey=CDS;gene=E;product=small envelope protein;protein_id=ACU31035.1
+FJ588686.1	Genbank	gene	25759	26424	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+FJ588686.1	Genbank	CDS	25759	26424	.	+	0	ID=cds-ACU31036.1;Parent=gene-M;Dbxref=NCBI_GP:ACU31036.1;Name=ACU31036.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=ACU31036.1
+FJ588686.1	Genbank	CDS	26435	26626	.	+	0	ID=cds-ACU31045.1;Dbxref=NCBI_GP:ACU31045.1;Name=ACU31045.1;gbkey=CDS;product=hypothetical protein;protein_id=ACU31045.1
+FJ588686.1	Genbank	CDS	26634	27002	.	+	0	ID=cds-ACU31037.1;Dbxref=NCBI_GP:ACU31037.1;Name=ACU31037.1;gbkey=CDS;product=hypothetical protein;protein_id=ACU31037.1
+FJ588686.1	Genbank	CDS	26999	27133	.	+	0	ID=cds-ACU31038.1;Dbxref=NCBI_GP:ACU31038.1;Name=ACU31038.1;gbkey=CDS;product=hypothetical protein;protein_id=ACU31038.1
+FJ588686.1	Genbank	CDS	27140	27505	.	+	0	ID=cds-ACU31043.1;Dbxref=NCBI_GP:ACU31043.1;Name=ACU31043.1;gbkey=CDS;product=hypothetical protein;protein_id=ACU31043.1
+FJ588686.1	Genbank	gene	27520	28788	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+FJ588686.1	Genbank	CDS	27520	28788	.	+	0	ID=cds-ACU31039.1;Parent=gene-N;Dbxref=NCBI_GP:ACU31039.1;Name=ACU31039.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=ACU31039.1
+FJ588686.1	Genbank	CDS	27530	27826	.	+	0	ID=cds-ACU31040.1;Parent=gene-N;Dbxref=NCBI_GP:ACU31040.1;Name=ACU31040.1;gbkey=CDS;gene=N;product=hypothetical protein;protein_id=ACU31040.1
+FJ588686.1	Genbank	CDS	27983	28195	.	+	0	ID=cds-ACU31041.1;Parent=gene-N;Dbxref=NCBI_GP:ACU31041.1;Name=ACU31041.1;gbkey=CDS;gene=N;product=hypothetical protein;protein_id=ACU31041.1
+

@@ -1,0 +1,23 @@
+##sequence-region MG233398.1 1 27674
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+MG233398.1	Genbank	region	1	27674	.	+	.	ID=MG233398.1:1..27674;Dbxref=taxon:11120;collection-date=2015;country=Iran;gbkey=Src;genome=genomic;isolate=IS-1494;mol_type=genomic RNA;nat-host=chicken;old-name=Avian Infectious Bronchitis virus
+MG233398.1	Genbank	gene	529	20402	.	+	.	ID=gene-ORF1ab;Name=ORF1ab;gbkey=Gene;gene=ORF1ab;gene_biotype=protein_coding
+MG233398.1	Genbank	CDS	529	12328	.	+	0	ID=cds-AXT92414.1;Parent=gene-ORF1ab;Dbxref=NCBI_GP:AXT92414.1;Name=AXT92414.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;product=ORF1ab;protein_id=AXT92414.1
+MG233398.1	Genbank	CDS	12328	20402	.	+	2	ID=cds-AXT92414.1;Parent=gene-ORF1ab;Dbxref=NCBI_GP:AXT92414.1;Name=AXT92414.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;product=ORF1ab;protein_id=AXT92414.1
+MG233398.1	Genbank	gene	20353	23850	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MG233398.1	Genbank	CDS	20353	23823	.	+	0	ID=cds-AXT92415.1;Parent=gene-S;Dbxref=NCBI_GP:AXT92415.1;Name=AXT92415.1;gbkey=CDS;gene=S;product=truncated spike protein;protein_id=AXT92415.1
+MG233398.1	Genbank	gene	23850	24023	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+MG233398.1	Genbank	CDS	23850	24023	.	+	0	ID=cds-AXT92416.1;Parent=gene-3a;Dbxref=NCBI_GP:AXT92416.1;Name=AXT92416.1;gbkey=CDS;gene=3a;product=ORF3a;protein_id=AXT92416.1
+MG233398.1	Genbank	gene	24023	24214	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+MG233398.1	Genbank	CDS	24023	24214	.	+	0	ID=cds-AXT92417.1;Parent=gene-3b;Dbxref=NCBI_GP:AXT92417.1;Name=AXT92417.1;gbkey=CDS;gene=3b;product=ORF3b;protein_id=AXT92417.1
+MG233398.1	Genbank	gene	24195	24524	.	+	.	ID=gene-3c;Name=3c;gbkey=Gene;gene=3c;gene_biotype=protein_coding
+MG233398.1	Genbank	CDS	24195	24524	.	+	0	ID=cds-AXT92418.1;Parent=gene-3c;Dbxref=NCBI_GP:AXT92418.1;Name=AXT92418.1;gbkey=CDS;gene=3c;product=E protein;protein_id=AXT92418.1
+MG233398.1	Genbank	gene	24496	25173	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MG233398.1	Genbank	CDS	24496	25173	.	+	0	ID=cds-AXT92419.1;Parent=gene-M;Dbxref=NCBI_GP:AXT92419.1;Name=AXT92419.1;gbkey=CDS;gene=M;product=M protein;protein_id=AXT92419.1
+MG233398.1	Genbank	gene	25533	25730	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+MG233398.1	Genbank	CDS	25533	25730	.	+	0	ID=cds-AXT92420.1;Parent=gene-5a;Dbxref=NCBI_GP:AXT92420.1;Name=AXT92420.1;gbkey=CDS;gene=5a;product=5a protein;protein_id=AXT92420.1
+MG233398.1	Genbank	gene	25727	25975	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+MG233398.1	Genbank	CDS	25727	25975	.	+	0	ID=cds-AXT92421.1;Parent=gene-5b;Dbxref=NCBI_GP:AXT92421.1;Name=AXT92421.1;gbkey=CDS;gene=5b;product=5b protein;protein_id=AXT92421.1
+MG233398.1	Genbank	gene	25918	27147	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MG233398.1	Genbank	CDS	25918	27147	.	+	0	ID=cds-AXT92422.1;Parent=gene-N;Dbxref=NCBI_GP:AXT92422.1;Name=AXT92422.1;gbkey=CDS;gene=N;product=N protein;protein_id=AXT92422.1
+

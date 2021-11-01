@@ -1,0 +1,17 @@
+##sequence-region KU215420.1 1 29262
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12663
+KU215420.1	Genbank	region	1	29262	.	+	.	ID=KU215420.1:1..29262;Dbxref=taxon:12663;collection-date=2013;country=Belgium;gbkey=Src;genome=genomic;isolate=Cat1_day7;mol_type=genomic RNA;nat-host=Felis catus
+KU215420.1	Genbank	CDS	288	12335	.	+	0	ID=cds-AMD11140.1;Dbxref=NCBI_GP:AMD11140.1;Name=AMD11140.1;exception=ribosomal slippage;gbkey=CDS;product=orf1ab polyprotein;protein_id=AMD11140.1
+KU215420.1	Genbank	CDS	12335	20377	.	+	0	ID=cds-AMD11140.1;Dbxref=NCBI_GP:AMD11140.1;Name=AMD11140.1;exception=ribosomal slippage;gbkey=CDS;product=orf1ab polyprotein;protein_id=AMD11140.1
+KU215420.1	Genbank	CDS	288	12377	.	+	0	ID=cds-AMD11141.1;Dbxref=NCBI_GP:AMD11141.1;Name=AMD11141.1;gbkey=CDS;product=orf1a polyprotein;protein_id=AMD11141.1
+KU215420.1	Genbank	CDS	20374	24777	.	+	0	ID=cds-AMD11142.1;Dbxref=NCBI_GP:AMD11142.1;Name=AMD11142.1;gbkey=CDS;product=spike protein;protein_id=AMD11142.1
+KU215420.1	Genbank	CDS	24789	25001	.	+	0	ID=cds-AMD11143.1;Dbxref=NCBI_GP:AMD11143.1;Name=AMD11143.1;gbkey=CDS;product=non-structural protein 3a;protein_id=AMD11143.1
+KU215420.1	Genbank	CDS	24949	25167	.	+	0	ID=cds-AMD11144.1;Dbxref=NCBI_GP:AMD11144.1;Name=AMD11144.1;gbkey=CDS;product=non-structural protein 3b;protein_id=AMD11144.1
+KU215420.1	Genbank	CDS	25164	25877	.	+	0	ID=cds-AMD11145.1;Dbxref=NCBI_GP:AMD11145.1;Name=AMD11145.1;gbkey=CDS;product=non-structural protein 3c;protein_id=AMD11145.1
+KU215420.1	Genbank	CDS	25864	26112	.	+	0	ID=cds-AMD11146.1;Dbxref=NCBI_GP:AMD11146.1;Name=AMD11146.1;gbkey=CDS;product=envelope protein;protein_id=AMD11146.1
+KU215420.1	Genbank	CDS	26123	26911	.	+	0	ID=cds-AMD11147.1;Dbxref=NCBI_GP:AMD11147.1;Name=AMD11147.1;gbkey=CDS;product=membrane protein;protein_id=AMD11147.1
+KU215420.1	Genbank	CDS	26924	28057	.	+	0	ID=cds-AMD11148.1;Dbxref=NCBI_GP:AMD11148.1;Name=AMD11148.1;gbkey=CDS;product=nucleocapsid protein;protein_id=AMD11148.1
+KU215420.1	Genbank	CDS	28062	28367	.	+	0	ID=cds-AMD11149.1;Dbxref=NCBI_GP:AMD11149.1;Name=AMD11149.1;gbkey=CDS;product=non-structural protein 7a;protein_id=AMD11149.1
+KU215420.1	Genbank	CDS	28372	28992	.	+	0	ID=cds-AMD11150.1;Dbxref=NCBI_GP:AMD11150.1;Name=AMD11150.1;gbkey=CDS;product=non-structural protein 7b;protein_id=AMD11150.1
+KU215420.1	Genbank	match	1	29262	.	+	.	ID=aln0;Target=KU215419.1 1 29262 +
+

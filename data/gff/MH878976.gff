@@ -1,0 +1,33 @@
+##sequence-region MH878976.1 1 27467
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+MH878976.1	Genbank	region	1	27467	.	+	.	ID=MH878976.1:1..27467;Dbxref=taxon:11120;collection-date=22-Feb-2014;country=Peru;gbkey=Src;genome=genomic;genotype=GI-16;isolate=VFAR-047;isolation-source=allantoic fluid of SPF eggs;mol_type=genomic RNA;nat-host=Gallus gallus
+MH878976.1	Genbank	gene	327	12188	.	+	.	ID=gene-1a;Name=1a;gbkey=Gene;gene=1a;gene_biotype=protein_coding
+MH878976.1	Genbank	CDS	327	12188	.	+	0	ID=cds-AYS76103.1;Parent=gene-1a;Dbxref=NCBI_GP:AYS76103.1;Name=AYS76103.1;gbkey=CDS;gene=1a;product=ORF1a;protein_id=AYS76103.1
+MH878976.1	Genbank	gene	12263	20221	.	+	.	ID=gene-1b;Name=1b;gbkey=Gene;gene=1b;gene_biotype=protein_coding
+MH878976.1	Genbank	CDS	12263	20221	.	+	0	ID=cds-AYS76104.1;Parent=gene-1b;Dbxref=NCBI_GP:AYS76104.1;Name=AYS76104.1;gbkey=CDS;gene=1b;product=1b;protein_id=AYS76104.1
+MH878976.1	Genbank	gene	20172	23672	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MH878976.1	Genbank	CDS	20172	23672	.	+	0	ID=cds-AYS76105.1;Parent=gene-S;Dbxref=NCBI_GP:AYS76105.1;Name=AYS76105.1;gbkey=CDS;gene=S;product=spike protein;protein_id=AYS76105.1
+MH878976.1	Genbank	sequence_feature	20172	21788	.	+	.	ID=id-S;Note=spike1;gbkey=misc_feature;gene=S
+MH878976.1	Genbank	sequence_feature	21783	21794	.	+	.	ID=id-S-2;Note=cleavage recognition site;gbkey=misc_feature;gene=S
+MH878976.1	Genbank	sequence_feature	21789	23672	.	+	.	ID=id-S-3;Note=spike2;gbkey=misc_feature;gene=S
+MH878976.1	Genbank	gene	23672	23845	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+MH878976.1	Genbank	CDS	23672	23845	.	+	0	ID=cds-AYS76106.1;Parent=gene-3a;Dbxref=NCBI_GP:AYS76106.1;Name=AYS76106.1;gbkey=CDS;gene=3a;product=3a;protein_id=AYS76106.1
+MH878976.1	Genbank	gene	23845	24039	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+MH878976.1	Genbank	CDS	23845	24039	.	+	0	ID=cds-AYS76107.1;Parent=gene-3b;Dbxref=NCBI_GP:AYS76107.1;Name=AYS76107.1;gbkey=CDS;gene=3b;product=3b;protein_id=AYS76107.1
+MH878976.1	Genbank	gene	24020	24328	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MH878976.1	Genbank	CDS	24020	24328	.	+	0	ID=cds-AYS76108.1;Parent=gene-E;Dbxref=NCBI_GP:AYS76108.1;Name=AYS76108.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=AYS76108.1
+MH878976.1	Genbank	gene	24321	25001	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MH878976.1	Genbank	CDS	24321	25001	.	+	0	ID=cds-AYS76109.1;Parent=gene-M;Dbxref=NCBI_GP:AYS76109.1;Name=AYS76109.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=AYS76109.1
+MH878976.1	Genbank	gene	25002	25286	.	+	.	ID=gene-4b;Name=4b;gbkey=Gene;gene=4b;gene_biotype=protein_coding
+MH878976.1	Genbank	CDS	25002	25286	.	+	0	ID=cds-AYS76110.1;Parent=gene-4b;Dbxref=NCBI_GP:AYS76110.1;Name=AYS76110.1;gbkey=CDS;gene=4b;product=4b;protein_id=AYS76110.1
+MH878976.1	Genbank	gene	25207	25368	.	+	.	ID=gene-4c;Name=4c;gbkey=Gene;gene=4c;gene_biotype=protein_coding
+MH878976.1	Genbank	CDS	25207	25368	.	+	0	ID=cds-AYS76111.1;Parent=gene-4c;Dbxref=NCBI_GP:AYS76111.1;Name=AYS76111.1;gbkey=CDS;gene=4c;product=4c;protein_id=AYS76111.1
+MH878976.1	Genbank	gene	25352	25549	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+MH878976.1	Genbank	CDS	25352	25549	.	+	0	ID=cds-AYS76112.1;Parent=gene-5a;Dbxref=NCBI_GP:AYS76112.1;Name=AYS76112.1;gbkey=CDS;gene=5a;product=5a;protein_id=AYS76112.1
+MH878976.1	Genbank	gene	25546	25794	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+MH878976.1	Genbank	CDS	25546	25794	.	+	0	ID=cds-AYS76113.1;Parent=gene-5b;Dbxref=NCBI_GP:AYS76113.1;Name=AYS76113.1;gbkey=CDS;gene=5b;product=5b;protein_id=AYS76113.1
+MH878976.1	Genbank	gene	25737	26966	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MH878976.1	Genbank	CDS	25737	26966	.	+	0	ID=cds-AYS76114.1;Parent=gene-N;Dbxref=NCBI_GP:AYS76114.1;Name=AYS76114.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=AYS76114.1
+MH878976.1	Genbank	gene	26975	27199	.	+	.	ID=gene-6b;Name=6b;gbkey=Gene;gene=6b;gene_biotype=protein_coding
+MH878976.1	Genbank	CDS	26975	27199	.	+	0	ID=cds-AYS76115.1;Parent=gene-6b;Dbxref=NCBI_GP:AYS76115.1;Name=AYS76115.1;gbkey=CDS;gene=6b;product=6b;protein_id=AYS76115.1
+

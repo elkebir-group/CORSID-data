@@ -1,0 +1,17 @@
+##sequence-region JF893452.2 1 27681
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+JF893452.2	Genbank	region	1	27681	.	+	.	ID=JF893452.2:1..27681;Dbxref=taxon:11120;collection-date=2005;country=China;gbkey=Src;genome=genomic;isolate=YN;mol_type=genomic RNA;nat-host=chicken
+JF893452.2	Genbank	CDS	528	12377	.	+	0	ID=cds-AEJ80236.2;Dbxref=NCBI_GP:AEJ80236.2;Name=AEJ80236.2;gbkey=CDS;product=1a polyprotein;protein_id=AEJ80236.2
+JF893452.2	Genbank	CDS	12374	20410	.	+	0	ID=cds-AEJ80237.2;Dbxref=NCBI_GP:AEJ80237.2;Name=AEJ80237.2;gbkey=CDS;product=1b polyprotein;protein_id=AEJ80237.2
+JF893452.2	Genbank	gene	20361	23864	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+JF893452.2	Genbank	CDS	20361	23864	.	+	0	ID=cds-AEJ80238.2;Parent=gene-S;Dbxref=NCBI_GP:AEJ80238.2;Name=AEJ80238.2;gbkey=CDS;gene=S;product=spike glycoprotein;protein_id=AEJ80238.2
+JF893452.2	Genbank	CDS	23864	24037	.	+	0	ID=cds-AEJ80239.1;Dbxref=NCBI_GP:AEJ80239.1;Name=AEJ80239.1;gbkey=CDS;product=3a protein;protein_id=AEJ80239.1
+JF893452.2	Genbank	CDS	24037	24225	.	+	0	ID=cds-AEJ80240.1;Dbxref=NCBI_GP:AEJ80240.1;Name=AEJ80240.1;gbkey=CDS;product=3b protein;protein_id=AEJ80240.1
+JF893452.2	Genbank	CDS	24203	24535	.	+	0	ID=cds-AEJ80241.2;Dbxref=NCBI_GP:AEJ80241.2;Name=AEJ80241.2;gbkey=CDS;product=envelope protein;protein_id=AEJ80241.2
+JF893452.2	Genbank	gene	24507	25184	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+JF893452.2	Genbank	CDS	24507	25184	.	+	0	ID=cds-AEJ80242.1;Parent=gene-M;Dbxref=NCBI_GP:AEJ80242.1;Name=AEJ80242.1;gbkey=CDS;gene=M;product=membrane glycoprotein;protein_id=AEJ80242.1
+JF893452.2	Genbank	CDS	25539	25736	.	+	0	ID=cds-AEJ80243.1;Dbxref=NCBI_GP:AEJ80243.1;Name=AEJ80243.1;gbkey=CDS;product=5a protein;protein_id=AEJ80243.1
+JF893452.2	Genbank	CDS	25733	25981	.	+	0	ID=cds-AEJ80244.1;Dbxref=NCBI_GP:AEJ80244.1;Name=AEJ80244.1;gbkey=CDS;product=5b protein;protein_id=AEJ80244.1
+JF893452.2	Genbank	gene	25924	27153	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+JF893452.2	Genbank	CDS	25924	27153	.	+	0	ID=cds-AEJ80245.1;Parent=gene-N;Dbxref=NCBI_GP:AEJ80245.1;Name=AEJ80245.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=AEJ80245.1
+

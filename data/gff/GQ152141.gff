@@ -1,0 +1,22 @@
+##sequence-region GQ152141.1 1 28897
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12663
+GQ152141.1	Genbank	region	1	28897	.	+	.	ID=GQ152141.1:1..28897;Dbxref=taxon:12663;collection-date=Sep-2007;country=Taiwan;gbkey=Src;isolation-source=pleural effusion;mol_type=genomic RNA;nat-host=cat;strain=FCoV/NTU156/P/2007;type=II
+GQ152141.1	Genbank	five_prime_UTR	1	312	.	+	.	ID=id-GQ152141.1:1..312;gbkey=5'UTR
+GQ152141.1	Genbank	CDS	313	12417	.	+	0	ID=cds-ACS44216.1;Dbxref=NCBI_GP:ACS44216.1;Name=ACS44216.1;Note=ORF 1a;gbkey=CDS;product=polyprotein 1a;protein_id=ACS44216.1
+GQ152141.1	Genbank	sequence_feature	12381	12387	.	+	.	ID=id-GQ152141.1:12381..12387;Note=ORF1ab ribosomal frameshift region;gbkey=misc_feature
+GQ152141.1	Genbank	CDS	12387	20417	.	+	0	ID=cds-ACS44217.1;Dbxref=NCBI_GP:ACS44217.1;Name=ACS44217.1;Note=translated as extension of polyprotein 1a via ribosomal frameshift;gbkey=CDS;partial=true;product=polyprotein 1ab;protein_id=ACS44217.1;start_range=.,12387
+GQ152141.1	Genbank	gene	20414	24775	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+GQ152141.1	Genbank	CDS	20414	24775	.	+	0	ID=cds-ACS44218.1;Parent=gene-S;Dbxref=NCBI_GP:ACS44218.1;Name=ACS44218.1;gbkey=CDS;gene=S;product=S;protein_id=ACS44218.1
+GQ152141.1	Genbank	CDS	24840	25076	.	+	0	ID=cds-ACS44219.1;Dbxref=NCBI_GP:ACS44219.1;Name=ACS44219.1;Note=ORF 3a;gbkey=CDS;product=unknown;protein_id=ACS44219.1
+GQ152141.1	Genbank	CDS	25021	25236	.	+	0	ID=cds-ACS44220.1;Dbxref=NCBI_GP:ACS44220.1;Name=ACS44220.1;Note=ORF 3b;gbkey=CDS;product=unknown;protein_id=ACS44220.1
+GQ152141.1	Genbank	sequence_feature	25233	25433	.	+	.	ID=id-GQ152141.1:25233..25433;Note=nonfunctional unknown due to mutation%3B ORF 3c%3B contains deletion/frameshift;gbkey=misc_feature
+GQ152141.1	Genbank	gene	25512	25760	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+GQ152141.1	Genbank	CDS	25512	25760	.	+	0	ID=cds-ACS44221.1;Parent=gene-E;Dbxref=NCBI_GP:ACS44221.1;Name=ACS44221.1;gbkey=CDS;gene=E;product=E;protein_id=ACS44221.1
+GQ152141.1	Genbank	gene	25771	26556	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+GQ152141.1	Genbank	CDS	25771	26556	.	+	0	ID=cds-ACS44222.1;Parent=gene-M;Dbxref=NCBI_GP:ACS44222.1;Name=ACS44222.1;gbkey=CDS;gene=M;product=M;protein_id=ACS44222.1
+GQ152141.1	Genbank	gene	26569	27687	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+GQ152141.1	Genbank	CDS	26569	27687	.	+	0	ID=cds-ACS44223.1;Parent=gene-N;Dbxref=NCBI_GP:ACS44223.1;Name=ACS44223.1;gbkey=CDS;gene=N;product=N;protein_id=ACS44223.1
+GQ152141.1	Genbank	CDS	27692	27997	.	+	0	ID=cds-ACS44224.1;Dbxref=NCBI_GP:ACS44224.1;Name=ACS44224.1;Note=ORF 7a;gbkey=CDS;product=unknown;protein_id=ACS44224.1
+GQ152141.1	Genbank	CDS	28002	28622	.	+	0	ID=cds-ACS44225.1;Dbxref=NCBI_GP:ACS44225.1;Name=ACS44225.1;Note=ORF 7b;gbkey=CDS;product=unknown;protein_id=ACS44225.1
+GQ152141.1	Genbank	three_prime_UTR	28623	28897	.	+	.	ID=id-GQ152141.1:28623..28897;gbkey=3'UTR
+

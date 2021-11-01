@@ -1,0 +1,26 @@
+##sequence-region MG916903.1 1 29076
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1508220
+MG916903.1	Genbank	region	1	29076	.	+	.	ID=MG916903.1:1..29076;Dbxref=taxon:1508220;collected-by=X.Yang;collection-date=17-Apr-2013;country=China;gbkey=Src;genome=genomic;identified-by=W.Zhang;isolate=BtCoV/Rh/YN2012_Rs4259;mol_type=genomic RNA;note=4259
+MG916903.1	Genbank	gene	298	20435	.	+	.	ID=gene-orf1ab;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding
+MG916903.1	Genbank	CDS	298	12408	.	+	0	ID=cds-QBP43277.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:QBP43277.1;Name=QBP43277.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=ORF1ab;protein_id=QBP43277.1
+MG916903.1	Genbank	CDS	12408	20435	.	+	0	ID=cds-QBP43277.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:QBP43277.1;Name=QBP43277.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=ORF1ab;protein_id=QBP43277.1
+MG916903.1	Genbank	CDS	298	12444	.	+	0	ID=cds-QBP43278.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:QBP43278.1;Name=QBP43278.1;gbkey=CDS;gene=orf1ab;product=ORF1a;protein_id=QBP43278.1
+MG916903.1	Genbank	gene	20437	24495	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MG916903.1	Genbank	CDS	20437	24495	.	+	0	ID=cds-QBP43279.1;Parent=gene-S;Dbxref=NCBI_GP:QBP43279.1;Name=QBP43279.1;gbkey=CDS;gene=S;product=S protein;protein_id=QBP43279.1
+MG916903.1	Genbank	gene	24495	25154	.	+	.	ID=gene-orf3a;Name=orf3a;gbkey=Gene;gene=orf3a;gene_biotype=protein_coding
+MG916903.1	Genbank	CDS	24495	25154	.	+	0	ID=cds-QBP43280.1;Parent=gene-orf3a;Dbxref=NCBI_GP:QBP43280.1;Name=QBP43280.1;gbkey=CDS;gene=orf3a;product=ORF3a;protein_id=QBP43280.1
+MG916903.1	Genbank	gene	25164	25526	.	+	.	ID=gene-orf4a;Name=orf4a;gbkey=Gene;gene=orf4a;gene_biotype=protein_coding
+MG916903.1	Genbank	CDS	25164	25526	.	+	0	ID=cds-QBP43281.1;Parent=gene-orf4a;Dbxref=NCBI_GP:QBP43281.1;Name=QBP43281.1;gbkey=CDS;gene=orf4a;product=ORF4a;protein_id=QBP43281.1
+MG916903.1	Genbank	gene	25508	25954	.	+	.	ID=gene-orf4b;Name=orf4b;gbkey=Gene;gene=orf4b;gene_biotype=protein_coding
+MG916903.1	Genbank	CDS	25508	25954	.	+	0	ID=cds-QBP43282.1;Parent=gene-orf4b;Dbxref=NCBI_GP:QBP43282.1;Name=QBP43282.1;gbkey=CDS;gene=orf4b;product=ORF4b;protein_id=QBP43282.1
+MG916903.1	Genbank	gene	25935	26159	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MG916903.1	Genbank	CDS	25935	26159	.	+	0	ID=cds-QBP43283.1;Parent=gene-E;Dbxref=NCBI_GP:QBP43283.1;Name=QBP43283.1;gbkey=CDS;gene=E;product=E protein;protein_id=QBP43283.1
+MG916903.1	Genbank	gene	26171	26860	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MG916903.1	Genbank	CDS	26171	26860	.	+	0	ID=cds-QBP43284.1;Parent=gene-M;Dbxref=NCBI_GP:QBP43284.1;Name=QBP43284.1;gbkey=CDS;gene=M;product=M protein;protein_id=QBP43284.1
+MG916903.1	Genbank	gene	26871	28097	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MG916903.1	Genbank	CDS	26871	28097	.	+	0	ID=cds-QBP43285.1;Parent=gene-N;Dbxref=NCBI_GP:QBP43285.1;Name=QBP43285.1;gbkey=CDS;gene=N;product=N protein;protein_id=QBP43285.1
+MG916903.1	Genbank	gene	28108	28386	.	+	.	ID=gene-orf8;Name=orf8;gbkey=Gene;gene=orf8;gene_biotype=protein_coding
+MG916903.1	Genbank	CDS	28108	28386	.	+	0	ID=cds-QBP43286.1;Parent=gene-orf8;Dbxref=NCBI_GP:QBP43286.1;Name=QBP43286.1;gbkey=CDS;gene=orf8;product=ORF8;protein_id=QBP43286.1
+MG916903.1	Genbank	gene	28434	28793	.	+	.	ID=gene-orf9;Name=orf9;gbkey=Gene;gene=orf9;gene_biotype=protein_coding
+MG916903.1	Genbank	CDS	28434	28793	.	+	0	ID=cds-QBP43287.1;Parent=gene-orf9;Dbxref=NCBI_GP:QBP43287.1;Name=QBP43287.1;gbkey=CDS;gene=orf9;product=ORF9;protein_id=QBP43287.1
+

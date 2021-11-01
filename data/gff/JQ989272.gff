@@ -1,0 +1,23 @@
+##sequence-region JQ989272.1 1 28483
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1241932
+JQ989272.1	Genbank	region	1	28483	.	+	.	ID=JQ989272.1:1..28483;Dbxref=taxon:1241932;collection-date=Aug-2010;country=Hong Kong;gbkey=Src;genome=genomic;isolate=TLC1343A;mol_type=genomic RNA;nat-host=bat
+JQ989272.1	Genbank	gene	303	20653	.	+	.	ID=gene-JQ989272.1:303..20653;description=orf1ab;gbkey=Gene;gene_biotype=protein_coding
+JQ989272.1	Genbank	CDS	303	12614	.	+	0	ID=cds-AFU92121.1;Parent=gene-JQ989272.1:303..20653;Dbxref=NCBI_GP:AFU92121.1;Name=AFU92121.1;exception=ribosomal slippage;gbkey=CDS;product=orf1ab polyprotein;protein_id=AFU92121.1
+JQ989272.1	Genbank	CDS	12614	20653	.	+	0	ID=cds-AFU92121.1;Parent=gene-JQ989272.1:303..20653;Dbxref=NCBI_GP:AFU92121.1;Name=AFU92121.1;exception=ribosomal slippage;gbkey=CDS;product=orf1ab polyprotein;protein_id=AFU92121.1
+JQ989272.1	Genbank	gene	20641	24690	.	+	.	ID=gene-JQ989272.1:20641..24690;description=S;gbkey=Gene;gene_biotype=protein_coding
+JQ989272.1	Genbank	CDS	20641	24690	.	+	0	ID=cds-AFU92122.1;Parent=gene-JQ989272.1:20641..24690;Dbxref=NCBI_GP:AFU92122.1;Name=AFU92122.1;gbkey=CDS;product=spike glycoprotein;protein_id=AFU92122.1
+JQ989272.1	Genbank	gene	24690	25346	.	+	.	ID=gene-JQ989272.1:24690..25346;description=NS3;gbkey=Gene;gene_biotype=protein_coding
+JQ989272.1	Genbank	CDS	24690	25346	.	+	0	ID=cds-AFU92123.1;Parent=gene-JQ989272.1:24690..25346;Dbxref=NCBI_GP:AFU92123.1;Name=AFU92123.1;gbkey=CDS;product=non-structural protein NS3;protein_id=AFU92123.1
+JQ989272.1	Genbank	gene	25375	25602	.	+	.	ID=gene-JQ989272.1:25375..25602;description=E;gbkey=Gene;gene_biotype=protein_coding
+JQ989272.1	Genbank	CDS	25375	25602	.	+	0	ID=cds-AFU92124.1;Parent=gene-JQ989272.1:25375..25602;Dbxref=NCBI_GP:AFU92124.1;Name=AFU92124.1;gbkey=CDS;product=envelope protein;protein_id=AFU92124.1
+JQ989272.1	Genbank	gene	25608	26288	.	+	.	ID=gene-JQ989272.1:25608..26288;description=M;gbkey=Gene;gene_biotype=protein_coding
+JQ989272.1	Genbank	CDS	25608	26288	.	+	0	ID=cds-AFU92125.1;Parent=gene-JQ989272.1:25608..26288;Dbxref=NCBI_GP:AFU92125.1;Name=AFU92125.1;gbkey=CDS;product=membrane protein;protein_id=AFU92125.1
+JQ989272.1	Genbank	gene	26300	27508	.	+	.	ID=gene-JQ989272.1:26300..27508;description=N;gbkey=Gene;gene_biotype=protein_coding
+JQ989272.1	Genbank	CDS	26300	27508	.	+	0	ID=cds-AFU92126.1;Parent=gene-JQ989272.1:26300..27508;Dbxref=NCBI_GP:AFU92126.1;Name=AFU92126.1;gbkey=CDS;product=nucleocapsid protein;protein_id=AFU92126.1
+JQ989272.1	Genbank	gene	27524	27766	.	+	.	ID=gene-JQ989272.1:27524..27766;description=NS7a;gbkey=Gene;gene_biotype=protein_coding
+JQ989272.1	Genbank	CDS	27524	27766	.	+	0	ID=cds-AFU92127.1;Parent=gene-JQ989272.1:27524..27766;Dbxref=NCBI_GP:AFU92127.1;Name=AFU92127.1;gbkey=CDS;product=non-structural protein NS7a;protein_id=AFU92127.1
+JQ989272.1	Genbank	gene	27776	28237	.	+	.	ID=gene-JQ989272.1:27776..28237;description=NS7b;gbkey=Gene;gene_biotype=protein_coding
+JQ989272.1	Genbank	CDS	27776	28237	.	+	0	ID=cds-AFU92128.1;Parent=gene-JQ989272.1:27776..28237;Dbxref=NCBI_GP:AFU92128.1;Name=AFU92128.1;gbkey=CDS;product=non-structural protein NS7b;protein_id=AFU92128.1
+JQ989272.1	Genbank	gene	27975	28205	.	+	.	ID=gene-JQ989272.1:27975..28205;description=NS7c;gbkey=Gene;gene_biotype=protein_coding
+JQ989272.1	Genbank	CDS	27975	28205	.	+	0	ID=cds-AFU92129.1;Parent=gene-JQ989272.1:27975..28205;Dbxref=NCBI_GP:AFU92129.1;Name=AFU92129.1;gbkey=CDS;product=non-structural protein NS7c;protein_id=AFU92129.1
+

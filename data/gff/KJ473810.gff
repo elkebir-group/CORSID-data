@@ -1,0 +1,11 @@
+##sequence-region KJ473810.1 1 27576
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1503290
+KJ473810.1	Genbank	region	1	27576	.	+	.	ID=KJ473810.1:1..27576;Dbxref=taxon:1503290;collection-date=2013;country=China;gbkey=Src;genome=genomic;isolate=BtMs-GS2013;mol_type=genomic RNA;nat-host=Myotis sp.;old-name=BtMs-AlphaCoV/GS2013
+KJ473810.1	Genbank	CDS	23	12223	.	+	0	ID=cds-AIA62270.1;Dbxref=NCBI_GP:AIA62270.1;Name=AIA62270.1;exception=ribosomal slippage;gbkey=CDS;product=ORF1ab polyprotein;protein_id=AIA62270.1
+KJ473810.1	Genbank	CDS	12223	20244	.	+	0	ID=cds-AIA62270.1;Dbxref=NCBI_GP:AIA62270.1;Name=AIA62270.1;exception=ribosomal slippage;gbkey=CDS;product=ORF1ab polyprotein;protein_id=AIA62270.1
+KJ473810.1	Genbank	CDS	20591	24358	.	+	0	ID=cds-AIA62271.1;Dbxref=NCBI_GP:AIA62271.1;Name=AIA62271.1;gbkey=CDS;product=spike glycoprotein;protein_id=AIA62271.1
+KJ473810.1	Genbank	CDS	24358	25047	.	+	0	ID=cds-AIA62272.1;Dbxref=NCBI_GP:AIA62272.1;Name=AIA62272.1;gbkey=CDS;product=hypothetical protein ORF3;protein_id=AIA62272.1
+KJ473810.1	Genbank	CDS	25055	25252	.	+	0	ID=cds-AIA62273.1;Dbxref=NCBI_GP:AIA62273.1;Name=AIA62273.1;gbkey=CDS;product=small envelope protein;protein_id=AIA62273.1
+KJ473810.1	Genbank	CDS	25262	25945	.	+	0	ID=cds-AIA62274.1;Dbxref=NCBI_GP:AIA62274.1;Name=AIA62274.1;gbkey=CDS;product=membrane glycoprotein;protein_id=AIA62274.1
+KJ473810.1	Genbank	CDS	25957	27108	.	+	0	ID=cds-AIA62275.1;Dbxref=NCBI_GP:AIA62275.1;Name=AIA62275.1;gbkey=CDS;product=nucleocapsid protein;protein_id=AIA62275.1
+

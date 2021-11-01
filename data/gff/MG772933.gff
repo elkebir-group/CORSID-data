@@ -1,0 +1,16 @@
+##sequence-region MG772933.1 1 29802
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1508227
+MG772933.1	Genbank	region	1	29802	.	+	.	ID=MG772933.1:1..29802;Dbxref=taxon:1508227;collection-date=Feb-2017;country=China;gbkey=Src;genome=genomic;isolate=bat-SL-CoVZC45;mol_type=genomic RNA;nat-host=Rhinolophus sinicus
+MG772933.1	Genbank	CDS	265	13455	.	+	0	ID=cds-AVP78030.1;Dbxref=NCBI_GP:AVP78030.1;Name=AVP78030.1;exception=ribosomal slippage;gbkey=CDS;product=non-structural polyprotein 1ab;protein_id=AVP78030.1
+MG772933.1	Genbank	CDS	13455	21542	.	+	0	ID=cds-AVP78030.1;Dbxref=NCBI_GP:AVP78030.1;Name=AVP78030.1;exception=ribosomal slippage;gbkey=CDS;product=non-structural polyprotein 1ab;protein_id=AVP78030.1
+MG772933.1	Genbank	CDS	21549	25289	.	+	0	ID=cds-AVP78031.1;Dbxref=NCBI_GP:AVP78031.1;Name=AVP78031.1;gbkey=CDS;product=spike protein;protein_id=AVP78031.1
+MG772933.1	Genbank	CDS	25298	26125	.	+	0	ID=cds-AVP78032.1;Dbxref=NCBI_GP:AVP78032.1;Name=AVP78032.1;gbkey=CDS;product=hypothetical protein;protein_id=AVP78032.1
+MG772933.1	Genbank	CDS	26150	26377	.	+	0	ID=cds-AVP78033.1;Dbxref=NCBI_GP:AVP78033.1;Name=AVP78033.1;gbkey=CDS;product=envelope protein;protein_id=AVP78033.1
+MG772933.1	Genbank	CDS	26428	27096	.	+	0	ID=cds-AVP78034.1;Dbxref=NCBI_GP:AVP78034.1;Name=AVP78034.1;gbkey=CDS;product=membrane protein;protein_id=AVP78034.1
+MG772933.1	Genbank	CDS	27107	27292	.	+	0	ID=cds-AVP78035.1;Dbxref=NCBI_GP:AVP78035.1;Name=AVP78035.1;gbkey=CDS;product=hypothetical protein;protein_id=AVP78035.1
+MG772933.1	Genbank	CDS	27299	27664	.	+	0	ID=cds-AVP78036.1;Dbxref=NCBI_GP:AVP78036.1;Name=AVP78036.1;gbkey=CDS;product=hypothetical protein;protein_id=AVP78036.1
+MG772933.1	Genbank	CDS	27799	28164	.	+	0	ID=cds-AVP78037.1;Dbxref=NCBI_GP:AVP78037.1;Name=AVP78037.1;gbkey=CDS;product=hypothetical protein;protein_id=AVP78037.1
+MG772933.1	Genbank	CDS	28179	29438	.	+	0	ID=cds-AVP78038.1;Dbxref=NCBI_GP:AVP78038.1;Name=AVP78038.1;gbkey=CDS;product=nucleocapsid protein;protein_id=AVP78038.1
+MG772933.1	Genbank	CDS	28189	28482	.	+	0	ID=cds-AVP78039.1;Dbxref=NCBI_GP:AVP78039.1;Name=AVP78039.1;gbkey=CDS;product=hypothetical protein;protein_id=AVP78039.1
+MG772933.1	Genbank	CDS	28639	28851	.	+	0	ID=cds-AVP78040.1;Dbxref=NCBI_GP:AVP78040.1;Name=AVP78040.1;gbkey=CDS;product=hypothetical protein;protein_id=AVP78040.1
+

@@ -1,0 +1,22 @@
+##sequence-region KX900395.1 1 28521
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11149
+KX900395.1	Genbank	region	1	28521	.	+	.	ID=KX900395.1:1..28521;Dbxref=taxon:11149;collected-by=Douglas Marthaler;collection-date=08-Nov-2006;country=USA: Minnesota;gbkey=Src;genome=genomic;identified-by=Fangzhou Chen;isolation-source=intestine;mol_type=genomic RNA;strain=TGEV/USA/Minnesota138/2006
+KX900395.1	Genbank	gene	315	12356	.	+	.	ID=gene-ORF1a;Name=ORF1a;gbkey=Gene;gene=ORF1a;gene_biotype=protein_coding
+KX900395.1	Genbank	CDS	315	12356	.	+	0	ID=cds-ASV64293.1;Parent=gene-ORF1a;Dbxref=NCBI_GP:ASV64293.1;Name=ASV64293.1;gbkey=CDS;gene=ORF1a;product=replicase 1a;protein_id=ASV64293.1
+KX900395.1	Genbank	gene	12320	20356	.	+	.	ID=gene-ORF1b;Name=ORF1b;gbkey=Gene;gene=ORF1b;gene_biotype=protein_coding;partial=true;start_range=.,12320
+KX900395.1	Genbank	CDS	12320	20356	.	+	0	ID=cds-ASV64294.1;Parent=gene-ORF1b;Dbxref=NCBI_GP:ASV64294.1;Name=ASV64294.1;gbkey=CDS;gene=ORF1b;partial=true;product=replicase 1b;protein_id=ASV64294.1;start_range=.,12320
+KX900395.1	Genbank	gene	20353	24702	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KX900395.1	Genbank	CDS	20353	24702	.	+	0	ID=cds-ASV64295.1;Parent=gene-S;Dbxref=NCBI_GP:ASV64295.1;Name=ASV64295.1;gbkey=CDS;gene=S;product=spike protein;protein_id=ASV64295.1
+KX900395.1	Genbank	gene	24802	25020	.	+	.	ID=gene-NSP3a;Name=NSP3a;gbkey=Gene;gene=NSP3a;gene_biotype=protein_coding
+KX900395.1	Genbank	CDS	24802	25020	.	+	0	ID=cds-ASV64296.1;Parent=gene-NSP3a;Dbxref=NCBI_GP:ASV64296.1;Name=ASV64296.1;gbkey=CDS;gene=NSP3a;product=non-structural protein 3a;protein_id=ASV64296.1
+KX900395.1	Genbank	gene	25078	25812	.	+	.	ID=gene-NSP3b;Name=NSP3b;gbkey=Gene;gene=NSP3b;gene_biotype=protein_coding
+KX900395.1	Genbank	CDS	25078	25812	.	+	0	ID=cds-ASV64297.1;Parent=gene-NSP3b;Dbxref=NCBI_GP:ASV64297.1;Name=ASV64297.1;gbkey=CDS;gene=NSP3b;product=non-structural protein 3b;protein_id=ASV64297.1
+KX900395.1	Genbank	gene	25799	26047	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+KX900395.1	Genbank	CDS	25799	26047	.	+	0	ID=cds-ASV64298.1;Parent=gene-E;Dbxref=NCBI_GP:ASV64298.1;Name=ASV64298.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=ASV64298.1
+KX900395.1	Genbank	gene	26058	26843	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KX900395.1	Genbank	CDS	26058	26843	.	+	0	ID=cds-ASV64299.1;Parent=gene-M;Dbxref=NCBI_GP:ASV64299.1;Name=ASV64299.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=ASV64299.1
+KX900395.1	Genbank	gene	26856	28004	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KX900395.1	Genbank	CDS	26856	28004	.	+	0	ID=cds-ASV64300.1;Parent=gene-N;Dbxref=NCBI_GP:ASV64300.1;Name=ASV64300.1;gbkey=CDS;gene=N;product=nucleoprotein;protein_id=ASV64300.1
+KX900395.1	Genbank	gene	28010	28246	.	+	.	ID=gene-NSP7;Name=NSP7;gbkey=Gene;gene=NSP7;gene_biotype=protein_coding
+KX900395.1	Genbank	CDS	28010	28246	.	+	0	ID=cds-ASV64301.1;Parent=gene-NSP7;Dbxref=NCBI_GP:ASV64301.1;Name=ASV64301.1;gbkey=CDS;gene=NSP7;product=non-structural protein 7;protein_id=ASV64301.1
+

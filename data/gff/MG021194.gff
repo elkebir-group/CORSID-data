@@ -1,0 +1,30 @@
+##sequence-region MG021194.1 1 27552
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+MG021194.1	Genbank	region	1	27552	.	+	.	ID=MG021194.1:1..27552;Dbxref=taxon:11120;collection-date=1996;country=Italy;gbkey=Src;genome=genomic;isolate=gammaCoV/AvCov/Ck/Italy/624I/96;mol_type=genomic RNA;nat-host=chicken;type=624I
+MG021194.1	Genbank	gene	433	12288	.	+	.	ID=gene-1a;Name=1a;gbkey=Gene;gene=1a;gene_biotype=protein_coding
+MG021194.1	Genbank	CDS	433	12288	.	+	0	ID=cds-AXR85430.1;Parent=gene-1a;Dbxref=NCBI_GP:AXR85430.1;Name=AXR85430.1;gbkey=CDS;gene=1a;product=polyprotein 1a;protein_id=AXR85430.1
+MG021194.1	Genbank	gene	12363	20321	.	+	.	ID=gene-1b;Name=1b;gbkey=Gene;gene=1b;gene_biotype=protein_coding
+MG021194.1	Genbank	CDS	12363	20321	.	+	0	ID=cds-AXR85431.1;Parent=gene-1b;Dbxref=NCBI_GP:AXR85431.1;Name=AXR85431.1;gbkey=CDS;gene=1b;product=polyprotein 1b;protein_id=AXR85431.1
+MG021194.1	Genbank	gene	20272	23772	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MG021194.1	Genbank	CDS	20272	23772	.	+	0	ID=cds-AXR85432.1;Parent=gene-S;Dbxref=NCBI_GP:AXR85432.1;Name=AXR85432.1;gbkey=CDS;gene=S;product=spike;protein_id=AXR85432.1
+MG021194.1	Genbank	gene	23772	23945	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+MG021194.1	Genbank	CDS	23772	23945	.	+	0	ID=cds-AXR85433.1;Parent=gene-3a;Dbxref=NCBI_GP:AXR85433.1;Name=AXR85433.1;gbkey=CDS;gene=3a;product=accessory protein 3a;protein_id=AXR85433.1
+MG021194.1	Genbank	gene	23945	24136	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+MG021194.1	Genbank	CDS	23945	24136	.	+	0	ID=cds-AXR85434.1;Parent=gene-3b;Dbxref=NCBI_GP:AXR85434.1;Name=AXR85434.1;gbkey=CDS;gene=3b;product=accessory protein 3b;protein_id=AXR85434.1
+MG021194.1	Genbank	gene	24117	24404	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MG021194.1	Genbank	CDS	24117	24404	.	+	0	ID=cds-AXR85435.1;Parent=gene-E;Dbxref=NCBI_GP:AXR85435.1;Name=AXR85435.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=AXR85435.1
+MG021194.1	Genbank	gene	24394	25074	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MG021194.1	Genbank	CDS	24394	25074	.	+	0	ID=cds-AXR85436.1;Parent=gene-M;Dbxref=NCBI_GP:AXR85436.1;Name=AXR85436.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=AXR85436.1
+MG021194.1	Genbank	gene	25075	25359	.	+	.	ID=gene-4b;Name=4b;gbkey=Gene;gene=4b;gene_biotype=protein_coding
+MG021194.1	Genbank	CDS	25075	25359	.	+	0	ID=cds-AXR85437.1;Parent=gene-4b;Dbxref=NCBI_GP:AXR85437.1;Name=AXR85437.1;gbkey=CDS;gene=4b;product=accessory protein 4b;protein_id=AXR85437.1
+MG021194.1	Genbank	gene	25280	25450	.	+	.	ID=gene-4c;Name=4c;gbkey=Gene;gene=4c;gene_biotype=protein_coding
+MG021194.1	Genbank	CDS	25280	25450	.	+	0	ID=cds-AXR85438.1;Parent=gene-4c;Dbxref=NCBI_GP:AXR85438.1;Name=AXR85438.1;gbkey=CDS;gene=4c;product=accessory protein 4c;protein_id=AXR85438.1
+MG021194.1	Genbank	gene	25434	25631	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+MG021194.1	Genbank	CDS	25434	25631	.	+	0	ID=cds-AXR85439.1;Parent=gene-5a;Dbxref=NCBI_GP:AXR85439.1;Name=AXR85439.1;gbkey=CDS;gene=5a;product=accessory protein 5a;protein_id=AXR85439.1
+MG021194.1	Genbank	gene	25628	25876	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+MG021194.1	Genbank	CDS	25628	25876	.	+	0	ID=cds-AXR85440.1;Parent=gene-5b;Dbxref=NCBI_GP:AXR85440.1;Name=AXR85440.1;gbkey=CDS;gene=5b;product=accessory protein 5b;protein_id=AXR85440.1
+MG021194.1	Genbank	gene	25819	27045	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MG021194.1	Genbank	CDS	25819	27045	.	+	0	ID=cds-AXR85441.1;Parent=gene-N;Dbxref=NCBI_GP:AXR85441.1;Name=AXR85441.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=AXR85441.1
+MG021194.1	Genbank	gene	27054	27278	.	+	.	ID=gene-6b;Name=6b;gbkey=Gene;gene=6b;gene_biotype=protein_coding
+MG021194.1	Genbank	CDS	27054	27278	.	+	0	ID=cds-AXR85442.1;Parent=gene-6b;Dbxref=NCBI_GP:AXR85442.1;Name=AXR85442.1;gbkey=CDS;gene=6b;product=accessory protein 6b;protein_id=AXR85442.1
+

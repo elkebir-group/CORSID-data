@@ -1,0 +1,25 @@
+##sequence-region MG596802.1 1 30048
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1335626
+MG596802.1	Genbank	region	1	30048	.	+	.	ID=MG596802.1:1..30048;Dbxref=taxon:1335626;collection-date=2011;country=Italy;gb-acronym=MERS-CoV;gbkey=Src;genome=genomic;isolate=Bat-CoV/H.savii/Italy/206645-40/2011;isolation-source=carcass;mol_type=genomic RNA;nat-host=Hypsugo savii;old-name=Middle East respiratory syndrome coronavirus;subgroup=2c
+MG596802.1	Genbank	gene	217	21446	.	+	.	ID=gene-ORF1ab;Name=ORF1ab;gbkey=Gene;gene=ORF1ab;gene_biotype=protein_coding
+MG596802.1	Genbank	CDS	217	13365	.	+	0	ID=cds-AUM60013.1;Parent=gene-ORF1ab;Dbxref=NCBI_GP:AUM60013.1;Name=AUM60013.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;product=ORF1ab polyprotein;protein_id=AUM60013.1
+MG596802.1	Genbank	CDS	13365	21446	.	+	0	ID=cds-AUM60013.1;Parent=gene-ORF1ab;Dbxref=NCBI_GP:AUM60013.1;Name=AUM60013.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;product=ORF1ab polyprotein;protein_id=AUM60013.1
+MG596802.1	Genbank	gene	21388	25425	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MG596802.1	Genbank	CDS	21388	25425	.	+	0	ID=cds-AUM60014.1;Parent=gene-S;Dbxref=NCBI_GP:AUM60014.1;Name=AUM60014.1;gbkey=CDS;gene=S;product=spike protein;protein_id=AUM60014.1
+MG596802.1	Genbank	gene	25438	25749	.	+	.	ID=gene-ORF3;Name=ORF3;gbkey=Gene;gene=ORF3;gene_biotype=protein_coding
+MG596802.1	Genbank	CDS	25438	25749	.	+	0	ID=cds-AUM60015.1;Parent=gene-ORF3;Dbxref=NCBI_GP:AUM60015.1;Name=AUM60015.1;gbkey=CDS;gene=ORF3;product=ORF3 protein;protein_id=AUM60015.1
+MG596802.1	Genbank	gene	25758	26045	.	+	.	ID=gene-ORF4a;Name=ORF4a;gbkey=Gene;gene=ORF4a;gene_biotype=protein_coding
+MG596802.1	Genbank	CDS	25758	26045	.	+	0	ID=cds-AUM60016.1;Parent=gene-ORF4a;Dbxref=NCBI_GP:AUM60016.1;Name=AUM60016.1;gbkey=CDS;gene=ORF4a;product=ORF4a protein;protein_id=AUM60016.1
+MG596802.1	Genbank	gene	25963	26724	.	+	.	ID=gene-ORF4b;Name=ORF4b;gbkey=Gene;gene=ORF4b;gene_biotype=protein_coding
+MG596802.1	Genbank	CDS	25963	26724	.	+	0	ID=cds-AUM60017.1;Parent=gene-ORF4b;Dbxref=NCBI_GP:AUM60017.1;Name=AUM60017.1;gbkey=CDS;gene=ORF4b;product=ORF4b protein;protein_id=AUM60017.1
+MG596802.1	Genbank	gene	26731	27414	.	+	.	ID=gene-ORF5;Name=ORF5;gbkey=Gene;gene=ORF5;gene_biotype=protein_coding
+MG596802.1	Genbank	CDS	26731	27414	.	+	0	ID=cds-AUM60018.1;Parent=gene-ORF5;Dbxref=NCBI_GP:AUM60018.1;Name=AUM60018.1;gbkey=CDS;gene=ORF5;product=ORF5 protein;protein_id=AUM60018.1
+MG596802.1	Genbank	gene	27493	27741	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MG596802.1	Genbank	CDS	27493	27741	.	+	0	ID=cds-AUM60019.1;Parent=gene-E;Dbxref=NCBI_GP:AUM60019.1;Name=AUM60019.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=AUM60019.1
+MG596802.1	Genbank	gene	27756	28412	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MG596802.1	Genbank	CDS	27756	28412	.	+	0	ID=cds-AUM60020.1;Parent=gene-M;Dbxref=NCBI_GP:AUM60020.1;Name=AUM60020.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=AUM60020.1
+MG596802.1	Genbank	gene	28460	29749	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MG596802.1	Genbank	CDS	28460	29749	.	+	0	ID=cds-AUM60021.1;Parent=gene-N;Dbxref=NCBI_GP:AUM60021.1;Name=AUM60021.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=AUM60021.1
+MG596802.1	Genbank	gene	28506	29084	.	+	.	ID=gene-ORF8b;Name=ORF8b;gbkey=Gene;gene=ORF8b;gene_biotype=protein_coding
+MG596802.1	Genbank	CDS	28506	29084	.	+	0	ID=cds-AUM60022.1;Parent=gene-ORF8b;Dbxref=NCBI_GP:AUM60022.1;Name=AUM60022.1;gbkey=CDS;gene=ORF8b;product=ORF8b protein;protein_id=AUM60022.1
+

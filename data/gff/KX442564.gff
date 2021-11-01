@@ -1,0 +1,16 @@
+##sequence-region KX442564.1 1 30498
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2020423
+KX442564.1	Genbank	region	1	30498	.	+	.	ID=KX442564.1:1..30498;Dbxref=taxon:2020423;collection-date=14-Sep-2013;country=China;gbkey=Src;genome=genomic;isolate=YD131305;isolation-source=anal swab;mol_type=genomic RNA;nat-host=Hypsugo pulveratus
+KX442564.1	Genbank	CDS	238	13794	.	+	0	ID=cds-ASL68940.1;Dbxref=NCBI_GP:ASL68940.1;Name=ASL68940.1;exception=ribosomal slippage;gbkey=CDS;product=replicase polyprotein 1ab;protein_id=ASL68940.1
+KX442564.1	Genbank	CDS	13794	21875	.	+	0	ID=cds-ASL68940.1;Dbxref=NCBI_GP:ASL68940.1;Name=ASL68940.1;exception=ribosomal slippage;gbkey=CDS;product=replicase polyprotein 1ab;protein_id=ASL68940.1
+KX442564.1	Genbank	CDS	238	13815	.	+	0	ID=cds-ASL68942.1;Dbxref=NCBI_GP:ASL68942.1;Name=ASL68942.1;gbkey=CDS;product=polyprotein 1a;protein_id=ASL68942.1
+KX442564.1	Genbank	CDS	21817	25857	.	+	0	ID=cds-ASL68941.1;Dbxref=NCBI_GP:ASL68941.1;Name=ASL68941.1;gbkey=CDS;product=spike glycoprotein;protein_id=ASL68941.1
+KX442564.1	Genbank	CDS	25869	26180	.	+	0	ID=cds-ASL68943.1;Dbxref=NCBI_GP:ASL68943.1;Name=ASL68943.1;gbkey=CDS;product=hypothetical protein;protein_id=ASL68943.1
+KX442564.1	Genbank	CDS	26189	26482	.	+	0	ID=cds-ASL68944.1;Dbxref=NCBI_GP:ASL68944.1;Name=ASL68944.1;gbkey=CDS;product=hypothetical protein;protein_id=ASL68944.1
+KX442564.1	Genbank	CDS	26394	27146	.	+	0	ID=cds-ASL68945.1;Dbxref=NCBI_GP:ASL68945.1;Name=ASL68945.1;gbkey=CDS;product=hypothetical protein;protein_id=ASL68945.1
+KX442564.1	Genbank	CDS	27153	27842	.	+	0	ID=cds-ASL68946.1;Dbxref=NCBI_GP:ASL68946.1;Name=ASL68946.1;gbkey=CDS;product=hypothetical protein;protein_id=ASL68946.1
+KX442564.1	Genbank	CDS	27919	28167	.	+	0	ID=cds-ASL68947.1;Dbxref=NCBI_GP:ASL68947.1;Name=ASL68947.1;gbkey=CDS;product=envelope protein;protein_id=ASL68947.1
+KX442564.1	Genbank	CDS	28182	28838	.	+	0	ID=cds-ASL68948.1;Dbxref=NCBI_GP:ASL68948.1;Name=ASL68948.1;gbkey=CDS;product=membrane protein;protein_id=ASL68948.1
+KX442564.1	Genbank	CDS	28894	30192	.	+	0	ID=cds-ASL68949.1;Dbxref=NCBI_GP:ASL68949.1;Name=ASL68949.1;gbkey=CDS;product=nucleocapsid protein;protein_id=ASL68949.1
+KX442564.1	Genbank	CDS	28940	29524	.	+	0	ID=cds-ASL68950.1;Dbxref=NCBI_GP:ASL68950.1;Name=ASL68950.1;gbkey=CDS;product=hypothetical protein;protein_id=ASL68950.1
+

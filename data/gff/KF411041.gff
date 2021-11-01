@@ -1,0 +1,23 @@
+##sequence-region KF411041.1 1 27655
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+KF411041.1	Genbank	region	1	27655	.	+	.	ID=KF411041.1:1..27655;Dbxref=taxon:11120;collection-date=10-Nov-2009;country=China;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=chicken;strain=CK/CH/LGX/091109
+KF411041.1	Genbank	gene	494	20388	.	+	.	ID=gene-1ab;Name=1ab;gbkey=Gene;gene=1ab;gene_biotype=protein_coding
+KF411041.1	Genbank	CDS	494	12352	.	+	0	ID=cds-AGZ89680.1;Parent=gene-1ab;Dbxref=NCBI_GP:AGZ89680.1;Name=AGZ89680.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=ORF 1ab;protein_id=AGZ89680.1
+KF411041.1	Genbank	CDS	12352	20388	.	+	0	ID=cds-AGZ89680.1;Parent=gene-1ab;Dbxref=NCBI_GP:AGZ89680.1;Name=AGZ89680.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=ORF 1ab;protein_id=AGZ89680.1
+KF411041.1	Genbank	gene	20339	23842	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KF411041.1	Genbank	CDS	20339	23842	.	+	0	ID=cds-AGZ89681.1;Parent=gene-S;Dbxref=NCBI_GP:AGZ89681.1;Name=AGZ89681.1;gbkey=CDS;gene=S;product=spike protein;protein_id=AGZ89681.1
+KF411041.1	Genbank	gene	23842	24015	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+KF411041.1	Genbank	CDS	23842	24015	.	+	0	ID=cds-AGZ89682.1;Parent=gene-3a;Dbxref=NCBI_GP:AGZ89682.1;Name=AGZ89682.1;gbkey=CDS;gene=3a;product=ORF 3a;protein_id=AGZ89682.1
+KF411041.1	Genbank	gene	24015	24203	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+KF411041.1	Genbank	CDS	24015	24203	.	+	0	ID=cds-AGZ89683.1;Parent=gene-3b;Dbxref=NCBI_GP:AGZ89683.1;Name=AGZ89683.1;gbkey=CDS;gene=3b;product=ORF 3b;protein_id=AGZ89683.1
+KF411041.1	Genbank	gene	24190	24516	.	+	.	ID=gene-3c;Name=3c;gbkey=Gene;gene=3c;gene_biotype=protein_coding
+KF411041.1	Genbank	CDS	24190	24516	.	+	0	ID=cds-AGZ89684.1;Parent=gene-3c;Dbxref=NCBI_GP:AGZ89684.1;Name=AGZ89684.1;gbkey=CDS;gene=3c;product=ORF 3c;protein_id=AGZ89684.1
+KF411041.1	Genbank	gene	24488	25162	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KF411041.1	Genbank	CDS	24488	25162	.	+	0	ID=cds-AGZ89685.1;Parent=gene-M;Dbxref=NCBI_GP:AGZ89685.1;Name=AGZ89685.1;gbkey=CDS;gene=M;product=M protein;protein_id=AGZ89685.1
+KF411041.1	Genbank	gene	25526	25723	.	+	.	ID=gene-ORF 5a;Name=ORF 5a;gbkey=Gene;gene=ORF 5a;gene_biotype=protein_coding
+KF411041.1	Genbank	CDS	25526	25723	.	+	0	ID=cds-AGZ89686.1;Parent=gene-ORF 5a;Dbxref=NCBI_GP:AGZ89686.1;Name=AGZ89686.1;gbkey=CDS;gene=ORF 5a;product=ORF 5a;protein_id=AGZ89686.1
+KF411041.1	Genbank	gene	25720	25968	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+KF411041.1	Genbank	CDS	25720	25968	.	+	0	ID=cds-AGZ89687.1;Parent=gene-5b;Dbxref=NCBI_GP:AGZ89687.1;Name=AGZ89687.1;gbkey=CDS;gene=5b;product=ORF 5b;protein_id=AGZ89687.1
+KF411041.1	Genbank	gene	25911	27140	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KF411041.1	Genbank	CDS	25911	27140	.	+	0	ID=cds-AGZ89688.1;Parent=gene-N;Dbxref=NCBI_GP:AGZ89688.1;Name=AGZ89688.1;gbkey=CDS;gene=N;product=N protein;protein_id=AGZ89688.1
+

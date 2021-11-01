@@ -1,0 +1,13 @@
+##sequence-region MN514967.1 1 30799
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1479610
+MN514967.1	Genbank	region	1	30799	.	+	.	ID=MN514967.1:1..30799;Dbxref=taxon:1479610;collection-date=24-Jan-2016;country=Nigeria;gbkey=Src;genome=genomic;isolate=DcCoV-HKU23/camel/Nigeria/NV1385/2016;mol_type=genomic RNA;nat-host=Camelus dromedarius
+MN514967.1	Genbank	CDS	215	13339	.	+	0	ID=cds-QEY10662.1;Dbxref=NCBI_GP:QEY10662.1;Name=QEY10662.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein ORF1ab;protein_id=QEY10662.1
+MN514967.1	Genbank	CDS	13339	21492	.	+	0	ID=cds-QEY10662.1;Dbxref=NCBI_GP:QEY10662.1;Name=QEY10662.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein ORF1ab;protein_id=QEY10662.1
+MN514967.1	Genbank	CDS	21502	22338	.	+	0	ID=cds-QEY10663.1;Dbxref=NCBI_GP:QEY10663.1;Name=QEY10663.1;gbkey=CDS;product=NS2 protein;protein_id=QEY10663.1
+MN514967.1	Genbank	CDS	22350	23624	.	+	0	ID=cds-QEY10664.1;Dbxref=NCBI_GP:QEY10664.1;Name=QEY10664.1;gbkey=CDS;product=HE protein;protein_id=QEY10664.1
+MN514967.1	Genbank	CDS	23639	27739	.	+	0	ID=cds-QEY10665.1;Dbxref=NCBI_GP:QEY10665.1;Name=QEY10665.1;gbkey=CDS;product=S protein;protein_id=QEY10665.1
+MN514967.1	Genbank	CDS	27886	28215	.	+	0	ID=cds-QEY10666.1;Dbxref=NCBI_GP:QEY10666.1;Name=QEY10666.1;gbkey=CDS;product=NS5 protein;protein_id=QEY10666.1
+MN514967.1	Genbank	CDS	28208	28459	.	+	0	ID=cds-QEY10667.1;Dbxref=NCBI_GP:QEY10667.1;Name=QEY10667.1;gbkey=CDS;product=E protein;protein_id=QEY10667.1
+MN514967.1	Genbank	CDS	28470	29162	.	+	0	ID=cds-QEY10668.1;Dbxref=NCBI_GP:QEY10668.1;Name=QEY10668.1;gbkey=CDS;product=M protein;protein_id=QEY10668.1
+MN514967.1	Genbank	CDS	29172	30518	.	+	0	ID=cds-QEY10669.1;Dbxref=NCBI_GP:QEY10669.1;Name=QEY10669.1;gbkey=CDS;product=N protein;protein_id=QEY10669.1
+

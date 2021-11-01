@@ -1,0 +1,14 @@
+##sequence-region MF882923.1 1 27705
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+MF882923.1	Genbank	region	1	27705	.	+	.	ID=MF882923.1:1..27705;Dbxref=taxon:11120;collection-date=Jul-2016;country=China;gbkey=Src;genome=genomic;isolate=CK/CH/HB/2016;mol_type=genomic RNA;nat-host=chicken
+MF882923.1	Genbank	CDS	526	12387	.	+	0	ID=cds-ATD12169.1;Dbxref=NCBI_GP:ATD12169.1;Name=ATD12169.1;gbkey=CDS;product=1a polyprotein;protein_id=ATD12169.1
+MF882923.1	Genbank	CDS	12462	20420	.	+	0	ID=cds-ATD12170.1;Dbxref=NCBI_GP:ATD12170.1;Name=ATD12170.1;gbkey=CDS;product=1b polyprotein;protein_id=ATD12170.1
+MF882923.1	Genbank	CDS	20371	23883	.	+	0	ID=cds-ATD12171.1;Dbxref=NCBI_GP:ATD12171.1;Name=ATD12171.1;gbkey=CDS;product=spike glycoprotein;protein_id=ATD12171.1
+MF882923.1	Genbank	CDS	23883	24056	.	+	0	ID=cds-ATD12172.1;Dbxref=NCBI_GP:ATD12172.1;Name=ATD12172.1;gbkey=CDS;product=3a protein;protein_id=ATD12172.1
+MF882923.1	Genbank	CDS	24056	24244	.	+	0	ID=cds-ATD12173.1;Dbxref=NCBI_GP:ATD12173.1;Name=ATD12173.1;gbkey=CDS;product=3b protein;protein_id=ATD12173.1
+MF882923.1	Genbank	CDS	24225	24536	.	+	0	ID=cds-ATD12174.1;Dbxref=NCBI_GP:ATD12174.1;Name=ATD12174.1;gbkey=CDS;product=envelope protein;protein_id=ATD12174.1
+MF882923.1	Genbank	CDS	24526	25206	.	+	0	ID=cds-ATD12175.1;Dbxref=NCBI_GP:ATD12175.1;Name=ATD12175.1;gbkey=CDS;product=membrane glycoprotein;protein_id=ATD12175.1
+MF882923.1	Genbank	CDS	25207	25491	.	+	0	ID=cds-ATD12176.1;Dbxref=NCBI_GP:ATD12176.1;Name=ATD12176.1;gbkey=CDS;product=5a protein;protein_id=ATD12176.1
+MF882923.1	Genbank	CDS	25570	25767	.	+	0	ID=cds-ATD12177.1;Dbxref=NCBI_GP:ATD12177.1;Name=ATD12177.1;gbkey=CDS;product=5b protein;protein_id=ATD12177.1
+MF882923.1	Genbank	CDS	25955	27181	.	+	0	ID=cds-ATD12178.1;Dbxref=NCBI_GP:ATD12178.1;Name=ATD12178.1;gbkey=CDS;product=nucleocapsid protein;protein_id=ATD12178.1
+

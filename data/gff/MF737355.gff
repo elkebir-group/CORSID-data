@@ -1,0 +1,17 @@
+##sequence-region MF737355.1 1 28038
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=28295
+MF737355.1	Genbank	region	1	28038	.	+	.	ID=MF737355.1:1..28038;Dbxref=taxon:28295;collection-date=Jul-2001;country=South Korea;gb-acronym=PEDV;gbkey=Src;genome=genomic;isolate=KUPE21;mol_type=genomic RNA;nat-host=pig
+MF737355.1	Genbank	gene	293	20637	.	+	.	ID=gene-ORF1a/1b;Name=ORF1a/1b;gbkey=Gene;gene=ORF1a/1b;gene_biotype=protein_coding
+MF737355.1	Genbank	CDS	293	12601	.	+	0	ID=cds-ASW30993.1;Parent=gene-ORF1a/1b;Dbxref=NCBI_GP:ASW30993.1;Name=ASW30993.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1a/1b;product=polyprotein;protein_id=ASW30993.1
+MF737355.1	Genbank	CDS	12601	20637	.	+	0	ID=cds-ASW30993.1;Parent=gene-ORF1a/1b;Dbxref=NCBI_GP:ASW30993.1;Name=ASW30993.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1a/1b;product=polyprotein;protein_id=ASW30993.1
+MF737355.1	Genbank	gene	20634	24794	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MF737355.1	Genbank	CDS	20634	24794	.	+	0	ID=cds-ASW30994.1;Parent=gene-S;Dbxref=NCBI_GP:ASW30994.1;Name=ASW30994.1;gbkey=CDS;gene=S;product=spike protein;protein_id=ASW30994.1
+MF737355.1	Genbank	gene	24794	25468	.	+	.	ID=gene-ORF3;Name=ORF3;gbkey=Gene;gene=ORF3;gene_biotype=protein_coding
+MF737355.1	Genbank	CDS	24794	25468	.	+	0	ID=cds-ASW30995.1;Parent=gene-ORF3;Dbxref=NCBI_GP:ASW30995.1;Name=ASW30995.1;gbkey=CDS;gene=ORF3;product=hypothetical protein;protein_id=ASW30995.1
+MF737355.1	Genbank	gene	25449	25679	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MF737355.1	Genbank	CDS	25449	25679	.	+	0	ID=cds-ASW30996.1;Parent=gene-E;Dbxref=NCBI_GP:ASW30996.1;Name=ASW30996.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=ASW30996.1
+MF737355.1	Genbank	gene	25687	26367	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MF737355.1	Genbank	CDS	25687	26367	.	+	0	ID=cds-ASW30997.1;Parent=gene-M;Dbxref=NCBI_GP:ASW30997.1;Name=ASW30997.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=ASW30997.1
+MF737355.1	Genbank	gene	26379	27704	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MF737355.1	Genbank	CDS	26379	27704	.	+	0	ID=cds-ASW30998.1;Parent=gene-N;Dbxref=NCBI_GP:ASW30998.1;Name=ASW30998.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=ASW30998.1
+

@@ -1,0 +1,11 @@
+##sequence-region JQ023161.1 1 28029
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=28295
+JQ023161.1	Genbank	region	1	28029	.	+	.	ID=JQ023161.1:1..28029;Dbxref=taxon:28295;collection-date=2009;country=South Korea;gb-acronym=PEDV;gbkey=Src;genome=genomic;isolation-source=small intestines of suckling pigs;mol_type=genomic RNA;nat-host=porcine;strain=virulent DR13
+JQ023161.1	Genbank	CDS	293	12601	.	+	0	ID=cds-AFE85967.1;Dbxref=NCBI_GP:AFE85967.1;Name=AFE85967.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein;protein_id=AFE85967.1
+JQ023161.1	Genbank	CDS	12601	20637	.	+	0	ID=cds-AFE85967.1;Dbxref=NCBI_GP:AFE85967.1;Name=AFE85967.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein;protein_id=AFE85967.1
+JQ023161.1	Genbank	CDS	20634	24785	.	+	0	ID=cds-AFE85962.1;Dbxref=NCBI_GP:AFE85962.1;Name=AFE85962.1;gbkey=CDS;product=spike protein;protein_id=AFE85962.1
+JQ023161.1	Genbank	CDS	24785	25459	.	+	0	ID=cds-AFE85963.1;Dbxref=NCBI_GP:AFE85963.1;Name=AFE85963.1;Note=ORF3;gbkey=CDS;product=hypothetical protein;protein_id=AFE85963.1
+JQ023161.1	Genbank	CDS	25440	25670	.	+	0	ID=cds-AFE85964.1;Dbxref=NCBI_GP:AFE85964.1;Name=AFE85964.1;gbkey=CDS;product=envelope protein;protein_id=AFE85964.1
+JQ023161.1	Genbank	CDS	25678	26358	.	+	0	ID=cds-AFE85965.1;Dbxref=NCBI_GP:AFE85965.1;Name=AFE85965.1;gbkey=CDS;product=membrane protein;protein_id=AFE85965.1
+JQ023161.1	Genbank	CDS	26370	27695	.	+	0	ID=cds-AFE85966.1;Dbxref=NCBI_GP:AFE85966.1;Name=AFE85966.1;gbkey=CDS;product=nucleocapsid protein;protein_id=AFE85966.1
+

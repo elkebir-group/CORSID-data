@@ -1,0 +1,33 @@
+##sequence-region KF793824.1 1 31769
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1433215
+KF793824.1	Genbank	region	1	31769	.	+	.	ID=KF793824.1:1..31769;Dbxref=taxon:1433215;gbkey=Src;genome=genomic;isolate=CF090325;mol_type=genomic RNA
+KF793824.1	Genbank	gene	520	20510	.	+	.	ID=gene-orf1ab;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding
+KF793824.1	Genbank	CDS	520	12384	.	+	0	ID=cds-AHB63480.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:AHB63480.1;Name=AHB63480.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=replicase polyprotein;protein_id=AHB63480.1
+KF793824.1	Genbank	CDS	12384	20510	.	+	0	ID=cds-AHB63480.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:AHB63480.1;Name=AHB63480.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=replicase polyprotein;protein_id=AHB63480.1
+KF793824.1	Genbank	gene	20446	24927	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KF793824.1	Genbank	CDS	20446	24927	.	+	0	ID=cds-AHB63481.1;Parent=gene-S;Dbxref=NCBI_GP:AHB63481.1;Name=AHB63481.1;gbkey=CDS;gene=S;product=spike glycoprotein;protein_id=AHB63481.1
+KF793824.1	Genbank	gene	24933	25220	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+KF793824.1	Genbank	CDS	24933	25220	.	+	0	ID=cds-AHB63482.1;Parent=gene-E;Dbxref=NCBI_GP:AHB63482.1;Name=AHB63482.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=AHB63482.1
+KF793824.1	Genbank	gene	25204	26028	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KF793824.1	Genbank	CDS	25204	26028	.	+	0	ID=cds-AHB63483.1;Parent=gene-M;Dbxref=NCBI_GP:AHB63483.1;Name=AHB63483.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=AHB63483.1
+KF793824.1	Genbank	gene	26031	26447	.	+	.	ID=gene-NS5a;Name=NS5a;gbkey=Gene;gene=NS5a;gene_biotype=protein_coding
+KF793824.1	Genbank	CDS	26031	26447	.	+	0	ID=cds-AHB63484.1;Parent=gene-NS5a;Dbxref=NCBI_GP:AHB63484.1;Name=AHB63484.1;gbkey=CDS;gene=NS5a;product=NS5a protein;protein_id=AHB63484.1
+KF793824.1	Genbank	gene	26440	26958	.	+	.	ID=gene-NS5b;Name=NS5b;gbkey=Gene;gene=NS5b;gene_biotype=protein_coding
+KF793824.1	Genbank	CDS	26440	26958	.	+	0	ID=cds-AHB63485.1;Parent=gene-NS5b;Dbxref=NCBI_GP:AHB63485.1;Name=AHB63485.1;gbkey=CDS;gene=NS5b;product=NS5b protein;protein_id=AHB63485.1
+KF793824.1	Genbank	gene	26948	27475	.	+	.	ID=gene-NS5c;Name=NS5c;gbkey=Gene;gene=NS5c;gene_biotype=protein_coding
+KF793824.1	Genbank	CDS	26948	27475	.	+	0	ID=cds-AHB63486.1;Parent=gene-NS5c;Dbxref=NCBI_GP:AHB63486.1;Name=AHB63486.1;gbkey=CDS;gene=NS5c;product=NS5c protein;protein_id=AHB63486.1
+KF793824.1	Genbank	gene	27479	28165	.	+	.	ID=gene-NS6;Name=NS6;gbkey=Gene;gene=NS6;gene_biotype=protein_coding
+KF793824.1	Genbank	CDS	27479	28165	.	+	0	ID=cds-AHB63487.1;Parent=gene-NS6;Dbxref=NCBI_GP:AHB63487.1;Name=AHB63487.1;gbkey=CDS;gene=NS6;product=NS6 protein;protein_id=AHB63487.1
+KF793824.1	Genbank	gene	28168	28359	.	+	.	ID=gene-NS7a;Name=NS7a;gbkey=Gene;gene=NS7a;gene_biotype=protein_coding
+KF793824.1	Genbank	CDS	28168	28359	.	+	0	ID=cds-AHB63488.1;Parent=gene-NS7a;Dbxref=NCBI_GP:AHB63488.1;Name=AHB63488.1;gbkey=CDS;gene=NS7a;product=NS7a protein;protein_id=AHB63488.1
+KF793824.1	Genbank	gene	28382	28486	.	+	.	ID=gene-NS7b;Name=NS7b;gbkey=Gene;gene=NS7b;gene_biotype=protein_coding
+KF793824.1	Genbank	CDS	28382	28486	.	+	0	ID=cds-AHB63489.1;Parent=gene-NS7b;Dbxref=NCBI_GP:AHB63489.1;Name=AHB63489.1;gbkey=CDS;gene=NS7b;product=NS7b protein;protein_id=AHB63489.1
+KF793824.1	Genbank	gene	28804	28983	.	+	.	ID=gene-NS8;Name=NS8;gbkey=Gene;gene=NS8;gene_biotype=protein_coding
+KF793824.1	Genbank	CDS	28804	28983	.	+	0	ID=cds-AHB63490.1;Parent=gene-NS8;Dbxref=NCBI_GP:AHB63490.1;Name=AHB63490.1;gbkey=CDS;gene=NS8;product=NS8 protein;protein_id=AHB63490.1
+KF793824.1	Genbank	gene	29040	29498	.	+	.	ID=gene-NS9;Name=NS9;gbkey=Gene;gene=NS9;gene_biotype=protein_coding
+KF793824.1	Genbank	CDS	29040	29498	.	+	0	ID=cds-AHB63491.1;Parent=gene-NS9;Dbxref=NCBI_GP:AHB63491.1;Name=AHB63491.1;gbkey=CDS;gene=NS9;product=NS9 protein;protein_id=AHB63491.1
+KF793824.1	Genbank	gene	29501	30133	.	+	.	ID=gene-NS10;Name=NS10;gbkey=Gene;gene=NS10;gene_biotype=protein_coding
+KF793824.1	Genbank	CDS	29501	30133	.	+	0	ID=cds-AHB63492.1;Parent=gene-NS10;Dbxref=NCBI_GP:AHB63492.1;Name=AHB63492.1;gbkey=CDS;gene=NS10;product=NS10 protein;protein_id=AHB63492.1
+KF793824.1	Genbank	gene	30245	31384	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KF793824.1	Genbank	CDS	30245	31384	.	+	0	ID=cds-AHB63493.1;Parent=gene-N;Dbxref=NCBI_GP:AHB63493.1;Name=AHB63493.1;gbkey=CDS;gene=N;product=N protein;protein_id=AHB63493.1
+

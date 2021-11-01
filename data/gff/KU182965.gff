@@ -1,0 +1,23 @@
+##sequence-region KU182965.1 1 30321
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1508220
+KU182965.1	Genbank	region	1	30321	.	+	.	ID=KU182965.1:1..30321;Dbxref=taxon:1508220;collection-date=Dec-2012;country=China;gbkey=Src;genome=genomic;isolate=JPDB144;isolation-source=intestines;mol_type=genomic RNA;nat-host=Myotis daubentonii
+KU182965.1	Genbank	gene	267	21664	.	+	.	ID=gene-ORF1ab;Name=ORF1ab;gbkey=Gene;gene=ORF1ab;gene_biotype=protein_coding
+KU182965.1	Genbank	CDS	267	13589	.	+	0	ID=cds-ANA96038.1;Parent=gene-ORF1ab;Dbxref=NCBI_GP:ANA96038.1;Name=ANA96038.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;product=P1ab protein;protein_id=ANA96038.1
+KU182965.1	Genbank	CDS	13589	21664	.	+	0	ID=cds-ANA96038.1;Parent=gene-ORF1ab;Dbxref=NCBI_GP:ANA96038.1;Name=ANA96038.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;product=P1ab protein;protein_id=ANA96038.1
+KU182965.1	Genbank	gene	21609	25667	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KU182965.1	Genbank	CDS	21609	25667	.	+	0	ID=cds-ANA96039.1;Parent=gene-S;Dbxref=NCBI_GP:ANA96039.1;Name=ANA96039.1;gbkey=CDS;gene=S;product=spike protein;protein_id=ANA96039.1
+KU182965.1	Genbank	gene	25694	25969	.	+	.	ID=gene-ORF3a;Name=ORF3a;gbkey=Gene;gene=ORF3a;gene_biotype=protein_coding
+KU182965.1	Genbank	CDS	25694	25969	.	+	0	ID=cds-ANA96040.1;Parent=gene-ORF3a;Dbxref=NCBI_GP:ANA96040.1;Name=ANA96040.1;gbkey=CDS;gene=ORF3a;product=3a protein;protein_id=ANA96040.1
+KU182965.1	Genbank	gene	25987	26346	.	+	.	ID=gene-ORF3b;Name=ORF3b;gbkey=Gene;gene=ORF3b;gene_biotype=protein_coding
+KU182965.1	Genbank	CDS	25987	26346	.	+	0	ID=cds-ANA96041.1;Parent=gene-ORF3b;Dbxref=NCBI_GP:ANA96041.1;Name=ANA96041.1;gbkey=CDS;gene=ORF3b;product=3b protein;protein_id=ANA96041.1
+KU182965.1	Genbank	gene	26150	27007	.	+	.	ID=gene-ORF3c;Name=ORF3c;gbkey=Gene;gene=ORF3c;gene_biotype=protein_coding
+KU182965.1	Genbank	CDS	26150	27007	.	+	0	ID=cds-ANA96042.1;Parent=gene-ORF3c;Dbxref=NCBI_GP:ANA96042.1;Name=ANA96042.1;gbkey=CDS;gene=ORF3c;product=3c protein;protein_id=ANA96042.1
+KU182965.1	Genbank	gene	27023	27706	.	+	.	ID=gene-ORF3d;Name=ORF3d;gbkey=Gene;gene=ORF3d;gene_biotype=protein_coding
+KU182965.1	Genbank	CDS	27023	27706	.	+	0	ID=cds-ANA96043.1;Parent=gene-ORF3d;Dbxref=NCBI_GP:ANA96043.1;Name=ANA96043.1;gbkey=CDS;gene=ORF3d;product=3d protein;protein_id=ANA96043.1
+KU182965.1	Genbank	gene	27776	28024	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+KU182965.1	Genbank	CDS	27776	28024	.	+	0	ID=cds-ANA96044.1;Parent=gene-E;Dbxref=NCBI_GP:ANA96044.1;Name=ANA96044.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=ANA96044.1
+KU182965.1	Genbank	gene	28039	28698	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KU182965.1	Genbank	CDS	28039	28698	.	+	0	ID=cds-ANA96045.1;Parent=gene-M;Dbxref=NCBI_GP:ANA96045.1;Name=ANA96045.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=ANA96045.1
+KU182965.1	Genbank	gene	28736	30007	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KU182965.1	Genbank	CDS	28736	30007	.	+	0	ID=cds-ANA96046.1;Parent=gene-N;Dbxref=NCBI_GP:ANA96046.1;Name=ANA96046.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=ANA96046.1
+

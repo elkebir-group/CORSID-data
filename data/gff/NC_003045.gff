@@ -1,0 +1,45 @@
+##sequence-region NC_003045.1 1 31028
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11128
+NC_003045.1	RefSeq	region	1	31028	.	+	.	ID=NC_003045.1:1..31028;Dbxref=taxon:11128;gbkey=Src;genome=genomic;isolate=BCoV-ENT;mol_type=genomic RNA
+NC_003045.1	RefSeq	five_prime_UTR	1	210	.	+	.	ID=id-NC_003045.1:1..210;Note=functions in replication and transcription;gbkey=5'UTR
+NC_003045.1	RefSeq	gene	211	21494	.	+	.	ID=gene-BCoVgp01;Dbxref=GeneID:921688;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding;locus_tag=BCoVgp01
+NC_003045.1	RefSeq	CDS	211	13341	.	+	0	ID=cds-NP_150073.2;Parent=gene-BCoVgp01;Dbxref=Genbank:NP_150073.2,GeneID:921688;Name=NP_150073.2;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;locus_tag=BCoVgp01;product=orf1ab polyprotein;protein_id=NP_150073.2
+NC_003045.1	RefSeq	CDS	13341	21494	.	+	0	ID=cds-NP_150073.2;Parent=gene-BCoVgp01;Dbxref=Genbank:NP_150073.2,GeneID:921688;Name=NP_150073.2;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;locus_tag=BCoVgp01;product=orf1ab polyprotein;protein_id=NP_150073.2
+NC_003045.1	RefSeq	mature_protein_region_of_CDS	211	948	.	+	.	ID=id-NP_150073.2:1..246;Note=PL1-PRO cleavage product;Parent=cds-NP_150073.2;gbkey=Prot;product=Leader protein;protein_id=NP_742129.1
+NC_003045.1	RefSeq	mature_protein_region_of_CDS	949	2763	.	+	.	ID=id-NP_150073.2:247..851;Note=PL1-PRO cleavage product;Parent=cds-NP_150073.2;gbkey=Prot;product=MHV p65-like protein;protein_id=NP_742130.1
+NC_003045.1	RefSeq	mature_protein_region_of_CDS	2764	8460	.	+	.	ID=id-NP_150073.2:852..2750;Note=Contains papain-like proteinase 1 domain (PL1-PRO)%2C X-domain%2C papain-like proteinase 2 domain (PL2-PRO) and hydrophobic domain (HD).;Parent=cds-NP_150073.2;gbkey=Prot;product=coronavirus nsp1 (PL1-PRO%2C PL2-PRO%2C HD);protein_id=NP_742169.1
+NC_003045.1	RefSeq	mature_protein_region_of_CDS	8461	9948	.	+	.	ID=id-NP_150073.2:2751..3246;Parent=cds-NP_150073.2;gbkey=Prot;product=transmembrane domain 2;protein_id=NP_742170.1
+NC_003045.1	RefSeq	mature_protein_region_of_CDS	9949	10857	.	+	.	ID=id-NP_150073.2:3247..3549;Note=3CL-PRO cleavage product;Parent=cds-NP_150073.2;gbkey=Prot;product=coronavirus nsp2 (3CL-PRO);protein_id=NP_742132.1
+NC_003045.1	RefSeq	mature_protein_region_of_CDS	10858	11718	.	+	.	ID=id-NP_150073.2:3550..3836;Parent=cds-NP_150073.2;gbkey=Prot;product=coronavirus nsp3 (HD2);protein_id=NP_742133.1
+NC_003045.1	RefSeq	mature_protein_region_of_CDS	11719	11985	.	+	.	ID=id-NP_150073.2:3837..3925;Note=Alternative C-terminus: Gln-3928;Parent=cds-NP_150073.2;gbkey=Prot;product=coronavirus nsp4;protein_id=NP_742134.1
+NC_003045.1	RefSeq	mature_protein_region_of_CDS	11986	12576	.	+	.	ID=id-NP_150073.2:3926..4122;Note=Alternative N-terminus: Ser-3929;Parent=cds-NP_150073.2;gbkey=Prot;product=coronavirus nsp5;protein_id=NP_742135.1
+NC_003045.1	RefSeq	mature_protein_region_of_CDS	12577	12906	.	+	.	ID=id-NP_150073.2:4123..4232;Parent=cds-NP_150073.2;gbkey=Prot;product=coronavirus nsp6;protein_id=NP_742136.1
+NC_003045.1	RefSeq	mature_protein_region_of_CDS	12907	13317	.	+	.	ID=id-NP_150073.2:4233..4369;Parent=cds-NP_150073.2;gbkey=Prot;product=coronavirus nsp7 (GFL);protein_id=NP_742137.1
+NC_003045.1	RefSeq	mature_protein_region_of_CDS	13318	13341	.	+	.	ID=id-NP_150073.2:4370..5297;Parent=cds-NP_150073.2;gbkey=Prot;product=RNA-dependent RNA polymerase;protein_id=NP_742138.1
+NC_003045.1	RefSeq	mature_protein_region_of_CDS	13341	16100	.	+	.	ID=id-NP_150073.2:4370..5297;Parent=cds-NP_150073.2;gbkey=Prot;product=RNA-dependent RNA polymerase;protein_id=NP_742138.1
+NC_003045.1	RefSeq	mature_protein_region_of_CDS	16101	17909	.	+	.	ID=id-NP_150073.2:5298..5900;Parent=cds-NP_150073.2;gbkey=Prot;product=coronavirus nsp10 (MB%2C NTPase/HEL);protein_id=NP_742139.1
+NC_003045.1	RefSeq	mature_protein_region_of_CDS	17910	19472	.	+	.	ID=id-NP_150073.2:5901..6421;Parent=cds-NP_150073.2;gbkey=Prot;product=coronavirus nsp11;protein_id=NP_742140.1
+NC_003045.1	RefSeq	mature_protein_region_of_CDS	19473	20594	.	+	.	ID=id-NP_150073.2:6422..6795;Parent=cds-NP_150073.2;gbkey=Prot;product=coronavirus nsp12;protein_id=NP_742141.1
+NC_003045.1	RefSeq	mature_protein_region_of_CDS	20595	21491	.	+	.	ID=id-NP_150073.2:6796..7094;Parent=cds-NP_150073.2;gbkey=Prot;product=coronavirus nsp13;protein_id=NP_742142.1
+NC_003045.1	RefSeq	CDS	211	13362	.	+	0	ID=cds-NP_150074.1;Parent=gene-BCoVgp01;Dbxref=Genbank:NP_150074.1,GeneID:921688;Name=NP_150074.1;gbkey=CDS;gene=orf1ab;locus_tag=BCoVgp01;product=orf1a polyprotein;protein_id=NP_150074.1
+NC_003045.1	RefSeq	gene	21504	22340	.	+	.	ID=gene-BCoVgp02;Dbxref=GeneID:921690;Name=NS;gbkey=Gene;gene=NS;gene_biotype=protein_coding;locus_tag=BCoVgp02
+NC_003045.1	RefSeq	CDS	21504	22340	.	+	0	ID=cds-NP_150075.1;Parent=gene-BCoVgp02;Dbxref=Genbank:NP_150075.1,GeneID:921690;Name=NP_150075.1;gbkey=CDS;gene=NS;locus_tag=BCoVgp02;product=32 kDa non-structural protein;protein_id=NP_150075.1
+NC_003045.1	RefSeq	gene	22352	23626	.	+	.	ID=gene-BCoVgp03;Dbxref=GeneID:921684;Name=HE;gbkey=Gene;gene=HE;gene_biotype=protein_coding;locus_tag=BCoVgp03
+NC_003045.1	RefSeq	CDS	22352	23626	.	+	0	ID=cds-NP_150076.1;Parent=gene-BCoVgp03;Dbxref=Genbank:NP_150076.1,GeneID:921684;Name=NP_150076.1;Note=structural protein;gbkey=CDS;gene=HE;locus_tag=BCoVgp03;product=hemmaglutinin-esterase;protein_id=NP_150076.1
+NC_003045.1	RefSeq	gene	23641	27732	.	+	.	ID=gene-BCoVgp04;Dbxref=GeneID:921689;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding;locus_tag=BCoVgp04
+NC_003045.1	RefSeq	CDS	23641	27732	.	+	0	ID=cds-NP_150077.1;Parent=gene-BCoVgp04;Dbxref=Genbank:NP_150077.1,GeneID:921689;Name=NP_150077.1;gbkey=CDS;gene=S;locus_tag=BCoVgp04;product=spike structural protein;protein_id=NP_150077.1
+NC_003045.1	RefSeq	gene	27722	27811	.	+	.	ID=gene-BCoVgp05;Dbxref=GeneID:1724648;Name=BCoVgp05;gbkey=Gene;gene_biotype=other;locus_tag=BCoVgp05
+NC_003045.1	RefSeq	CDS	27722	27811	.	+	0	ID=cds-NP_150078.1;Dbxref=Genbank:NP_150078.1;Name=NP_150078.1;gbkey=CDS;product=4.9 kDa non-structural protein;protein_id=NP_150078.1
+NC_003045.1	RefSeq	gene	27889	28026	.	+	.	ID=gene-BCoVgp06;Dbxref=GeneID:1724649;Name=BCoVgp06;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BCoVgp06
+NC_003045.1	RefSeq	CDS	27889	28026	.	+	0	ID=cds-NP_150079.1;Parent=gene-BCoVgp06;Dbxref=Genbank:NP_150079.1,GeneID:1724649;Name=NP_150079.1;gbkey=CDS;locus_tag=BCoVgp06;product=4.8 kDa non-structural protein;protein_id=NP_150079.1
+NC_003045.1	RefSeq	gene	28106	28435	.	+	.	ID=gene-BCoVgp07;Dbxref=GeneID:1724647;Name=BCoVgp07;gbkey=Gene;gene_biotype=other;locus_tag=BCoVgp07
+NC_003045.1	RefSeq	CDS	28106	28435	.	+	0	ID=cds-NP_150080.1;Dbxref=Genbank:NP_150080.1;Name=NP_150080.1;gbkey=CDS;product=12.7 kDa non-structural protein;protein_id=NP_150080.1
+NC_003045.1	RefSeq	gene	28422	28676	.	+	.	ID=gene-BCoVgp08;Dbxref=GeneID:921685;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding;locus_tag=BCoVgp08
+NC_003045.1	RefSeq	CDS	28422	28676	.	+	0	ID=cds-NP_150081.1;Parent=gene-BCoVgp08;Dbxref=Genbank:NP_150081.1,GeneID:921685;Name=NP_150081.1;gbkey=CDS;gene=E;locus_tag=BCoVgp08;product=small membrane protein;protein_id=NP_150081.1
+NC_003045.1	RefSeq	gene	28691	29383	.	+	.	ID=gene-BCoVgp09;Dbxref=GeneID:921686;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding;locus_tag=BCoVgp09
+NC_003045.1	RefSeq	CDS	28691	29383	.	+	0	ID=cds-NP_150082.1;Parent=gene-BCoVgp09;Dbxref=Genbank:NP_150082.1,GeneID:921686;Name=NP_150082.1;Note=structural protein;gbkey=CDS;gene=M;locus_tag=BCoVgp09;product=matrix protein;protein_id=NP_150082.1
+NC_003045.1	RefSeq	gene	29393	30739	.	+	.	ID=gene-BCoVgp10;Dbxref=GeneID:921687;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding;locus_tag=BCoVgp10
+NC_003045.1	RefSeq	CDS	29393	30739	.	+	0	ID=cds-NP_150083.1;Parent=gene-BCoVgp10;Dbxref=Genbank:NP_150083.1,GeneID:921687;Name=NP_150083.1;Note=structural protein;gbkey=CDS;gene=N;locus_tag=BCoVgp10;product=nucleocapsid protein;protein_id=NP_150083.1
+NC_003045.1	RefSeq	CDS	29454	30077	.	+	0	ID=cds-NP_150084.1;Parent=gene-BCoVgp10;Dbxref=Genbank:NP_150084.1,GeneID:921687;Name=NP_150084.1;Note=ORF 1;gbkey=CDS;gene=N;locus_tag=BCoVgp10;product=hypothetical protein;protein_id=NP_150084.1
+NC_003045.1	RefSeq	three_prime_UTR	30740	31028	.	+	.	ID=id-NC_003045.1:30740..31028;Note=functions in replication and transcription;gbkey=3'UTR
+

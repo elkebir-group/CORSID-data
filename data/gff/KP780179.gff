@@ -1,0 +1,13 @@
+##sequence-region KP780179.1 1 27403
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+KP780179.1	Genbank	region	1	27403	.	+	.	ID=KP780179.1:1..27403;Dbxref=taxon:11120;collection-date=13-May-2013;country=Italy;gbkey=Src;genome=genomic;genotype=Q1-like;identified-by=Franzo G %26 Listorti L;isolation-source=chicken embryo tracheal organ cultures;mol_type=genomic RNA;nat-host=chicken;strain=gammaCoV/Ck/Italy/I2022/13
+KP780179.1	Genbank	CDS	434	20326	.	+	0	ID=cds-AKV60428.1;Dbxref=NCBI_GP:AKV60428.1;Name=AKV60428.1;gbkey=CDS;product=polyprotein 1ab;protein_id=AKV60428.1
+KP780179.1	Genbank	CDS	20277	23777	.	+	0	ID=cds-AKV60429.1;Dbxref=NCBI_GP:AKV60429.1;Name=AKV60429.1;gbkey=CDS;product=spike protein;protein_id=AKV60429.1
+KP780179.1	Genbank	CDS	23777	23950	.	+	0	ID=cds-AKV60430.1;Dbxref=NCBI_GP:AKV60430.1;Name=AKV60430.1;gbkey=CDS;product=3a;protein_id=AKV60430.1
+KP780179.1	Genbank	CDS	23950	24144	.	+	0	ID=cds-AKV60431.1;Dbxref=NCBI_GP:AKV60431.1;Name=AKV60431.1;gbkey=CDS;product=3b;protein_id=AKV60431.1
+KP780179.1	Genbank	CDS	24125	24433	.	+	0	ID=cds-AKV60432.1;Dbxref=NCBI_GP:AKV60432.1;Name=AKV60432.1;gbkey=CDS;product=3c;protein_id=AKV60432.1
+KP780179.1	Genbank	CDS	24426	25106	.	+	0	ID=cds-AKV60433.1;Dbxref=NCBI_GP:AKV60433.1;Name=AKV60433.1;gbkey=CDS;product=protein M;protein_id=AKV60433.1
+KP780179.1	Genbank	CDS	25457	25654	.	+	0	ID=cds-AKV60434.1;Dbxref=NCBI_GP:AKV60434.1;Name=AKV60434.1;gbkey=CDS;product=5a;protein_id=AKV60434.1
+KP780179.1	Genbank	CDS	25651	25899	.	+	0	ID=cds-AKV60435.1;Dbxref=NCBI_GP:AKV60435.1;Name=AKV60435.1;gbkey=CDS;product=5b;protein_id=AKV60435.1
+KP780179.1	Genbank	CDS	25842	27071	.	+	0	ID=cds-AKV60436.1;Dbxref=NCBI_GP:AKV60436.1;Name=AKV60436.1;gbkey=CDS;product=N protein;protein_id=AKV60436.1
+

@@ -1,0 +1,23 @@
+##sequence-region MN611519.1 1 30224
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2691589
+MN611519.1	Genbank	region	1	30224	.	+	.	ID=MN611519.1:1..30224;Dbxref=taxon:2691589;collection-date=Mar-2018;country=China;gbkey=Src;genome=genomic;isolate=GZ131656;mol_type=genomic RNA;nat-host=Tylonycteris pachypus
+MN611519.1	Genbank	gene	259	21647	.	+	.	ID=gene-GZ131656_gp1;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding;locus_tag=GZ131656_gp1
+MN611519.1	Genbank	CDS	259	13575	.	+	0	ID=cds-QHA24677.1;Parent=gene-GZ131656_gp1;Dbxref=NCBI_GP:QHA24677.1;Name=QHA24677.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;locus_tag=GZ131656_gp1;product=orf1ab polyprotein;protein_id=QHA24677.1
+MN611519.1	Genbank	CDS	13575	21647	.	+	0	ID=cds-QHA24677.1;Parent=gene-GZ131656_gp1;Dbxref=NCBI_GP:QHA24677.1;Name=QHA24677.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;locus_tag=GZ131656_gp1;product=orf1ab polyprotein;protein_id=QHA24677.1
+MN611519.1	Genbank	gene	21592	25650	.	+	.	ID=gene-GZ131656_gp2;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding;locus_tag=GZ131656_gp2
+MN611519.1	Genbank	CDS	21592	25650	.	+	0	ID=cds-QHA24678.1;Parent=gene-GZ131656_gp2;Dbxref=NCBI_GP:QHA24678.1;Name=QHA24678.1;gbkey=CDS;gene=S;locus_tag=GZ131656_gp2;product=spike glycoprotein;protein_id=QHA24678.1
+MN611519.1	Genbank	gene	25677	25952	.	+	.	ID=gene-GZ131656_gp3;Name=NS3a;gbkey=Gene;gene=NS3a;gene_biotype=protein_coding;locus_tag=GZ131656_gp3
+MN611519.1	Genbank	CDS	25677	25952	.	+	0	ID=cds-QHA24679.1;Parent=gene-GZ131656_gp3;Dbxref=NCBI_GP:QHA24679.1;Name=QHA24679.1;gbkey=CDS;gene=NS3a;locus_tag=GZ131656_gp3;product=nonstructural protein NS3a;protein_id=QHA24679.1
+MN611519.1	Genbank	gene	25970	26329	.	+	.	ID=gene-GZ131656_gp4;Name=NS3b;gbkey=Gene;gene=NS3b;gene_biotype=protein_coding;locus_tag=GZ131656_gp4
+MN611519.1	Genbank	CDS	25970	26329	.	+	0	ID=cds-QHA24680.1;Parent=gene-GZ131656_gp4;Dbxref=NCBI_GP:QHA24680.1;Name=QHA24680.1;gbkey=CDS;gene=NS3b;locus_tag=GZ131656_gp4;product=nonstructural protein NS3b;protein_id=QHA24680.1
+MN611519.1	Genbank	gene	26133	26990	.	+	.	ID=gene-GZ131656_gp5;Name=NS3c;gbkey=Gene;gene=NS3c;gene_biotype=protein_coding;locus_tag=GZ131656_gp5
+MN611519.1	Genbank	CDS	26133	26990	.	+	0	ID=cds-QHA24681.1;Parent=gene-GZ131656_gp5;Dbxref=NCBI_GP:QHA24681.1;Name=QHA24681.1;gbkey=CDS;gene=NS3c;locus_tag=GZ131656_gp5;product=nonstructural protein NS3c;protein_id=QHA24681.1
+MN611519.1	Genbank	gene	27006	27689	.	+	.	ID=gene-GZ131656_gp6;Name=NS3d;gbkey=Gene;gene=NS3d;gene_biotype=protein_coding;locus_tag=GZ131656_gp6
+MN611519.1	Genbank	CDS	27006	27689	.	+	0	ID=cds-QHA24682.1;Parent=gene-GZ131656_gp6;Dbxref=NCBI_GP:QHA24682.1;Name=QHA24682.1;gbkey=CDS;gene=NS3d;locus_tag=GZ131656_gp6;product=nonstructural protein NS3d;protein_id=QHA24682.1
+MN611519.1	Genbank	gene	27759	28007	.	+	.	ID=gene-GZ131656_gp7;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding;locus_tag=GZ131656_gp7
+MN611519.1	Genbank	CDS	27759	28007	.	+	0	ID=cds-QHA24683.1;Parent=gene-GZ131656_gp7;Dbxref=NCBI_GP:QHA24683.1;Name=QHA24683.1;gbkey=CDS;gene=E;locus_tag=GZ131656_gp7;product=envelope protein;protein_id=QHA24683.1
+MN611519.1	Genbank	gene	28022	28681	.	+	.	ID=gene-GZ131656_gp8;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding;locus_tag=GZ131656_gp8
+MN611519.1	Genbank	CDS	28022	28681	.	+	0	ID=cds-QHA24684.1;Parent=gene-GZ131656_gp8;Dbxref=NCBI_GP:QHA24684.1;Name=QHA24684.1;gbkey=CDS;gene=M;locus_tag=GZ131656_gp8;product=membrane protein;protein_id=QHA24684.1
+MN611519.1	Genbank	gene	28719	29990	.	+	.	ID=gene-GZ131656_gp9;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding;locus_tag=GZ131656_gp9
+MN611519.1	Genbank	CDS	28719	29990	.	+	0	ID=cds-QHA24685.1;Parent=gene-GZ131656_gp9;Dbxref=NCBI_GP:QHA24685.1;Name=QHA24685.1;gbkey=CDS;gene=N;locus_tag=GZ131656_gp9;product=nucleocapsid protein;protein_id=QHA24685.1
+

@@ -1,0 +1,16 @@
+##sequence-region MF577027.1 1 28315
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=28295
+MF577027.1	Genbank	region	1	28315	.	+	.	ID=MF577027.1:1..28315;Dbxref=taxon:28295;country=Russia;gb-acronym=PEDV;gbkey=Src;genome=genomic;mol_type=mRNA;strain=PEDV/Belgorod/dom/2008
+MF577027.1	Genbank	CDS	292	12645	.	+	0	ID=cds-ASV51727.1;Dbxref=NCBI_GP:ASV51727.1;Name=ASV51727.1;gbkey=CDS;product=ORF1A;protein_id=ASV51727.1
+MF577027.1	Genbank	CDS	12675	20636	.	+	0	ID=cds-ASV51728.1;Dbxref=NCBI_GP:ASV51728.1;Name=ASV51728.1;gbkey=CDS;partial=true;product=ORF1B;protein_id=ASV51728.1;start_range=.,12675
+MF577027.1	Genbank	gene	20633	24751	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S
+MF577027.1	Genbank	CDS	20633	24751	.	+	0	ID=cds-ASV51733.1;Parent=gene-S;Dbxref=NCBI_GP:ASV51733.1;Name=ASV51733.1;gbkey=CDS;gene=S;product=spike protein;protein_id=ASV51733.1
+MF577027.1	Genbank	gene	24751	25425	.	+	.	ID=gene-mp;Name=mp;gbkey=Gene;gene=mp
+MF577027.1	Genbank	CDS	24751	25425	.	+	0	ID=cds-ASV51732.1;Parent=gene-mp;Dbxref=NCBI_GP:ASV51732.1;Name=ASV51732.1;gbkey=CDS;gene=mp;product=accessory membrane protein;protein_id=ASV51732.1
+MF577027.1	Genbank	gene	25406	25636	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E
+MF577027.1	Genbank	CDS	25406	25636	.	+	0	ID=cds-ASV51731.1;Parent=gene-E;Dbxref=NCBI_GP:ASV51731.1;Name=ASV51731.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=ASV51731.1
+MF577027.1	Genbank	gene	25644	26324	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M
+MF577027.1	Genbank	CDS	25644	26324	.	+	0	ID=cds-ASV51730.1;Parent=gene-M;Dbxref=NCBI_GP:ASV51730.1;Name=ASV51730.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=ASV51730.1
+MF577027.1	Genbank	gene	26336	27640	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N
+MF577027.1	Genbank	CDS	26336	27640	.	+	0	ID=cds-ASV51729.1;Parent=gene-N;Dbxref=NCBI_GP:ASV51729.1;Name=ASV51729.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=ASV51729.1
+

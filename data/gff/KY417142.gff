@@ -1,0 +1,17 @@
+##sequence-region KY417142.1 1 29725
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1508227
+KY417142.1	Genbank	region	1	29725	.	+	.	ID=KY417142.1:1..29725;Dbxref=taxon:1508227;collection-date=12-May-2014;country=China;gbkey=Src;genome=genomic;isolate=As6526;mol_type=genomic RNA;nat-host=Aselliscus stoliczkanus
+KY417142.1	Genbank	CDS	265	13398	.	+	0	ID=cds-ATO98106.1;Dbxref=NCBI_GP:ATO98106.1;Name=ATO98106.1;exception=ribosomal slippage;gbkey=CDS;product=non-structural polyprotein 1ab;protein_id=ATO98106.1
+KY417142.1	Genbank	CDS	13398	21485	.	+	0	ID=cds-ATO98106.1;Dbxref=NCBI_GP:ATO98106.1;Name=ATO98106.1;exception=ribosomal slippage;gbkey=CDS;product=non-structural polyprotein 1ab;protein_id=ATO98106.1
+KY417142.1	Genbank	CDS	265	13413	.	+	0	ID=cds-ATO98107.1;Dbxref=NCBI_GP:ATO98107.1;Name=ATO98107.1;gbkey=CDS;product=non-structural polyprotein 1a;protein_id=ATO98107.1
+KY417142.1	Genbank	CDS	21492	25217	.	+	0	ID=cds-ATO98108.1;Dbxref=NCBI_GP:ATO98108.1;Name=ATO98108.1;gbkey=CDS;product=spike protein;protein_id=ATO98108.1
+KY417142.1	Genbank	CDS	25227	26051	.	+	0	ID=cds-ATO98109.1;Dbxref=NCBI_GP:ATO98109.1;Name=ATO98109.1;gbkey=CDS;product=ORF3a;protein_id=ATO98109.1
+KY417142.1	Genbank	CDS	25648	25992	.	+	0	ID=cds-ATO98110.1;Dbxref=NCBI_GP:ATO98110.1;Name=ATO98110.1;gbkey=CDS;product=ORF3b;protein_id=ATO98110.1
+KY417142.1	Genbank	CDS	26076	26306	.	+	0	ID=cds-ATO98111.1;Dbxref=NCBI_GP:ATO98111.1;Name=ATO98111.1;gbkey=CDS;product=small envelope protein;protein_id=ATO98111.1
+KY417142.1	Genbank	CDS	26357	27022	.	+	0	ID=cds-ATO98112.1;Dbxref=NCBI_GP:ATO98112.1;Name=ATO98112.1;gbkey=CDS;product=membrane glycoprotein;protein_id=ATO98112.1
+KY417142.1	Genbank	CDS	27033	27224	.	+	0	ID=cds-ATO98113.1;Dbxref=NCBI_GP:ATO98113.1;Name=ATO98113.1;gbkey=CDS;product=ORF6;protein_id=ATO98113.1
+KY417142.1	Genbank	CDS	27232	27600	.	+	0	ID=cds-ATO98114.1;Dbxref=NCBI_GP:ATO98114.1;Name=ATO98114.1;gbkey=CDS;product=ORF7a;protein_id=ATO98114.1
+KY417142.1	Genbank	CDS	27597	27731	.	+	0	ID=cds-ATO98115.1;Dbxref=NCBI_GP:ATO98115.1;Name=ATO98115.1;gbkey=CDS;product=ORF7b;protein_id=ATO98115.1
+KY417142.1	Genbank	CDS	27738	28103	.	+	0	ID=cds-ATO98116.1;Dbxref=NCBI_GP:ATO98116.1;Name=ATO98116.1;gbkey=CDS;product=ORF8;protein_id=ATO98116.1
+KY417142.1	Genbank	CDS	28118	29386	.	+	0	ID=cds-ATO98117.1;Dbxref=NCBI_GP:ATO98117.1;Name=ATO98117.1;gbkey=CDS;product=nucleocapsid protein;protein_id=ATO98117.1
+

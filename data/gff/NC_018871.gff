@@ -1,0 +1,23 @@
+##sequence-region NC_018871.1 1 28494
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1241933
+NC_018871.1	RefSeq	region	1	28494	.	+	.	ID=NC_018871.1:1..28494;Dbxref=taxon:1241933;collection-date=Oct-2005;country=China;gbkey=Src;genome=genomic;isolate=183A;mol_type=genomic RNA;nat-host=bat
+NC_018871.1	RefSeq	gene	303	20644	.	+	.	ID=gene-D425_gp1;Dbxref=GeneID:13842724;Name=D425_gp1;description=orf1ab;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D425_gp1
+NC_018871.1	RefSeq	CDS	303	12617	.	+	0	ID=cds-YP_006908641.2;Parent=gene-D425_gp1;Dbxref=Genbank:YP_006908641.2,GeneID:13842724;Name=YP_006908641.2;exception=ribosomal slippage;gbkey=CDS;locus_tag=D425_gp1;product=orf1ab polyprotein;protein_id=YP_006908641.2
+NC_018871.1	RefSeq	CDS	12617	20644	.	+	0	ID=cds-YP_006908641.2;Parent=gene-D425_gp1;Dbxref=Genbank:YP_006908641.2,GeneID:13842724;Name=YP_006908641.2;exception=ribosomal slippage;gbkey=CDS;locus_tag=D425_gp1;product=orf1ab polyprotein;protein_id=YP_006908641.2
+NC_018871.1	RefSeq	gene	20641	24690	.	+	.	ID=gene-D425_gp2;Dbxref=GeneID:13842716;Name=D425_gp2;description=S;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D425_gp2
+NC_018871.1	RefSeq	CDS	20641	24690	.	+	0	ID=cds-YP_006908642.1;Parent=gene-D425_gp2;Dbxref=Genbank:YP_006908642.1,GeneID:13842716;Name=YP_006908642.1;gbkey=CDS;locus_tag=D425_gp2;product=spike glycoprotein;protein_id=YP_006908642.1
+NC_018871.1	RefSeq	gene	24690	25346	.	+	.	ID=gene-D425_gp3;Dbxref=GeneID:13842717;Name=D425_gp3;description=NS3;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D425_gp3
+NC_018871.1	RefSeq	CDS	24690	25346	.	+	0	ID=cds-YP_006908643.1;Parent=gene-D425_gp3;Dbxref=Genbank:YP_006908643.1,GeneID:13842717;Name=YP_006908643.1;gbkey=CDS;locus_tag=D425_gp3;product=non-structural protein NS3;protein_id=YP_006908643.1
+NC_018871.1	RefSeq	gene	25375	25602	.	+	.	ID=gene-D425_gp4;Dbxref=GeneID:13842718;Name=D425_gp4;description=E;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D425_gp4
+NC_018871.1	RefSeq	CDS	25375	25602	.	+	0	ID=cds-YP_006908644.1;Parent=gene-D425_gp4;Dbxref=Genbank:YP_006908644.1,GeneID:13842718;Name=YP_006908644.1;gbkey=CDS;locus_tag=D425_gp4;product=envelope protein;protein_id=YP_006908644.1
+NC_018871.1	RefSeq	gene	25608	26297	.	+	.	ID=gene-D425_gp5;Dbxref=GeneID:13842719;Name=D425_gp5;description=M;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D425_gp5
+NC_018871.1	RefSeq	CDS	25608	26297	.	+	0	ID=cds-YP_006908645.1;Parent=gene-D425_gp5;Dbxref=Genbank:YP_006908645.1,GeneID:13842719;Name=YP_006908645.1;gbkey=CDS;locus_tag=D425_gp5;product=membrane protein;protein_id=YP_006908645.1
+NC_018871.1	RefSeq	gene	26308	27516	.	+	.	ID=gene-D425_gp6;Dbxref=GeneID:13842720;Name=D425_gp6;description=N;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D425_gp6
+NC_018871.1	RefSeq	CDS	26308	27516	.	+	0	ID=cds-YP_006908646.1;Parent=gene-D425_gp6;Dbxref=Genbank:YP_006908646.1,GeneID:13842720;Name=YP_006908646.1;gbkey=CDS;locus_tag=D425_gp6;product=nucleocapsid protein;protein_id=YP_006908646.1
+NC_018871.1	RefSeq	gene	27532	27777	.	+	.	ID=gene-D425_gp7;Dbxref=GeneID:13842721;Name=D425_gp7;description=NS7a;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D425_gp7
+NC_018871.1	RefSeq	CDS	27532	27777	.	+	0	ID=cds-YP_006908647.1;Parent=gene-D425_gp7;Dbxref=Genbank:YP_006908647.1,GeneID:13842721;Name=YP_006908647.1;gbkey=CDS;locus_tag=D425_gp7;product=non-structural protein NS7a;protein_id=YP_006908647.1
+NC_018871.1	RefSeq	gene	27787	28248	.	+	.	ID=gene-D425_gp8;Dbxref=GeneID:13842722;Name=D425_gp8;description=NS7b;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D425_gp8
+NC_018871.1	RefSeq	CDS	27787	28248	.	+	0	ID=cds-YP_006908648.1;Parent=gene-D425_gp8;Dbxref=Genbank:YP_006908648.1,GeneID:13842722;Name=YP_006908648.1;gbkey=CDS;locus_tag=D425_gp8;product=non-structural protein NS7b;protein_id=YP_006908648.1
+NC_018871.1	RefSeq	gene	27986	28216	.	+	.	ID=gene-D425_gp9;Dbxref=GeneID:13842723;Name=D425_gp9;description=NS7c;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D425_gp9
+NC_018871.1	RefSeq	CDS	27986	28216	.	+	0	ID=cds-YP_006908649.1;Parent=gene-D425_gp9;Dbxref=Genbank:YP_006908649.1,GeneID:13842723;Name=YP_006908649.1;gbkey=CDS;locus_tag=D425_gp9;product=non-structural protein NS7c;protein_id=YP_006908649.1
+

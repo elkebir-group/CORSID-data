@@ -1,0 +1,15 @@
+##sequence-region KJ473821.1 1 30423
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1495253
+KJ473821.1	Genbank	region	1	30423	.	+	.	ID=KJ473821.1:1..30423;Dbxref=taxon:1495253;country=China;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Vespertilio superans
+KJ473821.1	Genbank	CDS	241	13698	.	+	0	ID=cds-AHY61336.1;Dbxref=NCBI_GP:AHY61336.1;Name=AHY61336.1;exception=ribosomal slippage;gbkey=CDS;product=ORF1ab polyprotein;protein_id=AHY61336.1
+KJ473821.1	Genbank	CDS	13698	21779	.	+	0	ID=cds-AHY61336.1;Dbxref=NCBI_GP:AHY61336.1;Name=AHY61336.1;exception=ribosomal slippage;gbkey=CDS;product=ORF1ab polyprotein;protein_id=AHY61336.1
+KJ473821.1	Genbank	CDS	21811	25779	.	+	0	ID=cds-AHY61337.1;Dbxref=NCBI_GP:AHY61337.1;Name=AHY61337.1;gbkey=CDS;product=spike glycoprotein;protein_id=AHY61337.1
+KJ473821.1	Genbank	CDS	25791	26102	.	+	0	ID=cds-AHY61338.1;Dbxref=NCBI_GP:AHY61338.1;Name=AHY61338.1;gbkey=CDS;product=ORF3;protein_id=AHY61338.1
+KJ473821.1	Genbank	CDS	26111	26395	.	+	0	ID=cds-AHY61339.1;Dbxref=NCBI_GP:AHY61339.1;Name=AHY61339.1;gbkey=CDS;product=ORF4a;protein_id=AHY61339.1
+KJ473821.1	Genbank	CDS	26316	27065	.	+	0	ID=cds-AHY61340.1;Dbxref=NCBI_GP:AHY61340.1;Name=AHY61340.1;gbkey=CDS;product=ORF4b;protein_id=AHY61340.1
+KJ473821.1	Genbank	CDS	27072	27767	.	+	0	ID=cds-AHY61341.1;Dbxref=NCBI_GP:AHY61341.1;Name=AHY61341.1;gbkey=CDS;product=ORF5;protein_id=AHY61341.1
+KJ473821.1	Genbank	CDS	27844	28092	.	+	0	ID=cds-AHY61342.1;Dbxref=NCBI_GP:AHY61342.1;Name=AHY61342.1;gbkey=CDS;product=small envelope protein;protein_id=AHY61342.1
+KJ473821.1	Genbank	CDS	28107	28763	.	+	0	ID=cds-AHY61343.1;Dbxref=NCBI_GP:AHY61343.1;Name=AHY61343.1;gbkey=CDS;product=membrane glycoprotein;protein_id=AHY61343.1
+KJ473821.1	Genbank	CDS	28819	30123	.	+	0	ID=cds-AHY61344.1;Dbxref=NCBI_GP:AHY61344.1;Name=AHY61344.1;gbkey=CDS;product=nucleocapsid phosphoprotein;protein_id=AHY61344.1
+KJ473821.1	Genbank	CDS	28865	29449	.	+	0	ID=cds-AHY61345.1;Dbxref=NCBI_GP:AHY61345.1;Name=AHY61345.1;gbkey=CDS;product=ORF8b;protein_id=AHY61345.1
+

@@ -1,0 +1,31 @@
+##sequence-region KY933089.1 1 27573
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=694014
+KY933089.1	Genbank	region	1	27573	.	+	.	ID=KY933089.1:1..27573;Dbxref=taxon:694014;country=United Kingdom;gb-acronym=ACoV;gbkey=Src;genome=genomic;genotype=QX;mol_type=genomic RNA;nat-host=chicken;strain=1148-A
+KY933089.1	Genbank	gene	435	20317	.	+	.	ID=gene-1ab;Name=1ab;gbkey=Gene;gene=1ab;gene_biotype=protein_coding
+KY933089.1	Genbank	CDS	435	12254	.	+	0	ID=cds-ATE90965.1;Parent=gene-1ab;Dbxref=NCBI_GP:ATE90965.1;Name=ATE90965.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=polyprotein 1ab;protein_id=ATE90965.1
+KY933089.1	Genbank	CDS	12254	20317	.	+	0	ID=cds-ATE90965.1;Parent=gene-1ab;Dbxref=NCBI_GP:ATE90965.1;Name=ATE90965.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=polyprotein 1ab;protein_id=ATE90965.1
+KY933089.1	Genbank	gene	435	12284	.	+	.	ID=gene-1a;Name=1a;gbkey=Gene;gene=1a;gene_biotype=protein_coding
+KY933089.1	Genbank	CDS	435	12284	.	+	0	ID=cds-ATE90966.1;Parent=gene-1a;Dbxref=NCBI_GP:ATE90966.1;Name=ATE90966.1;gbkey=CDS;gene=1a;product=polyprotein 1a;protein_id=ATE90966.1
+KY933089.1	Genbank	gene	20268	23765	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KY933089.1	Genbank	CDS	20268	23765	.	+	0	ID=cds-ATE90967.1;Parent=gene-S;Dbxref=NCBI_GP:ATE90967.1;Name=ATE90967.1;gbkey=CDS;gene=S;product=spike protein;protein_id=ATE90967.1
+KY933089.1	Genbank	gene	23765	23938	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+KY933089.1	Genbank	CDS	23765	23938	.	+	0	ID=cds-ATE90968.1;Parent=gene-3a;Dbxref=NCBI_GP:ATE90968.1;Name=ATE90968.1;gbkey=CDS;gene=3a;product=3a accessory protein;protein_id=ATE90968.1
+KY933089.1	Genbank	gene	23938	24129	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+KY933089.1	Genbank	CDS	23938	24129	.	+	0	ID=cds-ATE90969.1;Parent=gene-3b;Dbxref=NCBI_GP:ATE90969.1;Name=ATE90969.1;gbkey=CDS;gene=3b;product=3b accessory protein;protein_id=ATE90969.1
+KY933089.1	Genbank	gene	24110	24442	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+KY933089.1	Genbank	CDS	24110	24442	.	+	0	ID=cds-ATE90970.1;Parent=gene-E;Dbxref=NCBI_GP:ATE90970.1;Name=ATE90970.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=ATE90970.1
+KY933089.1	Genbank	gene	24411	25091	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KY933089.1	Genbank	CDS	24411	25091	.	+	0	ID=cds-ATE90971.1;Parent=gene-M;Dbxref=NCBI_GP:ATE90971.1;Name=ATE90971.1;gbkey=CDS;gene=M;product=matrix protein;protein_id=ATE90971.1
+KY933089.1	Genbank	gene	25092	25376	.	+	.	ID=gene-4b;Name=4b;gbkey=Gene;gene=4b;gene_biotype=protein_coding
+KY933089.1	Genbank	CDS	25092	25376	.	+	0	ID=cds-ATE90972.1;Parent=gene-4b;Dbxref=NCBI_GP:ATE90972.1;Name=ATE90972.1;gbkey=CDS;gene=4b;product=4b accessory protein;protein_id=ATE90972.1
+KY933089.1	Genbank	gene	25297	25443	.	+	.	ID=gene-4c;Name=4c;gbkey=Gene;gene=4c;gene_biotype=protein_coding
+KY933089.1	Genbank	CDS	25297	25443	.	+	0	ID=cds-ATE90977.1;Parent=gene-4c;Dbxref=NCBI_GP:ATE90977.1;Name=ATE90977.1;gbkey=CDS;gene=4c;product=4c accessory protein;protein_id=ATE90977.1
+KY933089.1	Genbank	gene	25455	25652	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+KY933089.1	Genbank	CDS	25455	25652	.	+	0	ID=cds-ATE90973.1;Parent=gene-5a;Dbxref=NCBI_GP:ATE90973.1;Name=ATE90973.1;gbkey=CDS;gene=5a;product=5a accessory protein;protein_id=ATE90973.1
+KY933089.1	Genbank	gene	25649	25897	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+KY933089.1	Genbank	CDS	25649	25897	.	+	0	ID=cds-ATE90974.1;Parent=gene-5b;Dbxref=NCBI_GP:ATE90974.1;Name=ATE90974.1;gbkey=CDS;gene=5b;product=5b accessory protein;protein_id=ATE90974.1
+KY933089.1	Genbank	gene	25840	27069	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KY933089.1	Genbank	CDS	25840	27069	.	+	0	ID=cds-ATE90975.1;Parent=gene-N;Dbxref=NCBI_GP:ATE90975.1;Name=ATE90975.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=ATE90975.1
+KY933089.1	Genbank	gene	27078	27299	.	+	.	ID=gene-6b;Name=6b;gbkey=Gene;gene=6b;gene_biotype=protein_coding
+KY933089.1	Genbank	CDS	27078	27299	.	+	0	ID=cds-ATE90976.1;Parent=gene-6b;Dbxref=NCBI_GP:ATE90976.1;Name=ATE90976.1;gbkey=CDS;gene=6b;product=6b accessory protein;protein_id=ATE90976.1
+

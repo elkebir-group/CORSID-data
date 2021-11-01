@@ -1,0 +1,23 @@
+##sequence-region MK032178.1 1 27688
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+MK032178.1	Genbank	region	1	27688	.	+	.	ID=MK032178.1:1..27688;Dbxref=taxon:11120;collection-date=2017;country=China;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Gallus;strain=gammaCoV/ck/China/I0718/17
+MK032178.1	Genbank	gene	527	20421	.	+	.	ID=gene-1ab;Name=1ab;gbkey=Gene;gene=1ab;gene_biotype=protein_coding
+MK032178.1	Genbank	CDS	527	12358	.	+	0	ID=cds-AZA07832.1;Parent=gene-1ab;Dbxref=NCBI_GP:AZA07832.1;Name=AZA07832.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=ORF1ab;protein_id=AZA07832.1
+MK032178.1	Genbank	CDS	12358	20421	.	+	0	ID=cds-AZA07832.1;Parent=gene-1ab;Dbxref=NCBI_GP:AZA07832.1;Name=AZA07832.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=ORF1ab;protein_id=AZA07832.1
+MK032178.1	Genbank	gene	20372	23869	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MK032178.1	Genbank	CDS	20372	23869	.	+	0	ID=cds-AZA07833.1;Parent=gene-S;Dbxref=NCBI_GP:AZA07833.1;Name=AZA07833.1;gbkey=CDS;gene=S;product=spike protein;protein_id=AZA07833.1
+MK032178.1	Genbank	gene	23869	24042	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+MK032178.1	Genbank	CDS	23869	24042	.	+	0	ID=cds-AZA07834.1;Parent=gene-3a;Dbxref=NCBI_GP:AZA07834.1;Name=AZA07834.1;gbkey=CDS;gene=3a;product=ORF3a;protein_id=AZA07834.1
+MK032178.1	Genbank	gene	24042	24230	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+MK032178.1	Genbank	CDS	24042	24230	.	+	0	ID=cds-AZA07835.1;Parent=gene-3b;Dbxref=NCBI_GP:AZA07835.1;Name=AZA07835.1;gbkey=CDS;gene=3b;product=ORF3b;protein_id=AZA07835.1
+MK032178.1	Genbank	gene	24217	24543	.	+	.	ID=gene-3c;Name=3c;gbkey=Gene;gene=3c;gene_biotype=protein_coding
+MK032178.1	Genbank	CDS	24217	24543	.	+	0	ID=cds-AZA07836.1;Parent=gene-3c;Dbxref=NCBI_GP:AZA07836.1;Name=AZA07836.1;gbkey=CDS;gene=3c;product=ORF3c;protein_id=AZA07836.1
+MK032178.1	Genbank	gene	24515	25192	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MK032178.1	Genbank	CDS	24515	25192	.	+	0	ID=cds-AZA07837.1;Parent=gene-M;Dbxref=NCBI_GP:AZA07837.1;Name=AZA07837.1;gbkey=CDS;gene=M;product=M protein;protein_id=AZA07837.1
+MK032178.1	Genbank	gene	25556	25753	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+MK032178.1	Genbank	CDS	25556	25753	.	+	0	ID=cds-AZA07838.1;Parent=gene-5a;Dbxref=NCBI_GP:AZA07838.1;Name=AZA07838.1;gbkey=CDS;gene=5a;product=ORF5a;protein_id=AZA07838.1
+MK032178.1	Genbank	gene	25750	25998	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+MK032178.1	Genbank	CDS	25750	25998	.	+	0	ID=cds-AZA07839.1;Parent=gene-5b;Dbxref=NCBI_GP:AZA07839.1;Name=AZA07839.1;gbkey=CDS;gene=5b;product=ORF5b;protein_id=AZA07839.1
+MK032178.1	Genbank	gene	25941	27170	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MK032178.1	Genbank	CDS	25941	27170	.	+	0	ID=cds-AZA07840.1;Parent=gene-N;Dbxref=NCBI_GP:AZA07840.1;Name=AZA07840.1;gbkey=CDS;gene=N;product=N protein;protein_id=AZA07840.1
+

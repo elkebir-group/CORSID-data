@@ -1,0 +1,19 @@
+##sequence-region MN611518.1 1 28751
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2691587
+MN611518.1	Genbank	region	1	28751	.	+	.	ID=MN611518.1:1..28751;Dbxref=taxon:2691587;collection-date=Mar-2018;country=China;gbkey=Src;genome=genomic;isolate=6610;mol_type=genomic RNA;nat-host=Miniopterus pusillus
+MN611518.1	Genbank	gene	257	20946	.	+	.	ID=gene-6610_gp1;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding;locus_tag=6610_gp1
+MN611518.1	Genbank	CDS	257	12922	.	+	0	ID=cds-QHA24670.1;Parent=gene-6610_gp1;Dbxref=NCBI_GP:QHA24670.1;Name=QHA24670.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;locus_tag=6610_gp1;product=orf1ab polyprotein;protein_id=QHA24670.1
+MN611518.1	Genbank	CDS	12922	20946	.	+	0	ID=cds-QHA24670.1;Parent=gene-6610_gp1;Dbxref=NCBI_GP:QHA24670.1;Name=QHA24670.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;locus_tag=6610_gp1;product=orf1ab polyprotein;protein_id=QHA24670.1
+MN611518.1	Genbank	gene	20948	25072	.	+	.	ID=gene-6610_gp2;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding;locus_tag=6610_gp2
+MN611518.1	Genbank	CDS	20948	25072	.	+	0	ID=cds-QHA24671.1;Parent=gene-6610_gp2;Dbxref=NCBI_GP:QHA24671.1;Name=QHA24671.1;gbkey=CDS;gene=S;locus_tag=6610_gp2;product=spike glycoprotein;protein_id=QHA24671.1
+MN611518.1	Genbank	gene	25072	25740	.	+	.	ID=gene-6610_gp3;Name=NS3;gbkey=Gene;gene=NS3;gene_biotype=protein_coding;locus_tag=6610_gp3
+MN611518.1	Genbank	CDS	25072	25740	.	+	0	ID=cds-QHA24672.1;Parent=gene-6610_gp3;Dbxref=NCBI_GP:QHA24672.1;Name=QHA24672.1;gbkey=CDS;gene=NS3;locus_tag=6610_gp3;product=nonstructural protein NS3;protein_id=QHA24672.1
+MN611518.1	Genbank	gene	25724	25948	.	+	.	ID=gene-6610_gp4;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding;locus_tag=6610_gp4
+MN611518.1	Genbank	CDS	25724	25948	.	+	0	ID=cds-QHA24673.1;Parent=gene-6610_gp4;Dbxref=NCBI_GP:QHA24673.1;Name=QHA24673.1;gbkey=CDS;gene=E;locus_tag=6610_gp4;product=envelope protein;protein_id=QHA24673.1
+MN611518.1	Genbank	gene	25958	26716	.	+	.	ID=gene-6610_gp5;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding;locus_tag=6610_gp5
+MN611518.1	Genbank	CDS	25958	26716	.	+	0	ID=cds-QHA24674.1;Parent=gene-6610_gp5;Dbxref=NCBI_GP:QHA24674.1;Name=QHA24674.1;gbkey=CDS;gene=M;locus_tag=6610_gp5;product=membrane protein;protein_id=QHA24674.1
+MN611518.1	Genbank	gene	26765	28033	.	+	.	ID=gene-6610_gp6;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding;locus_tag=6610_gp6
+MN611518.1	Genbank	CDS	26765	28033	.	+	0	ID=cds-QHA24675.1;Parent=gene-6610_gp6;Dbxref=NCBI_GP:QHA24675.1;Name=QHA24675.1;gbkey=CDS;gene=N;locus_tag=6610_gp6;product=nucleocapsid protein;protein_id=QHA24675.1
+MN611518.1	Genbank	gene	28030	28527	.	+	.	ID=gene-6610_gp7;Name=NS7;gbkey=Gene;gene=NS7;gene_biotype=protein_coding;locus_tag=6610_gp7
+MN611518.1	Genbank	CDS	28030	28527	.	+	0	ID=cds-QHA24676.1;Parent=gene-6610_gp7;Dbxref=NCBI_GP:QHA24676.1;Name=QHA24676.1;gbkey=CDS;gene=NS7;locus_tag=6610_gp7;product=nonstructural protein NS7;protein_id=QHA24676.1
+

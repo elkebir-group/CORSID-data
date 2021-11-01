@@ -1,0 +1,25 @@
+##sequence-region MN128087.1 1 27755
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+MN128087.1	Genbank	region	1	27755	.	+	.	ID=MN128087.1:1..27755;Dbxref=taxon:11120;collection-date=1998;country=Taiwan;gbkey=Src;genome=genomic;group=TW-I;mol_type=genomic RNA;nat-host=chicken;note=77th passage;strain=TW2575/98vac
+MN128087.1	Genbank	gene	528	20488	.	+	.	ID=gene-1ab;Name=1ab;gbkey=Gene;gene=1ab;gene_biotype=protein_coding
+MN128087.1	Genbank	CDS	528	12425	.	+	0	ID=cds-QIV13707.1;Parent=gene-1ab;Dbxref=NCBI_GP:QIV13707.1;Name=QIV13707.1;Note=virus replicase;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=replicase polyprotein 1ab;protein_id=QIV13707.1
+MN128087.1	Genbank	CDS	12425	20488	.	+	0	ID=cds-QIV13707.1;Parent=gene-1ab;Dbxref=NCBI_GP:QIV13707.1;Name=QIV13707.1;Note=virus replicase;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=replicase polyprotein 1ab;protein_id=QIV13707.1
+MN128087.1	Genbank	gene	528	12455	.	+	.	ID=gene-1a;Name=1a;gbkey=Gene;gene=1a;gene_biotype=protein_coding
+MN128087.1	Genbank	CDS	528	12455	.	+	0	ID=cds-QIV13708.1;Parent=gene-1a;Dbxref=NCBI_GP:QIV13708.1;Name=QIV13708.1;Note=part of virus replicase;gbkey=CDS;gene=1a;product=replicase polyprotein 1a;protein_id=QIV13708.1
+MN128087.1	Genbank	gene	20439	23936	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MN128087.1	Genbank	CDS	20439	23936	.	+	0	ID=cds-QIV13709.1;Parent=gene-S;Dbxref=NCBI_GP:QIV13709.1;Name=QIV13709.1;Note=processed proteolytically into S1 and S2 protein%3B related to neutralization and type-specific antibodies%3B structural protein;gbkey=CDS;gene=S;product=spike protein;protein_id=QIV13709.1
+MN128087.1	Genbank	gene	23936	24109	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+MN128087.1	Genbank	CDS	23936	24109	.	+	0	ID=cds-QIV13710.1;Parent=gene-3a;Dbxref=NCBI_GP:QIV13710.1;Name=QIV13710.1;gbkey=CDS;gene=3a;product=3a protein;protein_id=QIV13710.1
+MN128087.1	Genbank	gene	24109	24303	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+MN128087.1	Genbank	CDS	24109	24303	.	+	0	ID=cds-QIV13711.1;Parent=gene-3b;Dbxref=NCBI_GP:QIV13711.1;Name=QIV13711.1;gbkey=CDS;gene=3b;product=3b protein;protein_id=QIV13711.1
+MN128087.1	Genbank	gene	24284	24613	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MN128087.1	Genbank	CDS	24284	24613	.	+	0	ID=cds-QIV13712.1;Parent=gene-E;Dbxref=NCBI_GP:QIV13712.1;Name=QIV13712.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=QIV13712.1
+MN128087.1	Genbank	gene	24585	25262	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MN128087.1	Genbank	CDS	24585	25262	.	+	0	ID=cds-QIV13713.1;Parent=gene-M;Dbxref=NCBI_GP:QIV13713.1;Name=QIV13713.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=QIV13713.1
+MN128087.1	Genbank	gene	25622	25819	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+MN128087.1	Genbank	CDS	25622	25819	.	+	0	ID=cds-QIV13714.1;Parent=gene-5a;Dbxref=NCBI_GP:QIV13714.1;Name=QIV13714.1;gbkey=CDS;gene=5a;product=5a protein;protein_id=QIV13714.1
+MN128087.1	Genbank	gene	25816	26064	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+MN128087.1	Genbank	CDS	25816	26064	.	+	0	ID=cds-QIV13715.1;Parent=gene-5b;Dbxref=NCBI_GP:QIV13715.1;Name=QIV13715.1;gbkey=CDS;gene=5b;product=5b protein;protein_id=QIV13715.1
+MN128087.1	Genbank	gene	26007	27236	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MN128087.1	Genbank	CDS	26007	27236	.	+	0	ID=cds-QIV13716.1;Parent=gene-N;Dbxref=NCBI_GP:QIV13716.1;Name=QIV13716.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=QIV13716.1
+

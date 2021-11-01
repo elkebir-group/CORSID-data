@@ -1,0 +1,23 @@
+##sequence-region KJ435283.1 1 27666
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+KJ435283.1	Genbank	region	1	27666	.	+	.	ID=KJ435283.1:1..27666;Dbxref=taxon:11120;collection-date=19-Dec-2011;country=China;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Gallus gallus;strain=ck/CH/LSD/111219
+KJ435283.1	Genbank	gene	526	20420	.	+	.	ID=gene-ORF1ab;Name=ORF1ab;gbkey=Gene;gene=ORF1ab;gene_biotype=protein_coding
+KJ435283.1	Genbank	CDS	526	12384	.	+	0	ID=cds-AHX26144.1;Parent=gene-ORF1ab;Dbxref=NCBI_GP:AHX26144.1;Name=AHX26144.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;product=ORF1ab;protein_id=AHX26144.1
+KJ435283.1	Genbank	CDS	12387	20420	.	+	0	ID=cds-AHX26144.1;Parent=gene-ORF1ab;Dbxref=NCBI_GP:AHX26144.1;Name=AHX26144.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;product=ORF1ab;protein_id=AHX26144.1
+KJ435283.1	Genbank	gene	20371	23859	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KJ435283.1	Genbank	CDS	20371	23859	.	+	0	ID=cds-AHX26145.1;Parent=gene-S;Dbxref=NCBI_GP:AHX26145.1;Name=AHX26145.1;exception=ribosomal slippage;gbkey=CDS;gene=S;product=spike protein;protein_id=AHX26145.1
+KJ435283.1	Genbank	gene	23859	24032	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+KJ435283.1	Genbank	CDS	23859	24032	.	+	0	ID=cds-AHX26146.1;Parent=gene-3a;Dbxref=NCBI_GP:AHX26146.1;Name=AHX26146.1;exception=ribosomal slippage;gbkey=CDS;gene=3a;product=3a protein;protein_id=AHX26146.1
+KJ435283.1	Genbank	gene	24032	24220	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+KJ435283.1	Genbank	CDS	24032	24220	.	+	0	ID=cds-AHX26147.1;Parent=gene-3b;Dbxref=NCBI_GP:AHX26147.1;Name=AHX26147.1;exception=ribosomal slippage;gbkey=CDS;gene=3b;product=3b protein;protein_id=AHX26147.1
+KJ435283.1	Genbank	gene	24207	24533	.	+	.	ID=gene-3c;Name=3c;gbkey=Gene;gene=3c;gene_biotype=protein_coding
+KJ435283.1	Genbank	CDS	24207	24533	.	+	0	ID=cds-AHX26148.1;Parent=gene-3c;Dbxref=NCBI_GP:AHX26148.1;Name=AHX26148.1;exception=ribosomal slippage;gbkey=CDS;gene=3c;product=E protein;protein_id=AHX26148.1
+KJ435283.1	Genbank	gene	24505	25182	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KJ435283.1	Genbank	CDS	24505	25182	.	+	0	ID=cds-AHX26149.1;Parent=gene-M;Dbxref=NCBI_GP:AHX26149.1;Name=AHX26149.1;exception=ribosomal slippage;gbkey=CDS;gene=M;product=M protein;protein_id=AHX26149.1
+KJ435283.1	Genbank	gene	25536	25733	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+KJ435283.1	Genbank	CDS	25536	25733	.	+	0	ID=cds-AHX26150.1;Parent=gene-5a;Dbxref=NCBI_GP:AHX26150.1;Name=AHX26150.1;exception=ribosomal slippage;gbkey=CDS;gene=5a;product=5a protein;protein_id=AHX26150.1
+KJ435283.1	Genbank	gene	25730	25978	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+KJ435283.1	Genbank	CDS	25730	25978	.	+	0	ID=cds-AHX26151.1;Parent=gene-5b;Dbxref=NCBI_GP:AHX26151.1;Name=AHX26151.1;exception=ribosomal slippage;gbkey=CDS;gene=5b;product=5b protein;protein_id=AHX26151.1
+KJ435283.1	Genbank	gene	25921	27150	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KJ435283.1	Genbank	CDS	25921	27150	.	+	0	ID=cds-AHX26152.1;Parent=gene-N;Dbxref=NCBI_GP:AHX26152.1;Name=AHX26152.1;exception=ribosomal slippage;gbkey=CDS;gene=N;product=N protein;protein_id=AHX26152.1
+

@@ -1,0 +1,16 @@
+##sequence-region GQ427173.1 1 27770
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11152
+GQ427173.1	Genbank	region	1	27770	.	+	.	ID=GQ427173.1:1..27770;Dbxref=taxon:11152;collection-date=2003;country=USA;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=turkey;strain=TCoV/VA-74/03
+GQ427173.1	Genbank	CDS	532	12344	.	+	0	ID=cds-ACV87243.1;Dbxref=NCBI_GP:ACV87243.1;Name=ACV87243.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein 1a;protein_id=ACV87243.1
+GQ427173.1	Genbank	CDS	12344	20321	.	+	1	ID=cds-ACV87243.1;Dbxref=NCBI_GP:ACV87243.1;Name=ACV87243.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein 1a;protein_id=ACV87243.1
+GQ427173.1	Genbank	CDS	532	12375	.	+	0	ID=cds-ACV87245.1;Dbxref=NCBI_GP:ACV87245.1;Name=ACV87245.1;gbkey=CDS;product=polyprotein 1ab;protein_id=ACV87245.1
+GQ427173.1	Genbank	CDS	20345	24025	.	+	0	ID=cds-ACV87236.1;Dbxref=NCBI_GP:ACV87236.1;Name=ACV87236.1;gbkey=CDS;product=spike;protein_id=ACV87236.1
+GQ427173.1	Genbank	CDS	23973	24146	.	+	0	ID=cds-ACV87242.1;Dbxref=NCBI_GP:ACV87242.1;Name=ACV87242.1;gbkey=CDS;product=ORF 3a;protein_id=ACV87242.1
+GQ427173.1	Genbank	CDS	24146	24340	.	+	0	ID=cds-ACV87235.1;Dbxref=NCBI_GP:ACV87235.1;Name=ACV87235.1;gbkey=CDS;product=ORF 3b;protein_id=ACV87235.1
+GQ427173.1	Genbank	CDS	24321	24620	.	+	0	ID=cds-ACV87239.1;Dbxref=NCBI_GP:ACV87239.1;Name=ACV87239.1;gbkey=CDS;product=envelope;protein_id=ACV87239.1
+GQ427173.1	Genbank	CDS	24622	25293	.	+	0	ID=cds-ACV87238.1;Dbxref=NCBI_GP:ACV87238.1;Name=ACV87238.1;gbkey=CDS;product=membrane;protein_id=ACV87238.1
+GQ427173.1	Genbank	CDS	25294	25578	.	+	0	ID=cds-ACV87244.1;Dbxref=NCBI_GP:ACV87244.1;Name=ACV87244.1;gbkey=CDS;product=ORF X;protein_id=ACV87244.1
+GQ427173.1	Genbank	CDS	25654	25851	.	+	0	ID=cds-ACV87241.1;Dbxref=NCBI_GP:ACV87241.1;Name=ACV87241.1;gbkey=CDS;product=ORF 5a;protein_id=ACV87241.1
+GQ427173.1	Genbank	CDS	25848	26096	.	+	0	ID=cds-ACV87240.1;Dbxref=NCBI_GP:ACV87240.1;Name=ACV87240.1;gbkey=CDS;product=ORF 5b;protein_id=ACV87240.1
+GQ427173.1	Genbank	CDS	26039	27268	.	+	0	ID=cds-ACV87237.1;Dbxref=NCBI_GP:ACV87237.1;Name=ACV87237.1;gbkey=CDS;product=nucleocapsid;protein_id=ACV87237.1
+

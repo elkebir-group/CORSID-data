@@ -1,0 +1,27 @@
+##sequence-region NC_030886.1 1 30161
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1892416
+NC_030886.1	RefSeq	region	1	30161	.	+	.	ID=NC_030886.1:1..30161;Dbxref=taxon:1892416;collection-date=28-May-2014;country=China;gbkey=Src;genome=genomic;isolate=GCCDC1 356;isolation-source=rectal swab;mol_type=genomic RNA;nat-host=Rousettus leschenaulti
+NC_030886.1	RefSeq	five_prime_UTR	1	234	.	+	.	ID=id-NC_030886.1:1..234;gbkey=5'UTR
+NC_030886.1	RefSeq	gene	235	21155	.	+	.	ID=gene-BHT41_gp01;Dbxref=GeneID:28721357;Name=ORF1ab;gbkey=Gene;gene=ORF1ab;gene_biotype=protein_coding;locus_tag=BHT41_gp01
+NC_030886.1	RefSeq	CDS	235	13083	.	+	0	ID=cds-YP_009273004.1;Parent=gene-BHT41_gp01;Dbxref=Genbank:YP_009273004.1,GeneID:28721357;Name=YP_009273004.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;locus_tag=BHT41_gp01;product=ORF1ab protein;protein_id=YP_009273004.1
+NC_030886.1	RefSeq	CDS	13083	21155	.	+	0	ID=cds-YP_009273004.1;Parent=gene-BHT41_gp01;Dbxref=Genbank:YP_009273004.1,GeneID:28721357;Name=YP_009273004.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;locus_tag=BHT41_gp01;product=ORF1ab protein;protein_id=YP_009273004.1
+NC_030886.1	RefSeq	gene	21121	24993	.	+	.	ID=gene-BHT41_gp02;Dbxref=GeneID:28721348;Name=Spike;gbkey=Gene;gene=Spike;gene_biotype=protein_coding;locus_tag=BHT41_gp02
+NC_030886.1	RefSeq	CDS	21121	24993	.	+	0	ID=cds-YP_009273005.1;Parent=gene-BHT41_gp02;Dbxref=Genbank:YP_009273005.1,GeneID:28721348;Name=YP_009273005.1;gbkey=CDS;gene=Spike;locus_tag=BHT41_gp02;product=spike protein;protein_id=YP_009273005.1
+NC_030886.1	RefSeq	gene	24990	25676	.	+	.	ID=gene-BHT41_gp03;Dbxref=GeneID:28721349;Name=NS3;gbkey=Gene;gene=NS3;gene_biotype=protein_coding;locus_tag=BHT41_gp03
+NC_030886.1	RefSeq	CDS	24990	25676	.	+	0	ID=cds-YP_009273006.1;Parent=gene-BHT41_gp03;Dbxref=Genbank:YP_009273006.1,GeneID:28721349;Name=YP_009273006.1;gbkey=CDS;gene=NS3;locus_tag=BHT41_gp03;product=NS3 protein;protein_id=YP_009273006.1
+NC_030886.1	RefSeq	gene	25676	25906	.	+	.	ID=gene-BHT41_gp04;Dbxref=GeneID:28721350;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding;locus_tag=BHT41_gp04
+NC_030886.1	RefSeq	CDS	25676	25906	.	+	0	ID=cds-YP_009273007.1;Parent=gene-BHT41_gp04;Dbxref=Genbank:YP_009273007.1,GeneID:28721350;Name=YP_009273007.1;gbkey=CDS;gene=E;locus_tag=BHT41_gp04;product=small envelope protein;protein_id=YP_009273007.1
+NC_030886.1	RefSeq	gene	25914	26579	.	+	.	ID=gene-BHT41_gp05;Dbxref=GeneID:28721351;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding;locus_tag=BHT41_gp05
+NC_030886.1	RefSeq	CDS	25914	26579	.	+	0	ID=cds-YP_009273008.1;Parent=gene-BHT41_gp05;Dbxref=Genbank:YP_009273008.1,GeneID:28721351;Name=YP_009273008.1;gbkey=CDS;gene=M;locus_tag=BHT41_gp05;product=membrane protein;protein_id=YP_009273008.1
+NC_030886.1	RefSeq	gene	26627	27958	.	+	.	ID=gene-BHT41_gp06;Dbxref=GeneID:28721352;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding;locus_tag=BHT41_gp06
+NC_030886.1	RefSeq	CDS	26627	27958	.	+	0	ID=cds-YP_009273009.1;Parent=gene-BHT41_gp06;Dbxref=Genbank:YP_009273009.1,GeneID:28721352;Name=YP_009273009.1;gbkey=CDS;gene=N;locus_tag=BHT41_gp06;product=nucleocapsid protein;protein_id=YP_009273009.1
+NC_030886.1	RefSeq	gene	27994	28269	.	+	.	ID=gene-BHT41_gp07;Dbxref=GeneID:28721353;Name=p10;gbkey=Gene;gene=p10;gene_biotype=protein_coding;locus_tag=BHT41_gp07
+NC_030886.1	RefSeq	CDS	27994	28269	.	+	0	ID=cds-YP_009273010.1;Parent=gene-BHT41_gp07;Dbxref=Genbank:YP_009273010.1,GeneID:28721353;Name=YP_009273010.1;gbkey=CDS;gene=p10;locus_tag=BHT41_gp07;product=putative p10 protein;protein_id=YP_009273010.1
+NC_030886.1	RefSeq	gene	28287	28850	.	+	.	ID=gene-BHT41_gp08;Dbxref=GeneID:28721354;Name=NS7a;gbkey=Gene;gene=NS7a;gene_biotype=protein_coding;locus_tag=BHT41_gp08
+NC_030886.1	RefSeq	CDS	28287	28850	.	+	0	ID=cds-YP_009273011.1;Parent=gene-BHT41_gp08;Dbxref=Genbank:YP_009273011.1,GeneID:28721354;Name=YP_009273011.1;gbkey=CDS;gene=NS7a;locus_tag=BHT41_gp08;product=putative NS7a protein;protein_id=YP_009273011.1
+NC_030886.1	RefSeq	gene	28863	29444	.	+	.	ID=gene-BHT41_gp09;Dbxref=GeneID:28721355;Name=NS7b;gbkey=Gene;gene=NS7b;gene_biotype=protein_coding;locus_tag=BHT41_gp09
+NC_030886.1	RefSeq	CDS	28863	29444	.	+	0	ID=cds-YP_009273012.1;Parent=gene-BHT41_gp09;Dbxref=Genbank:YP_009273012.1,GeneID:28721355;Name=YP_009273012.1;gbkey=CDS;gene=NS7b;locus_tag=BHT41_gp09;product=putative NS7b protein;protein_id=YP_009273012.1
+NC_030886.1	RefSeq	gene	29444	29893	.	+	.	ID=gene-BHT41_gp10;Dbxref=GeneID:28721356;Name=NS7c;gbkey=Gene;gene=NS7c;gene_biotype=protein_coding;locus_tag=BHT41_gp10
+NC_030886.1	RefSeq	CDS	29444	29893	.	+	0	ID=cds-YP_009273013.1;Parent=gene-BHT41_gp10;Dbxref=Genbank:YP_009273013.1,GeneID:28721356;Name=YP_009273013.1;gbkey=CDS;gene=NS7c;locus_tag=BHT41_gp10;product=putative NS7c protein;protein_id=YP_009273013.1
+NC_030886.1	RefSeq	three_prime_UTR	29894	30161	.	+	.	ID=id-NC_030886.1:29894..30161;gbkey=3'UTR
+

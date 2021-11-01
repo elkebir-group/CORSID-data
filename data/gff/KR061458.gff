@@ -1,0 +1,11 @@
+##sequence-region KR061458.1 1 27986
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=28295
+KR061458.1	Genbank	region	1	27986	.	+	.	ID=KR061458.1:1..27986;Dbxref=taxon:28295;collection-date=14-Jan-2009;country=Italy;gb-acronym=PEDV;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=pig;strain=Italy/7239/2009
+KR061458.1	Genbank	CDS	264	12572	.	+	0	ID=cds-ALR84907.1;Dbxref=NCBI_GP:ALR84907.1;Name=ALR84907.1;Note=ORF1a/1b;exception=ribosomal slippage;gbkey=CDS;product=replicase polyprotein;protein_id=ALR84907.1
+KR061458.1	Genbank	CDS	12572	20608	.	+	0	ID=cds-ALR84907.1;Dbxref=NCBI_GP:ALR84907.1;Name=ALR84907.1;Note=ORF1a/1b;exception=ribosomal slippage;gbkey=CDS;product=replicase polyprotein;protein_id=ALR84907.1
+KR061458.1	Genbank	CDS	20605	24756	.	+	0	ID=cds-ALR84908.1;Dbxref=NCBI_GP:ALR84908.1;Name=ALR84908.1;gbkey=CDS;product=spike protein;protein_id=ALR84908.1
+KR061458.1	Genbank	CDS	24756	25430	.	+	0	ID=cds-ALR84909.1;Dbxref=NCBI_GP:ALR84909.1;Name=ALR84909.1;gbkey=CDS;product=ORF3 protein;protein_id=ALR84909.1
+KR061458.1	Genbank	CDS	25411	25641	.	+	0	ID=cds-ALR84910.1;Dbxref=NCBI_GP:ALR84910.1;Name=ALR84910.1;gbkey=CDS;product=envelope protein;protein_id=ALR84910.1
+KR061458.1	Genbank	CDS	25649	26329	.	+	0	ID=cds-ALR84911.1;Dbxref=NCBI_GP:ALR84911.1;Name=ALR84911.1;gbkey=CDS;product=membrane protein;protein_id=ALR84911.1
+KR061458.1	Genbank	CDS	26341	27666	.	+	0	ID=cds-ALR84912.1;Dbxref=NCBI_GP:ALR84912.1;Name=ALR84912.1;gbkey=CDS;product=nucleocapsid protein;protein_id=ALR84912.1
+

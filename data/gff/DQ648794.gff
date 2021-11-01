@@ -1,0 +1,13 @@
+##sequence-region DQ648794.1 1 30307
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=389230
+DQ648794.1	Genbank	region	1	30307	.	+	.	ID=DQ648794.1:1..30307;Dbxref=taxon:389230;gbkey=Src;mol_type=genomic RNA;strain=BtCoV/133/2005
+DQ648794.1	Genbank	CDS	260	13564	.	+	0	ID=cds-ABG47051.1;Dbxref=NCBI_GP:ABG47051.1;Name=ABG47051.1;gbkey=CDS;product=ORF1;protein_id=ABG47051.1
+DQ648794.1	Genbank	CDS	13564	21639	.	+	0	ID=cds-ABG47051.1;Dbxref=NCBI_GP:ABG47051.1;Name=ABG47051.1;gbkey=CDS;product=ORF1;protein_id=ABG47051.1
+DQ648794.1	Genbank	CDS	21584	25636	.	+	0	ID=cds-ABG47052.1;Dbxref=NCBI_GP:ABG47052.1;Name=ABG47052.1;gbkey=CDS;product=spike protein;protein_id=ABG47052.1
+DQ648794.1	Genbank	CDS	25663	25938	.	+	0	ID=cds-ABG47053.1;Dbxref=NCBI_GP:ABG47053.1;Name=ABG47053.1;gbkey=CDS;product=putative ORF3a;protein_id=ABG47053.1
+DQ648794.1	Genbank	CDS	26119	26976	.	+	0	ID=cds-ABG47054.1;Dbxref=NCBI_GP:ABG47054.1;Name=ABG47054.1;gbkey=CDS;product=putative ORF3b;protein_id=ABG47054.1
+DQ648794.1	Genbank	CDS	26992	27675	.	+	0	ID=cds-ABG47055.1;Dbxref=NCBI_GP:ABG47055.1;Name=ABG47055.1;gbkey=CDS;product=putative ORF3c;protein_id=ABG47055.1
+DQ648794.1	Genbank	CDS	27745	27993	.	+	0	ID=cds-ABG47056.1;Dbxref=NCBI_GP:ABG47056.1;Name=ABG47056.1;gbkey=CDS;product=envelope protein;protein_id=ABG47056.1
+DQ648794.1	Genbank	CDS	28008	28667	.	+	0	ID=cds-ABG47057.1;Dbxref=NCBI_GP:ABG47057.1;Name=ABG47057.1;gbkey=CDS;product=matrix protein;protein_id=ABG47057.1
+DQ648794.1	Genbank	CDS	28705	29979	.	+	0	ID=cds-ABG47058.1;Dbxref=NCBI_GP:ABG47058.1;Name=ABG47058.1;gbkey=CDS;product=nucleocapsid protein;protein_id=ABG47058.1
+

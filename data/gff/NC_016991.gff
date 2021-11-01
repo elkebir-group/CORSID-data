@@ -1,0 +1,21 @@
+##sequence-region NC_016991.1 1 26041
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1159907
+NC_016991.1	RefSeq	region	1	26041	.	+	.	ID=NC_016991.1:1..26041;Dbxref=taxon:1159907;collection-date=2007;country=China: Hong Kong;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=white-eye;strain=HKU16-6847
+NC_016991.1	RefSeq	gene	511	19397	.	+	.	ID=gene-WECoV-HKU16_gp1;Dbxref=GeneID:11945629;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding;locus_tag=WECoV-HKU16_gp1
+NC_016991.1	RefSeq	CDS	511	11349	.	+	0	ID=cds-YP_005352837.1;Parent=gene-WECoV-HKU16_gp1;Dbxref=Genbank:YP_005352837.1,GeneID:11945629;Name=YP_005352837.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;locus_tag=WECoV-HKU16_gp1;product=replicase polyprotein;protein_id=YP_005352837.1
+NC_016991.1	RefSeq	CDS	11349	19397	.	+	0	ID=cds-YP_005352837.1;Parent=gene-WECoV-HKU16_gp1;Dbxref=Genbank:YP_005352837.1,GeneID:11945629;Name=YP_005352837.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;locus_tag=WECoV-HKU16_gp1;product=replicase polyprotein;protein_id=YP_005352837.1
+NC_016991.1	RefSeq	gene	19379	22918	.	+	.	ID=gene-WECoV-HKU16_gp2;Dbxref=GeneID:11945622;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding;locus_tag=WECoV-HKU16_gp2
+NC_016991.1	RefSeq	CDS	19379	22918	.	+	0	ID=cds-YP_005352838.1;Parent=gene-WECoV-HKU16_gp2;Dbxref=Genbank:YP_005352838.1,GeneID:11945622;Name=YP_005352838.1;gbkey=CDS;gene=S;locus_tag=WECoV-HKU16_gp2;product=spike glycoprotein;protein_id=YP_005352838.1
+NC_016991.1	RefSeq	gene	22912	23160	.	+	.	ID=gene-WECoV-HKU16_gp3;Dbxref=GeneID:11945623;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding;locus_tag=WECoV-HKU16_gp3
+NC_016991.1	RefSeq	CDS	22912	23160	.	+	0	ID=cds-YP_005352839.1;Parent=gene-WECoV-HKU16_gp3;Dbxref=Genbank:YP_005352839.1,GeneID:11945623;Name=YP_005352839.1;gbkey=CDS;gene=E;locus_tag=WECoV-HKU16_gp3;product=envelope protein;protein_id=YP_005352839.1
+NC_016991.1	RefSeq	gene	23153	23809	.	+	.	ID=gene-WECoV-HKU16_gp4;Dbxref=GeneID:11945624;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding;locus_tag=WECoV-HKU16_gp4
+NC_016991.1	RefSeq	CDS	23153	23809	.	+	0	ID=cds-YP_005352840.1;Parent=gene-WECoV-HKU16_gp4;Dbxref=Genbank:YP_005352840.1,GeneID:11945624;Name=YP_005352840.1;gbkey=CDS;gene=M;locus_tag=WECoV-HKU16_gp4;product=membrane protein;protein_id=YP_005352840.1
+NC_016991.1	RefSeq	gene	23809	24090	.	+	.	ID=gene-WECoV-HKU16_gp5;Dbxref=GeneID:11945625;Name=NS6;gbkey=Gene;gene=NS6;gene_biotype=protein_coding;locus_tag=WECoV-HKU16_gp5
+NC_016991.1	RefSeq	CDS	23809	24090	.	+	0	ID=cds-YP_005352841.1;Parent=gene-WECoV-HKU16_gp5;Dbxref=Genbank:YP_005352841.1,GeneID:11945625;Name=YP_005352841.1;gbkey=CDS;gene=NS6;locus_tag=WECoV-HKU16_gp5;product=NS6 protein;protein_id=YP_005352841.1
+NC_016991.1	RefSeq	gene	24115	25158	.	+	.	ID=gene-WECoV-HKU16_gp6;Dbxref=GeneID:11945626;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding;locus_tag=WECoV-HKU16_gp6
+NC_016991.1	RefSeq	CDS	24115	25158	.	+	0	ID=cds-YP_005352842.1;Parent=gene-WECoV-HKU16_gp6;Dbxref=Genbank:YP_005352842.1,GeneID:11945626;Name=YP_005352842.1;gbkey=CDS;gene=N;locus_tag=WECoV-HKU16_gp6;product=nucleocapsid protein;protein_id=YP_005352842.1
+NC_016991.1	RefSeq	gene	24143	24811	.	+	.	ID=gene-WECoV-HKU16_gp7;Dbxref=GeneID:11945627;Name=NS7a;gbkey=Gene;gene=NS7a;gene_biotype=protein_coding;locus_tag=WECoV-HKU16_gp7
+NC_016991.1	RefSeq	CDS	24143	24811	.	+	0	ID=cds-YP_005352843.1;Parent=gene-WECoV-HKU16_gp7;Dbxref=Genbank:YP_005352843.1,GeneID:11945627;Name=YP_005352843.1;gbkey=CDS;gene=NS7a;locus_tag=WECoV-HKU16_gp7;product=NS7a protein;protein_id=YP_005352843.1
+NC_016991.1	RefSeq	gene	25139	25270	.	+	.	ID=gene-WECoV-HKU16_gp8;Dbxref=GeneID:11945628;Name=NS7b;gbkey=Gene;gene=NS7b;gene_biotype=protein_coding;locus_tag=WECoV-HKU16_gp8
+NC_016991.1	RefSeq	CDS	25139	25270	.	+	0	ID=cds-YP_005352844.1;Parent=gene-WECoV-HKU16_gp8;Dbxref=Genbank:YP_005352844.1,GeneID:11945628;Name=YP_005352844.1;gbkey=CDS;gene=NS7b;locus_tag=WECoV-HKU16_gp8;product=NS7b protein;protein_id=YP_005352844.1
+

@@ -1,0 +1,20 @@
+##sequence-region KY805846.1 1 27663
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+KY805846.1	Genbank	region	1	27663	.	+	.	ID=KY805846.1:1..27663;Dbxref=taxon:11120;collection-date=2014;country=Egypt;gbkey=Src;genome=genomic;genotype=GI-23 lineage;isolate=IBV/Ck/EG/CU/4/2014;mol_type=genomic RNA;nat-host=Gallus gallus;old-name=avian infectious bronchitis virus
+KY805846.1	Genbank	five_prime_UTR	1	529	.	+	.	ID=id-KY805846.1:1..529;gbkey=5'UTR
+KY805846.1	Genbank	CDS	530	12346	.	+	0	ID=cds-ARS23151.1;Dbxref=NCBI_GP:ARS23151.1;Name=ARS23151.1;exception=ribosomal slippage;gbkey=CDS;product=replicase polyprotein 1ab;protein_id=ARS23151.1
+KY805846.1	Genbank	CDS	12346	20424	.	+	0	ID=cds-ARS23151.1;Dbxref=NCBI_GP:ARS23151.1;Name=ARS23151.1;exception=ribosomal slippage;gbkey=CDS;product=replicase polyprotein 1ab;protein_id=ARS23151.1
+KY805846.1	Genbank	CDS	530	12376	.	+	0	ID=cds-ARS23150.1;Dbxref=NCBI_GP:ARS23150.1;Name=ARS23150.1;gbkey=CDS;product=replicase polyprotein 1a;protein_id=ARS23150.1
+KY805846.1	Genbank	CDS	20360	23851	.	+	0	ID=cds-ARS23152.1;Dbxref=NCBI_GP:ARS23152.1;Name=ARS23152.1;gbkey=CDS;product=spike glycoprotein;protein_id=ARS23152.1
+KY805846.1	Genbank	CDS	23851	24024	.	+	0	ID=cds-ARS23153.1;Dbxref=NCBI_GP:ARS23153.1;Name=ARS23153.1;gbkey=CDS;product=3a protein;protein_id=ARS23153.1
+KY805846.1	Genbank	CDS	24024	24215	.	+	0	ID=cds-ARS23154.1;Dbxref=NCBI_GP:ARS23154.1;Name=ARS23154.1;gbkey=CDS;product=3b protein;protein_id=ARS23154.1
+KY805846.1	Genbank	CDS	24196	24480	.	+	0	ID=cds-ARS23155.1;Dbxref=NCBI_GP:ARS23155.1;Name=ARS23155.1;gbkey=CDS;product=envelope protein;protein_id=ARS23155.1
+KY805846.1	Genbank	CDS	24473	25153	.	+	0	ID=cds-ARS23156.1;Dbxref=NCBI_GP:ARS23156.1;Name=ARS23156.1;gbkey=CDS;product=membrane protein;protein_id=ARS23156.1
+KY805846.1	Genbank	CDS	25154	25438	.	+	0	ID=cds-ARS23157.1;Dbxref=NCBI_GP:ARS23157.1;Name=ARS23157.1;gbkey=CDS;product=4b protein;protein_id=ARS23157.1
+KY805846.1	Genbank	CDS	25359	25529	.	+	0	ID=cds-ARS23158.1;Dbxref=NCBI_GP:ARS23158.1;Name=ARS23158.1;gbkey=CDS;product=4c protein;protein_id=ARS23158.1
+KY805846.1	Genbank	CDS	25513	25710	.	+	0	ID=cds-ARS23159.1;Dbxref=NCBI_GP:ARS23159.1;Name=ARS23159.1;gbkey=CDS;product=5a protein;protein_id=ARS23159.1
+KY805846.1	Genbank	CDS	25707	25955	.	+	0	ID=cds-ARS23160.1;Dbxref=NCBI_GP:ARS23160.1;Name=ARS23160.1;gbkey=CDS;product=5b protein;protein_id=ARS23160.1
+KY805846.1	Genbank	CDS	25898	27127	.	+	0	ID=cds-ARS23161.1;Dbxref=NCBI_GP:ARS23161.1;Name=ARS23161.1;gbkey=CDS;product=nucleocapsid protein;protein_id=ARS23161.1
+KY805846.1	Genbank	CDS	27136	27363	.	+	0	ID=cds-ARS23162.1;Dbxref=NCBI_GP:ARS23162.1;Name=ARS23162.1;gbkey=CDS;product=6b protein;protein_id=ARS23162.1
+KY805846.1	Genbank	three_prime_UTR	27364	27637	.	+	.	ID=id-KY805846.1:27364..27637;gbkey=3'UTR
+

@@ -1,0 +1,24 @@
+##sequence-region KM586818.1 1 27647
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+KM586818.1	Genbank	region	1	27647	.	+	.	ID=KM586818.1:1..27647;Dbxref=taxon:11120;collection-date=Aug-2008;country=China;gbkey=Src;genome=genomic;genotype=QX-type;isolate=P100;mol_type=genomic RNA;nat-host=chicken
+KM586818.1	Genbank	gene	526	12357	.	+	.	ID=gene-1a;Name=1a;gbkey=Gene;gene=1a;gene_biotype=protein_coding
+KM586818.1	Genbank	CDS	526	12357	.	+	0	ID=cds-AKN20488.1;Parent=gene-1a;Dbxref=NCBI_GP:AKN20488.1;Name=AKN20488.1;gbkey=CDS;gene=1a;product=1a;protein_id=AKN20488.1
+KM586818.1	Genbank	gene	12432	20390	.	+	.	ID=gene-1b;Name=1b;gbkey=Gene;gene=1b;gene_biotype=protein_coding
+KM586818.1	Genbank	CDS	12432	20390	.	+	0	ID=cds-AKN20489.1;Parent=gene-1b;Dbxref=NCBI_GP:AKN20489.1;Name=AKN20489.1;gbkey=CDS;gene=1b;product=1b;protein_id=AKN20489.1
+KM586818.1	Genbank	gene	20341	23838	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KM586818.1	Genbank	CDS	20341	23838	.	+	0	ID=cds-AKN20490.1;Parent=gene-S;Dbxref=NCBI_GP:AKN20490.1;Name=AKN20490.1;gbkey=CDS;gene=S;product=S;protein_id=AKN20490.1
+KM586818.1	Genbank	gene	23838	24011	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+KM586818.1	Genbank	CDS	23838	24011	.	+	0	ID=cds-AKN20491.1;Parent=gene-3a;Dbxref=NCBI_GP:AKN20491.1;Name=AKN20491.1;gbkey=CDS;gene=3a;product=3a;protein_id=AKN20491.1
+KM586818.1	Genbank	gene	24011	24199	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+KM586818.1	Genbank	CDS	24011	24199	.	+	0	ID=cds-AKN20492.1;Parent=gene-3b;Dbxref=NCBI_GP:AKN20492.1;Name=AKN20492.1;gbkey=CDS;gene=3b;product=3b;protein_id=AKN20492.1
+KM586818.1	Genbank	gene	24186	24512	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+KM586818.1	Genbank	CDS	24186	24512	.	+	0	ID=cds-AKN20493.1;Parent=gene-E;Dbxref=NCBI_GP:AKN20493.1;Name=AKN20493.1;gbkey=CDS;gene=E;product=E;protein_id=AKN20493.1
+KM586818.1	Genbank	gene	24484	25161	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KM586818.1	Genbank	CDS	24484	25161	.	+	0	ID=cds-AKN20496.1;Parent=gene-M;Dbxref=NCBI_GP:AKN20496.1;Name=AKN20496.1;gbkey=CDS;gene=M;product=M;protein_id=AKN20496.1
+KM586818.1	Genbank	gene	25525	25722	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+KM586818.1	Genbank	CDS	25525	25722	.	+	0	ID=cds-AKN20494.1;Parent=gene-5a;Dbxref=NCBI_GP:AKN20494.1;Name=AKN20494.1;gbkey=CDS;gene=5a;product=5a;protein_id=AKN20494.1
+KM586818.1	Genbank	gene	25719	25967	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+KM586818.1	Genbank	CDS	25719	25967	.	+	0	ID=cds-AKN20495.1;Parent=gene-5b;Dbxref=NCBI_GP:AKN20495.1;Name=AKN20495.1;gbkey=CDS;gene=5b;product=5b;protein_id=AKN20495.1
+KM586818.1	Genbank	gene	25910	27139	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KM586818.1	Genbank	CDS	25910	27139	.	+	0	ID=cds-AKN20497.1;Parent=gene-N;Dbxref=NCBI_GP:AKN20497.1;Name=AKN20497.1;gbkey=CDS;gene=N;product=N;protein_id=AKN20497.1
+

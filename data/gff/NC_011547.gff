@@ -1,0 +1,23 @@
+##sequence-region NC_011547.1 1 26487
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=572288
+NC_011547.1	RefSeq	region	1	26487	.	+	.	ID=NC_011547.1:1..26487;Dbxref=taxon:572288;collection-date=Jan-2007;country=Hong Kong;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=red-whiskered bulbul
+NC_011547.1	RefSeq	gene	607	19400	.	+	.	ID=gene-D1P21_gp1;Dbxref=GeneID:37616153;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding;locus_tag=D1P21_gp1
+NC_011547.1	RefSeq	CDS	607	11352	.	+	0	ID=cds-YP_002308478.1;Parent=gene-D1P21_gp1;Dbxref=Genbank:YP_002308478.1,GeneID:37616153;Name=YP_002308478.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;locus_tag=D1P21_gp1;product=orf1ab polyprotein;protein_id=YP_002308478.1
+NC_011547.1	RefSeq	CDS	11352	19400	.	+	0	ID=cds-YP_002308478.1;Parent=gene-D1P21_gp1;Dbxref=Genbank:YP_002308478.1,GeneID:37616153;Name=YP_002308478.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;locus_tag=D1P21_gp1;product=orf1ab polyprotein;protein_id=YP_002308478.1
+NC_011547.1	RefSeq	gene	19382	22879	.	+	.	ID=gene-D1P21_gp2;Dbxref=GeneID:37616145;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding;locus_tag=D1P21_gp2
+NC_011547.1	RefSeq	CDS	19382	22879	.	+	0	ID=cds-YP_002308479.1;Parent=gene-D1P21_gp2;Dbxref=Genbank:YP_002308479.1,GeneID:37616145;Name=YP_002308479.1;gbkey=CDS;gene=S;locus_tag=D1P21_gp2;product=spike glycoprotein;protein_id=YP_002308479.1
+NC_011547.1	RefSeq	gene	22873	23121	.	+	.	ID=gene-D1P21_gp3;Dbxref=GeneID:37616146;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding;locus_tag=D1P21_gp3
+NC_011547.1	RefSeq	CDS	22873	23121	.	+	0	ID=cds-YP_002308480.1;Parent=gene-D1P21_gp3;Dbxref=Genbank:YP_002308480.1,GeneID:37616146;Name=YP_002308480.1;gbkey=CDS;gene=E;locus_tag=D1P21_gp3;product=small membrane protein;protein_id=YP_002308480.1
+NC_011547.1	RefSeq	gene	23118	23819	.	+	.	ID=gene-D1P21_gp4;Dbxref=GeneID:37616147;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding;locus_tag=D1P21_gp4
+NC_011547.1	RefSeq	CDS	23118	23819	.	+	0	ID=cds-YP_002308481.1;Parent=gene-D1P21_gp4;Dbxref=Genbank:YP_002308481.1,GeneID:37616147;Name=YP_002308481.1;gbkey=CDS;gene=M;locus_tag=D1P21_gp4;product=membrane protein;protein_id=YP_002308481.1
+NC_011547.1	RefSeq	gene	23819	24106	.	+	.	ID=gene-D1P21_gp5;Dbxref=GeneID:37616148;Name=NS6;gbkey=Gene;gene=NS6;gene_biotype=protein_coding;locus_tag=D1P21_gp5
+NC_011547.1	RefSeq	CDS	23819	24106	.	+	0	ID=cds-YP_002308482.1;Parent=gene-D1P21_gp5;Dbxref=Genbank:YP_002308482.1,GeneID:37616148;Name=YP_002308482.1;gbkey=CDS;gene=NS6;locus_tag=D1P21_gp5;product=nonstructural protein;protein_id=YP_002308482.1
+NC_011547.1	RefSeq	gene	24127	25176	.	+	.	ID=gene-D1P21_gp6;Dbxref=GeneID:37616149;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding;locus_tag=D1P21_gp6
+NC_011547.1	RefSeq	CDS	24127	25176	.	+	0	ID=cds-YP_002308483.1;Parent=gene-D1P21_gp6;Dbxref=Genbank:YP_002308483.1,GeneID:37616149;Name=YP_002308483.1;gbkey=CDS;gene=N;locus_tag=D1P21_gp6;product=nucleocapsid phosphoprotein;protein_id=YP_002308483.1
+NC_011547.1	RefSeq	gene	25355	25726	.	+	.	ID=gene-D1P21_gp7;Dbxref=GeneID:37616150;Name=NS7a;gbkey=Gene;gene=NS7a;gene_biotype=protein_coding;locus_tag=D1P21_gp7
+NC_011547.1	RefSeq	CDS	25355	25726	.	+	0	ID=cds-YP_002308484.1;Parent=gene-D1P21_gp7;Dbxref=Genbank:YP_002308484.1,GeneID:37616150;Name=YP_002308484.1;gbkey=CDS;gene=NS7a;locus_tag=D1P21_gp7;product=nonstructural protein;protein_id=YP_002308484.1
+NC_011547.1	RefSeq	gene	25732	25986	.	+	.	ID=gene-D1P21_gp8;Dbxref=GeneID:37616151;Name=NS7b;gbkey=Gene;gene=NS7b;gene_biotype=protein_coding;locus_tag=D1P21_gp8
+NC_011547.1	RefSeq	CDS	25732	25986	.	+	0	ID=cds-YP_002308485.1;Parent=gene-D1P21_gp8;Dbxref=Genbank:YP_002308485.1,GeneID:37616151;Name=YP_002308485.1;gbkey=CDS;gene=NS7b;locus_tag=D1P21_gp8;product=nonstructural protein;protein_id=YP_002308485.1
+NC_011547.1	RefSeq	gene	25983	26267	.	+	.	ID=gene-D1P21_gp9;Dbxref=GeneID:37616152;Name=NS7c;gbkey=Gene;gene=NS7c;gene_biotype=protein_coding;locus_tag=D1P21_gp9
+NC_011547.1	RefSeq	CDS	25983	26267	.	+	0	ID=cds-YP_002308486.1;Parent=gene-D1P21_gp9;Dbxref=Genbank:YP_002308486.1,GeneID:37616152;Name=YP_002308486.1;gbkey=CDS;gene=NS7c;locus_tag=D1P21_gp9;product=nonstructural protein;protein_id=YP_002308486.1
+

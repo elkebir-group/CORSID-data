@@ -1,0 +1,14 @@
+##sequence-region MT040335.1 1 29806
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2708335
+MT040335.1	Genbank	region	1	29806	.	+	.	ID=MT040335.1:1..29806;Dbxref=taxon:2708335;collection-date=2017;country=China;gbkey=Src;genome=genomic;isolate=PCoV_GX-P5L;mol_type=genomic RNA;nat-host=Manis javanica (Malayan pangolin)
+MT040335.1	Genbank	CDS	267	13445	.	+	0	ID=cds-QIA48631.1;Dbxref=NCBI_GP:QIA48631.1;Name=QIA48631.1;exception=ribosomal slippage;gbkey=CDS;product=orf1ab polyprotein;protein_id=QIA48631.1
+MT040335.1	Genbank	CDS	13445	21532	.	+	0	ID=cds-QIA48631.1;Dbxref=NCBI_GP:QIA48631.1;Name=QIA48631.1;exception=ribosomal slippage;gbkey=CDS;product=orf1ab polyprotein;protein_id=QIA48631.1
+MT040335.1	Genbank	CDS	21540	25343	.	+	0	ID=cds-QIA48632.1;Dbxref=NCBI_GP:QIA48632.1;Name=QIA48632.1;gbkey=CDS;product=spike protein;protein_id=QIA48632.1
+MT040335.1	Genbank	CDS	25353	26180	.	+	0	ID=cds-QIA48633.1;Dbxref=NCBI_GP:QIA48633.1;Name=QIA48633.1;gbkey=CDS;product=orf3a protein;protein_id=QIA48633.1
+MT040335.1	Genbank	CDS	26205	26432	.	+	0	ID=cds-QIA48634.1;Dbxref=NCBI_GP:QIA48634.1;Name=QIA48634.1;gbkey=CDS;product=envelope protein;protein_id=QIA48634.1
+MT040335.1	Genbank	CDS	26480	27148	.	+	0	ID=cds-QIA48635.1;Dbxref=NCBI_GP:QIA48635.1;Name=QIA48635.1;gbkey=CDS;product=membrance glycoprotein;protein_id=QIA48635.1
+MT040335.1	Genbank	CDS	27159	27344	.	+	0	ID=cds-QIA48636.1;Dbxref=NCBI_GP:QIA48636.1;Name=QIA48636.1;gbkey=CDS;product=orf6 protein;protein_id=QIA48636.1
+MT040335.1	Genbank	CDS	27351	27716	.	+	0	ID=cds-QIA48637.1;Dbxref=NCBI_GP:QIA48637.1;Name=QIA48637.1;gbkey=CDS;product=orf7a protein;protein_id=QIA48637.1
+MT040335.1	Genbank	CDS	27851	28216	.	+	0	ID=cds-QIA48638.1;Dbxref=NCBI_GP:QIA48638.1;Name=QIA48638.1;gbkey=CDS;product=orf8 protein;protein_id=QIA48638.1
+MT040335.1	Genbank	CDS	28230	29483	.	+	0	ID=cds-QIA48639.1;Dbxref=NCBI_GP:QIA48639.1;Name=QIA48639.1;gbkey=CDS;product=nucleocapsid phosphoprotein;protein_id=QIA48639.1
+

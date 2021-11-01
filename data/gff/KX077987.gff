@@ -1,0 +1,23 @@
+##sequence-region KX077987.1 1 27666
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+KX077987.1	Genbank	region	1	27666	.	+	.	ID=KX077987.1:1..27666;Dbxref=taxon:11120;collection-date=2015;country=China;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Gallus gallus;strain=ck/CH/LDL/150434-III
+KX077987.1	Genbank	gene	526	20417	.	+	.	ID=gene-1ab;Name=1ab;gbkey=Gene;gene=1ab;gene_biotype=protein_coding
+KX077987.1	Genbank	CDS	526	12354	.	+	0	ID=cds-API61789.1;Parent=gene-1ab;Dbxref=NCBI_GP:API61789.1;Name=API61789.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=1ab protein;protein_id=API61789.1
+KX077987.1	Genbank	CDS	12354	20417	.	+	0	ID=cds-API61789.1;Parent=gene-1ab;Dbxref=NCBI_GP:API61789.1;Name=API61789.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=1ab protein;protein_id=API61789.1
+KX077987.1	Genbank	gene	20368	23853	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KX077987.1	Genbank	CDS	20368	23853	.	+	0	ID=cds-API61790.1;Parent=gene-S;Dbxref=NCBI_GP:API61790.1;Name=API61790.1;gbkey=CDS;gene=S;product=spike protein;protein_id=API61790.1
+KX077987.1	Genbank	gene	23853	24026	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+KX077987.1	Genbank	CDS	23853	24026	.	+	0	ID=cds-API61791.1;Parent=gene-3a;Dbxref=NCBI_GP:API61791.1;Name=API61791.1;gbkey=CDS;gene=3a;product=3a protein;protein_id=API61791.1
+KX077987.1	Genbank	gene	24026	24214	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+KX077987.1	Genbank	CDS	24026	24214	.	+	0	ID=cds-API61792.1;Parent=gene-3b;Dbxref=NCBI_GP:API61792.1;Name=API61792.1;gbkey=CDS;gene=3b;product=3b protein;protein_id=API61792.1
+KX077987.1	Genbank	gene	24201	24527	.	+	.	ID=gene-3c;Name=3c;gbkey=Gene;gene=3c;gene_biotype=protein_coding
+KX077987.1	Genbank	CDS	24201	24527	.	+	0	ID=cds-API61793.1;Parent=gene-3c;Dbxref=NCBI_GP:API61793.1;Name=API61793.1;gbkey=CDS;gene=3c;product=3c protein;protein_id=API61793.1
+KX077987.1	Genbank	gene	24499	25176	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KX077987.1	Genbank	CDS	24499	25176	.	+	0	ID=cds-API61794.1;Parent=gene-M;Dbxref=NCBI_GP:API61794.1;Name=API61794.1;gbkey=CDS;gene=M;product=M protein;protein_id=API61794.1
+KX077987.1	Genbank	gene	25536	25733	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+KX077987.1	Genbank	CDS	25536	25733	.	+	0	ID=cds-API61795.1;Parent=gene-5a;Dbxref=NCBI_GP:API61795.1;Name=API61795.1;gbkey=CDS;gene=5a;product=5a protein;protein_id=API61795.1
+KX077987.1	Genbank	gene	25730	25978	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+KX077987.1	Genbank	CDS	25730	25978	.	+	0	ID=cds-API61796.1;Parent=gene-5b;Dbxref=NCBI_GP:API61796.1;Name=API61796.1;gbkey=CDS;gene=5b;product=5b protein;protein_id=API61796.1
+KX077987.1	Genbank	gene	25921	27150	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KX077987.1	Genbank	CDS	25921	27150	.	+	0	ID=cds-API61797.1;Parent=gene-N;Dbxref=NCBI_GP:API61797.1;Name=API61797.1;gbkey=CDS;gene=N;product=N protein;protein_id=API61797.1
+

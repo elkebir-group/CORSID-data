@@ -1,0 +1,26 @@
+##sequence-region MH002340.1 1 30494
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=694008
+MH002340.1	Genbank	region	1	30494	.	+	.	ID=MH002340.1:1..30494;Dbxref=taxon:694008;collected-by=G.Zhu;collection-date=26-Jun-2014;country=China;gbkey=Src;genome=genomic;identified-by=B.Li;isolate=BY140535;lat-lon=23.24 N 113.22 E;mol_type=genomic RNA
+MH002340.1	Genbank	gene	261	21811	.	+	.	ID=gene-orf1ab;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding
+MH002340.1	Genbank	CDS	261	13688	.	+	0	ID=cds-AWH65908.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:AWH65908.1;Name=AWH65908.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=ORF1ab;protein_id=AWH65908.1
+MH002340.1	Genbank	CDS	13688	21811	.	+	0	ID=cds-AWH65908.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:AWH65908.1;Name=AWH65908.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=ORF1ab;protein_id=AWH65908.1
+MH002340.1	Genbank	CDS	261	13709	.	+	0	ID=cds-AWH65909.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:AWH65909.1;Name=AWH65909.1;gbkey=CDS;gene=orf1ab;product=ORF1a;protein_id=AWH65909.1
+MH002340.1	Genbank	gene	21738	25817	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MH002340.1	Genbank	CDS	21738	25817	.	+	0	ID=cds-AWH65910.1;Parent=gene-S;Dbxref=NCBI_GP:AWH65910.1;Name=AWH65910.1;gbkey=CDS;gene=S;product=S protein;protein_id=AWH65910.1
+MH002340.1	Genbank	gene	25834	26145	.	+	.	ID=gene-orf3;Name=orf3;gbkey=Gene;gene=orf3;gene_biotype=protein_coding
+MH002340.1	Genbank	CDS	25834	26145	.	+	0	ID=cds-AWH65911.1;Parent=gene-orf3;Dbxref=NCBI_GP:AWH65911.1;Name=AWH65911.1;gbkey=CDS;gene=orf3;product=ORF3;protein_id=AWH65911.1
+MH002340.1	Genbank	gene	26158	26517	.	+	.	ID=gene-orf4a;Name=orf4a;gbkey=Gene;gene=orf4a;gene_biotype=protein_coding
+MH002340.1	Genbank	CDS	26158	26517	.	+	0	ID=cds-AWH65912.1;Parent=gene-orf4a;Dbxref=NCBI_GP:AWH65912.1;Name=AWH65912.1;gbkey=CDS;gene=orf4a;product=ORF4a;protein_id=AWH65912.1
+MH002340.1	Genbank	gene	26396	27169	.	+	.	ID=gene-orf4b;Name=orf4b;gbkey=Gene;gene=orf4b;gene_biotype=protein_coding
+MH002340.1	Genbank	CDS	26396	27169	.	+	0	ID=cds-AWH65913.1;Parent=gene-orf4b;Dbxref=NCBI_GP:AWH65913.1;Name=AWH65913.1;gbkey=CDS;gene=orf4b;product=ORF4b;protein_id=AWH65913.1
+MH002340.1	Genbank	gene	27179	27850	.	+	.	ID=gene-orf5;Name=orf5;gbkey=Gene;gene=orf5;gene_biotype=protein_coding
+MH002340.1	Genbank	CDS	27179	27850	.	+	0	ID=cds-AWH65914.1;Parent=gene-orf5;Dbxref=NCBI_GP:AWH65914.1;Name=AWH65914.1;gbkey=CDS;gene=orf5;product=ORF5;protein_id=AWH65914.1
+MH002340.1	Genbank	gene	27928	28176	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MH002340.1	Genbank	CDS	27928	28176	.	+	0	ID=cds-AWH65915.1;Parent=gene-E;Dbxref=NCBI_GP:AWH65915.1;Name=AWH65915.1;gbkey=CDS;gene=E;product=E protein;protein_id=AWH65915.1
+MH002340.1	Genbank	gene	28191	28853	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MH002340.1	Genbank	CDS	28191	28853	.	+	0	ID=cds-AWH65916.1;Parent=gene-M;Dbxref=NCBI_GP:AWH65916.1;Name=AWH65916.1;gbkey=CDS;gene=M;product=M protein;protein_id=AWH65916.1
+MH002340.1	Genbank	gene	28903	30186	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MH002340.1	Genbank	CDS	28903	30186	.	+	0	ID=cds-AWH65917.1;Parent=gene-N;Dbxref=NCBI_GP:AWH65917.1;Name=AWH65917.1;gbkey=CDS;gene=N;product=N protein;protein_id=AWH65917.1
+MH002340.1	Genbank	gene	29096	29521	.	+	.	ID=gene-orf8b;Name=orf8b;gbkey=Gene;gene=orf8b;gene_biotype=protein_coding
+MH002340.1	Genbank	CDS	29096	29521	.	+	0	ID=cds-AWH65918.1;Parent=gene-orf8b;Dbxref=NCBI_GP:AWH65918.1;Name=AWH65918.1;gbkey=CDS;gene=orf8b;product=ORF8b;protein_id=AWH65918.1
+

@@ -1,0 +1,11 @@
+##sequence-region MK472070.1 1 28009
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1906673
+MK472070.1	Genbank	region	1	28009	.	+	.	ID=MK472070.1:1..28009;Dbxref=taxon:1906673;collection-date=2018;country=Australia;gbkey=Src;genome=genomic;isolate=WA3607;mol_type=genomic RNA;nat-host=microbat
+MK472070.1	Genbank	CDS	238	12522	.	+	0	ID=cds-QGX41950.1;Dbxref=NCBI_GP:QGX41950.1;Name=QGX41950.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein 1ab;protein_id=QGX41950.1
+MK472070.1	Genbank	CDS	12522	20543	.	+	0	ID=cds-QGX41950.1;Dbxref=NCBI_GP:QGX41950.1;Name=QGX41950.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein 1ab;protein_id=QGX41950.1
+MK472070.1	Genbank	CDS	20497	24666	.	+	0	ID=cds-QGX41951.1;Dbxref=NCBI_GP:QGX41951.1;Name=QGX41951.1;gbkey=CDS;product=spike protein;protein_id=QGX41951.1
+MK472070.1	Genbank	CDS	24666	25340	.	+	0	ID=cds-QGX41952.1;Dbxref=NCBI_GP:QGX41952.1;Name=QGX41952.1;gbkey=CDS;product=ORF3;protein_id=QGX41952.1
+MK472070.1	Genbank	CDS	25300	25548	.	+	0	ID=cds-QGX41953.1;Dbxref=NCBI_GP:QGX41953.1;Name=QGX41953.1;gbkey=CDS;product=envelope;protein_id=QGX41953.1
+MK472070.1	Genbank	CDS	25558	26238	.	+	0	ID=cds-QGX41954.1;Dbxref=NCBI_GP:QGX41954.1;Name=QGX41954.1;gbkey=CDS;product=membrane protein;protein_id=QGX41954.1
+MK472070.1	Genbank	CDS	26248	27519	.	+	0	ID=cds-QGX41955.1;Dbxref=NCBI_GP:QGX41955.1;Name=QGX41955.1;gbkey=CDS;product=nucleocapsid;protein_id=QGX41955.1
+

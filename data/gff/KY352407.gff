@@ -1,0 +1,25 @@
+##sequence-region KY352407.1 1 29274
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=694009
+KY352407.1	Genbank	region	1	29274	.	+	.	ID=KY352407.1:1..29274;Dbxref=taxon:694009;collection-date=Aug-2007;country=Kenya;gbkey=Src;genome=genomic;isolation-source=fecal swab;mol_type=genomic RNA;nat-host=Rhinolophus sp. (bat);strain=BtKY72
+KY352407.1	Genbank	gene	260	21411	.	+	.	ID=gene-orf1ab;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding
+KY352407.1	Genbank	CDS	260	13324	.	+	0	ID=cds-APO40578.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:APO40578.1;Name=APO40578.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=ORF1ab protein;protein_id=APO40578.1
+KY352407.1	Genbank	CDS	13324	21411	.	+	0	ID=cds-APO40578.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:APO40578.1;Name=APO40578.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=ORF1ab protein;protein_id=APO40578.1
+KY352407.1	Genbank	gene	21418	25191	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KY352407.1	Genbank	CDS	21418	25191	.	+	0	ID=cds-APO40579.1;Parent=gene-S;Dbxref=NCBI_GP:APO40579.1;Name=APO40579.1;gbkey=CDS;gene=S;product=S protein;protein_id=APO40579.1
+KY352407.1	Genbank	gene	25200	26006	.	+	.	ID=gene-ORF3a;Name=ORF3a;gbkey=Gene;gene=ORF3a;gene_biotype=protein_coding
+KY352407.1	Genbank	CDS	25200	26006	.	+	0	ID=cds-APO40580.1;Parent=gene-ORF3a;Dbxref=NCBI_GP:APO40580.1;Name=APO40580.1;gbkey=CDS;gene=ORF3a;product=ORF3a protein;protein_id=APO40580.1
+KY352407.1	Genbank	gene	26030	26260	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+KY352407.1	Genbank	CDS	26030	26260	.	+	0	ID=cds-APO40581.1;Parent=gene-E;Dbxref=NCBI_GP:APO40581.1;Name=APO40581.1;gbkey=CDS;gene=E;product=E protein;protein_id=APO40581.1
+KY352407.1	Genbank	gene	26308	26973	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KY352407.1	Genbank	CDS	26308	26973	.	+	0	ID=cds-APO40582.1;Parent=gene-M;Dbxref=NCBI_GP:APO40582.1;Name=APO40582.1;gbkey=CDS;gene=M;product=M protein;protein_id=APO40582.1
+KY352407.1	Genbank	gene	26984	27175	.	+	.	ID=gene-ORF6;Name=ORF6;gbkey=Gene;gene=ORF6;gene_biotype=protein_coding
+KY352407.1	Genbank	CDS	26984	27175	.	+	0	ID=cds-APO40583.1;Parent=gene-ORF6;Dbxref=NCBI_GP:APO40583.1;Name=APO40583.1;gbkey=CDS;gene=ORF6;product=ORF6;protein_id=APO40583.1
+KY352407.1	Genbank	gene	27182	27541	.	+	.	ID=gene-ORF7a;Name=ORF7a;gbkey=Gene;gene=ORF7a;gene_biotype=protein_coding
+KY352407.1	Genbank	CDS	27182	27541	.	+	0	ID=cds-APO40584.1;Parent=gene-ORF7a;Dbxref=NCBI_GP:APO40584.1;Name=APO40584.1;gbkey=CDS;gene=ORF7a;product=ORF7a;protein_id=APO40584.1
+KY352407.1	Genbank	gene	27541	27663	.	+	.	ID=gene-ORF7b;Name=ORF7b;gbkey=Gene;gene=ORF7b;gene_biotype=protein_coding
+KY352407.1	Genbank	CDS	27541	27663	.	+	0	ID=cds-APO40585.1;Parent=gene-ORF7b;Dbxref=NCBI_GP:APO40585.1;Name=APO40585.1;gbkey=CDS;gene=ORF7b;product=ORF7b;protein_id=APO40585.1
+KY352407.1	Genbank	gene	27665	28924	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KY352407.1	Genbank	CDS	27665	28924	.	+	0	ID=cds-APO40586.1;Parent=gene-N;Dbxref=NCBI_GP:APO40586.1;Name=APO40586.1;gbkey=CDS;gene=N;product=N protein;protein_id=APO40586.1
+KY352407.1	Genbank	gene	27675	27965	.	+	.	ID=gene-ORF9b;Name=ORF9b;gbkey=Gene;gene=ORF9b;gene_biotype=protein_coding
+KY352407.1	Genbank	CDS	27675	27965	.	+	0	ID=cds-APO40587.1;Parent=gene-ORF9b;Dbxref=NCBI_GP:APO40587.1;Name=APO40587.1;gbkey=CDS;gene=ORF9b;product=ORF9b;protein_id=APO40587.1
+

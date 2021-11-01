@@ -1,0 +1,17 @@
+##sequence-region NC_009657.1 1 28203
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=693999
+NC_009657.1	RefSeq	region	1	28203	.	+	.	ID=NC_009657.1:1..28203;Dbxref=taxon:693999;gbkey=Src;genome=genomic;mol_type=genomic RNA;old-name=Bat coronavirus (BtCoV/512/2005);strain=BtCoV/512/2005
+NC_009657.1	RefSeq	gene	294	20674	.	+	.	ID=gene-Sc-BatCoV-512_gp1;Dbxref=GeneID:11266518;Name=Sc-BatCoV-512_gp1;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Sc-BatCoV-512_gp1
+NC_009657.1	RefSeq	CDS	294	12650	.	+	0	ID=cds-YP_001351683.1;Parent=gene-Sc-BatCoV-512_gp1;Dbxref=Genbank:YP_001351683.1,GeneID:11266518;Name=YP_001351683.1;gbkey=CDS;locus_tag=Sc-BatCoV-512_gp1;product=ORF1;protein_id=YP_001351683.1
+NC_009657.1	RefSeq	CDS	12650	20674	.	+	0	ID=cds-YP_001351683.1;Parent=gene-Sc-BatCoV-512_gp1;Dbxref=Genbank:YP_001351683.1,GeneID:11266518;Name=YP_001351683.1;gbkey=CDS;locus_tag=Sc-BatCoV-512_gp1;product=ORF1;protein_id=YP_001351683.1
+NC_009657.1	RefSeq	gene	20671	24786	.	+	.	ID=gene-Sc-BatCoV-512_gp2;Dbxref=GeneID:11266523;Name=Sc-BatCoV-512_gp2;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Sc-BatCoV-512_gp2
+NC_009657.1	RefSeq	CDS	20671	24786	.	+	0	ID=cds-YP_001351684.1;Parent=gene-Sc-BatCoV-512_gp2;Dbxref=Genbank:YP_001351684.1,GeneID:11266523;Name=YP_001351684.1;gbkey=CDS;locus_tag=Sc-BatCoV-512_gp2;product=spike protein;protein_id=YP_001351684.1
+NC_009657.1	RefSeq	gene	24786	25460	.	+	.	ID=gene-Sc-BatCoV-512_gp3;Dbxref=GeneID:11266519;Name=Sc-BatCoV-512_gp3;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Sc-BatCoV-512_gp3
+NC_009657.1	RefSeq	CDS	24786	25460	.	+	0	ID=cds-YP_001351685.1;Parent=gene-Sc-BatCoV-512_gp3;Dbxref=Genbank:YP_001351685.1,GeneID:11266519;Name=YP_001351685.1;gbkey=CDS;locus_tag=Sc-BatCoV-512_gp3;product=putative ORF3;protein_id=YP_001351685.1
+NC_009657.1	RefSeq	gene	25441	25671	.	+	.	ID=gene-Sc-BatCoV-512_gp4;Dbxref=GeneID:11266520;Name=Sc-BatCoV-512_gp4;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Sc-BatCoV-512_gp4
+NC_009657.1	RefSeq	CDS	25441	25671	.	+	0	ID=cds-YP_001351686.1;Parent=gene-Sc-BatCoV-512_gp4;Dbxref=Genbank:YP_001351686.1,GeneID:11266520;Name=YP_001351686.1;gbkey=CDS;locus_tag=Sc-BatCoV-512_gp4;product=envelope protein;protein_id=YP_001351686.1
+NC_009657.1	RefSeq	gene	25678	26361	.	+	.	ID=gene-Sc-BatCoV-512_gp5;Dbxref=GeneID:11266521;Name=Sc-BatCoV-512_gp5;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Sc-BatCoV-512_gp5
+NC_009657.1	RefSeq	CDS	25678	26361	.	+	0	ID=cds-YP_001351687.1;Parent=gene-Sc-BatCoV-512_gp5;Dbxref=Genbank:YP_001351687.1,GeneID:11266521;Name=YP_001351687.1;gbkey=CDS;locus_tag=Sc-BatCoV-512_gp5;product=matrix protein;protein_id=YP_001351687.1
+NC_009657.1	RefSeq	gene	26372	27556	.	+	.	ID=gene-Sc-BatCoV-512_gp6;Dbxref=GeneID:11266522;Name=Sc-BatCoV-512_gp6;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Sc-BatCoV-512_gp6
+NC_009657.1	RefSeq	CDS	26372	27556	.	+	0	ID=cds-YP_001351688.1;Parent=gene-Sc-BatCoV-512_gp6;Dbxref=Genbank:YP_001351688.1,GeneID:11266522;Name=YP_001351688.1;gbkey=CDS;locus_tag=Sc-BatCoV-512_gp6;product=nucleocapsid protein;protein_id=YP_001351688.1
+

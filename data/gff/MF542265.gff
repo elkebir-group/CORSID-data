@@ -1,0 +1,14 @@
+##sequence-region MF542265.1 1 27271
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11137
+MF542265.1	Genbank	region	1	27271	.	+	.	ID=MF542265.1:1..27271;Dbxref=taxon:11137;collection-date=Mar-2016;country=Haiti;gbkey=Src;genome=genomic;isolation-source=plasma;lab-host=Vero E6 cells;mol_type=genomic RNA;nat-host=Homo sapiens;strain=229E/Haiti-1/2016
+MF542265.1	Genbank	five_prime_UTR	1	294	.	+	.	ID=id-MF542265.1:1..294;gbkey=5'UTR
+MF542265.1	Genbank	CDS	295	12538	.	+	0	ID=cds-AST12962.1;Dbxref=NCBI_GP:AST12962.1;Name=AST12962.1;exception=ribosomal slippage;gbkey=CDS;product=replicase polyprotein 1ab;protein_id=AST12962.1
+MF542265.1	Genbank	CDS	12538	20585	.	+	2	ID=cds-AST12962.1;Dbxref=NCBI_GP:AST12962.1;Name=AST12962.1;exception=ribosomal slippage;gbkey=CDS;product=replicase polyprotein 1ab;protein_id=AST12962.1
+MF542265.1	Genbank	CDS	295	12567	.	+	0	ID=cds-AST12963.1;Dbxref=NCBI_GP:AST12963.1;Name=AST12963.1;gbkey=CDS;product=replicase protein 1a;protein_id=AST12963.1
+MF542265.1	Genbank	CDS	20587	24102	.	+	0	ID=cds-AST12964.1;Dbxref=NCBI_GP:AST12964.1;Name=AST12964.1;gbkey=CDS;product=spike protein;protein_id=AST12964.1
+MF542265.1	Genbank	CDS	24102	24761	.	+	0	ID=cds-AST12965.1;Dbxref=NCBI_GP:AST12965.1;Name=AST12965.1;gbkey=CDS;product=accessory protein;protein_id=AST12965.1
+MF542265.1	Genbank	CDS	24763	24996	.	+	0	ID=cds-AST12966.1;Dbxref=NCBI_GP:AST12966.1;Name=AST12966.1;gbkey=CDS;product=envelope protein;protein_id=AST12966.1
+MF542265.1	Genbank	CDS	25008	25685	.	+	0	ID=cds-AST12967.1;Dbxref=NCBI_GP:AST12967.1;Name=AST12967.1;gbkey=CDS;product=membrane protein;protein_id=AST12967.1
+MF542265.1	Genbank	CDS	25699	26868	.	+	0	ID=cds-AST12968.1;Dbxref=NCBI_GP:AST12968.1;Name=AST12968.1;gbkey=CDS;product=nucleocapsid protein;protein_id=AST12968.1
+MF542265.1	Genbank	three_prime_UTR	26869	27246	.	+	.	ID=id-MF542265.1:26869..27246;gbkey=3'UTR
+

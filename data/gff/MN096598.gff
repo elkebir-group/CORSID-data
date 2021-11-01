@@ -1,0 +1,14 @@
+##sequence-region MN096598.1 1 27680
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+MN096598.1	Genbank	region	1	27680	.	+	.	ID=MN096598.1:1..27680;Dbxref=taxon:11120;collection-date=2016;country=China: Yunnan;gbkey=Src;genome=genomic;genotype=TC07-2;isolation-source=chicken trachea;mol_type=genomic RNA;nat-host=chicken;strain=ck/CH/YNSL/160501
+MN096598.1	Genbank	CDS	528	12374	.	+	0	ID=cds-QEI10559.1;Dbxref=NCBI_GP:QEI10559.1;Name=QEI10559.1;gbkey=CDS;product=1a polyprotein;protein_id=QEI10559.1
+MN096598.1	Genbank	CDS	12449	20407	.	+	0	ID=cds-QEI10560.1;Dbxref=NCBI_GP:QEI10560.1;Name=QEI10560.1;gbkey=CDS;product=1b polyprotein;protein_id=QEI10560.1
+MN096598.1	Genbank	CDS	20358	23870	.	+	0	ID=cds-QEI10561.1;Dbxref=NCBI_GP:QEI10561.1;Name=QEI10561.1;gbkey=CDS;product=spike protein;protein_id=QEI10561.1
+MN096598.1	Genbank	CDS	23870	24043	.	+	0	ID=cds-QEI10562.1;Dbxref=NCBI_GP:QEI10562.1;Name=QEI10562.1;gbkey=CDS;product=3a protein;protein_id=QEI10562.1
+MN096598.1	Genbank	CDS	24043	24231	.	+	0	ID=cds-QEI10563.1;Dbxref=NCBI_GP:QEI10563.1;Name=QEI10563.1;gbkey=CDS;product=3b protein;protein_id=QEI10563.1
+MN096598.1	Genbank	CDS	24212	24523	.	+	0	ID=cds-QEI10564.1;Dbxref=NCBI_GP:QEI10564.1;Name=QEI10564.1;gbkey=CDS;product=envelope protein;protein_id=QEI10564.1
+MN096598.1	Genbank	CDS	24513	25193	.	+	0	ID=cds-QEI10565.1;Dbxref=NCBI_GP:QEI10565.1;Name=QEI10565.1;gbkey=CDS;product=membrane protein;protein_id=QEI10565.1
+MN096598.1	Genbank	CDS	25557	25754	.	+	0	ID=cds-QEI10566.1;Dbxref=NCBI_GP:QEI10566.1;Name=QEI10566.1;gbkey=CDS;product=5a protein;protein_id=QEI10566.1
+MN096598.1	Genbank	CDS	25751	25999	.	+	0	ID=cds-QEI10567.1;Dbxref=NCBI_GP:QEI10567.1;Name=QEI10567.1;gbkey=CDS;product=5b protein;protein_id=QEI10567.1
+MN096598.1	Genbank	CDS	25942	27168	.	+	0	ID=cds-QEI10568.1;Dbxref=NCBI_GP:QEI10568.1;Name=QEI10568.1;gbkey=CDS;product=nucleocapsid protein;protein_id=QEI10568.1
+

@@ -1,0 +1,21 @@
+##sequence-region KP757890.1 1 25420
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1586324
+KP757890.1	Genbank	region	1	25420	.	+	.	ID=KP757890.1:1..25420;Dbxref=taxon:1586324;collected-by=N. Dong;collection-date=24-May-2004;country=China;gbkey=Src;genome=genomic;identified-by=N. Dong;isolate=CHN-AH-2004;isolation-source=pig intestines;mol_type=genomic RNA;nat-host=pig
+KP757890.1	Genbank	five_prime_UTR	1	539	.	+	.	ID=id-KP757890.1:1..539;gbkey=5'UTR
+KP757890.1	Genbank	gene	540	19342	.	+	.	ID=gene-PDCoV-CHN-AH-2004_gp1;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding;locus_tag=PDCoV-CHN-AH-2004_gp1
+KP757890.1	Genbank	CDS	540	11414	.	+	0	ID=cds-AKC54427.1;Parent=gene-PDCoV-CHN-AH-2004_gp1;Dbxref=NCBI_GP:AKC54427.1;Name=AKC54427.1;Note=translated via a -1 ribosomal frameshift: ORF1ab;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;locus_tag=PDCoV-CHN-AH-2004_gp1;product=replicase polyprotein;protein_id=AKC54427.1
+KP757890.1	Genbank	CDS	11414	19342	.	+	0	ID=cds-AKC54427.1;Parent=gene-PDCoV-CHN-AH-2004_gp1;Dbxref=NCBI_GP:AKC54427.1;Name=AKC54427.1;Note=translated via a -1 ribosomal frameshift: ORF1ab;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;locus_tag=PDCoV-CHN-AH-2004_gp1;product=replicase polyprotein;protein_id=AKC54427.1
+KP757890.1	Genbank	gene	19324	22806	.	+	.	ID=gene-PDCoV-CHN-AH-2004_gp2;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding;locus_tag=PDCoV-CHN-AH-2004_gp2
+KP757890.1	Genbank	CDS	19324	22806	.	+	0	ID=cds-AKC54428.1;Parent=gene-PDCoV-CHN-AH-2004_gp2;Dbxref=NCBI_GP:AKC54428.1;Name=AKC54428.1;gbkey=CDS;gene=S;locus_tag=PDCoV-CHN-AH-2004_gp2;product=spike glycoprotein;protein_id=AKC54428.1
+KP757890.1	Genbank	gene	22800	23051	.	+	.	ID=gene-PDCoV-CHN-AH-2004_gp3;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding;locus_tag=PDCoV-CHN-AH-2004_gp3
+KP757890.1	Genbank	CDS	22800	23051	.	+	0	ID=cds-AKC54429.1;Parent=gene-PDCoV-CHN-AH-2004_gp3;Dbxref=NCBI_GP:AKC54429.1;Name=AKC54429.1;gbkey=CDS;gene=E;locus_tag=PDCoV-CHN-AH-2004_gp3;product=envelope protein;protein_id=AKC54429.1
+KP757890.1	Genbank	gene	23044	23697	.	+	.	ID=gene-PDCoV-CHN-AH-2004_gp4;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding;locus_tag=PDCoV-CHN-AH-2004_gp4
+KP757890.1	Genbank	CDS	23044	23697	.	+	0	ID=cds-AKC54430.1;Parent=gene-PDCoV-CHN-AH-2004_gp4;Dbxref=NCBI_GP:AKC54430.1;Name=AKC54430.1;gbkey=CDS;gene=M;locus_tag=PDCoV-CHN-AH-2004_gp4;product=membrane protein;protein_id=AKC54430.1
+KP757890.1	Genbank	gene	23697	23981	.	+	.	ID=gene-PDCoV-CHN-AH-2004_gp5;Name=NS6;gbkey=Gene;gene=NS6;gene_biotype=protein_coding;locus_tag=PDCoV-CHN-AH-2004_gp5
+KP757890.1	Genbank	CDS	23697	23981	.	+	0	ID=cds-AKC54431.1;Parent=gene-PDCoV-CHN-AH-2004_gp5;Dbxref=NCBI_GP:AKC54431.1;Name=AKC54431.1;Note=non-structural protein;gbkey=CDS;gene=NS6;locus_tag=PDCoV-CHN-AH-2004_gp5;product=NS6 protein;protein_id=AKC54431.1
+KP757890.1	Genbank	gene	24002	25030	.	+	.	ID=gene-PDCoV-CHN-AH-2004_gp6;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding;locus_tag=PDCoV-CHN-AH-2004_gp6
+KP757890.1	Genbank	CDS	24002	25030	.	+	0	ID=cds-AKC54432.1;Parent=gene-PDCoV-CHN-AH-2004_gp6;Dbxref=NCBI_GP:AKC54432.1;Name=AKC54432.1;gbkey=CDS;gene=N;locus_tag=PDCoV-CHN-AH-2004_gp6;product=nucleocapsid protein;protein_id=AKC54432.1
+KP757890.1	Genbank	gene	24096	24698	.	+	.	ID=gene-PDCoV-CHN-AH-2004_gp7;Name=NS7;gbkey=Gene;gene=NS7;gene_biotype=protein_coding;locus_tag=PDCoV-CHN-AH-2004_gp7
+KP757890.1	Genbank	CDS	24096	24698	.	+	0	ID=cds-AKC54433.1;Parent=gene-PDCoV-CHN-AH-2004_gp7;Dbxref=NCBI_GP:AKC54433.1;Name=AKC54433.1;Note=non-structural protein;gbkey=CDS;gene=NS7;locus_tag=PDCoV-CHN-AH-2004_gp7;product=NS7 protein;protein_id=AKC54433.1
+KP757890.1	Genbank	three_prime_UTR	24699	25420	.	+	.	ID=id-KP757890.1:24699..25420;gbkey=3'UTR
+

@@ -1,0 +1,17 @@
+##sequence-region KU973692.1 1 29722
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=694009
+KU973692.1	Genbank	region	1	29722	.	+	.	ID=KU973692.1:1..29722;Dbxref=taxon:694009;collection-date=2012;country=China;gbkey=Src;genome=genomic;isolate=F46;mol_type=genomic RNA;nat-host=bat
+KU973692.1	Genbank	CDS	265	13413	.	+	0	ID=cds-ARO76381.1;Dbxref=NCBI_GP:ARO76381.1;Name=ARO76381.1;gbkey=CDS;product=polyprotein 1a;protein_id=ARO76381.1
+KU973692.1	Genbank	sequence_feature	13599	21485	.	+	.	ID=id-KU973692.1:13599..21485;Note=similar to polyprotein 1b;gbkey=misc_feature
+KU973692.1	Genbank	CDS	21492	25202	.	+	0	ID=cds-ARO76382.1;Dbxref=NCBI_GP:ARO76382.1;Name=ARO76382.1;gbkey=CDS;product=spike protein;protein_id=ARO76382.1
+KU973692.1	Genbank	CDS	25211	26035	.	+	0	ID=cds-ARO76383.1;Dbxref=NCBI_GP:ARO76383.1;Name=ARO76383.1;gbkey=CDS;product=protein 3;protein_id=ARO76383.1
+KU973692.1	Genbank	CDS	26060	26290	.	+	0	ID=cds-ARO76384.1;Dbxref=NCBI_GP:ARO76384.1;Name=ARO76384.1;gbkey=CDS;product=envelope protein;protein_id=ARO76384.1
+KU973692.1	Genbank	CDS	26341	27006	.	+	0	ID=cds-ARO76385.1;Dbxref=NCBI_GP:ARO76385.1;Name=ARO76385.1;gbkey=CDS;product=membrane protein;protein_id=ARO76385.1
+KU973692.1	Genbank	CDS	27017	27208	.	+	0	ID=cds-ARO76386.1;Dbxref=NCBI_GP:ARO76386.1;Name=ARO76386.1;gbkey=CDS;product=protein 7;protein_id=ARO76386.1
+KU973692.1	Genbank	CDS	27216	27584	.	+	0	ID=cds-ARO76387.1;Dbxref=NCBI_GP:ARO76387.1;Name=ARO76387.1;gbkey=CDS;product=protein 8;protein_id=ARO76387.1
+KU973692.1	Genbank	CDS	27581	27715	.	+	0	ID=cds-ARO76388.1;Dbxref=NCBI_GP:ARO76388.1;Name=ARO76388.1;gbkey=CDS;product=protein 9;protein_id=ARO76388.1
+KU973692.1	Genbank	CDS	27722	28090	.	+	0	ID=cds-ARO76390.1;Dbxref=NCBI_GP:ARO76390.1;Name=ARO76390.1;gbkey=CDS;product=protein 10;protein_id=ARO76390.1
+KU973692.1	Genbank	CDS	28092	29360	.	+	0	ID=cds-ARO76389.1;Dbxref=NCBI_GP:ARO76389.1;Name=ARO76389.1;gbkey=CDS;product=nucleocapsid protein;protein_id=ARO76389.1
+KU973692.1	Genbank	CDS	28102	28398	.	+	0	ID=cds-ARO76391.1;Dbxref=NCBI_GP:ARO76391.1;Name=ARO76391.1;gbkey=CDS;product=protein 13;protein_id=ARO76391.1
+KU973692.1	Genbank	CDS	28555	28767	.	+	0	ID=cds-ARO76392.1;Dbxref=NCBI_GP:ARO76392.1;Name=ARO76392.1;gbkey=CDS;product=protein 14;protein_id=ARO76392.1
+

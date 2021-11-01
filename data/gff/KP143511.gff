@@ -1,0 +1,25 @@
+##sequence-region KP143511.1 1 28971
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12663
+KP143511.1	Genbank	region	1	28971	.	+	.	ID=KP143511.1:1..28971;Dbxref=taxon:12663;collection-date=01-Jan-2013;country=United Kingdom;gbkey=Src;genome=genomic;isolate=80F;mol_type=genomic RNA;nat-host=Felis catus;serotype=1
+KP143511.1	Genbank	gene	114	20167	.	+	.	ID=gene-ORF 1a/1b;Name=ORF 1a/1b;gbkey=Gene;gene=ORF 1a/1b;gene_biotype=protein_coding
+KP143511.1	Genbank	CDS	114	12137	.	+	0	ID=cds-AJO27012.1;Parent=gene-ORF 1a/1b;Dbxref=NCBI_GP:AJO27012.1;Name=AJO27012.1;Note=-1 ribosomal frameshift;exception=ribosomal slippage;gbkey=CDS;gene=ORF 1a/1b;product=replicase;protein_id=AJO27012.1
+KP143511.1	Genbank	CDS	12137	20167	.	+	0	ID=cds-AJO27012.1;Parent=gene-ORF 1a/1b;Dbxref=NCBI_GP:AJO27012.1;Name=AJO27012.1;Note=-1 ribosomal frameshift;exception=ribosomal slippage;gbkey=CDS;gene=ORF 1a/1b;product=replicase;protein_id=AJO27012.1
+KP143511.1	Genbank	gene	20164	24564	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KP143511.1	Genbank	CDS	20164	24564	.	+	0	ID=cds-AJO27013.1;Parent=gene-S;Dbxref=NCBI_GP:AJO27013.1;Name=AJO27013.1;gbkey=CDS;gene=S;product=surface glycoprotein;protein_id=AJO27013.1
+KP143511.1	Genbank	gene	24576	24788	.	+	.	ID=gene-ORF 3a;Name=ORF 3a;gbkey=Gene;gene=ORF 3a;gene_biotype=protein_coding
+KP143511.1	Genbank	CDS	24576	24788	.	+	0	ID=cds-AJO27014.1;Parent=gene-ORF 3a;Dbxref=NCBI_GP:AJO27014.1;Name=AJO27014.1;gbkey=CDS;gene=ORF 3a;product=accessory protein 3a;protein_id=AJO27014.1
+KP143511.1	Genbank	gene	24736	24957	.	+	.	ID=gene-ORF 3b;Name=ORF 3b;gbkey=Gene;gene=ORF 3b;gene_biotype=protein_coding
+KP143511.1	Genbank	CDS	24736	24957	.	+	0	ID=cds-AJO27015.1;Parent=gene-ORF 3b;Dbxref=NCBI_GP:AJO27015.1;Name=AJO27015.1;gbkey=CDS;gene=ORF 3b;product=accessory protein 3b;protein_id=AJO27015.1
+KP143511.1	Genbank	gene	24954	25667	.	+	.	ID=gene-ORF 3c;Name=ORF 3c;gbkey=Gene;gene=ORF 3c;gene_biotype=protein_coding
+KP143511.1	Genbank	CDS	24954	25667	.	+	0	ID=cds-AJO27016.1;Parent=gene-ORF 3c;Dbxref=NCBI_GP:AJO27016.1;Name=AJO27016.1;gbkey=CDS;gene=ORF 3c;product=truncated accessory protein 3c;protein_id=AJO27016.1
+KP143511.1	Genbank	gene	25654	25902	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+KP143511.1	Genbank	CDS	25654	25902	.	+	0	ID=cds-AJO27017.1;Parent=gene-E;Dbxref=NCBI_GP:AJO27017.1;Name=AJO27017.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=AJO27017.1
+KP143511.1	Genbank	gene	25913	26707	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KP143511.1	Genbank	CDS	25913	26707	.	+	0	ID=cds-AJO27018.1;Parent=gene-M;Dbxref=NCBI_GP:AJO27018.1;Name=AJO27018.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=AJO27018.1
+KP143511.1	Genbank	gene	26720	27853	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KP143511.1	Genbank	CDS	26720	27853	.	+	0	ID=cds-AJO27019.1;Parent=gene-N;Dbxref=NCBI_GP:AJO27019.1;Name=AJO27019.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=AJO27019.1
+KP143511.1	Genbank	gene	27858	28163	.	+	.	ID=gene-ORF 7a;Name=ORF 7a;gbkey=Gene;gene=ORF 7a;gene_biotype=protein_coding
+KP143511.1	Genbank	CDS	27858	28163	.	+	0	ID=cds-AJO27020.1;Parent=gene-ORF 7a;Dbxref=NCBI_GP:AJO27020.1;Name=AJO27020.1;gbkey=CDS;gene=ORF 7a;product=accessory protein 7a;protein_id=AJO27020.1
+KP143511.1	Genbank	gene	28168	28788	.	+	.	ID=gene-ORF 7b;Name=ORF 7b;gbkey=Gene;gene=ORF 7b;gene_biotype=protein_coding
+KP143511.1	Genbank	CDS	28168	28788	.	+	0	ID=cds-AJO27021.1;Parent=gene-ORF 7b;Dbxref=NCBI_GP:AJO27021.1;Name=AJO27021.1;gbkey=CDS;gene=ORF 7b;product=accessory protein 7b;protein_id=AJO27021.1
+

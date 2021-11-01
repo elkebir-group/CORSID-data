@@ -1,0 +1,17 @@
+##sequence-region MH726394.1 1 28038
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=28295
+MH726394.1	Genbank	region	1	28038	.	+	.	ID=MH726394.1:1..28038;Dbxref=taxon:28295;collected-by=Lang Gong;collection-date=08-Dec-2015;country=China;gb-acronym=PEDV;gbkey=Src;genome=genomic;isolate=GDS31;isolation-source=small intestine;mol_type=genomic RNA;nat-host=Sus scrofa
+MH726394.1	Genbank	gene	293	20637	.	+	.	ID=gene-ORF1ab;Name=ORF1ab;gbkey=Gene;gene=ORF1ab;gene_biotype=protein_coding
+MH726394.1	Genbank	CDS	293	12601	.	+	0	ID=cds-QCQ19989.1;Parent=gene-ORF1ab;Dbxref=NCBI_GP:QCQ19989.1;Name=QCQ19989.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;product=polyprotein;protein_id=QCQ19989.1
+MH726394.1	Genbank	CDS	12601	20637	.	+	0	ID=cds-QCQ19989.1;Parent=gene-ORF1ab;Dbxref=NCBI_GP:QCQ19989.1;Name=QCQ19989.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;product=polyprotein;protein_id=QCQ19989.1
+MH726394.1	Genbank	gene	20634	24794	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MH726394.1	Genbank	CDS	20634	24794	.	+	0	ID=cds-QCQ19990.1;Parent=gene-S;Dbxref=NCBI_GP:QCQ19990.1;Name=QCQ19990.1;gbkey=CDS;gene=S;product=spike protein;protein_id=QCQ19990.1
+MH726394.1	Genbank	gene	24794	25468	.	+	.	ID=gene-ORF3;Name=ORF3;gbkey=Gene;gene=ORF3;gene_biotype=protein_coding
+MH726394.1	Genbank	CDS	24794	25468	.	+	0	ID=cds-QCQ19991.1;Parent=gene-ORF3;Dbxref=NCBI_GP:QCQ19991.1;Name=QCQ19991.1;gbkey=CDS;gene=ORF3;product=ORF3 protein;protein_id=QCQ19991.1
+MH726394.1	Genbank	gene	25449	25679	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MH726394.1	Genbank	CDS	25449	25679	.	+	0	ID=cds-QCQ19992.1;Parent=gene-E;Dbxref=NCBI_GP:QCQ19992.1;Name=QCQ19992.1;gbkey=CDS;gene=E;product=E protein;protein_id=QCQ19992.1
+MH726394.1	Genbank	gene	25687	26367	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MH726394.1	Genbank	CDS	25687	26367	.	+	0	ID=cds-QCQ19993.1;Parent=gene-M;Dbxref=NCBI_GP:QCQ19993.1;Name=QCQ19993.1;gbkey=CDS;gene=M;product=M protein;protein_id=QCQ19993.1
+MH726394.1	Genbank	gene	26379	27704	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MH726394.1	Genbank	CDS	26379	27704	.	+	0	ID=cds-QCQ19994.1;Parent=gene-N;Dbxref=NCBI_GP:QCQ19994.1;Name=QCQ19994.1;gbkey=CDS;gene=N;product=N protein;protein_id=QCQ19994.1
+

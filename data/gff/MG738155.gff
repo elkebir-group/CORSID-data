@@ -1,0 +1,24 @@
+##sequence-region MG738155.1 1 27660
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+MG738155.1	Genbank	region	1	27660	.	+	.	ID=MG738155.1:1..27660;Dbxref=taxon:11120;collection-date=2015;country=Malaysia;gbkey=Src;genome=genomic;genotype=QX-like;isolate=IBS130/2015;mol_type=genomic RNA;nat-host=Gallus gallus (chicken)
+MG738155.1	Genbank	gene	526	12378	.	+	.	ID=gene-ORF1A;Name=ORF1A;gbkey=Gene;gene=ORF1A;gene_biotype=protein_coding
+MG738155.1	Genbank	CDS	526	12378	.	+	0	ID=cds-QAA92385.1;Parent=gene-ORF1A;Dbxref=NCBI_GP:QAA92385.1;Name=QAA92385.1;gbkey=CDS;gene=ORF1A;product=polyprotein 1A;protein_id=QAA92385.1
+MG738155.1	Genbank	gene	12453	20411	.	+	.	ID=gene-ORF1B;Name=ORF1B;gbkey=Gene;gene=ORF1B;gene_biotype=protein_coding
+MG738155.1	Genbank	CDS	12453	20411	.	+	0	ID=cds-QAA92386.1;Parent=gene-ORF1B;Dbxref=NCBI_GP:QAA92386.1;Name=QAA92386.1;gbkey=CDS;gene=ORF1B;product=polyprotein 1B;protein_id=QAA92386.1
+MG738155.1	Genbank	gene	20362	23859	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MG738155.1	Genbank	CDS	20362	23859	.	+	0	ID=cds-QAA92387.1;Parent=gene-S;Dbxref=NCBI_GP:QAA92387.1;Name=QAA92387.1;gbkey=CDS;gene=S;product=spike protein;protein_id=QAA92387.1
+MG738155.1	Genbank	gene	23859	24032	.	+	.	ID=gene-ORF3A;Name=ORF3A;gbkey=Gene;gene=ORF3A;gene_biotype=protein_coding
+MG738155.1	Genbank	CDS	23859	24032	.	+	0	ID=cds-QAA92388.1;Parent=gene-ORF3A;Dbxref=NCBI_GP:QAA92388.1;Name=QAA92388.1;gbkey=CDS;gene=ORF3A;product=3A;protein_id=QAA92388.1
+MG738155.1	Genbank	gene	24032	24220	.	+	.	ID=gene-ORF3B;Name=ORF3B;gbkey=Gene;gene=ORF3B;gene_biotype=protein_coding
+MG738155.1	Genbank	CDS	24032	24220	.	+	0	ID=cds-QAA92389.1;Parent=gene-ORF3B;Dbxref=NCBI_GP:QAA92389.1;Name=QAA92389.1;gbkey=CDS;gene=ORF3B;product=3B;protein_id=QAA92389.1
+MG738155.1	Genbank	gene	24207	24533	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MG738155.1	Genbank	CDS	24207	24533	.	+	0	ID=cds-QAA92390.1;Parent=gene-E;Dbxref=NCBI_GP:QAA92390.1;Name=QAA92390.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=QAA92390.1
+MG738155.1	Genbank	gene	24505	25182	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MG738155.1	Genbank	CDS	24505	25182	.	+	0	ID=cds-QAA92391.1;Parent=gene-M;Dbxref=NCBI_GP:QAA92391.1;Name=QAA92391.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=QAA92391.1
+MG738155.1	Genbank	gene	25542	25739	.	+	.	ID=gene-ORF5A;Name=ORF5A;gbkey=Gene;gene=ORF5A;gene_biotype=protein_coding
+MG738155.1	Genbank	CDS	25542	25739	.	+	0	ID=cds-QAA92392.1;Parent=gene-ORF5A;Dbxref=NCBI_GP:QAA92392.1;Name=QAA92392.1;gbkey=CDS;gene=ORF5A;product=5A;protein_id=QAA92392.1
+MG738155.1	Genbank	gene	25736	25984	.	+	.	ID=gene-ORF5B;Name=ORF5B;gbkey=Gene;gene=ORF5B;gene_biotype=protein_coding
+MG738155.1	Genbank	CDS	25736	25984	.	+	0	ID=cds-QAA92393.1;Parent=gene-ORF5B;Dbxref=NCBI_GP:QAA92393.1;Name=QAA92393.1;gbkey=CDS;gene=ORF5B;product=5B;protein_id=QAA92393.1
+MG738155.1	Genbank	gene	25927	27156	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MG738155.1	Genbank	CDS	25927	27156	.	+	0	ID=cds-QAA92394.1;Parent=gene-N;Dbxref=NCBI_GP:QAA92394.1;Name=QAA92394.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=QAA92394.1
+

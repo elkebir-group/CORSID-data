@@ -1,0 +1,14 @@
+##sequence-region DQ648856.1 1 29704
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=389166
+DQ648856.1	Genbank	region	1	29704	.	+	.	ID=DQ648856.1:1..29704;Dbxref=taxon:389166;gbkey=Src;mol_type=genomic RNA;old-name=Bat coronavirus (BtCoV/273/2005);strain=BtCoV/273/2005
+DQ648856.1	Genbank	CDS	261	13382	.	+	0	ID=cds-ABG47059.1;Dbxref=NCBI_GP:ABG47059.1;Name=ABG47059.1;gbkey=CDS;product=ORF1;protein_id=ABG47059.1
+DQ648856.1	Genbank	CDS	13382	21469	.	+	0	ID=cds-ABG47059.1;Dbxref=NCBI_GP:ABG47059.1;Name=ABG47059.1;gbkey=CDS;product=ORF1;protein_id=ABG47059.1
+DQ648856.1	Genbank	CDS	21476	25201	.	+	0	ID=cds-ABG47060.1;Dbxref=NCBI_GP:ABG47060.1;Name=ABG47060.1;gbkey=CDS;product=spike protein;protein_id=ABG47060.1
+DQ648856.1	Genbank	CDS	25211	26035	.	+	0	ID=cds-ABG47061.1;Dbxref=NCBI_GP:ABG47061.1;Name=ABG47061.1;gbkey=CDS;product=putative ORF3;protein_id=ABG47061.1
+DQ648856.1	Genbank	CDS	26060	26290	.	+	0	ID=cds-ABG47062.1;Dbxref=NCBI_GP:ABG47062.1;Name=ABG47062.1;gbkey=CDS;product=envelope protein;protein_id=ABG47062.1
+DQ648856.1	Genbank	CDS	26337	27002	.	+	0	ID=cds-ABG47063.1;Dbxref=NCBI_GP:ABG47063.1;Name=ABG47063.1;gbkey=CDS;product=matrix protein;protein_id=ABG47063.1
+DQ648856.1	Genbank	CDS	27013	27204	.	+	0	ID=cds-ABG47064.1;Dbxref=NCBI_GP:ABG47064.1;Name=ABG47064.1;gbkey=CDS;product=putative ORF6;protein_id=ABG47064.1
+DQ648856.1	Genbank	CDS	27212	27580	.	+	0	ID=cds-ABG47065.1;Dbxref=NCBI_GP:ABG47065.1;Name=ABG47065.1;gbkey=CDS;product=putative ORF7;protein_id=ABG47065.1
+DQ648856.1	Genbank	CDS	27718	28086	.	+	0	ID=cds-ABG47066.1;Dbxref=NCBI_GP:ABG47066.1;Name=ABG47066.1;gbkey=CDS;product=putative ORF8;protein_id=ABG47066.1
+DQ648856.1	Genbank	CDS	28088	29353	.	+	0	ID=cds-ABG47067.1;Dbxref=NCBI_GP:ABG47067.1;Name=ABG47067.1;gbkey=CDS;product=nucleocapsid protein;protein_id=ABG47067.1
+

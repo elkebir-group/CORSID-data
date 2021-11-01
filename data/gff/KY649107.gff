@@ -1,0 +1,19 @@
+##sequence-region KY649107.1 1 28032
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=28295
+KY649107.1	Genbank	region	1	28032	.	+	.	ID=KY649107.1:1..28032;Dbxref=taxon:28295;collected-by=Han Qiao;collection-date=01-May-2016;country=China;gb-acronym=PEDV;gbkey=Src;genome=genomic;isolation-source=stool;mol_type=genomic RNA;nat-host=pig;strain=CH-HNKF-16
+KY649107.1	Genbank	five_prime_UTR	1	292	.	+	.	ID=id-KY649107.1:1..292;gbkey=5'UTR
+KY649107.1	Genbank	gene	293	20637	.	+	.	ID=gene-pol;Name=pol;gbkey=Gene;gene=pol;gene_biotype=protein_coding
+KY649107.1	Genbank	CDS	293	12601	.	+	0	ID=cds-AUV64198.1;Parent=gene-pol;Dbxref=NCBI_GP:AUV64198.1;Name=AUV64198.1;Note=ORF1;exception=ribosomal slippage;gbkey=CDS;gene=pol;product=polyprotein;protein_id=AUV64198.1
+KY649107.1	Genbank	CDS	12600	20636	.	+	0	ID=cds-AUV64198.1;Parent=gene-pol;Dbxref=NCBI_GP:AUV64198.1;Name=AUV64198.1;Note=ORF1;exception=ribosomal slippage;gbkey=CDS;gene=pol;product=polyprotein;protein_id=AUV64198.1
+KY649107.1	Genbank	gene	20633	24793	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KY649107.1	Genbank	CDS	20633	24793	.	+	0	ID=cds-AUV64199.1;Parent=gene-S;Dbxref=NCBI_GP:AUV64199.1;Name=AUV64199.1;Note=S;gbkey=CDS;gene=S;product=spike protein;protein_id=AUV64199.1
+KY649107.1	Genbank	gene	24793	25467	.	+	.	ID=gene-ORF3;Name=ORF3;gbkey=Gene;gene=ORF3;gene_biotype=protein_coding
+KY649107.1	Genbank	CDS	24793	25467	.	+	0	ID=cds-AUV64200.1;Parent=gene-ORF3;Dbxref=NCBI_GP:AUV64200.1;Name=AUV64200.1;Note=ORF3;gbkey=CDS;gene=ORF3;product=hypothetical protein;protein_id=AUV64200.1
+KY649107.1	Genbank	gene	25448	25678	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+KY649107.1	Genbank	CDS	25448	25678	.	+	0	ID=cds-AUV64201.1;Parent=gene-E;Dbxref=NCBI_GP:AUV64201.1;Name=AUV64201.1;Note=E;gbkey=CDS;gene=E;product=envelope protein;protein_id=AUV64201.1
+KY649107.1	Genbank	gene	25686	26366	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KY649107.1	Genbank	CDS	25686	26366	.	+	0	ID=cds-AUV64202.1;Parent=gene-M;Dbxref=NCBI_GP:AUV64202.1;Name=AUV64202.1;Note=M;gbkey=CDS;gene=M;product=membrane protein;protein_id=AUV64202.1
+KY649107.1	Genbank	gene	26378	27703	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KY649107.1	Genbank	CDS	26378	27703	.	+	0	ID=cds-AUV64203.1;Parent=gene-N;Dbxref=NCBI_GP:AUV64203.1;Name=AUV64203.1;Note=N;gbkey=CDS;gene=N;product=nucleocaspid protein;protein_id=AUV64203.1
+KY649107.1	Genbank	three_prime_UTR	27704	28032	.	+	.	ID=id-KY649107.1:27704..28032;gbkey=3'UTR
+

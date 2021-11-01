@@ -1,0 +1,23 @@
+##sequence-region JX195178.1 1 27693
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+JX195178.1	Genbank	region	1	27693	.	+	.	ID=JX195178.1:1..27693;Dbxref=taxon:11120;collection-date=2001;country=China;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=chicken;strain=ck/CH/LDL/97I;substrain=P115
+JX195178.1	Genbank	gene	529	20420	.	+	.	ID=gene-1ab;Name=1ab;gbkey=Gene;gene=1ab;gene_biotype=protein_coding
+JX195178.1	Genbank	CDS	529	12351	.	+	0	ID=cds-AFQ94239.1;Parent=gene-1ab;Dbxref=NCBI_GP:AFQ94239.1;Name=AFQ94239.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=ORF1ab;protein_id=AFQ94239.1
+JX195178.1	Genbank	CDS	12351	20420	.	+	0	ID=cds-AFQ94239.1;Parent=gene-1ab;Dbxref=NCBI_GP:AFQ94239.1;Name=AFQ94239.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=ORF1ab;protein_id=AFQ94239.1
+JX195178.1	Genbank	gene	20371	23871	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+JX195178.1	Genbank	CDS	20371	23871	.	+	0	ID=cds-AFQ94240.1;Parent=gene-S;Dbxref=NCBI_GP:AFQ94240.1;Name=AFQ94240.1;gbkey=CDS;gene=S;product=S protein;protein_id=AFQ94240.1
+JX195178.1	Genbank	gene	23871	24044	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+JX195178.1	Genbank	CDS	23871	24044	.	+	0	ID=cds-AFQ94241.1;Parent=gene-3a;Dbxref=NCBI_GP:AFQ94241.1;Name=AFQ94241.1;gbkey=CDS;gene=3a;product=ORF3a;protein_id=AFQ94241.1
+JX195178.1	Genbank	gene	24044	24238	.	+	.	ID=gene-3b;Name=3b;end_range=24238,.;gbkey=Gene;gene=3b;gene_biotype=protein_coding;partial=true
+JX195178.1	Genbank	CDS	24044	24238	.	+	0	ID=cds-AFQ94242.1;Parent=gene-3b;Dbxref=NCBI_GP:AFQ94242.1;Name=AFQ94242.1;gbkey=CDS;gene=3b;product=ORF3b;protein_id=AFQ94242.1
+JX195178.1	Genbank	gene	24219	24551	.	+	.	ID=gene-3c;Name=3c;gbkey=Gene;gene=3c;gene_biotype=protein_coding
+JX195178.1	Genbank	CDS	24219	24527	.	+	0	ID=cds-AFQ94243.1;Parent=gene-3c;Dbxref=NCBI_GP:AFQ94243.1;Name=AFQ94243.1;gbkey=CDS;gene=3c;product=ORF3c;protein_id=AFQ94243.1
+JX195178.1	Genbank	gene	24520	25200	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+JX195178.1	Genbank	CDS	24520	25200	.	+	0	ID=cds-AFQ94244.1;Parent=gene-M;Dbxref=NCBI_GP:AFQ94244.1;Name=AFQ94244.1;gbkey=CDS;gene=M;product=M protein;protein_id=AFQ94244.1
+JX195178.1	Genbank	gene	25564	25761	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+JX195178.1	Genbank	CDS	25564	25761	.	+	0	ID=cds-AFQ94245.1;Parent=gene-5a;Dbxref=NCBI_GP:AFQ94245.1;Name=AFQ94245.1;gbkey=CDS;gene=5a;product=ORF5a;protein_id=AFQ94245.1
+JX195178.1	Genbank	gene	25758	26006	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+JX195178.1	Genbank	CDS	25758	26006	.	+	0	ID=cds-AFQ94246.1;Parent=gene-5b;Dbxref=NCBI_GP:AFQ94246.1;Name=AFQ94246.1;gbkey=CDS;gene=5b;product=ORF5b;protein_id=AFQ94246.1
+JX195178.1	Genbank	gene	25949	27178	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+JX195178.1	Genbank	CDS	25949	27178	.	+	0	ID=cds-AFQ94247.1;Parent=gene-N;Dbxref=NCBI_GP:AFQ94247.1;Name=AFQ94247.1;gbkey=CDS;gene=N;product=N protein;protein_id=AFQ94247.1
+

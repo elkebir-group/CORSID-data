@@ -1,0 +1,16 @@
+##sequence-region EU186072.1 1 29256
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12663
+EU186072.1	Genbank	region	1	29256	.	+	.	ID=EU186072.1:1..29256;Dbxref=taxon:12663;acronym=FCoV;country=USA;gbkey=Src;genome=genomic;isolate=Black;mol_type=genomic RNA;note=isolated in the 1970s
+EU186072.1	Genbank	gene	312	20407	.	+	.	ID=gene-1;Name=1;gbkey=Gene;gene=1;gene_biotype=protein_coding
+EU186072.1	Genbank	CDS	312	12374	.	+	0	ID=cds-ABX60144.1;Parent=gene-1;Dbxref=NCBI_GP:ABX60144.1;Name=ABX60144.1;exception=ribosomal slippage;gbkey=CDS;gene=1;product=polyprotein 1ab;protein_id=ABX60144.1
+EU186072.1	Genbank	CDS	12374	20407	.	+	0	ID=cds-ABX60144.1;Parent=gene-1;Dbxref=NCBI_GP:ABX60144.1;Name=ABX60144.1;exception=ribosomal slippage;gbkey=CDS;gene=1;product=polyprotein 1ab;protein_id=ABX60144.1
+EU186072.1	Genbank	CDS	312	12407	.	+	0	ID=cds-ABX60143.1;Parent=gene-1;Dbxref=NCBI_GP:ABX60143.1;Name=ABX60143.1;gbkey=CDS;gene=1;product=polyprotein 1a;protein_id=ABX60143.1
+EU186072.1	Genbank	gene	20404	24798	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+EU186072.1	Genbank	CDS	20404	24798	.	+	0	ID=cds-ABX60145.1;Parent=gene-S;Dbxref=NCBI_GP:ABX60145.1;Name=ABX60145.1;gbkey=CDS;gene=S;product=spike glycoprotein;protein_id=ABX60145.1
+EU186072.1	Genbank	gene	25826	26074	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+EU186072.1	Genbank	CDS	25826	26074	.	+	0	ID=cds-ABX60146.1;Parent=gene-E;Dbxref=NCBI_GP:ABX60146.1;Name=ABX60146.1;gbkey=CDS;gene=E;product=small envelope protein;protein_id=ABX60146.1
+EU186072.1	Genbank	gene	26085	26876	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+EU186072.1	Genbank	CDS	26085	26876	.	+	0	ID=cds-ABX60147.1;Parent=gene-M;Dbxref=NCBI_GP:ABX60147.1;Name=ABX60147.1;gbkey=CDS;gene=M;product=membrane glycoprotein;protein_id=ABX60147.1
+EU186072.1	Genbank	gene	26889	28022	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+EU186072.1	Genbank	CDS	26889	28022	.	+	0	ID=cds-ABX60148.1;Parent=gene-N;Dbxref=NCBI_GP:ABX60148.1;Name=ABX60148.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=ABX60148.1
+

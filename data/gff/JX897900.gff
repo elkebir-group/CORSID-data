@@ -1,0 +1,22 @@
+##sequence-region JX897900.1 1 27684
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+JX897900.1	Genbank	region	1	27684	.	+	.	ID=JX897900.1:1..27684;Dbxref=taxon:11120;collection-date=2009;country=China;gbkey=Src;genome=genomic;isolate=GX-NN09032;mol_type=genomic RNA;nat-host=Gallus gallus
+JX897900.1	Genbank	sequence_feature	526	20423	.	+	.	ID=id-JX897900.1:526..20423;Note=similar to polyprotein 1ab;gbkey=misc_feature
+JX897900.1	Genbank	CDS	526	12387	.	+	0	ID=cds-AGC01541.1;Dbxref=NCBI_GP:AGC01541.1;Name=AGC01541.1;gbkey=CDS;product=polyprotein 1a;protein_id=AGC01541.1
+JX897900.1	Genbank	gene	20374	23889	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+JX897900.1	Genbank	CDS	20374	23889	.	+	0	ID=cds-AGC01542.1;Parent=gene-S;Dbxref=NCBI_GP:AGC01542.1;Name=AGC01542.1;gbkey=CDS;gene=S;product=spike protein;protein_id=AGC01542.1
+JX897900.1	Genbank	gene	23889	24062	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+JX897900.1	Genbank	CDS	23889	24062	.	+	0	ID=cds-AGC01543.1;Parent=gene-3a;Dbxref=NCBI_GP:AGC01543.1;Name=AGC01543.1;gbkey=CDS;gene=3a;product=3a;protein_id=AGC01543.1
+JX897900.1	Genbank	gene	24062	24250	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+JX897900.1	Genbank	CDS	24062	24250	.	+	0	ID=cds-AGC01544.1;Parent=gene-3b;Dbxref=NCBI_GP:AGC01544.1;Name=AGC01544.1;gbkey=CDS;gene=3b;product=3b;protein_id=AGC01544.1
+JX897900.1	Genbank	gene	24234	24542	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+JX897900.1	Genbank	CDS	24234	24542	.	+	0	ID=cds-AGC01545.1;Parent=gene-E;Dbxref=NCBI_GP:AGC01545.1;Name=AGC01545.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=AGC01545.1
+JX897900.1	Genbank	gene	24532	25212	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+JX897900.1	Genbank	CDS	24532	25212	.	+	0	ID=cds-AGC01546.1;Parent=gene-M;Dbxref=NCBI_GP:AGC01546.1;Name=AGC01546.1;gbkey=CDS;gene=M;product=membrane glycoprotein;protein_id=AGC01546.1
+JX897900.1	Genbank	gene	25575	25772	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+JX897900.1	Genbank	CDS	25575	25772	.	+	0	ID=cds-AGC01547.1;Parent=gene-5a;Dbxref=NCBI_GP:AGC01547.1;Name=AGC01547.1;gbkey=CDS;gene=5a;product=5a;protein_id=AGC01547.1
+JX897900.1	Genbank	gene	25769	26017	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+JX897900.1	Genbank	CDS	25769	26017	.	+	0	ID=cds-AGC01548.1;Parent=gene-5b;Dbxref=NCBI_GP:AGC01548.1;Name=AGC01548.1;gbkey=CDS;gene=5b;product=5b;protein_id=AGC01548.1
+JX897900.1	Genbank	gene	25960	27189	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+JX897900.1	Genbank	CDS	25960	27189	.	+	0	ID=cds-AGC01549.1;Parent=gene-N;Dbxref=NCBI_GP:AGC01549.1;Name=AGC01549.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=AGC01549.1
+

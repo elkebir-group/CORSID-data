@@ -1,0 +1,15 @@
+##sequence-region MG913342.1 1 27618
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=694014
+MG913342.1	Genbank	region	1	27618	.	+	.	ID=MG913342.1:1..27618;Dbxref=taxon:694014;collection-date=2013;country=Brazil;gb-acronym=ACoV;gbkey=Src;genome=genomic;genotype=GI-11;isolate=AvCoV/Gallus gallus/Brazil/sample 38/2013 GI-11%2C complete genome;isolation-source=pool of Gallus gallus cecal tonsils;mol_type=genomic RNA;nat-host=Gallus gallus;note=3rd passage in chicken embryos
+MG913342.1	Genbank	CDS	529	12302	.	+	0	ID=cds-AXQ05189.1;Dbxref=NCBI_GP:AXQ05189.1;Name=AXQ05189.1;exception=ribosomal slippage;gbkey=CDS;product=ORF1ab;protein_id=AXQ05189.1
+MG913342.1	Genbank	CDS	12302	20363	.	+	1	ID=cds-AXQ05189.1;Dbxref=NCBI_GP:AXQ05189.1;Name=AXQ05189.1;exception=ribosomal slippage;gbkey=CDS;product=ORF1ab;protein_id=AXQ05189.1
+MG913342.1	Genbank	CDS	529	12330	.	+	0	ID=cds-AXQ05190.1;Dbxref=NCBI_GP:AXQ05190.1;Name=AXQ05190.1;gbkey=CDS;product=ORF1a;protein_id=AXQ05190.1
+MG913342.1	Genbank	CDS	20314	23823	.	+	0	ID=cds-AXQ05191.1;Dbxref=NCBI_GP:AXQ05191.1;Name=AXQ05191.1;gbkey=CDS;product=spike S glycoprotein;protein_id=AXQ05191.1
+MG913342.1	Genbank	CDS	23823	23996	.	+	0	ID=cds-AXQ05197.1;Dbxref=NCBI_GP:AXQ05197.1;Name=AXQ05197.1;gbkey=CDS;product=3a;protein_id=AXQ05197.1
+MG913342.1	Genbank	CDS	23996	24187	.	+	0	ID=cds-AXQ05192.1;Dbxref=NCBI_GP:AXQ05192.1;Name=AXQ05192.1;gbkey=CDS;product=3b;protein_id=AXQ05192.1
+MG913342.1	Genbank	CDS	24171	24494	.	+	0	ID=cds-AXQ05193.1;Dbxref=NCBI_GP:AXQ05193.1;Name=AXQ05193.1;gbkey=CDS;product=envelope E protein;protein_id=AXQ05193.1
+MG913342.1	Genbank	CDS	24463	25143	.	+	0	ID=cds-AXQ05194.1;Dbxref=NCBI_GP:AXQ05194.1;Name=AXQ05194.1;gbkey=CDS;product=membrane M protein;protein_id=AXQ05194.1
+MG913342.1	Genbank	CDS	25503	25700	.	+	0	ID=cds-AXQ05198.1;Dbxref=NCBI_GP:AXQ05198.1;Name=AXQ05198.1;gbkey=CDS;product=5a;protein_id=AXQ05198.1
+MG913342.1	Genbank	CDS	25697	25945	.	+	0	ID=cds-AXQ05196.1;Dbxref=NCBI_GP:AXQ05196.1;Name=AXQ05196.1;gbkey=CDS;product=5b;protein_id=AXQ05196.1
+MG913342.1	Genbank	CDS	25888	27114	.	+	0	ID=cds-AXQ05195.1;Dbxref=NCBI_GP:AXQ05195.1;Name=AXQ05195.1;gbkey=CDS;product=nucleocapsid N protein;protein_id=AXQ05195.1
+

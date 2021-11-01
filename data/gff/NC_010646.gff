@@ -1,0 +1,47 @@
+##sequence-region NC_010646.1 1 31686
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=694015
+NC_010646.1	RefSeq	region	1	31686	.	+	.	ID=NC_010646.1:1..31686;Dbxref=taxon:694015;gbkey=Src;genome=genomic;group=3;isolate=SW1;isolation-source=whale liver;mol_type=genomic RNA;nat-host=Delphinapterus leucas (beluga whale);old-name=Coronavirus SW1
+NC_010646.1	RefSeq	five_prime_UTR	1	523	.	+	.	ID=id-NC_010646.1:1..523;gbkey=5'UTR
+NC_010646.1	RefSeq	sequence_feature	1	76	.	+	.	ID=id-NC_010646.1:1..76;Note=leader;gbkey=misc_feature
+NC_010646.1	RefSeq	sequence_feature	72	76	.	+	.	ID=id-NC_010646.1:72..76;Note=transcription-regulating sequence%3B TRS;gbkey=misc_feature
+NC_010646.1	RefSeq	gene	524	20514	.	+	.	ID=gene-CoVSW1_gp01;Dbxref=GeneID:6264444;Name=CoVSW1_gp01;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CoVSW1_gp01
+NC_010646.1	RefSeq	CDS	524	12388	.	+	0	ID=cds-YP_001876435.1;Parent=gene-CoVSW1_gp01;Dbxref=Genbank:YP_001876435.1,GeneID:6264444;Name=YP_001876435.1;exception=ribosomal slippage;gbkey=CDS;locus_tag=CoVSW1_gp01;product=ORF 1ab polyprotein;protein_id=YP_001876435.1
+NC_010646.1	RefSeq	CDS	12388	20514	.	+	0	ID=cds-YP_001876435.1;Parent=gene-CoVSW1_gp01;Dbxref=Genbank:YP_001876435.1,GeneID:6264444;Name=YP_001876435.1;exception=ribosomal slippage;gbkey=CDS;locus_tag=CoVSW1_gp01;product=ORF 1ab polyprotein;protein_id=YP_001876435.1
+NC_010646.1	RefSeq	sequence_feature	20415	20419	.	+	.	ID=id-CoVSW1_gp01;Dbxref=GeneID:6264444;Note=transcription-regulating sequence%3B TRS;gbkey=misc_feature;locus_tag=CoVSW1_gp01
+NC_010646.1	RefSeq	gene	524	12418	.	+	.	ID=gene-CoVSW1_gp02;Dbxref=GeneID:6264438;Name=CoVSW1_gp02;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CoVSW1_gp02
+NC_010646.1	RefSeq	CDS	524	12418	.	+	0	ID=cds-YP_001876436.1;Parent=gene-CoVSW1_gp02;Dbxref=Genbank:YP_001876436.1,GeneID:6264438;Name=YP_001876436.1;gbkey=CDS;locus_tag=CoVSW1_gp02;product=ORF 1a polyprotein;protein_id=YP_001876436.1
+NC_010646.1	RefSeq	sequence_feature	12382	12388	.	+	.	ID=id-CoVSW1_gp02;Dbxref=GeneID:6264438;Note=slippery sequence;gbkey=misc_feature;locus_tag=CoVSW1_gp02
+NC_010646.1	RefSeq	gene	20450	24868	.	+	.	ID=gene-CoVSW1_gp03;Dbxref=GeneID:6264443;Name=CoVSW1_gp03;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CoVSW1_gp03
+NC_010646.1	RefSeq	CDS	20450	24868	.	+	0	ID=cds-YP_001876437.1;Parent=gene-CoVSW1_gp03;Dbxref=Genbank:YP_001876437.1,GeneID:6264443;Name=YP_001876437.1;gbkey=CDS;locus_tag=CoVSW1_gp03;product=spike protein;protein_id=YP_001876437.1
+NC_010646.1	RefSeq	gene	24874	25161	.	+	.	ID=gene-CoVSW1_gp04;Dbxref=GeneID:6264434;Name=CoVSW1_gp04;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CoVSW1_gp04
+NC_010646.1	RefSeq	CDS	24874	25161	.	+	0	ID=cds-YP_001876438.1;Parent=gene-CoVSW1_gp04;Dbxref=Genbank:YP_001876438.1,GeneID:6264434;Name=YP_001876438.1;gbkey=CDS;locus_tag=CoVSW1_gp04;product=small membrane protein;protein_id=YP_001876438.1
+NC_010646.1	RefSeq	sequence_feature	25078	25082	.	+	.	ID=id-CoVSW1_gp04;Dbxref=GeneID:6264434;Note=transcription-regulating sequence%3B TRS;gbkey=misc_feature;locus_tag=CoVSW1_gp04
+NC_010646.1	RefSeq	gene	25145	25927	.	+	.	ID=gene-CoVSW1_gp05;Dbxref=GeneID:6264441;Name=CoVSW1_gp05;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CoVSW1_gp05
+NC_010646.1	RefSeq	CDS	25145	25927	.	+	0	ID=cds-YP_001876439.1;Parent=gene-CoVSW1_gp05;Dbxref=Genbank:YP_001876439.1,GeneID:6264441;Name=YP_001876439.1;gbkey=CDS;locus_tag=CoVSW1_gp05;product=matrix glycoprotein;protein_id=YP_001876439.1
+NC_010646.1	RefSeq	sequence_feature	25926	25930	.	+	.	ID=id-NC_010646.1:25926..25930;Note=transcription-regulating sequence%3B TRS;gbkey=misc_feature
+NC_010646.1	RefSeq	gene	25930	26346	.	+	.	ID=gene-CoVSW1_gp06;Dbxref=GeneID:6264437;Name=CoVSW1_gp06;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CoVSW1_gp06
+NC_010646.1	RefSeq	CDS	25930	26346	.	+	0	ID=cds-YP_001876440.1;Parent=gene-CoVSW1_gp06;Dbxref=Genbank:YP_001876440.1,GeneID:6264437;Name=YP_001876440.1;gbkey=CDS;locus_tag=CoVSW1_gp06;product=ORF 5a;protein_id=YP_001876440.1
+NC_010646.1	RefSeq	gene	26339	26857	.	+	.	ID=gene-CoVSW1_gp07;Dbxref=GeneID:6264440;Name=CoVSW1_gp07;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CoVSW1_gp07
+NC_010646.1	RefSeq	CDS	26339	26857	.	+	0	ID=cds-YP_001876441.1;Parent=gene-CoVSW1_gp07;Dbxref=Genbank:YP_001876441.1,GeneID:6264440;Name=YP_001876441.1;gbkey=CDS;locus_tag=CoVSW1_gp07;product=ORF 5b;protein_id=YP_001876441.1
+NC_010646.1	RefSeq	gene	26847	27374	.	+	.	ID=gene-CoVSW1_gp08;Dbxref=GeneID:6264445;Name=CoVSW1_gp08;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CoVSW1_gp08
+NC_010646.1	RefSeq	CDS	26847	27374	.	+	0	ID=cds-YP_001876442.1;Parent=gene-CoVSW1_gp08;Dbxref=Genbank:YP_001876442.1,GeneID:6264445;Name=YP_001876442.1;gbkey=CDS;locus_tag=CoVSW1_gp08;product=ORF 5c;protein_id=YP_001876442.1
+NC_010646.1	RefSeq	sequence_feature	27373	27377	.	+	.	ID=id-NC_010646.1:27373..27377;Note=transcription-regulating sequence%3B TRS;gbkey=misc_feature
+NC_010646.1	RefSeq	gene	27378	28064	.	+	.	ID=gene-CoVSW1_gp09;Dbxref=GeneID:6264433;Name=CoVSW1_gp09;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CoVSW1_gp09
+NC_010646.1	RefSeq	CDS	27378	28064	.	+	0	ID=cds-YP_001876443.1;Parent=gene-CoVSW1_gp09;Dbxref=Genbank:YP_001876443.1,GeneID:6264433;Name=YP_001876443.1;Note=similar to Human astrovirus 5 capsid protein precursor;gbkey=CDS;locus_tag=CoVSW1_gp09;product=ORF 6;protein_id=YP_001876443.1
+NC_010646.1	RefSeq	sequence_feature	28063	28067	.	+	.	ID=id-NC_010646.1:28063..28067;Note=transcription-regulating sequence%3B TRS;gbkey=misc_feature
+NC_010646.1	RefSeq	gene	28067	28552	.	+	.	ID=gene-CoVSW1_gp10;Dbxref=GeneID:6264446;Name=CoVSW1_gp10;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CoVSW1_gp10
+NC_010646.1	RefSeq	CDS	28067	28552	.	+	0	ID=cds-YP_001876444.1;Parent=gene-CoVSW1_gp10;Dbxref=Genbank:YP_001876444.1,GeneID:6264446;Name=YP_001876444.1;gbkey=CDS;locus_tag=CoVSW1_gp10;product=ORF 7;protein_id=YP_001876444.1
+NC_010646.1	RefSeq	sequence_feature	28693	28697	.	+	.	ID=id-NC_010646.1:28693..28697;Note=transcription-regulating sequence%3B TRS;gbkey=misc_feature
+NC_010646.1	RefSeq	gene	28705	28884	.	+	.	ID=gene-CoVSW1_gp11;Dbxref=GeneID:6264442;Name=CoVSW1_gp11;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CoVSW1_gp11
+NC_010646.1	RefSeq	CDS	28705	28884	.	+	0	ID=cds-YP_001876445.1;Parent=gene-CoVSW1_gp11;Dbxref=Genbank:YP_001876445.1,GeneID:6264442;Name=YP_001876445.1;gbkey=CDS;locus_tag=CoVSW1_gp11;product=ORF 8;protein_id=YP_001876445.1
+NC_010646.1	RefSeq	sequence_feature	28937	28941	.	+	.	ID=id-NC_010646.1:28937..28941;Note=transcription-regulating sequence%3B TRS;gbkey=misc_feature
+NC_010646.1	RefSeq	gene	28941	29399	.	+	.	ID=gene-CoVSW1_gp12;Dbxref=GeneID:6264436;Name=CoVSW1_gp12;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CoVSW1_gp12
+NC_010646.1	RefSeq	CDS	28941	29399	.	+	0	ID=cds-YP_001876446.1;Parent=gene-CoVSW1_gp12;Dbxref=Genbank:YP_001876446.1,GeneID:6264436;Name=YP_001876446.1;gbkey=CDS;locus_tag=CoVSW1_gp12;product=ORF 9;protein_id=YP_001876446.1
+NC_010646.1	RefSeq	sequence_feature	29398	29402	.	+	.	ID=id-NC_010646.1:29398..29402;Note=transcription-regulating sequence%3B TRS;gbkey=misc_feature
+NC_010646.1	RefSeq	gene	29402	30034	.	+	.	ID=gene-CoVSW1_gp13;Dbxref=GeneID:6264435;Name=CoVSW1_gp13;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CoVSW1_gp13
+NC_010646.1	RefSeq	CDS	29402	30034	.	+	0	ID=cds-YP_001876447.1;Parent=gene-CoVSW1_gp13;Dbxref=Genbank:YP_001876447.1,GeneID:6264435;Name=YP_001876447.1;Note=similar to uridine kinases;gbkey=CDS;locus_tag=CoVSW1_gp13;product=ORF 10;protein_id=YP_001876447.1
+NC_010646.1	RefSeq	sequence_feature	30033	30037	.	+	.	ID=id-NC_010646.1:30033..30037;Note=transcription-regulating sequence%3B TRS;gbkey=misc_feature
+NC_010646.1	RefSeq	gene	30146	31285	.	+	.	ID=gene-CoVSW1_gp14;Dbxref=GeneID:6264439;Name=CoVSW1_gp14;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CoVSW1_gp14
+NC_010646.1	RefSeq	CDS	30146	31285	.	+	0	ID=cds-YP_001876448.1;Parent=gene-CoVSW1_gp14;Dbxref=Genbank:YP_001876448.1,GeneID:6264439;Name=YP_001876448.1;gbkey=CDS;locus_tag=CoVSW1_gp14;product=nucleocapsid protein;protein_id=YP_001876448.1
+NC_010646.1	RefSeq	three_prime_UTR	31286	31686	.	+	.	ID=id-NC_010646.1:31286..31686;gbkey=3'UTR
+

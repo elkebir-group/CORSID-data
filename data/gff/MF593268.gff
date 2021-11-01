@@ -1,0 +1,15 @@
+##sequence-region MF593268.1 1 30009
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1335626
+MF593268.1	Genbank	region	1	30009	.	+	.	ID=MF593268.1:1..30009;Dbxref=taxon:1335626;collection-date=20-Apr-2015;country=South Africa;gb-acronym=MERS-CoV;gbkey=Src;genome=genomic;isolation-source=fecal%2C intestine;mol_type=genomic RNA;nat-host=Neoromicia capensis;strain=Neoromicia/5038
+MF593268.1	Genbank	CDS	268	13440	.	+	0	ID=cds-ATQ39389.1;Dbxref=NCBI_GP:ATQ39389.1;Name=ATQ39389.1;exception=ribosomal slippage;gbkey=CDS;product=ORF1ab polyprotein;protein_id=ATQ39389.1
+MF593268.1	Genbank	CDS	13440	21524	.	+	0	ID=cds-ATQ39389.1;Dbxref=NCBI_GP:ATQ39389.1;Name=ATQ39389.1;exception=ribosomal slippage;gbkey=CDS;product=ORF1ab polyprotein;protein_id=ATQ39389.1
+MF593268.1	Genbank	CDS	21466	25500	.	+	0	ID=cds-ATQ39390.1;Dbxref=NCBI_GP:ATQ39390.1;Name=ATQ39390.1;gbkey=CDS;product=spike protein;protein_id=ATQ39390.1
+MF593268.1	Genbank	CDS	25515	25826	.	+	0	ID=cds-ATQ39394.1;Dbxref=NCBI_GP:ATQ39394.1;Name=ATQ39394.1;gbkey=CDS;product=ORF3 protein;protein_id=ATQ39394.1
+MF593268.1	Genbank	CDS	25835	26164	.	+	0	ID=cds-ATQ39395.1;Dbxref=NCBI_GP:ATQ39395.1;Name=ATQ39395.1;gbkey=CDS;product=ORF4a protein;protein_id=ATQ39395.1
+MF593268.1	Genbank	CDS	26040	26816	.	+	0	ID=cds-ATQ39396.1;Dbxref=NCBI_GP:ATQ39396.1;Name=ATQ39396.1;gbkey=CDS;product=ORF4b protein;protein_id=ATQ39396.1
+MF593268.1	Genbank	CDS	26823	27497	.	+	0	ID=cds-ATQ39397.1;Dbxref=NCBI_GP:ATQ39397.1;Name=ATQ39397.1;gbkey=CDS;product=ORF5 protein;protein_id=ATQ39397.1
+MF593268.1	Genbank	CDS	27573	27821	.	+	0	ID=cds-ATQ39391.1;Dbxref=NCBI_GP:ATQ39391.1;Name=ATQ39391.1;gbkey=CDS;product=envelope protein;protein_id=ATQ39391.1
+MF593268.1	Genbank	CDS	27836	28495	.	+	0	ID=cds-ATQ39392.1;Dbxref=NCBI_GP:ATQ39392.1;Name=ATQ39392.1;gbkey=CDS;product=membrane protein;protein_id=ATQ39392.1
+MF593268.1	Genbank	CDS	28553	29797	.	+	0	ID=cds-ATQ39393.1;Dbxref=NCBI_GP:ATQ39393.1;Name=ATQ39393.1;gbkey=CDS;product=nucleoprotein;protein_id=ATQ39393.1
+MF593268.1	Genbank	CDS	28599	29198	.	+	0	ID=cds-ATQ39398.1;Dbxref=NCBI_GP:ATQ39398.1;Name=ATQ39398.1;gbkey=CDS;product=ORF8b protein;protein_id=ATQ39398.1
+

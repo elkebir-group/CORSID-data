@@ -1,0 +1,21 @@
+##sequence-region KF663561.1 1 27673
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+KF663561.1	Genbank	region	1	27673	.	+	.	ID=KF663561.1:1..27673;Dbxref=taxon:11120;collection-date=Apr-2011;country=China;gbkey=Src;genome=genomic;isolate=ck/CH/IBYZ/2011;isolation-source=kidney;lab-host=embryonated chicken eggs;mol_type=genomic RNA;nat-host=chicken
+KF663561.1	Genbank	gene	526	20420	.	+	.	ID=gene-1ab;Name=1ab;gbkey=Gene;gene=1ab;gene_biotype=protein_coding
+KF663561.1	Genbank	CDS	526	12357	.	+	0	ID=cds-AHB74016.1;Parent=gene-1ab;Dbxref=NCBI_GP:AHB74016.1;Name=AHB74016.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=1ab polyprotein;protein_id=AHB74016.1
+KF663561.1	Genbank	CDS	12357	20420	.	+	0	ID=cds-AHB74016.1;Parent=gene-1ab;Dbxref=NCBI_GP:AHB74016.1;Name=AHB74016.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=1ab polyprotein;protein_id=AHB74016.1
+KF663561.1	Genbank	CDS	526	12387	.	+	0	ID=cds-AHB74008.1;Parent=gene-1ab;Dbxref=NCBI_GP:AHB74008.1;Name=AHB74008.1;gbkey=CDS;gene=1ab;product=1a polyprotein;protein_id=AHB74008.1
+KF663561.1	Genbank	gene	20371	23868	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KF663561.1	Genbank	CDS	20371	23868	.	+	0	ID=cds-AHB74007.1;Parent=gene-S;Dbxref=NCBI_GP:AHB74007.1;Name=AHB74007.1;gbkey=CDS;gene=S;product=spike protein;protein_id=AHB74007.1
+KF663561.1	Genbank	gene	23868	24542	.	+	.	ID=gene-3;Name=3;gbkey=Gene;gene=3;gene_biotype=protein_coding
+KF663561.1	Genbank	CDS	23868	24041	.	+	0	ID=cds-AHB74009.1;Parent=gene-3;Dbxref=NCBI_GP:AHB74009.1;Name=AHB74009.1;gbkey=CDS;gene=3;product=3a protein;protein_id=AHB74009.1
+KF663561.1	Genbank	CDS	24041	24229	.	+	0	ID=cds-AHB74010.1;Parent=gene-3;Dbxref=NCBI_GP:AHB74010.1;Name=AHB74010.1;gbkey=CDS;gene=3;product=3b protein;protein_id=AHB74010.1
+KF663561.1	Genbank	CDS	24216	24542	.	+	0	ID=cds-AHB74011.1;Parent=gene-3;Dbxref=NCBI_GP:AHB74011.1;Name=AHB74011.1;gbkey=CDS;gene=3;product=envelope protein;protein_id=AHB74011.1
+KF663561.1	Genbank	gene	24514	25191	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KF663561.1	Genbank	CDS	24514	25191	.	+	0	ID=cds-AHB74012.1;Parent=gene-M;Dbxref=NCBI_GP:AHB74012.1;Name=AHB74012.1;gbkey=CDS;gene=M;product=membrane glycoprotein;protein_id=AHB74012.1
+KF663561.1	Genbank	gene	25545	25987	.	+	.	ID=gene-5;Name=5;gbkey=Gene;gene=5;gene_biotype=protein_coding
+KF663561.1	Genbank	CDS	25545	25742	.	+	0	ID=cds-AHB74013.1;Parent=gene-5;Dbxref=NCBI_GP:AHB74013.1;Name=AHB74013.1;gbkey=CDS;gene=5;product=5a protein;protein_id=AHB74013.1
+KF663561.1	Genbank	CDS	25739	25987	.	+	0	ID=cds-AHB74014.1;Parent=gene-5;Dbxref=NCBI_GP:AHB74014.1;Name=AHB74014.1;gbkey=CDS;gene=5;product=5b protein;protein_id=AHB74014.1
+KF663561.1	Genbank	gene	25930	27159	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KF663561.1	Genbank	CDS	25930	27159	.	+	0	ID=cds-AHB74015.1;Parent=gene-N;Dbxref=NCBI_GP:AHB74015.1;Name=AHB74015.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=AHB74015.1
+

@@ -1,0 +1,25 @@
+##sequence-region NC_002306.3 1 29355
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11135
+NC_002306.3	RefSeq	region	1	29355	.	+	.	ID=NC_002306.3:1..29355;Dbxref=taxon:11135;country=USA;gbkey=Src;genome=genomic;isolate=79-1146;mol_type=genomic RNA;serotype=2
+NC_002306.3	RefSeq	gene	311	20439	.	+	.	ID=gene-FIPV_gp01;Dbxref=GeneID:1724653;Name=ORF 1a/1b;gbkey=Gene;gene=ORF 1a/1b;gene_biotype=protein_coding;locus_tag=FIPV_gp01
+NC_002306.3	RefSeq	CDS	311	12409	.	+	0	ID=cds-YP_004070193.2;Parent=gene-FIPV_gp01;Dbxref=Genbank:YP_004070193.2,GeneID:1724653;Name=YP_004070193.2;Note=-1 ribosomal frame shift;exception=ribosomal slippage;gbkey=CDS;gene=ORF 1a/1b;locus_tag=FIPV_gp01;product=polyprotein ab;protein_id=YP_004070193.2
+NC_002306.3	RefSeq	CDS	12409	20439	.	+	0	ID=cds-YP_004070193.2;Parent=gene-FIPV_gp01;Dbxref=Genbank:YP_004070193.2,GeneID:1724653;Name=YP_004070193.2;Note=-1 ribosomal frame shift;exception=ribosomal slippage;gbkey=CDS;gene=ORF 1a/1b;locus_tag=FIPV_gp01;product=polyprotein ab;protein_id=YP_004070193.2
+NC_002306.3	RefSeq	gene	20436	24794	.	+	.	ID=gene-FIPV_gp02;Dbxref=GeneID:920849;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding;locus_tag=FIPV_gp02
+NC_002306.3	RefSeq	CDS	20436	24794	.	+	0	ID=cds-YP_004070194.1;Parent=gene-FIPV_gp02;Dbxref=Genbank:YP_004070194.1,GeneID:920849;Name=YP_004070194.1;gbkey=CDS;gene=S;locus_tag=FIPV_gp02;product=spike protein;protein_id=YP_004070194.1
+NC_002306.3	RefSeq	gene	24861	25076	.	+	.	ID=gene-FIPV_gp03;Dbxref=GeneID:10040181;Name=nsp 3a;gbkey=Gene;gene=nsp 3a;gene_biotype=protein_coding;locus_tag=FIPV_gp03
+NC_002306.3	RefSeq	CDS	24861	25076	.	+	0	ID=cds-YP_004070195.1;Parent=gene-FIPV_gp03;Dbxref=Genbank:YP_004070195.1,GeneID:10040181;Name=YP_004070195.1;gbkey=CDS;gene=nsp 3a;locus_tag=FIPV_gp03;product=putative 3a protein;protein_id=YP_004070195.1
+NC_002306.3	RefSeq	gene	25021	25236	.	+	.	ID=gene-FIPV_gp04;Dbxref=GeneID:10040182;Name=nsp 3b;gbkey=Gene;gene=nsp 3b;gene_biotype=protein_coding;locus_tag=FIPV_gp04
+NC_002306.3	RefSeq	CDS	25021	25236	.	+	0	ID=cds-YP_004070196.1;Parent=gene-FIPV_gp04;Dbxref=Genbank:YP_004070196.1,GeneID:10040182;Name=YP_004070196.1;gbkey=CDS;gene=nsp 3b;locus_tag=FIPV_gp04;product=putative 3b protein;protein_id=YP_004070196.1
+NC_002306.3	RefSeq	pseudogene	25233	25967	.	+	.	ID=gene-FIPV_gp05;Dbxref=GeneID:10040183;Name=nsp 3c;gbkey=Gene;gene=nsp 3c;gene_biotype=pseudogene;locus_tag=FIPV_gp05;pseudo=true
+NC_002306.3	RefSeq	sequence_feature	25233	25967	.	+	.	ID=id-FIPV_gp05;Dbxref=GeneID:10040183;Note=non-structural protein 3c;gbkey=misc_feature;gene=nsp 3c;locus_tag=FIPV_gp05;pseudo=true
+NC_002306.3	RefSeq	gene	25954	26202	.	+	.	ID=gene-FIPV_gp06;Dbxref=GeneID:10040184;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding;locus_tag=FIPV_gp06
+NC_002306.3	RefSeq	CDS	25954	26202	.	+	0	ID=cds-YP_004070197.1;Parent=gene-FIPV_gp06;Dbxref=Genbank:YP_004070197.1,GeneID:10040184;Name=YP_004070197.1;Note=required for budding;gbkey=CDS;gene=E;locus_tag=FIPV_gp06;product=E protein;protein_id=YP_004070197.1
+NC_002306.3	RefSeq	gene	26213	27001	.	+	.	ID=gene-FIPV_gp07;Dbxref=GeneID:10040185;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding;locus_tag=FIPV_gp07
+NC_002306.3	RefSeq	CDS	26213	27001	.	+	0	ID=cds-YP_004070198.1;Parent=gene-FIPV_gp07;Dbxref=Genbank:YP_004070198.1,GeneID:10040185;Name=YP_004070198.1;Note=major structural protein;gbkey=CDS;gene=M;locus_tag=FIPV_gp07;product=matrix protein;protein_id=YP_004070198.1
+NC_002306.3	RefSeq	gene	27014	28147	.	+	.	ID=gene-FIPV_gp08;Dbxref=GeneID:10040186;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding;locus_tag=FIPV_gp08
+NC_002306.3	RefSeq	CDS	27014	28147	.	+	0	ID=cds-YP_004070199.1;Parent=gene-FIPV_gp08;Dbxref=Genbank:YP_004070199.1,GeneID:10040186;Name=YP_004070199.1;Note=major structural protein;gbkey=CDS;gene=N;locus_tag=FIPV_gp08;product=nucleocapsid protein;protein_id=YP_004070199.1
+NC_002306.3	RefSeq	gene	28152	28457	.	+	.	ID=gene-FIPV_gp09;Dbxref=GeneID:10040187;Name=nsp 7a;gbkey=Gene;gene=nsp 7a;gene_biotype=protein_coding;locus_tag=FIPV_gp09
+NC_002306.3	RefSeq	CDS	28152	28457	.	+	0	ID=cds-YP_004070200.1;Parent=gene-FIPV_gp09;Dbxref=Genbank:YP_004070200.1,GeneID:10040187;Name=YP_004070200.1;gbkey=CDS;gene=nsp 7a;locus_tag=FIPV_gp09;product=non-structural protein 7a;protein_id=YP_004070200.1
+NC_002306.3	RefSeq	gene	28462	29082	.	+	.	ID=gene-FIPV_gp10;Dbxref=GeneID:10040188;Name=nsp 7b;gbkey=Gene;gene=nsp 7b;gene_biotype=protein_coding;locus_tag=FIPV_gp10
+NC_002306.3	RefSeq	CDS	28462	29082	.	+	0	ID=cds-YP_004070201.1;Parent=gene-FIPV_gp10;Dbxref=Genbank:YP_004070201.1,GeneID:10040188;Name=YP_004070201.1;gbkey=CDS;gene=nsp 7b;locus_tag=FIPV_gp10;product=non-structural protein 7b;protein_id=YP_004070201.1
+

@@ -1,0 +1,45 @@
+##sequence-region KM454473.1 1 27754
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=300188
+KM454473.1	Genbank	region	1	27754	.	+	.	ID=KM454473.1:1..27754;Dbxref=taxon:300188;collection-date=2014;country=China;gbkey=Src;genome=genomic;isolate=DK/GD/27/2014;mol_type=genomic RNA;nat-host=duck
+KM454473.1	Genbank	gene	347	20364	.	+	.	ID=gene-1ab;Name=1ab;gbkey=Gene;gene=1ab;gene_biotype=protein_coding
+KM454473.1	Genbank	CDS	347	12262	.	+	0	ID=cds-AKF17722.1;Parent=gene-1ab;Dbxref=NCBI_GP:AKF17722.1;Name=AKF17722.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=ORF1ab polyprotein;protein_id=AKF17722.1
+KM454473.1	Genbank	CDS	12262	20364	.	+	0	ID=cds-AKF17722.1;Parent=gene-1ab;Dbxref=NCBI_GP:AKF17722.1;Name=AKF17722.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=ORF1ab polyprotein;protein_id=AKF17722.1
+KM454473.1	Genbank	mature_protein_region_of_CDS	12221	12262	.	+	.	ID=id-AKF17722.1:3959..4912;Note=putative mature peptide%3B putative RNA-dependend RNA polymerase;Parent=cds-AKF17722.1;gbkey=Prot;product=NSP12
+KM454473.1	Genbank	mature_protein_region_of_CDS	12262	15081	.	+	.	ID=id-AKF17722.1:3959..4912;Note=putative mature peptide%3B putative RNA-dependend RNA polymerase;Parent=cds-AKF17722.1;gbkey=Prot;product=NSP12
+KM454473.1	Genbank	mature_protein_region_of_CDS	15082	16881	.	+	.	ID=id-AKF17722.1:4913..5512;Note=putative mature peptide%3B putative helicase;Parent=cds-AKF17722.1;gbkey=Prot;product=NSP13
+KM454473.1	Genbank	mature_protein_region_of_CDS	16882	18447	.	+	.	ID=id-AKF17722.1:5513..6034;Note=putative mature peptide%3B putative exoribonuclease;Parent=cds-AKF17722.1;gbkey=Prot;product=NSP14
+KM454473.1	Genbank	mature_protein_region_of_CDS	18448	19461	.	+	.	ID=id-AKF17722.1:6035..6372;Note=putative mature peptide%3B putative uridylate-specific endoribonuclease;Parent=cds-AKF17722.1;gbkey=Prot;product=NSP15
+KM454473.1	Genbank	mature_protein_region_of_CDS	19462	20292	.	+	.	ID=id-AKF17722.1:6373..6649;Note=putative mature peptide%3B putative 2'-O-ribose methyltransferase;Parent=cds-AKF17722.1;gbkey=Prot;product=NSP16
+KM454473.1	Genbank	gene	347	12292	.	+	.	ID=gene-1a;Name=1a;gbkey=Gene;gene=1a;gene_biotype=protein_coding
+KM454473.1	Genbank	CDS	347	12292	.	+	0	ID=cds-AKF17723.1;Parent=gene-1a;Dbxref=NCBI_GP:AKF17723.1;Name=AKF17723.1;gbkey=CDS;gene=1a;product=ORF1a;protein_id=AKF17723.1
+KM454473.1	Genbank	mature_protein_region_of_CDS	347	2356	.	+	.	ID=id-AKF17723.1:1..670;Note=putative mature peptide;Parent=cds-AKF17723.1;gbkey=Prot;product=NSP1/2
+KM454473.1	Genbank	mature_protein_region_of_CDS	2357	7225	.	+	.	ID=id-AKF17723.1:671..2293;Note=putative mature peptide%3B putative papain-like protease;Parent=cds-AKF17723.1;gbkey=Prot;product=NSP3
+KM454473.1	Genbank	mature_protein_region_of_CDS	7226	8770	.	+	.	ID=id-AKF17723.1:2294..2808;Note=putative mature peptide;Parent=cds-AKF17723.1;gbkey=Prot;product=NSP4
+KM454473.1	Genbank	mature_protein_region_of_CDS	8771	9691	.	+	.	ID=id-AKF17723.1:2809..3115;Note=putative mature peptide%3B putative 3C-like proteinase;Parent=cds-AKF17723.1;gbkey=Prot;product=NSP5
+KM454473.1	Genbank	mature_protein_region_of_CDS	9692	10573	.	+	.	ID=id-AKF17723.1:3116..3409;Note=putative mature peptide;Parent=cds-AKF17723.1;gbkey=Prot;product=NSP6
+KM454473.1	Genbank	mature_protein_region_of_CDS	10574	10822	.	+	.	ID=id-AKF17723.1:3410..3492;Note=putative mature peptide;Parent=cds-AKF17723.1;gbkey=Prot;product=NSP7
+KM454473.1	Genbank	mature_protein_region_of_CDS	10823	11452	.	+	.	ID=id-AKF17723.1:3493..3702;Note=putative mature peptide;Parent=cds-AKF17723.1;gbkey=Prot;product=NSP8
+KM454473.1	Genbank	mature_protein_region_of_CDS	11453	11785	.	+	.	ID=id-AKF17723.1:3703..3813;Note=putative mature peptide;Parent=cds-AKF17723.1;gbkey=Prot;product=NSP9
+KM454473.1	Genbank	mature_protein_region_of_CDS	11786	12220	.	+	.	ID=id-AKF17723.1:3814..3958;Note=putative mature peptide%3B growth-factor domain-containing mature protein;Parent=cds-AKF17723.1;gbkey=Prot;product=NSP10
+KM454473.1	Genbank	mature_protein_region_of_CDS	12221	12286	.	+	.	ID=id-AKF17723.1:3959..3980;Note=putative mature peptide;Parent=cds-AKF17723.1;gbkey=Prot;product=NSP11
+KM454473.1	Genbank	gene	20318	23893	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KM454473.1	Genbank	CDS	20318	23893	.	+	0	ID=cds-AKF17724.1;Parent=gene-S;Dbxref=NCBI_GP:AKF17724.1;Name=AKF17724.1;gbkey=CDS;gene=S;product=spike protein;protein_id=AKF17724.1
+KM454473.1	Genbank	gene	23893	24066	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+KM454473.1	Genbank	CDS	23893	24066	.	+	0	ID=cds-AKF17725.1;Parent=gene-3a;Dbxref=NCBI_GP:AKF17725.1;Name=AKF17725.1;gbkey=CDS;gene=3a;product=3a protein;protein_id=AKF17725.1
+KM454473.1	Genbank	gene	24066	24257	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+KM454473.1	Genbank	CDS	24066	24257	.	+	0	ID=cds-AKF17726.1;Parent=gene-3b;Dbxref=NCBI_GP:AKF17726.1;Name=AKF17726.1;gbkey=CDS;gene=3b;product=3b protein;protein_id=AKF17726.1
+KM454473.1	Genbank	gene	24238	24519	.	+	.	ID=gene-3c;Name=3c;gbkey=Gene;gene=3c;gene_biotype=protein_coding
+KM454473.1	Genbank	CDS	24238	24519	.	+	0	ID=cds-AKF17727.1;Parent=gene-3c;Dbxref=NCBI_GP:AKF17727.1;Name=AKF17727.1;gbkey=CDS;gene=3c;product=3c protein;protein_id=AKF17727.1
+KM454473.1	Genbank	gene	24516	25223	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KM454473.1	Genbank	CDS	24516	25223	.	+	0	ID=cds-AKF17728.1;Parent=gene-M;Dbxref=NCBI_GP:AKF17728.1;Name=AKF17728.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=AKF17728.1
+KM454473.1	Genbank	gene	25224	25508	.	+	.	ID=gene-ORFX;Name=ORFX;gbkey=Gene;gene=ORFX;gene_biotype=protein_coding
+KM454473.1	Genbank	CDS	25224	25508	.	+	0	ID=cds-AKF17729.1;Parent=gene-ORFX;Dbxref=NCBI_GP:AKF17729.1;Name=AKF17729.1;gbkey=CDS;gene=ORFX;product=hypothetical protein;protein_id=AKF17729.1
+KM454473.1	Genbank	gene	25587	25784	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+KM454473.1	Genbank	CDS	25587	25784	.	+	0	ID=cds-AKF17730.1;Parent=gene-5a;Dbxref=NCBI_GP:AKF17730.1;Name=AKF17730.1;gbkey=CDS;gene=5a;product=5a protein;protein_id=AKF17730.1
+KM454473.1	Genbank	gene	25781	26029	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+KM454473.1	Genbank	CDS	25781	26029	.	+	0	ID=cds-AKF17731.1;Parent=gene-5b;Dbxref=NCBI_GP:AKF17731.1;Name=AKF17731.1;gbkey=CDS;gene=5b;product=5b protein;protein_id=AKF17731.1
+KM454473.1	Genbank	gene	25972	27216	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KM454473.1	Genbank	CDS	25972	27216	.	+	0	ID=cds-AKF17732.1;Parent=gene-N;Dbxref=NCBI_GP:AKF17732.1;Name=AKF17732.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=AKF17732.1
+KM454473.1	Genbank	gene	27246	27458	.	+	.	ID=gene-ORFY;Name=ORFY;gbkey=Gene;gene=ORFY;gene_biotype=protein_coding
+KM454473.1	Genbank	CDS	27246	27458	.	+	0	ID=cds-AKF17733.1;Parent=gene-ORFY;Dbxref=NCBI_GP:AKF17733.1;Name=AKF17733.1;gbkey=CDS;gene=ORFY;product=hypothetical protein;protein_id=AKF17733.1
+

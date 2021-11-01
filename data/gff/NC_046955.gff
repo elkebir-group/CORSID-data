@@ -1,0 +1,15 @@
+##sequence-region NC_046955.1 1 27102
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2050019
+NC_046955.1	RefSeq	region	1	27102	.	+	.	ID=NC_046955.1:1..27102;Dbxref=taxon:2050019;collection-date=Dec-2014;country=China;gbkey=Src;genome=genomic;isolate=Shrew-CoV/Tibet2014;mol_type=genomic RNA;nat-host=Sorex araneus
+NC_046955.1	RefSeq	gene	340	19484	.	+	.	ID=gene-HGI19_gp1;Dbxref=GeneID:54124715;Name=HGI19_gp1;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HGI19_gp1
+NC_046955.1	RefSeq	CDS	340	11490	.	+	0	ID=cds-YP_009755838.1;Parent=gene-HGI19_gp1;Dbxref=Genbank:YP_009755838.1,GeneID:54124715;Name=YP_009755838.1;exception=ribosomal slippage;gbkey=CDS;locus_tag=HGI19_gp1;product=ORF1ab polyprotein;protein_id=YP_009755838.1
+NC_046955.1	RefSeq	CDS	11490	19484	.	+	0	ID=cds-YP_009755838.1;Parent=gene-HGI19_gp1;Dbxref=Genbank:YP_009755838.1,GeneID:54124715;Name=YP_009755838.1;exception=ribosomal slippage;gbkey=CDS;locus_tag=HGI19_gp1;product=ORF1ab polyprotein;protein_id=YP_009755838.1
+NC_046955.1	RefSeq	gene	19485	23150	.	+	.	ID=gene-HGI19_gp2;Dbxref=GeneID:54124711;Name=HGI19_gp2;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HGI19_gp2
+NC_046955.1	RefSeq	CDS	19485	23150	.	+	0	ID=cds-YP_009755839.1;Parent=gene-HGI19_gp2;Dbxref=Genbank:YP_009755839.1,GeneID:54124711;Name=YP_009755839.1;gbkey=CDS;locus_tag=HGI19_gp2;product=spike glycoprotein;protein_id=YP_009755839.1
+NC_046955.1	RefSeq	gene	24614	24850	.	+	.	ID=gene-HGI19_gp3;Dbxref=GeneID:54124712;Name=HGI19_gp3;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HGI19_gp3
+NC_046955.1	RefSeq	CDS	24614	24850	.	+	0	ID=cds-YP_009755840.1;Parent=gene-HGI19_gp3;Dbxref=Genbank:YP_009755840.1,GeneID:54124712;Name=YP_009755840.1;gbkey=CDS;locus_tag=HGI19_gp3;product=envelope protein;protein_id=YP_009755840.1
+NC_046955.1	RefSeq	gene	24857	25546	.	+	.	ID=gene-HGI19_gp4;Dbxref=GeneID:54124713;Name=HGI19_gp4;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HGI19_gp4
+NC_046955.1	RefSeq	CDS	24857	25546	.	+	0	ID=cds-YP_009755841.1;Parent=gene-HGI19_gp4;Dbxref=Genbank:YP_009755841.1,GeneID:54124713;Name=YP_009755841.1;gbkey=CDS;locus_tag=HGI19_gp4;product=membrane protein;protein_id=YP_009755841.1
+NC_046955.1	RefSeq	gene	25565	26770	.	+	.	ID=gene-HGI19_gp5;Dbxref=GeneID:54124714;Name=HGI19_gp5;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HGI19_gp5
+NC_046955.1	RefSeq	CDS	25565	26770	.	+	0	ID=cds-YP_009755842.1;Parent=gene-HGI19_gp5;Dbxref=Genbank:YP_009755842.1,GeneID:54124714;Name=YP_009755842.1;gbkey=CDS;locus_tag=HGI19_gp5;product=nucleocapsid protein;protein_id=YP_009755842.1
+

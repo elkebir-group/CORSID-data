@@ -1,0 +1,18 @@
+##sequence-region MH779857.1 1 27603
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+MH779857.1	Genbank	region	1	27603	.	+	.	ID=MH779857.1:1..27603;Dbxref=taxon:11120;collection-date=2015;country=USA;gbkey=Src;genome=genomic;isolate=ArkGA_P20;lab-host=Gallus gallus;mol_type=genomic RNA;note=vaccine isolate;serotype=Arkansas;strain=Ark99
+MH779857.1	Genbank	CDS	487	12345	.	+	0	ID=cds-AYA44699.1;Dbxref=NCBI_GP:AYA44699.1;Name=AYA44699.1;Note=ORF 1ab;exception=ribosomal slippage;gbkey=CDS;product=1ab polyprotein;protein_id=AYA44699.1
+MH779857.1	Genbank	CDS	12348	20381	.	+	0	ID=cds-AYA44699.1;Dbxref=NCBI_GP:AYA44699.1;Name=AYA44699.1;Note=ORF 1ab;exception=ribosomal slippage;gbkey=CDS;product=1ab polyprotein;protein_id=AYA44699.1
+MH779857.1	Genbank	CDS	487	12348	.	+	0	ID=cds-AYA44700.1;Dbxref=NCBI_GP:AYA44700.1;Name=AYA44700.1;Note=ORF 1a;gbkey=CDS;product=1a polyprotein;protein_id=AYA44700.1
+MH779857.1	Genbank	gene	20332	23838	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MH779857.1	Genbank	CDS	20332	23838	.	+	0	ID=cds-AYA44701.1;Parent=gene-S;Dbxref=NCBI_GP:AYA44701.1;Name=AYA44701.1;gbkey=CDS;gene=S;product=spike protein;protein_id=AYA44701.1
+MH779857.1	Genbank	CDS	23838	24011	.	+	0	ID=cds-AYA44702.1;Dbxref=NCBI_GP:AYA44702.1;Name=AYA44702.1;Note=ORF 3a;gbkey=CDS;product=3a protein;protein_id=AYA44702.1
+MH779857.1	Genbank	CDS	24011	24205	.	+	0	ID=cds-AYA44703.1;Dbxref=NCBI_GP:AYA44703.1;Name=AYA44703.1;Note=ORF 3b;gbkey=CDS;product=3b protein;protein_id=AYA44703.1
+MH779857.1	Genbank	CDS	24186	24497	.	+	0	ID=cds-AYA44704.1;Dbxref=NCBI_GP:AYA44704.1;Name=AYA44704.1;Note=ORF 3c;gbkey=CDS;product=3c protein;protein_id=AYA44704.1
+MH779857.1	Genbank	gene	24487	25158	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MH779857.1	Genbank	CDS	24487	25158	.	+	0	ID=cds-AYA44705.1;Parent=gene-M;Dbxref=NCBI_GP:AYA44705.1;Name=AYA44705.1;Note=M protein;gbkey=CDS;gene=M;product=membrane protein;protein_id=AYA44705.1
+MH779857.1	Genbank	CDS	25518	25715	.	+	0	ID=cds-AYA44706.1;Dbxref=NCBI_GP:AYA44706.1;Name=AYA44706.1;Note=ORF 5a;gbkey=CDS;product=5a protein;protein_id=AYA44706.1
+MH779857.1	Genbank	CDS	25712	25960	.	+	0	ID=cds-AYA44707.1;Dbxref=NCBI_GP:AYA44707.1;Name=AYA44707.1;Note=ORF 5b;gbkey=CDS;product=5b protein;protein_id=AYA44707.1
+MH779857.1	Genbank	gene	25903	27132	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MH779857.1	Genbank	CDS	25903	27132	.	+	0	ID=cds-AYA44708.1;Parent=gene-N;Dbxref=NCBI_GP:AYA44708.1;Name=AYA44708.1;Note=N protein;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=AYA44708.1
+

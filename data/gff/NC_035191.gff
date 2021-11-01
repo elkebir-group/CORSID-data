@@ -1,0 +1,15 @@
+##sequence-region NC_035191.1 1 25995
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1508228
+NC_035191.1	RefSeq	region	1	25995	.	+	.	ID=NC_035191.1:1..25995;Dbxref=taxon:1508228;collection-date=2015;country=China;gbkey=Src;genome=genomic;isolate=Xingguo-101;mol_type=genomic RNA;nat-host=Suncus murinus
+NC_035191.1	RefSeq	gene	228	19201	.	+	.	ID=gene-CGV08_gp1;Dbxref=GeneID:33349977;Name=CGV08_gp1;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CGV08_gp1
+NC_035191.1	RefSeq	CDS	228	11207	.	+	0	ID=cds-YP_009389424.1;Parent=gene-CGV08_gp1;Dbxref=Genbank:YP_009389424.1,GeneID:33349977;Name=YP_009389424.1;exception=ribosomal slippage;gbkey=CDS;locus_tag=CGV08_gp1;product=ORF1ab polyprotein;protein_id=YP_009389424.1
+NC_035191.1	RefSeq	CDS	11207	19201	.	+	0	ID=cds-YP_009389424.1;Parent=gene-CGV08_gp1;Dbxref=Genbank:YP_009389424.1,GeneID:33349977;Name=YP_009389424.1;exception=ribosomal slippage;gbkey=CDS;locus_tag=CGV08_gp1;product=ORF1ab polyprotein;protein_id=YP_009389424.1
+NC_035191.1	RefSeq	gene	19208	22612	.	+	.	ID=gene-CGV08_gp2;Dbxref=GeneID:33349973;Name=CGV08_gp2;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CGV08_gp2
+NC_035191.1	RefSeq	CDS	19208	22612	.	+	0	ID=cds-YP_009389425.1;Parent=gene-CGV08_gp2;Dbxref=Genbank:YP_009389425.1,GeneID:33349973;Name=YP_009389425.1;gbkey=CDS;locus_tag=CGV08_gp2;product=spike glycoprotein;protein_id=YP_009389425.1
+NC_035191.1	RefSeq	gene	23306	23533	.	+	.	ID=gene-CGV08_gp3;Dbxref=GeneID:33349974;Name=CGV08_gp3;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CGV08_gp3
+NC_035191.1	RefSeq	CDS	23306	23533	.	+	0	ID=cds-YP_009389426.1;Parent=gene-CGV08_gp3;Dbxref=Genbank:YP_009389426.1,GeneID:33349974;Name=YP_009389426.1;gbkey=CDS;locus_tag=CGV08_gp3;product=envelope protein;protein_id=YP_009389426.1
+NC_035191.1	RefSeq	gene	23546	24235	.	+	.	ID=gene-CGV08_gp4;Dbxref=GeneID:33349975;Name=CGV08_gp4;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CGV08_gp4
+NC_035191.1	RefSeq	CDS	23546	24235	.	+	0	ID=cds-YP_009389427.1;Parent=gene-CGV08_gp4;Dbxref=Genbank:YP_009389427.1,GeneID:33349975;Name=YP_009389427.1;gbkey=CDS;locus_tag=CGV08_gp4;product=membrane protein;protein_id=YP_009389427.1
+NC_035191.1	RefSeq	gene	24239	25339	.	+	.	ID=gene-CGV08_gp5;Dbxref=GeneID:33349976;Name=CGV08_gp5;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CGV08_gp5
+NC_035191.1	RefSeq	CDS	24239	25339	.	+	0	ID=cds-YP_009389428.1;Parent=gene-CGV08_gp5;Dbxref=Genbank:YP_009389428.1,GeneID:33349976;Name=YP_009389428.1;gbkey=CDS;locus_tag=CGV08_gp5;product=nucleocapsid protein;protein_id=YP_009389428.1
+

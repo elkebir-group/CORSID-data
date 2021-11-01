@@ -1,0 +1,17 @@
+##sequence-region NC_046954.1 1 31393
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2050018
+NC_046954.1	RefSeq	region	1	31393	.	+	.	ID=NC_046954.1:1..31393;Dbxref=taxon:2050018;collection-date=Aug-2014;country=China;gbkey=Src;genome=genomic;isolate=RtMruf-CoV-2/JL2014;mol_type=genomic RNA;nat-host=Myodes rufocanus
+NC_046954.1	RefSeq	gene	211	21596	.	+	.	ID=gene-HGI18_gp1;Dbxref=GeneID:54124709;Name=HGI18_gp1;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HGI18_gp1
+NC_046954.1	RefSeq	CDS	211	13446	.	+	0	ID=cds-YP_009755832.1;Parent=gene-HGI18_gp1;Dbxref=Genbank:YP_009755832.1,GeneID:54124709;Name=YP_009755832.1;exception=ribosomal slippage;gbkey=CDS;locus_tag=HGI18_gp1;product=ORF1ab polyprotein;protein_id=YP_009755832.1
+NC_046954.1	RefSeq	CDS	13446	21596	.	+	0	ID=cds-YP_009755832.1;Parent=gene-HGI18_gp1;Dbxref=Genbank:YP_009755832.1,GeneID:54124709;Name=YP_009755832.1;exception=ribosomal slippage;gbkey=CDS;locus_tag=HGI18_gp1;product=ORF1ab polyprotein;protein_id=YP_009755832.1
+NC_046954.1	RefSeq	gene	22459	23742	.	+	.	ID=gene-HGI18_gp2;Dbxref=GeneID:54124704;Name=HGI18_gp2;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HGI18_gp2
+NC_046954.1	RefSeq	CDS	22459	23742	.	+	0	ID=cds-YP_009755833.1;Parent=gene-HGI18_gp2;Dbxref=Genbank:YP_009755833.1,GeneID:54124704;Name=YP_009755833.1;gbkey=CDS;locus_tag=HGI18_gp2;product=hemagglutinin-esterase protein;protein_id=YP_009755833.1
+NC_046954.1	RefSeq	gene	23757	27842	.	+	.	ID=gene-HGI18_gp3;Dbxref=GeneID:54124705;Name=HGI18_gp3;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HGI18_gp3
+NC_046954.1	RefSeq	CDS	23757	27842	.	+	0	ID=cds-YP_009755834.1;Parent=gene-HGI18_gp3;Dbxref=Genbank:YP_009755834.1,GeneID:54124705;Name=YP_009755834.1;gbkey=CDS;locus_tag=HGI18_gp3;product=spike glycoprotein;protein_id=YP_009755834.1
+NC_046954.1	RefSeq	gene	28768	29016	.	+	.	ID=gene-HGI18_gp4;Dbxref=GeneID:54124706;Name=HGI18_gp4;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HGI18_gp4
+NC_046954.1	RefSeq	CDS	28768	29016	.	+	0	ID=cds-YP_009755835.1;Parent=gene-HGI18_gp4;Dbxref=Genbank:YP_009755835.1,GeneID:54124706;Name=YP_009755835.1;gbkey=CDS;locus_tag=HGI18_gp4;product=envelope protein;protein_id=YP_009755835.1
+NC_046954.1	RefSeq	gene	29032	29727	.	+	.	ID=gene-HGI18_gp5;Dbxref=GeneID:54124707;Name=HGI18_gp5;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HGI18_gp5
+NC_046954.1	RefSeq	CDS	29032	29727	.	+	0	ID=cds-YP_009755836.1;Parent=gene-HGI18_gp5;Dbxref=Genbank:YP_009755836.1,GeneID:54124707;Name=YP_009755836.1;gbkey=CDS;locus_tag=HGI18_gp5;product=membrane protein;protein_id=YP_009755836.1
+NC_046954.1	RefSeq	gene	29738	31093	.	+	.	ID=gene-HGI18_gp6;Dbxref=GeneID:54124708;Name=HGI18_gp6;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HGI18_gp6
+NC_046954.1	RefSeq	CDS	29738	31093	.	+	0	ID=cds-YP_009755837.1;Parent=gene-HGI18_gp6;Dbxref=Genbank:YP_009755837.1,GeneID:54124708;Name=YP_009755837.1;gbkey=CDS;locus_tag=HGI18_gp6;product=nucleocapsid protein;protein_id=YP_009755837.1
+

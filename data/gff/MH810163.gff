@@ -1,0 +1,11 @@
+##sequence-region MH810163.1 1 31032
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2501420
+MH810163.1	Genbank	region	1	31032	.	+	.	ID=MH810163.1:1..31032;Dbxref=taxon:2501420;collection-date=2017;country=China;gbkey=Src;genome=genomic;isolate=HY24;mol_type=genomic RNA;nat-host=yak;strain=YAK/HY24/CH/2017
+MH810163.1	Genbank	CDS	211	13362	.	+	0	ID=cds-AZU96324.1;Dbxref=NCBI_GP:AZU96324.1;Name=AZU96324.1;gbkey=CDS;product=orf1a polyprotein;protein_id=AZU96324.1
+MH810163.1	Genbank	CDS	13359	21494	.	+	0	ID=cds-AZU96325.1;Dbxref=NCBI_GP:AZU96325.1;Name=AZU96325.1;Note=translated via ribosomal frameshift%3B location of frameshift not determined;gbkey=CDS;partial=true;product=orf1b polyprotein;protein_id=AZU96325.1;start_range=.,13359
+MH810163.1	Genbank	CDS	22352	23626	.	+	0	ID=cds-AZU96326.1;Dbxref=NCBI_GP:AZU96326.1;Name=AZU96326.1;gbkey=CDS;product=HE protein;protein_id=AZU96326.1
+MH810163.1	Genbank	CDS	23641	27732	.	+	0	ID=cds-AZU96327.1;Dbxref=NCBI_GP:AZU96327.1;Name=AZU96327.1;gbkey=CDS;product=S protein;protein_id=AZU96327.1
+MH810163.1	Genbank	CDS	28426	28680	.	+	0	ID=cds-AZU96328.1;Dbxref=NCBI_GP:AZU96328.1;Name=AZU96328.1;gbkey=CDS;product=E protein;protein_id=AZU96328.1
+MH810163.1	Genbank	CDS	28695	29387	.	+	0	ID=cds-AZU96329.1;Dbxref=NCBI_GP:AZU96329.1;Name=AZU96329.1;gbkey=CDS;product=M protein;protein_id=AZU96329.1
+MH810163.1	Genbank	CDS	29397	30743	.	+	0	ID=cds-AZU96330.1;Dbxref=NCBI_GP:AZU96330.1;Name=AZU96330.1;gbkey=CDS;product=N protein;protein_id=AZU96330.1
+

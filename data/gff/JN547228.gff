@@ -1,0 +1,17 @@
+##sequence-region JN547228.1 1 28026
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=28295
+JN547228.1	Genbank	region	1	28026	.	+	.	ID=JN547228.1:1..28026;Dbxref=taxon:28295;collection-date=1986;country=China;gb-acronym=PEDV;gbkey=Src;genome=genomic;isolation-source=small intestines of piglets;mol_type=genomic RNA;nat-host=porcine;strain=CH/S
+JN547228.1	Genbank	gene	293	20634	.	+	.	ID=gene-ORF1ab;Name=ORF1ab;gbkey=Gene;gene=ORF1ab;gene_biotype=protein_coding
+JN547228.1	Genbank	CDS	293	12598	.	+	0	ID=cds-AEQ55003.1;Parent=gene-ORF1ab;Dbxref=NCBI_GP:AEQ55003.1;Name=AEQ55003.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;product=polyprotein;protein_id=AEQ55003.1
+JN547228.1	Genbank	CDS	12598	20634	.	+	0	ID=cds-AEQ55003.1;Parent=gene-ORF1ab;Dbxref=NCBI_GP:AEQ55003.1;Name=AEQ55003.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;product=polyprotein;protein_id=AEQ55003.1
+JN547228.1	Genbank	gene	20631	24782	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+JN547228.1	Genbank	CDS	20631	24782	.	+	0	ID=cds-AEQ55004.1;Parent=gene-S;Dbxref=NCBI_GP:AEQ55004.1;Name=AEQ55004.1;gbkey=CDS;gene=S;product=spike protein;protein_id=AEQ55004.1
+JN547228.1	Genbank	gene	24782	25456	.	+	.	ID=gene-ORF3;Name=ORF3;gbkey=Gene;gene=ORF3;gene_biotype=protein_coding
+JN547228.1	Genbank	CDS	24782	25456	.	+	0	ID=cds-AEQ55005.1;Parent=gene-ORF3;Dbxref=NCBI_GP:AEQ55005.1;Name=AEQ55005.1;gbkey=CDS;gene=ORF3;product=ORF3 protein;protein_id=AEQ55005.1
+JN547228.1	Genbank	gene	25437	25667	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+JN547228.1	Genbank	CDS	25437	25667	.	+	0	ID=cds-AEQ55006.1;Parent=gene-E;Dbxref=NCBI_GP:AEQ55006.1;Name=AEQ55006.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=AEQ55006.1
+JN547228.1	Genbank	gene	25675	26355	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+JN547228.1	Genbank	CDS	25675	26355	.	+	0	ID=cds-AEQ55007.1;Parent=gene-M;Dbxref=NCBI_GP:AEQ55007.1;Name=AEQ55007.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=AEQ55007.1
+JN547228.1	Genbank	gene	26367	27692	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+JN547228.1	Genbank	CDS	26367	27692	.	+	0	ID=cds-AEQ55008.1;Parent=gene-N;Dbxref=NCBI_GP:AEQ55008.1;Name=AEQ55008.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=AEQ55008.1
+

@@ -1,0 +1,26 @@
+##sequence-region MG987420.1 1 30484
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1335626
+MG987420.1	Genbank	region	1	30484	.	+	.	ID=MG987420.1:1..30484;Dbxref=taxon:1335626;collected-by=G.Zhu;collection-date=20-Jul-2013;country=China;gb-acronym=MERS-CoV;gbkey=Src;genome=genomic;identified-by=B.Li;isolate=NL13892;lat-lon=24.59 N 113.06 E;mol_type=genomic RNA
+MG987420.1	Genbank	gene	238	21875	.	+	.	ID=gene-orf1ab;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding
+MG987420.1	Genbank	CDS	238	13794	.	+	0	ID=cds-AWH65941.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:AWH65941.1;Name=AWH65941.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=ORF1ab;protein_id=AWH65941.1
+MG987420.1	Genbank	CDS	13794	21875	.	+	0	ID=cds-AWH65941.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:AWH65941.1;Name=AWH65941.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=ORF1ab;protein_id=AWH65941.1
+MG987420.1	Genbank	CDS	238	13815	.	+	0	ID=cds-AWH65942.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:AWH65942.1;Name=AWH65942.1;gbkey=CDS;gene=orf1ab;product=ORF1a;protein_id=AWH65942.1
+MG987420.1	Genbank	gene	21817	25857	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MG987420.1	Genbank	CDS	21817	25857	.	+	0	ID=cds-AWH65943.1;Parent=gene-S;Dbxref=NCBI_GP:AWH65943.1;Name=AWH65943.1;gbkey=CDS;gene=S;product=S protein;protein_id=AWH65943.1
+MG987420.1	Genbank	gene	25869	26180	.	+	.	ID=gene-orf3;Name=orf3;gbkey=Gene;gene=orf3;gene_biotype=protein_coding
+MG987420.1	Genbank	CDS	25869	26180	.	+	0	ID=cds-AWH65944.1;Parent=gene-orf3;Dbxref=NCBI_GP:AWH65944.1;Name=AWH65944.1;gbkey=CDS;gene=orf3;product=ORF3;protein_id=AWH65944.1
+MG987420.1	Genbank	gene	26189	26482	.	+	.	ID=gene-orf4a;Name=orf4a;gbkey=Gene;gene=orf4a;gene_biotype=protein_coding
+MG987420.1	Genbank	CDS	26189	26482	.	+	0	ID=cds-AWH65945.1;Parent=gene-orf4a;Dbxref=NCBI_GP:AWH65945.1;Name=AWH65945.1;gbkey=CDS;gene=orf4a;product=ORF4a;protein_id=AWH65945.1
+MG987420.1	Genbank	gene	26394	27146	.	+	.	ID=gene-orf4b;Name=orf4b;gbkey=Gene;gene=orf4b;gene_biotype=protein_coding
+MG987420.1	Genbank	CDS	26394	27146	.	+	0	ID=cds-AWH65946.1;Parent=gene-orf4b;Dbxref=NCBI_GP:AWH65946.1;Name=AWH65946.1;gbkey=CDS;gene=orf4b;product=ORF4b;protein_id=AWH65946.1
+MG987420.1	Genbank	gene	27153	27842	.	+	.	ID=gene-orf5;Name=orf5;gbkey=Gene;gene=orf5;gene_biotype=protein_coding
+MG987420.1	Genbank	CDS	27153	27842	.	+	0	ID=cds-AWH65947.1;Parent=gene-orf5;Dbxref=NCBI_GP:AWH65947.1;Name=AWH65947.1;gbkey=CDS;gene=orf5;product=ORF5;protein_id=AWH65947.1
+MG987420.1	Genbank	gene	27919	28167	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MG987420.1	Genbank	CDS	27919	28167	.	+	0	ID=cds-AWH65948.1;Parent=gene-E;Dbxref=NCBI_GP:AWH65948.1;Name=AWH65948.1;gbkey=CDS;gene=E;product=E protein;protein_id=AWH65948.1
+MG987420.1	Genbank	gene	28181	28837	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MG987420.1	Genbank	CDS	28181	28837	.	+	0	ID=cds-AWH65949.1;Parent=gene-M;Dbxref=NCBI_GP:AWH65949.1;Name=AWH65949.1;gbkey=CDS;gene=M;product=M protein;protein_id=AWH65949.1
+MG987420.1	Genbank	gene	28893	30191	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MG987420.1	Genbank	CDS	28893	30191	.	+	0	ID=cds-AWH65950.1;Parent=gene-N;Dbxref=NCBI_GP:AWH65950.1;Name=AWH65950.1;gbkey=CDS;gene=N;product=N protein;protein_id=AWH65950.1
+MG987420.1	Genbank	gene	28939	29523	.	+	.	ID=gene-orf8b;Name=orf8b;gbkey=Gene;gene=orf8b;gene_biotype=protein_coding
+MG987420.1	Genbank	CDS	28939	29523	.	+	0	ID=cds-AWH65951.1;Parent=gene-orf8b;Dbxref=NCBI_GP:AWH65951.1;Name=AWH65951.1;gbkey=CDS;gene=orf8b;product=ORF8b;protein_id=AWH65951.1
+

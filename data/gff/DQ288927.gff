@@ -1,0 +1,4 @@
+##sequence-region DQ288927.1 1 27534
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+DQ288927.1	Genbank	region	1	27534	.	+	.	ID=DQ288927.1:1..27534;Dbxref=taxon:11120;gbkey=Src;genome=genomic;isolate=SAIBK;mol_type=mRNA;old-name=Avian infectious bronchitis virus
+

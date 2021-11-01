@@ -1,0 +1,17 @@
+##sequence-region KC545386.1 1 30175
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1385427
+KC545386.1	Genbank	region	1	30175	.	+	.	ID=KC545386.1:1..30175;Dbxref=taxon:1385427;collection-date=2012;country=Germany;gbkey=Src;genome=genomic;isolate=ErinaceusCoV/2012-216/GER/2012;isolation-source=feces;mol_type=genomic RNA;nat-host=Erinaceus europaeus
+KC545386.1	Genbank	CDS	241	13611	.	+	0	ID=cds-AGT28265.1;Dbxref=NCBI_GP:AGT28265.1;Name=AGT28265.1;exception=ribosomal slippage;gbkey=CDS;product=orf1ab;protein_id=AGT28265.1
+KC545386.1	Genbank	CDS	13611	21719	.	+	0	ID=cds-AGT28265.1;Dbxref=NCBI_GP:AGT28265.1;Name=AGT28265.1;exception=ribosomal slippage;gbkey=CDS;product=orf1ab;protein_id=AGT28265.1
+KC545386.1	Genbank	CDS	241	13632	.	+	0	ID=cds-AGX27809.1;Dbxref=NCBI_GP:AGX27809.1;Name=AGX27809.1;gbkey=CDS;product=ORF 1a;protein_id=AGX27809.1
+KC545386.1	Genbank	CDS	21637	25629	.	+	0	ID=cds-AGX27810.1;Dbxref=NCBI_GP:AGX27810.1;Name=AGX27810.1;gbkey=CDS;product=S;protein_id=AGX27810.1
+KC545386.1	Genbank	CDS	25647	25961	.	+	0	ID=cds-AGX27811.1;Dbxref=NCBI_GP:AGX27811.1;Name=AGX27811.1;gbkey=CDS;product=ORF 3a;protein_id=AGX27811.1
+KC545386.1	Genbank	CDS	25741	26163	.	+	0	ID=cds-AGX27812.1;Dbxref=NCBI_GP:AGX27812.1;Name=AGX27812.1;gbkey=CDS;product=ORF 3b;protein_id=AGX27812.1
+KC545386.1	Genbank	CDS	25918	26163	.	+	0	ID=cds-AGX27813.1;Dbxref=NCBI_GP:AGX27813.1;Name=AGX27813.1;gbkey=CDS;product=orf4a;protein_id=AGX27813.1
+KC545386.1	Genbank	CDS	26150	26821	.	+	0	ID=cds-AGX27814.1;Dbxref=NCBI_GP:AGX27814.1;Name=AGX27814.1;gbkey=CDS;product=orf4b;protein_id=AGX27814.1
+KC545386.1	Genbank	CDS	26831	27532	.	+	0	ID=cds-AGX27815.1;Dbxref=NCBI_GP:AGX27815.1;Name=AGX27815.1;gbkey=CDS;product=orf5;protein_id=AGX27815.1
+KC545386.1	Genbank	CDS	27606	27854	.	+	0	ID=cds-AGX27816.1;Dbxref=NCBI_GP:AGX27816.1;Name=AGX27816.1;gbkey=CDS;product=E;protein_id=AGX27816.1
+KC545386.1	Genbank	CDS	27869	28525	.	+	0	ID=cds-AGX27817.1;Dbxref=NCBI_GP:AGX27817.1;Name=AGX27817.1;gbkey=CDS;product=M;protein_id=AGX27817.1
+KC545386.1	Genbank	CDS	28580	29854	.	+	0	ID=cds-AGX27818.1;Dbxref=NCBI_GP:AGX27818.1;Name=AGX27818.1;gbkey=CDS;product=N;protein_id=AGX27818.1
+KC545386.1	Genbank	CDS	28626	29225	.	+	0	ID=cds-AGX27819.1;Dbxref=NCBI_GP:AGX27819.1;Name=AGX27819.1;gbkey=CDS;product=orf8b;protein_id=AGX27819.1
+

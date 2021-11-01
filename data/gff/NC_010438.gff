@@ -1,0 +1,20 @@
+##sequence-region NC_010438.1 1 28773
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=694001
+NC_010438.1	RefSeq	region	1	28773	.	+	.	ID=NC_010438.1:1..28773;Dbxref=taxon:694001;country=Hong Kong;gbkey=Src;genome=genomic;mol_type=genomic RNA;old-name=Bat coronavirus HKU8;strain=AFCD77
+NC_010438.1	RefSeq	gene	270	20959	.	+	.	ID=gene-BatCoVHKU8_gp1;Dbxref=GeneID:6020263;Name=ORF1ab;gbkey=Gene;gene=ORF1ab;gene_biotype=protein_coding;locus_tag=BatCoVHKU8_gp1
+NC_010438.1	RefSeq	CDS	270	12935	.	+	0	ID=cds-YP_001718610.1;Parent=gene-BatCoVHKU8_gp1;Dbxref=Genbank:YP_001718610.1,GeneID:6020263;Name=YP_001718610.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;locus_tag=BatCoVHKU8_gp1;product=ORF1ab polyprotein;protein_id=YP_001718610.1
+NC_010438.1	RefSeq	CDS	12935	20959	.	+	0	ID=cds-YP_001718610.1;Parent=gene-BatCoVHKU8_gp1;Dbxref=Genbank:YP_001718610.1,GeneID:6020263;Name=YP_001718610.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;locus_tag=BatCoVHKU8_gp1;product=ORF1ab polyprotein;protein_id=YP_001718610.1
+NC_010438.1	RefSeq	CDS	270	12965	.	+	0	ID=cds-YP_001718611.1;Parent=gene-BatCoVHKU8_gp1;Dbxref=Genbank:YP_001718611.1,GeneID:6020263;Name=YP_001718611.1;gbkey=CDS;gene=ORF1ab;locus_tag=BatCoVHKU8_gp1;product=ORF1a polyprotein;protein_id=YP_001718611.1
+NC_010438.1	RefSeq	gene	20956	25083	.	+	.	ID=gene-BatCoVHKU8_gp2;Dbxref=GeneID:6020262;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding;locus_tag=BatCoVHKU8_gp2
+NC_010438.1	RefSeq	CDS	20956	25083	.	+	0	ID=cds-YP_001718612.1;Parent=gene-BatCoVHKU8_gp2;Dbxref=Genbank:YP_001718612.1,GeneID:6020262;Name=YP_001718612.1;gbkey=CDS;gene=S;locus_tag=BatCoVHKU8_gp2;product=spike protein;protein_id=YP_001718612.1
+NC_010438.1	RefSeq	gene	25083	25751	.	+	.	ID=gene-BatCoVHKU8_gp3;Dbxref=GeneID:6020261;Name=ORF3;gbkey=Gene;gene=ORF3;gene_biotype=protein_coding;locus_tag=BatCoVHKU8_gp3
+NC_010438.1	RefSeq	CDS	25083	25751	.	+	0	ID=cds-YP_001718613.1;Parent=gene-BatCoVHKU8_gp3;Dbxref=Genbank:YP_001718613.1,GeneID:6020261;Name=YP_001718613.1;gbkey=CDS;gene=ORF3;locus_tag=BatCoVHKU8_gp3;product=ORF3 protein;protein_id=YP_001718613.1
+NC_010438.1	RefSeq	gene	25735	25959	.	+	.	ID=gene-BatCoVHKU8_gp4;Dbxref=GeneID:6020260;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding;locus_tag=BatCoVHKU8_gp4
+NC_010438.1	RefSeq	CDS	25735	25959	.	+	0	ID=cds-YP_001718614.1;Parent=gene-BatCoVHKU8_gp4;Dbxref=Genbank:YP_001718614.1,GeneID:6020260;Name=YP_001718614.1;gbkey=CDS;gene=E;locus_tag=BatCoVHKU8_gp4;product=envelope protein;protein_id=YP_001718614.1
+NC_010438.1	RefSeq	gene	25966	26721	.	+	.	ID=gene-BatCoVHKU8_gp5;Dbxref=GeneID:6020266;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding;locus_tag=BatCoVHKU8_gp5
+NC_010438.1	RefSeq	CDS	25966	26721	.	+	0	ID=cds-YP_001718615.1;Parent=gene-BatCoVHKU8_gp5;Dbxref=Genbank:YP_001718615.1,GeneID:6020266;Name=YP_001718615.1;gbkey=CDS;gene=M;locus_tag=BatCoVHKU8_gp5;product=membrane protein;protein_id=YP_001718615.1
+NC_010438.1	RefSeq	gene	26770	28038	.	+	.	ID=gene-BatCoVHKU8_gp6;Dbxref=GeneID:6020264;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding;locus_tag=BatCoVHKU8_gp6
+NC_010438.1	RefSeq	CDS	26770	28038	.	+	0	ID=cds-YP_001718616.1;Parent=gene-BatCoVHKU8_gp6;Dbxref=Genbank:YP_001718616.1,GeneID:6020264;Name=YP_001718616.1;gbkey=CDS;gene=N;locus_tag=BatCoVHKU8_gp6;product=nucleocapsid protein;protein_id=YP_001718616.1
+NC_010438.1	RefSeq	gene	27788	28534	.	+	.	ID=gene-BatCoVHKU8_gp7;Dbxref=GeneID:6020265;Name=ORF7;gbkey=Gene;gene=ORF7;gene_biotype=protein_coding;locus_tag=BatCoVHKU8_gp7
+NC_010438.1	RefSeq	CDS	27788	28534	.	+	0	ID=cds-YP_001718617.1;Parent=gene-BatCoVHKU8_gp7;Dbxref=Genbank:YP_001718617.1,GeneID:6020265;Name=YP_001718617.1;gbkey=CDS;gene=ORF7;locus_tag=BatCoVHKU8_gp7;product=hypothetical protein;protein_id=YP_001718617.1
+

@@ -1,0 +1,23 @@
+##sequence-region KP790145.1 1 27681
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+KP790145.1	Genbank	region	1	27681	.	+	.	ID=KP790145.1:1..27681;Dbxref=taxon:11120;collection-date=2014;country=China;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Gallus gallus;strain=CK/CH/LHLJ/141105
+KP790145.1	Genbank	gene	526	20417	.	+	.	ID=gene-1ab;Name=1ab;gbkey=Gene;gene=1ab;gene_biotype=protein_coding
+KP790145.1	Genbank	CDS	526	12348	.	+	0	ID=cds-AKS25242.1;Parent=gene-1ab;Dbxref=NCBI_GP:AKS25242.1;Name=AKS25242.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=1ab protein;protein_id=AKS25242.1
+KP790145.1	Genbank	CDS	12348	20417	.	+	0	ID=cds-AKS25242.1;Parent=gene-1ab;Dbxref=NCBI_GP:AKS25242.1;Name=AKS25242.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=1ab protein;protein_id=AKS25242.1
+KP790145.1	Genbank	gene	20368	23865	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KP790145.1	Genbank	CDS	20368	23865	.	+	0	ID=cds-AKS25243.1;Parent=gene-S;Dbxref=NCBI_GP:AKS25243.1;Name=AKS25243.1;gbkey=CDS;gene=S;product=spike protein;protein_id=AKS25243.1
+KP790145.1	Genbank	gene	23865	24038	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+KP790145.1	Genbank	CDS	23865	24038	.	+	0	ID=cds-AKS25244.1;Parent=gene-3a;Dbxref=NCBI_GP:AKS25244.1;Name=AKS25244.1;gbkey=CDS;gene=3a;product=3a protein;protein_id=AKS25244.1
+KP790145.1	Genbank	gene	24038	24226	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+KP790145.1	Genbank	CDS	24038	24226	.	+	0	ID=cds-AKS25245.1;Parent=gene-3b;Dbxref=NCBI_GP:AKS25245.1;Name=AKS25245.1;gbkey=CDS;gene=3b;product=3b protein;protein_id=AKS25245.1
+KP790145.1	Genbank	gene	24213	24539	.	+	.	ID=gene-3c;Name=3c;gbkey=Gene;gene=3c;gene_biotype=protein_coding
+KP790145.1	Genbank	CDS	24213	24539	.	+	0	ID=cds-AKS25246.1;Parent=gene-3c;Dbxref=NCBI_GP:AKS25246.1;Name=AKS25246.1;gbkey=CDS;gene=3c;product=3c protein;protein_id=AKS25246.1
+KP790145.1	Genbank	gene	24511	25188	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KP790145.1	Genbank	CDS	24511	25188	.	+	0	ID=cds-AKS25247.1;Parent=gene-M;Dbxref=NCBI_GP:AKS25247.1;Name=AKS25247.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=AKS25247.1
+KP790145.1	Genbank	gene	25552	25749	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+KP790145.1	Genbank	CDS	25552	25749	.	+	0	ID=cds-AKS25248.1;Parent=gene-5a;Dbxref=NCBI_GP:AKS25248.1;Name=AKS25248.1;gbkey=CDS;gene=5a;product=5a protein;protein_id=AKS25248.1
+KP790145.1	Genbank	gene	25746	25994	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+KP790145.1	Genbank	CDS	25746	25994	.	+	0	ID=cds-AKS25249.1;Parent=gene-5b;Dbxref=NCBI_GP:AKS25249.1;Name=AKS25249.1;gbkey=CDS;gene=5b;product=5b protein;protein_id=AKS25249.1
+KP790145.1	Genbank	gene	25937	27166	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KP790145.1	Genbank	CDS	25937	27166	.	+	0	ID=cds-AKS25250.1;Parent=gene-N;Dbxref=NCBI_GP:AKS25250.1;Name=AKS25250.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=AKS25250.1
+

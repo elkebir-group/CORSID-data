@@ -1,0 +1,22 @@
+##sequence-region KP343691.1 1 27615
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+KP343691.1	Genbank	region	1	27615	.	+	.	ID=KP343691.1:1..27615;Dbxref=taxon:11120;collection-date=2013;country=China;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Gallus gallus;strain=ck/CH/LGX/130530
+KP343691.1	Genbank	CDS	529	12327	.	+	0	ID=cds-AKJ66252.1;Dbxref=NCBI_GP:AKJ66252.1;Name=AKJ66252.1;exception=ribosomal slippage;gbkey=CDS;product=ORF1ab;protein_id=AKJ66252.1
+KP343691.1	Genbank	CDS	12330	20363	.	+	0	ID=cds-AKJ66252.1;Dbxref=NCBI_GP:AKJ66252.1;Name=AKJ66252.1;exception=ribosomal slippage;gbkey=CDS;product=ORF1ab;protein_id=AKJ66252.1
+KP343691.1	Genbank	gene	20314	23811	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KP343691.1	Genbank	CDS	20314	23811	.	+	0	ID=cds-AKJ66253.1;Parent=gene-S;Dbxref=NCBI_GP:AKJ66253.1;Name=AKJ66253.1;gbkey=CDS;gene=S;product=spike protein;protein_id=AKJ66253.1
+KP343691.1	Genbank	gene	23811	23984	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+KP343691.1	Genbank	CDS	23811	23984	.	+	0	ID=cds-AKJ66254.1;Parent=gene-3a;Dbxref=NCBI_GP:AKJ66254.1;Name=AKJ66254.1;gbkey=CDS;gene=3a;product=3a protein;protein_id=AKJ66254.1
+KP343691.1	Genbank	gene	23984	24172	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+KP343691.1	Genbank	CDS	23984	24172	.	+	0	ID=cds-AKJ66255.1;Parent=gene-3b;Dbxref=NCBI_GP:AKJ66255.1;Name=AKJ66255.1;gbkey=CDS;gene=3b;product=3b protein;protein_id=AKJ66255.1
+KP343691.1	Genbank	gene	24156	24482	.	+	.	ID=gene-3c;Name=3c;gbkey=Gene;gene=3c;gene_biotype=protein_coding
+KP343691.1	Genbank	CDS	24156	24482	.	+	0	ID=cds-AKJ66256.1;Parent=gene-3c;Dbxref=NCBI_GP:AKJ66256.1;Name=AKJ66256.1;gbkey=CDS;gene=3c;product=E protein;protein_id=AKJ66256.1
+KP343691.1	Genbank	gene	24454	25131	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KP343691.1	Genbank	CDS	24454	25131	.	+	0	ID=cds-AKJ66257.1;Parent=gene-M;Dbxref=NCBI_GP:AKJ66257.1;Name=AKJ66257.1;gbkey=CDS;gene=M;product=M protein;protein_id=AKJ66257.1
+KP343691.1	Genbank	gene	25485	25682	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+KP343691.1	Genbank	CDS	25485	25682	.	+	0	ID=cds-AKJ66258.1;Parent=gene-5a;Dbxref=NCBI_GP:AKJ66258.1;Name=AKJ66258.1;gbkey=CDS;gene=5a;product=5a protein;protein_id=AKJ66258.1
+KP343691.1	Genbank	gene	25679	25951	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+KP343691.1	Genbank	CDS	25679	25951	.	+	0	ID=cds-AKJ66259.1;Parent=gene-5b;Dbxref=NCBI_GP:AKJ66259.1;Name=AKJ66259.1;gbkey=CDS;gene=5b;product=5b protein;protein_id=AKJ66259.1
+KP343691.1	Genbank	gene	25870	27099	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KP343691.1	Genbank	CDS	25870	27099	.	+	0	ID=cds-AKJ66260.1;Parent=gene-N;Dbxref=NCBI_GP:AKJ66260.1;Name=AKJ66260.1;gbkey=CDS;gene=N;product=N protein;protein_id=AKJ66260.1
+

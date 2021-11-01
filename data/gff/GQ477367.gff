@@ -1,0 +1,25 @@
+##sequence-region GQ477367.1 1 29363
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11153
+GQ477367.1	Genbank	region	1	29363	.	+	.	ID=GQ477367.1:1..29363;Dbxref=taxon:11153;collection-date=Nov-2008;country=Taiwan;gbkey=Src;genotype=type II;mol_type=genomic RNA;nat-host=dog;strain=CCoV/NTU336/F/2008
+GQ477367.1	Genbank	CDS	314	12328	.	+	0	ID=cds-ADB28906.1;Dbxref=NCBI_GP:ADB28906.1;Name=ADB28906.1;Note=translated as an extension of polyprotein 1a via -1 ribosomal frameshift;exception=ribosomal slippage;gbkey=CDS;product=ORF 1ab polyprotein;protein_id=ADB28906.1
+GQ477367.1	Genbank	CDS	12328	20364	.	+	0	ID=cds-ADB28906.1;Dbxref=NCBI_GP:ADB28906.1;Name=ADB28906.1;Note=translated as an extension of polyprotein 1a via -1 ribosomal frameshift;exception=ribosomal slippage;gbkey=CDS;product=ORF 1ab polyprotein;protein_id=ADB28906.1
+GQ477367.1	Genbank	CDS	314	12364	.	+	0	ID=cds-ADB28905.1;Dbxref=NCBI_GP:ADB28905.1;Name=ADB28905.1;gbkey=CDS;product=ORF1a polyprotein;protein_id=ADB28905.1
+GQ477367.1	Genbank	gene	20361	24734	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+GQ477367.1	Genbank	CDS	20361	24734	.	+	0	ID=cds-ADB28907.1;Parent=gene-S;Dbxref=NCBI_GP:ADB28907.1;Name=ADB28907.1;gbkey=CDS;gene=S;product=spike protein;protein_id=ADB28907.1
+GQ477367.1	Genbank	gene	24795	25031	.	+	.	ID=gene-ORF3a;Name=ORF3a;gbkey=Gene;gene=ORF3a;gene_biotype=protein_coding
+GQ477367.1	Genbank	CDS	24795	25031	.	+	0	ID=cds-ADB28908.1;Parent=gene-ORF3a;Dbxref=NCBI_GP:ADB28908.1;Name=ADB28908.1;gbkey=CDS;gene=ORF3a;product=non-structural protein 3a;protein_id=ADB28908.1
+GQ477367.1	Genbank	gene	24976	25191	.	+	.	ID=gene-ORF3b;Name=ORF3b;gbkey=Gene;gene=ORF3b;gene_biotype=protein_coding
+GQ477367.1	Genbank	CDS	24976	25191	.	+	0	ID=cds-ADB28909.1;Parent=gene-ORF3b;Dbxref=NCBI_GP:ADB28909.1;Name=ADB28909.1;gbkey=CDS;gene=ORF3b;product=non-structural protein 3b;protein_id=ADB28909.1
+GQ477367.1	Genbank	gene	25188	25922	.	+	.	ID=gene-ORF3c;Name=ORF3c;gbkey=Gene;gene=ORF3c;gene_biotype=protein_coding
+GQ477367.1	Genbank	CDS	25188	25922	.	+	0	ID=cds-ADB28910.1;Parent=gene-ORF3c;Dbxref=NCBI_GP:ADB28910.1;Name=ADB28910.1;gbkey=CDS;gene=ORF3c;product=non-structural protein 3c;protein_id=ADB28910.1
+GQ477367.1	Genbank	gene	25909	26157	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+GQ477367.1	Genbank	CDS	25909	26157	.	+	0	ID=cds-ADB28911.1;Parent=gene-E;Dbxref=NCBI_GP:ADB28911.1;Name=ADB28911.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=ADB28911.1
+GQ477367.1	Genbank	gene	26168	26971	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+GQ477367.1	Genbank	CDS	26168	26971	.	+	0	ID=cds-ADB28912.1;Parent=gene-M;Dbxref=NCBI_GP:ADB28912.1;Name=ADB28912.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=ADB28912.1
+GQ477367.1	Genbank	gene	26984	28132	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+GQ477367.1	Genbank	CDS	26984	28132	.	+	0	ID=cds-ADB28913.1;Parent=gene-N;Dbxref=NCBI_GP:ADB28913.1;Name=ADB28913.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=ADB28913.1
+GQ477367.1	Genbank	gene	28137	28442	.	+	.	ID=gene-ORF7a;Name=ORF7a;gbkey=Gene;gene=ORF7a;gene_biotype=protein_coding
+GQ477367.1	Genbank	CDS	28137	28442	.	+	0	ID=cds-ADB28914.1;Parent=gene-ORF7a;Dbxref=NCBI_GP:ADB28914.1;Name=ADB28914.1;gbkey=CDS;gene=ORF7a;product=non-structural protein 7a;protein_id=ADB28914.1
+GQ477367.1	Genbank	gene	28447	29088	.	+	.	ID=gene-ORF7b;Name=ORF7b;gbkey=Gene;gene=ORF7b;gene_biotype=protein_coding
+GQ477367.1	Genbank	CDS	28447	29088	.	+	0	ID=cds-ADB28915.1;Parent=gene-ORF7b;Dbxref=NCBI_GP:ADB28915.1;Name=ADB28915.1;gbkey=CDS;gene=ORF7b;product=non-structural protein 7b;protein_id=ADB28915.1
+

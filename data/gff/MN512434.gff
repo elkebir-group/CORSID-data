@@ -1,0 +1,33 @@
+##sequence-region MN512434.1 1 27710
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+MN512434.1	Genbank	region	1	27710	.	+	.	ID=MN512434.1:1..27710;Dbxref=taxon:11120;collection-date=2017;country=Canada;gbkey=Src;genome=genomic;isolate=IBV/Ck/Can/17-035614;mol_type=genomic RNA;nat-host=chicken
+MN512434.1	Genbank	five_prime_UTR	1	530	.	+	.	ID=id-MN512434.1:1..530;gbkey=5'UTR
+MN512434.1	Genbank	gene	531	20452	.	+	.	ID=gene-1ab;Name=1ab;gbkey=Gene;gene=1ab;gene_biotype=protein_coding
+MN512434.1	Genbank	CDS	531	12416	.	+	0	ID=cds-QGM12376.1;Parent=gene-1ab;Dbxref=NCBI_GP:QGM12376.1;Name=QGM12376.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=1ab polyprotein;protein_id=QGM12376.1
+MN512434.1	Genbank	CDS	12419	20452	.	+	0	ID=cds-QGM12376.1;Parent=gene-1ab;Dbxref=NCBI_GP:QGM12376.1;Name=QGM12376.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=1ab polyprotein;protein_id=QGM12376.1
+MN512434.1	Genbank	gene	531	12419	.	+	.	ID=gene-1a;Name=1a;gbkey=Gene;gene=1a;gene_biotype=protein_coding
+MN512434.1	Genbank	CDS	531	12419	.	+	0	ID=cds-QGM12377.1;Parent=gene-1a;Dbxref=NCBI_GP:QGM12377.1;Name=QGM12377.1;gbkey=CDS;gene=1a;product=1a polyprotein;protein_id=QGM12377.1
+MN512434.1	Genbank	gene	20403	23903	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MN512434.1	Genbank	CDS	20403	23903	.	+	0	ID=cds-QGM12378.1;Parent=gene-S;Dbxref=NCBI_GP:QGM12378.1;Name=QGM12378.1;gbkey=CDS;gene=S;product=spike glycoprotein;protein_id=QGM12378.1
+MN512434.1	Genbank	gene	23903	24076	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+MN512434.1	Genbank	CDS	23903	24076	.	+	0	ID=cds-QGM12379.1;Parent=gene-3a;Dbxref=NCBI_GP:QGM12379.1;Name=QGM12379.1;gbkey=CDS;gene=3a;product=3a protein;protein_id=QGM12379.1
+MN512434.1	Genbank	gene	24076	24270	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+MN512434.1	Genbank	CDS	24076	24270	.	+	0	ID=cds-QGM12380.1;Parent=gene-3b;Dbxref=NCBI_GP:QGM12380.1;Name=QGM12380.1;gbkey=CDS;gene=3b;product=3b protein;protein_id=QGM12380.1
+MN512434.1	Genbank	gene	24251	24580	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MN512434.1	Genbank	CDS	24251	24580	.	+	0	ID=cds-QGM12381.1;Parent=gene-E;Dbxref=NCBI_GP:QGM12381.1;Name=QGM12381.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=QGM12381.1
+MN512434.1	Genbank	gene	24552	25229	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MN512434.1	Genbank	CDS	24552	25229	.	+	0	ID=cds-QGM12382.1;Parent=gene-M;Dbxref=NCBI_GP:QGM12382.1;Name=QGM12382.1;gbkey=CDS;gene=M;product=membrane glycoprotein;protein_id=QGM12382.1
+MN512434.1	Genbank	gene	25230	25514	.	+	.	ID=gene-4b;Name=4b;gbkey=Gene;gene=4b;gene_biotype=protein_coding
+MN512434.1	Genbank	CDS	25230	25514	.	+	0	ID=cds-QGM12383.1;Parent=gene-4b;Dbxref=NCBI_GP:QGM12383.1;Name=QGM12383.1;gbkey=CDS;gene=4b;product=4b protein;protein_id=QGM12383.1
+MN512434.1	Genbank	gene	25435	25605	.	+	.	ID=gene-4c;Name=4c;gbkey=Gene;gene=4c;gene_biotype=protein_coding
+MN512434.1	Genbank	CDS	25435	25605	.	+	0	ID=cds-QGM12384.1;Parent=gene-4c;Dbxref=NCBI_GP:QGM12384.1;Name=QGM12384.1;gbkey=CDS;gene=4c;product=4c protein;protein_id=QGM12384.1
+MN512434.1	Genbank	gene	25589	25786	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+MN512434.1	Genbank	CDS	25589	25786	.	+	0	ID=cds-QGM12385.1;Parent=gene-5a;Dbxref=NCBI_GP:QGM12385.1;Name=QGM12385.1;gbkey=CDS;gene=5a;product=5a protein;protein_id=QGM12385.1
+MN512434.1	Genbank	gene	25783	26031	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+MN512434.1	Genbank	CDS	25783	26031	.	+	0	ID=cds-QGM12386.1;Parent=gene-5b;Dbxref=NCBI_GP:QGM12386.1;Name=QGM12386.1;gbkey=CDS;gene=5b;product=5b protein;protein_id=QGM12386.1
+MN512434.1	Genbank	gene	25974	27203	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MN512434.1	Genbank	CDS	25974	27203	.	+	0	ID=cds-QGM12387.1;Parent=gene-N;Dbxref=NCBI_GP:QGM12387.1;Name=QGM12387.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=QGM12387.1
+MN512434.1	Genbank	gene	27212	27436	.	+	.	ID=gene-6b;Name=6b;gbkey=Gene;gene=6b;gene_biotype=protein_coding
+MN512434.1	Genbank	CDS	27212	27436	.	+	0	ID=cds-QGM12388.1;Parent=gene-6b;Dbxref=NCBI_GP:QGM12388.1;Name=QGM12388.1;gbkey=CDS;gene=6b;product=6b protein;protein_id=QGM12388.1
+MN512434.1	Genbank	three_prime_UTR	27437	27710	.	+	.	ID=id-MN512434.1:27437..27710;gbkey=3'UTR
+

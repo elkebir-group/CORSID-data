@@ -1,0 +1,20 @@
+##sequence-region NC_032107.1 1 28363
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1920748
+NC_032107.1	RefSeq	region	1	28363	.	+	.	ID=NC_032107.1:1..28363;Dbxref=taxon:1920748;collection-date=21-Jun-2010;country=Kenya;gbkey=Src;genome=genomic;isolation-source=fecal swab;mol_type=genomic RNA;nat-host=Triaenops afer;strain=BtKYNL63-9a
+NC_032107.1	RefSeq	gene	242	20517	.	+	.	ID=gene-BTU58_gp1;Dbxref=GeneID:30522877;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding;locus_tag=BTU58_gp1
+NC_032107.1	RefSeq	CDS	242	12472	.	+	0	ID=cds-YP_009328933.1;Parent=gene-BTU58_gp1;Dbxref=Genbank:YP_009328933.1,GeneID:30522877;Name=YP_009328933.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;locus_tag=BTU58_gp1;product=ORF1ab protein;protein_id=YP_009328933.1
+NC_032107.1	RefSeq	CDS	12472	20517	.	+	0	ID=cds-YP_009328933.1;Parent=gene-BTU58_gp1;Dbxref=Genbank:YP_009328933.1,GeneID:30522877;Name=YP_009328933.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;locus_tag=BTU58_gp1;product=ORF1ab protein;protein_id=YP_009328933.1
+NC_032107.1	RefSeq	CDS	242	12502	.	+	0	ID=cds-YP_009328934.1;Parent=gene-BTU58_gp1;Dbxref=Genbank:YP_009328934.1,GeneID:30522877;Name=YP_009328934.1;gbkey=CDS;gene=orf1ab;locus_tag=BTU58_gp1;product=ORF1a protein;protein_id=YP_009328934.1
+NC_032107.1	RefSeq	gene	20514	24632	.	+	.	ID=gene-BTU58_gp2;Dbxref=GeneID:30522871;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding;locus_tag=BTU58_gp2
+NC_032107.1	RefSeq	CDS	20514	24632	.	+	0	ID=cds-YP_009328935.1;Parent=gene-BTU58_gp2;Dbxref=Genbank:YP_009328935.1,GeneID:30522871;Name=YP_009328935.1;gbkey=CDS;gene=S;locus_tag=BTU58_gp2;product=S protein;protein_id=YP_009328935.1
+NC_032107.1	RefSeq	gene	24632	25315	.	+	.	ID=gene-BTU58_gp3;Dbxref=GeneID:30522872;Name=ORF3;gbkey=Gene;gene=ORF3;gene_biotype=protein_coding;locus_tag=BTU58_gp3
+NC_032107.1	RefSeq	CDS	24632	25315	.	+	0	ID=cds-YP_009328936.1;Parent=gene-BTU58_gp3;Dbxref=Genbank:YP_009328936.1,GeneID:30522872;Name=YP_009328936.1;gbkey=CDS;gene=ORF3;locus_tag=BTU58_gp3;product=ORF3 protein;protein_id=YP_009328936.1
+NC_032107.1	RefSeq	gene	25296	25529	.	+	.	ID=gene-BTU58_gp4;Dbxref=GeneID:30522873;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding;locus_tag=BTU58_gp4
+NC_032107.1	RefSeq	CDS	25296	25529	.	+	0	ID=cds-YP_009328937.1;Parent=gene-BTU58_gp4;Dbxref=Genbank:YP_009328937.1,GeneID:30522873;Name=YP_009328937.1;gbkey=CDS;gene=E;locus_tag=BTU58_gp4;product=E protein;protein_id=YP_009328937.1
+NC_032107.1	RefSeq	gene	25538	26230	.	+	.	ID=gene-BTU58_gp5;Dbxref=GeneID:30522874;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding;locus_tag=BTU58_gp5
+NC_032107.1	RefSeq	CDS	25538	26230	.	+	0	ID=cds-YP_009328938.1;Parent=gene-BTU58_gp5;Dbxref=Genbank:YP_009328938.1,GeneID:30522874;Name=YP_009328938.1;gbkey=CDS;gene=M;locus_tag=BTU58_gp5;product=M protein;protein_id=YP_009328938.1
+NC_032107.1	RefSeq	gene	26241	27464	.	+	.	ID=gene-BTU58_gp6;Dbxref=GeneID:30522875;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding;locus_tag=BTU58_gp6
+NC_032107.1	RefSeq	CDS	26241	27464	.	+	0	ID=cds-YP_009328939.1;Parent=gene-BTU58_gp6;Dbxref=Genbank:YP_009328939.1,GeneID:30522875;Name=YP_009328939.1;gbkey=CDS;gene=N;locus_tag=BTU58_gp6;product=N protein;protein_id=YP_009328939.1
+NC_032107.1	RefSeq	gene	27927	28214	.	+	.	ID=gene-BTU58_gp7;Dbxref=GeneID:30522876;Name=ORFx;gbkey=Gene;gene=ORFx;gene_biotype=protein_coding;locus_tag=BTU58_gp7
+NC_032107.1	RefSeq	CDS	27927	28214	.	+	0	ID=cds-YP_009328940.1;Parent=gene-BTU58_gp7;Dbxref=Genbank:YP_009328940.1,GeneID:30522876;Name=YP_009328940.1;gbkey=CDS;gene=ORFx;locus_tag=BTU58_gp7;product=ORFx protein;protein_id=YP_009328940.1
+

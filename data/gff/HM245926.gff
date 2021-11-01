@@ -1,0 +1,15 @@
+##sequence-region HM245926.1 1 28915
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=766792
+HM245926.1	Genbank	region	1	28915	.	+	.	ID=HM245926.1:1..28915;Dbxref=taxon:766792;collection-date=01-Jan-1998;country=USA: Minnesota;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Mustela vison;strain=WD1133
+HM245926.1	Genbank	CDS	273	12251	.	+	0	ID=cds-ADI80522.1;Dbxref=NCBI_GP:ADI80522.1;Name=ADI80522.1;exception=ribosomal slippage;gbkey=CDS;product=orf1ab polyprotein;protein_id=ADI80522.1
+HM245926.1	Genbank	CDS	12251	20284	.	+	0	ID=cds-ADI80522.1;Dbxref=NCBI_GP:ADI80522.1;Name=ADI80522.1;exception=ribosomal slippage;gbkey=CDS;product=orf1ab polyprotein;protein_id=ADI80522.1
+HM245926.1	Genbank	CDS	273	12293	.	+	0	ID=cds-ADI80521.1;Dbxref=NCBI_GP:ADI80521.1;Name=ADI80521.1;gbkey=CDS;product=orf1a polyprotein;protein_id=ADI80521.1
+HM245926.1	Genbank	CDS	20277	24566	.	+	0	ID=cds-ADI80523.1;Dbxref=NCBI_GP:ADI80523.1;Name=ADI80523.1;gbkey=CDS;product=spike protein;protein_id=ADI80523.1
+HM245926.1	Genbank	sequence_feature	24584	25320	.	+	.	ID=id-HM245926.1:24584..25320;Note=nonfunctional non-structural protein 3C due to mutation;gbkey=misc_feature
+HM245926.1	Genbank	CDS	25299	25547	.	+	0	ID=cds-ADI80524.1;Dbxref=NCBI_GP:ADI80524.1;Name=ADI80524.1;gbkey=CDS;product=envelope protein;protein_id=ADI80524.1
+HM245926.1	Genbank	CDS	25564	26370	.	+	0	ID=cds-ADI80525.1;Dbxref=NCBI_GP:ADI80525.1;Name=ADI80525.1;gbkey=CDS;product=membrane protein;protein_id=ADI80525.1
+HM245926.1	Genbank	CDS	26385	27515	.	+	0	ID=cds-ADI80526.1;Dbxref=NCBI_GP:ADI80526.1;Name=ADI80526.1;gbkey=CDS;product=nucleocapsid protein;protein_id=ADI80526.1
+HM245926.1	Genbank	CDS	27520	27816	.	+	0	ID=cds-ADI80527.1;Dbxref=NCBI_GP:ADI80527.1;Name=ADI80527.1;gbkey=CDS;product=non-structural protein 7a;protein_id=ADI80527.1
+HM245926.1	Genbank	CDS	27801	28022	.	+	0	ID=cds-ADI80528.1;Dbxref=NCBI_GP:ADI80528.1;Name=ADI80528.1;gbkey=CDS;product=hypothetical protein;protein_id=ADI80528.1
+HM245926.1	Genbank	CDS	27964	28578	.	+	0	ID=cds-ADI80529.1;Dbxref=NCBI_GP:ADI80529.1;Name=ADI80529.1;gbkey=CDS;product=hypothetical protein orf7b;protein_id=ADI80529.1
+

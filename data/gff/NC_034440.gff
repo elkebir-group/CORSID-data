@@ -1,0 +1,24 @@
+##sequence-region NC_034440.1 1 29642
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1508220
+NC_034440.1	RefSeq	region	1	29642	.	+	.	ID=NC_034440.1:1..29642;Dbxref=taxon:1508220;collection-date=20-Feb-2013;country=Uganda;gbkey=Src;genome=genomic;isolate=PREDICT/PDF-2180;isolation-source=rectal swab;lat-lon=1.12 S 29.68 E;mol_type=genomic RNA;nat-host=Pipistrellus cf. hesperidus%3B specimen voucher: OTBA03-20130220;note=USAID PREDICT Consortium
+NC_034440.1	RefSeq	gene	61	13227	.	+	.	ID=gene-CAU86_gp01;Dbxref=GeneID:37627558;Name=ORF1a;gbkey=Gene;gene=ORF1a;gene_biotype=protein_coding;locus_tag=CAU86_gp01
+NC_034440.1	RefSeq	CDS	61	13227	.	+	0	ID=cds-YP_009361855.1;Parent=gene-CAU86_gp01;Dbxref=Genbank:YP_009361855.1,GeneID:37627558;Name=YP_009361855.1;gbkey=CDS;gene=ORF1a;locus_tag=CAU86_gp01;product=ORF1a protein;protein_id=YP_009361855.1
+NC_034440.1	RefSeq	gene	13416	21290	.	+	.	ID=gene-CAU86_gp02;Dbxref=GeneID:37627555;Name=ORF1b;gbkey=Gene;gene=ORF1b;gene_biotype=protein_coding;locus_tag=CAU86_gp02
+NC_034440.1	RefSeq	CDS	13416	21290	.	+	0	ID=cds-YP_009361856.1;Parent=gene-CAU86_gp02;Dbxref=Genbank:YP_009361856.1,GeneID:37627555;Name=YP_009361856.1;gbkey=CDS;gene=ORF1b;locus_tag=CAU86_gp02;product=ORF1b protein;protein_id=YP_009361856.1
+NC_034440.1	RefSeq	gene	21232	25269	.	+	.	ID=gene-CAU86_gp03;Dbxref=GeneID:37627554;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding;locus_tag=CAU86_gp03
+NC_034440.1	RefSeq	CDS	21232	25269	.	+	0	ID=cds-YP_009361857.1;Parent=gene-CAU86_gp03;Dbxref=Genbank:YP_009361857.1,GeneID:37627554;Name=YP_009361857.1;gbkey=CDS;gene=S;locus_tag=CAU86_gp03;product=spike glycoprotein;protein_id=YP_009361857.1
+NC_034440.1	RefSeq	gene	25284	25589	.	+	.	ID=gene-CAU86_gp04;Dbxref=GeneID:37627553;Name=ORF3;gbkey=Gene;gene=ORF3;gene_biotype=protein_coding;locus_tag=CAU86_gp04
+NC_034440.1	RefSeq	CDS	25284	25589	.	+	0	ID=cds-YP_009361858.1;Parent=gene-CAU86_gp04;Dbxref=Genbank:YP_009361858.1,GeneID:37627553;Name=YP_009361858.1;gbkey=CDS;gene=ORF3;locus_tag=CAU86_gp04;product=ORF3 protein;protein_id=YP_009361858.1
+NC_034440.1	RefSeq	gene	25598	25927	.	+	.	ID=gene-CAU86_gp05;Dbxref=GeneID:37627559;Name=ORF4a;gbkey=Gene;gene=ORF4a;gene_biotype=protein_coding;locus_tag=CAU86_gp05
+NC_034440.1	RefSeq	CDS	25598	25927	.	+	0	ID=cds-YP_009361859.1;Parent=gene-CAU86_gp05;Dbxref=Genbank:YP_009361859.1,GeneID:37627559;Name=YP_009361859.1;gbkey=CDS;gene=ORF4a;locus_tag=CAU86_gp05;product=ORF4a protein;protein_id=YP_009361859.1
+NC_034440.1	RefSeq	gene	25803	26579	.	+	.	ID=gene-CAU86_gp06;Dbxref=GeneID:37627560;Name=ORF4b;gbkey=Gene;gene=ORF4b;gene_biotype=protein_coding;locus_tag=CAU86_gp06
+NC_034440.1	RefSeq	CDS	25803	26579	.	+	0	ID=cds-YP_009361860.1;Parent=gene-CAU86_gp06;Dbxref=Genbank:YP_009361860.1,GeneID:37627560;Name=YP_009361860.1;gbkey=CDS;gene=ORF4b;locus_tag=CAU86_gp06;product=ORF4b protein;protein_id=YP_009361860.1
+NC_034440.1	RefSeq	gene	26586	27263	.	+	.	ID=gene-CAU86_gp07;Dbxref=GeneID:37627562;Name=ORF5;gbkey=Gene;gene=ORF5;gene_biotype=protein_coding;locus_tag=CAU86_gp07
+NC_034440.1	RefSeq	CDS	26586	27263	.	+	0	ID=cds-YP_009361861.1;Parent=gene-CAU86_gp07;Dbxref=Genbank:YP_009361861.1,GeneID:37627562;Name=YP_009361861.1;gbkey=CDS;gene=ORF5;locus_tag=CAU86_gp07;product=ORF5 protein;protein_id=YP_009361861.1
+NC_034440.1	RefSeq	gene	27342	27590	.	+	.	ID=gene-CAU86_gp08;Dbxref=GeneID:37627561;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding;locus_tag=CAU86_gp08
+NC_034440.1	RefSeq	CDS	27342	27590	.	+	0	ID=cds-YP_009361862.1;Parent=gene-CAU86_gp08;Dbxref=Genbank:YP_009361862.1,GeneID:37627561;Name=YP_009361862.1;gbkey=CDS;gene=E;locus_tag=CAU86_gp08;product=small envelope protein;protein_id=YP_009361862.1
+NC_034440.1	RefSeq	gene	27605	28264	.	+	.	ID=gene-CAU86_gp09;Dbxref=GeneID:37627556;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding;locus_tag=CAU86_gp09
+NC_034440.1	RefSeq	CDS	27605	28264	.	+	0	ID=cds-YP_009361863.1;Parent=gene-CAU86_gp09;Dbxref=Genbank:YP_009361863.1,GeneID:37627556;Name=YP_009361863.1;gbkey=CDS;gene=M;locus_tag=CAU86_gp09;product=membrane glycoprotein;protein_id=YP_009361863.1
+NC_034440.1	RefSeq	gene	28311	29558	.	+	.	ID=gene-CAU86_gp10;Dbxref=GeneID:37627557;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding;locus_tag=CAU86_gp10
+NC_034440.1	RefSeq	CDS	28311	29558	.	+	0	ID=cds-YP_009361864.1;Parent=gene-CAU86_gp10;Dbxref=Genbank:YP_009361864.1,GeneID:37627557;Name=YP_009361864.1;gbkey=CDS;gene=N;locus_tag=CAU86_gp10;product=nucleocapsid phosphoprotein;protein_id=YP_009361864.1
+

@@ -1,0 +1,23 @@
+##sequence-region MG448607.1 1 27675
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+MG448607.1	Genbank	region	1	27675	.	+	.	ID=MG448607.1:1..27675;Dbxref=taxon:11120;collection-date=2012;country=China;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Gallus gallus;strain=ck/CH/LHB/121042
+MG448607.1	Genbank	gene	533	20469	.	+	.	ID=gene-1ab;Name=1ab;gbkey=Gene;gene=1ab;gene_biotype=protein_coding
+MG448607.1	Genbank	CDS	533	12412	.	+	0	ID=cds-AVI69518.1;Parent=gene-1ab;Dbxref=NCBI_GP:AVI69518.1;Name=AVI69518.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=ORF1ab protein;protein_id=AVI69518.1
+MG448607.1	Genbank	CDS	12412	20469	.	+	0	ID=cds-AVI69518.1;Parent=gene-1ab;Dbxref=NCBI_GP:AVI69518.1;Name=AVI69518.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=ORF1ab protein;protein_id=AVI69518.1
+MG448607.1	Genbank	gene	20420	23911	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MG448607.1	Genbank	CDS	20420	23911	.	+	0	ID=cds-AVI69519.1;Parent=gene-S;Dbxref=NCBI_GP:AVI69519.1;Name=AVI69519.1;gbkey=CDS;gene=S;product=spike protein;protein_id=AVI69519.1
+MG448607.1	Genbank	gene	23911	24084	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+MG448607.1	Genbank	CDS	23911	24084	.	+	0	ID=cds-AVI69520.1;Parent=gene-3a;Dbxref=NCBI_GP:AVI69520.1;Name=AVI69520.1;gbkey=CDS;gene=3a;product=3a protein;protein_id=AVI69520.1
+MG448607.1	Genbank	gene	24084	24278	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+MG448607.1	Genbank	CDS	24084	24278	.	+	0	ID=cds-AVI69521.1;Parent=gene-3b;Dbxref=NCBI_GP:AVI69521.1;Name=AVI69521.1;gbkey=CDS;gene=3b;product=3b protein;protein_id=AVI69521.1
+MG448607.1	Genbank	gene	24259	24588	.	+	.	ID=gene-3c;Name=3c;gbkey=Gene;gene=3c;gene_biotype=protein_coding
+MG448607.1	Genbank	CDS	24259	24588	.	+	0	ID=cds-AVI69522.1;Parent=gene-3c;Dbxref=NCBI_GP:AVI69522.1;Name=AVI69522.1;gbkey=CDS;gene=3c;product=3c protein;protein_id=AVI69522.1
+MG448607.1	Genbank	gene	24560	25237	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MG448607.1	Genbank	CDS	24560	25237	.	+	0	ID=cds-AVI69523.1;Parent=gene-M;Dbxref=NCBI_GP:AVI69523.1;Name=AVI69523.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=AVI69523.1
+MG448607.1	Genbank	gene	25596	25793	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+MG448607.1	Genbank	CDS	25596	25793	.	+	0	ID=cds-AVI69524.1;Parent=gene-5a;Dbxref=NCBI_GP:AVI69524.1;Name=AVI69524.1;gbkey=CDS;gene=5a;product=5a protein;protein_id=AVI69524.1
+MG448607.1	Genbank	gene	25790	26038	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+MG448607.1	Genbank	CDS	25790	26038	.	+	0	ID=cds-AVI69525.1;Parent=gene-5b;Dbxref=NCBI_GP:AVI69525.1;Name=AVI69525.1;gbkey=CDS;gene=5b;product=5b protein;protein_id=AVI69525.1
+MG448607.1	Genbank	gene	25981	27210	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MG448607.1	Genbank	CDS	25981	27210	.	+	0	ID=cds-AVI69526.1;Parent=gene-N;Dbxref=NCBI_GP:AVI69526.1;Name=AVI69526.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=AVI69526.1
+

@@ -1,0 +1,23 @@
+##sequence-region KX302867.1 1 27701
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+KX302867.1	Genbank	region	1	27701	.	+	.	ID=KX302867.1:1..27701;Dbxref=taxon:11120;collection-date=2015;country=China;gbkey=Src;genome=genomic;genotype=LX4;mol_type=genomic RNA;nat-host=Gallus gallus;strain=ck/CH/LJL/150430
+KX302867.1	Genbank	gene	530	20433	.	+	.	ID=gene-1ab;Name=1ab;gbkey=Gene;gene=1ab;gene_biotype=protein_coding
+KX302867.1	Genbank	CDS	530	12370	.	+	0	ID=cds-APZ73714.1;Parent=gene-1ab;Dbxref=NCBI_GP:APZ73714.1;Name=APZ73714.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=ORF1ab;protein_id=APZ73714.1
+KX302867.1	Genbank	CDS	12370	20433	.	+	0	ID=cds-APZ73714.1;Parent=gene-1ab;Dbxref=NCBI_GP:APZ73714.1;Name=APZ73714.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=ORF1ab;protein_id=APZ73714.1
+KX302867.1	Genbank	gene	20384	23881	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KX302867.1	Genbank	CDS	20384	23881	.	+	0	ID=cds-APZ73715.1;Parent=gene-S;Dbxref=NCBI_GP:APZ73715.1;Name=APZ73715.1;gbkey=CDS;gene=S;product=spike protein;protein_id=APZ73715.1
+KX302867.1	Genbank	gene	23881	24054	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+KX302867.1	Genbank	CDS	23881	24054	.	+	0	ID=cds-APZ73716.1;Parent=gene-3a;Dbxref=NCBI_GP:APZ73716.1;Name=APZ73716.1;gbkey=CDS;gene=3a;product=ORF3a;protein_id=APZ73716.1
+KX302867.1	Genbank	gene	24054	24242	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+KX302867.1	Genbank	CDS	24054	24242	.	+	0	ID=cds-APZ73717.1;Parent=gene-3b;Dbxref=NCBI_GP:APZ73717.1;Name=APZ73717.1;gbkey=CDS;gene=3b;product=ORF3b;protein_id=APZ73717.1
+KX302867.1	Genbank	gene	24229	24555	.	+	.	ID=gene-3c;Name=3c;gbkey=Gene;gene=3c;gene_biotype=protein_coding
+KX302867.1	Genbank	CDS	24229	24555	.	+	0	ID=cds-APZ73718.1;Parent=gene-3c;Dbxref=NCBI_GP:APZ73718.1;Name=APZ73718.1;gbkey=CDS;gene=3c;product=ORF3c;protein_id=APZ73718.1
+KX302867.1	Genbank	gene	24527	25204	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KX302867.1	Genbank	CDS	24527	25204	.	+	0	ID=cds-APZ73719.1;Parent=gene-M;Dbxref=NCBI_GP:APZ73719.1;Name=APZ73719.1;gbkey=CDS;gene=M;product=M protein;protein_id=APZ73719.1
+KX302867.1	Genbank	gene	25568	25765	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+KX302867.1	Genbank	CDS	25568	25765	.	+	0	ID=cds-APZ73720.1;Parent=gene-5a;Dbxref=NCBI_GP:APZ73720.1;Name=APZ73720.1;gbkey=CDS;gene=5a;product=ORF5a;protein_id=APZ73720.1
+KX302867.1	Genbank	gene	25762	26010	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+KX302867.1	Genbank	CDS	25762	26010	.	+	0	ID=cds-APZ73721.1;Parent=gene-5b;Dbxref=NCBI_GP:APZ73721.1;Name=APZ73721.1;gbkey=CDS;gene=5b;product=ORF5b;protein_id=APZ73721.1
+KX302867.1	Genbank	gene	25953	27182	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KX302867.1	Genbank	CDS	25953	27182	.	+	0	ID=cds-APZ73722.1;Parent=gene-N;Dbxref=NCBI_GP:APZ73722.1;Name=APZ73722.1;gbkey=CDS;gene=N;product=N protein;protein_id=APZ73722.1
+

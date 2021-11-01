@@ -1,0 +1,23 @@
+##sequence-region KY799582.1 1 27672
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+KY799582.1	Genbank	region	1	27672	.	+	.	ID=KY799582.1:1..27672;Dbxref=taxon:11120;country=China;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Gallus gallus;strain=ck/CH/LSC/99I
+KY799582.1	Genbank	gene	526	20417	.	+	.	ID=gene-1ab;Name=1ab;gbkey=Gene;gene=1ab;gene_biotype=protein_coding
+KY799582.1	Genbank	CDS	526	12354	.	+	0	ID=cds-AVI69484.1;Parent=gene-1ab;Dbxref=NCBI_GP:AVI69484.1;Name=AVI69484.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=ORF1ab protein;protein_id=AVI69484.1
+KY799582.1	Genbank	CDS	12354	20417	.	+	0	ID=cds-AVI69484.1;Parent=gene-1ab;Dbxref=NCBI_GP:AVI69484.1;Name=AVI69484.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=ORF1ab protein;protein_id=AVI69484.1
+KY799582.1	Genbank	gene	20368	23871	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KY799582.1	Genbank	CDS	20368	23871	.	+	0	ID=cds-AVI69485.1;Parent=gene-S;Dbxref=NCBI_GP:AVI69485.1;Name=AVI69485.1;gbkey=CDS;gene=S;product=spike protein;protein_id=AVI69485.1
+KY799582.1	Genbank	gene	23871	24044	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+KY799582.1	Genbank	CDS	23871	24044	.	+	0	ID=cds-AVI69486.1;Parent=gene-3a;Dbxref=NCBI_GP:AVI69486.1;Name=AVI69486.1;gbkey=CDS;gene=3a;product=3a protein;protein_id=AVI69486.1
+KY799582.1	Genbank	gene	24044	24232	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+KY799582.1	Genbank	CDS	24044	24232	.	+	0	ID=cds-AVI69487.1;Parent=gene-3b;Dbxref=NCBI_GP:AVI69487.1;Name=AVI69487.1;gbkey=CDS;gene=3b;product=3b protein;protein_id=AVI69487.1
+KY799582.1	Genbank	gene	24216	24542	.	+	.	ID=gene-3c;Name=3c;gbkey=Gene;gene=3c;gene_biotype=protein_coding
+KY799582.1	Genbank	CDS	24216	24542	.	+	0	ID=cds-AVI69488.1;Parent=gene-3c;Dbxref=NCBI_GP:AVI69488.1;Name=AVI69488.1;gbkey=CDS;gene=3c;product=3c protein;protein_id=AVI69488.1
+KY799582.1	Genbank	gene	24514	25191	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KY799582.1	Genbank	CDS	24514	25191	.	+	0	ID=cds-AVI69489.1;Parent=gene-M;Dbxref=NCBI_GP:AVI69489.1;Name=AVI69489.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=AVI69489.1
+KY799582.1	Genbank	gene	25545	25742	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+KY799582.1	Genbank	CDS	25545	25742	.	+	0	ID=cds-AVI69490.1;Parent=gene-5a;Dbxref=NCBI_GP:AVI69490.1;Name=AVI69490.1;gbkey=CDS;gene=5a;product=5a protein;protein_id=AVI69490.1
+KY799582.1	Genbank	gene	25739	25987	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+KY799582.1	Genbank	CDS	25739	25987	.	+	0	ID=cds-AVI69491.1;Parent=gene-5b;Dbxref=NCBI_GP:AVI69491.1;Name=AVI69491.1;gbkey=CDS;gene=5b;product=5b protein;protein_id=AVI69491.1
+KY799582.1	Genbank	gene	25930	27159	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KY799582.1	Genbank	CDS	25930	27159	.	+	0	ID=cds-AVI69492.1;Parent=gene-N;Dbxref=NCBI_GP:AVI69492.1;Name=AVI69492.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=AVI69492.1
+

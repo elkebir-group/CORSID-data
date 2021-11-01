@@ -1,0 +1,8 @@
+##sequence-region KX998969.1 1 25415
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1586324
+KX998969.1	Genbank	region	1	25415	.	+	.	ID=KX998969.1:1..25415;Dbxref=taxon:1586324;collection-date=Dec-2015;country=Viet Nam: Southern;gbkey=Src;isolate=P29_15_VN_1215;mol_type=genomic RNA;nat-host=pig
+KX998969.1	Genbank	CDS	19309	22791	.	+	0	ID=cds-ATP16467.1;Dbxref=NCBI_GP:ATP16467.1;Name=ATP16467.1;gbkey=CDS;product=spike protein;protein_id=ATP16467.1
+KX998969.1	Genbank	CDS	22785	23036	.	+	0	ID=cds-ATP16464.1;Dbxref=NCBI_GP:ATP16464.1;Name=ATP16464.1;gbkey=CDS;product=envelope protein;protein_id=ATP16464.1
+KX998969.1	Genbank	CDS	23029	23682	.	+	0	ID=cds-ATP16465.1;Dbxref=NCBI_GP:ATP16465.1;Name=ATP16465.1;gbkey=CDS;product=membrane protein;protein_id=ATP16465.1
+KX998969.1	Genbank	CDS	23987	25015	.	+	0	ID=cds-ATP16466.1;Dbxref=NCBI_GP:ATP16466.1;Name=ATP16466.1;gbkey=CDS;product=nucleocapsid protein;protein_id=ATP16466.1
+

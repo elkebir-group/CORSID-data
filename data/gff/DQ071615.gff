@@ -1,0 +1,18 @@
+##sequence-region DQ071615.1 1 29736
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=349344
+DQ071615.1	Genbank	region	1	29736	.	+	.	ID=DQ071615.1:1..29736;Dbxref=taxon:349344;country=China;gbkey=Src;isolate=Rp3;mol_type=genomic RNA;nat-host=bat;old-name=Bat SARS coronavirus Rp3
+DQ071615.1	Genbank	CDS	265	13407	.	+	0	ID=cds-AAZ67050.1;Dbxref=NCBI_GP:AAZ67050.1;Name=AAZ67050.1;gbkey=CDS;product=polymerase 1a;protein_id=AAZ67050.1
+DQ071615.1	Genbank	CDS	13593	21479	.	+	0	ID=cds-AAZ67051.1;Dbxref=NCBI_GP:AAZ67051.1;Name=AAZ67051.1;gbkey=CDS;product=polymerase 1b;protein_id=AAZ67051.1
+DQ071615.1	Genbank	CDS	21486	25211	.	+	0	ID=cds-AAZ67052.1;Dbxref=NCBI_GP:AAZ67052.1;Name=AAZ67052.1;gbkey=CDS;product=spike protein;protein_id=AAZ67052.1
+DQ071615.1	Genbank	CDS	25221	26045	.	+	0	ID=cds-AAZ67053.1;Dbxref=NCBI_GP:AAZ67053.1;Name=AAZ67053.1;gbkey=CDS;product=ORF3;protein_id=AAZ67053.1
+DQ071615.1	Genbank	CDS	26070	26300	.	+	0	ID=cds-AAZ67054.1;Dbxref=NCBI_GP:AAZ67054.1;Name=AAZ67054.1;gbkey=CDS;product=small envelope E protein;protein_id=AAZ67054.1
+DQ071615.1	Genbank	CDS	26351	27016	.	+	0	ID=cds-AAZ67055.1;Dbxref=NCBI_GP:AAZ67055.1;Name=AAZ67055.1;gbkey=CDS;product=membrane glycoprotein M;protein_id=AAZ67055.1
+DQ071615.1	Genbank	CDS	27027	27218	.	+	0	ID=cds-AAZ67056.1;Dbxref=NCBI_GP:AAZ67056.1;Name=AAZ67056.1;gbkey=CDS;product=ORF7;protein_id=AAZ67056.1
+DQ071615.1	Genbank	CDS	27226	27594	.	+	0	ID=cds-AAZ67057.1;Dbxref=NCBI_GP:AAZ67057.1;Name=AAZ67057.1;gbkey=CDS;product=ORF8;protein_id=AAZ67057.1
+DQ071615.1	Genbank	CDS	27591	27725	.	+	0	ID=cds-AAZ67058.1;Dbxref=NCBI_GP:AAZ67058.1;Name=AAZ67058.1;gbkey=CDS;product=ORF9;protein_id=AAZ67058.1
+DQ071615.1	Genbank	CDS	27732	28097	.	+	0	ID=cds-AAZ67059.1;Dbxref=NCBI_GP:AAZ67059.1;Name=AAZ67059.1;gbkey=CDS;product=ORF10';protein_id=AAZ67059.1
+DQ071615.1	Genbank	gene	28112	29377	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+DQ071615.1	Genbank	CDS	28112	29377	.	+	0	ID=cds-AAZ67049.1;Parent=gene-N;Dbxref=NCBI_GP:AAZ67049.1;Name=AAZ67049.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=AAZ67049.1
+DQ071615.1	Genbank	CDS	28122	28415	.	+	0	ID=cds-AAZ67060.1;Dbxref=NCBI_GP:AAZ67060.1;Name=AAZ67060.1;gbkey=CDS;product=ORF13;protein_id=AAZ67060.1
+DQ071615.1	Genbank	CDS	28572	28784	.	+	0	ID=cds-AAZ67061.1;Dbxref=NCBI_GP:AAZ67061.1;Name=AAZ67061.1;gbkey=CDS;product=ORF14;protein_id=AAZ67061.1
+

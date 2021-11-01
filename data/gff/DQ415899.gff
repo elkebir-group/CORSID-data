@@ -1,0 +1,21 @@
+##sequence-region DQ415899.1 1 29905
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=290028
+DQ415899.1	Genbank	region	1	29905	.	+	.	ID=DQ415899.1:1..29905;Dbxref=taxon:290028;country=China: Hong Kong;gb-acronym=HCoV-HKU1;gbkey=Src;genome=genomic;genotype=C;isolation-source=nasopharyngeal aspirates of patients diagnosed respiratory tract infection diseases;mol_type=genomic RNA;strain=N22
+DQ415899.1	Genbank	gene	200	21747	.	+	.	ID=gene-orf1ab;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding
+DQ415899.1	Genbank	CDS	200	13594	.	+	0	ID=cds-ABD75527.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:ABD75527.1;Name=ABD75527.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab polyprotein;protein_id=ABD75527.1
+DQ415899.1	Genbank	CDS	13594	21747	.	+	0	ID=cds-ABD75527.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:ABD75527.1;Name=ABD75527.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab polyprotein;protein_id=ABD75527.1
+DQ415899.1	Genbank	gene	21780	22937	.	+	.	ID=gene-HE;Name=HE;gbkey=Gene;gene=HE;gene_biotype=protein_coding
+DQ415899.1	Genbank	CDS	21780	22937	.	+	0	ID=cds-ABD75520.1;Parent=gene-HE;Dbxref=NCBI_GP:ABD75520.1;Name=ABD75520.1;gbkey=CDS;gene=HE;product=hemagglutinin-esterase glycoprotein;protein_id=ABD75520.1
+DQ415899.1	Genbank	gene	22952	27007	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+DQ415899.1	Genbank	CDS	22952	27007	.	+	0	ID=cds-ABD75521.1;Parent=gene-S;Dbxref=NCBI_GP:ABD75521.1;Name=ABD75521.1;gbkey=CDS;gene=S;product=spike glycoprotein;protein_id=ABD75521.1
+DQ415899.1	Genbank	gene	27030	27359	.	+	.	ID=gene-orf4;Name=orf4;gbkey=Gene;gene=orf4;gene_biotype=protein_coding
+DQ415899.1	Genbank	CDS	27030	27359	.	+	0	ID=cds-ABD75522.1;Parent=gene-orf4;Dbxref=NCBI_GP:ABD75522.1;Name=ABD75522.1;gbkey=CDS;gene=orf4;product=hypothetical protein;protein_id=ABD75522.1
+DQ415899.1	Genbank	gene	27352	27600	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+DQ415899.1	Genbank	CDS	27352	27600	.	+	0	ID=cds-ABD75523.1;Parent=gene-E;Dbxref=NCBI_GP:ABD75523.1;Name=ABD75523.1;gbkey=CDS;gene=E;product=small membrane protein;protein_id=ABD75523.1
+DQ415899.1	Genbank	gene	27612	28283	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+DQ415899.1	Genbank	CDS	27612	28283	.	+	0	ID=cds-ABD75524.1;Parent=gene-M;Dbxref=NCBI_GP:ABD75524.1;Name=ABD75524.1;gbkey=CDS;gene=M;product=membrane glycoprotein;protein_id=ABD75524.1
+DQ415899.1	Genbank	gene	28299	29624	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+DQ415899.1	Genbank	CDS	28299	29624	.	+	0	ID=cds-ABD75525.1;Parent=gene-N;Dbxref=NCBI_GP:ABD75525.1;Name=ABD75525.1;gbkey=CDS;gene=N;product=nucleocapsid phosphoprotein;protein_id=ABD75525.1
+DQ415899.1	Genbank	gene	28321	28938	.	+	.	ID=gene-N2;Name=N2;gbkey=Gene;gene=N2;gene_biotype=protein_coding
+DQ415899.1	Genbank	CDS	28321	28938	.	+	0	ID=cds-ABD75526.1;Parent=gene-N2;Dbxref=NCBI_GP:ABD75526.1;Name=ABD75526.1;gbkey=CDS;gene=N2;product=hypothetical protein orf8;protein_id=ABD75526.1
+

@@ -1,0 +1,23 @@
+##sequence-region MK937828.1 1 27475
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+MK937828.1	Genbank	region	1	27475	.	+	.	ID=MK937828.1:1..27475;Dbxref=taxon:11120;collection-date=2016;country=China;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Gallus;strain=I1124/16
+MK937828.1	Genbank	gene	529	20417	.	+	.	ID=gene-1ab;Name=1ab;gbkey=Gene;gene=1ab;gene_biotype=protein_coding
+MK937828.1	Genbank	CDS	529	12354	.	+	0	ID=cds-QDA76290.1;Parent=gene-1ab;Dbxref=NCBI_GP:QDA76290.1;Name=QDA76290.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=ORF1ab;protein_id=QDA76290.1
+MK937828.1	Genbank	CDS	12354	20417	.	+	0	ID=cds-QDA76290.1;Parent=gene-1ab;Dbxref=NCBI_GP:QDA76290.1;Name=QDA76290.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=ORF1ab;protein_id=QDA76290.1
+MK937828.1	Genbank	gene	20368	23829	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MK937828.1	Genbank	CDS	20368	23829	.	+	0	ID=cds-QDA76291.1;Parent=gene-S;Dbxref=NCBI_GP:QDA76291.1;Name=QDA76291.1;gbkey=CDS;gene=S;product=spike protein;protein_id=QDA76291.1
+MK937828.1	Genbank	gene	23856	24029	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+MK937828.1	Genbank	CDS	23856	24029	.	+	0	ID=cds-QDA76292.1;Parent=gene-3a;Dbxref=NCBI_GP:QDA76292.1;Name=QDA76292.1;gbkey=CDS;gene=3a;product=ORF3a;protein_id=QDA76292.1
+MK937828.1	Genbank	gene	24029	24223	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+MK937828.1	Genbank	CDS	24029	24223	.	+	0	ID=cds-QDA76293.1;Parent=gene-3b;Dbxref=NCBI_GP:QDA76293.1;Name=QDA76293.1;gbkey=CDS;gene=3b;product=ORF3b;protein_id=QDA76293.1
+MK937828.1	Genbank	gene	24204	24533	.	+	.	ID=gene-3c;Name=3c;gbkey=Gene;gene=3c;gene_biotype=protein_coding
+MK937828.1	Genbank	CDS	24204	24533	.	+	0	ID=cds-QDA76294.1;Parent=gene-3c;Dbxref=NCBI_GP:QDA76294.1;Name=QDA76294.1;gbkey=CDS;gene=3c;product=ORF3c;protein_id=QDA76294.1
+MK937828.1	Genbank	gene	24505	25182	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MK937828.1	Genbank	CDS	24505	25182	.	+	0	ID=cds-QDA76295.1;Parent=gene-M;Dbxref=NCBI_GP:QDA76295.1;Name=QDA76295.1;gbkey=CDS;gene=M;product=M protein;protein_id=QDA76295.1
+MK937828.1	Genbank	gene	25534	25731	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+MK937828.1	Genbank	CDS	25534	25731	.	+	0	ID=cds-QDA76296.1;Parent=gene-5a;Dbxref=NCBI_GP:QDA76296.1;Name=QDA76296.1;gbkey=CDS;gene=5a;product=ORF5a;protein_id=QDA76296.1
+MK937828.1	Genbank	gene	25728	25976	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+MK937828.1	Genbank	CDS	25728	25976	.	+	0	ID=cds-QDA76297.1;Parent=gene-5b;Dbxref=NCBI_GP:QDA76297.1;Name=QDA76297.1;gbkey=CDS;gene=5b;product=ORF5b;protein_id=QDA76297.1
+MK937828.1	Genbank	gene	25919	27148	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MK937828.1	Genbank	CDS	25919	27148	.	+	0	ID=cds-QDA76298.1;Parent=gene-N;Dbxref=NCBI_GP:QDA76298.1;Name=QDA76298.1;gbkey=CDS;gene=N;product=N protein;protein_id=QDA76298.1
+

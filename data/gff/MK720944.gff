@@ -1,0 +1,19 @@
+##sequence-region MK720944.1 1 27636
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2586420
+MK720944.1	Genbank	region	1	27636	.	+	.	ID=MK720944.1:1..27636;Dbxref=taxon:2586420;collection-date=09-Sep-2015;country=China;gbkey=Src;genome=genomic;isolation-source=anal swab;mol_type=genomic RNA;nat-host=Tylonycteris robustula;strain=GZ151867
+MK720944.1	Genbank	gene	278	20052	.	+	.	ID=gene-orf1ab;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding
+MK720944.1	Genbank	CDS	278	12058	.	+	0	ID=cds-QCX35159.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:QCX35159.1;Name=QCX35159.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab polyprotein;protein_id=QCX35159.1
+MK720944.1	Genbank	CDS	12058	20052	.	+	0	ID=cds-QCX35159.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:QCX35159.1;Name=QCX35159.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab polyprotein;protein_id=QCX35159.1
+MK720944.1	Genbank	gene	20053	24150	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MK720944.1	Genbank	CDS	20053	24150	.	+	0	ID=cds-QCX35160.1;Parent=gene-S;Dbxref=NCBI_GP:QCX35160.1;Name=QCX35160.1;gbkey=CDS;gene=S;product=spike glycoprotein;protein_id=QCX35160.1
+MK720944.1	Genbank	gene	24150	24755	.	+	.	ID=gene-NS3;Name=NS3;gbkey=Gene;gene=NS3;gene_biotype=protein_coding
+MK720944.1	Genbank	CDS	24150	24755	.	+	0	ID=cds-QCX35161.1;Parent=gene-NS3;Dbxref=NCBI_GP:QCX35161.1;Name=QCX35161.1;gbkey=CDS;gene=NS3;product=nonstructural protein 3;protein_id=QCX35161.1
+MK720944.1	Genbank	gene	24777	25004	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MK720944.1	Genbank	CDS	24777	25004	.	+	0	ID=cds-QCX35162.1;Parent=gene-E;Dbxref=NCBI_GP:QCX35162.1;Name=QCX35162.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=QCX35162.1
+MK720944.1	Genbank	gene	25011	25697	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MK720944.1	Genbank	CDS	25011	25697	.	+	0	ID=cds-QCX35163.1;Parent=gene-M;Dbxref=NCBI_GP:QCX35163.1;Name=QCX35163.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=QCX35163.1
+MK720944.1	Genbank	gene	25706	26977	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MK720944.1	Genbank	CDS	25706	26977	.	+	0	ID=cds-QCX35164.1;Parent=gene-N;Dbxref=NCBI_GP:QCX35164.1;Name=QCX35164.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=QCX35164.1
+MK720944.1	Genbank	gene	26989	27348	.	+	.	ID=gene-NS7;Name=NS7;gbkey=Gene;gene=NS7;gene_biotype=protein_coding
+MK720944.1	Genbank	CDS	26989	27348	.	+	0	ID=cds-QCX35165.1;Parent=gene-NS7;Dbxref=NCBI_GP:QCX35165.1;Name=QCX35165.1;gbkey=CDS;gene=NS7;product=nonstructural protein 7;protein_id=QCX35165.1
+

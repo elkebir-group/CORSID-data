@@ -1,0 +1,11 @@
+##sequence-region JX993987.1 1 29484
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1283332
+JX993987.1	Genbank	region	1	29484	.	+	.	ID=JX993987.1:1..29484;Dbxref=taxon:1283332;collection-date=Sep-2011;country=China;gbkey=Src;genome=genomic;isolate=Rp/Shaanxi2011;mol_type=genomic RNA;nat-host=Rhinolophus pusillus;old-name=Bat Rp-coronavirus/Shaanxi2011
+JX993987.1	Genbank	CDS	191	13315	.	+	0	ID=cds-AGC74164.1;Dbxref=NCBI_GP:AGC74164.1;Name=AGC74164.1;gbkey=CDS;product=ORF1a protein;protein_id=AGC74164.1
+JX993987.1	Genbank	CDS	13501	21387	.	+	0	ID=cds-AGC74170.1;Dbxref=NCBI_GP:AGC74170.1;Name=AGC74170.1;gbkey=CDS;product=ORF1b protein;protein_id=AGC74170.1
+JX993987.1	Genbank	CDS	21394	25116	.	+	0	ID=cds-AGC74165.1;Dbxref=NCBI_GP:AGC74165.1;Name=AGC74165.1;gbkey=CDS;product=spike protein;protein_id=AGC74165.1
+JX993987.1	Genbank	CDS	25126	25950	.	+	0	ID=cds-AGC74166.1;Dbxref=NCBI_GP:AGC74166.1;Name=AGC74166.1;gbkey=CDS;product=ORF3 protein;protein_id=AGC74166.1
+JX993987.1	Genbank	CDS	25975	26205	.	+	0	ID=cds-AGC74167.1;Dbxref=NCBI_GP:AGC74167.1;Name=AGC74167.1;gbkey=CDS;product=envelope protein;protein_id=AGC74167.1
+JX993987.1	Genbank	CDS	26256	26921	.	+	0	ID=cds-AGC74168.1;Dbxref=NCBI_GP:AGC74168.1;Name=AGC74168.1;gbkey=CDS;product=membrane protein;protein_id=AGC74168.1
+JX993987.1	Genbank	CDS	28017	29279	.	+	0	ID=cds-AGC74169.1;Dbxref=NCBI_GP:AGC74169.1;Name=AGC74169.1;gbkey=CDS;product=nucleocapsid protein;protein_id=AGC74169.1
+

@@ -1,0 +1,63 @@
+##sequence-region NC_046965.1 1 28539
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2569586
+NC_046965.1	RefSeq	region	1	28539	.	+	.	ID=NC_046965.1:1..28539;Dbxref=taxon:2569586;collection-date=Aug-2017;country=Canada;gbkey=Src;genome=genomic;isolation-source=cloacal swab;mol_type=genomic RNA;nat-host=Branta canadensis;strain=Cambridge_Bay_2017
+NC_046965.1	RefSeq	regulatory_region	64	72	.	+	.	ID=id-NC_046965.1:64..72;Note=transcription regulatory sequence;gbkey=regulatory;regulatory_class=other
+NC_046965.1	RefSeq	gene	554	20085	.	+	.	ID=gene-HGI29_gp01;Dbxref=GeneID:54124793;Name=HGI29_gp01;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HGI29_gp01
+NC_046965.1	RefSeq	CDS	554	12001	.	+	0	ID=cds-YP_009755895.1;Parent=gene-HGI29_gp01;Dbxref=Genbank:YP_009755895.1,GeneID:54124793;Name=YP_009755895.1;exception=ribosomal slippage;gbkey=CDS;locus_tag=HGI29_gp01;product=polyprotein 1ab;protein_id=YP_009755895.1
+NC_046965.1	RefSeq	CDS	12001	20085	.	+	0	ID=cds-YP_009755895.1;Parent=gene-HGI29_gp01;Dbxref=Genbank:YP_009755895.1,GeneID:54124793;Name=YP_009755895.1;exception=ribosomal slippage;gbkey=CDS;locus_tag=HGI29_gp01;product=polyprotein 1ab;protein_id=YP_009755895.1
+NC_046965.1	RefSeq	mature_protein_region_of_CDS	11510	12001	.	+	.	ID=id-YP_009755895.1:3653..4754;Parent=cds-YP_009755895.1;gbkey=Prot;product=nsp10/12;protein_id=YP_009755920.1
+NC_046965.1	RefSeq	mature_protein_region_of_CDS	12001	14814	.	+	.	ID=id-YP_009755895.1:3653..4754;Parent=cds-YP_009755895.1;gbkey=Prot;product=nsp10/12;protein_id=YP_009755920.1
+NC_046965.1	RefSeq	mature_protein_region_of_CDS	14815	16611	.	+	.	ID=id-YP_009755895.1:4755..5353;Parent=cds-YP_009755895.1;gbkey=Prot;product=nsp13;protein_id=YP_009755921.1
+NC_046965.1	RefSeq	mature_protein_region_of_CDS	16612	18177	.	+	.	ID=id-YP_009755895.1:5354..5875;Parent=cds-YP_009755895.1;gbkey=Prot;product=nsp14;protein_id=YP_009755922.1
+NC_046965.1	RefSeq	mature_protein_region_of_CDS	18178	19191	.	+	.	ID=id-YP_009755895.1:5876..6213;Parent=cds-YP_009755895.1;gbkey=Prot;product=nsp15;protein_id=YP_009755923.1
+NC_046965.1	RefSeq	mature_protein_region_of_CDS	19192	20082	.	+	.	ID=id-YP_009755895.1:6214..6510;Parent=cds-YP_009755895.1;gbkey=Prot;product=nsp16;protein_id=YP_009755924.1
+NC_046965.1	RefSeq	regulatory_region	19978	19986	.	+	.	ID=id-HGI29_gp01;Parent=gene-HGI29_gp01;Dbxref=GeneID:54124793;Note=transcription regulatory sequence;gbkey=regulatory;locus_tag=HGI29_gp01;regulatory_class=other
+NC_046965.1	RefSeq	gene	554	12031	.	+	.	ID=gene-HGI29_gp02;Dbxref=GeneID:54124779;Name=HGI29_gp02;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HGI29_gp02
+NC_046965.1	RefSeq	CDS	554	12031	.	+	0	ID=cds-YP_009755896.1;Parent=gene-HGI29_gp02;Dbxref=Genbank:YP_009755896.1,GeneID:54124779;Name=YP_009755896.1;gbkey=CDS;locus_tag=HGI29_gp02;product=polyprotein 1a;protein_id=YP_009755896.1
+NC_046965.1	RefSeq	mature_protein_region_of_CDS	554	2383	.	+	.	ID=id-YP_009755896.1:1..610;Parent=cds-YP_009755896.1;gbkey=Prot;product=nsp1/2;protein_id=YP_009755911.1
+NC_046965.1	RefSeq	mature_protein_region_of_CDS	2384	6976	.	+	.	ID=id-YP_009755896.1:611..2141;Parent=cds-YP_009755896.1;gbkey=Prot;product=nsp3;protein_id=YP_009755912.1
+NC_046965.1	RefSeq	mature_protein_region_of_CDS	6977	8485	.	+	.	ID=id-YP_009755896.1:2142..2644;Parent=cds-YP_009755896.1;gbkey=Prot;product=nsp4;protein_id=YP_009755913.1
+NC_046965.1	RefSeq	mature_protein_region_of_CDS	8486	9406	.	+	.	ID=id-YP_009755896.1:2645..2951;Parent=cds-YP_009755896.1;gbkey=Prot;product=nsp5;protein_id=YP_009755914.1
+NC_046965.1	RefSeq	mature_protein_region_of_CDS	9407	10291	.	+	.	ID=id-YP_009755896.1:2952..3246;Parent=cds-YP_009755896.1;gbkey=Prot;product=nsp6;protein_id=YP_009755915.1
+NC_046965.1	RefSeq	mature_protein_region_of_CDS	10292	10540	.	+	.	ID=id-YP_009755896.1:3247..3329;Parent=cds-YP_009755896.1;gbkey=Prot;product=nsp7;protein_id=YP_009755916.1
+NC_046965.1	RefSeq	mature_protein_region_of_CDS	10541	11176	.	+	.	ID=id-YP_009755896.1:3330..3541;Parent=cds-YP_009755896.1;gbkey=Prot;product=nsp8;protein_id=YP_009755917.1
+NC_046965.1	RefSeq	mature_protein_region_of_CDS	11177	11509	.	+	.	ID=id-YP_009755896.1:3542..3652;Parent=cds-YP_009755896.1;gbkey=Prot;product=nsp9;protein_id=YP_009755918.1
+NC_046965.1	RefSeq	mature_protein_region_of_CDS	11510	12028	.	+	.	ID=id-YP_009755896.1:3653..3825;Parent=cds-YP_009755896.1;gbkey=Prot;product=nsp10/11;protein_id=YP_009755919.1
+NC_046965.1	RefSeq	gene	20069	23623	.	+	.	ID=gene-HGI29_gp03;Dbxref=GeneID:54124778;Name=HGI29_gp03;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HGI29_gp03
+NC_046965.1	RefSeq	CDS	20069	23623	.	+	0	ID=cds-YP_009755897.1;Parent=gene-HGI29_gp03;Dbxref=Genbank:YP_009755897.1,GeneID:54124778;Name=YP_009755897.1;gbkey=CDS;locus_tag=HGI29_gp03;product=spike protein;protein_id=YP_009755897.1
+NC_046965.1	RefSeq	regulatory_region	23606	23614	.	+	.	ID=id-HGI29_gp03;Parent=gene-HGI29_gp03;Dbxref=GeneID:54124778;Note=transcription regulatory sequence;gbkey=regulatory;locus_tag=HGI29_gp03;regulatory_class=other
+NC_046965.1	RefSeq	gene	23616	23777	.	+	.	ID=gene-HGI29_gp04;Dbxref=GeneID:54124780;Name=HGI29_gp04;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HGI29_gp04
+NC_046965.1	RefSeq	CDS	23616	23777	.	+	0	ID=cds-YP_009755898.1;Parent=gene-HGI29_gp04;Dbxref=Genbank:YP_009755898.1,GeneID:54124780;Name=YP_009755898.1;gbkey=CDS;locus_tag=HGI29_gp04;product=ORF3;protein_id=YP_009755898.1
+NC_046965.1	RefSeq	regulatory_region	23773	23781	.	+	.	ID=id-NC_046965.1:23773..23781;Note=transcription regulatory sequence;gbkey=regulatory;regulatory_class=other
+NC_046965.1	RefSeq	gene	23786	23953	.	+	.	ID=gene-HGI29_gp05;Dbxref=GeneID:54124781;Name=HGI29_gp05;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HGI29_gp05
+NC_046965.1	RefSeq	CDS	23786	23953	.	+	0	ID=cds-YP_009755899.1;Parent=gene-HGI29_gp05;Dbxref=Genbank:YP_009755899.1,GeneID:54124781;Name=YP_009755899.1;gbkey=CDS;locus_tag=HGI29_gp05;product=ORF4a;protein_id=YP_009755899.1
+NC_046965.1	RefSeq	gene	23913	24215	.	+	.	ID=gene-HGI29_gp06;Dbxref=GeneID:54124782;Name=HGI29_gp06;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HGI29_gp06
+NC_046965.1	RefSeq	CDS	23913	24215	.	+	0	ID=cds-YP_009755900.1;Parent=gene-HGI29_gp06;Dbxref=Genbank:YP_009755900.1,GeneID:54124782;Name=YP_009755900.1;gbkey=CDS;locus_tag=HGI29_gp06;product=envelope protein;protein_id=YP_009755900.1
+NC_046965.1	RefSeq	regulatory_region	24129	24137	.	+	.	ID=id-HGI29_gp06;Parent=gene-HGI29_gp06;Dbxref=GeneID:54124782;Note=transcription regulatory sequence;gbkey=regulatory;locus_tag=HGI29_gp06;regulatory_class=other
+NC_046965.1	RefSeq	gene	24212	24892	.	+	.	ID=gene-HGI29_gp07;Dbxref=GeneID:54124783;Name=HGI29_gp07;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HGI29_gp07
+NC_046965.1	RefSeq	CDS	24212	24892	.	+	0	ID=cds-YP_009755901.1;Parent=gene-HGI29_gp07;Dbxref=Genbank:YP_009755901.1,GeneID:54124783;Name=YP_009755901.1;gbkey=CDS;locus_tag=HGI29_gp07;product=membrane protein;protein_id=YP_009755901.1
+NC_046965.1	RefSeq	gene	24892	25158	.	+	.	ID=gene-HGI29_gp08;Dbxref=GeneID:54124784;Name=HGI29_gp08;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HGI29_gp08
+NC_046965.1	RefSeq	CDS	24892	25158	.	+	0	ID=cds-YP_009755902.1;Parent=gene-HGI29_gp08;Dbxref=Genbank:YP_009755902.1,GeneID:54124784;Name=YP_009755902.1;gbkey=CDS;locus_tag=HGI29_gp08;product=ORF5b;protein_id=YP_009755902.1
+NC_046965.1	RefSeq	regulatory_region	25140	25148	.	+	.	ID=id-HGI29_gp08;Parent=gene-HGI29_gp08;Dbxref=GeneID:54124784;Note=transcription regulatory sequence;gbkey=regulatory;locus_tag=HGI29_gp08;regulatory_class=other
+NC_046965.1	RefSeq	gene	25155	25346	.	+	.	ID=gene-HGI29_gp09;Dbxref=GeneID:54124785;Name=HGI29_gp09;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HGI29_gp09
+NC_046965.1	RefSeq	CDS	25155	25346	.	+	0	ID=cds-YP_009755903.1;Parent=gene-HGI29_gp09;Dbxref=Genbank:YP_009755903.1,GeneID:54124785;Name=YP_009755903.1;gbkey=CDS;locus_tag=HGI29_gp09;product=ORF6;protein_id=YP_009755903.1
+NC_046965.1	RefSeq	regulatory_region	25342	25350	.	+	.	ID=id-NC_046965.1:25342..25350;Note=transcription regulatory sequence;gbkey=regulatory;regulatory_class=other
+NC_046965.1	RefSeq	gene	25354	25632	.	+	.	ID=gene-HGI29_gp10;Dbxref=GeneID:54124786;Name=HGI29_gp10;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HGI29_gp10
+NC_046965.1	RefSeq	CDS	25354	25632	.	+	0	ID=cds-YP_009755904.1;Parent=gene-HGI29_gp10;Dbxref=Genbank:YP_009755904.1,GeneID:54124786;Name=YP_009755904.1;gbkey=CDS;locus_tag=HGI29_gp10;product=ORF7a;protein_id=YP_009755904.1
+NC_046965.1	RefSeq	gene	25574	25783	.	+	.	ID=gene-HGI29_gp11;Dbxref=GeneID:54124787;Name=HGI29_gp11;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HGI29_gp11
+NC_046965.1	RefSeq	CDS	25574	25783	.	+	0	ID=cds-YP_009755905.1;Parent=gene-HGI29_gp11;Dbxref=Genbank:YP_009755905.1,GeneID:54124787;Name=YP_009755905.1;gbkey=CDS;locus_tag=HGI29_gp11;product=ORF7b;protein_id=YP_009755905.1
+NC_046965.1	RefSeq	regulatory_region	25753	25761	.	+	.	ID=id-HGI29_gp11;Parent=gene-HGI29_gp11;Dbxref=GeneID:54124787;Note=transcription regulatory sequence;gbkey=regulatory;locus_tag=HGI29_gp11;regulatory_class=other
+NC_046965.1	RefSeq	gene	25767	25967	.	+	.	ID=gene-HGI29_gp12;Dbxref=GeneID:54124788;Name=HGI29_gp12;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HGI29_gp12
+NC_046965.1	RefSeq	CDS	25767	25967	.	+	0	ID=cds-YP_009755906.1;Parent=gene-HGI29_gp12;Dbxref=Genbank:YP_009755906.1,GeneID:54124788;Name=YP_009755906.1;gbkey=CDS;locus_tag=HGI29_gp12;product=ORF8a;protein_id=YP_009755906.1
+NC_046965.1	RefSeq	gene	25964	26221	.	+	.	ID=gene-HGI29_gp13;Dbxref=GeneID:54124789;Name=HGI29_gp13;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HGI29_gp13
+NC_046965.1	RefSeq	CDS	25964	26221	.	+	0	ID=cds-YP_009755907.1;Parent=gene-HGI29_gp13;Dbxref=Genbank:YP_009755907.1,GeneID:54124789;Name=YP_009755907.1;gbkey=CDS;locus_tag=HGI29_gp13;product=ORF8b;protein_id=YP_009755907.1
+NC_046965.1	RefSeq	regulatory_region	26045	26053	.	+	.	ID=id-HGI29_gp13;Parent=gene-HGI29_gp13;Dbxref=GeneID:54124789;Note=transcription regulatory sequence;gbkey=regulatory;locus_tag=HGI29_gp13;regulatory_class=other
+NC_046965.1	RefSeq	gene	26149	27393	.	+	.	ID=gene-HGI29_gp14;Dbxref=GeneID:54124790;Name=HGI29_gp14;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HGI29_gp14
+NC_046965.1	RefSeq	CDS	26149	27393	.	+	0	ID=cds-YP_009755908.1;Parent=gene-HGI29_gp14;Dbxref=Genbank:YP_009755908.1,GeneID:54124790;Name=YP_009755908.1;gbkey=CDS;locus_tag=HGI29_gp14;product=nucleocapsid protein;protein_id=YP_009755908.1
+NC_046965.1	RefSeq	regulatory_region	27389	27397	.	+	.	ID=id-NC_046965.1:27389..27397;Note=transcription regulatory sequence;gbkey=regulatory;regulatory_class=other
+NC_046965.1	RefSeq	gene	27398	27691	.	+	.	ID=gene-HGI29_gp15;Dbxref=GeneID:54124791;Name=HGI29_gp15;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HGI29_gp15
+NC_046965.1	RefSeq	CDS	27398	27691	.	+	0	ID=cds-YP_009755909.1;Parent=gene-HGI29_gp15;Dbxref=Genbank:YP_009755909.1,GeneID:54124791;Name=YP_009755909.1;gbkey=CDS;locus_tag=HGI29_gp15;product=ORF10;protein_id=YP_009755909.1
+NC_046965.1	RefSeq	regulatory_region	27569	27577	.	+	.	ID=id-HGI29_gp15;Parent=gene-HGI29_gp15;Dbxref=GeneID:54124791;Note=transcription regulatory sequence;gbkey=regulatory;locus_tag=HGI29_gp15;regulatory_class=other
+NC_046965.1	RefSeq	gene	27669	28211	.	+	.	ID=gene-HGI29_gp16;Dbxref=GeneID:54124792;Name=HGI29_gp16;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HGI29_gp16
+NC_046965.1	RefSeq	CDS	27669	28211	.	+	0	ID=cds-YP_009755910.1;Parent=gene-HGI29_gp16;Dbxref=Genbank:YP_009755910.1,GeneID:54124792;Name=YP_009755910.1;gbkey=CDS;locus_tag=HGI29_gp16;product=ORF11;protein_id=YP_009755910.1
+

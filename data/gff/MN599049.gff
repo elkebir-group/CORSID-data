@@ -1,0 +1,20 @@
+##sequence-region MN599049.1 1 27666
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+MN599049.1	Genbank	region	1	27666	.	+	.	ID=MN599049.1:1..27666;Dbxref=taxon:11120;collection-date=31-Jul-2015;country=USA;gbkey=Src;genome=genomic;isolate=GA/1476/2015;mol_type=genomic RNA;nat-host=broiler;note=GA08
+MN599049.1	Genbank	five_prime_UTR	1	528	.	+	.	ID=id-MN599049.1:1..528;gbkey=5'UTR
+MN599049.1	Genbank	CDS	529	12327	.	+	0	ID=cds-QGX07409.1;Dbxref=NCBI_GP:QGX07409.1;Name=QGX07409.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein 1ab;protein_id=QGX07409.1
+MN599049.1	Genbank	CDS	12327	20390	.	+	0	ID=cds-QGX07409.1;Dbxref=NCBI_GP:QGX07409.1;Name=QGX07409.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein 1ab;protein_id=QGX07409.1
+MN599049.1	Genbank	CDS	529	12357	.	+	0	ID=cds-QGX07408.1;Dbxref=NCBI_GP:QGX07408.1;Name=QGX07408.1;gbkey=CDS;product=polyprotein 1a;protein_id=QGX07408.1
+MN599049.1	Genbank	CDS	20341	23850	.	+	0	ID=cds-QGX07410.1;Dbxref=NCBI_GP:QGX07410.1;Name=QGX07410.1;gbkey=CDS;product=spike glycoprotein;protein_id=QGX07410.1
+MN599049.1	Genbank	CDS	23850	24023	.	+	0	ID=cds-QGX07411.1;Dbxref=NCBI_GP:QGX07411.1;Name=QGX07411.1;gbkey=CDS;product=3a protein;protein_id=QGX07411.1
+MN599049.1	Genbank	CDS	24023	24217	.	+	0	ID=cds-QGX07412.1;Dbxref=NCBI_GP:QGX07412.1;Name=QGX07412.1;gbkey=CDS;product=3b protein;protein_id=QGX07412.1
+MN599049.1	Genbank	CDS	24198	24521	.	+	0	ID=cds-QGX07413.1;Dbxref=NCBI_GP:QGX07413.1;Name=QGX07413.1;gbkey=CDS;product=envelope protein;protein_id=QGX07413.1
+MN599049.1	Genbank	CDS	24499	25170	.	+	0	ID=cds-QGX07414.1;Dbxref=NCBI_GP:QGX07414.1;Name=QGX07414.1;gbkey=CDS;product=membrane protein;protein_id=QGX07414.1
+MN599049.1	Genbank	CDS	25171	25455	.	+	0	ID=cds-QGX07415.1;Dbxref=NCBI_GP:QGX07415.1;Name=QGX07415.1;gbkey=CDS;product=4b protein;protein_id=QGX07415.1
+MN599049.1	Genbank	CDS	25376	25546	.	+	0	ID=cds-QGX07416.1;Dbxref=NCBI_GP:QGX07416.1;Name=QGX07416.1;gbkey=CDS;product=4c protein;protein_id=QGX07416.1
+MN599049.1	Genbank	CDS	25530	25727	.	+	0	ID=cds-QGX07417.1;Dbxref=NCBI_GP:QGX07417.1;Name=QGX07417.1;gbkey=CDS;product=5a protein;protein_id=QGX07417.1
+MN599049.1	Genbank	CDS	25724	25972	.	+	0	ID=cds-QGX07418.1;Dbxref=NCBI_GP:QGX07418.1;Name=QGX07418.1;gbkey=CDS;product=5b protein;protein_id=QGX07418.1
+MN599049.1	Genbank	CDS	25915	27144	.	+	0	ID=cds-QGX07419.1;Dbxref=NCBI_GP:QGX07419.1;Name=QGX07419.1;gbkey=CDS;product=nucleocapsid protein;protein_id=QGX07419.1
+MN599049.1	Genbank	CDS	27153	27377	.	+	0	ID=cds-QGX07420.1;Dbxref=NCBI_GP:QGX07420.1;Name=QGX07420.1;gbkey=CDS;product=6b protein;protein_id=QGX07420.1
+MN599049.1	Genbank	three_prime_UTR	27378	27650	.	+	.	ID=id-MN599049.1:27378..27650;gbkey=3'UTR
+

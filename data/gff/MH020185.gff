@@ -1,0 +1,20 @@
+##sequence-region MH020185.1 1 27688
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+MH020185.1	Genbank	region	1	27688	.	+	.	ID=MH020185.1:1..27688;Dbxref=taxon:11120;collection-date=18-Oct-2017;country=China;gbkey=Src;genome=genomic;genotype=QX-like;isolate=CK/CH/HD/171018;mol_type=genomic RNA;nat-host=chicken
+MH020185.1	Genbank	CDS	526	12354	.	+	0	ID=cds-AYC44181.1;Dbxref=NCBI_GP:AYC44181.1;Name=AYC44181.1;exception=ribosomal slippage;gbkey=CDS;product=ORF1ab;protein_id=AYC44181.1
+MH020185.1	Genbank	CDS	12354	20420	.	+	0	ID=cds-AYC44181.1;Dbxref=NCBI_GP:AYC44181.1;Name=AYC44181.1;exception=ribosomal slippage;gbkey=CDS;product=ORF1ab;protein_id=AYC44181.1
+MH020185.1	Genbank	gene	20371	23868	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MH020185.1	Genbank	CDS	20371	23868	.	+	0	ID=cds-AYC44182.1;Parent=gene-S;Dbxref=NCBI_GP:AYC44182.1;Name=AYC44182.1;gbkey=CDS;gene=S;product=S protein;protein_id=AYC44182.1
+MH020185.1	Genbank	gene	23868	24041	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+MH020185.1	Genbank	CDS	23868	24041	.	+	0	ID=cds-AYC44183.1;Parent=gene-3a;Dbxref=NCBI_GP:AYC44183.1;Name=AYC44183.1;gbkey=CDS;gene=3a;product=3a protein;protein_id=AYC44183.1
+MH020185.1	Genbank	gene	24041	24229	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+MH020185.1	Genbank	CDS	24041	24229	.	+	0	ID=cds-AYC44184.1;Parent=gene-3b;Dbxref=NCBI_GP:AYC44184.1;Name=AYC44184.1;gbkey=CDS;gene=3b;product=3b protein;protein_id=AYC44184.1
+MH020185.1	Genbank	gene	24216	24542	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MH020185.1	Genbank	CDS	24216	24542	.	+	0	ID=cds-AYC44185.1;Parent=gene-E;Dbxref=NCBI_GP:AYC44185.1;Name=AYC44185.1;gbkey=CDS;gene=E;product=E protein;protein_id=AYC44185.1
+MH020185.1	Genbank	gene	25556	25753	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+MH020185.1	Genbank	CDS	25556	25753	.	+	0	ID=cds-AYC44186.1;Parent=gene-5a;Dbxref=NCBI_GP:AYC44186.1;Name=AYC44186.1;gbkey=CDS;gene=5a;product=5a protein;protein_id=AYC44186.1
+MH020185.1	Genbank	gene	25750	25998	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+MH020185.1	Genbank	CDS	25750	25998	.	+	0	ID=cds-AYC44187.1;Parent=gene-5b;Dbxref=NCBI_GP:AYC44187.1;Name=AYC44187.1;gbkey=CDS;gene=5b;product=5b protein;protein_id=AYC44187.1
+MH020185.1	Genbank	gene	25941	27170	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MH020185.1	Genbank	CDS	25941	27170	.	+	0	ID=cds-AYC44188.1;Parent=gene-N;Dbxref=NCBI_GP:AYC44188.1;Name=AYC44188.1;gbkey=CDS;gene=N;product=N protein;protein_id=AYC44188.1
+

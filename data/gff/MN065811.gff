@@ -1,0 +1,11 @@
+##sequence-region MN065811.1 1 28119
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2419667
+MN065811.1	Genbank	region	1	28119	.	+	.	ID=MN065811.1:1..28119;Dbxref=taxon:2419667;collection-date=15-Aug-2016;country=Finland: Helsinki;gbkey=Src;genome=genomic;isolation-source=feces;mol_type=genomic RNA;nat-host=Myotis brandtii;strain=BtCoV/008_16/M.bra/FIN/2016
+MN065811.1	Genbank	CDS	285	12476	.	+	0	ID=cds-QER90703.1;Dbxref=NCBI_GP:QER90703.1;Name=QER90703.1;exception=Ribosomal Slippage;gbkey=CDS;product=polyprotein;protein_id=QER90703.1
+MN065811.1	Genbank	CDS	12476	20515	.	+	0	ID=cds-QER90703.1;Dbxref=NCBI_GP:QER90703.1;Name=QER90703.1;exception=Ribosomal Slippage;gbkey=CDS;product=polyprotein;protein_id=QER90703.1
+MN065811.1	Genbank	CDS	20512	24606	.	+	0	ID=cds-QER90704.1;Dbxref=NCBI_GP:QER90704.1;Name=QER90704.1;gbkey=CDS;product=spike protein;protein_id=QER90704.1
+MN065811.1	Genbank	CDS	24606	25280	.	+	0	ID=cds-QER90705.1;Dbxref=NCBI_GP:QER90705.1;Name=QER90705.1;gbkey=CDS;product=hypothetical protein;protein_id=QER90705.1
+MN065811.1	Genbank	CDS	25261	25491	.	+	0	ID=cds-QER90706.1;Dbxref=NCBI_GP:QER90706.1;Name=QER90706.1;gbkey=CDS;product=envelope protein;protein_id=QER90706.1
+MN065811.1	Genbank	CDS	25497	26183	.	+	0	ID=cds-QER90707.1;Dbxref=NCBI_GP:QER90707.1;Name=QER90707.1;gbkey=CDS;product=membrane protein;protein_id=QER90707.1
+MN065811.1	Genbank	CDS	26192	27451	.	+	0	ID=cds-QER90708.1;Dbxref=NCBI_GP:QER90708.1;Name=QER90708.1;gbkey=CDS;product=nucleocapsid protein;protein_id=QER90708.1
+

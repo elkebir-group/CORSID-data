@@ -1,0 +1,25 @@
+##sequence-region MN262644.1 1 27523
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=694014
+MN262644.1	Genbank	region	1	27523	.	+	.	ID=MN262644.1:1..27523;Dbxref=taxon:694014;collection-date=2018;country=Egypt;gb-acronym=ACoV;gbkey=Src;genome=genomic;genotype=GI-23;isolation-source=tracheal swabs;mol_type=genomic RNA;nat-host=chicken;strain=CV10
+MN262644.1	Genbank	gene	529	12336	.	+	.	ID=gene-1a;Name=1a;gbkey=Gene;gene=1a;gene_biotype=protein_coding
+MN262644.1	Genbank	CDS	529	12336	.	+	0	ID=cds-QIM61638.1;Parent=gene-1a;Dbxref=NCBI_GP:QIM61638.1;Name=QIM61638.1;gbkey=CDS;gene=1a;product=1a polyprotein;protein_id=QIM61638.1
+MN262644.1	Genbank	gene	12411	20384	.	+	.	ID=gene-1b;Name=1b;gbkey=Gene;gene=1b;gene_biotype=protein_coding
+MN262644.1	Genbank	CDS	12411	20384	.	+	0	ID=cds-QIM61639.1;Parent=gene-1b;Dbxref=NCBI_GP:QIM61639.1;Name=QIM61639.1;gbkey=CDS;gene=1b;product=1b polyprotein;protein_id=QIM61639.1
+MN262644.1	Genbank	gene	20320	23811	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MN262644.1	Genbank	CDS	20320	23811	.	+	0	ID=cds-QIM61640.1;Parent=gene-S;Dbxref=NCBI_GP:QIM61640.1;Name=QIM61640.1;gbkey=CDS;gene=S;product=spike;protein_id=QIM61640.1
+MN262644.1	Genbank	gene	23811	23984	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+MN262644.1	Genbank	CDS	23811	23984	.	+	0	ID=cds-QIM61641.1;Parent=gene-3a;Dbxref=NCBI_GP:QIM61641.1;Name=QIM61641.1;gbkey=CDS;gene=3a;product=3a protein;protein_id=QIM61641.1
+MN262644.1	Genbank	gene	23984	24175	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+MN262644.1	Genbank	CDS	23984	24175	.	+	0	ID=cds-QIM61642.1;Parent=gene-3b;Dbxref=NCBI_GP:QIM61642.1;Name=QIM61642.1;gbkey=CDS;gene=3b;product=3b protein;protein_id=QIM61642.1
+MN262644.1	Genbank	gene	24156	24485	.	+	.	ID=gene-3c;Name=3c;gbkey=Gene;gene=3c;gene_biotype=protein_coding
+MN262644.1	Genbank	CDS	24156	24485	.	+	0	ID=cds-QIM61643.1;Parent=gene-3c;Dbxref=NCBI_GP:QIM61643.1;Name=QIM61643.1;gbkey=CDS;gene=3c;product=3c protein;protein_id=QIM61643.1
+MN262644.1	Genbank	gene	24457	25134	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MN262644.1	Genbank	CDS	24457	25134	.	+	0	ID=cds-QIM61644.1;Parent=gene-M;Dbxref=NCBI_GP:QIM61644.1;Name=QIM61644.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=QIM61644.1
+MN262644.1	Genbank	CDS	25135	25419	.	+	0	ID=cds-QIM61648.1;Dbxref=NCBI_GP:QIM61648.1;Name=QIM61648.1;gbkey=CDS;product=4b protein;protein_id=QIM61648.1
+MN262644.1	Genbank	gene	25493	25690	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+MN262644.1	Genbank	CDS	25493	25690	.	+	0	ID=cds-QIM61645.1;Parent=gene-5a;Dbxref=NCBI_GP:QIM61645.1;Name=QIM61645.1;gbkey=CDS;gene=5a;product=5a protein;protein_id=QIM61645.1
+MN262644.1	Genbank	gene	25687	25935	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+MN262644.1	Genbank	CDS	25687	25935	.	+	0	ID=cds-QIM61646.1;Parent=gene-5b;Dbxref=NCBI_GP:QIM61646.1;Name=QIM61646.1;gbkey=CDS;gene=5b;product=5b protein;protein_id=QIM61646.1
+MN262644.1	Genbank	gene	25878	27107	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MN262644.1	Genbank	CDS	25878	27107	.	+	0	ID=cds-QIM61647.1;Parent=gene-N;Dbxref=NCBI_GP:QIM61647.1;Name=QIM61647.1;gbkey=CDS;gene=N;product=nucleoprotein;protein_id=QIM61647.1
+

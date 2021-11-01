@@ -1,0 +1,19 @@
+##sequence-region KU051641.1 1 25405
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1586324
+KU051641.1	Genbank	region	1	25405	.	+	.	ID=KU051641.1:1..25405;Dbxref=taxon:1586324;collection-date=10-Jun-2015;country=Thailand;gbkey=Src;genome=genomic;isolation-source=jejunum;mol_type=genomic RNA;nat-host=pig;strain=PDCoV/Swine/Thailand/S5011/2015
+KU051641.1	Genbank	gene	536	19323	.	+	.	ID=gene-orf1ab;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding
+KU051641.1	Genbank	CDS	536	11395	.	+	0	ID=cds-AMN91620.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:AMN91620.1;Name=AMN91620.1;Note=ORF1ab;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=replicase polyprotein;protein_id=AMN91620.1
+KU051641.1	Genbank	CDS	11395	19323	.	+	0	ID=cds-AMN91620.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:AMN91620.1;Name=AMN91620.1;Note=ORF1ab;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=replicase polyprotein;protein_id=AMN91620.1
+KU051641.1	Genbank	gene	19305	22787	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KU051641.1	Genbank	CDS	19305	22787	.	+	0	ID=cds-AMN91621.1;Parent=gene-S;Dbxref=NCBI_GP:AMN91621.1;Name=AMN91621.1;gbkey=CDS;gene=S;product=spike glycoprotein;protein_id=AMN91621.1
+KU051641.1	Genbank	gene	22781	23032	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+KU051641.1	Genbank	CDS	22781	23032	.	+	0	ID=cds-AMN91622.1;Parent=gene-E;Dbxref=NCBI_GP:AMN91622.1;Name=AMN91622.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=AMN91622.1
+KU051641.1	Genbank	gene	23025	23678	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KU051641.1	Genbank	CDS	23025	23678	.	+	0	ID=cds-AMN91623.1;Parent=gene-M;Dbxref=NCBI_GP:AMN91623.1;Name=AMN91623.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=AMN91623.1
+KU051641.1	Genbank	gene	23678	23962	.	+	.	ID=gene-NS6;Name=NS6;gbkey=Gene;gene=NS6;gene_biotype=protein_coding
+KU051641.1	Genbank	CDS	23678	23962	.	+	0	ID=cds-AMN91624.1;Parent=gene-NS6;Dbxref=NCBI_GP:AMN91624.1;Name=AMN91624.1;Note=non-structural protein;gbkey=CDS;gene=NS6;product=NS6 protein;protein_id=AMN91624.1
+KU051641.1	Genbank	gene	23983	25011	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KU051641.1	Genbank	CDS	23983	25011	.	+	0	ID=cds-AMN91625.1;Parent=gene-N;Dbxref=NCBI_GP:AMN91625.1;Name=AMN91625.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=AMN91625.1
+KU051641.1	Genbank	gene	24077	24679	.	+	.	ID=gene-NS7;Name=NS7;gbkey=Gene;gene=NS7;gene_biotype=protein_coding
+KU051641.1	Genbank	CDS	24077	24679	.	+	0	ID=cds-AMN91626.1;Parent=gene-NS7;Dbxref=NCBI_GP:AMN91626.1;Name=AMN91626.1;Note=non-structural protein;gbkey=CDS;gene=NS7;product=NS7 protein;protein_id=AMN91626.1
+

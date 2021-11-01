@@ -1,0 +1,13 @@
+##sequence-region MH532440.1 1 25881
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2249315
+MH532440.1	Genbank	region	1	25881	.	+	.	ID=MH532440.1:1..25881;Dbxref=taxon:2249315;collection-date=03-Mar-2015;country=Poland;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Coturnix japonica;strain=G032/2015
+MH532440.1	Genbank	CDS	496	11359	.	+	0	ID=cds-AXP20280.1;Dbxref=NCBI_GP:AXP20280.1;Name=AXP20280.1;exception=ribosomal slippage;gbkey=CDS;product=replicase polyprotein;protein_id=AXP20280.1
+MH532440.1	Genbank	CDS	11359	19277	.	+	2	ID=cds-AXP20280.1;Dbxref=NCBI_GP:AXP20280.1;Name=AXP20280.1;exception=ribosomal slippage;gbkey=CDS;product=replicase polyprotein;protein_id=AXP20280.1
+MH532440.1	Genbank	CDS	19259	22789	.	+	0	ID=cds-AXP20281.1;Dbxref=NCBI_GP:AXP20281.1;Name=AXP20281.1;gbkey=CDS;product=spike protein;protein_id=AXP20281.1
+MH532440.1	Genbank	CDS	22783	23034	.	+	0	ID=cds-AXP20282.1;Dbxref=NCBI_GP:AXP20282.1;Name=AXP20282.1;gbkey=CDS;product=envelope protein;protein_id=AXP20282.1
+MH532440.1	Genbank	CDS	23027	23680	.	+	0	ID=cds-AXP20283.1;Dbxref=NCBI_GP:AXP20283.1;Name=AXP20283.1;gbkey=CDS;product=membrane protein;protein_id=AXP20283.1
+MH532440.1	Genbank	CDS	23680	23961	.	+	0	ID=cds-AXP20284.1;Dbxref=NCBI_GP:AXP20284.1;Name=AXP20284.1;gbkey=CDS;product=NS6 protein;protein_id=AXP20284.1
+MH532440.1	Genbank	CDS	23986	25011	.	+	0	ID=cds-AXP20285.1;Dbxref=NCBI_GP:AXP20285.1;Name=AXP20285.1;gbkey=CDS;product=nucleoprotein;protein_id=AXP20285.1
+MH532440.1	Genbank	CDS	24080	24682	.	+	0	ID=cds-AXP20286.1;Dbxref=NCBI_GP:AXP20286.1;Name=AXP20286.1;gbkey=CDS;product=NS7a protein;protein_id=AXP20286.1
+MH532440.1	Genbank	CDS	24995	25429	.	+	0	ID=cds-AXP20287.1;Dbxref=NCBI_GP:AXP20287.1;Name=AXP20287.1;gbkey=CDS;product=NS7b protein;protein_id=AXP20287.1
+

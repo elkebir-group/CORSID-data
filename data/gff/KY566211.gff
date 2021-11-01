@@ -1,0 +1,16 @@
+##sequence-region KY566211.1 1 29337
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12663
+KY566211.1	Genbank	region	1	29337	.	+	.	ID=KY566211.1:1..29337;Dbxref=taxon:12663;collection-date=Nov-2016;country=China;gbkey=Src;genome=genomic;isolation-source=ascites;mol_type=genomic RNA;nat-host=cat;strain=HLJ/HRB/2016/13
+KY566211.1	Genbank	CDS	303	12350	.	+	0	ID=cds-AUG98140.1;Dbxref=NCBI_GP:AUG98140.1;Name=AUG98140.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein orf1ab;protein_id=AUG98140.1
+KY566211.1	Genbank	CDS	12350	20392	.	+	0	ID=cds-AUG98140.1;Dbxref=NCBI_GP:AUG98140.1;Name=AUG98140.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein orf1ab;protein_id=AUG98140.1
+KY566211.1	Genbank	CDS	303	12392	.	+	0	ID=cds-AUG98139.1;Dbxref=NCBI_GP:AUG98139.1;Name=AUG98139.1;Note=ORF1a;gbkey=CDS;product=polyprotein 1a;protein_id=AUG98139.1
+KY566211.1	Genbank	CDS	20389	24798	.	+	0	ID=cds-AUG98141.1;Dbxref=NCBI_GP:AUG98141.1;Name=AUG98141.1;Note=S;gbkey=CDS;product=spike protein;protein_id=AUG98141.1
+KY566211.1	Genbank	CDS	24810	25022	.	+	0	ID=cds-AUG98142.1;Dbxref=NCBI_GP:AUG98142.1;Name=AUG98142.1;Note=nsp3a;gbkey=CDS;product=non-structural protein 3a;protein_id=AUG98142.1
+KY566211.1	Genbank	CDS	24970	25191	.	+	0	ID=cds-AUG98143.1;Dbxref=NCBI_GP:AUG98143.1;Name=AUG98143.1;Note=nsp3b;gbkey=CDS;product=non-structural protein 3b;protein_id=AUG98143.1
+KY566211.1	Genbank	CDS	25188	25901	.	+	0	ID=cds-AUG98144.1;Dbxref=NCBI_GP:AUG98144.1;Name=AUG98144.1;Note=nsp3c;gbkey=CDS;product=non-structural protein 3c;protein_id=AUG98144.1
+KY566211.1	Genbank	CDS	25888	26136	.	+	0	ID=cds-AUG98145.1;Dbxref=NCBI_GP:AUG98145.1;Name=AUG98145.1;Note=E;gbkey=CDS;product=envelope protein;protein_id=AUG98145.1
+KY566211.1	Genbank	CDS	26147	26935	.	+	0	ID=cds-AUG98146.1;Dbxref=NCBI_GP:AUG98146.1;Name=AUG98146.1;Note=M;gbkey=CDS;product=membrane protein;protein_id=AUG98146.1
+KY566211.1	Genbank	CDS	26948	28081	.	+	0	ID=cds-AUG98147.1;Dbxref=NCBI_GP:AUG98147.1;Name=AUG98147.1;Note=N;gbkey=CDS;product=nucleocapsid protein;protein_id=AUG98147.1
+KY566211.1	Genbank	CDS	28086	28391	.	+	0	ID=cds-AUG98148.1;Dbxref=NCBI_GP:AUG98148.1;Name=AUG98148.1;Note=nsp7a;gbkey=CDS;product=non-structural protein 7a;protein_id=AUG98148.1
+KY566211.1	Genbank	CDS	28396	29016	.	+	0	ID=cds-AUG98149.1;Dbxref=NCBI_GP:AUG98149.1;Name=AUG98149.1;Note=nsp7b;gbkey=CDS;product=non-structural protein 7b;protein_id=AUG98149.1
+

@@ -1,0 +1,10 @@
+##sequence-region MK211375.1 1 29698
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2591234
+MK211375.1	Genbank	region	1	29698	.	+	.	ID=MK211375.1:1..29698;Dbxref=taxon:2591234;collection-date=Sep-2016;country=China;gbkey=Src;genome=genomic;isolate=BtRs-BetaCoV/YN2018A;mol_type=genomic RNA;nat-host=Rhinolophus affinis
+MK211375.1	Genbank	CDS	266	13399	.	+	0	ID=cds-QDF43819.1;Dbxref=NCBI_GP:QDF43819.1;Name=QDF43819.1;exception=ribosomal slippage;gbkey=CDS;product=ORF1ab;protein_id=QDF43819.1
+MK211375.1	Genbank	CDS	13399	21219	.	+	0	ID=cds-QDF43819.1;Dbxref=NCBI_GP:QDF43819.1;Name=QDF43819.1;exception=ribosomal slippage;gbkey=CDS;product=ORF1ab;protein_id=QDF43819.1
+MK211375.1	Genbank	CDS	21494	25222	.	+	0	ID=cds-QDF43820.1;Dbxref=NCBI_GP:QDF43820.1;Name=QDF43820.1;gbkey=CDS;product=spike glycoprotein;protein_id=QDF43820.1
+MK211375.1	Genbank	CDS	26081	26311	.	+	0	ID=cds-QDF43821.1;Dbxref=NCBI_GP:QDF43821.1;Name=QDF43821.1;gbkey=CDS;product=small envelope protein;protein_id=QDF43821.1
+MK211375.1	Genbank	CDS	26362	27027	.	+	0	ID=cds-QDF43822.1;Dbxref=NCBI_GP:QDF43822.1;Name=QDF43822.1;gbkey=CDS;product=matrix protein;protein_id=QDF43822.1
+MK211375.1	Genbank	CDS	28123	29391	.	+	0	ID=cds-QDF43823.1;Dbxref=NCBI_GP:QDF43823.1;Name=QDF43823.1;gbkey=CDS;product=nucleocapsid protein;protein_id=QDF43823.1
+

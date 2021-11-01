@@ -1,0 +1,16 @@
+##sequence-region FJ938057.1 1 29275
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=627433
+FJ938057.1	Genbank	region	1	29275	.	+	.	ID=FJ938057.1:1..29275;Dbxref=taxon:627433;collection-date=13-Jul-2007;country=Netherlands: Utrecht;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=cat;strain=UU15
+FJ938057.1	Genbank	CDS	292	12333	.	+	0	ID=cds-ACT10915.1;Dbxref=NCBI_GP:ACT10915.1;Name=ACT10915.1;exception=ribosomal slippage;gbkey=CDS;product=orf1ab polyprotein;protein_id=ACT10915.1
+FJ938057.1	Genbank	CDS	12333	20375	.	+	0	ID=cds-ACT10915.1;Dbxref=NCBI_GP:ACT10915.1;Name=ACT10915.1;exception=ribosomal slippage;gbkey=CDS;product=orf1ab polyprotein;protein_id=ACT10915.1
+FJ938057.1	Genbank	CDS	292	12375	.	+	0	ID=cds-ACT10914.1;Dbxref=NCBI_GP:ACT10914.1;Name=ACT10914.1;gbkey=CDS;product=orf1a polyprotein;protein_id=ACT10914.1
+FJ938057.1	Genbank	CDS	20372	24790	.	+	0	ID=cds-ACT10916.1;Dbxref=NCBI_GP:ACT10916.1;Name=ACT10916.1;gbkey=CDS;product=spike protein;protein_id=ACT10916.1
+FJ938057.1	Genbank	CDS	24802	25014	.	+	0	ID=cds-ACT10917.1;Dbxref=NCBI_GP:ACT10917.1;Name=ACT10917.1;gbkey=CDS;product=non-structural protein 3a;protein_id=ACT10917.1
+FJ938057.1	Genbank	CDS	24962	25183	.	+	0	ID=cds-ACT10918.1;Dbxref=NCBI_GP:ACT10918.1;Name=ACT10918.1;gbkey=CDS;product=non-structural protein 3b;protein_id=ACT10918.1
+FJ938057.1	Genbank	CDS	25180	25893	.	+	0	ID=cds-ACT10919.1;Dbxref=NCBI_GP:ACT10919.1;Name=ACT10919.1;gbkey=CDS;product=non-structural protein 3c;protein_id=ACT10919.1
+FJ938057.1	Genbank	CDS	25880	26128	.	+	0	ID=cds-ACT10920.1;Dbxref=NCBI_GP:ACT10920.1;Name=ACT10920.1;gbkey=CDS;product=envelope protein;protein_id=ACT10920.1
+FJ938057.1	Genbank	CDS	26139	26930	.	+	0	ID=cds-ACT10921.1;Dbxref=NCBI_GP:ACT10921.1;Name=ACT10921.1;gbkey=CDS;product=membrane protein;protein_id=ACT10921.1
+FJ938057.1	Genbank	CDS	26943	28076	.	+	0	ID=cds-ACT10922.1;Dbxref=NCBI_GP:ACT10922.1;Name=ACT10922.1;gbkey=CDS;product=nucleocapsid protein;protein_id=ACT10922.1
+FJ938057.1	Genbank	CDS	28081	28386	.	+	0	ID=cds-ACT10923.1;Dbxref=NCBI_GP:ACT10923.1;Name=ACT10923.1;gbkey=CDS;product=non-structural protein 7a;protein_id=ACT10923.1
+FJ938057.1	Genbank	CDS	28391	29011	.	+	0	ID=cds-ACT10924.1;Dbxref=NCBI_GP:ACT10924.1;Name=ACT10924.1;gbkey=CDS;product=non-structural protein 7b;protein_id=ACT10924.1
+

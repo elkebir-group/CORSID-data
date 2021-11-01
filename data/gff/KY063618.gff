@@ -1,0 +1,11 @@
+##sequence-region KY063618.2 1 28969
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11153
+KY063618.2	Genbank	region	1	28969	.	+	.	ID=KY063618.2:1..28969;Dbxref=taxon:11153;collection-date=01-Jul-2016;country=China;gbkey=Src;genome=genomic;genotype=FCoV2;isolate=HLJ-073;isolation-source=feces;mol_type=genomic RNA;nat-host=dog
+KY063618.2	Genbank	CDS	231	12287	.	+	0	ID=cds-ASB15757.1;Dbxref=NCBI_GP:ASB15757.1;Name=ASB15757.1;gbkey=CDS;product=ORF1A;protein_id=ASB15757.1
+KY063618.2	Genbank	CDS	20284	24648	.	+	0	ID=cds-ASB15758.1;Dbxref=NCBI_GP:ASB15758.1;Name=ASB15758.1;gbkey=CDS;product=S;protein_id=ASB15758.1
+KY063618.2	Genbank	CDS	25476	25724	.	+	0	ID=cds-ASB15760.1;Dbxref=NCBI_GP:ASB15760.1;Name=ASB15760.1;gbkey=CDS;product=E;protein_id=ASB15760.1
+KY063618.2	Genbank	CDS	25705	26526	.	+	0	ID=cds-ASB15761.1;Dbxref=NCBI_GP:ASB15761.1;Name=ASB15761.1;gbkey=CDS;product=M;protein_id=ASB15761.1
+KY063618.2	Genbank	CDS	26539	27687	.	+	0	ID=cds-ASB15762.1;Dbxref=NCBI_GP:ASB15762.1;Name=ASB15762.1;gbkey=CDS;product=N;protein_id=ASB15762.1
+KY063618.2	Genbank	CDS	27692	27997	.	+	0	ID=cds-ASB15763.1;Dbxref=NCBI_GP:ASB15763.1;Name=ASB15763.1;gbkey=CDS;product=7A;protein_id=ASB15763.1
+KY063618.2	Genbank	CDS	28002	28643	.	+	0	ID=cds-ASB15764.1;Dbxref=NCBI_GP:ASB15764.1;Name=ASB15764.1;gbkey=CDS;product=7B;protein_id=ASB15764.1
+

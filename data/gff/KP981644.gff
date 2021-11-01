@@ -1,0 +1,28 @@
+##sequence-region KP981644.1 1 29278
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11153
+KP981644.1	Genbank	region	1	29278	.	+	.	ID=KP981644.1:1..29278;Dbxref=taxon:11153;biotype=pantropic;collection-date=2005;country=Italy;gbkey=Src;genome=genomic;genotype=CCoV-IIa;isolation-source=lungs;mol_type=genomic RNA;nat-host=Canis lupus familiaris (domestic dog);strain=CB/05
+KP981644.1	Genbank	five_prime_UTR	1	313	.	+	.	ID=id-KP981644.1:1..313;gbkey=5'UTR
+KP981644.1	Genbank	gene	314	20358	.	+	.	ID=gene-ORF1ab;Name=ORF1ab;gbkey=Gene;gene=ORF1ab;gene_biotype=protein_coding
+KP981644.1	Genbank	CDS	314	12328	.	+	0	ID=cds-AKA65828.1;Parent=gene-ORF1ab;Dbxref=NCBI_GP:AKA65828.1;Name=AKA65828.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;product=polyprotein;protein_id=AKA65828.1
+KP981644.1	Genbank	CDS	12328	20358	.	+	0	ID=cds-AKA65828.1;Parent=gene-ORF1ab;Dbxref=NCBI_GP:AKA65828.1;Name=AKA65828.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;product=polyprotein;protein_id=AKA65828.1
+KP981644.1	Genbank	gene	314	12358	.	+	.	ID=gene-ORF1a;Name=ORF1a;gbkey=Gene;gene=ORF1a;gene_biotype=protein_coding
+KP981644.1	Genbank	CDS	314	12358	.	+	0	ID=cds-AKA65831.1;Parent=gene-ORF1a;Dbxref=NCBI_GP:AKA65831.1;Name=AKA65831.1;gbkey=CDS;gene=ORF1a;product=ORF1a protein;protein_id=AKA65831.1
+KP981644.1	Genbank	gene	20355	24719	.	+	.	ID=gene-ORF2;Name=ORF2;gbkey=Gene;gene=ORF2;gene_biotype=protein_coding
+KP981644.1	Genbank	CDS	20355	24719	.	+	0	ID=cds-AKA65829.1;Parent=gene-ORF2;Dbxref=NCBI_GP:AKA65829.1;Name=AKA65829.1;Note=S;gbkey=CDS;gene=ORF2;product=spike protein;protein_id=AKA65829.1
+KP981644.1	Genbank	gene	24772	24987	.	+	.	ID=gene-ORF3a;Name=ORF3a;gbkey=Gene;gene=ORF3a;gene_biotype=protein_coding
+KP981644.1	Genbank	CDS	24772	24987	.	+	0	ID=cds-AKA65830.1;Parent=gene-ORF3a;Dbxref=NCBI_GP:AKA65830.1;Name=AKA65830.1;gbkey=CDS;gene=ORF3a;product=ORF3a protein;protein_id=AKA65830.1
+KP981644.1	Genbank	sequence_feature	24932	25000	.	+	.	ID=id-KP981644.1:24932..25000;Note=nonfunctional non-structural protein 3b due to deletion;gbkey=misc_feature
+KP981644.1	Genbank	gene	25106	25840	.	+	.	ID=gene-ORF3c;Name=ORF3c;gbkey=Gene;gene=ORF3c;gene_biotype=protein_coding
+KP981644.1	Genbank	CDS	25106	25840	.	+	0	ID=cds-AKA65832.1;Parent=gene-ORF3c;Dbxref=NCBI_GP:AKA65832.1;Name=AKA65832.1;gbkey=CDS;gene=ORF3c;product=ORF3c protein;protein_id=AKA65832.1
+KP981644.1	Genbank	gene	25827	26075	.	+	.	ID=gene-ORF4;Name=ORF4;gbkey=Gene;gene=ORF4;gene_biotype=protein_coding
+KP981644.1	Genbank	CDS	25827	26075	.	+	0	ID=cds-AKA65833.1;Parent=gene-ORF4;Dbxref=NCBI_GP:AKA65833.1;Name=AKA65833.1;Note=E;gbkey=CDS;gene=ORF4;product=small envelope protein;protein_id=AKA65833.1
+KP981644.1	Genbank	gene	26086	26874	.	+	.	ID=gene-ORF5;Name=ORF5;gbkey=Gene;gene=ORF5;gene_biotype=protein_coding
+KP981644.1	Genbank	CDS	26086	26874	.	+	0	ID=cds-AKA65834.1;Parent=gene-ORF5;Dbxref=NCBI_GP:AKA65834.1;Name=AKA65834.1;Note=M;gbkey=CDS;gene=ORF5;product=membrane protein;protein_id=AKA65834.1
+KP981644.1	Genbank	gene	26887	28035	.	+	.	ID=gene-ORF6;Name=ORF6;gbkey=Gene;gene=ORF6;gene_biotype=protein_coding
+KP981644.1	Genbank	CDS	26887	28035	.	+	0	ID=cds-AKA65835.1;Parent=gene-ORF6;Dbxref=NCBI_GP:AKA65835.1;Name=AKA65835.1;Note=N;gbkey=CDS;gene=ORF6;product=nucleocapsid protein;protein_id=AKA65835.1
+KP981644.1	Genbank	gene	28040	28345	.	+	.	ID=gene-ORF7a;Name=ORF7a;gbkey=Gene;gene=ORF7a;gene_biotype=protein_coding
+KP981644.1	Genbank	CDS	28040	28345	.	+	0	ID=cds-AKA65836.1;Parent=gene-ORF7a;Dbxref=NCBI_GP:AKA65836.1;Name=AKA65836.1;gbkey=CDS;gene=ORF7a;product=ORF7a protein;protein_id=AKA65836.1
+KP981644.1	Genbank	gene	28350	28991	.	+	.	ID=gene-ORF7b;Name=ORF7b;gbkey=Gene;gene=ORF7b;gene_biotype=protein_coding
+KP981644.1	Genbank	CDS	28350	28991	.	+	0	ID=cds-AKA65837.1;Parent=gene-ORF7b;Dbxref=NCBI_GP:AKA65837.1;Name=AKA65837.1;gbkey=CDS;gene=ORF7b;product=ORF7b protein;protein_id=AKA65837.1
+KP981644.1	Genbank	three_prime_UTR	28992	29278	.	+	.	ID=id-KP981644.1:28992..29278;gbkey=3'UTR
+

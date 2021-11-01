@@ -1,0 +1,44 @@
+##sequence-region KF530123.1 1 29123
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12663
+KF530123.1	Genbank	region	1	29123	.	+	.	ID=KF530123.1:1..29123;Dbxref=taxon:12663;collection-date=17-Aug-2010;country=Netherlands: Utrecht;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Felis catus;strain=Felis catus/NLD/UU88/2010;subgroup=1a
+KF530123.1	Genbank	gene	231	20254	.	+	.	ID=gene-Pp1ab;Name=Pp1ab;gbkey=Gene;gene=Pp1ab;gene_biotype=protein_coding
+KF530123.1	Genbank	CDS	231	12224	.	+	0	ID=cds-AGT52079.1;Parent=gene-Pp1ab;Dbxref=NCBI_GP:AGT52079.1;Name=AGT52079.1;exception=ribosomal slippage;gbkey=CDS;gene=Pp1ab;product=ORF1ab polyprotein;protein_id=AGT52079.1
+KF530123.1	Genbank	CDS	12224	20254	.	+	0	ID=cds-AGT52079.1;Parent=gene-Pp1ab;Dbxref=NCBI_GP:AGT52079.1;Name=AGT52079.1;exception=ribosomal slippage;gbkey=CDS;gene=Pp1ab;product=ORF1ab polyprotein;protein_id=AGT52079.1
+KF530123.1	Genbank	mature_protein_region_of_CDS	231	560	.	+	.	ID=id-AGT52079.1:1..110;Parent=cds-AGT52079.1;gbkey=Prot;gene=Pp1ab;product=nsp1
+KF530123.1	Genbank	mature_protein_region_of_CDS	561	2867	.	+	.	ID=id-AGT52079.1:111..879;Parent=cds-AGT52079.1;gbkey=Prot;gene=Pp1ab;product=nsp2
+KF530123.1	Genbank	mature_protein_region_of_CDS	2868	7364	.	+	.	ID=id-AGT52079.1:880..2378;Parent=cds-AGT52079.1;gbkey=Prot;gene=Pp1ab;product=nsp3
+KF530123.1	Genbank	mature_protein_region_of_CDS	7365	8834	.	+	.	ID=id-AGT52079.1:2379..2868;Parent=cds-AGT52079.1;gbkey=Prot;gene=Pp1ab;product=nsp4
+KF530123.1	Genbank	mature_protein_region_of_CDS	8835	9740	.	+	.	ID=id-AGT52079.1:2869..3170;Parent=cds-AGT52079.1;gbkey=Prot;gene=Pp1ab;product=3C-like proteinase nsp5
+KF530123.1	Genbank	mature_protein_region_of_CDS	9741	10622	.	+	.	ID=id-AGT52079.1:3171..3464;Parent=cds-AGT52079.1;gbkey=Prot;gene=Pp1ab;product=nsp6
+KF530123.1	Genbank	mature_protein_region_of_CDS	10623	10871	.	+	.	ID=id-AGT52079.1:3465..3547;Parent=cds-AGT52079.1;gbkey=Prot;gene=Pp1ab;product=nsp7
+KF530123.1	Genbank	mature_protein_region_of_CDS	10872	11456	.	+	.	ID=id-AGT52079.1:3548..3742;Parent=cds-AGT52079.1;gbkey=Prot;gene=Pp1ab;product=nsp8
+KF530123.1	Genbank	mature_protein_region_of_CDS	11457	11789	.	+	.	ID=id-AGT52079.1:3743..3853;Parent=cds-AGT52079.1;gbkey=Prot;gene=Pp1ab;product=nsp9
+KF530123.1	Genbank	mature_protein_region_of_CDS	11790	12194	.	+	.	ID=id-AGT52079.1:3854..3988;Parent=cds-AGT52079.1;gbkey=Prot;gene=Pp1ab;product=nsp10
+KF530123.1	Genbank	mature_protein_region_of_CDS	12195	12224	.	+	.	ID=id-AGT52079.1:3989..4917;Parent=cds-AGT52079.1;gbkey=Prot;gene=Pp1ab;product=RNA-directed RNA polymerase nsp12
+KF530123.1	Genbank	mature_protein_region_of_CDS	12224	14980	.	+	.	ID=id-AGT52079.1:3989..4917;Parent=cds-AGT52079.1;gbkey=Prot;gene=Pp1ab;product=RNA-directed RNA polymerase nsp12
+KF530123.1	Genbank	mature_protein_region_of_CDS	14981	16777	.	+	.	ID=id-AGT52079.1:4918..5516;Parent=cds-AGT52079.1;gbkey=Prot;product=helicase nsp13
+KF530123.1	Genbank	mature_protein_region_of_CDS	16778	18334	.	+	.	ID=id-AGT52079.1:5517..6035;Parent=cds-AGT52079.1;gbkey=Prot;gene=Pp1ab;product=exoribonuclease nsp14
+KF530123.1	Genbank	mature_protein_region_of_CDS	18335	19351	.	+	.	ID=id-AGT52079.1:6036..6374;Parent=cds-AGT52079.1;gbkey=Prot;product=uridylate-specific endoribonuclease nsp15
+KF530123.1	Genbank	mature_protein_region_of_CDS	19352	20251	.	+	.	ID=id-AGT52079.1:6375..6674;Parent=cds-AGT52079.1;gbkey=Prot;gene=Pp1ab;product=2'-O-methyl transferase nsp16
+KF530123.1	Genbank	gene	231	12254	.	+	.	ID=gene-Pp1a;Name=Pp1a;gbkey=Gene;gene=Pp1a;gene_biotype=protein_coding
+KF530123.1	Genbank	CDS	231	12254	.	+	0	ID=cds-AGT52078.1;Parent=gene-Pp1a;Dbxref=NCBI_GP:AGT52078.1;Name=AGT52078.1;gbkey=CDS;gene=Pp1a;product=ORF1a polyprotein;protein_id=AGT52078.1
+KF530123.1	Genbank	mature_protein_region_of_CDS	12195	12251	.	+	.	ID=id-AGT52078.1:3989..4007;Parent=cds-AGT52078.1;gbkey=Prot;gene=Pp1a;product=nsp11
+KF530123.1	Genbank	gene	20251	24654	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KF530123.1	Genbank	CDS	20251	24654	.	+	0	ID=cds-AGT52080.1;Parent=gene-S;Dbxref=NCBI_GP:AGT52080.1;Name=AGT52080.1;gbkey=CDS;gene=S;product=spike protein;protein_id=AGT52080.1
+KF530123.1	Genbank	gene	24666	24878	.	+	.	ID=gene-NS3a;Name=NS3a;gbkey=Gene;gene=NS3a;gene_biotype=protein_coding
+KF530123.1	Genbank	CDS	24666	24878	.	+	0	ID=cds-AGT52081.1;Parent=gene-NS3a;Dbxref=NCBI_GP:AGT52081.1;Name=AGT52081.1;gbkey=CDS;gene=NS3a;product=non-structural protein 3a;protein_id=AGT52081.1
+KF530123.1	Genbank	gene	24826	25047	.	+	.	ID=gene-NS3b;Name=NS3b;gbkey=Gene;gene=NS3b;gene_biotype=protein_coding
+KF530123.1	Genbank	CDS	24826	25047	.	+	0	ID=cds-AGT52082.1;Parent=gene-NS3b;Dbxref=NCBI_GP:AGT52082.1;Name=AGT52082.1;gbkey=CDS;gene=NS3b;product=non-structural protein 3b;protein_id=AGT52082.1
+KF530123.1	Genbank	gene	25044	25757	.	+	.	ID=gene-NS3c;Name=NS3c;gbkey=Gene;gene=NS3c;gene_biotype=protein_coding
+KF530123.1	Genbank	CDS	25044	25757	.	+	0	ID=cds-AGT52083.1;Parent=gene-NS3c;Dbxref=NCBI_GP:AGT52083.1;Name=AGT52083.1;gbkey=CDS;gene=NS3c;product=non-structural protein 3c;protein_id=AGT52083.1
+KF530123.1	Genbank	gene	25744	25992	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+KF530123.1	Genbank	CDS	25744	25992	.	+	0	ID=cds-AGT52084.1;Parent=gene-E;Dbxref=NCBI_GP:AGT52084.1;Name=AGT52084.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=AGT52084.1
+KF530123.1	Genbank	gene	26003	26794	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KF530123.1	Genbank	CDS	26003	26794	.	+	0	ID=cds-AGT52085.1;Parent=gene-M;Dbxref=NCBI_GP:AGT52085.1;Name=AGT52085.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=AGT52085.1
+KF530123.1	Genbank	gene	26807	27940	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KF530123.1	Genbank	CDS	26807	27940	.	+	0	ID=cds-AGT52086.1;Parent=gene-N;Dbxref=NCBI_GP:AGT52086.1;Name=AGT52086.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=AGT52086.1
+KF530123.1	Genbank	gene	27945	28250	.	+	.	ID=gene-NS7a;Name=NS7a;gbkey=Gene;gene=NS7a;gene_biotype=protein_coding
+KF530123.1	Genbank	CDS	27945	28250	.	+	0	ID=cds-AGT52087.1;Parent=gene-NS7a;Dbxref=NCBI_GP:AGT52087.1;Name=AGT52087.1;gbkey=CDS;gene=NS7a;product=non-structural protein 7a;protein_id=AGT52087.1
+KF530123.1	Genbank	gene	28255	28869	.	+	.	ID=gene-NS7b;Name=NS7b;gbkey=Gene;gene=NS7b;gene_biotype=protein_coding
+KF530123.1	Genbank	CDS	28255	28869	.	+	0	ID=cds-AGT52088.1;Parent=gene-NS7b;Dbxref=NCBI_GP:AGT52088.1;Name=AGT52088.1;gbkey=CDS;gene=NS7b;product=non-structural protein 7b;protein_id=AGT52088.1
+

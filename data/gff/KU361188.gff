@@ -1,0 +1,24 @@
+##sequence-region KU361188.1 1 27691
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+KU361188.1	Genbank	region	1	27691	.	+	.	ID=KU361188.1:1..27691;Dbxref=taxon:11120;collection-date=2014;country=China;gbkey=Src;genome=genomic;isolate=CK/CH/2014/QL1403;mol_type=genomic RNA;nat-host=chicken
+KU361188.1	Genbank	gene	526	12375	.	+	.	ID=gene-1a;Name=1a;gbkey=Gene;gene=1a;gene_biotype=protein_coding
+KU361188.1	Genbank	CDS	526	12375	.	+	0	ID=cds-ANO81452.1;Parent=gene-1a;Dbxref=NCBI_GP:ANO81452.1;Name=ANO81452.1;gbkey=CDS;gene=1a;product=1a polyprotein;protein_id=ANO81452.1
+KU361188.1	Genbank	gene	12450	20408	.	+	.	ID=gene-1b;Name=1b;gbkey=Gene;gene=1b;gene_biotype=protein_coding
+KU361188.1	Genbank	CDS	12450	20408	.	+	0	ID=cds-ANO81453.1;Parent=gene-1b;Dbxref=NCBI_GP:ANO81453.1;Name=ANO81453.1;gbkey=CDS;gene=1b;product=1b polyprotein;protein_id=ANO81453.1
+KU361188.1	Genbank	gene	20359	23874	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KU361188.1	Genbank	CDS	20359	23874	.	+	0	ID=cds-ANO81454.1;Parent=gene-S;Dbxref=NCBI_GP:ANO81454.1;Name=ANO81454.1;gbkey=CDS;gene=S;product=spike glycoprotein;protein_id=ANO81454.1
+KU361188.1	Genbank	gene	23874	24047	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+KU361188.1	Genbank	CDS	23874	24047	.	+	0	ID=cds-ANO81455.1;Parent=gene-3a;Dbxref=NCBI_GP:ANO81455.1;Name=ANO81455.1;gbkey=CDS;gene=3a;product=3a protein;protein_id=ANO81455.1
+KU361188.1	Genbank	gene	24047	24235	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+KU361188.1	Genbank	CDS	24047	24235	.	+	0	ID=cds-ANO81456.1;Parent=gene-3b;Dbxref=NCBI_GP:ANO81456.1;Name=ANO81456.1;gbkey=CDS;gene=3b;product=3b protein;protein_id=ANO81456.1
+KU361188.1	Genbank	gene	24219	24527	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+KU361188.1	Genbank	CDS	24219	24527	.	+	0	ID=cds-ANO81457.1;Parent=gene-E;Dbxref=NCBI_GP:ANO81457.1;Name=ANO81457.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=ANO81457.1
+KU361188.1	Genbank	gene	24517	25197	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KU361188.1	Genbank	CDS	24517	25197	.	+	0	ID=cds-ANO81458.1;Parent=gene-M;Dbxref=NCBI_GP:ANO81458.1;Name=ANO81458.1;gbkey=CDS;gene=M;product=membrane glycoprotein;protein_id=ANO81458.1
+KU361188.1	Genbank	gene	25561	25758	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+KU361188.1	Genbank	CDS	25561	25758	.	+	0	ID=cds-ANO81459.1;Parent=gene-5a;Dbxref=NCBI_GP:ANO81459.1;Name=ANO81459.1;gbkey=CDS;gene=5a;product=5a protein;protein_id=ANO81459.1
+KU361188.1	Genbank	gene	25755	26003	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+KU361188.1	Genbank	CDS	25755	26003	.	+	0	ID=cds-ANO81460.1;Parent=gene-5b;Dbxref=NCBI_GP:ANO81460.1;Name=ANO81460.1;gbkey=CDS;gene=5b;product=5b protein;protein_id=ANO81460.1
+KU361188.1	Genbank	gene	25946	27175	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KU361188.1	Genbank	CDS	25946	27175	.	+	0	ID=cds-ANO81461.1;Parent=gene-N;Dbxref=NCBI_GP:ANO81461.1;Name=ANO81461.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=ANO81461.1
+

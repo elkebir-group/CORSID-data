@@ -1,0 +1,25 @@
+##sequence-region NC_016995.1 1 26227
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1159908
+NC_016995.1	RefSeq	region	1	26227	.	+	.	ID=NC_016995.1:1..26227;Dbxref=taxon:1159908;collection-date=2008;country=China: Hong Kong;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=wigeon;strain=HKU20-9243
+NC_016995.1	RefSeq	gene	219	18838	.	+	.	ID=gene-WiCoV-HKU20_gp01;Dbxref=GeneID:11945664;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding;locus_tag=WiCoV-HKU20_gp01
+NC_016995.1	RefSeq	CDS	219	10922	.	+	0	ID=cds-YP_005352870.1;Parent=gene-WiCoV-HKU20_gp01;Dbxref=Genbank:YP_005352870.1,GeneID:11945664;Name=YP_005352870.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;locus_tag=WiCoV-HKU20_gp01;product=replicase polyprotein;protein_id=YP_005352870.1
+NC_016995.1	RefSeq	CDS	10922	18838	.	+	0	ID=cds-YP_005352870.1;Parent=gene-WiCoV-HKU20_gp01;Dbxref=Genbank:YP_005352870.1,GeneID:11945664;Name=YP_005352870.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;locus_tag=WiCoV-HKU20_gp01;product=replicase polyprotein;protein_id=YP_005352870.1
+NC_016995.1	RefSeq	gene	18817	22455	.	+	.	ID=gene-WiCoV-HKU20_gp02;Dbxref=GeneID:11945665;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding;locus_tag=WiCoV-HKU20_gp02
+NC_016995.1	RefSeq	CDS	18817	22455	.	+	0	ID=cds-YP_005352871.1;Parent=gene-WiCoV-HKU20_gp02;Dbxref=Genbank:YP_005352871.1,GeneID:11945665;Name=YP_005352871.1;gbkey=CDS;gene=S;locus_tag=WiCoV-HKU20_gp02;product=spike glycoprotein;protein_id=YP_005352871.1
+NC_016995.1	RefSeq	gene	22455	22715	.	+	.	ID=gene-WiCoV-HKU20_gp03;Dbxref=GeneID:11945666;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding;locus_tag=WiCoV-HKU20_gp03
+NC_016995.1	RefSeq	CDS	22455	22715	.	+	0	ID=cds-YP_005352872.1;Parent=gene-WiCoV-HKU20_gp03;Dbxref=Genbank:YP_005352872.1,GeneID:11945666;Name=YP_005352872.1;gbkey=CDS;gene=E;locus_tag=WiCoV-HKU20_gp03;product=envelope protein;protein_id=YP_005352872.1
+NC_016995.1	RefSeq	gene	22708	23358	.	+	.	ID=gene-WiCoV-HKU20_gp04;Dbxref=GeneID:11945667;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding;locus_tag=WiCoV-HKU20_gp04
+NC_016995.1	RefSeq	CDS	22708	23358	.	+	0	ID=cds-YP_005352873.1;Parent=gene-WiCoV-HKU20_gp04;Dbxref=Genbank:YP_005352873.1,GeneID:11945667;Name=YP_005352873.1;gbkey=CDS;gene=M;locus_tag=WiCoV-HKU20_gp04;product=membrane protein;protein_id=YP_005352873.1
+NC_016995.1	RefSeq	gene	23358	23630	.	+	.	ID=gene-WiCoV-HKU20_gp05;Dbxref=GeneID:11945668;Name=NS6;gbkey=Gene;gene=NS6;gene_biotype=protein_coding;locus_tag=WiCoV-HKU20_gp05
+NC_016995.1	RefSeq	CDS	23358	23630	.	+	0	ID=cds-YP_005352874.1;Parent=gene-WiCoV-HKU20_gp05;Dbxref=Genbank:YP_005352874.1,GeneID:11945668;Name=YP_005352874.1;gbkey=CDS;gene=NS6;locus_tag=WiCoV-HKU20_gp05;product=NS6 protein;protein_id=YP_005352874.1
+NC_016995.1	RefSeq	gene	23646	24698	.	+	.	ID=gene-WiCoV-HKU20_gp06;Dbxref=GeneID:11945669;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding;locus_tag=WiCoV-HKU20_gp06
+NC_016995.1	RefSeq	CDS	23646	24698	.	+	0	ID=cds-YP_005352875.1;Parent=gene-WiCoV-HKU20_gp06;Dbxref=Genbank:YP_005352875.1,GeneID:11945669;Name=YP_005352875.1;gbkey=CDS;gene=N;locus_tag=WiCoV-HKU20_gp06;product=nucleocapsid protein;protein_id=YP_005352875.1
+NC_016995.1	RefSeq	gene	24695	24928	.	+	.	ID=gene-WiCoV-HKU20_gp07;Dbxref=GeneID:11945670;Name=NS7a;gbkey=Gene;gene=NS7a;gene_biotype=protein_coding;locus_tag=WiCoV-HKU20_gp07
+NC_016995.1	RefSeq	CDS	24695	24928	.	+	0	ID=cds-YP_005352876.1;Parent=gene-WiCoV-HKU20_gp07;Dbxref=Genbank:YP_005352876.1,GeneID:11945670;Name=YP_005352876.1;gbkey=CDS;gene=NS7a;locus_tag=WiCoV-HKU20_gp07;product=NS7a protein;protein_id=YP_005352876.1
+NC_016995.1	RefSeq	gene	25218	25466	.	+	.	ID=gene-WiCoV-HKU20_gp08;Dbxref=GeneID:11945671;Name=NS7b;gbkey=Gene;gene=NS7b;gene_biotype=protein_coding;locus_tag=WiCoV-HKU20_gp08
+NC_016995.1	RefSeq	CDS	25218	25466	.	+	0	ID=cds-YP_005352877.1;Parent=gene-WiCoV-HKU20_gp08;Dbxref=Genbank:YP_005352877.1,GeneID:11945671;Name=YP_005352877.1;gbkey=CDS;gene=NS7b;locus_tag=WiCoV-HKU20_gp08;product=NS7b protein;protein_id=YP_005352877.1
+NC_016995.1	RefSeq	gene	25450	25716	.	+	.	ID=gene-WiCoV-HKU20_gp09;Dbxref=GeneID:11945672;Name=NS7c;gbkey=Gene;gene=NS7c;gene_biotype=protein_coding;locus_tag=WiCoV-HKU20_gp09
+NC_016995.1	RefSeq	CDS	25450	25716	.	+	0	ID=cds-YP_005352878.1;Parent=gene-WiCoV-HKU20_gp09;Dbxref=Genbank:YP_005352878.1,GeneID:11945672;Name=YP_005352878.1;gbkey=CDS;gene=NS7c;locus_tag=WiCoV-HKU20_gp09;product=NS7c protein;protein_id=YP_005352878.1
+NC_016995.1	RefSeq	gene	25752	25952	.	+	.	ID=gene-WiCoV-HKU20_gp10;Dbxref=GeneID:11945673;Name=NS7d;gbkey=Gene;gene=NS7d;gene_biotype=protein_coding;locus_tag=WiCoV-HKU20_gp10
+NC_016995.1	RefSeq	CDS	25752	25952	.	+	0	ID=cds-YP_005352879.1;Parent=gene-WiCoV-HKU20_gp10;Dbxref=Genbank:YP_005352879.1,GeneID:11945673;Name=YP_005352879.1;gbkey=CDS;gene=NS7d;locus_tag=WiCoV-HKU20_gp10;product=NS7d protein;protein_id=YP_005352879.1
+

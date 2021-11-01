@@ -1,0 +1,16 @@
+##sequence-region HQ392472.1 1 29233
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=906886
+HQ392472.1	Genbank	region	1	29233	.	+	.	ID=HQ392472.1:1..29233;Dbxref=taxon:906886;collection-date=22-Jan-2008;country=Netherlands: Utrecht;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=feline;strain=UU30
+HQ392472.1	Genbank	CDS	274	12321	.	+	0	ID=cds-ADO39849.1;Dbxref=NCBI_GP:ADO39849.1;Name=ADO39849.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein orf1ab;protein_id=ADO39849.1
+HQ392472.1	Genbank	CDS	12321	20363	.	+	0	ID=cds-ADO39849.1;Dbxref=NCBI_GP:ADO39849.1;Name=ADO39849.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein orf1ab;protein_id=ADO39849.1
+HQ392472.1	Genbank	CDS	274	12363	.	+	0	ID=cds-ADO39848.1;Dbxref=NCBI_GP:ADO39848.1;Name=ADO39848.1;gbkey=CDS;product=polyprotein orf1a;protein_id=ADO39848.1
+HQ392472.1	Genbank	CDS	20360	24757	.	+	0	ID=cds-ADO39850.1;Dbxref=NCBI_GP:ADO39850.1;Name=ADO39850.1;gbkey=CDS;product=spike protein;protein_id=ADO39850.1
+HQ392472.1	Genbank	CDS	24769	24981	.	+	0	ID=cds-ADO39851.1;Dbxref=NCBI_GP:ADO39851.1;Name=ADO39851.1;gbkey=CDS;product=non-structural protein 3a;protein_id=ADO39851.1
+HQ392472.1	Genbank	CDS	24929	25150	.	+	0	ID=cds-ADO39852.1;Dbxref=NCBI_GP:ADO39852.1;Name=ADO39852.1;gbkey=CDS;product=non-structural protein 3b;protein_id=ADO39852.1
+HQ392472.1	Genbank	pseudogene	25147	25857	.	+	.	ID=gene-HQ392472.1:25147..25857;description=non-structural protein 3c;gbkey=Gene;gene_biotype=pseudogene;pseudo=true
+HQ392472.1	Genbank	CDS	25847	26095	.	+	0	ID=cds-ADO39853.1;Dbxref=NCBI_GP:ADO39853.1;Name=ADO39853.1;gbkey=CDS;product=envelope protein;protein_id=ADO39853.1
+HQ392472.1	Genbank	CDS	26106	26897	.	+	0	ID=cds-ADO39854.1;Dbxref=NCBI_GP:ADO39854.1;Name=ADO39854.1;gbkey=CDS;product=membrane protein;protein_id=ADO39854.1
+HQ392472.1	Genbank	CDS	26910	28043	.	+	0	ID=cds-ADO39855.1;Dbxref=NCBI_GP:ADO39855.1;Name=ADO39855.1;gbkey=CDS;product=nucleocapsid protein;protein_id=ADO39855.1
+HQ392472.1	Genbank	CDS	28048	28353	.	+	0	ID=cds-ADO39856.1;Dbxref=NCBI_GP:ADO39856.1;Name=ADO39856.1;gbkey=CDS;product=non-structural protein 7a;protein_id=ADO39856.1
+HQ392472.1	Genbank	CDS	28358	28978	.	+	0	ID=cds-ADO39857.1;Dbxref=NCBI_GP:ADO39857.1;Name=ADO39857.1;gbkey=CDS;product=non-structural protein 7b;protein_id=ADO39857.1
+

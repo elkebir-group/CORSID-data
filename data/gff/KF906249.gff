@@ -1,0 +1,23 @@
+##sequence-region KF906249.1 1 31052
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1479610
+KF906249.1	Genbank	region	1	31052	.	+	.	ID=KF906249.1:1..31052;Dbxref=taxon:1479610;collection-date=03-Apr-2013;country=United Arab Emirates: Dubai;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=dromedary camel;strain=HKU23-265F
+KF906249.1	Genbank	gene	215	21498	.	+	.	ID=gene-orf1ab;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding
+KF906249.1	Genbank	CDS	215	13345	.	+	0	ID=cds-AHN64771.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:AHN64771.1;Name=AHN64771.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=replicase polyprotein;protein_id=AHN64771.1
+KF906249.1	Genbank	CDS	13345	21498	.	+	0	ID=cds-AHN64771.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:AHN64771.1;Name=AHN64771.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=replicase polyprotein;protein_id=AHN64771.1
+KF906249.1	Genbank	gene	21508	22344	.	+	.	ID=gene-NS2;Name=NS2;gbkey=Gene;gene=NS2;gene_biotype=protein_coding
+KF906249.1	Genbank	CDS	21508	22344	.	+	0	ID=cds-AHN64772.1;Parent=gene-NS2;Dbxref=NCBI_GP:AHN64772.1;Name=AHN64772.1;gbkey=CDS;gene=NS2;product=NS2 protein;protein_id=AHN64772.1
+KF906249.1	Genbank	gene	22356	23630	.	+	.	ID=gene-HE;Name=HE;gbkey=Gene;gene=HE;gene_biotype=protein_coding
+KF906249.1	Genbank	CDS	22356	23630	.	+	0	ID=cds-AHN64773.1;Parent=gene-HE;Dbxref=NCBI_GP:AHN64773.1;Name=AHN64773.1;gbkey=CDS;gene=HE;product=hemagglutinin-esterase protein;protein_id=AHN64773.1
+KF906249.1	Genbank	gene	23645	27745	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KF906249.1	Genbank	CDS	23645	27745	.	+	0	ID=cds-AHN64774.1;Parent=gene-S;Dbxref=NCBI_GP:AHN64774.1;Name=AHN64774.1;gbkey=CDS;gene=S;product=spike protein;protein_id=AHN64774.1
+KF906249.1	Genbank	gene	28114	28443	.	+	.	ID=gene-NS5;Name=NS5;gbkey=Gene;gene=NS5;gene_biotype=protein_coding
+KF906249.1	Genbank	CDS	28114	28443	.	+	0	ID=cds-AHN64775.1;Parent=gene-NS5;Dbxref=NCBI_GP:AHN64775.1;Name=AHN64775.1;gbkey=CDS;gene=NS5;product=NS5 protein;protein_id=AHN64775.1
+KF906249.1	Genbank	gene	28430	28684	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+KF906249.1	Genbank	CDS	28430	28684	.	+	0	ID=cds-AHN64776.1;Parent=gene-E;Dbxref=NCBI_GP:AHN64776.1;Name=AHN64776.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=AHN64776.1
+KF906249.1	Genbank	gene	28699	29391	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KF906249.1	Genbank	CDS	28699	29391	.	+	0	ID=cds-AHN64777.1;Parent=gene-M;Dbxref=NCBI_GP:AHN64777.1;Name=AHN64777.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=AHN64777.1
+KF906249.1	Genbank	gene	29401	30747	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KF906249.1	Genbank	CDS	29401	30747	.	+	0	ID=cds-AHN64778.1;Parent=gene-N;Dbxref=NCBI_GP:AHN64778.1;Name=AHN64778.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=AHN64778.1
+KF906249.1	Genbank	gene	29462	30085	.	+	.	ID=gene-N2;Name=N2;gbkey=Gene;gene=N2;gene_biotype=protein_coding
+KF906249.1	Genbank	CDS	29462	30085	.	+	0	ID=cds-AHN64779.1;Parent=gene-N2;Dbxref=NCBI_GP:AHN64779.1;Name=AHN64779.1;gbkey=CDS;gene=N2;product=internal protein;protein_id=AHN64779.1
+

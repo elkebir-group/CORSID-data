@@ -1,0 +1,14 @@
+##sequence-region MH687970.1 1 31038
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1928434
+MH687970.1	Genbank	region	1	31038	.	+	.	ID=MH687970.1:1..31038;Dbxref=taxon:1928434;collection-date=12-Nov-2014;country=Viet Nam;gbkey=Src;mol_type=genomic RNA;nat-host=Rattus argentiventer;strain=VZ_BetaCoV_20724_34_c12
+MH687970.1	Genbank	CDS	188	13345	.	+	0	ID=cds-AYR18613.1;Dbxref=NCBI_GP:AYR18613.1;Name=AYR18613.1;exception=ribosomal slippage;gbkey=CDS;product=replicase polyprotein;protein_id=AYR18613.1
+MH687970.1	Genbank	CDS	13345	21495	.	+	0	ID=cds-AYR18613.1;Dbxref=NCBI_GP:AYR18613.1;Name=AYR18613.1;exception=ribosomal slippage;gbkey=CDS;product=replicase polyprotein;protein_id=AYR18613.1
+MH687970.1	Genbank	CDS	21508	22296	.	+	0	ID=cds-AYR18614.1;Dbxref=NCBI_GP:AYR18614.1;Name=AYR18614.1;gbkey=CDS;product=nonstructural protein NS2a;protein_id=AYR18614.1
+MH687970.1	Genbank	CDS	22352	23593	.	+	0	ID=cds-AYR18615.1;Dbxref=NCBI_GP:AYR18615.1;Name=AYR18615.1;gbkey=CDS;product=hemagglutinin-esterase protein;protein_id=AYR18615.1
+MH687970.1	Genbank	CDS	23606	27643	.	+	0	ID=cds-AYR18616.1;Dbxref=NCBI_GP:AYR18616.1;Name=AYR18616.1;gbkey=CDS;product=spike glycoprotein;protein_id=AYR18616.1
+MH687970.1	Genbank	CDS	27710	28132	.	+	0	ID=cds-AYR18617.1;Dbxref=NCBI_GP:AYR18617.1;Name=AYR18617.1;gbkey=CDS;product=nonstructural protein NS4;protein_id=AYR18617.1
+MH687970.1	Genbank	CDS	28114	28443	.	+	0	ID=cds-AYR18618.1;Dbxref=NCBI_GP:AYR18618.1;Name=AYR18618.1;gbkey=CDS;product=nonstructural protein NS4;protein_id=AYR18618.1
+MH687970.1	Genbank	CDS	28436	28690	.	+	0	ID=cds-AYR18619.1;Dbxref=NCBI_GP:AYR18619.1;Name=AYR18619.1;gbkey=CDS;product=envelope protein;protein_id=AYR18619.1
+MH687970.1	Genbank	CDS	28701	29393	.	+	0	ID=cds-AYR18620.1;Dbxref=NCBI_GP:AYR18620.1;Name=AYR18620.1;gbkey=CDS;product=membrane protein;protein_id=AYR18620.1
+MH687970.1	Genbank	CDS	29403	30755	.	+	0	ID=cds-AYR18621.1;Dbxref=NCBI_GP:AYR18621.1;Name=AYR18621.1;gbkey=CDS;product=nucleocapsid protein;protein_id=AYR18621.1
+

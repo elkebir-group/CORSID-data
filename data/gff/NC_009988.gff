@@ -1,0 +1,21 @@
+##sequence-region NC_009988.1 1 27165
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=693998
+NC_009988.1	RefSeq	region	1	27165	.	+	.	ID=NC_009988.1:1..27165;Dbxref=taxon:693998;gbkey=Src;genome=genomic;mol_type=genomic RNA;old-name=Bat coronavirus HKU2;strain=HKU2/GD/430/2006
+NC_009988.1	RefSeq	gene	297	20479	.	+	.	ID=gene-BCHV2_gp1;Dbxref=GeneID:5741388;Name=BCHV2_gp1;gbkey=Gene;gene_biotype=other;locus_tag=BCHV2_gp1
+NC_009988.1	RefSeq	CDS	297	12446	.	+	0	ID=cds-YP_001552234.1;Dbxref=Genbank:YP_001552234.1;Name=YP_001552234.1;Note=translated by -1 ribosomal frameshift;exception=ribosomal slippage;gbkey=CDS;product=orf1ab polyprotein;protein_id=YP_001552234.1
+NC_009988.1	RefSeq	CDS	12446	20479	.	+	0	ID=cds-YP_001552234.1;Dbxref=Genbank:YP_001552234.1;Name=YP_001552234.1;Note=translated by -1 ribosomal frameshift;exception=ribosomal slippage;gbkey=CDS;product=orf1ab polyprotein;protein_id=YP_001552234.1
+NC_009988.1	RefSeq	gene	297	12476	.	+	.	ID=gene-BCHV2_gp2;Dbxref=GeneID:5741384;Name=BCHV2_gp2;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BCHV2_gp2
+NC_009988.1	RefSeq	CDS	297	12476	.	+	0	ID=cds-YP_001552235.1;Parent=gene-BCHV2_gp2;Dbxref=Genbank:YP_001552235.1,GeneID:5741384;Name=YP_001552235.1;gbkey=CDS;locus_tag=BCHV2_gp2;product=orf1a polyprotein;protein_id=YP_001552235.1
+NC_009988.1	RefSeq	gene	20476	23862	.	+	.	ID=gene-BCHV2_gp3;Dbxref=GeneID:5741389;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding;locus_tag=BCHV2_gp3
+NC_009988.1	RefSeq	CDS	20476	23862	.	+	0	ID=cds-YP_001552236.1;Parent=gene-BCHV2_gp3;Dbxref=Genbank:YP_001552236.1,GeneID:5741389;Name=YP_001552236.1;gbkey=CDS;gene=S;locus_tag=BCHV2_gp3;product=spike glycoprotein;protein_id=YP_001552236.1
+NC_009988.1	RefSeq	gene	23862	24551	.	+	.	ID=gene-BCHV2_gp4;Dbxref=GeneID:5741385;Name=NS3;gbkey=Gene;gene=NS3;gene_biotype=protein_coding;locus_tag=BCHV2_gp4
+NC_009988.1	RefSeq	CDS	23862	24551	.	+	0	ID=cds-YP_001552237.1;Parent=gene-BCHV2_gp4;Dbxref=Genbank:YP_001552237.1,GeneID:5741385;Name=YP_001552237.1;gbkey=CDS;gene=NS3;locus_tag=BCHV2_gp4;product=hypothetical protein;protein_id=YP_001552237.1
+NC_009988.1	RefSeq	gene	24532	24759	.	+	.	ID=gene-BCHV2_gp5;Dbxref=GeneID:5741386;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding;locus_tag=BCHV2_gp5
+NC_009988.1	RefSeq	CDS	24532	24759	.	+	0	ID=cds-YP_001552238.1;Parent=gene-BCHV2_gp5;Dbxref=Genbank:YP_001552238.1,GeneID:5741386;Name=YP_001552238.1;gbkey=CDS;gene=E;locus_tag=BCHV2_gp5;product=small membrane protein;protein_id=YP_001552238.1
+NC_009988.1	RefSeq	gene	24768	25457	.	+	.	ID=gene-BCHV2_gp6;Dbxref=GeneID:5741387;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding;locus_tag=BCHV2_gp6
+NC_009988.1	RefSeq	CDS	24768	25457	.	+	0	ID=cds-YP_001552239.1;Parent=gene-BCHV2_gp6;Dbxref=Genbank:YP_001552239.1,GeneID:5741387;Name=YP_001552239.1;gbkey=CDS;gene=M;locus_tag=BCHV2_gp6;product=membrane glycoprotein;protein_id=YP_001552239.1
+NC_009988.1	RefSeq	gene	25469	26596	.	+	.	ID=gene-BCHV2_gp7;Dbxref=GeneID:5741383;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding;locus_tag=BCHV2_gp7
+NC_009988.1	RefSeq	CDS	25469	26596	.	+	0	ID=cds-YP_001552240.1;Parent=gene-BCHV2_gp7;Dbxref=Genbank:YP_001552240.1,GeneID:5741383;Name=YP_001552240.1;gbkey=CDS;gene=N;locus_tag=BCHV2_gp7;product=nucleocapsid phosphoprotein;protein_id=YP_001552240.1
+NC_009988.1	RefSeq	gene	26608	26907	.	+	.	ID=gene-BCHV2_gp8;Dbxref=GeneID:5741382;Name=NS7a;gbkey=Gene;gene=NS7a;gene_biotype=protein_coding;locus_tag=BCHV2_gp8
+NC_009988.1	RefSeq	CDS	26608	26907	.	+	0	ID=cds-YP_001552241.1;Parent=gene-BCHV2_gp8;Dbxref=Genbank:YP_001552241.1,GeneID:5741382;Name=YP_001552241.1;gbkey=CDS;gene=NS7a;locus_tag=BCHV2_gp8;product=hypothetical protein;protein_id=YP_001552241.1
+

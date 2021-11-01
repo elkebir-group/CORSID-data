@@ -1,0 +1,10 @@
+##sequence-region KY770851.1 1 28096
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1508220
+KY770851.1	Genbank	region	1	28096	.	+	.	ID=KY770851.1:1..28096;Dbxref=taxon:1508220;collection-date=2013;country=China;gbkey=Src;genome=genomic;isolate=Anlong-57;mol_type=genomic RNA;nat-host=Myotis davidii
+KY770851.1	Genbank	CDS	298	12345	.	+	0	ID=cds-ARI44793.1;Dbxref=NCBI_GP:ARI44793.1;Name=ARI44793.1;exception=ribosomal slippage;gbkey=CDS;product=orf1ab polyprotein;protein_id=ARI44793.1
+KY770851.1	Genbank	CDS	12345	20390	.	+	0	ID=cds-ARI44793.1;Dbxref=NCBI_GP:ARI44793.1;Name=ARI44793.1;exception=ribosomal slippage;gbkey=CDS;product=orf1ab polyprotein;protein_id=ARI44793.1
+KY770851.1	Genbank	CDS	20392	24579	.	+	0	ID=cds-ARI44794.1;Dbxref=NCBI_GP:ARI44794.1;Name=ARI44794.1;gbkey=CDS;product=spike glycoprotein;protein_id=ARI44794.1
+KY770851.1	Genbank	CDS	25242	25472	.	+	0	ID=cds-ARI44795.1;Dbxref=NCBI_GP:ARI44795.1;Name=ARI44795.1;gbkey=CDS;product=envelope protein;protein_id=ARI44795.1
+KY770851.1	Genbank	CDS	25482	26168	.	+	0	ID=cds-ARI44796.1;Dbxref=NCBI_GP:ARI44796.1;Name=ARI44796.1;gbkey=CDS;product=membrane protein;protein_id=ARI44796.1
+KY770851.1	Genbank	CDS	26177	27478	.	+	0	ID=cds-ARI44797.1;Dbxref=NCBI_GP:ARI44797.1;Name=ARI44797.1;gbkey=CDS;product=nucleocapsid protein;protein_id=ARI44797.1
+

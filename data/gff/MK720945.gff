@@ -1,0 +1,27 @@
+##sequence-region MK720945.1 1 29201
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2586419
+MK720945.1	Genbank	region	1	29201	.	+	.	ID=MK720945.1:1..29201;Dbxref=taxon:2586419;collection-date=06-Aug-2015;country=Hong Kong;gbkey=Src;genome=genomic;isolation-source=anal swab;mol_type=genomic RNA;nat-host=Rhinolophus sinicus;strain=TLC26A
+MK720945.1	Genbank	gene	291	20428	.	+	.	ID=gene-orf1ab;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding
+MK720945.1	Genbank	CDS	291	12407	.	+	0	ID=cds-QCX35166.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:QCX35166.1;Name=QCX35166.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab polyprotein;protein_id=QCX35166.1
+MK720945.1	Genbank	CDS	12407	20428	.	+	0	ID=cds-QCX35166.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:QCX35166.1;Name=QCX35166.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab polyprotein;protein_id=QCX35166.1
+MK720945.1	Genbank	gene	20430	24485	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MK720945.1	Genbank	CDS	20430	24485	.	+	0	ID=cds-QCX35167.1;Parent=gene-S;Dbxref=NCBI_GP:QCX35167.1;Name=QCX35167.1;gbkey=CDS;gene=S;product=spike glycoprotein;protein_id=QCX35167.1
+MK720945.1	Genbank	gene	24485	25153	.	+	.	ID=gene-NS3;Name=NS3;gbkey=Gene;gene=NS3;gene_biotype=protein_coding
+MK720945.1	Genbank	CDS	24485	25153	.	+	0	ID=cds-QCX35168.1;Parent=gene-NS3;Dbxref=NCBI_GP:QCX35168.1;Name=QCX35168.1;gbkey=CDS;gene=NS3;product=nonstructural protein 3;protein_id=QCX35168.1
+MK720945.1	Genbank	gene	25184	25543	.	+	.	ID=gene-NS4;Name=NS4;gbkey=Gene;gene=NS4;gene_biotype=protein_coding
+MK720945.1	Genbank	CDS	25184	25543	.	+	0	ID=cds-QCX35169.1;Parent=gene-NS4;Dbxref=NCBI_GP:QCX35169.1;Name=QCX35169.1;gbkey=CDS;gene=NS4;product=nonstructural protein 4;protein_id=QCX35169.1
+MK720945.1	Genbank	gene	25544	25888	.	+	.	ID=gene-NS5a;Name=NS5a;gbkey=Gene;gene=NS5a;gene_biotype=protein_coding
+MK720945.1	Genbank	CDS	25544	25888	.	+	0	ID=cds-QCX35170.1;Parent=gene-NS5a;Dbxref=NCBI_GP:QCX35170.1;Name=QCX35170.1;gbkey=CDS;gene=NS5a;product=nonstructural protein 5a;protein_id=QCX35170.1
+MK720945.1	Genbank	gene	25782	26225	.	+	.	ID=gene-NS5b;Name=NS5b;gbkey=Gene;gene=NS5b;gene_biotype=protein_coding
+MK720945.1	Genbank	CDS	25782	26225	.	+	0	ID=cds-QCX35171.1;Parent=gene-NS5b;Dbxref=NCBI_GP:QCX35171.1;Name=QCX35171.1;gbkey=CDS;gene=NS5b;product=nonstructural protein 5b;protein_id=QCX35171.1
+MK720945.1	Genbank	gene	26209	26433	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MK720945.1	Genbank	CDS	26209	26433	.	+	0	ID=cds-QCX35172.1;Parent=gene-E;Dbxref=NCBI_GP:QCX35172.1;Name=QCX35172.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=QCX35172.1
+MK720945.1	Genbank	gene	26440	27126	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MK720945.1	Genbank	CDS	26440	27126	.	+	0	ID=cds-QCX35173.1;Parent=gene-M;Dbxref=NCBI_GP:QCX35173.1;Name=QCX35173.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=QCX35173.1
+MK720945.1	Genbank	gene	27137	28279	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MK720945.1	Genbank	CDS	27137	28279	.	+	0	ID=cds-QCX35174.1;Parent=gene-N;Dbxref=NCBI_GP:QCX35174.1;Name=QCX35174.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=QCX35174.1
+MK720945.1	Genbank	gene	28251	28568	.	+	.	ID=gene-NS9;Name=NS9;gbkey=Gene;gene=NS9;gene_biotype=protein_coding
+MK720945.1	Genbank	CDS	28251	28568	.	+	0	ID=cds-QCX35175.1;Parent=gene-NS9;Dbxref=NCBI_GP:QCX35175.1;Name=QCX35175.1;gbkey=CDS;gene=NS9;product=nonstructural protein 9;protein_id=QCX35175.1
+MK720945.1	Genbank	gene	28593	28955	.	+	.	ID=gene-orf10;Name=orf10;gbkey=Gene;gene=orf10;gene_biotype=protein_coding
+MK720945.1	Genbank	CDS	28593	28955	.	+	0	ID=cds-QCX35176.1;Parent=gene-orf10;Dbxref=NCBI_GP:QCX35176.1;Name=QCX35176.1;gbkey=CDS;gene=orf10;product=X4-like protein;protein_id=QCX35176.1
+

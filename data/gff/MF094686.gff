@@ -1,0 +1,20 @@
+##sequence-region MF094686.1 1 27198
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2115988
+MF094686.1	Genbank	region	1	27198	.	+	.	ID=MF094686.1:1..27198;Dbxref=taxon:2115988;country=China;gbkey=Src;genome=genomic;isolate=8495;mol_type=genomic RNA;nat-host=Rhinolophus sp.
+MF094686.1	Genbank	gene	304	20489	.	+	.	ID=gene-orf1ab;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding
+MF094686.1	Genbank	CDS	304	12456	.	+	0	ID=cds-AVM80482.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:AVM80482.1;Name=AVM80482.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab polyprotein;protein_id=AVM80482.1
+MF094686.1	Genbank	CDS	12456	20489	.	+	0	ID=cds-AVM80482.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:AVM80482.1;Name=AVM80482.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab polyprotein;protein_id=AVM80482.1
+MF094686.1	Genbank	CDS	304	12486	.	+	0	ID=cds-AVM80483.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:AVM80483.1;Name=AVM80483.1;gbkey=CDS;gene=orf1ab;product=orf1a polyprotein;protein_id=AVM80483.1
+MF094686.1	Genbank	gene	20486	23902	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MF094686.1	Genbank	CDS	20486	23902	.	+	0	ID=cds-AVM80484.1;Parent=gene-S;Dbxref=NCBI_GP:AVM80484.1;Name=AVM80484.1;gbkey=CDS;gene=S;product=spike glycoprotein;protein_id=AVM80484.1
+MF094686.1	Genbank	gene	23902	24591	.	+	.	ID=gene-NS3;Name=NS3;gbkey=Gene;gene=NS3;gene_biotype=protein_coding
+MF094686.1	Genbank	CDS	23902	24591	.	+	0	ID=cds-AVM80485.1;Parent=gene-NS3;Dbxref=NCBI_GP:AVM80485.1;Name=AVM80485.1;gbkey=CDS;gene=NS3;product=nonstructural protein 3;protein_id=AVM80485.1
+MF094686.1	Genbank	gene	24572	24799	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MF094686.1	Genbank	CDS	24572	24799	.	+	0	ID=cds-AVM80486.1;Parent=gene-E;Dbxref=NCBI_GP:AVM80486.1;Name=AVM80486.1;gbkey=CDS;gene=E;product=small membrane protein;protein_id=AVM80486.1
+MF094686.1	Genbank	gene	24808	25497	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MF094686.1	Genbank	CDS	24808	25497	.	+	0	ID=cds-AVM80487.1;Parent=gene-M;Dbxref=NCBI_GP:AVM80487.1;Name=AVM80487.1;gbkey=CDS;gene=M;product=membrane glycoprotein;protein_id=AVM80487.1
+MF094686.1	Genbank	gene	25509	26636	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MF094686.1	Genbank	CDS	25509	26636	.	+	0	ID=cds-AVM80488.1;Parent=gene-N;Dbxref=NCBI_GP:AVM80488.1;Name=AVM80488.1;gbkey=CDS;gene=N;product=nucleocapsid phosphoprotein;protein_id=AVM80488.1
+MF094686.1	Genbank	gene	26648	26959	.	+	.	ID=gene-NS7a;Name=NS7a;gbkey=Gene;gene=NS7a;gene_biotype=protein_coding
+MF094686.1	Genbank	CDS	26648	26959	.	+	0	ID=cds-AVM80489.1;Parent=gene-NS7a;Dbxref=NCBI_GP:AVM80489.1;Name=AVM80489.1;gbkey=CDS;gene=NS7a;product=hypothetical protein;protein_id=AVM80489.1
+

@@ -1,0 +1,17 @@
+##sequence-region KP662631.1 1 27388
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+KP662631.1	Genbank	region	1	27388	.	+	.	ID=KP662631.1:1..27388;Dbxref=taxon:11120;collection-date=01-Jun-2011;country=South Africa;gbkey=Src;genome=genomic;isolate=ck/ZA/3665/11;isolation-source=alantoic fluid;mol_type=genomic RNA;nat-host=Gallus gallus;serotype=QX-like
+KP662631.1	Genbank	CDS	358	12135	.	+	0	ID=cds-AKC34132.1;Dbxref=NCBI_GP:AKC34132.1;Name=AKC34132.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein ORF1ab;protein_id=AKC34132.1
+KP662631.1	Genbank	CDS	12135	20198	.	+	0	ID=cds-AKC34132.1;Dbxref=NCBI_GP:AKC34132.1;Name=AKC34132.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein ORF1ab;protein_id=AKC34132.1
+KP662631.1	Genbank	CDS	358	12165	.	+	0	ID=cds-AKC34131.1;Dbxref=NCBI_GP:AKC34131.1;Name=AKC34131.1;gbkey=CDS;product=polyprotein ORF1a;protein_id=AKC34131.1
+KP662631.1	Genbank	CDS	20149	23586	.	+	0	ID=cds-AKC34133.1;Dbxref=NCBI_GP:AKC34133.1;Name=AKC34133.1;gbkey=CDS;product=spike protein;protein_id=AKC34133.1
+KP662631.1	Genbank	CDS	23586	23759	.	+	0	ID=cds-AKC34142.1;Dbxref=NCBI_GP:AKC34142.1;Name=AKC34142.1;gbkey=CDS;product=3a protein;protein_id=AKC34142.1
+KP662631.1	Genbank	CDS	23759	23950	.	+	0	ID=cds-AKC34134.1;Dbxref=NCBI_GP:AKC34134.1;Name=AKC34134.1;gbkey=CDS;product=3b protein;protein_id=AKC34134.1
+KP662631.1	Genbank	CDS	23931	24263	.	+	0	ID=cds-AKC34135.1;Dbxref=NCBI_GP:AKC34135.1;Name=AKC34135.1;gbkey=CDS;product=envelope protein;protein_id=AKC34135.1
+KP662631.1	Genbank	CDS	24136	24912	.	+	0	ID=cds-AKC34136.1;Dbxref=NCBI_GP:AKC34136.1;Name=AKC34136.1;gbkey=CDS;product=M protein;protein_id=AKC34136.1
+KP662631.1	Genbank	CDS	24913	25197	.	+	0	ID=cds-AKC34137.1;Dbxref=NCBI_GP:AKC34137.1;Name=AKC34137.1;gbkey=CDS;product=4b protein;protein_id=AKC34137.1
+KP662631.1	Genbank	CDS	25118	25288	.	+	0	ID=cds-AKC34138.1;Dbxref=NCBI_GP:AKC34138.1;Name=AKC34138.1;gbkey=CDS;product=4c protein;protein_id=AKC34138.1
+KP662631.1	Genbank	CDS	25272	25469	.	+	0	ID=cds-AKC34139.1;Dbxref=NCBI_GP:AKC34139.1;Name=AKC34139.1;gbkey=CDS;product=5a protein;protein_id=AKC34139.1
+KP662631.1	Genbank	CDS	25657	26886	.	+	0	ID=cds-AKC34140.1;Dbxref=NCBI_GP:AKC34140.1;Name=AKC34140.1;gbkey=CDS;product=nucleocapsid protein;protein_id=AKC34140.1
+KP662631.1	Genbank	CDS	26895	27116	.	+	0	ID=cds-AKC34141.1;Dbxref=NCBI_GP:AKC34141.1;Name=AKC34141.1;gbkey=CDS;product=6b protein;protein_id=AKC34141.1
+

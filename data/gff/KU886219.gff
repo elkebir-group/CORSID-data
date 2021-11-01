@@ -1,0 +1,15 @@
+##sequence-region KU886219.1 1 30975
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11128
+KU886219.1	Genbank	region	1	30975	.	+	.	ID=KU886219.1:1..30975;Dbxref=taxon:11128;collection-date=30-May-2015;country=China: Xinjiang;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Bos taurus%3B breed: Holstein;strain=BCV-AKS-01
+KU886219.1	Genbank	CDS	185	13336	.	+	0	ID=cds-ANJ04970.1;Dbxref=NCBI_GP:ANJ04970.1;Name=ANJ04970.1;gbkey=CDS;product=ORF1a polyprotein;protein_id=ANJ04970.1
+KU886219.1	Genbank	CDS	13315	21468	.	+	0	ID=cds-ANJ04971.1;Dbxref=NCBI_GP:ANJ04971.1;Name=ANJ04971.1;gbkey=CDS;partial=true;product=ORF1b polyprotein;protein_id=ANJ04971.1;start_range=.,13315
+KU886219.1	Genbank	CDS	21478	22314	.	+	0	ID=cds-ANJ04972.1;Dbxref=NCBI_GP:ANJ04972.1;Name=ANJ04972.1;gbkey=CDS;product=nonstructural protein;protein_id=ANJ04972.1
+KU886219.1	Genbank	CDS	22326	23600	.	+	0	ID=cds-ANJ04973.1;Dbxref=NCBI_GP:ANJ04973.1;Name=ANJ04973.1;gbkey=CDS;product=hemagglutinin-esterase;protein_id=ANJ04973.1
+KU886219.1	Genbank	CDS	23615	27706	.	+	0	ID=cds-ANJ04974.1;Dbxref=NCBI_GP:ANJ04974.1;Name=ANJ04974.1;gbkey=CDS;product=spike protein;protein_id=ANJ04974.1
+KU886219.1	Genbank	CDS	27696	27785	.	+	0	ID=cds-ANJ04975.1;Dbxref=NCBI_GP:ANJ04975.1;Name=ANJ04975.1;gbkey=CDS;product=nonstructural protein;protein_id=ANJ04975.1
+KU886219.1	Genbank	CDS	27869	27979	.	+	0	ID=cds-ANJ04976.1;Dbxref=NCBI_GP:ANJ04976.1;Name=ANJ04976.1;gbkey=CDS;product=nonstructural protein;protein_id=ANJ04976.1
+KU886219.1	Genbank	CDS	28079	28408	.	+	0	ID=cds-ANJ04977.1;Dbxref=NCBI_GP:ANJ04977.1;Name=ANJ04977.1;gbkey=CDS;product=nonstructural protein;protein_id=ANJ04977.1
+KU886219.1	Genbank	CDS	28395	28649	.	+	0	ID=cds-ANJ04978.1;Dbxref=NCBI_GP:ANJ04978.1;Name=ANJ04978.1;gbkey=CDS;product=envelope protein;protein_id=ANJ04978.1
+KU886219.1	Genbank	CDS	28664	29356	.	+	0	ID=cds-ANJ04979.1;Dbxref=NCBI_GP:ANJ04979.1;Name=ANJ04979.1;gbkey=CDS;product=membrane protein;protein_id=ANJ04979.1
+KU886219.1	Genbank	CDS	29366	30712	.	+	0	ID=cds-ANJ04980.1;Dbxref=NCBI_GP:ANJ04980.1;Name=ANJ04980.1;gbkey=CDS;product=nucleocapsid protein;protein_id=ANJ04980.1
+

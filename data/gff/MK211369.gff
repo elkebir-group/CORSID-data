@@ -1,0 +1,10 @@
+##sequence-region MK211369.1 1 28303
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2591228
+MK211369.1	Genbank	region	1	28303	.	+	.	ID=MK211369.1:1..28303;Dbxref=taxon:2591228;collection-date=May-2017;country=China;gbkey=Src;genome=genomic;isolate=BtSk-AlphaCoV/GX2018A;mol_type=genomic RNA;nat-host=Scotophilus kuhlii
+MK211369.1	Genbank	CDS	296	12652	.	+	0	ID=cds-QDF43789.1;Dbxref=NCBI_GP:QDF43789.1;Name=QDF43789.1;exception=ribosomal slippage;gbkey=CDS;product=ORF1ab;protein_id=QDF43789.1
+MK211369.1	Genbank	CDS	12652	20676	.	+	0	ID=cds-QDF43789.1;Dbxref=NCBI_GP:QDF43789.1;Name=QDF43789.1;exception=ribosomal slippage;gbkey=CDS;product=ORF1ab;protein_id=QDF43789.1
+MK211369.1	Genbank	CDS	20673	24788	.	+	0	ID=cds-QDF43790.1;Dbxref=NCBI_GP:QDF43790.1;Name=QDF43790.1;gbkey=CDS;product=spike protein;protein_id=QDF43790.1
+MK211369.1	Genbank	CDS	25443	25673	.	+	0	ID=cds-QDF43791.1;Dbxref=NCBI_GP:QDF43791.1;Name=QDF43791.1;gbkey=CDS;product=envelope protein;protein_id=QDF43791.1
+MK211369.1	Genbank	CDS	25680	26366	.	+	0	ID=cds-QDF43792.1;Dbxref=NCBI_GP:QDF43792.1;Name=QDF43792.1;gbkey=CDS;product=matrix protein;protein_id=QDF43792.1
+MK211369.1	Genbank	CDS	26377	27561	.	+	0	ID=cds-QDF43793.1;Dbxref=NCBI_GP:QDF43793.1;Name=QDF43793.1;gbkey=CDS;product=nucleocapsid protein;protein_id=QDF43793.1
+

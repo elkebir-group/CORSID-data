@@ -1,0 +1,10 @@
+##sequence-region KY770860.1 1 29651
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1508220
+KY770860.1	Genbank	region	1	29651	.	+	.	ID=KY770860.1:1..29651;Dbxref=taxon:1508220;collection-date=2012;country=China;gbkey=Src;genome=genomic;isolate=Jiyuan-84;mol_type=genomic RNA;nat-host=Rhinolophus ferrumequinum
+KY770860.1	Genbank	CDS	216	13334	.	+	0	ID=cds-ARI44808.1;Dbxref=NCBI_GP:ARI44808.1;Name=ARI44808.1;exception=ribosomal slippage;gbkey=CDS;product=orf1ab polyprotein;protein_id=ARI44808.1
+KY770860.1	Genbank	CDS	13334	21421	.	+	0	ID=cds-ARI44808.1;Dbxref=NCBI_GP:ARI44808.1;Name=ARI44808.1;exception=ribosomal slippage;gbkey=CDS;product=orf1ab polyprotein;protein_id=ARI44808.1
+KY770860.1	Genbank	CDS	21428	25153	.	+	0	ID=cds-ARI44809.1;Dbxref=NCBI_GP:ARI44809.1;Name=ARI44809.1;gbkey=CDS;product=spike glycoprotein;protein_id=ARI44809.1
+KY770860.1	Genbank	CDS	26011	26241	.	+	0	ID=cds-ARI44810.1;Dbxref=NCBI_GP:ARI44810.1;Name=ARI44810.1;gbkey=CDS;product=envelope protein;protein_id=ARI44810.1
+KY770860.1	Genbank	CDS	26289	26954	.	+	0	ID=cds-ARI44811.1;Dbxref=NCBI_GP:ARI44811.1;Name=ARI44811.1;gbkey=CDS;product=membrane protein;protein_id=ARI44811.1
+KY770860.1	Genbank	CDS	28039	29304	.	+	0	ID=cds-ARI44812.1;Dbxref=NCBI_GP:ARI44812.1;Name=ARI44812.1;gbkey=CDS;product=nucleocapsid protein;protein_id=ARI44812.1
+

@@ -1,0 +1,23 @@
+##sequence-region MG812378.1 1 25685
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2219863
+MG812378.1	Genbank	region	1	25685	.	+	.	ID=MG812378.1:1..25685;Dbxref=taxon:2219863;collection-date=2017;country=USA: MN;gbkey=Src;genome=genomic;isolation-source=fecal sample;mol_type=genomic RNA;nat-host=sparrow;strain=ISU73347
+MG812378.1	Genbank	gene	520	19295	.	+	.	ID=gene-orf1ab;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding
+MG812378.1	Genbank	CDS	520	11367	.	+	0	ID=cds-AWV67133.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:AWV67133.1;Name=AWV67133.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=replicase polyprotein;protein_id=AWV67133.1
+MG812378.1	Genbank	CDS	11367	19295	.	+	0	ID=cds-AWV67133.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:AWV67133.1;Name=AWV67133.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=replicase polyprotein;protein_id=AWV67133.1
+MG812378.1	Genbank	gene	19277	22756	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MG812378.1	Genbank	CDS	19277	22756	.	+	0	ID=cds-AWV67134.1;Parent=gene-S;Dbxref=NCBI_GP:AWV67134.1;Name=AWV67134.1;gbkey=CDS;gene=S;product=spike glycoprotein;protein_id=AWV67134.1
+MG812378.1	Genbank	gene	22750	23001	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MG812378.1	Genbank	CDS	22750	23001	.	+	0	ID=cds-AWV67135.1;Parent=gene-E;Dbxref=NCBI_GP:AWV67135.1;Name=AWV67135.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=AWV67135.1
+MG812378.1	Genbank	gene	22994	23647	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MG812378.1	Genbank	CDS	22994	23647	.	+	0	ID=cds-AWV67136.1;Parent=gene-M;Dbxref=NCBI_GP:AWV67136.1;Name=AWV67136.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=AWV67136.1
+MG812378.1	Genbank	gene	23647	23928	.	+	.	ID=gene-NS6;Name=NS6;gbkey=Gene;gene=NS6;gene_biotype=protein_coding
+MG812378.1	Genbank	CDS	23647	23928	.	+	0	ID=cds-AWV67137.1;Parent=gene-NS6;Dbxref=NCBI_GP:AWV67137.1;Name=AWV67137.1;Note=non-structural protein;gbkey=CDS;gene=NS6;product=NS6 protein;protein_id=AWV67137.1
+MG812378.1	Genbank	gene	23953	24978	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MG812378.1	Genbank	CDS	23953	24978	.	+	0	ID=cds-AWV67138.1;Parent=gene-N;Dbxref=NCBI_GP:AWV67138.1;Name=AWV67138.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=AWV67138.1
+MG812378.1	Genbank	gene	24047	24649	.	+	.	ID=gene-NS7a;Name=NS7a;gbkey=Gene;gene=NS7a;gene_biotype=protein_coding
+MG812378.1	Genbank	CDS	24047	24649	.	+	0	ID=cds-AWV67139.1;Parent=gene-NS7a;Dbxref=NCBI_GP:AWV67139.1;Name=AWV67139.1;Note=non-structural protein;gbkey=CDS;gene=NS7a;product=NS7a protein;protein_id=AWV67139.1
+MG812378.1	Genbank	gene	24989	25423	.	+	.	ID=gene-NS7b;Name=NS7b;gbkey=Gene;gene=NS7b;gene_biotype=protein_coding
+MG812378.1	Genbank	CDS	24989	25423	.	+	0	ID=cds-AWV67140.1;Parent=gene-NS7b;Dbxref=NCBI_GP:AWV67140.1;Name=AWV67140.1;Note=non-structural protein;gbkey=CDS;gene=NS7b;product=NS7b protein;protein_id=AWV67140.1
+MG812378.1	Genbank	gene	25339	25551	.	+	.	ID=gene-NS7c;Name=NS7c;gbkey=Gene;gene=NS7c;gene_biotype=protein_coding
+MG812378.1	Genbank	CDS	25339	25551	.	+	0	ID=cds-AWV67141.1;Parent=gene-NS7c;Dbxref=NCBI_GP:AWV67141.1;Name=AWV67141.1;Note=non-structural protein;gbkey=CDS;gene=NS7c;product=NS7c protein;protein_id=AWV67141.1
+

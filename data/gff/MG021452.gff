@@ -1,0 +1,26 @@
+##sequence-region MG021452.1 1 30113
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1335626
+MG021452.1	Genbank	region	1	30113	.	+	.	ID=MG021452.1:1..30113;Dbxref=taxon:1335626;collected-by=L. Zhang;collection-date=08-May-2014;country=China;gb-acronym=MERS-CoV;gbkey=Src;genome=genomic;isolate=NL140422;lat-lon=24.59 N 113.06 E;mol_type=genomic RNA
+MG021452.1	Genbank	gene	238	21560	.	+	.	ID=gene-orf1ab;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding
+MG021452.1	Genbank	CDS	238	13476	.	+	0	ID=cds-AVV62535.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:AVV62535.1;Name=AVV62535.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=ORF1ab;protein_id=AVV62535.1
+MG021452.1	Genbank	CDS	13476	21560	.	+	0	ID=cds-AVV62535.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:AVV62535.1;Name=AVV62535.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=ORF1ab;protein_id=AVV62535.1
+MG021452.1	Genbank	CDS	238	13497	.	+	0	ID=cds-AVV62536.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:AVV62536.1;Name=AVV62536.1;gbkey=CDS;gene=orf1ab;product=ORF1a;protein_id=AVV62536.1
+MG021452.1	Genbank	gene	21502	25551	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MG021452.1	Genbank	CDS	21502	25551	.	+	0	ID=cds-AVV62537.1;Parent=gene-S;Dbxref=NCBI_GP:AVV62537.1;Name=AVV62537.1;gbkey=CDS;gene=S;product=S protein;protein_id=AVV62537.1
+MG021452.1	Genbank	gene	25559	25879	.	+	.	ID=gene-orf3;Name=orf3;gbkey=Gene;gene=orf3;gene_biotype=protein_coding
+MG021452.1	Genbank	CDS	25559	25879	.	+	0	ID=cds-AVV62538.1;Parent=gene-orf3;Dbxref=NCBI_GP:AVV62538.1;Name=AVV62538.1;gbkey=CDS;gene=orf3;product=ORF3;protein_id=AVV62538.1
+MG021452.1	Genbank	gene	25857	26141	.	+	.	ID=gene-orf4a;Name=orf4a;gbkey=Gene;gene=orf4a;gene_biotype=protein_coding
+MG021452.1	Genbank	CDS	25857	26141	.	+	0	ID=cds-AVV62539.1;Parent=gene-orf4a;Dbxref=NCBI_GP:AVV62539.1;Name=AVV62539.1;gbkey=CDS;gene=orf4a;product=ORF4a;protein_id=AVV62539.1
+MG021452.1	Genbank	gene	26081	26779	.	+	.	ID=gene-orf4b;Name=orf4b;gbkey=Gene;gene=orf4b;gene_biotype=protein_coding
+MG021452.1	Genbank	CDS	26081	26779	.	+	0	ID=cds-AVV62540.1;Parent=gene-orf4b;Dbxref=NCBI_GP:AVV62540.1;Name=AVV62540.1;gbkey=CDS;gene=orf4b;product=ORF4b;protein_id=AVV62540.1
+MG021452.1	Genbank	gene	26786	27469	.	+	.	ID=gene-orf5;Name=orf5;gbkey=Gene;gene=orf5;gene_biotype=protein_coding
+MG021452.1	Genbank	CDS	26786	27469	.	+	0	ID=cds-AVV62541.1;Parent=gene-orf5;Dbxref=NCBI_GP:AVV62541.1;Name=AVV62541.1;gbkey=CDS;gene=orf5;product=ORF5;protein_id=AVV62541.1
+MG021452.1	Genbank	gene	27547	27795	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MG021452.1	Genbank	CDS	27547	27795	.	+	0	ID=cds-AVV62542.1;Parent=gene-E;Dbxref=NCBI_GP:AVV62542.1;Name=AVV62542.1;gbkey=CDS;gene=E;product=E protein;protein_id=AVV62542.1
+MG021452.1	Genbank	gene	27810	28466	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MG021452.1	Genbank	CDS	27810	28466	.	+	0	ID=cds-AVV62543.1;Parent=gene-M;Dbxref=NCBI_GP:AVV62543.1;Name=AVV62543.1;gbkey=CDS;gene=M;product=M protein;protein_id=AVV62543.1
+MG021452.1	Genbank	gene	28521	29822	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MG021452.1	Genbank	CDS	28521	29822	.	+	0	ID=cds-AVV62544.1;Parent=gene-N;Dbxref=NCBI_GP:AVV62544.1;Name=AVV62544.1;gbkey=CDS;gene=N;product=N protein;protein_id=AVV62544.1
+MG021452.1	Genbank	gene	28567	29148	.	+	.	ID=gene-orf8b;Name=orf8b;gbkey=Gene;gene=orf8b;gene_biotype=protein_coding
+MG021452.1	Genbank	CDS	28567	29148	.	+	0	ID=cds-AVV62545.1;Parent=gene-orf8b;Dbxref=NCBI_GP:AVV62545.1;Name=AVV62545.1;gbkey=CDS;gene=orf8b;product=ORF8b;protein_id=AVV62545.1
+

@@ -1,0 +1,21 @@
+##sequence-region HM211101.1 1 29122
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=875613
+HM211101.1	Genbank	region	1	29122	.	+	.	ID=HM211101.1:1..29122;Dbxref=taxon:875613;collection-date=10-Apr-2006;country=China: Guangdong province;gbkey=Src;mol_type=genomic RNA;nat-host=bat BF_506I
+HM211101.1	Genbank	gene	228	20938	.	+	.	ID=gene-orf1ab;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding
+HM211101.1	Genbank	CDS	228	12875	.	+	0	ID=cds-ADM33581.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:ADM33581.1;Name=ADM33581.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab polyprotein;protein_id=ADM33581.1
+HM211101.1	Genbank	CDS	12875	20938	.	+	0	ID=cds-ADM33581.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:ADM33581.1;Name=ADM33581.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab polyprotein;protein_id=ADM33581.1
+HM211101.1	Genbank	gene	20898	24740	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+HM211101.1	Genbank	CDS	20898	24740	.	+	0	ID=cds-ADM33582.1;Parent=gene-S;Dbxref=NCBI_GP:ADM33582.1;Name=ADM33582.1;gbkey=CDS;gene=S;product=spike glycoprotein;protein_id=ADM33582.1
+HM211101.1	Genbank	gene	24737	25429	.	+	.	ID=gene-NS3;Name=NS3;gbkey=Gene;gene=NS3;gene_biotype=protein_coding
+HM211101.1	Genbank	CDS	24737	25429	.	+	0	ID=cds-ADM33583.1;Parent=gene-NS3;Dbxref=NCBI_GP:ADM33583.1;Name=ADM33583.1;gbkey=CDS;gene=NS3;product=hypothetical protein;protein_id=ADM33583.1
+HM211101.1	Genbank	gene	25429	25668	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+HM211101.1	Genbank	CDS	25429	25668	.	+	0	ID=cds-ADM33584.1;Parent=gene-E;Dbxref=NCBI_GP:ADM33584.1;Name=ADM33584.1;gbkey=CDS;gene=E;product=small membrane protein;protein_id=ADM33584.1
+HM211101.1	Genbank	gene	25665	26327	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+HM211101.1	Genbank	CDS	25665	26327	.	+	0	ID=cds-ADM33585.1;Parent=gene-M;Dbxref=NCBI_GP:ADM33585.1;Name=ADM33585.1;gbkey=CDS;gene=M;product=membrane glycoprotein;protein_id=ADM33585.1
+HM211101.1	Genbank	gene	26390	27799	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+HM211101.1	Genbank	CDS	26390	27799	.	+	0	ID=cds-ADM33586.1;Parent=gene-N;Dbxref=NCBI_GP:ADM33586.1;Name=ADM33586.1;gbkey=CDS;gene=N;product=nucleocapsid phosphoprotein;protein_id=ADM33586.1
+HM211101.1	Genbank	gene	27836	28432	.	+	.	ID=gene-NS7a;Name=NS7a;gbkey=Gene;gene=NS7a;gene_biotype=protein_coding
+HM211101.1	Genbank	CDS	27836	28432	.	+	0	ID=cds-ADM33587.1;Parent=gene-NS7a;Dbxref=NCBI_GP:ADM33587.1;Name=ADM33587.1;gbkey=CDS;gene=NS7a;product=hypothetical protein;protein_id=ADM33587.1
+HM211101.1	Genbank	gene	28441	28890	.	+	.	ID=gene-NS7b;Name=NS7b;gbkey=Gene;gene=NS7b;gene_biotype=protein_coding
+HM211101.1	Genbank	CDS	28441	28890	.	+	0	ID=cds-ADM33588.1;Parent=gene-NS7b;Dbxref=NCBI_GP:ADM33588.1;Name=ADM33588.1;gbkey=CDS;gene=NS7b;product=hypothetical protein;protein_id=ADM33588.1
+

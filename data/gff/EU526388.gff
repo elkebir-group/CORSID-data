@@ -1,0 +1,4 @@
+##sequence-region EU526388.1 1 27715
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+EU526388.1	Genbank	region	1	27715	.	+	.	ID=EU526388.1:1..27715;Dbxref=taxon:11120;country=China;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=chicken;old-name=Avian Infectious bronchitis virus;serotype=4/91-like;strain=A2
+

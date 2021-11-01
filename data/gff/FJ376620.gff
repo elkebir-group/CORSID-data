@@ -1,0 +1,23 @@
+##sequence-region FJ376620.1 1 26476
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=572287
+FJ376620.1	Genbank	region	1	26476	.	+	.	ID=FJ376620.1:1..26476;Dbxref=taxon:572287;collection-date=Jan-2007;country=Hong Kong;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Chinese bulbul
+FJ376620.1	Genbank	gene	607	19394	.	+	.	ID=gene-orf1ab;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding
+FJ376620.1	Genbank	CDS	607	11346	.	+	0	ID=cds-ACJ12043.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:ACJ12043.1;Name=ACJ12043.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab polyprotein;protein_id=ACJ12043.1
+FJ376620.1	Genbank	CDS	11346	19394	.	+	0	ID=cds-ACJ12043.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:ACJ12043.1;Name=ACJ12043.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab polyprotein;protein_id=ACJ12043.1
+FJ376620.1	Genbank	gene	19376	22867	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+FJ376620.1	Genbank	CDS	19376	22867	.	+	0	ID=cds-ACJ12044.1;Parent=gene-S;Dbxref=NCBI_GP:ACJ12044.1;Name=ACJ12044.1;gbkey=CDS;gene=S;product=spike glycoprotein;protein_id=ACJ12044.1
+FJ376620.1	Genbank	gene	22861	23109	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+FJ376620.1	Genbank	CDS	22861	23109	.	+	0	ID=cds-ACJ12045.1;Parent=gene-E;Dbxref=NCBI_GP:ACJ12045.1;Name=ACJ12045.1;gbkey=CDS;gene=E;product=small membrane protein;protein_id=ACJ12045.1
+FJ376620.1	Genbank	gene	23106	23807	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+FJ376620.1	Genbank	CDS	23106	23807	.	+	0	ID=cds-ACJ12046.1;Parent=gene-M;Dbxref=NCBI_GP:ACJ12046.1;Name=ACJ12046.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=ACJ12046.1
+FJ376620.1	Genbank	gene	23807	24094	.	+	.	ID=gene-NS6;Name=NS6;gbkey=Gene;gene=NS6;gene_biotype=protein_coding
+FJ376620.1	Genbank	CDS	23807	24094	.	+	0	ID=cds-ACJ12047.1;Parent=gene-NS6;Dbxref=NCBI_GP:ACJ12047.1;Name=ACJ12047.1;gbkey=CDS;gene=NS6;product=nonstructural protein;protein_id=ACJ12047.1
+FJ376620.1	Genbank	gene	24115	25164	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+FJ376620.1	Genbank	CDS	24115	25164	.	+	0	ID=cds-ACJ12048.1;Parent=gene-N;Dbxref=NCBI_GP:ACJ12048.1;Name=ACJ12048.1;gbkey=CDS;gene=N;product=nucleocapsid phosphoprotein;protein_id=ACJ12048.1
+FJ376620.1	Genbank	gene	25343	25714	.	+	.	ID=gene-NS7a;Name=NS7a;gbkey=Gene;gene=NS7a;gene_biotype=protein_coding
+FJ376620.1	Genbank	CDS	25343	25714	.	+	0	ID=cds-ACJ12049.1;Parent=gene-NS7a;Dbxref=NCBI_GP:ACJ12049.1;Name=ACJ12049.1;gbkey=CDS;gene=NS7a;product=nonstructural protein;protein_id=ACJ12049.1
+FJ376620.1	Genbank	gene	25720	25974	.	+	.	ID=gene-NS7b;Name=NS7b;gbkey=Gene;gene=NS7b;gene_biotype=protein_coding
+FJ376620.1	Genbank	CDS	25720	25974	.	+	0	ID=cds-ACJ12050.1;Parent=gene-NS7b;Dbxref=NCBI_GP:ACJ12050.1;Name=ACJ12050.1;gbkey=CDS;gene=NS7b;product=nonstructural protein;protein_id=ACJ12050.1
+FJ376620.1	Genbank	gene	25971	26255	.	+	.	ID=gene-NS7c;Name=NS7c;gbkey=Gene;gene=NS7c;gene_biotype=protein_coding
+FJ376620.1	Genbank	CDS	25971	26255	.	+	0	ID=cds-ACJ12051.1;Parent=gene-NS7c;Dbxref=NCBI_GP:ACJ12051.1;Name=ACJ12051.1;gbkey=CDS;gene=NS7c;product=nonstructural protein;protein_id=ACJ12051.1
+

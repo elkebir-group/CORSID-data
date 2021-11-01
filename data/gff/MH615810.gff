@@ -1,0 +1,23 @@
+##sequence-region MH615810.1 1 27184
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2032731
+MH615810.1	Genbank	region	1	27184	.	+	.	ID=MH615810.1:1..27184;Dbxref=taxon:2032731;collection-date=Mar-2018;country=China;gbkey=Src;genome=genomic;isolate=SADS-CoV-CH-FJWT-2018;lab-host=Vero 81;mol_type=genomic RNA;nat-host=swine
+MH615810.1	Genbank	gene	304	20489	.	+	.	ID=gene-ORF1ab;Name=ORF1ab;gbkey=Gene;gene=ORF1ab;gene_biotype=protein_coding
+MH615810.1	Genbank	CDS	304	12456	.	+	0	ID=cds-AXP98437.1;Parent=gene-ORF1ab;Dbxref=NCBI_GP:AXP98437.1;Name=AXP98437.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;product=polyprotein 1ab;protein_id=AXP98437.1
+MH615810.1	Genbank	CDS	12456	20489	.	+	0	ID=cds-AXP98437.1;Parent=gene-ORF1ab;Dbxref=NCBI_GP:AXP98437.1;Name=AXP98437.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;product=polyprotein 1ab;protein_id=AXP98437.1
+MH615810.1	Genbank	gene	304	12486	.	+	.	ID=gene-ORF1a;Name=ORF1a;gbkey=Gene;gene=ORF1a;gene_biotype=protein_coding
+MH615810.1	Genbank	CDS	304	12486	.	+	0	ID=cds-AXP98438.1;Parent=gene-ORF1a;Dbxref=NCBI_GP:AXP98438.1;Name=AXP98438.1;gbkey=CDS;gene=ORF1a;product=polyprotein 1a;protein_id=AXP98438.1
+MH615810.1	Genbank	gene	20486	23881	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MH615810.1	Genbank	CDS	20486	23881	.	+	0	ID=cds-AXP98439.1;Parent=gene-S;Dbxref=NCBI_GP:AXP98439.1;Name=AXP98439.1;gbkey=CDS;gene=S;product=spike protein;protein_id=AXP98439.1
+MH615810.1	Genbank	gene	23881	24570	.	+	.	ID=gene-NS3;Name=NS3;gbkey=Gene;gene=NS3;gene_biotype=protein_coding
+MH615810.1	Genbank	CDS	23881	24570	.	+	0	ID=cds-AXP98440.1;Parent=gene-NS3;Dbxref=NCBI_GP:AXP98440.1;Name=AXP98440.1;gbkey=CDS;gene=NS3;product=NS3 protein;protein_id=AXP98440.1
+MH615810.1	Genbank	gene	24551	24778	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MH615810.1	Genbank	CDS	24551	24778	.	+	0	ID=cds-AXP98441.1;Parent=gene-E;Dbxref=NCBI_GP:AXP98441.1;Name=AXP98441.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=AXP98441.1
+MH615810.1	Genbank	gene	24787	25476	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MH615810.1	Genbank	CDS	24787	25476	.	+	0	ID=cds-AXP98442.1;Parent=gene-M;Dbxref=NCBI_GP:AXP98442.1;Name=AXP98442.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=AXP98442.1
+MH615810.1	Genbank	gene	25488	26615	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MH615810.1	Genbank	CDS	25488	26615	.	+	0	ID=cds-AXP98443.1;Parent=gene-N;Dbxref=NCBI_GP:AXP98443.1;Name=AXP98443.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=AXP98443.1
+MH615810.1	Genbank	gene	26627	26926	.	+	.	ID=gene-NS7a;Name=NS7a;gbkey=Gene;gene=NS7a;gene_biotype=protein_coding
+MH615810.1	Genbank	CDS	26627	26926	.	+	0	ID=cds-AXP98444.1;Parent=gene-NS7a;Dbxref=NCBI_GP:AXP98444.1;Name=AXP98444.1;gbkey=CDS;gene=NS7a;product=NS7a protein;protein_id=AXP98444.1
+MH615810.1	Genbank	gene	26667	26984	.	+	.	ID=gene-NS7b;Name=NS7b;gbkey=Gene;gene=NS7b;gene_biotype=protein_coding
+MH615810.1	Genbank	CDS	26667	26984	.	+	0	ID=cds-AXP98445.1;Parent=gene-NS7b;Dbxref=NCBI_GP:AXP98445.1;Name=AXP98445.1;gbkey=CDS;gene=NS7b;product=NS7b protein;protein_id=AXP98445.1
+

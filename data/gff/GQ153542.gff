@@ -1,0 +1,21 @@
+##sequence-region GQ153542.1 1 29716
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=742004
+GQ153542.1	Genbank	region	1	29716	.	+	.	ID=GQ153542.1:1..29716;Dbxref=taxon:742004;gbkey=Src;genome=genomic;mol_type=genomic RNA;strain=HKU3-7
+GQ153542.1	Genbank	gene	262	21476	.	+	.	ID=gene-GQ153542.1:262..21476;description=orf1ab;gbkey=Gene;gene_biotype=protein_coding
+GQ153542.1	Genbank	CDS	262	13389	.	+	0	ID=cds-ADE34754.1;Parent=gene-GQ153542.1:262..21476;Dbxref=NCBI_GP:ADE34754.1;Name=ADE34754.1;exception=ribosomal slippage;gbkey=CDS;product=orf1ab polyprotein;protein_id=ADE34754.1
+GQ153542.1	Genbank	CDS	13389	21476	.	+	0	ID=cds-ADE34754.1;Parent=gene-GQ153542.1:262..21476;Dbxref=NCBI_GP:ADE34754.1;Name=ADE34754.1;exception=ribosomal slippage;gbkey=CDS;product=orf1ab polyprotein;protein_id=ADE34754.1
+GQ153542.1	Genbank	gene	21483	25211	.	+	.	ID=gene-GQ153542.1:21483..25211;description=S;gbkey=Gene;gene_biotype=protein_coding
+GQ153542.1	Genbank	CDS	21483	25211	.	+	0	ID=cds-ADE34755.1;Parent=gene-GQ153542.1:21483..25211;Dbxref=NCBI_GP:ADE34755.1;Name=ADE34755.1;gbkey=CDS;product=spike glycoprotein;protein_id=ADE34755.1
+GQ153542.1	Genbank	CDS	25221	26045	.	+	0	ID=cds-ADE34756.1;Dbxref=NCBI_GP:ADE34756.1;Name=ADE34756.1;gbkey=CDS;product=hypothetical protein;protein_id=ADE34756.1
+GQ153542.1	Genbank	gene	26070	26300	.	+	.	ID=gene-GQ153542.1:26070..26300;description=E;gbkey=Gene;gene_biotype=protein_coding
+GQ153542.1	Genbank	CDS	26070	26300	.	+	0	ID=cds-ADE34757.1;Parent=gene-GQ153542.1:26070..26300;Dbxref=NCBI_GP:ADE34757.1;Name=ADE34757.1;gbkey=CDS;product=small membrane protein;protein_id=ADE34757.1
+GQ153542.1	Genbank	gene	26351	27016	.	+	.	ID=gene-GQ153542.1:26351..27016;description=M;gbkey=Gene;gene_biotype=protein_coding
+GQ153542.1	Genbank	CDS	26351	27016	.	+	0	ID=cds-ADE34758.1;Parent=gene-GQ153542.1:26351..27016;Dbxref=NCBI_GP:ADE34758.1;Name=ADE34758.1;gbkey=CDS;product=membrane glycoprotein;protein_id=ADE34758.1
+GQ153542.1	Genbank	CDS	27027	27218	.	+	0	ID=cds-ADE34759.1;Dbxref=NCBI_GP:ADE34759.1;Name=ADE34759.1;gbkey=CDS;product=hypothetical protein;protein_id=ADE34759.1
+GQ153542.1	Genbank	CDS	27226	27594	.	+	0	ID=cds-ADE34760.1;Dbxref=NCBI_GP:ADE34760.1;Name=ADE34760.1;gbkey=CDS;product=hypothetical protein;protein_id=ADE34760.1
+GQ153542.1	Genbank	CDS	27591	27725	.	+	0	ID=cds-ADE34761.1;Dbxref=NCBI_GP:ADE34761.1;Name=ADE34761.1;gbkey=CDS;product=hypothetical protein;protein_id=ADE34761.1
+GQ153542.1	Genbank	CDS	27732	28097	.	+	0	ID=cds-ADE34762.1;Dbxref=NCBI_GP:ADE34762.1;Name=ADE34762.1;gbkey=CDS;product=hypothetical protein;protein_id=ADE34762.1
+GQ153542.1	Genbank	gene	28112	29377	.	+	.	ID=gene-GQ153542.1:28112..29377;description=N;gbkey=Gene;gene_biotype=protein_coding
+GQ153542.1	Genbank	CDS	28112	29377	.	+	0	ID=cds-ADE34763.1;Parent=gene-GQ153542.1:28112..29377;Dbxref=NCBI_GP:ADE34763.1;Name=ADE34763.1;gbkey=CDS;product=nucleocapsid phosphoprotein;protein_id=ADE34763.1
+GQ153542.1	Genbank	CDS	28122	28415	.	+	0	ID=cds-ADE34764.1;Parent=gene-GQ153542.1:28112..29377;Dbxref=NCBI_GP:ADE34764.1;Name=ADE34764.1;gbkey=CDS;product=hypothetical protein;protein_id=ADE34764.1
+

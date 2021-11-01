@@ -1,0 +1,23 @@
+##sequence-region KC013541.1 1 27718
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+KC013541.1	Genbank	region	1	27718	.	+	.	ID=KC013541.1:1..27718;Dbxref=taxon:11120;collection-date=12-Jul-2012;country=China;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=chicken;strain=Ck/CH/LGD/120723
+KC013541.1	Genbank	gene	526	20417	.	+	.	ID=gene-1ab;Name=1ab;gbkey=Gene;gene=1ab;gene_biotype=protein_coding
+KC013541.1	Genbank	CDS	526	12381	.	+	0	ID=cds-AFY11697.1;Parent=gene-1ab;Dbxref=NCBI_GP:AFY11697.1;Name=AFY11697.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=ORF1ab;protein_id=AFY11697.1
+KC013541.1	Genbank	CDS	12381	20417	.	+	0	ID=cds-AFY11697.1;Parent=gene-1ab;Dbxref=NCBI_GP:AFY11697.1;Name=AFY11697.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=ORF1ab;protein_id=AFY11697.1
+KC013541.1	Genbank	gene	20368	23871	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KC013541.1	Genbank	CDS	20368	23871	.	+	0	ID=cds-AFY11698.1;Parent=gene-S;Dbxref=NCBI_GP:AFY11698.1;Name=AFY11698.1;gbkey=CDS;gene=S;product=S protein;protein_id=AFY11698.1
+KC013541.1	Genbank	gene	23871	24044	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+KC013541.1	Genbank	CDS	23871	24044	.	+	0	ID=cds-AFY11699.1;Parent=gene-3a;Dbxref=NCBI_GP:AFY11699.1;Name=AFY11699.1;gbkey=CDS;gene=3a;product=ORF3a;protein_id=AFY11699.1
+KC013541.1	Genbank	gene	24044	24262	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+KC013541.1	Genbank	CDS	24044	24262	.	+	0	ID=cds-AFY11700.1;Parent=gene-3b;Dbxref=NCBI_GP:AFY11700.1;Name=AFY11700.1;gbkey=CDS;gene=3b;product=ORF3b;protein_id=AFY11700.1
+KC013541.1	Genbank	gene	24246	24575	.	+	.	ID=gene-3c;Name=3c;gbkey=Gene;gene=3c;gene_biotype=protein_coding
+KC013541.1	Genbank	CDS	24246	24575	.	+	0	ID=cds-AFY11701.1;Parent=gene-3c;Dbxref=NCBI_GP:AFY11701.1;Name=AFY11701.1;gbkey=CDS;gene=3c;product=ORF3c;protein_id=AFY11701.1
+KC013541.1	Genbank	gene	24544	25224	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KC013541.1	Genbank	CDS	24544	25224	.	+	0	ID=cds-AFY11702.1;Parent=gene-M;Dbxref=NCBI_GP:AFY11702.1;Name=AFY11702.1;gbkey=CDS;gene=M;product=M protein;protein_id=AFY11702.1
+KC013541.1	Genbank	gene	25588	25785	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+KC013541.1	Genbank	CDS	25588	25785	.	+	0	ID=cds-AFY11703.1;Parent=gene-5a;Dbxref=NCBI_GP:AFY11703.1;Name=AFY11703.1;gbkey=CDS;gene=5a;product=ORF5a;protein_id=AFY11703.1
+KC013541.1	Genbank	gene	25782	26030	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+KC013541.1	Genbank	CDS	25782	26030	.	+	0	ID=cds-AFY11704.1;Parent=gene-5b;Dbxref=NCBI_GP:AFY11704.1;Name=AFY11704.1;gbkey=CDS;gene=5b;product=ORF5b;protein_id=AFY11704.1
+KC013541.1	Genbank	gene	25973	27202	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KC013541.1	Genbank	CDS	25973	27202	.	+	0	ID=cds-AFY11705.1;Parent=gene-N;Dbxref=NCBI_GP:AFY11705.1;Name=AFY11705.1;gbkey=CDS;gene=N;product=N protein;protein_id=AFY11705.1
+

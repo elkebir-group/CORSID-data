@@ -1,0 +1,25 @@
+##sequence-region KU356856.1 1 27647
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+KU356856.1	Genbank	region	1	27647	.	+	.	ID=KU356856.1:1..27647;Dbxref=taxon:11120;collection-date=Sep-2014;country=China;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=chicken;strain=ck/CH/SCYB/140913
+KU356856.1	Genbank	gene	529	20363	.	+	.	ID=gene-1ab;Name=1ab;gbkey=Gene;gene=1ab;gene_biotype=protein_coding
+KU356856.1	Genbank	CDS	529	12300	.	+	0	ID=cds-ANI21147.1;Parent=gene-1ab;Dbxref=NCBI_GP:ANI21147.1;Name=ANI21147.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=ORF1ab;protein_id=ANI21147.1
+KU356856.1	Genbank	CDS	12300	20363	.	+	0	ID=cds-ANI21147.1;Parent=gene-1ab;Dbxref=NCBI_GP:ANI21147.1;Name=ANI21147.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=ORF1ab;protein_id=ANI21147.1
+KU356856.1	Genbank	gene	529	12330	.	+	.	ID=gene-1a;Name=1a;gbkey=Gene;gene=1a;gene_biotype=protein_coding
+KU356856.1	Genbank	CDS	529	12330	.	+	0	ID=cds-ANI21148.1;Parent=gene-1a;Dbxref=NCBI_GP:ANI21148.1;Name=ANI21148.1;gbkey=CDS;gene=1a;product=ORF1a;protein_id=ANI21148.1
+KU356856.1	Genbank	gene	20314	23811	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KU356856.1	Genbank	CDS	20314	23811	.	+	0	ID=cds-ANI21149.1;Parent=gene-S;Dbxref=NCBI_GP:ANI21149.1;Name=ANI21149.1;gbkey=CDS;gene=S;product=spike protein;protein_id=ANI21149.1
+KU356856.1	Genbank	gene	23811	23984	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+KU356856.1	Genbank	CDS	23811	23984	.	+	0	ID=cds-ANI21150.1;Parent=gene-3a;Dbxref=NCBI_GP:ANI21150.1;Name=ANI21150.1;gbkey=CDS;gene=3a;product=3a protein;protein_id=ANI21150.1
+KU356856.1	Genbank	gene	23984	24172	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+KU356856.1	Genbank	CDS	23984	24172	.	+	0	ID=cds-ANI21151.1;Parent=gene-3b;Dbxref=NCBI_GP:ANI21151.1;Name=ANI21151.1;gbkey=CDS;gene=3b;product=3b protein;protein_id=ANI21151.1
+KU356856.1	Genbank	gene	24156	24482	.	+	.	ID=gene-3c;Name=3c;gbkey=Gene;gene=3c;gene_biotype=protein_coding
+KU356856.1	Genbank	CDS	24156	24482	.	+	0	ID=cds-ANI21152.1;Parent=gene-3c;Dbxref=NCBI_GP:ANI21152.1;Name=ANI21152.1;gbkey=CDS;gene=3c;product=E protein;protein_id=ANI21152.1
+KU356856.1	Genbank	gene	24454	25131	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KU356856.1	Genbank	CDS	24454	25131	.	+	0	ID=cds-ANI21153.1;Parent=gene-M;Dbxref=NCBI_GP:ANI21153.1;Name=ANI21153.1;gbkey=CDS;gene=M;product=M protein;protein_id=ANI21153.1
+KU356856.1	Genbank	gene	25485	25682	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+KU356856.1	Genbank	CDS	25485	25682	.	+	0	ID=cds-ANI21154.1;Parent=gene-5a;Dbxref=NCBI_GP:ANI21154.1;Name=ANI21154.1;gbkey=CDS;gene=5a;product=5a protein;protein_id=ANI21154.1
+KU356856.1	Genbank	gene	25679	25951	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+KU356856.1	Genbank	CDS	25679	25951	.	+	0	ID=cds-ANI21155.1;Parent=gene-5b;Dbxref=NCBI_GP:ANI21155.1;Name=ANI21155.1;gbkey=CDS;gene=5b;product=5b protein;protein_id=ANI21155.1
+KU356856.1	Genbank	gene	25870	27099	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KU356856.1	Genbank	CDS	25870	27099	.	+	0	ID=cds-ANI21156.1;Parent=gene-N;Dbxref=NCBI_GP:ANI21156.1;Name=ANI21156.1;gbkey=CDS;gene=N;product=N protein;protein_id=ANI21156.1
+

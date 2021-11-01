@@ -1,0 +1,23 @@
+##sequence-region KP036505.1 1 27676
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+KP036505.1	Genbank	region	1	27676	.	+	.	ID=KP036505.1:1..27676;Dbxref=taxon:11120;collection-date=2013;country=China;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Gallus gallus;strain=ck/CH/LJL/130925
+KP036505.1	Genbank	gene	526	20420	.	+	.	ID=gene-ORF1ab;Name=ORF1ab;gbkey=Gene;gene=ORF1ab;gene_biotype=protein_coding
+KP036505.1	Genbank	CDS	526	12384	.	+	0	ID=cds-AJP16738.1;Parent=gene-ORF1ab;Dbxref=NCBI_GP:AJP16738.1;Name=AJP16738.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;product=ORF1ab;protein_id=AJP16738.1
+KP036505.1	Genbank	CDS	12387	20420	.	+	0	ID=cds-AJP16738.1;Parent=gene-ORF1ab;Dbxref=NCBI_GP:AJP16738.1;Name=AJP16738.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;product=ORF1ab;protein_id=AJP16738.1
+KP036505.1	Genbank	gene	20371	23859	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KP036505.1	Genbank	CDS	20371	23859	.	+	0	ID=cds-AJP16739.1;Parent=gene-S;Dbxref=NCBI_GP:AJP16739.1;Name=AJP16739.1;gbkey=CDS;gene=S;product=spike protein;protein_id=AJP16739.1
+KP036505.1	Genbank	gene	23859	24032	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+KP036505.1	Genbank	CDS	23859	24032	.	+	0	ID=cds-AJP16740.1;Parent=gene-3a;Dbxref=NCBI_GP:AJP16740.1;Name=AJP16740.1;gbkey=CDS;gene=3a;product=3a protein;protein_id=AJP16740.1
+KP036505.1	Genbank	gene	24032	24220	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+KP036505.1	Genbank	CDS	24032	24220	.	+	0	ID=cds-AJP16741.1;Parent=gene-3b;Dbxref=NCBI_GP:AJP16741.1;Name=AJP16741.1;gbkey=CDS;gene=3b;product=3b protein;protein_id=AJP16741.1
+KP036505.1	Genbank	gene	24207	24533	.	+	.	ID=gene-3c;Name=3c;gbkey=Gene;gene=3c;gene_biotype=protein_coding
+KP036505.1	Genbank	CDS	24207	24533	.	+	0	ID=cds-AJP16742.1;Parent=gene-3c;Dbxref=NCBI_GP:AJP16742.1;Name=AJP16742.1;gbkey=CDS;gene=3c;product=E protein;protein_id=AJP16742.1
+KP036505.1	Genbank	gene	24505	25182	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KP036505.1	Genbank	CDS	24505	25182	.	+	0	ID=cds-AJP16743.1;Parent=gene-M;Dbxref=NCBI_GP:AJP16743.1;Name=AJP16743.1;gbkey=CDS;gene=M;product=M protein;protein_id=AJP16743.1
+KP036505.1	Genbank	gene	25546	25743	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+KP036505.1	Genbank	CDS	25546	25743	.	+	0	ID=cds-AJP16744.1;Parent=gene-5a;Dbxref=NCBI_GP:AJP16744.1;Name=AJP16744.1;gbkey=CDS;gene=5a;product=5a protein;protein_id=AJP16744.1
+KP036505.1	Genbank	gene	25740	25988	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+KP036505.1	Genbank	CDS	25740	25988	.	+	0	ID=cds-AJP16745.1;Parent=gene-5b;Dbxref=NCBI_GP:AJP16745.1;Name=AJP16745.1;gbkey=CDS;gene=5b;product=5b protein;protein_id=AJP16745.1
+KP036505.1	Genbank	gene	25931	27160	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KP036505.1	Genbank	CDS	25931	27160	.	+	0	ID=cds-AJP16746.1;Parent=gene-N;Dbxref=NCBI_GP:AJP16746.1;Name=AJP16746.1;gbkey=CDS;gene=N;product=N protein;protein_id=AJP16746.1
+

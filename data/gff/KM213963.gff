@@ -1,0 +1,14 @@
+##sequence-region KM213963.1 1 27714
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+KM213963.1	Genbank	region	1	27714	.	+	.	ID=KM213963.1:1..27714;Dbxref=taxon:11120;collection-date=2013;country=China;gbkey=Src;genome=genomic;isolate=CK/CH/XDC- 2/2013;mol_type=genomic RNA;nat-host=Gallus gallus
+KM213963.1	Genbank	CDS	530	12448	.	+	0	ID=cds-AIY51826.1;Dbxref=NCBI_GP:AIY51826.1;Name=AIY51826.1;gbkey=CDS;product=polyprotein 1a;protein_id=AIY51826.1
+KM213963.1	Genbank	CDS	12496	20454	.	+	0	ID=cds-AIY51827.1;Dbxref=NCBI_GP:AIY51827.1;Name=AIY51827.1;gbkey=CDS;product=polyprotein 1b;protein_id=AIY51827.1
+KM213963.1	Genbank	CDS	20405	23914	.	+	0	ID=cds-AIY51828.1;Dbxref=NCBI_GP:AIY51828.1;Name=AIY51828.1;gbkey=CDS;product=spike protein;protein_id=AIY51828.1
+KM213963.1	Genbank	CDS	23914	24087	.	+	0	ID=cds-AIY51829.1;Dbxref=NCBI_GP:AIY51829.1;Name=AIY51829.1;gbkey=CDS;product=ORF3a;protein_id=AIY51829.1
+KM213963.1	Genbank	CDS	24087	24275	.	+	0	ID=cds-AIY51830.1;Dbxref=NCBI_GP:AIY51830.1;Name=AIY51830.1;gbkey=CDS;product=ORF3b;protein_id=AIY51830.1
+KM213963.1	Genbank	CDS	24259	24567	.	+	0	ID=cds-AIY51831.1;Dbxref=NCBI_GP:AIY51831.1;Name=AIY51831.1;gbkey=CDS;product=envelope protein;protein_id=AIY51831.1
+KM213963.1	Genbank	CDS	24557	25234	.	+	0	ID=cds-AIY51832.1;Dbxref=NCBI_GP:AIY51832.1;Name=AIY51832.1;gbkey=CDS;product=membrane protein;protein_id=AIY51832.1
+KM213963.1	Genbank	CDS	25598	25795	.	+	0	ID=cds-AIY51833.1;Dbxref=NCBI_GP:AIY51833.1;Name=AIY51833.1;gbkey=CDS;product=ORF5a;protein_id=AIY51833.1
+KM213963.1	Genbank	CDS	25792	26040	.	+	0	ID=cds-AIY51834.1;Dbxref=NCBI_GP:AIY51834.1;Name=AIY51834.1;gbkey=CDS;product=ORF5b;protein_id=AIY51834.1
+KM213963.1	Genbank	CDS	25983	27206	.	+	0	ID=cds-AIY51835.1;Dbxref=NCBI_GP:AIY51835.1;Name=AIY51835.1;gbkey=CDS;product=nucleocapsid protein;protein_id=AIY51835.1
+

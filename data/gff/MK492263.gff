@@ -1,0 +1,23 @@
+##sequence-region MK492263.1 1 29585
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1508220
+MK492263.1	Genbank	region	1	29585	.	+	.	ID=MK492263.1:1..29585;Dbxref=taxon:1508220;collection-date=2015;country=Singapore;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Cynopterus brachyotis;strain=BtCoV92
+MK492263.1	Genbank	gene	227	24601	.	+	.	ID=gene-MK492263.1:227..24601;description=orf1ab;gbkey=Gene;gene_biotype=protein_coding
+MK492263.1	Genbank	CDS	227	12745	.	+	0	ID=cds-QEH60462.1;Parent=gene-MK492263.1:227..24601;Dbxref=NCBI_GP:QEH60462.1;Name=QEH60462.1;exception=ribosomal slippage;gbkey=CDS;product=orf1ab polyprotein;protein_id=QEH60462.1
+MK492263.1	Genbank	CDS	12745	20823	.	+	0	ID=cds-QEH60462.1;Parent=gene-MK492263.1:227..24601;Dbxref=NCBI_GP:QEH60462.1;Name=QEH60462.1;exception=ribosomal slippage;gbkey=CDS;product=orf1ab polyprotein;protein_id=QEH60462.1
+MK492263.1	Genbank	gene	20777	24601	.	+	.	ID=gene-MK492263.1:20777..24601;description=S;gbkey=Gene;gene_biotype=protein_coding
+MK492263.1	Genbank	CDS	20777	24601	.	+	0	ID=cds-QEH60463.1;Parent=gene-MK492263.1:20777..24601;Dbxref=NCBI_GP:QEH60463.1;Name=QEH60463.1;gbkey=CDS;product=spike glycoprotein;protein_id=QEH60463.1
+MK492263.1	Genbank	gene	24598	25290	.	+	.	ID=gene-MK492263.1:24598..25290;description=NS3;gbkey=Gene;gene_biotype=protein_coding
+MK492263.1	Genbank	CDS	24598	25290	.	+	0	ID=cds-QEH60464.1;Parent=gene-MK492263.1:24598..25290;Dbxref=NCBI_GP:QEH60464.1;Name=QEH60464.1;gbkey=CDS;product=nonstructural protein 3;protein_id=QEH60464.1
+MK492263.1	Genbank	gene	25290	25520	.	+	.	ID=gene-MK492263.1:25290..25520;description=E;gbkey=Gene;gene_biotype=protein_coding
+MK492263.1	Genbank	CDS	25290	25520	.	+	0	ID=cds-QEH60465.1;Parent=gene-MK492263.1:25290..25520;Dbxref=NCBI_GP:QEH60465.1;Name=QEH60465.1;gbkey=CDS;product=small membrane protein;protein_id=QEH60465.1
+MK492263.1	Genbank	gene	25523	26188	.	+	.	ID=gene-MK492263.1:25523..26188;description=M;gbkey=Gene;gene_biotype=protein_coding
+MK492263.1	Genbank	CDS	25523	26188	.	+	0	ID=cds-QEH60466.1;Parent=gene-MK492263.1:25523..26188;Dbxref=NCBI_GP:QEH60466.1;Name=QEH60466.1;gbkey=CDS;product=membrane glycoprotein;protein_id=QEH60466.1
+MK492263.1	Genbank	gene	26243	27634	.	+	.	ID=gene-MK492263.1:26243..27634;description=N;gbkey=Gene;gene_biotype=protein_coding
+MK492263.1	Genbank	CDS	26243	27634	.	+	0	ID=cds-QEH60467.1;Parent=gene-MK492263.1:26243..27634;Dbxref=NCBI_GP:QEH60467.1;Name=QEH60467.1;gbkey=CDS;product=nucleocapsid phosphoprotein;protein_id=QEH60467.1
+MK492263.1	Genbank	gene	27670	28272	.	+	.	ID=gene-MK492263.1:27670..28272;description=NS7a;gbkey=Gene;gene_biotype=protein_coding
+MK492263.1	Genbank	CDS	27670	28272	.	+	0	ID=cds-QEH60468.1;Parent=gene-MK492263.1:27670..28272;Dbxref=NCBI_GP:QEH60468.1;Name=QEH60468.1;gbkey=CDS;product=hypothetical protein;protein_id=QEH60468.1
+MK492263.1	Genbank	gene	28296	28889	.	+	.	ID=gene-MK492263.1:28296..28889;description=NS7b;gbkey=Gene;gene_biotype=protein_coding
+MK492263.1	Genbank	CDS	28296	28889	.	+	0	ID=cds-QEH60469.1;Parent=gene-MK492263.1:28296..28889;Dbxref=NCBI_GP:QEH60469.1;Name=QEH60469.1;gbkey=CDS;product=hypothetical protein;protein_id=QEH60469.1
+MK492263.1	Genbank	gene	28844	29326	.	+	.	ID=gene-MK492263.1:28844..29326;description=NS7c;gbkey=Gene;gene_biotype=protein_coding
+MK492263.1	Genbank	CDS	28844	29326	.	+	0	ID=cds-QEH60470.1;Parent=gene-MK492263.1:28844..29326;Dbxref=NCBI_GP:QEH60470.1;Name=QEH60470.1;gbkey=CDS;product=hypothetical protein;protein_id=QEH60470.1
+

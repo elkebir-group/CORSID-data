@@ -1,0 +1,13 @@
+##sequence-region MH687968.1 1 31083
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1928434
+MH687968.1	Genbank	region	1	31083	.	+	.	ID=MH687968.1:1..31083;Dbxref=taxon:1928434;collection-date=14-Nov-2014;country=Viet Nam;gbkey=Src;mol_type=genomic RNA;nat-host=Rattus argentiventer;strain=VZ_BetaCoV_16715_52
+MH687968.1	Genbank	CDS	228	13424	.	+	0	ID=cds-AYR18596.1;Dbxref=NCBI_GP:AYR18596.1;Name=AYR18596.1;exception=ribosomal slippage;gbkey=CDS;product=replicase polyprotein;protein_id=AYR18596.1
+MH687968.1	Genbank	CDS	13424	21556	.	+	0	ID=cds-AYR18596.1;Dbxref=NCBI_GP:AYR18596.1;Name=AYR18596.1;exception=ribosomal slippage;gbkey=CDS;product=replicase polyprotein;protein_id=AYR18596.1
+MH687968.1	Genbank	CDS	21569	22357	.	+	0	ID=cds-AYR18597.1;Dbxref=NCBI_GP:AYR18597.1;Name=AYR18597.1;gbkey=CDS;product=nonstructural protein NS2a;protein_id=AYR18597.1
+MH687968.1	Genbank	CDS	22413	23654	.	+	0	ID=cds-AYR18598.1;Dbxref=NCBI_GP:AYR18598.1;Name=AYR18598.1;gbkey=CDS;product=hemagglutinin-esterase protein;protein_id=AYR18598.1
+MH687968.1	Genbank	CDS	23667	27704	.	+	0	ID=cds-AYR18599.1;Dbxref=NCBI_GP:AYR18599.1;Name=AYR18599.1;gbkey=CDS;product=spike glycoprotein;protein_id=AYR18599.1
+MH687968.1	Genbank	CDS	27771	28193	.	+	0	ID=cds-AYR18600.1;Dbxref=NCBI_GP:AYR18600.1;Name=AYR18600.1;gbkey=CDS;product=nonstructural protein NS4;protein_id=AYR18600.1
+MH687968.1	Genbank	CDS	28497	28751	.	+	0	ID=cds-AYR18601.1;Dbxref=NCBI_GP:AYR18601.1;Name=AYR18601.1;gbkey=CDS;product=envelope protein;protein_id=AYR18601.1
+MH687968.1	Genbank	CDS	28762	29454	.	+	0	ID=cds-AYR18602.1;Dbxref=NCBI_GP:AYR18602.1;Name=AYR18602.1;gbkey=CDS;product=membrane protein;protein_id=AYR18602.1
+MH687968.1	Genbank	CDS	29464	30813	.	+	0	ID=cds-AYR18603.1;Dbxref=NCBI_GP:AYR18603.1;Name=AYR18603.1;gbkey=CDS;product=nucleocapsid protein;protein_id=AYR18603.1
+

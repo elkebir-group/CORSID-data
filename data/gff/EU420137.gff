@@ -1,0 +1,19 @@
+##sequence-region EU420137.1 1 28476
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=393768
+EU420137.1	Genbank	region	1	28476	.	+	.	ID=EU420137.1:1..28476;Dbxref=taxon:393768;country=Hong Kong;gbkey=Src;mol_type=genomic RNA;strain=AFCD307
+EU420137.1	Genbank	gene	273	21238	.	+	.	ID=gene-ORF1ab;Name=ORF1ab;gbkey=Gene;gene=ORF1ab;gene_biotype=protein_coding
+EU420137.1	Genbank	CDS	273	13217	.	+	0	ID=cds-ACA52156.1;Parent=gene-ORF1ab;Dbxref=NCBI_GP:ACA52156.1;Name=ACA52156.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;product=ORF1ab polyprotein;protein_id=ACA52156.1
+EU420137.1	Genbank	CDS	13217	21238	.	+	0	ID=cds-ACA52156.1;Parent=gene-ORF1ab;Dbxref=NCBI_GP:ACA52156.1;Name=ACA52156.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;product=ORF1ab polyprotein;protein_id=ACA52156.1
+EU420137.1	Genbank	gene	273	13247	.	+	.	ID=gene-ORF1a;Name=ORF1a;gbkey=Gene;gene=ORF1a;gene_biotype=protein_coding
+EU420137.1	Genbank	CDS	273	13247	.	+	0	ID=cds-ACA52155.1;Parent=gene-ORF1a;Dbxref=NCBI_GP:ACA52155.1;Name=ACA52155.1;gbkey=CDS;gene=ORF1a;product=ORF1a polyprotein;protein_id=ACA52155.1
+EU420137.1	Genbank	gene	21240	25397	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+EU420137.1	Genbank	CDS	21240	25397	.	+	0	ID=cds-ACA52157.1;Parent=gene-S;Dbxref=NCBI_GP:ACA52157.1;Name=ACA52157.1;gbkey=CDS;gene=S;product=spike protein;protein_id=ACA52157.1
+EU420137.1	Genbank	gene	25366	26025	.	+	.	ID=gene-ORF3;Name=ORF3;gbkey=Gene;gene=ORF3;gene_biotype=protein_coding
+EU420137.1	Genbank	CDS	25366	26025	.	+	0	ID=cds-ACA52158.1;Parent=gene-ORF3;Dbxref=NCBI_GP:ACA52158.1;Name=ACA52158.1;Note=ORF3;gbkey=CDS;gene=ORF3;product=ORF3 protein;protein_id=ACA52158.1
+EU420137.1	Genbank	gene	26019	26243	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+EU420137.1	Genbank	CDS	26019	26243	.	+	0	ID=cds-ACA52159.1;Parent=gene-E;Dbxref=NCBI_GP:ACA52159.1;Name=ACA52159.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=ACA52159.1
+EU420137.1	Genbank	gene	26250	27017	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+EU420137.1	Genbank	CDS	26250	27017	.	+	0	ID=cds-ACA52160.1;Parent=gene-M;Dbxref=NCBI_GP:ACA52160.1;Name=ACA52160.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=ACA52160.1
+EU420137.1	Genbank	gene	27038	28189	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+EU420137.1	Genbank	CDS	27038	28189	.	+	0	ID=cds-ACA52161.1;Parent=gene-N;Dbxref=NCBI_GP:ACA52161.1;Name=ACA52161.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=ACA52161.1
+

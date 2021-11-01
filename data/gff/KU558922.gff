@@ -1,0 +1,27 @@
+##sequence-region KU558922.1 1 31039
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=694003
+KU558922.1	Genbank	region	1	31039	.	+	.	ID=KU558922.1:1..31039;Dbxref=taxon:694003;collection-date=01-Oct-2014;country=Bangladesh;gbkey=Src;genome=genomic;isolate=Buffalo coronavirus B1-24F;mol_type=genomic RNA;nat-host=Bubalus bubalis
+KU558922.1	Genbank	gene	211	21494	.	+	.	ID=gene-orf1ab;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding
+KU558922.1	Genbank	CDS	211	13341	.	+	0	ID=cds-ANJ04714.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:ANJ04714.1;Name=ANJ04714.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=replicase polyprotein;protein_id=ANJ04714.1
+KU558922.1	Genbank	CDS	13341	21494	.	+	0	ID=cds-ANJ04714.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:ANJ04714.1;Name=ANJ04714.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=replicase polyprotein;protein_id=ANJ04714.1
+KU558922.1	Genbank	gene	21504	22340	.	+	.	ID=gene-32kDa;Name=32kDa;gbkey=Gene;gene=32kDa;gene_biotype=protein_coding
+KU558922.1	Genbank	CDS	21504	22340	.	+	0	ID=cds-ANJ04715.1;Parent=gene-32kDa;Dbxref=NCBI_GP:ANJ04715.1;Name=ANJ04715.1;gbkey=CDS;gene=32kDa;product=32 kDa non-structural protein;protein_id=ANJ04715.1
+KU558922.1	Genbank	gene	22352	23626	.	+	.	ID=gene-HE;Name=HE;gbkey=Gene;gene=HE;gene_biotype=protein_coding
+KU558922.1	Genbank	CDS	22352	23626	.	+	0	ID=cds-ANJ04716.1;Parent=gene-HE;Dbxref=NCBI_GP:ANJ04716.1;Name=ANJ04716.1;gbkey=CDS;gene=HE;product=hemagglutinin-esterase;protein_id=ANJ04716.1
+KU558922.1	Genbank	gene	23641	27732	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KU558922.1	Genbank	CDS	23641	27732	.	+	0	ID=cds-ANJ04717.1;Parent=gene-S;Dbxref=NCBI_GP:ANJ04717.1;Name=ANJ04717.1;gbkey=CDS;gene=S;product=spike protein;protein_id=ANJ04717.1
+KU558922.1	Genbank	gene	27722	27799	.	+	.	ID=gene-4.9kDa;Name=4.9kDa;gbkey=Gene;gene=4.9kDa;gene_biotype=protein_coding
+KU558922.1	Genbank	CDS	27722	27799	.	+	0	ID=cds-ANJ04719.1;Parent=gene-4.9kDa;Dbxref=NCBI_GP:ANJ04719.1;Name=ANJ04719.1;gbkey=CDS;gene=4.9kDa;product=4.9 kDa non-structural protein;protein_id=ANJ04719.1
+KU558922.1	Genbank	gene	27932	28021	.	+	.	ID=gene-4.8kDa;Name=4.8kDa;gbkey=Gene;gene=4.8kDa;gene_biotype=protein_coding
+KU558922.1	Genbank	CDS	27932	28021	.	+	0	ID=cds-ANJ04720.1;Parent=gene-4.8kDa;Dbxref=NCBI_GP:ANJ04720.1;Name=ANJ04720.1;gbkey=CDS;gene=4.8kDa;product=4.8 kDa non-structural protein;protein_id=ANJ04720.1
+KU558922.1	Genbank	gene	28099	28428	.	+	.	ID=gene-12.7kDa;Name=12.7kDa;gbkey=Gene;gene=12.7kDa;gene_biotype=protein_coding
+KU558922.1	Genbank	CDS	28099	28428	.	+	0	ID=cds-ANJ04718.1;Parent=gene-12.7kDa;Dbxref=NCBI_GP:ANJ04718.1;Name=ANJ04718.1;gbkey=CDS;gene=12.7kDa;product=12.7 kDa non-structural protein;protein_id=ANJ04718.1
+KU558922.1	Genbank	gene	28415	28669	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+KU558922.1	Genbank	CDS	28415	28669	.	+	0	ID=cds-ANJ04721.1;Parent=gene-E;Dbxref=NCBI_GP:ANJ04721.1;Name=ANJ04721.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=ANJ04721.1
+KU558922.1	Genbank	gene	28684	29376	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KU558922.1	Genbank	CDS	28684	29376	.	+	0	ID=cds-ANJ04722.1;Parent=gene-M;Dbxref=NCBI_GP:ANJ04722.1;Name=ANJ04722.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=ANJ04722.1
+KU558922.1	Genbank	gene	29386	30732	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KU558922.1	Genbank	CDS	29386	30732	.	+	0	ID=cds-ANJ04723.1;Parent=gene-N;Dbxref=NCBI_GP:ANJ04723.1;Name=ANJ04723.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=ANJ04723.1
+KU558922.1	Genbank	gene	29447	30070	.	+	.	ID=gene-I;Name=I;gbkey=Gene;gene=I;gene_biotype=protein_coding
+KU558922.1	Genbank	CDS	29447	30070	.	+	0	ID=cds-ANJ04724.1;Parent=gene-I;Dbxref=NCBI_GP:ANJ04724.1;Name=ANJ04724.1;gbkey=CDS;gene=I;product=internal protein;protein_id=ANJ04724.1
+

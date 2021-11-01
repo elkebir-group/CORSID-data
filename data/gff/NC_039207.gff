@@ -1,0 +1,29 @@
+##sequence-region NC_039207.1 1 30148
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1385427
+NC_039207.1	RefSeq	region	1	30148	.	+	.	ID=NC_039207.1:1..30148;Dbxref=taxon:1385427;collection-date=2012;country=Germany;gbkey=Src;genome=genomic;isolate=ErinaceusCoV/2012-174/GER/2012;isolation-source=feces;mol_type=genomic RNA;nat-host=Erinaceus europaeus
+NC_039207.1	RefSeq	gene	241	21692	.	+	.	ID=gene-D1Y28_gp01;Dbxref=GeneID:37627013;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding;locus_tag=D1Y28_gp01
+NC_039207.1	RefSeq	CDS	241	13584	.	+	0	ID=cds-YP_009513008.1;Parent=gene-D1Y28_gp01;Dbxref=Genbank:YP_009513008.1,GeneID:37627013;Name=YP_009513008.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;locus_tag=D1Y28_gp01;product=orf1ab;protein_id=YP_009513008.1
+NC_039207.1	RefSeq	CDS	13584	21692	.	+	0	ID=cds-YP_009513008.1;Parent=gene-D1Y28_gp01;Dbxref=Genbank:YP_009513008.1,GeneID:37627013;Name=YP_009513008.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;locus_tag=D1Y28_gp01;product=orf1ab;protein_id=YP_009513008.1
+NC_039207.1	RefSeq	gene	241	13605	.	+	.	ID=gene-D1Y28_gp02;Dbxref=GeneID:37627012;Name=ORF 1a;gbkey=Gene;gene=ORF 1a;gene_biotype=protein_coding;locus_tag=D1Y28_gp02
+NC_039207.1	RefSeq	CDS	241	13605	.	+	0	ID=cds-YP_009513009.1;Parent=gene-D1Y28_gp02;Dbxref=Genbank:YP_009513009.1,GeneID:37627012;Name=YP_009513009.1;gbkey=CDS;gene=ORF 1a;locus_tag=D1Y28_gp02;product=ORF 1a;protein_id=YP_009513009.1
+NC_039207.1	RefSeq	gene	21610	25602	.	+	.	ID=gene-D1Y28_gp03;Dbxref=GeneID:37627011;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding;locus_tag=D1Y28_gp03
+NC_039207.1	RefSeq	CDS	21610	25602	.	+	0	ID=cds-YP_009513010.1;Parent=gene-D1Y28_gp03;Dbxref=Genbank:YP_009513010.1,GeneID:37627011;Name=YP_009513010.1;gbkey=CDS;gene=S;locus_tag=D1Y28_gp03;product=S;protein_id=YP_009513010.1
+NC_039207.1	RefSeq	gene	25620	25937	.	+	.	ID=gene-D1Y28_gp04;Dbxref=GeneID:37627002;Name=ORF 3a;gbkey=Gene;gene=ORF 3a;gene_biotype=protein_coding;locus_tag=D1Y28_gp04
+NC_039207.1	RefSeq	CDS	25620	25937	.	+	0	ID=cds-YP_009513011.1;Parent=gene-D1Y28_gp04;Dbxref=Genbank:YP_009513011.1,GeneID:37627002;Name=YP_009513011.1;gbkey=CDS;gene=ORF 3a;locus_tag=D1Y28_gp04;product=ORF 3a;protein_id=YP_009513011.1
+NC_039207.1	RefSeq	gene	25714	26136	.	+	.	ID=gene-D1Y28_gp05;Dbxref=GeneID:37627003;Name=ORF 3b;gbkey=Gene;gene=ORF 3b;gene_biotype=protein_coding;locus_tag=D1Y28_gp05
+NC_039207.1	RefSeq	CDS	25714	26136	.	+	0	ID=cds-YP_009513012.1;Parent=gene-D1Y28_gp05;Dbxref=Genbank:YP_009513012.1,GeneID:37627003;Name=YP_009513012.1;gbkey=CDS;gene=ORF 3b;locus_tag=D1Y28_gp05;product=ORF 3b;protein_id=YP_009513012.1
+NC_039207.1	RefSeq	gene	25891	26136	.	+	.	ID=gene-D1Y28_gp06;Dbxref=GeneID:37627004;Name=orf4a;gbkey=Gene;gene=orf4a;gene_biotype=protein_coding;locus_tag=D1Y28_gp06
+NC_039207.1	RefSeq	CDS	25891	26136	.	+	0	ID=cds-YP_009513013.1;Parent=gene-D1Y28_gp06;Dbxref=Genbank:YP_009513013.1,GeneID:37627004;Name=YP_009513013.1;gbkey=CDS;gene=orf4a;locus_tag=D1Y28_gp06;product=orf4a;protein_id=YP_009513013.1
+NC_039207.1	RefSeq	gene	26123	26794	.	+	.	ID=gene-D1Y28_gp07;Dbxref=GeneID:37627005;Name=orf4b;gbkey=Gene;gene=orf4b;gene_biotype=protein_coding;locus_tag=D1Y28_gp07
+NC_039207.1	RefSeq	CDS	26123	26794	.	+	0	ID=cds-YP_009513014.1;Parent=gene-D1Y28_gp07;Dbxref=Genbank:YP_009513014.1,GeneID:37627005;Name=YP_009513014.1;gbkey=CDS;gene=orf4b;locus_tag=D1Y28_gp07;product=orf4b;protein_id=YP_009513014.1
+NC_039207.1	RefSeq	gene	26804	27505	.	+	.	ID=gene-D1Y28_gp08;Dbxref=GeneID:37627006;Name=orf5;gbkey=Gene;gene=orf5;gene_biotype=protein_coding;locus_tag=D1Y28_gp08
+NC_039207.1	RefSeq	CDS	26804	27505	.	+	0	ID=cds-YP_009513015.1;Parent=gene-D1Y28_gp08;Dbxref=Genbank:YP_009513015.1,GeneID:37627006;Name=YP_009513015.1;gbkey=CDS;gene=orf5;locus_tag=D1Y28_gp08;product=orf5;protein_id=YP_009513015.1
+NC_039207.1	RefSeq	gene	27579	27827	.	+	.	ID=gene-D1Y28_gp09;Dbxref=GeneID:37627007;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding;locus_tag=D1Y28_gp09
+NC_039207.1	RefSeq	CDS	27579	27827	.	+	0	ID=cds-YP_009513016.1;Parent=gene-D1Y28_gp09;Dbxref=Genbank:YP_009513016.1,GeneID:37627007;Name=YP_009513016.1;gbkey=CDS;gene=E;locus_tag=D1Y28_gp09;product=E;protein_id=YP_009513016.1
+NC_039207.1	RefSeq	gene	27842	28498	.	+	.	ID=gene-D1Y28_gp10;Dbxref=GeneID:37627008;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding;locus_tag=D1Y28_gp10
+NC_039207.1	RefSeq	CDS	27842	28498	.	+	0	ID=cds-YP_009513017.1;Parent=gene-D1Y28_gp10;Dbxref=Genbank:YP_009513017.1,GeneID:37627008;Name=YP_009513017.1;gbkey=CDS;gene=M;locus_tag=D1Y28_gp10;product=M;protein_id=YP_009513017.1
+NC_039207.1	RefSeq	gene	28552	29826	.	+	.	ID=gene-D1Y28_gp11;Dbxref=GeneID:37627009;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding;locus_tag=D1Y28_gp11
+NC_039207.1	RefSeq	CDS	28552	29826	.	+	0	ID=cds-YP_009513018.1;Parent=gene-D1Y28_gp11;Dbxref=Genbank:YP_009513018.1,GeneID:37627009;Name=YP_009513018.1;gbkey=CDS;gene=N;locus_tag=D1Y28_gp11;product=N;protein_id=YP_009513018.1
+NC_039207.1	RefSeq	gene	28598	29197	.	+	.	ID=gene-D1Y28_gp12;Dbxref=GeneID:37627010;Name=orf8b;gbkey=Gene;gene=orf8b;gene_biotype=protein_coding;locus_tag=D1Y28_gp12
+NC_039207.1	RefSeq	CDS	28598	29197	.	+	0	ID=cds-YP_009513019.1;Parent=gene-D1Y28_gp12;Dbxref=Genbank:YP_009513019.1,GeneID:37627010;Name=YP_009513019.1;gbkey=CDS;gene=orf8b;locus_tag=D1Y28_gp12;product=orf8b;protein_id=YP_009513019.1
+

@@ -1,0 +1,23 @@
+##sequence-region MH924835.1 1 27639
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+MH924835.1	Genbank	region	1	27639	.	+	.	ID=MH924835.1:1..27639;Dbxref=taxon:11120;collection-date=2016;country=China;gbkey=Src;genome=genomic;genotype=LX4;mol_type=genomic RNA;nat-host=Gallus;strain=gammaCoV/ck/China/I0636/16
+MH924835.1	Genbank	gene	526	20420	.	+	.	ID=gene-1ab;Name=1ab;gbkey=Gene;gene=1ab;gene_biotype=protein_coding
+MH924835.1	Genbank	CDS	526	12357	.	+	0	ID=cds-AZA07513.1;Parent=gene-1ab;Dbxref=NCBI_GP:AZA07513.1;Name=AZA07513.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=ORF1ab;protein_id=AZA07513.1
+MH924835.1	Genbank	CDS	12357	20420	.	+	0	ID=cds-AZA07513.1;Parent=gene-1ab;Dbxref=NCBI_GP:AZA07513.1;Name=AZA07513.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=ORF1ab;protein_id=AZA07513.1
+MH924835.1	Genbank	gene	20371	23859	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MH924835.1	Genbank	CDS	20371	23859	.	+	0	ID=cds-AZA07514.1;Parent=gene-S;Dbxref=NCBI_GP:AZA07514.1;Name=AZA07514.1;gbkey=CDS;gene=S;product=spike protein;protein_id=AZA07514.1
+MH924835.1	Genbank	gene	23859	24044	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+MH924835.1	Genbank	CDS	23859	24044	.	+	0	ID=cds-AZA07515.1;Parent=gene-3a;Dbxref=NCBI_GP:AZA07515.1;Name=AZA07515.1;gbkey=CDS;gene=3a;product=3a protein;protein_id=AZA07515.1
+MH924835.1	Genbank	gene	24031	24222	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+MH924835.1	Genbank	CDS	24031	24222	.	+	0	ID=cds-AZA07516.1;Parent=gene-3b;Dbxref=NCBI_GP:AZA07516.1;Name=AZA07516.1;gbkey=CDS;gene=3b;product=3b protein;protein_id=AZA07516.1
+MH924835.1	Genbank	gene	24203	24484	.	+	.	ID=gene-3c;Name=3c;gbkey=Gene;gene=3c;gene_biotype=protein_coding
+MH924835.1	Genbank	CDS	24203	24484	.	+	0	ID=cds-AZA07517.1;Parent=gene-3c;Dbxref=NCBI_GP:AZA07517.1;Name=AZA07517.1;gbkey=CDS;gene=3c;product=3c protein;protein_id=AZA07517.1
+MH924835.1	Genbank	gene	24481	25149	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MH924835.1	Genbank	CDS	24481	25149	.	+	0	ID=cds-AZA07518.1;Parent=gene-M;Dbxref=NCBI_GP:AZA07518.1;Name=AZA07518.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=AZA07518.1
+MH924835.1	Genbank	gene	25510	25707	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+MH924835.1	Genbank	CDS	25510	25707	.	+	0	ID=cds-AZA07519.1;Parent=gene-5a;Dbxref=NCBI_GP:AZA07519.1;Name=AZA07519.1;gbkey=CDS;gene=5a;product=5a protein;protein_id=AZA07519.1
+MH924835.1	Genbank	gene	25704	25952	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+MH924835.1	Genbank	CDS	25704	25952	.	+	0	ID=cds-AZA07520.1;Parent=gene-5b;Dbxref=NCBI_GP:AZA07520.1;Name=AZA07520.1;gbkey=CDS;gene=5b;product=5b protein;protein_id=AZA07520.1
+MH924835.1	Genbank	gene	25895	27124	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MH924835.1	Genbank	CDS	25895	27124	.	+	0	ID=cds-AZA07521.1;Parent=gene-N;Dbxref=NCBI_GP:AZA07521.1;Name=AZA07521.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=AZA07521.1
+

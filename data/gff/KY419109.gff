@@ -1,0 +1,15 @@
+##sequence-region KY419109.1 1 29906
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=42005
+KY419109.1	Genbank	region	1	29906	.	+	.	ID=KY419109.1:1..29906;Dbxref=taxon:42005;collection-date=01-Aug-2015;country=USA;gbkey=Src;isolation-source=nasal swab;mol_type=genomic RNA;nat-host=Sus scrofa scrofa;strain=PHEV CoV USA-15TOSU1655
+KY419109.1	Genbank	CDS	212	13342	.	+	0	ID=cds-ARC95241.1;Dbxref=NCBI_GP:ARC95241.1;Name=ARC95241.1;Note=ORF1ab%3B translated via -1 ribosomal frameshift;exception=ribosomal slippage;gbkey=CDS;product=replicase polyprotein;protein_id=ARC95241.1
+KY419109.1	Genbank	CDS	13342	21498	.	+	0	ID=cds-ARC95241.1;Dbxref=NCBI_GP:ARC95241.1;Name=ARC95241.1;Note=ORF1ab%3B translated via -1 ribosomal frameshift;exception=ribosomal slippage;gbkey=CDS;product=replicase polyprotein;protein_id=ARC95241.1
+KY419109.1	Genbank	sequence_feature	21508	21546	.	+	.	ID=id-KY419109.1:21508..21546;Note=nonfunctional nonstructural protein due to mutation;gbkey=misc_feature
+KY419109.1	Genbank	CDS	21580	22854	.	+	0	ID=cds-ARC95242.1;Dbxref=NCBI_GP:ARC95242.1;Name=ARC95242.1;gbkey=CDS;product=hemagglutinin-esterase protein;protein_id=ARC95242.1
+KY419109.1	Genbank	CDS	22869	26915	.	+	0	ID=cds-ARC95243.1;Dbxref=NCBI_GP:ARC95243.1;Name=ARC95243.1;gbkey=CDS;product=spike glycoprotein;protein_id=ARC95243.1
+KY419109.1	Genbank	sequence_feature	26905	26967	.	+	.	ID=id-KY419109.1:26905..26967;Note=nonfunctional nonstructural protein due to mutation;gbkey=misc_feature
+KY419109.1	Genbank	CDS	26983	27312	.	+	0	ID=cds-ARC95244.1;Dbxref=NCBI_GP:ARC95244.1;Name=ARC95244.1;gbkey=CDS;product=nonstructural protein;protein_id=ARC95244.1
+KY419109.1	Genbank	CDS	27299	27553	.	+	0	ID=cds-ARC95245.1;Dbxref=NCBI_GP:ARC95245.1;Name=ARC95245.1;gbkey=CDS;product=envelope protein;protein_id=ARC95245.1
+KY419109.1	Genbank	CDS	27568	28260	.	+	0	ID=cds-ARC95246.1;Dbxref=NCBI_GP:ARC95246.1;Name=ARC95246.1;gbkey=CDS;product=membrane protein;protein_id=ARC95246.1
+KY419109.1	Genbank	CDS	28270	29619	.	+	0	ID=cds-ARC95247.1;Dbxref=NCBI_GP:ARC95247.1;Name=ARC95247.1;gbkey=CDS;product=nucleocapsid protein;protein_id=ARC95247.1
+KY419109.1	Genbank	CDS	28331	28954	.	+	0	ID=cds-ARC95248.1;Dbxref=NCBI_GP:ARC95248.1;Name=ARC95248.1;Note=N gene internal orf;gbkey=CDS;product=N2 protein;protein_id=ARC95248.1
+

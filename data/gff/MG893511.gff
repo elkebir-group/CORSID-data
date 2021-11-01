@@ -1,0 +1,11 @@
+##sequence-region MG893511.1 1 29298
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12663
+MG893511.1	Genbank	region	1	29298	.	+	.	ID=MG893511.1:1..29298;Dbxref=taxon:12663;collection-date=Jul-2012;country=Germany;gbkey=Src;genome=genomic;isolate=Felix;mol_type=genomic RNA;nat-host=Felis catus;serotype=I
+MG893511.1	Genbank	CDS	312	12413	.	+	0	ID=cds-AXE71622.1;Dbxref=NCBI_GP:AXE71622.1;Name=AXE71622.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein 1ab;protein_id=AXE71622.1
+MG893511.1	Genbank	CDS	12413	20416	.	+	0	ID=cds-AXE71622.1;Dbxref=NCBI_GP:AXE71622.1;Name=AXE71622.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein 1ab;protein_id=AXE71622.1
+MG893511.1	Genbank	CDS	312	12416	.	+	0	ID=cds-AXE71623.1;Dbxref=NCBI_GP:AXE71623.1;Name=AXE71623.1;gbkey=CDS;product=polyprotein 1a;protein_id=AXE71623.1
+MG893511.1	Genbank	CDS	20413	24810	.	+	0	ID=cds-AXE71621.1;Dbxref=NCBI_GP:AXE71621.1;Name=AXE71621.1;gbkey=CDS;product=spike glycoprotein;protein_id=AXE71621.1
+MG893511.1	Genbank	CDS	25897	26145	.	+	0	ID=cds-AXE71624.1;Dbxref=NCBI_GP:AXE71624.1;Name=AXE71624.1;gbkey=CDS;product=small envelope protein;protein_id=AXE71624.1
+MG893511.1	Genbank	CDS	26156	26947	.	+	0	ID=cds-AXE71625.1;Dbxref=NCBI_GP:AXE71625.1;Name=AXE71625.1;gbkey=CDS;product=membrane glycoprotein;protein_id=AXE71625.1
+MG893511.1	Genbank	CDS	26960	28087	.	+	0	ID=cds-AXE71626.1;Dbxref=NCBI_GP:AXE71626.1;Name=AXE71626.1;gbkey=CDS;product=nucleocapsid protein;protein_id=AXE71626.1
+

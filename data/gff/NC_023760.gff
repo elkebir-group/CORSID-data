@@ -1,0 +1,25 @@
+##sequence-region NC_023760.1 1 28941
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=766791
+NC_023760.1	RefSeq	region	1	28941	.	+	.	ID=NC_023760.1:1..28941;Dbxref=taxon:766791;collection-date=01-Jan-1998;country=USA: Wisconsin;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Mustela vison;strain=WD1127
+NC_023760.1	RefSeq	gene	273	20320	.	+	.	ID=gene-CN73_gp01;Dbxref=GeneID:18585637;Name=CN73_gp01;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CN73_gp01
+NC_023760.1	RefSeq	CDS	273	12287	.	+	0	ID=cds-YP_009019180.1;Parent=gene-CN73_gp01;Dbxref=Genbank:YP_009019180.1,GeneID:18585637;Name=YP_009019180.1;exception=ribosomal slippage;gbkey=CDS;locus_tag=CN73_gp01;product=orf1ab polyprotein;protein_id=YP_009019180.1
+NC_023760.1	RefSeq	CDS	12287	20320	.	+	0	ID=cds-YP_009019180.1;Parent=gene-CN73_gp01;Dbxref=Genbank:YP_009019180.1,GeneID:18585637;Name=YP_009019180.1;exception=ribosomal slippage;gbkey=CDS;locus_tag=CN73_gp01;product=orf1ab polyprotein;protein_id=YP_009019180.1
+NC_023760.1	RefSeq	gene	273	12329	.	+	.	ID=gene-CN73_gp02;Dbxref=GeneID:18585629;Name=CN73_gp02;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CN73_gp02
+NC_023760.1	RefSeq	CDS	273	12329	.	+	0	ID=cds-YP_009019181.1;Parent=gene-CN73_gp02;Dbxref=Genbank:YP_009019181.1,GeneID:18585629;Name=YP_009019181.1;gbkey=CDS;locus_tag=CN73_gp02;product=orf1a polyprotein;protein_id=YP_009019181.1
+NC_023760.1	RefSeq	gene	20322	24638	.	+	.	ID=gene-CN73_gp03;Dbxref=GeneID:18585628;Name=CN73_gp03;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CN73_gp03
+NC_023760.1	RefSeq	CDS	20322	24638	.	+	0	ID=cds-YP_009019182.1;Parent=gene-CN73_gp03;Dbxref=Genbank:YP_009019182.1,GeneID:18585628;Name=YP_009019182.1;gbkey=CDS;locus_tag=CN73_gp03;product=spike protein;protein_id=YP_009019182.1
+NC_023760.1	RefSeq	gene	24656	25399	.	+	.	ID=gene-CN73_gp04;Dbxref=GeneID:18585630;Name=CN73_gp04;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CN73_gp04
+NC_023760.1	RefSeq	CDS	24656	25399	.	+	0	ID=cds-YP_009019183.1;Parent=gene-CN73_gp04;Dbxref=Genbank:YP_009019183.1,GeneID:18585630;Name=YP_009019183.1;gbkey=CDS;locus_tag=CN73_gp04;product=non-structural protein 3c;protein_id=YP_009019183.1
+NC_023760.1	RefSeq	gene	25368	25616	.	+	.	ID=gene-CN73_gp05;Dbxref=GeneID:18585631;Name=CN73_gp05;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CN73_gp05
+NC_023760.1	RefSeq	CDS	25368	25616	.	+	0	ID=cds-YP_009019184.1;Parent=gene-CN73_gp05;Dbxref=Genbank:YP_009019184.1,GeneID:18585631;Name=YP_009019184.1;gbkey=CDS;locus_tag=CN73_gp05;product=envelope protein;protein_id=YP_009019184.1
+NC_023760.1	RefSeq	gene	25633	26439	.	+	.	ID=gene-CN73_gp06;Dbxref=GeneID:18585632;Name=CN73_gp06;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CN73_gp06
+NC_023760.1	RefSeq	CDS	25633	26439	.	+	0	ID=cds-YP_009019185.1;Parent=gene-CN73_gp06;Dbxref=Genbank:YP_009019185.1,GeneID:18585632;Name=YP_009019185.1;gbkey=CDS;locus_tag=CN73_gp06;product=membrane protein;protein_id=YP_009019185.1
+NC_023760.1	RefSeq	gene	26454	27584	.	+	.	ID=gene-CN73_gp07;Dbxref=GeneID:18585633;Name=CN73_gp07;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CN73_gp07
+NC_023760.1	RefSeq	CDS	26454	27584	.	+	0	ID=cds-YP_009019186.1;Parent=gene-CN73_gp07;Dbxref=Genbank:YP_009019186.1,GeneID:18585633;Name=YP_009019186.1;gbkey=CDS;locus_tag=CN73_gp07;product=nucleocapsid protein;protein_id=YP_009019186.1
+NC_023760.1	RefSeq	gene	27589	27885	.	+	.	ID=gene-CN73_gp08;Dbxref=GeneID:18585634;Name=CN73_gp08;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CN73_gp08
+NC_023760.1	RefSeq	CDS	27589	27885	.	+	0	ID=cds-YP_009019187.1;Parent=gene-CN73_gp08;Dbxref=Genbank:YP_009019187.1,GeneID:18585634;Name=YP_009019187.1;gbkey=CDS;locus_tag=CN73_gp08;product=non-structural protein 7a;protein_id=YP_009019187.1
+NC_023760.1	RefSeq	gene	27870	28091	.	+	.	ID=gene-CN73_gp09;Dbxref=GeneID:18585635;Name=CN73_gp09;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CN73_gp09
+NC_023760.1	RefSeq	CDS	27870	28091	.	+	0	ID=cds-YP_009019188.1;Parent=gene-CN73_gp09;Dbxref=Genbank:YP_009019188.1,GeneID:18585635;Name=YP_009019188.1;gbkey=CDS;locus_tag=CN73_gp09;product=hypothetical protein;protein_id=YP_009019188.1
+NC_023760.1	RefSeq	gene	28033	28647	.	+	.	ID=gene-CN73_gp10;Dbxref=GeneID:18585636;Name=CN73_gp10;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CN73_gp10
+NC_023760.1	RefSeq	CDS	28033	28647	.	+	0	ID=cds-YP_009019189.1;Parent=gene-CN73_gp10;Dbxref=Genbank:YP_009019189.1,GeneID:18585636;Name=YP_009019189.1;gbkey=CDS;locus_tag=CN73_gp10;product=hypothetical protein orf7b;protein_id=YP_009019189.1
+

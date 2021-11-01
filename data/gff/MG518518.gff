@@ -1,0 +1,17 @@
+##sequence-region MG518518.1 1 31034
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2126133
+MG518518.1	Genbank	region	1	31034	.	+	.	ID=MG518518.1:1..31034;Dbxref=taxon:2126133;collection-date=24-Feb-2017;country=South Korea: Chungnam;gbkey=Src;isolate=W17-18;mol_type=genomic RNA;nat-host=Hydropotes inermis (water deer)
+MG518518.1	Genbank	CDS	211	13341	.	+	0	ID=cds-AVN88335.1;Dbxref=NCBI_GP:AVN88335.1;Name=AVN88335.1;exception=ribosomal slippage;gbkey=CDS;product=ORF1ab polyprotein;protein_id=AVN88335.1
+MG518518.1	Genbank	CDS	13341	21494	.	+	0	ID=cds-AVN88335.1;Dbxref=NCBI_GP:AVN88335.1;Name=AVN88335.1;exception=ribosomal slippage;gbkey=CDS;product=ORF1ab polyprotein;protein_id=AVN88335.1
+MG518518.1	Genbank	CDS	211	13362	.	+	0	ID=cds-AVN88336.1;Dbxref=NCBI_GP:AVN88336.1;Name=AVN88336.1;gbkey=CDS;product=ORF1a polyprotein;protein_id=AVN88336.1
+MG518518.1	Genbank	CDS	21504	22340	.	+	0	ID=cds-AVN88334.1;Dbxref=NCBI_GP:AVN88334.1;Name=AVN88334.1;gbkey=CDS;product=32 kDa non-structural protein;protein_id=AVN88334.1
+MG518518.1	Genbank	CDS	22352	23626	.	+	0	ID=cds-AVN88333.1;Dbxref=NCBI_GP:AVN88333.1;Name=AVN88333.1;gbkey=CDS;product=hemagglutinin-esterase;protein_id=AVN88333.1
+MG518518.1	Genbank	CDS	23641	27735	.	+	0	ID=cds-AVN88332.1;Dbxref=NCBI_GP:AVN88332.1;Name=AVN88332.1;gbkey=CDS;product=spike protein;protein_id=AVN88332.1
+MG518518.1	Genbank	CDS	27725	27856	.	+	0	ID=cds-AVN88331.1;Dbxref=NCBI_GP:AVN88331.1;Name=AVN88331.1;gbkey=CDS;product=4.9 kDa non-structural protein;protein_id=AVN88331.1
+MG518518.1	Genbank	CDS	27892	28092	.	+	0	ID=cds-AVN88337.1;Dbxref=NCBI_GP:AVN88337.1;Name=AVN88337.1;Note=extended due to frameshift;gbkey=CDS;product=4.8 kDa non-structural protein;protein_id=AVN88337.1
+MG518518.1	Genbank	CDS	28095	28424	.	+	0	ID=cds-AVN88329.1;Dbxref=NCBI_GP:AVN88329.1;Name=AVN88329.1;gbkey=CDS;product=12.7 kDa non-structural protein;protein_id=AVN88329.1
+MG518518.1	Genbank	CDS	28411	28665	.	+	0	ID=cds-AVN88328.1;Dbxref=NCBI_GP:AVN88328.1;Name=AVN88328.1;gbkey=CDS;product=envelope protein;protein_id=AVN88328.1
+MG518518.1	Genbank	CDS	28680	29372	.	+	0	ID=cds-AVN88327.1;Dbxref=NCBI_GP:AVN88327.1;Name=AVN88327.1;gbkey=CDS;product=membrane protein;protein_id=AVN88327.1
+MG518518.1	Genbank	CDS	29382	30728	.	+	0	ID=cds-AVN88326.1;Dbxref=NCBI_GP:AVN88326.1;Name=AVN88326.1;gbkey=CDS;product=nucleocapsid protein;protein_id=AVN88326.1
+MG518518.1	Genbank	CDS	29443	30066	.	+	0	ID=cds-AVN88330.1;Dbxref=NCBI_GP:AVN88330.1;Name=AVN88330.1;gbkey=CDS;product=N2 protein;protein_id=AVN88330.1
+

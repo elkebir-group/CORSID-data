@@ -1,0 +1,23 @@
+##sequence-region NC_016993.1 1 26689
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1159903
+NC_016993.1	RefSeq	region	1	26689	.	+	.	ID=NC_016993.1:1..26689;Dbxref=taxon:1159903;collection-date=2007;country=China: Hong Kong;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=magpie-robin;strain=HKU18-chu3
+NC_016993.1	RefSeq	gene	596	19356	.	+	.	ID=gene-MRCoV-HKU18_gp1;Dbxref=GeneID:11945642;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding;locus_tag=MRCoV-HKU18_gp1
+NC_016993.1	RefSeq	CDS	596	11434	.	+	0	ID=cds-YP_005352853.1;Parent=gene-MRCoV-HKU18_gp1;Dbxref=Genbank:YP_005352853.1,GeneID:11945642;Name=YP_005352853.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;locus_tag=MRCoV-HKU18_gp1;product=replicase polyprotein;protein_id=YP_005352853.1
+NC_016993.1	RefSeq	CDS	11434	19356	.	+	0	ID=cds-YP_005352853.1;Parent=gene-MRCoV-HKU18_gp1;Dbxref=Genbank:YP_005352853.1,GeneID:11945642;Name=YP_005352853.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;locus_tag=MRCoV-HKU18_gp1;product=replicase polyprotein;protein_id=YP_005352853.1
+NC_016993.1	RefSeq	gene	19338	22991	.	+	.	ID=gene-MRCoV-HKU18_gp2;Dbxref=GeneID:11945643;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding;locus_tag=MRCoV-HKU18_gp2
+NC_016993.1	RefSeq	CDS	19338	22991	.	+	0	ID=cds-YP_005352854.1;Parent=gene-MRCoV-HKU18_gp2;Dbxref=Genbank:YP_005352854.1,GeneID:11945643;Name=YP_005352854.1;gbkey=CDS;gene=S;locus_tag=MRCoV-HKU18_gp2;product=spike glycoprotein;protein_id=YP_005352854.1
+NC_016993.1	RefSeq	gene	22985	23233	.	+	.	ID=gene-MRCoV-HKU18_gp3;Dbxref=GeneID:11945644;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding;locus_tag=MRCoV-HKU18_gp3
+NC_016993.1	RefSeq	CDS	22985	23233	.	+	0	ID=cds-YP_005352855.1;Parent=gene-MRCoV-HKU18_gp3;Dbxref=Genbank:YP_005352855.1,GeneID:11945644;Name=YP_005352855.1;gbkey=CDS;gene=E;locus_tag=MRCoV-HKU18_gp3;product=envelope protein;protein_id=YP_005352855.1
+NC_016993.1	RefSeq	gene	23226	23882	.	+	.	ID=gene-MRCoV-HKU18_gp4;Dbxref=GeneID:11945645;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding;locus_tag=MRCoV-HKU18_gp4
+NC_016993.1	RefSeq	CDS	23226	23882	.	+	0	ID=cds-YP_005352856.1;Parent=gene-MRCoV-HKU18_gp4;Dbxref=Genbank:YP_005352856.1,GeneID:11945645;Name=YP_005352856.1;gbkey=CDS;gene=M;locus_tag=MRCoV-HKU18_gp4;product=membrane protein;protein_id=YP_005352856.1
+NC_016993.1	RefSeq	gene	23882	24172	.	+	.	ID=gene-MRCoV-HKU18_gp5;Dbxref=GeneID:11945646;Name=NS6;gbkey=Gene;gene=NS6;gene_biotype=protein_coding;locus_tag=MRCoV-HKU18_gp5
+NC_016993.1	RefSeq	CDS	23882	24172	.	+	0	ID=cds-YP_005352857.1;Parent=gene-MRCoV-HKU18_gp5;Dbxref=Genbank:YP_005352857.1,GeneID:11945646;Name=YP_005352857.1;gbkey=CDS;gene=NS6;locus_tag=MRCoV-HKU18_gp5;product=NS6 protein;protein_id=YP_005352857.1
+NC_016993.1	RefSeq	gene	24355	25395	.	+	.	ID=gene-MRCoV-HKU18_gp6;Dbxref=GeneID:11945647;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding;locus_tag=MRCoV-HKU18_gp6
+NC_016993.1	RefSeq	CDS	24355	25395	.	+	0	ID=cds-YP_005352858.1;Parent=gene-MRCoV-HKU18_gp6;Dbxref=Genbank:YP_005352858.1,GeneID:11945647;Name=YP_005352858.1;gbkey=CDS;gene=N;locus_tag=MRCoV-HKU18_gp6;product=nucleocapsid protein;protein_id=YP_005352858.1
+NC_016993.1	RefSeq	gene	25407	25580	.	+	.	ID=gene-MRCoV-HKU18_gp7;Dbxref=GeneID:11945648;Name=NS7a;gbkey=Gene;gene=NS7a;gene_biotype=protein_coding;locus_tag=MRCoV-HKU18_gp7
+NC_016993.1	RefSeq	CDS	25407	25580	.	+	0	ID=cds-YP_005352859.1;Parent=gene-MRCoV-HKU18_gp7;Dbxref=Genbank:YP_005352859.1,GeneID:11945648;Name=YP_005352859.1;gbkey=CDS;gene=NS7a;locus_tag=MRCoV-HKU18_gp7;product=NS7a protein;protein_id=YP_005352859.1
+NC_016993.1	RefSeq	gene	25561	25932	.	+	.	ID=gene-MRCoV-HKU18_gp8;Dbxref=GeneID:11945649;Name=NS7b;gbkey=Gene;gene=NS7b;gene_biotype=protein_coding;locus_tag=MRCoV-HKU18_gp8
+NC_016993.1	RefSeq	CDS	25561	25932	.	+	0	ID=cds-YP_005352860.1;Parent=gene-MRCoV-HKU18_gp8;Dbxref=Genbank:YP_005352860.1,GeneID:11945649;Name=YP_005352860.1;gbkey=CDS;gene=NS7b;locus_tag=MRCoV-HKU18_gp8;product=NS7b protein;protein_id=YP_005352860.1
+NC_016993.1	RefSeq	gene	25941	26195	.	+	.	ID=gene-MRCoV-HKU18_gp9;Dbxref=GeneID:11945650;Name=NS7c;gbkey=Gene;gene=NS7c;gene_biotype=protein_coding;locus_tag=MRCoV-HKU18_gp9
+NC_016993.1	RefSeq	CDS	25941	26195	.	+	0	ID=cds-YP_005352861.1;Parent=gene-MRCoV-HKU18_gp9;Dbxref=Genbank:YP_005352861.1,GeneID:11945650;Name=YP_005352861.1;gbkey=CDS;gene=NS7c;locus_tag=MRCoV-HKU18_gp9;product=NS7c protein;protein_id=YP_005352861.1
+

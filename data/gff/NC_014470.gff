@@ -1,0 +1,23 @@
+##sequence-region NC_014470.1 1 29276
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=864596
+NC_014470.1	RefSeq	region	1	29276	.	+	.	ID=NC_014470.1:1..29276;Dbxref=taxon:864596;collection-date=2008;country=Bulgaria;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Rhinolophus blasii;strain=BtCoV/BM48-31/BGR/2008
+NC_014470.1	RefSeq	gene	191	21384	.	+	.	ID=gene-BtCoVBM48_gp1;Dbxref=GeneID:9714832;Name=ORF1ab;gbkey=Gene;gene=ORF1ab;gene_biotype=protein_coding;locus_tag=BtCoVBM48_gp1
+NC_014470.1	RefSeq	CDS	191	13297	.	+	0	ID=cds-YP_003858583.1;Parent=gene-BtCoVBM48_gp1;Dbxref=Genbank:YP_003858583.1,GeneID:9714832;Name=YP_003858583.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;locus_tag=BtCoVBM48_gp1;product=ORF1ab polyprotein;protein_id=YP_003858583.1
+NC_014470.1	RefSeq	CDS	13297	21384	.	+	0	ID=cds-YP_003858583.1;Parent=gene-BtCoVBM48_gp1;Dbxref=Genbank:YP_003858583.1,GeneID:9714832;Name=YP_003858583.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;locus_tag=BtCoVBM48_gp1;product=ORF1ab polyprotein;protein_id=YP_003858583.1
+NC_014470.1	RefSeq	gene	21391	25170	.	+	.	ID=gene-BtCoVBM48_gp2;Dbxref=GeneID:9714824;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding;locus_tag=BtCoVBM48_gp2
+NC_014470.1	RefSeq	CDS	21391	25170	.	+	0	ID=cds-YP_003858584.1;Parent=gene-BtCoVBM48_gp2;Dbxref=Genbank:YP_003858584.1,GeneID:9714824;Name=YP_003858584.1;gbkey=CDS;gene=S;locus_tag=BtCoVBM48_gp2;product=spike protein;protein_id=YP_003858584.1
+NC_014470.1	RefSeq	gene	25179	25994	.	+	.	ID=gene-BtCoVBM48_gp3;Dbxref=GeneID:9714825;Name=ORF3;gbkey=Gene;gene=ORF3;gene_biotype=protein_coding;locus_tag=BtCoVBM48_gp3
+NC_014470.1	RefSeq	CDS	25179	25994	.	+	0	ID=cds-YP_003858585.1;Parent=gene-BtCoVBM48_gp3;Dbxref=Genbank:YP_003858585.1,GeneID:9714825;Name=YP_003858585.1;gbkey=CDS;gene=ORF3;locus_tag=BtCoVBM48_gp3;product=ORF3 protein;protein_id=YP_003858585.1
+NC_014470.1	RefSeq	gene	26018	26248	.	+	.	ID=gene-BtCoVBM48_gp4;Dbxref=GeneID:9714826;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding;locus_tag=BtCoVBM48_gp4
+NC_014470.1	RefSeq	CDS	26018	26248	.	+	0	ID=cds-YP_003858586.1;Parent=gene-BtCoVBM48_gp4;Dbxref=Genbank:YP_003858586.1,GeneID:9714826;Name=YP_003858586.1;gbkey=CDS;gene=E;locus_tag=BtCoVBM48_gp4;product=envelope protein;protein_id=YP_003858586.1
+NC_014470.1	RefSeq	gene	26299	26982	.	+	.	ID=gene-BtCoVBM48_gp5;Dbxref=GeneID:9714827;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding;locus_tag=BtCoVBM48_gp5
+NC_014470.1	RefSeq	CDS	26299	26982	.	+	0	ID=cds-YP_003858587.1;Parent=gene-BtCoVBM48_gp5;Dbxref=Genbank:YP_003858587.1,GeneID:9714827;Name=YP_003858587.1;gbkey=CDS;gene=M;locus_tag=BtCoVBM48_gp5;product=membrane protein;protein_id=YP_003858587.1
+NC_014470.1	RefSeq	gene	26993	27181	.	+	.	ID=gene-BtCoVBM48_gp6;Dbxref=GeneID:9714828;Name=ORF6;gbkey=Gene;gene=ORF6;gene_biotype=protein_coding;locus_tag=BtCoVBM48_gp6
+NC_014470.1	RefSeq	CDS	26993	27181	.	+	0	ID=cds-YP_003858588.1;Parent=gene-BtCoVBM48_gp6;Dbxref=Genbank:YP_003858588.1,GeneID:9714828;Name=YP_003858588.1;gbkey=CDS;gene=ORF6;locus_tag=BtCoVBM48_gp6;product=ORF6 protein;protein_id=YP_003858588.1
+NC_014470.1	RefSeq	gene	27188	27544	.	+	.	ID=gene-BtCoVBM48_gp7;Dbxref=GeneID:9714829;Name=ORF7a;gbkey=Gene;gene=ORF7a;gene_biotype=protein_coding;locus_tag=BtCoVBM48_gp7
+NC_014470.1	RefSeq	CDS	27188	27544	.	+	0	ID=cds-YP_003858589.1;Parent=gene-BtCoVBM48_gp7;Dbxref=Genbank:YP_003858589.1,GeneID:9714829;Name=YP_003858589.1;gbkey=CDS;gene=ORF7a;locus_tag=BtCoVBM48_gp7;product=ORF7a protein;protein_id=YP_003858589.1
+NC_014470.1	RefSeq	gene	27541	27663	.	+	.	ID=gene-BtCoVBM48_gp8;Dbxref=GeneID:9714830;Name=ORF7b;gbkey=Gene;gene=ORF7b;gene_biotype=protein_coding;locus_tag=BtCoVBM48_gp8
+NC_014470.1	RefSeq	CDS	27541	27663	.	+	0	ID=cds-YP_003858590.1;Parent=gene-BtCoVBM48_gp8;Dbxref=Genbank:YP_003858590.1,GeneID:9714830;Name=YP_003858590.1;gbkey=CDS;gene=ORF7b;locus_tag=BtCoVBM48_gp8;product=ORF7b protein;protein_id=YP_003858590.1
+NC_014470.1	RefSeq	gene	27665	28918	.	+	.	ID=gene-BtCoVBM48_gp9;Dbxref=GeneID:9714831;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding;locus_tag=BtCoVBM48_gp9
+NC_014470.1	RefSeq	CDS	27665	28918	.	+	0	ID=cds-YP_003858591.1;Parent=gene-BtCoVBM48_gp9;Dbxref=Genbank:YP_003858591.1,GeneID:9714831;Name=YP_003858591.1;gbkey=CDS;gene=N;locus_tag=BtCoVBM48_gp9;product=nucleocapsid;protein_id=YP_003858591.1
+

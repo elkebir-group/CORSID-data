@@ -1,0 +1,23 @@
+##sequence-region KX364296.1 1 27655
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+KX364296.1	Genbank	region	1	27655	.	+	.	ID=KX364296.1:1..27655;Dbxref=taxon:11120;collection-date=2008;country=China;gbkey=Src;genome=genomic;genotype=LX4;mol_type=genomic RNA;nat-host=Gallus gallus;strain=ck/CH/LJL/08-9
+KX364296.1	Genbank	gene	526	20387	.	+	.	ID=gene-1ab;Name=1ab;gbkey=Gene;gene=1ab;gene_biotype=protein_coding
+KX364296.1	Genbank	CDS	526	12330	.	+	0	ID=cds-ARB66161.1;Parent=gene-1ab;Dbxref=NCBI_GP:ARB66161.1;Name=ARB66161.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=ORF1ab;protein_id=ARB66161.1
+KX364296.1	Genbank	CDS	12330	20387	.	+	0	ID=cds-ARB66161.1;Parent=gene-1ab;Dbxref=NCBI_GP:ARB66161.1;Name=ARB66161.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=ORF1ab;protein_id=ARB66161.1
+KX364296.1	Genbank	gene	20338	23835	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KX364296.1	Genbank	CDS	20338	23835	.	+	0	ID=cds-ARB66162.1;Parent=gene-S;Dbxref=NCBI_GP:ARB66162.1;Name=ARB66162.1;gbkey=CDS;gene=S;product=spike protein;protein_id=ARB66162.1
+KX364296.1	Genbank	gene	23835	24008	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+KX364296.1	Genbank	CDS	23835	24008	.	+	0	ID=cds-ARB66163.1;Parent=gene-3a;Dbxref=NCBI_GP:ARB66163.1;Name=ARB66163.1;gbkey=CDS;gene=3a;product=ORF3a;protein_id=ARB66163.1
+KX364296.1	Genbank	gene	24008	24202	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+KX364296.1	Genbank	CDS	24008	24202	.	+	0	ID=cds-ARB66164.1;Parent=gene-3b;Dbxref=NCBI_GP:ARB66164.1;Name=ARB66164.1;gbkey=CDS;gene=3b;product=ORF3b;protein_id=ARB66164.1
+KX364296.1	Genbank	gene	24183	24512	.	+	.	ID=gene-3c;Name=3c;gbkey=Gene;gene=3c;gene_biotype=protein_coding
+KX364296.1	Genbank	CDS	24183	24512	.	+	0	ID=cds-ARB66165.1;Parent=gene-3c;Dbxref=NCBI_GP:ARB66165.1;Name=ARB66165.1;gbkey=CDS;gene=3c;product=ORF3c;protein_id=ARB66165.1
+KX364296.1	Genbank	gene	24484	25161	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KX364296.1	Genbank	CDS	24484	25161	.	+	0	ID=cds-ARB66166.1;Parent=gene-M;Dbxref=NCBI_GP:ARB66166.1;Name=ARB66166.1;gbkey=CDS;gene=M;product=M protein;protein_id=ARB66166.1
+KX364296.1	Genbank	gene	25525	25722	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+KX364296.1	Genbank	CDS	25525	25722	.	+	0	ID=cds-ARB66167.1;Parent=gene-5a;Dbxref=NCBI_GP:ARB66167.1;Name=ARB66167.1;gbkey=CDS;gene=5a;product=ORF5a;protein_id=ARB66167.1
+KX364296.1	Genbank	gene	25719	25967	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+KX364296.1	Genbank	CDS	25719	25967	.	+	0	ID=cds-ARB66168.1;Parent=gene-5b;Dbxref=NCBI_GP:ARB66168.1;Name=ARB66168.1;gbkey=CDS;gene=5b;product=ORF5b;protein_id=ARB66168.1
+KX364296.1	Genbank	gene	25910	27139	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KX364296.1	Genbank	CDS	25910	27139	.	+	0	ID=cds-ARB66169.1;Parent=gene-N;Dbxref=NCBI_GP:ARB66169.1;Name=ARB66169.1;gbkey=CDS;gene=N;product=N protein;protein_id=ARB66169.1
+

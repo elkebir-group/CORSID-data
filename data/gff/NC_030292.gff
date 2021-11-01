@@ -1,0 +1,22 @@
+##sequence-region NC_030292.1 1 28434
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1264898
+NC_030292.1	RefSeq	region	1	28434	.	+	.	ID=NC_030292.1:1..28434;Dbxref=taxon:1264898;collection-date=2010;country=Netherlands;gbkey=Src;genome=genomic;isolate=FRCoV-NL-2010;mol_type=genomic RNA;nat-host=Mustela putorius (ferret)
+NC_030292.1	RefSeq	gene	276	20143	.	+	.	ID=gene-A9274_gp1;Dbxref=GeneID:27963651;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding;locus_tag=A9274_gp1
+NC_030292.1	RefSeq	CDS	276	12122	.	+	0	ID=cds-YP_009256195.1;Parent=gene-A9274_gp1;Dbxref=Genbank:YP_009256195.1,GeneID:27963651;Name=YP_009256195.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;locus_tag=A9274_gp1;product=ORF1ab;protein_id=YP_009256195.1
+NC_030292.1	RefSeq	CDS	12122	20143	.	+	0	ID=cds-YP_009256195.1;Parent=gene-A9274_gp1;Dbxref=Genbank:YP_009256195.1,GeneID:27963651;Name=YP_009256195.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;locus_tag=A9274_gp1;product=ORF1ab;protein_id=YP_009256195.1
+NC_030292.1	RefSeq	CDS	276	12152	.	+	0	ID=cds-YP_009256196.1;Parent=gene-A9274_gp1;Dbxref=Genbank:YP_009256196.1,GeneID:27963651;Name=YP_009256196.1;gbkey=CDS;gene=orf1ab;locus_tag=A9274_gp1;product=ORF1a;protein_id=YP_009256196.1
+NC_030292.1	RefSeq	gene	20136	24452	.	+	.	ID=gene-A9274_gp2;Dbxref=GeneID:27963644;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding;locus_tag=A9274_gp2
+NC_030292.1	RefSeq	CDS	20136	24452	.	+	0	ID=cds-YP_009256197.1;Parent=gene-A9274_gp2;Dbxref=Genbank:YP_009256197.1,GeneID:27963644;Name=YP_009256197.1;gbkey=CDS;gene=S;locus_tag=A9274_gp2;product=spike protein;protein_id=YP_009256197.1
+NC_030292.1	RefSeq	gene	24473	25216	.	+	.	ID=gene-A9274_gp3;Dbxref=GeneID:27963645;Name=nsp;Note=orf3;gbkey=Gene;gene=nsp;gene_biotype=protein_coding;locus_tag=A9274_gp3
+NC_030292.1	RefSeq	CDS	24473	25216	.	+	0	ID=cds-YP_009256198.1;Parent=gene-A9274_gp3;Dbxref=Genbank:YP_009256198.1,GeneID:27963645;Name=YP_009256198.1;gbkey=CDS;gene=nsp;locus_tag=A9274_gp3;product=non-structural protein 3c;protein_id=YP_009256198.1
+NC_030292.1	RefSeq	gene	25185	25433	.	+	.	ID=gene-A9274_gp4;Dbxref=GeneID:27963646;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding;locus_tag=A9274_gp4
+NC_030292.1	RefSeq	CDS	25185	25433	.	+	0	ID=cds-YP_009256199.1;Parent=gene-A9274_gp4;Dbxref=Genbank:YP_009256199.1,GeneID:27963646;Name=YP_009256199.1;gbkey=CDS;gene=E;locus_tag=A9274_gp4;product=envelope protein;protein_id=YP_009256199.1
+NC_030292.1	RefSeq	gene	25448	26245	.	+	.	ID=gene-A9274_gp5;Dbxref=GeneID:27963647;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding;locus_tag=A9274_gp5
+NC_030292.1	RefSeq	CDS	25448	26245	.	+	0	ID=cds-YP_009256200.1;Parent=gene-A9274_gp5;Dbxref=Genbank:YP_009256200.1,GeneID:27963647;Name=YP_009256200.1;gbkey=CDS;gene=M;locus_tag=A9274_gp5;product=membrane protein;protein_id=YP_009256200.1
+NC_030292.1	RefSeq	gene	26262	27389	.	+	.	ID=gene-A9274_gp6;Dbxref=GeneID:27963648;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding;locus_tag=A9274_gp6
+NC_030292.1	RefSeq	CDS	26262	27389	.	+	0	ID=cds-YP_009256201.1;Parent=gene-A9274_gp6;Dbxref=Genbank:YP_009256201.1,GeneID:27963648;Name=YP_009256201.1;gbkey=CDS;gene=N;locus_tag=A9274_gp6;product=nucleocapsid protein;protein_id=YP_009256201.1
+NC_030292.1	RefSeq	gene	27398	27670	.	+	.	ID=gene-A9274_gp7;Dbxref=GeneID:27963649;Name=3x-like;gbkey=Gene;gene=3x-like;gene_biotype=protein_coding;locus_tag=A9274_gp7
+NC_030292.1	RefSeq	CDS	27398	27670	.	+	0	ID=cds-YP_009256202.1;Parent=gene-A9274_gp7;Dbxref=Genbank:YP_009256202.1,GeneID:27963649;Name=YP_009256202.1;gbkey=CDS;gene=3x-like;locus_tag=A9274_gp7;product=hypothetical protein;protein_id=YP_009256202.1
+NC_030292.1	RefSeq	gene	27561	28169	.	+	.	ID=gene-A9274_gp8;Dbxref=GeneID:27963650;Name=orf7b;gbkey=Gene;gene=orf7b;gene_biotype=protein_coding;locus_tag=A9274_gp8
+NC_030292.1	RefSeq	CDS	27561	28169	.	+	0	ID=cds-YP_009256203.1;Parent=gene-A9274_gp8;Dbxref=Genbank:YP_009256203.1,GeneID:27963650;Name=YP_009256203.1;gbkey=CDS;gene=orf7b;locus_tag=A9274_gp8;product=nsp 7b protein;protein_id=YP_009256203.1
+

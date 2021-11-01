@@ -1,0 +1,15 @@
+##sequence-region AY646283.1 1 27503
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=284515
+AY646283.1	Genbank	region	1	27503	.	+	.	ID=AY646283.1:1..27503;Dbxref=taxon:284515;gbkey=Src;genome=genomic;isolate=s14;mol_type=genomic RNA;strain=Partridge/GD/S14/2003
+AY646283.1	Genbank	CDS	331	12210	.	+	0	ID=cds-AAT70770.1;Dbxref=NCBI_GP:AAT70770.1;Name=AAT70770.1;exception=ribosomal slippage;gbkey=CDS;product=replicase polyprotein 1ab;protein_id=AAT70770.1
+AY646283.1	Genbank	CDS	12210	20249	.	+	0	ID=cds-AAT70770.1;Dbxref=NCBI_GP:AAT70770.1;Name=AAT70770.1;exception=ribosomal slippage;gbkey=CDS;product=replicase polyprotein 1ab;protein_id=AAT70770.1
+AY646283.1	Genbank	CDS	331	12240	.	+	0	ID=cds-AAT70771.1;Dbxref=NCBI_GP:AAT70771.1;Name=AAT70771.1;gbkey=CDS;product=replicase 1a;protein_id=AAT70771.1
+AY646283.1	Genbank	CDS	20200	23697	.	+	0	ID=cds-AAT70772.1;Dbxref=NCBI_GP:AAT70772.1;Name=AAT70772.1;gbkey=CDS;product=spike protein;protein_id=AAT70772.1
+AY646283.1	Genbank	CDS	23697	23870	.	+	0	ID=cds-AAT70773.1;Dbxref=NCBI_GP:AAT70773.1;Name=AAT70773.1;gbkey=CDS;product=3a protein;protein_id=AAT70773.1
+AY646283.1	Genbank	CDS	23870	24058	.	+	0	ID=cds-AAT70774.1;Dbxref=NCBI_GP:AAT70774.1;Name=AAT70774.1;gbkey=CDS;product=3b protein;protein_id=AAT70774.1
+AY646283.1	Genbank	CDS	24042	24368	.	+	0	ID=cds-AAT70775.1;Dbxref=NCBI_GP:AAT70775.1;Name=AAT70775.1;gbkey=CDS;product=envelope protein;protein_id=AAT70775.1
+AY646283.1	Genbank	CDS	24340	25017	.	+	0	ID=cds-AAT70776.1;Dbxref=NCBI_GP:AAT70776.1;Name=AAT70776.1;gbkey=CDS;product=membrane protein;protein_id=AAT70776.1
+AY646283.1	Genbank	CDS	25371	25568	.	+	0	ID=cds-AAT70777.1;Dbxref=NCBI_GP:AAT70777.1;Name=AAT70777.1;gbkey=CDS;product=5a protein;protein_id=AAT70777.1
+AY646283.1	Genbank	CDS	25565	25813	.	+	0	ID=cds-AAT70778.1;Dbxref=NCBI_GP:AAT70778.1;Name=AAT70778.1;gbkey=CDS;product=5a protein;protein_id=AAT70778.1
+AY646283.1	Genbank	CDS	25756	26985	.	+	0	ID=cds-AAT70779.1;Dbxref=NCBI_GP:AAT70779.1;Name=AAT70779.1;gbkey=CDS;product=nucleocapsid protein;protein_id=AAT70779.1
+

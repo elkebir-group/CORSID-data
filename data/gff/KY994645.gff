@@ -1,0 +1,55 @@
+##sequence-region KY994645.1 1 30684
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=42005
+KY994645.1	Genbank	region	1	30684	.	+	.	ID=KY994645.1:1..30684;Dbxref=taxon:42005;collection-date=21-Aug-2008;country=China;gbkey=Src;genome=genomic;isolation-source=brain;mol_type=genomic RNA;nat-host=piglet;strain=JL/2008
+KY994645.1	Genbank	five_prime_UTR	1	210	.	+	.	ID=id-KY994645.1:1..210;gbkey=5'UTR
+KY994645.1	Genbank	sequence_feature	1	64	.	+	.	ID=id-KY994645.1:1..64;Note=leader;gbkey=misc_feature
+KY994645.1	Genbank	sequence_feature	65	70	.	+	.	ID=id-KY994645.1:65..70;Note=transcriptional regulatory sequence (TRS) leader;gbkey=misc_feature
+KY994645.1	Genbank	gene	211	21494	.	+	.	ID=gene-1ab;Name=1ab;gbkey=Gene;gene=1ab;gene_biotype=protein_coding
+KY994645.1	Genbank	CDS	211	13338	.	+	0	ID=cds-AUF40271.1;Parent=gene-1ab;Dbxref=NCBI_GP:AUF40271.1;Name=AUF40271.1;Note=translated by -1 ribosomal frameshift;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=orf1ab polyprotein;protein_id=AUF40271.1
+KY994645.1	Genbank	CDS	13338	21494	.	+	0	ID=cds-AUF40271.1;Parent=gene-1ab;Dbxref=NCBI_GP:AUF40271.1;Name=AUF40271.1;Note=translated by -1 ribosomal frameshift;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=orf1ab polyprotein;protein_id=AUF40271.1
+KY994645.1	Genbank	mature_protein_region_of_CDS	13315	13338	.	+	.	ID=id-AUF40271.1:4369..5296;Parent=cds-AUF40271.1;gbkey=Prot;product=nsp12-pp1ab
+KY994645.1	Genbank	mature_protein_region_of_CDS	13338	16097	.	+	.	ID=id-AUF40271.1:4369..5296;Parent=cds-AUF40271.1;gbkey=Prot;product=nsp12-pp1ab
+KY994645.1	Genbank	mature_protein_region_of_CDS	16098	17906	.	+	.	ID=id-AUF40271.1:5297..5899;Note=MB%3B NTPase/HEL%3B non-structural protein%3B M-pro cleavage product;Parent=cds-AUF40271.1;gbkey=Prot;gene=1ab;product=nsp13-pp1ab
+KY994645.1	Genbank	mature_protein_region_of_CDS	17907	19469	.	+	.	ID=id-AUF40271.1:5900..6420;Note=ExoN%3B non-structural protein%3B M-pro cleavage product;Parent=cds-AUF40271.1;gbkey=Prot;gene=1ab;product=nsp14-pp1ab
+KY994645.1	Genbank	mature_protein_region_of_CDS	19470	20594	.	+	.	ID=id-AUF40271.1:6421..6795;Note=NendoU%3B non-structural protein%3B M-pro cleavage product;Parent=cds-AUF40271.1;gbkey=Prot;gene=1ab;product=nsp15-pp1ab
+KY994645.1	Genbank	mature_protein_region_of_CDS	20595	21491	.	+	.	ID=id-AUF40271.1:6796..7094;Note=2'-O-MT%3B non-structural protein%3B M-pro cleavage product;Parent=cds-AUF40271.1;gbkey=Prot;gene=1ab;product=nsp16-pp1ab
+KY994645.1	Genbank	sequence_feature	21481	21486	.	+	.	ID=id-1ab;Note=transcription regulatory sequence (TRS) for mRNA2;gbkey=misc_feature;gene=1ab
+KY994645.1	Genbank	gene	211	13359	.	+	.	ID=gene-1a;Name=1a;gbkey=Gene;gene=1a;gene_biotype=protein_coding
+KY994645.1	Genbank	CDS	211	13359	.	+	0	ID=cds-AUF40272.1;Parent=gene-1a;Dbxref=NCBI_GP:AUF40272.1;Name=AUF40272.1;Note=replicase 1a;gbkey=CDS;gene=1a;product=orf1a polyprotein;protein_id=AUF40272.1
+KY994645.1	Genbank	mature_protein_region_of_CDS	211	945	.	+	.	ID=id-AUF40272.1:1..245;Note=non-structural protein%3B PL-pro cleavage product;Parent=cds-AUF40272.1;gbkey=Prot;gene=1ab;product=nsp1-pp1a/pp1ab
+KY994645.1	Genbank	mature_protein_region_of_CDS	946	2760	.	+	.	ID=id-AUF40272.1:246..850;Note=non-structural protein%3B PL-pro cleavage product;Parent=cds-AUF40272.1;gbkey=Prot;gene=1ab;product=nsp2-pp1a/pp1ab
+KY994645.1	Genbank	mature_protein_region_of_CDS	2761	8457	.	+	.	ID=id-AUF40272.1:851..2749;Note=non-structural protein%3B PL-pro cleavage product;Parent=cds-AUF40272.1;gbkey=Prot;gene=1ab;product=nsp3-pp1a/pp1ab
+KY994645.1	Genbank	mature_protein_region_of_CDS	8458	9945	.	+	.	ID=id-AUF40272.1:2750..3245;Note=non-structural protein%3B N-terminus cleavage processed by PL-pro%3B C-terminus cleavage processed by M-pro;Parent=cds-AUF40272.1;gbkey=Prot;gene=1ab;product=nsp4-pp1a/pp1ab
+KY994645.1	Genbank	mature_protein_region_of_CDS	9946	10854	.	+	.	ID=id-AUF40272.1:3246..3548;Note=non-structural protein%3B M-pro cleavage product;Parent=cds-AUF40272.1;gbkey=Prot;gene=1ab;product=nsp5-pp1a/pp1ab
+KY994645.1	Genbank	mature_protein_region_of_CDS	10855	11715	.	+	.	ID=id-AUF40272.1:3549..3835;Note=non-structural protein%3B M-pro cleavage product;Parent=cds-AUF40272.1;gbkey=Prot;gene=1ab;product=nsp6-pp1a/pp1ab
+KY994645.1	Genbank	mature_protein_region_of_CDS	11716	11982	.	+	.	ID=id-AUF40272.1:3836..3924;Note=non-structural protein%3B M-pro cleavage product;Parent=cds-AUF40272.1;gbkey=Prot;gene=1ab;product=nsp7-pp1a/pp1ab
+KY994645.1	Genbank	mature_protein_region_of_CDS	11983	12573	.	+	.	ID=id-AUF40272.1:3925..4121;Note=non-structural protein%3B M-pro cleavage product;Parent=cds-AUF40272.1;gbkey=Prot;gene=1ab;product=nsp8-pp1a/pp1ab
+KY994645.1	Genbank	mature_protein_region_of_CDS	12574	12903	.	+	.	ID=id-AUF40272.1:4122..4231;Note=non-structural protein%3B M-pro cleavage product;Parent=cds-AUF40272.1;gbkey=Prot;gene=1ab;product=nsp9-pp1a/pp1ab
+KY994645.1	Genbank	mature_protein_region_of_CDS	12904	13314	.	+	.	ID=id-AUF40272.1:4232..4368;Note=non-structural protein%3B M-pro cleavage product;Parent=cds-AUF40272.1;gbkey=Prot;gene=1ab;product=nsp10-pp1a/pp1ab
+KY994645.1	Genbank	sequence_feature	13332	13338	.	+	.	ID=id-1a;Note=slippery sequence of ribosomal frameshift element;gbkey=misc_feature;gene=1a
+KY994645.1	Genbank	gene	21504	22205	.	+	.	ID=gene-NS2;Name=NS2;gbkey=Gene;gene=NS2;gene_biotype=protein_coding
+KY994645.1	Genbank	CDS	21504	22205	.	+	0	ID=cds-AUF40273.1;Parent=gene-NS2;Dbxref=NCBI_GP:AUF40273.1;Name=AUF40273.1;Note=putative cyclic phosphodiesterase%3B NS2A;gbkey=CDS;gene=NS2;product=non-structural protein 2a;protein_id=AUF40273.1
+KY994645.1	Genbank	sequence_feature	22330	22335	.	+	.	ID=id-KY994645.1:22330..22335;Note=transcription regulatory sequence (TRS) for mRNA3;gbkey=misc_feature
+KY994645.1	Genbank	gene	22354	23628	.	+	.	ID=gene-HE;Name=HE;gbkey=Gene;gene=HE;gene_biotype=protein_coding
+KY994645.1	Genbank	CDS	22354	23628	.	+	0	ID=cds-AUF40274.1;Parent=gene-HE;Dbxref=NCBI_GP:AUF40274.1;Name=AUF40274.1;Note=structural protein;gbkey=CDS;gene=HE;product=hemagglutinin-esterase protein;protein_id=AUF40274.1
+KY994645.1	Genbank	sequence_feature	23633	23638	.	+	.	ID=id-KY994645.1:23633..23638;Note=transcription regulatory sequence (TRS) for mRNA4;gbkey=misc_feature
+KY994645.1	Genbank	gene	23643	27692	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KY994645.1	Genbank	CDS	23643	27692	.	+	0	ID=cds-AUF40275.1;Parent=gene-S;Dbxref=NCBI_GP:AUF40275.1;Name=AUF40275.1;Note=structural surface glycoprotein involved in receptor recognition and entry into the host cell;gbkey=CDS;gene=S;product=spike glycoprotein;protein_id=AUF40275.1
+KY994645.1	Genbank	sequence_feature	27667	27672	.	+	.	ID=id-S;Note=transcription regulatory sequence (TRS) for mRNA4b;gbkey=misc_feature;gene=S
+KY994645.1	Genbank	gene	27682	27744	.	+	.	ID=gene-NS4.9;Name=NS4.9;gbkey=Gene;gene=NS4.9;gene_biotype=protein_coding
+KY994645.1	Genbank	CDS	27682	27744	.	+	0	ID=cds-AUF40277.1;Parent=gene-NS4.9;Dbxref=NCBI_GP:AUF40277.1;Name=AUF40277.1;gbkey=CDS;gene=NS4.9;product=4.9 kDa non-structural protein;protein_id=AUF40277.1
+KY994645.1	Genbank	sequence_feature	27747	27752	.	+	.	ID=id-KY994645.1:27747..27752;Note=transcription regulatory sequence (TRS) for mRNA5;gbkey=misc_feature
+KY994645.1	Genbank	gene	27760	28089	.	+	.	ID=gene-NS12.7;Name=NS12.7;gbkey=Gene;gene=NS12.7;gene_biotype=protein_coding
+KY994645.1	Genbank	CDS	27760	28089	.	+	0	ID=cds-AUF40278.1;Parent=gene-NS12.7;Dbxref=NCBI_GP:AUF40278.1;Name=AUF40278.1;gbkey=CDS;gene=NS12.7;product=12.7 kDa non-structural protein;protein_id=AUF40278.1
+KY994645.1	Genbank	gene	28076	28330	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+KY994645.1	Genbank	CDS	28076	28330	.	+	0	ID=cds-AUF40276.1;Parent=gene-E;Dbxref=NCBI_GP:AUF40276.1;Name=AUF40276.1;Note=9.5 kDa structural surface protein%2C small membrane protein;gbkey=CDS;gene=E;product=envelope protein;protein_id=AUF40276.1
+KY994645.1	Genbank	sequence_feature	28336	28341	.	+	.	ID=id-KY994645.1:28336..28341;Note=transcription regulatory sequence (TRS) for mRNA6;gbkey=misc_feature
+KY994645.1	Genbank	gene	28345	29037	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KY994645.1	Genbank	CDS	28345	29037	.	+	0	ID=cds-AUF40279.1;Parent=gene-M;Dbxref=NCBI_GP:AUF40279.1;Name=AUF40279.1;Note=structural surface protein;gbkey=CDS;gene=M;product=membrane protein;protein_id=AUF40279.1
+KY994645.1	Genbank	sequence_feature	29028	29033	.	+	.	ID=id-M;Note=transcription regulatory sequence (TRS) for mRNA7;gbkey=misc_feature;gene=M
+KY994645.1	Genbank	gene	29047	30396	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KY994645.1	Genbank	CDS	29047	30396	.	+	0	ID=cds-AUF40280.1;Parent=gene-N;Dbxref=NCBI_GP:AUF40280.1;Name=AUF40280.1;Note=structural protein;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=AUF40280.1
+KY994645.1	Genbank	gene	29108	29731	.	+	.	ID=gene-N2;Name=N2;gbkey=Gene;gene=N2;gene_biotype=protein_coding
+KY994645.1	Genbank	CDS	29108	29731	.	+	0	ID=cds-AUF40281.1;Parent=gene-N2;Dbxref=NCBI_GP:AUF40281.1;Name=AUF40281.1;Note=N gene internal orf;gbkey=CDS;gene=N2;product=N2 protein;protein_id=AUF40281.1
+KY994645.1	Genbank	three_prime_UTR	30397	30684	.	+	.	ID=id-KY994645.1:30397..30684;gbkey=3'UTR
+

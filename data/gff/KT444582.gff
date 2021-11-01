@@ -1,0 +1,20 @@
+##sequence-region KT444582.1 1 30290
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1739625
+KT444582.1	Genbank	region	1	30290	.	+	.	ID=KT444582.1:1..30290;Dbxref=taxon:1739625;collection-date=21-Jul-2013;country=China;gbkey=Src;genome=genomic;isolate=WIV16;isolation-source=feces;mol_type=genomic RNA;nat-host=Rhinolophus sinicus
+KT444582.1	Genbank	five_prime_UTR	1	264	.	+	.	ID=id-KT444582.1:1..264;gbkey=5'UTR
+KT444582.1	Genbank	CDS	265	13398	.	+	0	ID=cds-ALK02468.1;Dbxref=NCBI_GP:ALK02468.1;Name=ALK02468.1;Note=ORF1ab;exception=ribosomal slippage;gbkey=CDS;product=non-structural polyprotein 1ab;protein_id=ALK02468.1
+KT444582.1	Genbank	CDS	13398	21485	.	+	0	ID=cds-ALK02468.1;Dbxref=NCBI_GP:ALK02468.1;Name=ALK02468.1;Note=ORF1ab;exception=ribosomal slippage;gbkey=CDS;product=non-structural polyprotein 1ab;protein_id=ALK02468.1
+KT444582.1	Genbank	CDS	265	13413	.	+	0	ID=cds-ALK02469.1;Dbxref=NCBI_GP:ALK02469.1;Name=ALK02469.1;Note=ORF1a;gbkey=CDS;product=non-structural polyprotein 1a;protein_id=ALK02469.1
+KT444582.1	Genbank	CDS	21492	25259	.	+	0	ID=cds-ALK02457.1;Dbxref=NCBI_GP:ALK02457.1;Name=ALK02457.1;Note=S;gbkey=CDS;product=spike protein;protein_id=ALK02457.1
+KT444582.1	Genbank	CDS	25268	26092	.	+	0	ID=cds-ALK02458.1;Dbxref=NCBI_GP:ALK02458.1;Name=ALK02458.1;Note=ORF3a;gbkey=CDS;product=putative protein 3a;protein_id=ALK02458.1
+KT444582.1	Genbank	CDS	25689	26033	.	+	0	ID=cds-ALK02459.1;Dbxref=NCBI_GP:ALK02459.1;Name=ALK02459.1;Note=ORF3b;gbkey=CDS;product=putative protein 3b;protein_id=ALK02459.1
+KT444582.1	Genbank	CDS	26117	26347	.	+	0	ID=cds-ALK02460.1;Dbxref=NCBI_GP:ALK02460.1;Name=ALK02460.1;Note=E;gbkey=CDS;product=envelope protein;protein_id=ALK02460.1
+KT444582.1	Genbank	CDS	26398	27063	.	+	0	ID=cds-ALK02461.1;Dbxref=NCBI_GP:ALK02461.1;Name=ALK02461.1;Note=M;gbkey=CDS;product=membrane protein;protein_id=ALK02461.1
+KT444582.1	Genbank	CDS	27074	27265	.	+	0	ID=cds-ALK02462.1;Dbxref=NCBI_GP:ALK02462.1;Name=ALK02462.1;Note=ORF6;gbkey=CDS;product=hypothetical protein;protein_id=ALK02462.1
+KT444582.1	Genbank	CDS	27279	27572	.	+	0	ID=cds-ALK02463.1;Dbxref=NCBI_GP:ALK02463.1;Name=ALK02463.1;Note=ORFx;gbkey=CDS;product=hypothetical protein;protein_id=ALK02463.1
+KT444582.1	Genbank	CDS	27797	28165	.	+	0	ID=cds-ALK02464.1;Dbxref=NCBI_GP:ALK02464.1;Name=ALK02464.1;Note=ORF7a;gbkey=CDS;product=hypothetical protein;protein_id=ALK02464.1
+KT444582.1	Genbank	CDS	28162	28296	.	+	0	ID=cds-ALK02465.1;Dbxref=NCBI_GP:ALK02465.1;Name=ALK02465.1;Note=ORF7b;gbkey=CDS;product=hypothetical protein;protein_id=ALK02465.1
+KT444582.1	Genbank	CDS	28303	28668	.	+	0	ID=cds-ALK02466.1;Dbxref=NCBI_GP:ALK02466.1;Name=ALK02466.1;Note=ORF8;gbkey=CDS;product=hypothetical protein;protein_id=ALK02466.1
+KT444582.1	Genbank	CDS	28683	29951	.	+	0	ID=cds-ALK02467.1;Dbxref=NCBI_GP:ALK02467.1;Name=ALK02467.1;Note=N;gbkey=CDS;product=nucleocapsid protein;protein_id=ALK02467.1
+KT444582.1	Genbank	three_prime_UTR	29952	30290	.	+	.	ID=id-KT444582.1:29952..30290;gbkey=3'UTR
+

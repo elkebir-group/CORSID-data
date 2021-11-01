@@ -1,0 +1,25 @@
+##sequence-region MH817484.1 1 29137
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2421386
+MH817484.1	Genbank	region	1	29137	.	+	.	ID=MH817484.1:1..29137;Dbxref=taxon:2421386;collection-date=2015;country=Brazil;gbkey=Src;isolate=22;isolation-source=feline pool stool;mol_type=genomic RNA;nat-host=Felis catus;strain=FCoV-SB22
+MH817484.1	Genbank	CDS	254	12262	.	+	0	ID=cds-AYF53092.1;Dbxref=NCBI_GP:AYF53092.1;Name=AYF53092.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein 1ab;protein_id=AYF53092.1
+MH817484.1	Genbank	CDS	12262	20292	.	+	0	ID=cds-AYF53092.1;Dbxref=NCBI_GP:AYF53092.1;Name=AYF53092.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein 1ab;protein_id=AYF53092.1
+MH817484.1	Genbank	CDS	254	12292	.	+	0	ID=cds-AYF53091.1;Dbxref=NCBI_GP:AYF53091.1;Name=AYF53091.1;gbkey=CDS;product=polyprotein 1a;protein_id=AYF53091.1
+MH817484.1	Genbank	gene	20289	24692	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MH817484.1	Genbank	CDS	20289	24692	.	+	0	ID=cds-AYF53093.1;Parent=gene-S;Dbxref=NCBI_GP:AYF53093.1;Name=AYF53093.1;gbkey=CDS;gene=S;product=spike protein;protein_id=AYF53093.1
+MH817484.1	Genbank	gene	24704	24916	.	+	.	ID=gene-NS3a;Name=NS3a;gbkey=Gene;gene=NS3a;gene_biotype=protein_coding
+MH817484.1	Genbank	CDS	24704	24916	.	+	0	ID=cds-AYF53094.1;Parent=gene-NS3a;Dbxref=NCBI_GP:AYF53094.1;Name=AYF53094.1;gbkey=CDS;gene=NS3a;product=nonstructural protein 3a;protein_id=AYF53094.1
+MH817484.1	Genbank	gene	24864	25085	.	+	.	ID=gene-NS3b;Name=NS3b;gbkey=Gene;gene=NS3b;gene_biotype=protein_coding
+MH817484.1	Genbank	CDS	24864	25085	.	+	0	ID=cds-AYF53095.1;Parent=gene-NS3b;Dbxref=NCBI_GP:AYF53095.1;Name=AYF53095.1;gbkey=CDS;gene=NS3b;product=nonstructural protein 3b;protein_id=AYF53095.1
+MH817484.1	Genbank	gene	25082	25795	.	+	.	ID=gene-NS3c;Name=NS3c;gbkey=Gene;gene=NS3c;gene_biotype=protein_coding
+MH817484.1	Genbank	CDS	25082	25795	.	+	0	ID=cds-AYF53096.1;Parent=gene-NS3c;Dbxref=NCBI_GP:AYF53096.1;Name=AYF53096.1;gbkey=CDS;gene=NS3c;product=nonstructural protein 3c;protein_id=AYF53096.1
+MH817484.1	Genbank	gene	25782	26030	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MH817484.1	Genbank	CDS	25782	26030	.	+	0	ID=cds-AYF53097.1;Parent=gene-E;Dbxref=NCBI_GP:AYF53097.1;Name=AYF53097.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=AYF53097.1
+MH817484.1	Genbank	gene	26041	26829	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MH817484.1	Genbank	CDS	26041	26829	.	+	0	ID=cds-AYF53098.1;Parent=gene-M;Dbxref=NCBI_GP:AYF53098.1;Name=AYF53098.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=AYF53098.1
+MH817484.1	Genbank	gene	26842	27960	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MH817484.1	Genbank	CDS	26842	27960	.	+	0	ID=cds-AYF53099.1;Parent=gene-N;Dbxref=NCBI_GP:AYF53099.1;Name=AYF53099.1;gbkey=CDS;gene=N;product=nucleoprotein;protein_id=AYF53099.1
+MH817484.1	Genbank	gene	27965	28270	.	+	.	ID=gene-NS7a;Name=NS7a;gbkey=Gene;gene=NS7a;gene_biotype=protein_coding
+MH817484.1	Genbank	CDS	27965	28270	.	+	0	ID=cds-AYF53100.1;Parent=gene-NS7a;Dbxref=NCBI_GP:AYF53100.1;Name=AYF53100.1;gbkey=CDS;gene=NS7a;product=nonstructural protein 7a;protein_id=AYF53100.1
+MH817484.1	Genbank	gene	28275	28895	.	+	.	ID=gene-NS7b;Name=NS7b;gbkey=Gene;gene=NS7b;gene_biotype=protein_coding
+MH817484.1	Genbank	CDS	28275	28895	.	+	0	ID=cds-AYF53101.1;Parent=gene-NS7b;Dbxref=NCBI_GP:AYF53101.1;Name=AYF53101.1;gbkey=CDS;gene=NS7b;product=nonstructural protein 7b;protein_id=AYF53101.1
+

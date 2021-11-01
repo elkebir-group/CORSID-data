@@ -1,0 +1,20 @@
+##sequence-region KY073746.1 1 28442
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1920748
+KY073746.1	Genbank	region	1	28442	.	+	.	ID=KY073746.1:1..28442;Dbxref=taxon:1920748;collection-date=06-Aug-2008;country=Kenya;gbkey=Src;genome=genomic;isolation-source=fecal swab;mol_type=genomic RNA;nat-host=Triaenops afer;strain=BtKYNL63-15
+KY073746.1	Genbank	gene	245	20598	.	+	.	ID=gene-orf1ab;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding
+KY073746.1	Genbank	CDS	245	12559	.	+	0	ID=cds-APD51489.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:APD51489.1;Name=APD51489.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=ORF1ab protein;protein_id=APD51489.1
+KY073746.1	Genbank	CDS	12559	20598	.	+	0	ID=cds-APD51489.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:APD51489.1;Name=APD51489.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=ORF1ab protein;protein_id=APD51489.1
+KY073746.1	Genbank	CDS	245	12589	.	+	0	ID=cds-APD51490.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:APD51490.1;Name=APD51490.1;gbkey=CDS;gene=orf1ab;product=ORF1a protein;protein_id=APD51490.1
+KY073746.1	Genbank	gene	20595	24728	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KY073746.1	Genbank	CDS	20595	24728	.	+	0	ID=cds-APD51491.1;Parent=gene-S;Dbxref=NCBI_GP:APD51491.1;Name=APD51491.1;gbkey=CDS;gene=S;product=S protein;protein_id=APD51491.1
+KY073746.1	Genbank	gene	24728	25411	.	+	.	ID=gene-ORF3;Name=ORF3;gbkey=Gene;gene=ORF3;gene_biotype=protein_coding
+KY073746.1	Genbank	CDS	24728	25411	.	+	0	ID=cds-APD51492.1;Parent=gene-ORF3;Dbxref=NCBI_GP:APD51492.1;Name=APD51492.1;gbkey=CDS;gene=ORF3;product=ORF3 protein;protein_id=APD51492.1
+KY073746.1	Genbank	gene	25392	25625	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+KY073746.1	Genbank	CDS	25392	25625	.	+	0	ID=cds-APD51493.1;Parent=gene-E;Dbxref=NCBI_GP:APD51493.1;Name=APD51493.1;gbkey=CDS;gene=E;product=E protein;protein_id=APD51493.1
+KY073746.1	Genbank	gene	25618	26319	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KY073746.1	Genbank	CDS	25618	26319	.	+	0	ID=cds-APD51494.1;Parent=gene-M;Dbxref=NCBI_GP:APD51494.1;Name=APD51494.1;gbkey=CDS;gene=M;product=M protein;protein_id=APD51494.1
+KY073746.1	Genbank	gene	26331	27632	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KY073746.1	Genbank	CDS	26331	27632	.	+	0	ID=cds-APD51495.1;Parent=gene-N;Dbxref=NCBI_GP:APD51495.1;Name=APD51495.1;gbkey=CDS;gene=N;product=N protein;protein_id=APD51495.1
+KY073746.1	Genbank	gene	27896	28165	.	+	.	ID=gene-ORFx;Name=ORFx;gbkey=Gene;gene=ORFx;gene_biotype=protein_coding
+KY073746.1	Genbank	CDS	27896	28165	.	+	0	ID=cds-APD51496.1;Parent=gene-ORFx;Dbxref=NCBI_GP:APD51496.1;Name=APD51496.1;gbkey=CDS;gene=ORFx;product=ORFx protein;protein_id=APD51496.1
+

@@ -1,0 +1,23 @@
+##sequence-region KX258195.1 1 27615
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=694014
+KX258195.1	Genbank	region	1	27615	.	+	.	ID=KX258195.1:1..27615;Dbxref=taxon:694014;collection-date=2013;country=Brazil;gb-acronym=ACoV;gbkey=Src;genome=genomic;isolate=23/2013;isolation-source=kidney;lab-host=chicken embryonated eggs 3rd passage;mol_type=genomic RNA;nat-host=Gallus gallus
+KX258195.1	Genbank	gene	529	20357	.	+	.	ID=gene-ORF1ab;Name=ORF1ab;gbkey=Gene;gene=ORF1ab;gene_biotype=protein_coding
+KX258195.1	Genbank	CDS	529	12321	.	+	0	ID=cds-ANY58999.1;Parent=gene-ORF1ab;Dbxref=NCBI_GP:ANY58999.1;Name=ANY58999.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;product=replicase polyprotein 1ab;protein_id=ANY58999.1
+KX258195.1	Genbank	CDS	12324	20357	.	+	0	ID=cds-ANY58999.1;Parent=gene-ORF1ab;Dbxref=NCBI_GP:ANY58999.1;Name=ANY58999.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;product=replicase polyprotein 1ab;protein_id=ANY58999.1
+KX258195.1	Genbank	gene	20308	23817	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KX258195.1	Genbank	CDS	20308	23817	.	+	0	ID=cds-ANY59000.1;Parent=gene-S;Dbxref=NCBI_GP:ANY59000.1;Name=ANY59000.1;gbkey=CDS;gene=S;product=spike S glycoprotein;protein_id=ANY59000.1
+KX258195.1	Genbank	gene	23817	23990	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+KX258195.1	Genbank	CDS	23817	23990	.	+	0	ID=cds-ANY59003.1;Parent=gene-3a;Dbxref=NCBI_GP:ANY59003.1;Name=ANY59003.1;gbkey=CDS;gene=3a;product=3a;protein_id=ANY59003.1
+KX258195.1	Genbank	gene	23990	24181	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+KX258195.1	Genbank	CDS	23990	24181	.	+	0	ID=cds-ANY59004.1;Parent=gene-3b;Dbxref=NCBI_GP:ANY59004.1;Name=ANY59004.1;gbkey=CDS;gene=3b;product=3b;protein_id=ANY59004.1
+KX258195.1	Genbank	gene	24165	24488	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+KX258195.1	Genbank	CDS	24165	24488	.	+	0	ID=cds-ANY59001.1;Parent=gene-E;Dbxref=NCBI_GP:ANY59001.1;Name=ANY59001.1;gbkey=CDS;gene=E;product=envelope E protein;protein_id=ANY59001.1
+KX258195.1	Genbank	gene	24457	25137	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KX258195.1	Genbank	CDS	24457	25137	.	+	0	ID=cds-ANY58998.1;Parent=gene-M;Dbxref=NCBI_GP:ANY58998.1;Name=ANY58998.1;gbkey=CDS;gene=M;product=membrane M protein;protein_id=ANY58998.1
+KX258195.1	Genbank	gene	25497	25694	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+KX258195.1	Genbank	CDS	25497	25694	.	+	0	ID=cds-ANY59005.1;Parent=gene-5a;Dbxref=NCBI_GP:ANY59005.1;Name=ANY59005.1;gbkey=CDS;gene=5a;product=5a;protein_id=ANY59005.1
+KX258195.1	Genbank	gene	25691	25939	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+KX258195.1	Genbank	CDS	25691	25939	.	+	0	ID=cds-ANY59006.1;Parent=gene-5b;Dbxref=NCBI_GP:ANY59006.1;Name=ANY59006.1;gbkey=CDS;gene=5b;product=5b;protein_id=ANY59006.1
+KX258195.1	Genbank	gene	25882	27111	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KX258195.1	Genbank	CDS	25882	27111	.	+	0	ID=cds-ANY59002.1;Parent=gene-N;Dbxref=NCBI_GP:ANY59002.1;Name=ANY59002.1;gbkey=CDS;gene=N;product=nucleocapsid N protein;protein_id=ANY59002.1
+

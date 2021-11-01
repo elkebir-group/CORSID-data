@@ -1,0 +1,23 @@
+##sequence-region NC_011550.1 1 26552
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=572289
+NC_011550.1	RefSeq	region	1	26552	.	+	.	ID=NC_011550.1:1..26552;Dbxref=taxon:572289;collection-date=Apr-2007;country=Hong Kong;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=white-rumped munia
+NC_011550.1	RefSeq	gene	595	19517	.	+	.	ID=gene-MuCoV_gp1;Dbxref=GeneID:7040225;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding;locus_tag=MuCoV_gp1
+NC_011550.1	RefSeq	CDS	595	11592	.	+	0	ID=cds-YP_002308505.1;Parent=gene-MuCoV_gp1;Dbxref=Genbank:YP_002308505.1,GeneID:7040225;Name=YP_002308505.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;locus_tag=MuCoV_gp1;product=orf1ab polyprotein;protein_id=YP_002308505.1
+NC_011550.1	RefSeq	CDS	11592	19517	.	+	0	ID=cds-YP_002308505.1;Parent=gene-MuCoV_gp1;Dbxref=Genbank:YP_002308505.1,GeneID:7040225;Name=YP_002308505.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;locus_tag=MuCoV_gp1;product=orf1ab polyprotein;protein_id=YP_002308505.1
+NC_011550.1	RefSeq	gene	19499	22969	.	+	.	ID=gene-MuCoV_gp2;Dbxref=GeneID:7040226;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding;locus_tag=MuCoV_gp2
+NC_011550.1	RefSeq	CDS	19499	22969	.	+	0	ID=cds-YP_002308506.1;Parent=gene-MuCoV_gp2;Dbxref=Genbank:YP_002308506.1,GeneID:7040226;Name=YP_002308506.1;gbkey=CDS;gene=S;locus_tag=MuCoV_gp2;product=spike glycoprotein;protein_id=YP_002308506.1
+NC_011550.1	RefSeq	gene	22963	23211	.	+	.	ID=gene-MuCoV_gp3;Dbxref=GeneID:7040227;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding;locus_tag=MuCoV_gp3
+NC_011550.1	RefSeq	CDS	22963	23211	.	+	0	ID=cds-YP_002308507.1;Parent=gene-MuCoV_gp3;Dbxref=Genbank:YP_002308507.1,GeneID:7040227;Name=YP_002308507.1;gbkey=CDS;gene=E;locus_tag=MuCoV_gp3;product=small membrane protein;protein_id=YP_002308507.1
+NC_011550.1	RefSeq	gene	23204	23860	.	+	.	ID=gene-MuCoV_gp4;Dbxref=GeneID:7040228;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding;locus_tag=MuCoV_gp4
+NC_011550.1	RefSeq	CDS	23204	23860	.	+	0	ID=cds-YP_002308508.1;Parent=gene-MuCoV_gp4;Dbxref=Genbank:YP_002308508.1,GeneID:7040228;Name=YP_002308508.1;gbkey=CDS;gene=M;locus_tag=MuCoV_gp4;product=membrane protein;protein_id=YP_002308508.1
+NC_011550.1	RefSeq	gene	23860	24186	.	+	.	ID=gene-MuCoV_gp5;Dbxref=GeneID:7040229;Name=NS6;gbkey=Gene;gene=NS6;gene_biotype=protein_coding;locus_tag=MuCoV_gp5
+NC_011550.1	RefSeq	CDS	23860	24186	.	+	0	ID=cds-YP_002308509.1;Parent=gene-MuCoV_gp5;Dbxref=Genbank:YP_002308509.1,GeneID:7040229;Name=YP_002308509.1;gbkey=CDS;gene=NS6;locus_tag=MuCoV_gp5;product=nonstructural protein;protein_id=YP_002308509.1
+NC_011550.1	RefSeq	gene	24326	25384	.	+	.	ID=gene-MuCoV_gp6;Dbxref=GeneID:7040230;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding;locus_tag=MuCoV_gp6
+NC_011550.1	RefSeq	CDS	24326	25384	.	+	0	ID=cds-YP_002308510.1;Parent=gene-MuCoV_gp6;Dbxref=Genbank:YP_002308510.1,GeneID:7040230;Name=YP_002308510.1;gbkey=CDS;gene=N;locus_tag=MuCoV_gp6;product=nucleocapsid phosphoprotein;protein_id=YP_002308510.1
+NC_011550.1	RefSeq	gene	25417	25788	.	+	.	ID=gene-MuCoV_gp7;Dbxref=GeneID:7040231;Name=NS7a;gbkey=Gene;gene=NS7a;gene_biotype=protein_coding;locus_tag=MuCoV_gp7
+NC_011550.1	RefSeq	CDS	25417	25788	.	+	0	ID=cds-YP_002308511.1;Parent=gene-MuCoV_gp7;Dbxref=Genbank:YP_002308511.1,GeneID:7040231;Name=YP_002308511.1;gbkey=CDS;gene=NS7a;locus_tag=MuCoV_gp7;product=nonstructural protein;protein_id=YP_002308511.1
+NC_011550.1	RefSeq	gene	25794	26051	.	+	.	ID=gene-MuCoV_gp8;Dbxref=GeneID:7040232;Name=NS7b;gbkey=Gene;gene=NS7b;gene_biotype=protein_coding;locus_tag=MuCoV_gp8
+NC_011550.1	RefSeq	CDS	25794	26051	.	+	0	ID=cds-YP_002308512.1;Parent=gene-MuCoV_gp8;Dbxref=Genbank:YP_002308512.1,GeneID:7040232;Name=YP_002308512.1;gbkey=CDS;gene=NS7b;locus_tag=MuCoV_gp8;product=nonstructural protein;protein_id=YP_002308512.1
+NC_011550.1	RefSeq	gene	26048	26329	.	+	.	ID=gene-MuCoV_gp9;Dbxref=GeneID:7040233;Name=NS7c;gbkey=Gene;gene=NS7c;gene_biotype=protein_coding;locus_tag=MuCoV_gp9
+NC_011550.1	RefSeq	CDS	26048	26329	.	+	0	ID=cds-YP_002308513.1;Parent=gene-MuCoV_gp9;Dbxref=Genbank:YP_002308513.1,GeneID:7040233;Name=YP_002308513.1;gbkey=CDS;gene=NS7c;locus_tag=MuCoV_gp9;product=nonstructural protein;protein_id=YP_002308513.1
+

@@ -1,0 +1,13 @@
+##sequence-region NC_001846.1 1 31357
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11138
+NC_001846.1	RefSeq	region	1	31357	.	+	.	ID=NC_001846.1:1..31357;Dbxref=taxon:11138;gbkey=Src;genome=genomic;mol_type=genomic RNA;note=C12 mutant;old-name=mouse hepatitis virus;strain=MHV-A59
+NC_001846.1	RefSeq	gene	210	21745	.	+	.	ID=gene-MHVgp1;Dbxref=GeneID:1489749;Name=1;Note=translational frameshift on a slippery sequence results in expression of orf1a and orf1b as a single polyprotein 1ab;gbkey=Gene;gene=1;gene_biotype=protein_coding;locus_tag=MHVgp1
+NC_001846.1	RefSeq	CDS	210	13622	.	+	0	ID=cds-NP_045298.1;Parent=gene-MHVgp1;Dbxref=Genbank:NP_045298.1,GeneID:1489749;Name=NP_045298.1;gbkey=CDS;gene=1;locus_tag=MHVgp1;product=RNA-directed RNA polymerase;protein_id=NP_045298.1
+NC_001846.1	RefSeq	CDS	13544	21745	.	+	0	ID=cds-NP_045299.1;Parent=gene-MHVgp1;Dbxref=Genbank:NP_045299.1,GeneID:1489749;Name=NP_045299.1;gbkey=CDS;gene=1;locus_tag=MHVgp1;product=RNA-directed RNA polymerase;protein_id=NP_045299.1
+NC_001846.1	RefSeq	gene	23929	27903	.	+	.	ID=gene-MHVgp4;Dbxref=GeneID:1489752;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding;locus_tag=MHVgp4
+NC_001846.1	RefSeq	CDS	23929	27903	.	+	0	ID=cds-NP_045300.1;Parent=gene-MHVgp4;Dbxref=Genbank:NP_045300.1,GeneID:1489752;Name=NP_045300.1;gbkey=CDS;gene=S;locus_tag=MHVgp4;product=E2 glycoprotein precursor;protein_id=NP_045300.1
+NC_001846.1	RefSeq	gene	28968	29654	.	+	.	ID=gene-MHVgp8;Dbxref=GeneID:1489756;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding;locus_tag=MHVgp8
+NC_001846.1	RefSeq	CDS	28968	29654	.	+	0	ID=cds-NP_045301.1;Parent=gene-MHVgp8;Dbxref=Genbank:NP_045301.1,GeneID:1489756;Name=NP_045301.1;gbkey=CDS;gene=M;locus_tag=MHVgp8;product=E1 glycoprotein;protein_id=NP_045301.1
+NC_001846.1	RefSeq	gene	29669	31033	.	+	.	ID=gene-MHVgp9;Dbxref=GeneID:1489757;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding;locus_tag=MHVgp9
+NC_001846.1	RefSeq	CDS	29669	31033	.	+	0	ID=cds-NP_045302.1;Parent=gene-MHVgp9;Dbxref=Genbank:NP_045302.1,GeneID:1489757;Name=NP_045302.1;gbkey=CDS;gene=N;locus_tag=MHVgp9;product=nucleocapsid protein;protein_id=NP_045302.1
+

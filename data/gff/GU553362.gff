@@ -1,0 +1,16 @@
+##sequence-region GU553362.1 1 29264
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=711466
+GU553362.1	Genbank	region	1	29264	.	+	.	ID=GU553362.1:1..29264;Dbxref=taxon:711466;collection-date=13-Sep-2007;country=Netherlands;gbkey=Src;genome=genomic;isolate=TCVSP-ROTTIER-00023;mol_type=genomic RNA;nat-host=feline;strain=UU23
+GU553362.1	Genbank	CDS	293	12337	.	+	0	ID=cds-ADC35471.1;Dbxref=NCBI_GP:ADC35471.1;Name=ADC35471.1;exception=ribosomal slippage;gbkey=CDS;product=orf1ab polyprotein;protein_id=ADC35471.1
+GU553362.1	Genbank	CDS	12337	20379	.	+	0	ID=cds-ADC35471.1;Dbxref=NCBI_GP:ADC35471.1;Name=ADC35471.1;exception=ribosomal slippage;gbkey=CDS;product=orf1ab polyprotein;protein_id=ADC35471.1
+GU553362.1	Genbank	CDS	293	12379	.	+	0	ID=cds-ADC35470.1;Dbxref=NCBI_GP:ADC35470.1;Name=ADC35470.1;gbkey=CDS;product=orf1a polyprotein;protein_id=ADC35470.1
+GU553362.1	Genbank	CDS	20376	24776	.	+	0	ID=cds-ADC35472.1;Dbxref=NCBI_GP:ADC35472.1;Name=ADC35472.1;gbkey=CDS;product=spike protein;protein_id=ADC35472.1
+GU553362.1	Genbank	CDS	24788	25000	.	+	0	ID=cds-ADC35473.1;Dbxref=NCBI_GP:ADC35473.1;Name=ADC35473.1;gbkey=CDS;product=non-structural protein 3a;protein_id=ADC35473.1
+GU553362.1	Genbank	CDS	24948	25169	.	+	0	ID=cds-ADC35474.1;Dbxref=NCBI_GP:ADC35474.1;Name=ADC35474.1;gbkey=CDS;product=non-structural protein 3b;protein_id=ADC35474.1
+GU553362.1	Genbank	CDS	25166	25879	.	+	0	ID=cds-ADC35475.1;Dbxref=NCBI_GP:ADC35475.1;Name=ADC35475.1;gbkey=CDS;product=non-structural protein 3c;protein_id=ADC35475.1
+GU553362.1	Genbank	CDS	25866	26114	.	+	0	ID=cds-ADC35476.1;Dbxref=NCBI_GP:ADC35476.1;Name=ADC35476.1;gbkey=CDS;product=envelope protein;protein_id=ADC35476.1
+GU553362.1	Genbank	CDS	26125	26919	.	+	0	ID=cds-ADC35477.1;Dbxref=NCBI_GP:ADC35477.1;Name=ADC35477.1;gbkey=CDS;product=membrane protein;protein_id=ADC35477.1
+GU553362.1	Genbank	CDS	26932	28065	.	+	0	ID=cds-ADC35478.1;Dbxref=NCBI_GP:ADC35478.1;Name=ADC35478.1;gbkey=CDS;product=nucleocapsid protein;protein_id=ADC35478.1
+GU553362.1	Genbank	CDS	28070	28375	.	+	0	ID=cds-ADC35479.1;Dbxref=NCBI_GP:ADC35479.1;Name=ADC35479.1;gbkey=CDS;product=non-structural protein;protein_id=ADC35479.1
+GU553362.1	Genbank	CDS	28380	29000	.	+	0	ID=cds-ADC35480.1;Dbxref=NCBI_GP:ADC35480.1;Name=ADC35480.1;gbkey=CDS;product=hypothetical protein orf7b;protein_id=ADC35480.1
+

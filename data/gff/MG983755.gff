@@ -1,0 +1,11 @@
+##sequence-region MG983755.1 1 28067
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=28295
+MG983755.1	Genbank	region	1	28067	.	+	.	ID=MG983755.1:1..28067;Dbxref=taxon:28295;gb-acronym=PEDV;gbkey=Src;genome=genomic;mol_type=genomic RNA;strain=GDgh
+MG983755.1	Genbank	CDS	293	12601	.	+	0	ID=cds-AYW03308.1;Dbxref=NCBI_GP:AYW03308.1;Name=AYW03308.1;exception=ribosomal slippage;gbkey=CDS;product=ORF1ab;protein_id=AYW03308.1
+MG983755.1	Genbank	CDS	12601	20637	.	+	0	ID=cds-AYW03308.1;Dbxref=NCBI_GP:AYW03308.1;Name=AYW03308.1;exception=ribosomal slippage;gbkey=CDS;product=ORF1ab;protein_id=AYW03308.1
+MG983755.1	Genbank	CDS	20634	24791	.	+	0	ID=cds-AYW03309.1;Dbxref=NCBI_GP:AYW03309.1;Name=AYW03309.1;gbkey=CDS;product=spike protein;protein_id=AYW03309.1
+MG983755.1	Genbank	CDS	24791	25462	.	+	0	ID=cds-AYW03310.1;Dbxref=NCBI_GP:AYW03310.1;Name=AYW03310.1;gbkey=CDS;product=ORF3 protein;protein_id=AYW03310.1
+MG983755.1	Genbank	CDS	25443	25673	.	+	0	ID=cds-AYW03311.1;Dbxref=NCBI_GP:AYW03311.1;Name=AYW03311.1;gbkey=CDS;product=E protein;protein_id=AYW03311.1
+MG983755.1	Genbank	CDS	25681	26361	.	+	0	ID=cds-AYW03312.1;Dbxref=NCBI_GP:AYW03312.1;Name=AYW03312.1;gbkey=CDS;product=M protein;protein_id=AYW03312.1
+MG983755.1	Genbank	CDS	26373	27698	.	+	0	ID=cds-AYW03313.1;Dbxref=NCBI_GP:AYW03313.1;Name=AYW03313.1;gbkey=CDS;product=N protein;protein_id=AYW03313.1
+

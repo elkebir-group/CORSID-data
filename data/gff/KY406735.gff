@@ -1,0 +1,22 @@
+##sequence-region KY406735.1 1 27779
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11146
+KY406735.1	Genbank	region	1	27779	.	+	.	ID=KY406735.1:1..27779;Dbxref=taxon:11146;collected-by=Douglas Marthaler;collection-date=01-Nov-2016;country=USA;gbkey=Src;genome=genomic;identified-by=Fangzhou Chen;isolation-source=nasal swab;mol_type=genomic RNA;strain=PRCV/USA/Minnesota-46140/2016
+KY406735.1	Genbank	gene	315	12356	.	+	.	ID=gene-ORF1a;Name=ORF1a;gbkey=Gene;gene=ORF1a;gene_biotype=protein_coding
+KY406735.1	Genbank	CDS	315	12356	.	+	0	ID=cds-ASV45146.1;Parent=gene-ORF1a;Dbxref=NCBI_GP:ASV45146.1;Name=ASV45146.1;gbkey=CDS;gene=ORF1a;product=replicase 1a;protein_id=ASV45146.1
+KY406735.1	Genbank	gene	12314	20356	.	+	.	ID=gene-ORF1b;Name=ORF1b;gbkey=Gene;gene=ORF1b;gene_biotype=protein_coding;partial=true;start_range=.,12314
+KY406735.1	Genbank	CDS	12314	20356	.	+	0	ID=cds-ASV45147.1;Parent=gene-ORF1b;Dbxref=NCBI_GP:ASV45147.1;Name=ASV45147.1;gbkey=CDS;gene=ORF1b;partial=true;product=replicase 1b;protein_id=ASV45147.1;start_range=.,12314
+KY406735.1	Genbank	gene	20353	24018	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KY406735.1	Genbank	CDS	20353	24018	.	+	0	ID=cds-ASV45148.1;Parent=gene-S;Dbxref=NCBI_GP:ASV45148.1;Name=ASV45148.1;gbkey=CDS;gene=S;product=spike protein;protein_id=ASV45148.1
+KY406735.1	Genbank	gene	24089	24280	.	+	.	ID=gene-ORF3a;Name=ORF3a;gbkey=Gene;gene=ORF3a;gene_biotype=protein_coding
+KY406735.1	Genbank	CDS	24089	24280	.	+	0	ID=cds-ASV45149.1;Parent=gene-ORF3a;Dbxref=NCBI_GP:ASV45149.1;Name=ASV45149.1;gbkey=CDS;gene=ORF3a;product=non-structural protein 3a;protein_id=ASV45149.1
+KY406735.1	Genbank	gene	24336	25070	.	+	.	ID=gene-ORF3b;Name=ORF3b;gbkey=Gene;gene=ORF3b;gene_biotype=protein_coding
+KY406735.1	Genbank	CDS	24336	25070	.	+	0	ID=cds-ASV45150.1;Parent=gene-ORF3b;Dbxref=NCBI_GP:ASV45150.1;Name=ASV45150.1;gbkey=CDS;gene=ORF3b;product=non-structural protein 3b;protein_id=ASV45150.1
+KY406735.1	Genbank	gene	25057	25305	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+KY406735.1	Genbank	CDS	25057	25305	.	+	0	ID=cds-ASV45151.1;Parent=gene-E;Dbxref=NCBI_GP:ASV45151.1;Name=ASV45151.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=ASV45151.1
+KY406735.1	Genbank	gene	25316	26101	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KY406735.1	Genbank	CDS	25316	26101	.	+	0	ID=cds-ASV45152.1;Parent=gene-M;Dbxref=NCBI_GP:ASV45152.1;Name=ASV45152.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=ASV45152.1
+KY406735.1	Genbank	gene	26114	27262	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KY406735.1	Genbank	CDS	26114	27262	.	+	0	ID=cds-ASV45153.1;Parent=gene-N;Dbxref=NCBI_GP:ASV45153.1;Name=ASV45153.1;gbkey=CDS;gene=N;product=nucleoprotein;protein_id=ASV45153.1
+KY406735.1	Genbank	gene	27268	27504	.	+	.	ID=gene-ORF7;Name=ORF7;gbkey=Gene;gene=ORF7;gene_biotype=protein_coding
+KY406735.1	Genbank	CDS	27268	27504	.	+	0	ID=cds-ASV45154.1;Parent=gene-ORF7;Dbxref=NCBI_GP:ASV45154.1;Name=ASV45154.1;gbkey=CDS;gene=ORF7;product=non-structural protein 7;protein_id=ASV45154.1
+

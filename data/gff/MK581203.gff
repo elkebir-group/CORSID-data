@@ -1,0 +1,20 @@
+##sequence-region MK581203.1 1 27644
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+MK581203.1	Genbank	region	1	27644	.	+	.	ID=MK581203.1:1..27644;Dbxref=taxon:11120;collection-date=Jul-1997;country=Poland;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Gallus gallus;strain=gammaCoV/Ck/Poland/162/1997
+MK581203.1	Genbank	five_prime_UTR	1	514	.	+	.	ID=id-MK581203.1:1..514;gbkey=5'UTR
+MK581203.1	Genbank	CDS	515	12352	.	+	0	ID=cds-QDQ69145.1;Dbxref=NCBI_GP:QDQ69145.1;Name=QDQ69145.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein 1ab;protein_id=QDQ69145.1
+MK581203.1	Genbank	CDS	12352	20397	.	+	0	ID=cds-QDQ69145.1;Dbxref=NCBI_GP:QDQ69145.1;Name=QDQ69145.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein 1ab;protein_id=QDQ69145.1
+MK581203.1	Genbank	CDS	515	12364	.	+	0	ID=cds-QDQ69133.1;Dbxref=NCBI_GP:QDQ69133.1;Name=QDQ69133.1;Note=ORF1a;gbkey=CDS;product=polyprotein 1a;protein_id=QDQ69133.1
+MK581203.1	Genbank	CDS	20348	23857	.	+	0	ID=cds-QDQ69134.1;Dbxref=NCBI_GP:QDQ69134.1;Name=QDQ69134.1;Note=S;gbkey=CDS;product=spike protein;protein_id=QDQ69134.1
+MK581203.1	Genbank	CDS	23857	24030	.	+	0	ID=cds-QDQ69135.1;Dbxref=NCBI_GP:QDQ69135.1;Name=QDQ69135.1;Note=ORF3a;gbkey=CDS;product=3A protein;protein_id=QDQ69135.1
+MK581203.1	Genbank	CDS	24030	24224	.	+	0	ID=cds-QDQ69136.1;Dbxref=NCBI_GP:QDQ69136.1;Name=QDQ69136.1;Note=ORF3b;gbkey=CDS;product=3b protein;protein_id=QDQ69136.1
+MK581203.1	Genbank	CDS	24205	24489	.	+	0	ID=cds-QDQ69137.1;Dbxref=NCBI_GP:QDQ69137.1;Name=QDQ69137.1;Note=E;gbkey=CDS;product=envelope protein;protein_id=QDQ69137.1
+MK581203.1	Genbank	CDS	24482	25162	.	+	0	ID=cds-QDQ69138.1;Dbxref=NCBI_GP:QDQ69138.1;Name=QDQ69138.1;Note=M;gbkey=CDS;product=membrane protein;protein_id=QDQ69138.1
+MK581203.1	Genbank	CDS	25163	25447	.	+	0	ID=cds-QDQ69139.1;Dbxref=NCBI_GP:QDQ69139.1;Name=QDQ69139.1;Note=ORF4b;gbkey=CDS;product=4b protein;protein_id=QDQ69139.1
+MK581203.1	Genbank	CDS	25368	25538	.	+	0	ID=cds-QDQ69140.1;Dbxref=NCBI_GP:QDQ69140.1;Name=QDQ69140.1;Note=ORF4c;gbkey=CDS;product=4c protein;protein_id=QDQ69140.1
+MK581203.1	Genbank	CDS	25522	25719	.	+	0	ID=cds-QDQ69141.1;Dbxref=NCBI_GP:QDQ69141.1;Name=QDQ69141.1;Note=ORF5a;gbkey=CDS;product=5a protein;protein_id=QDQ69141.1
+MK581203.1	Genbank	CDS	25716	25964	.	+	0	ID=cds-QDQ69142.1;Dbxref=NCBI_GP:QDQ69142.1;Name=QDQ69142.1;Note=ORF5b;gbkey=CDS;product=5b protein;protein_id=QDQ69142.1
+MK581203.1	Genbank	CDS	25907	27136	.	+	0	ID=cds-QDQ69143.1;Dbxref=NCBI_GP:QDQ69143.1;Name=QDQ69143.1;Note=N;gbkey=CDS;product=nucleocapsid protein;protein_id=QDQ69143.1
+MK581203.1	Genbank	CDS	27145	27366	.	+	0	ID=cds-QDQ69144.1;Dbxref=NCBI_GP:QDQ69144.1;Name=QDQ69144.1;Note=ORF6b;gbkey=CDS;product=6b protein;protein_id=QDQ69144.1
+MK581203.1	Genbank	three_prime_UTR	27367	27644	.	+	.	ID=id-MK581203.1:27367..27644;gbkey=3'UTR
+

@@ -1,0 +1,18 @@
+##sequence-region GU393332.1 1 27591
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+GU393332.1	Genbank	region	1	27591	.	+	.	ID=GU393332.1:1..27591;Dbxref=taxon:11120;collection-date=1992;country=USA;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Gallus gallus;old-name=Avian Infectious Bronchitis Virus;serotype=Delaware 072
+GU393332.1	Genbank	CDS	529	12280	.	+	0	ID=cds-ADV71748.1;Dbxref=NCBI_GP:ADV71748.1;Name=ADV71748.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein 1ab;protein_id=ADV71748.1
+GU393332.1	Genbank	CDS	12280	20336	.	+	2	ID=cds-ADV71748.1;Dbxref=NCBI_GP:ADV71748.1;Name=ADV71748.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein 1ab;protein_id=ADV71748.1
+GU393332.1	Genbank	CDS	529	12309	.	+	0	ID=cds-ADV71749.1;Dbxref=NCBI_GP:ADV71749.1;Name=ADV71749.1;gbkey=CDS;product=polyprotein 1a;protein_id=ADV71749.1
+GU393332.1	Genbank	CDS	20287	23739	.	+	0	ID=cds-ADV71747.1;Dbxref=NCBI_GP:ADV71747.1;Name=ADV71747.1;gbkey=CDS;product=spike protein;protein_id=ADV71747.1
+GU393332.1	Genbank	CDS	23785	23958	.	+	0	ID=cds-ADV71746.1;Dbxref=NCBI_GP:ADV71746.1;Name=ADV71746.1;gbkey=CDS;product=3a protein;protein_id=ADV71746.1
+GU393332.1	Genbank	CDS	23958	24152	.	+	0	ID=cds-ADV71745.1;Dbxref=NCBI_GP:ADV71745.1;Name=ADV71745.1;gbkey=CDS;product=3b protein;protein_id=ADV71745.1
+GU393332.1	Genbank	CDS	24133	24462	.	+	0	ID=cds-ADV71744.1;Dbxref=NCBI_GP:ADV71744.1;Name=ADV71744.1;gbkey=CDS;product=envelope protein;protein_id=ADV71744.1
+GU393332.1	Genbank	CDS	24434	25111	.	+	0	ID=cds-ADV71743.1;Dbxref=NCBI_GP:ADV71743.1;Name=ADV71743.1;gbkey=CDS;product=membrane protein;protein_id=ADV71743.1
+GU393332.1	Genbank	CDS	25112	25396	.	+	0	ID=cds-ADV71742.1;Dbxref=NCBI_GP:ADV71742.1;Name=ADV71742.1;gbkey=CDS;product=4b protein;protein_id=ADV71742.1
+GU393332.1	Genbank	CDS	25317	25487	.	+	0	ID=cds-ADV71741.1;Dbxref=NCBI_GP:ADV71741.1;Name=ADV71741.1;gbkey=CDS;product=4c protein;protein_id=ADV71741.1
+GU393332.1	Genbank	CDS	25471	25668	.	+	0	ID=cds-ADV71740.1;Dbxref=NCBI_GP:ADV71740.1;Name=ADV71740.1;gbkey=CDS;product=5a protein;protein_id=ADV71740.1
+GU393332.1	Genbank	CDS	25665	25913	.	+	0	ID=cds-ADV71739.1;Dbxref=NCBI_GP:ADV71739.1;Name=ADV71739.1;gbkey=CDS;product=5b protein;protein_id=ADV71739.1
+GU393332.1	Genbank	CDS	25856	27085	.	+	0	ID=cds-ADV71738.1;Dbxref=NCBI_GP:ADV71738.1;Name=ADV71738.1;gbkey=CDS;product=nucleocapsid protein;protein_id=ADV71738.1
+GU393332.1	Genbank	CDS	27094	27318	.	+	0	ID=cds-ADV71737.1;Dbxref=NCBI_GP:ADV71737.1;Name=ADV71737.1;gbkey=CDS;product=6b protein;protein_id=ADV71737.1
+

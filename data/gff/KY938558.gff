@@ -1,0 +1,22 @@
+##sequence-region KY938558.1 1 29075
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1508220
+KY938558.1	Genbank	region	1	29075	.	+	.	ID=KY938558.1:1..29075;Dbxref=taxon:1508220;collection-date=17-Apr-2016;country=South Korea: abandoned mine;gbkey=Src;genome=genomic;isolation-source=oropharynx swab;mol_type=genomic RNA;nat-host=Rhinolophus ferrumequinum (horseshoe bat);strain=16BO133
+KY938558.1	Genbank	gene	268	12822	.	+	.	ID=gene-B6N28_00001;Name=1a;gbkey=Gene;gene=1a;gene_biotype=protein_coding;locus_tag=B6N28_00001
+KY938558.1	Genbank	CDS	268	12822	.	+	0	ID=cds-ASO66808.1;Parent=gene-B6N28_00001;Dbxref=NCBI_GP:ASO66808.1;Name=ASO66808.1;gbkey=CDS;gene=1a;inference=ab initio prediction:Prodigal:2.6;locus_tag=B6N28_00001;product=replicase polyprotein 1a;protein_id=ASO66808.1
+KY938558.1	Genbank	gene	12954	20894	.	+	.	ID=gene-B6N28_00002;Name=rep;gbkey=Gene;gene=rep;gene_biotype=protein_coding;locus_tag=B6N28_00002
+KY938558.1	Genbank	CDS	12954	20894	.	+	0	ID=cds-ASO66809.1;Parent=gene-B6N28_00002;Dbxref=NCBI_GP:ASO66809.1;Name=ASO66809.1;gbkey=CDS;gene=rep;inference=similar to AA sequence:UniProtKB:P0C6X7;locus_tag=B6N28_00002;product=Replicase polyprotein 1ab;protein_id=ASO66809.1
+KY938558.1	Genbank	gene	20901	24611	.	+	.	ID=gene-B6N28_00003;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding;locus_tag=B6N28_00003
+KY938558.1	Genbank	CDS	20901	24611	.	+	0	ID=cds-ASO66810.1;Parent=gene-B6N28_00003;Dbxref=NCBI_GP:ASO66810.1;Name=ASO66810.1;gbkey=CDS;gene=S;locus_tag=B6N28_00003;product=spike glycoprotein;protein_id=ASO66810.1
+KY938558.1	Genbank	gene	24632	25444	.	+	.	ID=gene-B6N28_00004;Name=B6N28_00004;gbkey=Gene;gene_biotype=protein_coding;locus_tag=B6N28_00004
+KY938558.1	Genbank	CDS	24632	25444	.	+	0	ID=cds-ASO66811.1;Parent=gene-B6N28_00004;Dbxref=NCBI_GP:ASO66811.1;Name=ASO66811.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=B6N28_00004;product=hypothetical protein;protein_id=ASO66811.1
+KY938558.1	Genbank	gene	25750	26415	.	+	.	ID=gene-B6N28_00005;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding;locus_tag=B6N28_00005
+KY938558.1	Genbank	CDS	25750	26415	.	+	0	ID=cds-ASO66812.1;Parent=gene-B6N28_00005;Dbxref=NCBI_GP:ASO66812.1;Name=ASO66812.1;gbkey=CDS;gene=M;inference=similar to AA sequence:UniProtKB:P59596;locus_tag=B6N28_00005;product=Membrane protein;protein_id=ASO66812.1
+KY938558.1	Genbank	gene	26426	26617	.	+	.	ID=gene-B6N28_00006;Name=B6N28_00006;gbkey=Gene;gene_biotype=protein_coding;locus_tag=B6N28_00006
+KY938558.1	Genbank	CDS	26426	26617	.	+	0	ID=cds-ASO66813.1;Parent=gene-B6N28_00006;Dbxref=NCBI_GP:ASO66813.1;Name=ASO66813.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=B6N28_00006;product=hypothetical protein;protein_id=ASO66813.1
+KY938558.1	Genbank	gene	26625	26993	.	+	.	ID=gene-B6N28_00007;Name=B6N28_00007;gbkey=Gene;gene_biotype=protein_coding;locus_tag=B6N28_00007
+KY938558.1	Genbank	CDS	26625	26993	.	+	0	ID=cds-ASO66814.1;Parent=gene-B6N28_00007;Dbxref=NCBI_GP:ASO66814.1;Name=ASO66814.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=B6N28_00007;product=hypothetical protein;protein_id=ASO66814.1
+KY938558.1	Genbank	gene	26990	27136	.	+	.	ID=gene-B6N28_00008;Name=B6N28_00008;gbkey=Gene;gene_biotype=protein_coding;locus_tag=B6N28_00008
+KY938558.1	Genbank	CDS	26990	27136	.	+	0	ID=cds-ASO66815.1;Parent=gene-B6N28_00008;Dbxref=NCBI_GP:ASO66815.1;Name=ASO66815.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=B6N28_00008;product=hypothetical protein;protein_id=ASO66815.1
+KY938558.1	Genbank	gene	27453	28715	.	+	.	ID=gene-B6N28_00009;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding;locus_tag=B6N28_00009
+KY938558.1	Genbank	CDS	27453	28715	.	+	0	ID=cds-ASO66816.1;Parent=gene-B6N28_00009;Dbxref=NCBI_GP:ASO66816.1;Name=ASO66816.1;gbkey=CDS;gene=N;inference=similar to AA sequence:UniProtKB:P59595;locus_tag=B6N28_00009;product=nucleoprotein;protein_id=ASO66816.1
+

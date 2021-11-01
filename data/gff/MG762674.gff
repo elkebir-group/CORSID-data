@@ -1,0 +1,13 @@
+##sequence-region MG762674.1 1 29134
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=694006
+MG762674.1	Genbank	region	1	29134	.	+	.	ID=MG762674.1:1..29134;Dbxref=taxon:694006;clone=2202;collection-date=01-Nov-2009;country=China;gbkey=Src;genome=genomic;isolate=Rousettus spp/Jinghong/2009;mol_type=genomic RNA;nat-host=Rousettus sp.;old-name=Bat coronavirus HKU9
+MG762674.1	Genbank	CDS	230	12928	.	+	0	ID=cds-AVP25405.1;Dbxref=NCBI_GP:AVP25405.1;Name=AVP25405.1;exception=ribosomal slippage;gbkey=CDS;product=orf1ab polyprotein;protein_id=AVP25405.1
+MG762674.1	Genbank	CDS	12928	20991	.	+	0	ID=cds-AVP25405.1;Dbxref=NCBI_GP:AVP25405.1;Name=AVP25405.1;exception=ribosomal slippage;gbkey=CDS;product=orf1ab polyprotein;protein_id=AVP25405.1
+MG762674.1	Genbank	CDS	20951	24748	.	+	0	ID=cds-AVP25406.1;Dbxref=NCBI_GP:AVP25406.1;Name=AVP25406.1;gbkey=CDS;product=spike glycoprotein;protein_id=AVP25406.1
+MG762674.1	Genbank	CDS	24745	25437	.	+	0	ID=cds-AVP25407.1;Dbxref=NCBI_GP:AVP25407.1;Name=AVP25407.1;gbkey=CDS;product=hypothetical protein;protein_id=AVP25407.1
+MG762674.1	Genbank	CDS	25437	25667	.	+	0	ID=cds-AVP25408.1;Dbxref=NCBI_GP:AVP25408.1;Name=AVP25408.1;gbkey=CDS;product=small membrane protein;protein_id=AVP25408.1
+MG762674.1	Genbank	CDS	25672	26346	.	+	0	ID=cds-AVP25409.1;Dbxref=NCBI_GP:AVP25409.1;Name=AVP25409.1;gbkey=CDS;product=membrane glycoprotein;protein_id=AVP25409.1
+MG762674.1	Genbank	CDS	26410	27819	.	+	0	ID=cds-AVP25410.1;Dbxref=NCBI_GP:AVP25410.1;Name=AVP25410.1;gbkey=CDS;product=nucleocapsid phosphoprotein;protein_id=AVP25410.1
+MG762674.1	Genbank	CDS	27857	28450	.	+	0	ID=cds-AVP25411.1;Dbxref=NCBI_GP:AVP25411.1;Name=AVP25411.1;gbkey=CDS;product=NS7a;protein_id=AVP25411.1
+MG762674.1	Genbank	CDS	28447	28890	.	+	0	ID=cds-AVP25412.1;Dbxref=NCBI_GP:AVP25412.1;Name=AVP25412.1;gbkey=CDS;product=NS7b;protein_id=AVP25412.1
+

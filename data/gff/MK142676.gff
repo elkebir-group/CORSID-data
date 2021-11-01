@@ -1,0 +1,16 @@
+##sequence-region MK142676.1 1 27718
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+MK142676.1	Genbank	region	1	27718	.	+	.	ID=MK142676.1:1..27718;Dbxref=taxon:11120;collection-date=2016;country=China;gbkey=Src;genome=genomic;isolate=ahysx-1;isolation-source=chicken feces;mol_type=genomic RNA
+MK142676.1	Genbank	CDS	514	12375	.	+	0	ID=cds-QCX41894.1;Dbxref=NCBI_GP:QCX41894.1;Name=QCX41894.1;gbkey=CDS;product=1a;protein_id=QCX41894.1
+MK142676.1	Genbank	CDS	12450	20408	.	+	0	ID=cds-QCX41895.1;Dbxref=NCBI_GP:QCX41895.1;Name=QCX41895.1;gbkey=CDS;product=1b;protein_id=QCX41895.1
+MK142676.1	Genbank	CDS	20359	23976	.	+	0	ID=cds-QCX41896.1;Dbxref=NCBI_GP:QCX41896.1;Name=QCX41896.1;gbkey=CDS;product=S;protein_id=QCX41896.1
+MK142676.1	Genbank	CDS	23976	24119	.	+	0	ID=cds-QCX41897.1;Dbxref=NCBI_GP:QCX41897.1;Name=QCX41897.1;gbkey=CDS;product=3a;protein_id=QCX41897.1
+MK142676.1	Genbank	CDS	24266	24547	.	+	0	ID=cds-QCX41898.1;Dbxref=NCBI_GP:QCX41898.1;Name=QCX41898.1;gbkey=CDS;product=3c;protein_id=QCX41898.1
+MK142676.1	Genbank	CDS	24544	25212	.	+	0	ID=cds-QCX41899.1;Dbxref=NCBI_GP:QCX41899.1;Name=QCX41899.1;gbkey=CDS;product=M;protein_id=QCX41899.1
+MK142676.1	Genbank	CDS	25213	25497	.	+	0	ID=cds-QCX41900.1;Dbxref=NCBI_GP:QCX41900.1;Name=QCX41900.1;gbkey=CDS;product=4b;protein_id=QCX41900.1
+MK142676.1	Genbank	CDS	25418	25579	.	+	0	ID=cds-QCX41901.1;Dbxref=NCBI_GP:QCX41901.1;Name=QCX41901.1;gbkey=CDS;product=4c;protein_id=QCX41901.1
+MK142676.1	Genbank	CDS	25576	25773	.	+	0	ID=cds-QCX41902.1;Dbxref=NCBI_GP:QCX41902.1;Name=QCX41902.1;gbkey=CDS;product=5a;protein_id=QCX41902.1
+MK142676.1	Genbank	CDS	25770	26018	.	+	0	ID=cds-QCX41903.1;Dbxref=NCBI_GP:QCX41903.1;Name=QCX41903.1;gbkey=CDS;product=5b;protein_id=QCX41903.1
+MK142676.1	Genbank	CDS	25961	27190	.	+	0	ID=cds-QCX41904.1;Dbxref=NCBI_GP:QCX41904.1;Name=QCX41904.1;gbkey=CDS;product=N;protein_id=QCX41904.1
+MK142676.1	Genbank	CDS	27199	27420	.	+	0	ID=cds-QCX41905.1;Dbxref=NCBI_GP:QCX41905.1;Name=QCX41905.1;gbkey=CDS;product=6b;protein_id=QCX41905.1
+

@@ -1,0 +1,23 @@
+##sequence-region NC_025217.1 1 31491
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1541205
+NC_025217.1	RefSeq	region	1	31491	.	+	.	ID=NC_025217.1:1..31491;Dbxref=taxon:1541205;collection-date=29-Apr-2013;country=China;gbkey=Src;genome=genomic;isolate=Zhejiang2013;mol_type=genomic RNA;nat-host=Hipposideros pratti
+NC_025217.1	RefSeq	gene	303	22045	.	+	.	ID=gene-NA39_gp1;Dbxref=GeneID:20522562;Name=NA39_gp1;gbkey=Gene;gene_biotype=protein_coding;locus_tag=NA39_gp1
+NC_025217.1	RefSeq	CDS	303	13931	.	+	0	ID=cds-YP_009072438.1;Parent=gene-NA39_gp1;Dbxref=Genbank:YP_009072438.1,GeneID:20522562;Name=YP_009072438.1;exception=ribosomal slippage;gbkey=CDS;locus_tag=NA39_gp1;product=non-structural polyprotein;protein_id=YP_009072438.1
+NC_025217.1	RefSeq	CDS	13931	22045	.	+	0	ID=cds-YP_009072438.1;Parent=gene-NA39_gp1;Dbxref=Genbank:YP_009072438.1,GeneID:20522562;Name=YP_009072438.1;exception=ribosomal slippage;gbkey=CDS;locus_tag=NA39_gp1;product=non-structural polyprotein;protein_id=YP_009072438.1
+NC_025217.1	RefSeq	gene	22058	23413	.	+	.	ID=gene-NA39_gp2;Dbxref=GeneID:20522554;Name=NA39_gp2;gbkey=Gene;gene_biotype=protein_coding;locus_tag=NA39_gp2
+NC_025217.1	RefSeq	CDS	22058	23413	.	+	0	ID=cds-YP_009072439.1;Parent=gene-NA39_gp2;Dbxref=Genbank:YP_009072439.1,GeneID:20522554;Name=YP_009072439.1;gbkey=CDS;locus_tag=NA39_gp2;product=hypothetical protein;protein_id=YP_009072439.1
+NC_025217.1	RefSeq	gene	23563	27516	.	+	.	ID=gene-NA39_gp3;Dbxref=GeneID:20522555;Name=NA39_gp3;gbkey=Gene;gene_biotype=protein_coding;locus_tag=NA39_gp3
+NC_025217.1	RefSeq	CDS	23563	27516	.	+	0	ID=cds-YP_009072440.1;Parent=gene-NA39_gp3;Dbxref=Genbank:YP_009072440.1,GeneID:20522555;Name=YP_009072440.1;gbkey=CDS;locus_tag=NA39_gp3;product=spike protein;protein_id=YP_009072440.1
+NC_025217.1	RefSeq	gene	27523	28260	.	+	.	ID=gene-NA39_gp4;Dbxref=GeneID:20522556;Name=NA39_gp4;gbkey=Gene;gene_biotype=protein_coding;locus_tag=NA39_gp4
+NC_025217.1	RefSeq	CDS	27523	28260	.	+	0	ID=cds-YP_009072441.1;Parent=gene-NA39_gp4;Dbxref=Genbank:YP_009072441.1,GeneID:20522556;Name=YP_009072441.1;gbkey=CDS;locus_tag=NA39_gp4;product=hypothetical protein;protein_id=YP_009072441.1
+NC_025217.1	RefSeq	gene	28315	28554	.	+	.	ID=gene-NA39_gp5;Dbxref=GeneID:20522557;Name=NA39_gp5;gbkey=Gene;gene_biotype=protein_coding;locus_tag=NA39_gp5
+NC_025217.1	RefSeq	CDS	28315	28554	.	+	0	ID=cds-YP_009072442.1;Parent=gene-NA39_gp5;Dbxref=Genbank:YP_009072442.1,GeneID:20522557;Name=YP_009072442.1;gbkey=CDS;locus_tag=NA39_gp5;product=envelope protein;protein_id=YP_009072442.1
+NC_025217.1	RefSeq	gene	28610	29281	.	+	.	ID=gene-NA39_gp6;Dbxref=GeneID:20522558;Name=NA39_gp6;gbkey=Gene;gene_biotype=protein_coding;locus_tag=NA39_gp6
+NC_025217.1	RefSeq	CDS	28610	29281	.	+	0	ID=cds-YP_009072443.1;Parent=gene-NA39_gp6;Dbxref=Genbank:YP_009072443.1,GeneID:20522558;Name=YP_009072443.1;gbkey=CDS;locus_tag=NA39_gp6;product=membrane protein;protein_id=YP_009072443.1
+NC_025217.1	RefSeq	gene	29297	29515	.	+	.	ID=gene-NA39_gp7;Dbxref=GeneID:20522559;Name=NA39_gp7;gbkey=Gene;gene_biotype=protein_coding;locus_tag=NA39_gp7
+NC_025217.1	RefSeq	CDS	29297	29515	.	+	0	ID=cds-YP_009072444.1;Parent=gene-NA39_gp7;Dbxref=Genbank:YP_009072444.1,GeneID:20522559;Name=YP_009072444.1;gbkey=CDS;locus_tag=NA39_gp7;product=hypothetical protein;protein_id=YP_009072444.1
+NC_025217.1	RefSeq	gene	29534	29857	.	+	.	ID=gene-NA39_gp8;Dbxref=GeneID:20522560;Name=NA39_gp8;gbkey=Gene;gene_biotype=protein_coding;locus_tag=NA39_gp8
+NC_025217.1	RefSeq	CDS	29534	29857	.	+	0	ID=cds-YP_009072445.1;Parent=gene-NA39_gp8;Dbxref=Genbank:YP_009072445.1,GeneID:20522560;Name=YP_009072445.1;gbkey=CDS;locus_tag=NA39_gp8;product=hypothetical protein;protein_id=YP_009072445.1
+NC_025217.1	RefSeq	gene	29917	31173	.	+	.	ID=gene-NA39_gp9;Dbxref=GeneID:20522561;Name=NA39_gp9;gbkey=Gene;gene_biotype=protein_coding;locus_tag=NA39_gp9
+NC_025217.1	RefSeq	CDS	29917	31173	.	+	0	ID=cds-YP_009072446.1;Parent=gene-NA39_gp9;Dbxref=Genbank:YP_009072446.1,GeneID:20522561;Name=YP_009072446.1;gbkey=CDS;locus_tag=NA39_gp9;product=nucleocapsid protein;protein_id=YP_009072446.1
+

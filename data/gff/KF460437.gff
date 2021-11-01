@@ -1,0 +1,25 @@
+##sequence-region KF460437.1 1 27610
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+KF460437.1	Genbank	region	1	27610	.	+	.	ID=KF460437.1:1..27610;Dbxref=taxon:11120;collection-date=2011;country=Australia;gbkey=Src;genome=genomic;isolate=VicS-v;isolation-source=Allantoic fluid%2C embryonated eggs;mol_type=genomic RNA;nat-host=Gallus gallus;serotype=Sub-group 1
+KF460437.1	Genbank	gene	517	20405	.	+	.	ID=gene-IBVgp1ab;Name=IBVgp1ab;Note=translational frameshift (-1 ribosomal framesift) on a slippery sequence (UUUAAAC) results in expression of ORF1a and ORF1b as a single polyprotein 1ab;description=1ab;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IBVgp1ab
+KF460437.1	Genbank	CDS	517	12369	.	+	0	ID=cds-AIG54293.1;Parent=gene-IBVgp1ab;Dbxref=NCBI_GP:AIG54293.1;Name=AIG54293.1;exception=ribosomal slippage;gbkey=CDS;locus_tag=IBVgp1ab;product=ORF1ab polyprotein;protein_id=AIG54293.1
+KF460437.1	Genbank	CDS	12369	20405	.	+	0	ID=cds-AIG54293.1;Parent=gene-IBVgp1ab;Dbxref=NCBI_GP:AIG54293.1;Name=AIG54293.1;exception=ribosomal slippage;gbkey=CDS;locus_tag=IBVgp1ab;product=ORF1ab polyprotein;protein_id=AIG54293.1
+KF460437.1	Genbank	gene	517	12372	.	+	.	ID=gene-IBVgp1a;Name=IBVgp1a;description=1a;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IBVgp1a
+KF460437.1	Genbank	CDS	517	12372	.	+	0	ID=cds-AIG54282.1;Parent=gene-IBVgp1a;Dbxref=NCBI_GP:AIG54282.1;Name=AIG54282.1;Note=Polyprotein post-tralationally cleaved by viral proteinases in small peptides;gbkey=CDS;locus_tag=IBVgp1a;product=ORF1a polyprotein;protein_id=AIG54282.1
+KF460437.1	Genbank	gene	20356	23859	.	+	.	ID=gene-IBVgp2;Name=IBVgp2;description=S glycoprotein;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IBVgp2
+KF460437.1	Genbank	CDS	20356	23859	.	+	0	ID=cds-AIG54283.1;Parent=gene-IBVgp2;Dbxref=NCBI_GP:AIG54283.1;Name=AIG54283.1;gbkey=CDS;locus_tag=IBVgp2;product=Spike (S) glycoprotein;protein_id=AIG54283.1
+KF460437.1	Genbank	gene	23859	24550	.	+	.	ID=gene-IBVgp3;Name=IBVgp3;description=3 gene;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IBVgp3
+KF460437.1	Genbank	CDS	23859	24032	.	+	0	ID=cds-AIG54284.1;Parent=gene-IBVgp3;Dbxref=NCBI_GP:AIG54284.1;Name=AIG54284.1;gbkey=CDS;locus_tag=IBVgp3;product=3a protein;protein_id=AIG54284.1
+KF460437.1	Genbank	CDS	24032	24226	.	+	0	ID=cds-AIG54285.1;Parent=gene-IBVgp3;Dbxref=NCBI_GP:AIG54285.1;Name=AIG54285.1;gbkey=CDS;locus_tag=IBVgp3;product=3b protein;protein_id=AIG54285.1
+KF460437.1	Genbank	CDS	24210	24530	.	+	0	ID=cds-AIG54286.1;Parent=gene-IBVgp3;Dbxref=NCBI_GP:AIG54286.1;Name=AIG54286.1;gbkey=CDS;locus_tag=IBVgp3;product=envelope protein;protein_id=AIG54286.1
+KF460437.1	Genbank	gene	24508	25555	.	+	.	ID=gene-IBVgp4;Name=IBVgp4;description=4 gene;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IBVgp4
+KF460437.1	Genbank	CDS	24508	25179	.	+	0	ID=cds-AIG54287.1;Parent=gene-IBVgp4;Dbxref=NCBI_GP:AIG54287.1;Name=AIG54287.1;gbkey=CDS;locus_tag=IBVgp4;product=membrane glycoprotein;protein_id=AIG54287.1
+KF460437.1	Genbank	CDS	25180	25464	.	+	0	ID=cds-AIG54288.1;Parent=gene-IBVgp4;Dbxref=NCBI_GP:AIG54288.1;Name=AIG54288.1;gbkey=CDS;locus_tag=IBVgp4;product=4b protein;protein_id=AIG54288.1
+KF460437.1	Genbank	CDS	25385	25555	.	+	0	ID=cds-AIG54289.1;Parent=gene-IBVgp4;Dbxref=NCBI_GP:AIG54289.1;Name=AIG54289.1;gbkey=CDS;locus_tag=IBVgp4;product=4c protein;protein_id=AIG54289.1
+KF460437.1	Genbank	gene	25539	25981	.	+	.	ID=gene-IBVgp5;Name=IBVgp5;description=5 gene;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IBVgp5
+KF460437.1	Genbank	CDS	25539	25736	.	+	0	ID=cds-AIG54290.1;Parent=gene-IBVgp5;Dbxref=NCBI_GP:AIG54290.1;Name=AIG54290.1;gbkey=CDS;locus_tag=IBVgp5;product=5a protein;protein_id=AIG54290.1
+KF460437.1	Genbank	CDS	25733	25981	.	+	0	ID=cds-AIG54291.1;Parent=gene-IBVgp5;Dbxref=NCBI_GP:AIG54291.1;Name=AIG54291.1;gbkey=CDS;locus_tag=IBVgp5;product=5b protein;protein_id=AIG54291.1
+KF460437.1	Genbank	gene	25924	27153	.	+	.	ID=gene-IBVp6;Name=IBVp6;description=6 gene;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IBVp6
+KF460437.1	Genbank	CDS	25924	27153	.	+	0	ID=cds-AIG54292.1;Parent=gene-IBVp6;Dbxref=NCBI_GP:AIG54292.1;Name=AIG54292.1;gbkey=CDS;locus_tag=IBVp6;product=nucloecapsid protein;protein_id=AIG54292.1
+KF460437.1	Genbank	polyA_site	27600	27600	.	+	.	ID=id-KF460437.1:27600..27600;gbkey=polyA_site
+

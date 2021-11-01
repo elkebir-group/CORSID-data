@@ -1,0 +1,25 @@
+##sequence-region DQ011855.1 1 30480
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=42005
+DQ011855.1	Genbank	region	1	30480	.	+	.	ID=DQ011855.1:1..30480;Dbxref=taxon:42005;country=Belgium;gbkey=Src;mol_type=genomic RNA;strain=VW572
+DQ011855.1	Genbank	primer_binding_site	1	25	.	+	.	ID=id-DQ011855.1:1..25;gbkey=primer_bind
+DQ011855.1	Genbank	CDS	211	13341	.	+	0	ID=cds-AAY68294.1;Dbxref=NCBI_GP:AAY68294.1;Name=AAY68294.1;Note=translated via -1 ribosomal frameshift;exception=ribosomal slippage;gbkey=CDS;product=replicase polyprotein;protein_id=AAY68294.1
+DQ011855.1	Genbank	CDS	13341	21497	.	+	0	ID=cds-AAY68294.1;Dbxref=NCBI_GP:AAY68294.1;Name=AAY68294.1;Note=translated via -1 ribosomal frameshift;exception=ribosomal slippage;gbkey=CDS;product=replicase polyprotein;protein_id=AAY68294.1
+DQ011855.1	Genbank	gene	21501	22085	.	+	.	ID=gene-NS2;Name=NS2;gbkey=Gene;gene=NS2;gene_biotype=protein_coding
+DQ011855.1	Genbank	CDS	21501	22085	.	+	0	ID=cds-AAY68295.1;Parent=gene-NS2;Dbxref=NCBI_GP:AAY68295.1;Name=AAY68295.1;gbkey=CDS;gene=NS2;product=non-structural protein;protein_id=AAY68295.1
+DQ011855.1	Genbank	gene	22138	23412	.	+	.	ID=gene-HE;Name=HE;gbkey=Gene;gene=HE;gene_biotype=protein_coding
+DQ011855.1	Genbank	CDS	22138	23412	.	+	0	ID=cds-AAY68296.1;Parent=gene-HE;Dbxref=NCBI_GP:AAY68296.1;Name=AAY68296.1;gbkey=CDS;gene=HE;product=hemagglutinin-esterase protein;protein_id=AAY68296.1
+DQ011855.1	Genbank	gene	23427	27476	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+DQ011855.1	Genbank	CDS	23427	27476	.	+	0	ID=cds-AAY68297.1;Parent=gene-S;Dbxref=NCBI_GP:AAY68297.1;Name=AAY68297.1;gbkey=CDS;gene=S;product=spike glycoprotein;protein_id=AAY68297.1
+DQ011855.1	Genbank	gene	27466	27540	.	+	.	ID=gene-NS4.9;Name=NS4.9;gbkey=Gene;gene=NS4.9;gene_biotype=protein_coding
+DQ011855.1	Genbank	CDS	27466	27540	.	+	0	ID=cds-AAY68298.1;Parent=gene-NS4.9;Dbxref=NCBI_GP:AAY68298.1;Name=AAY68298.1;gbkey=CDS;gene=NS4.9;product=non-structural protein;protein_id=AAY68298.1
+DQ011855.1	Genbank	gene	27556	27885	.	+	.	ID=gene-NS12.7;Name=NS12.7;gbkey=Gene;gene=NS12.7;gene_biotype=protein_coding
+DQ011855.1	Genbank	CDS	27556	27885	.	+	0	ID=cds-AAY68299.1;Parent=gene-NS12.7;Dbxref=NCBI_GP:AAY68299.1;Name=AAY68299.1;gbkey=CDS;gene=NS12.7;product=non-structural protein;protein_id=AAY68299.1
+DQ011855.1	Genbank	gene	27872	28126	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+DQ011855.1	Genbank	CDS	27872	28126	.	+	0	ID=cds-AAY68300.1;Parent=gene-E;Dbxref=NCBI_GP:AAY68300.1;Name=AAY68300.1;Note=9.5 kDa protein%2C small membrane protein;gbkey=CDS;gene=E;product=envelope protein;protein_id=AAY68300.1
+DQ011855.1	Genbank	gene	28141	28833	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+DQ011855.1	Genbank	CDS	28141	28833	.	+	0	ID=cds-AAY68301.1;Parent=gene-M;Dbxref=NCBI_GP:AAY68301.1;Name=AAY68301.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=AAY68301.1
+DQ011855.1	Genbank	gene	28843	30192	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+DQ011855.1	Genbank	CDS	28843	30192	.	+	0	ID=cds-AAY68302.1;Parent=gene-N;Dbxref=NCBI_GP:AAY68302.1;Name=AAY68302.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=AAY68302.1
+DQ011855.1	Genbank	CDS	28904	29527	.	+	0	ID=cds-AAY68303.1;Parent=gene-N;Dbxref=NCBI_GP:AAY68303.1;Name=AAY68303.1;Note=N gene internal orf;gbkey=CDS;gene=N;product=N2 protein;protein_id=AAY68303.1
+DQ011855.1	Genbank	primer_binding_site	30468	30480	.	+	.	ID=id-DQ011855.1:30468..30480;gbkey=primer_bind
+

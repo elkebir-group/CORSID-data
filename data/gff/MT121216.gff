@@ -1,0 +1,27 @@
+##sequence-region MT121216.1 1 29521
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2708335
+MT121216.1	Genbank	region	1	29521	.	+	.	ID=MT121216.1:1..29521;Dbxref=taxon:2708335;collection-date=2019-03-29;country=China;gbkey=Src;genome=genomic;isolate=MP789;isolation-source=lung;mol_type=genomic RNA;nat-host=Manis javanica
+MT121216.1	Genbank	gene	146	21414	.	+	.	ID=gene-orf1ab;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding
+MT121216.1	Genbank	CDS	146	13327	.	+	0	ID=cds-QIG55944.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:QIG55944.1;Name=QIG55944.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab polyprotein;protein_id=QIG55944.1
+MT121216.1	Genbank	CDS	13327	21414	.	+	0	ID=cds-QIG55944.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:QIG55944.1;Name=QIG55944.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab polyprotein;protein_id=QIG55944.1
+MT121216.1	Genbank	gene	21421	25218	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MT121216.1	Genbank	CDS	21421	25218	.	+	0	ID=cds-QIG55945.1;Parent=gene-S;Dbxref=NCBI_GP:QIG55945.1;Name=QIG55945.1;gbkey=CDS;gene=S;product=surface glycoprotein;protein_id=QIG55945.1
+MT121216.1	Genbank	gene	25227	26054	.	+	.	ID=gene-ORF3;Name=ORF3;gbkey=Gene;gene=ORF3;gene_biotype=protein_coding
+MT121216.1	Genbank	CDS	25227	26054	.	+	0	ID=cds-QIG55946.1;Parent=gene-ORF3;Dbxref=NCBI_GP:QIG55946.1;Name=QIG55946.1;gbkey=CDS;gene=ORF3;product=ORF3 protein;protein_id=QIG55946.1
+MT121216.1	Genbank	gene	26079	26306	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MT121216.1	Genbank	CDS	26079	26306	.	+	0	ID=cds-QIG55947.1;Parent=gene-E;Dbxref=NCBI_GP:QIG55947.1;Name=QIG55947.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=QIG55947.1
+MT121216.1	Genbank	gene	26357	27025	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MT121216.1	Genbank	CDS	26357	27025	.	+	0	ID=cds-QIG55948.1;Parent=gene-M;Dbxref=NCBI_GP:QIG55948.1;Name=QIG55948.1;gbkey=CDS;gene=M;product=membrane glycoprotein;protein_id=QIG55948.1
+MT121216.1	Genbank	gene	27036	27221	.	+	.	ID=gene-ORF6;Name=ORF6;gbkey=Gene;gene=ORF6;gene_biotype=protein_coding
+MT121216.1	Genbank	CDS	27036	27221	.	+	0	ID=cds-QIG55949.1;Parent=gene-ORF6;Dbxref=NCBI_GP:QIG55949.1;Name=QIG55949.1;gbkey=CDS;gene=ORF6;product=ORF6 protein;protein_id=QIG55949.1
+MT121216.1	Genbank	gene	27228	27593	.	+	.	ID=gene-ORF7a;Name=ORF7a;gbkey=Gene;gene=ORF7a;gene_biotype=protein_coding
+MT121216.1	Genbank	CDS	27228	27593	.	+	0	ID=cds-QIG55950.1;Parent=gene-ORF7a;Dbxref=NCBI_GP:QIG55950.1;Name=QIG55950.1;gbkey=CDS;gene=ORF7a;product=ORF7a protein;protein_id=QIG55950.1
+MT121216.1	Genbank	gene	27590	27721	.	+	.	ID=gene-ORF7b;Name=ORF7b;gbkey=Gene;gene=ORF7b;gene_biotype=protein_coding
+MT121216.1	Genbank	CDS	27590	27721	.	+	0	ID=cds-QIG55951.1;Parent=gene-ORF7b;Dbxref=NCBI_GP:QIG55951.1;Name=QIG55951.1;gbkey=CDS;gene=ORF7b;product=ORF7b protein;protein_id=QIG55951.1
+MT121216.1	Genbank	gene	27728	28045	.	+	.	ID=gene-ORF8;Name=ORF8;gbkey=Gene;gene=ORF8;gene_biotype=protein_coding
+MT121216.1	Genbank	CDS	27728	28045	.	+	0	ID=cds-QIG55952.1;Parent=gene-ORF8;Dbxref=NCBI_GP:QIG55952.1;Name=QIG55952.1;gbkey=CDS;gene=ORF8;product=ORF8 protein;protein_id=QIG55952.1
+MT121216.1	Genbank	gene	28060	29319	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MT121216.1	Genbank	CDS	28060	29319	.	+	0	ID=cds-QIG55953.1;Parent=gene-N;Dbxref=NCBI_GP:QIG55953.1;Name=QIG55953.1;gbkey=CDS;gene=N;product=nucleocapsid phosphoprotein;protein_id=QIG55953.1
+MT121216.1	Genbank	gene	29344	29460	.	+	.	ID=gene-ORF10;Name=ORF10;gbkey=Gene;gene=ORF10;gene_biotype=protein_coding
+MT121216.1	Genbank	CDS	29344	29460	.	+	0	ID=cds-QIG55954.1;Parent=gene-ORF10;Dbxref=NCBI_GP:QIG55954.1;Name=QIG55954.1;gbkey=CDS;gene=ORF10;product=ORF10 protein;protein_id=QIG55954.1
+

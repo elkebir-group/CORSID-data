@@ -1,0 +1,24 @@
+##sequence-region KF668605.1 1 27691
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+KF668605.1	Genbank	region	1	27691	.	+	.	ID=KF668605.1:1..27691;Dbxref=taxon:11120;collection-date=2009;country=China;gbkey=Src;genome=genomic;isolate=CK/CH/SD09/005;mol_type=genomic RNA;nat-host=Gallus gallus
+KF668605.1	Genbank	gene	526	12387	.	+	.	ID=gene-1a;Name=1a;gbkey=Gene;gene=1a;gene_biotype=protein_coding
+KF668605.1	Genbank	CDS	526	12387	.	+	0	ID=cds-AHB78798.1;Parent=gene-1a;Dbxref=NCBI_GP:AHB78798.1;Name=AHB78798.1;gbkey=CDS;gene=1a;product=1a polyprotein;protein_id=AHB78798.1
+KF668605.1	Genbank	gene	12462	20420	.	+	.	ID=gene-1b;Name=1b;gbkey=Gene;gene=1b;gene_biotype=protein_coding
+KF668605.1	Genbank	CDS	12462	20420	.	+	0	ID=cds-AHB78799.1;Parent=gene-1b;Dbxref=NCBI_GP:AHB78799.1;Name=AHB78799.1;gbkey=CDS;gene=1b;product=1b polyprotein;protein_id=AHB78799.1
+KF668605.1	Genbank	gene	20371	23886	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KF668605.1	Genbank	CDS	20371	23886	.	+	0	ID=cds-AHB78800.1;Parent=gene-S;Dbxref=NCBI_GP:AHB78800.1;Name=AHB78800.1;gbkey=CDS;gene=S;product=spike glycoprotein;protein_id=AHB78800.1
+KF668605.1	Genbank	gene	23886	24059	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+KF668605.1	Genbank	CDS	23886	24059	.	+	0	ID=cds-AHB78801.1;Parent=gene-3a;Dbxref=NCBI_GP:AHB78801.1;Name=AHB78801.1;gbkey=CDS;gene=3a;product=3a protein;protein_id=AHB78801.1
+KF668605.1	Genbank	gene	24059	24247	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+KF668605.1	Genbank	CDS	24059	24247	.	+	0	ID=cds-AHB78802.1;Parent=gene-3b;Dbxref=NCBI_GP:AHB78802.1;Name=AHB78802.1;gbkey=CDS;gene=3b;product=3b protein;protein_id=AHB78802.1
+KF668605.1	Genbank	gene	24231	24539	.	+	.	ID=gene-3c;Name=3c;gbkey=Gene;gene=3c;gene_biotype=protein_coding
+KF668605.1	Genbank	CDS	24231	24539	.	+	0	ID=cds-AHB78803.1;Parent=gene-3c;Dbxref=NCBI_GP:AHB78803.1;Name=AHB78803.1;gbkey=CDS;gene=3c;product=3c protein;protein_id=AHB78803.1
+KF668605.1	Genbank	gene	24529	25209	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KF668605.1	Genbank	CDS	24529	25209	.	+	0	ID=cds-AHB78804.1;Parent=gene-M;Dbxref=NCBI_GP:AHB78804.1;Name=AHB78804.1;gbkey=CDS;gene=M;product=M protein;protein_id=AHB78804.1
+KF668605.1	Genbank	gene	25572	25769	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+KF668605.1	Genbank	CDS	25572	25769	.	+	0	ID=cds-AHB78805.1;Parent=gene-5a;Dbxref=NCBI_GP:AHB78805.1;Name=AHB78805.1;gbkey=CDS;gene=5a;product=5a protein;protein_id=AHB78805.1
+KF668605.1	Genbank	gene	25766	26014	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+KF668605.1	Genbank	CDS	25766	26014	.	+	0	ID=cds-AHB78806.1;Parent=gene-5b;Dbxref=NCBI_GP:AHB78806.1;Name=AHB78806.1;gbkey=CDS;gene=5b;product=5b protein;protein_id=AHB78806.1
+KF668605.1	Genbank	gene	25957	27186	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KF668605.1	Genbank	CDS	25957	27186	.	+	0	ID=cds-AHB78807.1;Parent=gene-N;Dbxref=NCBI_GP:AHB78807.1;Name=AHB78807.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=AHB78807.1
+

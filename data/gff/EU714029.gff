@@ -1,0 +1,21 @@
+##sequence-region EU714029.1 1 27660
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+EU714029.1	Genbank	region	1	27660	.	+	.	ID=EU714029.1:1..27660;Dbxref=taxon:11120;collection-date=Nov-2002;country=China;gbkey=Src;isolate=SC021202;mol_type=genomic RNA;nat-host=Gallus gallus;note=responsible for field outbreak of chick nephritis
+EU714029.1	Genbank	gene	528	20410	.	+	.	ID=gene-1;Name=1;gbkey=Gene;gene=1;gene_biotype=protein_coding
+EU714029.1	Genbank	CDS	528	12347	.	+	0	ID=cds-ACH72802.1;Parent=gene-1;Dbxref=NCBI_GP:ACH72802.1;Name=ACH72802.1;Note=translational frameshift results in expression of orf1a and orf1b as a single polyprotein;exception=ribosomal slippage;gbkey=CDS;gene=1;product=1ab polyprotein;protein_id=ACH72802.1
+EU714029.1	Genbank	CDS	12347	20410	.	+	0	ID=cds-ACH72802.1;Parent=gene-1;Dbxref=NCBI_GP:ACH72802.1;Name=ACH72802.1;Note=translational frameshift results in expression of orf1a and orf1b as a single polyprotein;exception=ribosomal slippage;gbkey=CDS;gene=1;product=1ab polyprotein;protein_id=ACH72802.1
+EU714029.1	Genbank	CDS	528	12377	.	+	0	ID=cds-ACH72803.1;Parent=gene-1;Dbxref=NCBI_GP:ACH72803.1;Name=ACH72803.1;gbkey=CDS;gene=1;product=1a polyprotein;protein_id=ACH72803.1
+EU714029.1	Genbank	gene	20361	23837	.	+	.	ID=gene-2;Name=2;gbkey=Gene;gene=2;gene_biotype=protein_coding
+EU714029.1	Genbank	CDS	20361	23837	.	+	0	ID=cds-ACH72804.1;Parent=gene-2;Dbxref=NCBI_GP:ACH72804.1;Name=ACH72804.1;gbkey=CDS;gene=2;product=spike glycoprotein;protein_id=ACH72804.1
+EU714029.1	Genbank	gene	23864	24535	.	+	.	ID=gene-3;Name=3;gbkey=Gene;gene=3;gene_biotype=protein_coding
+EU714029.1	Genbank	CDS	23864	24037	.	+	0	ID=cds-ACH72805.1;Parent=gene-3;Dbxref=NCBI_GP:ACH72805.1;Name=ACH72805.1;gbkey=CDS;gene=3;product=3a protein;protein_id=ACH72805.1
+EU714029.1	Genbank	CDS	24037	24225	.	+	0	ID=cds-ACH72806.1;Parent=gene-3;Dbxref=NCBI_GP:ACH72806.1;Name=ACH72806.1;gbkey=CDS;gene=3;product=3b protein;protein_id=ACH72806.1
+EU714029.1	Genbank	CDS	24209	24535	.	+	0	ID=cds-ACH72807.1;Parent=gene-3;Dbxref=NCBI_GP:ACH72807.1;Name=ACH72807.1;gbkey=CDS;gene=3;product=envelope protein;protein_id=ACH72807.1
+EU714029.1	Genbank	gene	24507	25184	.	+	.	ID=gene-4;Name=4;gbkey=Gene;gene=4;gene_biotype=protein_coding
+EU714029.1	Genbank	CDS	24507	25184	.	+	0	ID=cds-ACH72808.1;Parent=gene-4;Dbxref=NCBI_GP:ACH72808.1;Name=ACH72808.1;gbkey=CDS;gene=4;product=membrane glycoprotein;protein_id=ACH72808.1
+EU714029.1	Genbank	gene	25533	25975	.	+	.	ID=gene-5;Name=5;gbkey=Gene;gene=5;gene_biotype=protein_coding
+EU714029.1	Genbank	CDS	25533	25730	.	+	0	ID=cds-ACH72809.1;Parent=gene-5;Dbxref=NCBI_GP:ACH72809.1;Name=ACH72809.1;gbkey=CDS;gene=5;product=5a protein;protein_id=ACH72809.1
+EU714029.1	Genbank	CDS	25727	25975	.	+	0	ID=cds-ACH72810.1;Parent=gene-5;Dbxref=NCBI_GP:ACH72810.1;Name=ACH72810.1;gbkey=CDS;gene=5;product=5b protein;protein_id=ACH72810.1
+EU714029.1	Genbank	gene	25918	27147	.	+	.	ID=gene-6;Name=6;gbkey=Gene;gene=6;gene_biotype=protein_coding
+EU714029.1	Genbank	CDS	25918	27147	.	+	0	ID=cds-ACH72811.1;Parent=gene-6;Dbxref=NCBI_GP:ACH72811.1;Name=ACH72811.1;gbkey=CDS;gene=6;product=nucleocapsid protein;protein_id=ACH72811.1
+

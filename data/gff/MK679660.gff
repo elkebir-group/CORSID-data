@@ -1,0 +1,29 @@
+##sequence-region MK679660.1 1 30172
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1965093
+MK679660.1	Genbank	region	1	30172	.	+	.	ID=MK679660.1:1..30172;Dbxref=taxon:1965093;collection-date=2014;country=United Kingdom;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Erinaceus europaeus
+MK679660.1	Genbank	gene	241	21710	.	+	.	ID=gene-orf1ab;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding
+MK679660.1	Genbank	CDS	241	13602	.	+	0	ID=cds-QCC20711.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:QCC20711.1;Name=QCC20711.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab;protein_id=QCC20711.1
+MK679660.1	Genbank	CDS	13602	21710	.	+	0	ID=cds-QCC20711.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:QCC20711.1;Name=QCC20711.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab;protein_id=QCC20711.1
+MK679660.1	Genbank	gene	241	13623	.	+	.	ID=gene-ORF 1a;Name=ORF 1a;gbkey=Gene;gene=ORF 1a;gene_biotype=protein_coding
+MK679660.1	Genbank	CDS	241	13623	.	+	0	ID=cds-QCC20712.1;Parent=gene-ORF 1a;Dbxref=NCBI_GP:QCC20712.1;Name=QCC20712.1;gbkey=CDS;gene=ORF 1a;product=ORF 1a;protein_id=QCC20712.1
+MK679660.1	Genbank	gene	21628	25614	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MK679660.1	Genbank	CDS	21628	25614	.	+	0	ID=cds-QCC20713.1;Parent=gene-S;Dbxref=NCBI_GP:QCC20713.1;Name=QCC20713.1;gbkey=CDS;gene=S;product=S;protein_id=QCC20713.1
+MK679660.1	Genbank	gene	25632	25949	.	+	.	ID=gene-ORF 3a;Name=ORF 3a;gbkey=Gene;gene=ORF 3a;gene_biotype=protein_coding
+MK679660.1	Genbank	CDS	25632	25949	.	+	0	ID=cds-QCC20714.1;Parent=gene-ORF 3a;Dbxref=NCBI_GP:QCC20714.1;Name=QCC20714.1;gbkey=CDS;gene=ORF 3a;product=ORF 3a;protein_id=QCC20714.1
+MK679660.1	Genbank	gene	25726	26148	.	+	.	ID=gene-ORF 3b;Name=ORF 3b;gbkey=Gene;gene=ORF 3b;gene_biotype=protein_coding
+MK679660.1	Genbank	CDS	25726	26148	.	+	0	ID=cds-QCC20715.1;Parent=gene-ORF 3b;Dbxref=NCBI_GP:QCC20715.1;Name=QCC20715.1;gbkey=CDS;gene=ORF 3b;product=ORF 3b;protein_id=QCC20715.1
+MK679660.1	Genbank	gene	25903	26148	.	+	.	ID=gene-orf4a;Name=orf4a;gbkey=Gene;gene=orf4a;gene_biotype=protein_coding
+MK679660.1	Genbank	CDS	25903	26148	.	+	0	ID=cds-QCC20716.1;Parent=gene-orf4a;Dbxref=NCBI_GP:QCC20716.1;Name=QCC20716.1;gbkey=CDS;gene=orf4a;product=orf4a;protein_id=QCC20716.1
+MK679660.1	Genbank	gene	26138	26815	.	+	.	ID=gene-orf4b;Name=orf4b;gbkey=Gene;gene=orf4b;gene_biotype=protein_coding
+MK679660.1	Genbank	CDS	26138	26815	.	+	0	ID=cds-QCC20717.1;Parent=gene-orf4b;Dbxref=NCBI_GP:QCC20717.1;Name=QCC20717.1;gbkey=CDS;gene=orf4b;product=orf4b;protein_id=QCC20717.1
+MK679660.1	Genbank	gene	26825	27526	.	+	.	ID=gene-orf5;Name=orf5;gbkey=Gene;gene=orf5;gene_biotype=protein_coding
+MK679660.1	Genbank	CDS	26825	27526	.	+	0	ID=cds-QCC20718.1;Parent=gene-orf5;Dbxref=NCBI_GP:QCC20718.1;Name=QCC20718.1;gbkey=CDS;gene=orf5;product=orf5;protein_id=QCC20718.1
+MK679660.1	Genbank	gene	27600	27848	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MK679660.1	Genbank	CDS	27600	27848	.	+	0	ID=cds-QCC20719.1;Parent=gene-E;Dbxref=NCBI_GP:QCC20719.1;Name=QCC20719.1;gbkey=CDS;gene=E;product=E;protein_id=QCC20719.1
+MK679660.1	Genbank	gene	27863	28519	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MK679660.1	Genbank	CDS	27863	28519	.	+	0	ID=cds-QCC20720.1;Parent=gene-M;Dbxref=NCBI_GP:QCC20720.1;Name=QCC20720.1;gbkey=CDS;gene=M;product=M;protein_id=QCC20720.1
+MK679660.1	Genbank	gene	28573	29850	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MK679660.1	Genbank	CDS	28573	29850	.	+	0	ID=cds-QCC20721.1;Parent=gene-N;Dbxref=NCBI_GP:QCC20721.1;Name=QCC20721.1;gbkey=CDS;gene=N;product=N;protein_id=QCC20721.1
+MK679660.1	Genbank	gene	28619	29221	.	+	.	ID=gene-orf8b;Name=orf8b;gbkey=Gene;gene=orf8b;gene_biotype=protein_coding
+MK679660.1	Genbank	CDS	28619	29221	.	+	0	ID=cds-QCC20722.1;Parent=gene-orf8b;Dbxref=NCBI_GP:QCC20722.1;Name=QCC20722.1;gbkey=CDS;gene=orf8b;product=orf8b;protein_id=QCC20722.1
+

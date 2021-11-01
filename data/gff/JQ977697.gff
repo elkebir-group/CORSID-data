@@ -1,0 +1,24 @@
+##sequence-region JQ977697.1 1 27708
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+JQ977697.1	Genbank	region	1	27708	.	+	.	ID=JQ977697.1:1..27708;Dbxref=taxon:11120;collection-date=2008;country=South Korea;gbkey=Src;genome=genomic;isolate=SNU8067;mol_type=genomic RNA;nat-host=Gallus gallus
+JQ977697.1	Genbank	gene	529	12390	.	+	.	ID=gene-1a;Name=1a;gbkey=Gene;gene=1a;gene_biotype=protein_coding
+JQ977697.1	Genbank	CDS	529	12390	.	+	0	ID=cds-AFQ30998.1;Parent=gene-1a;Dbxref=NCBI_GP:AFQ30998.1;Name=AFQ30998.1;Note=1a;gbkey=CDS;gene=1a;product=polymerase/replicase;protein_id=AFQ30998.1
+JQ977697.1	Genbank	gene	12465	20423	.	+	.	ID=gene-1b;Name=1b;gbkey=Gene;gene=1b;gene_biotype=protein_coding
+JQ977697.1	Genbank	CDS	12465	20423	.	+	0	ID=cds-AFQ30999.1;Parent=gene-1b;Dbxref=NCBI_GP:AFQ30999.1;Name=AFQ30999.1;Note=1b;gbkey=CDS;gene=1b;product=polymerase/replicase;protein_id=AFQ30999.1
+JQ977697.1	Genbank	gene	20374	23883	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+JQ977697.1	Genbank	CDS	20374	23883	.	+	0	ID=cds-AFQ31000.1;Parent=gene-S;Dbxref=NCBI_GP:AFQ31000.1;Name=AFQ31000.1;Note=spike protein;gbkey=CDS;gene=S;product=S protein;protein_id=AFQ31000.1
+JQ977697.1	Genbank	gene	23883	24056	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+JQ977697.1	Genbank	CDS	23883	24056	.	+	0	ID=cds-AFQ31001.1;Parent=gene-3a;Dbxref=NCBI_GP:AFQ31001.1;Name=AFQ31001.1;Note=ORF 3a;gbkey=CDS;gene=3a;product=3a protein;protein_id=AFQ31001.1
+JQ977697.1	Genbank	gene	24056	24250	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+JQ977697.1	Genbank	CDS	24056	24250	.	+	0	ID=cds-AFQ31002.1;Parent=gene-3b;Dbxref=NCBI_GP:AFQ31002.1;Name=AFQ31002.1;Note=ORF 3b;gbkey=CDS;gene=3b;product=3b protein;protein_id=AFQ31002.1
+JQ977697.1	Genbank	gene	24234	24560	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+JQ977697.1	Genbank	CDS	24234	24560	.	+	0	ID=cds-AFQ31003.1;Parent=gene-E;Dbxref=NCBI_GP:AFQ31003.1;Name=AFQ31003.1;Note=E protein%3B small membrane protein;gbkey=CDS;gene=E;product=envelope protein;protein_id=AFQ31003.1
+JQ977697.1	Genbank	gene	24532	25209	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+JQ977697.1	Genbank	CDS	24532	25209	.	+	0	ID=cds-AFQ31004.1;Parent=gene-M;Dbxref=NCBI_GP:AFQ31004.1;Name=AFQ31004.1;Note=structural protein;gbkey=CDS;gene=M;product=membrane glycoprotein;protein_id=AFQ31004.1
+JQ977697.1	Genbank	gene	25569	25766	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+JQ977697.1	Genbank	CDS	25569	25766	.	+	0	ID=cds-AFQ31005.1;Parent=gene-5a;Dbxref=NCBI_GP:AFQ31005.1;Name=AFQ31005.1;Note=ORF 5a;gbkey=CDS;gene=5a;product=5a protein;protein_id=AFQ31005.1
+JQ977697.1	Genbank	gene	25763	26011	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+JQ977697.1	Genbank	CDS	25763	26011	.	+	0	ID=cds-AFQ31006.1;Parent=gene-5b;Dbxref=NCBI_GP:AFQ31006.1;Name=AFQ31006.1;Note=ORF 5b;gbkey=CDS;gene=5b;product=5b protein;protein_id=AFQ31006.1
+JQ977697.1	Genbank	gene	25954	27183	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+JQ977697.1	Genbank	CDS	25954	27183	.	+	0	ID=cds-AFQ31007.1;Parent=gene-N;Dbxref=NCBI_GP:AFQ31007.1;Name=AFQ31007.1;Note=structural protein;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=AFQ31007.1
+

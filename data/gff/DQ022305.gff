@@ -1,0 +1,21 @@
+##sequence-region DQ022305.2 1 29728
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=333387
+DQ022305.2	Genbank	region	1	29728	.	+	.	ID=DQ022305.2:1..29728;Dbxref=taxon:333387;country=China;gbkey=Src;genome=genomic;mol_type=genomic RNA;strain=HKU3-1
+DQ022305.2	Genbank	gene	262	21464	.	+	.	ID=gene-orf1ab;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding
+DQ022305.2	Genbank	CDS	262	13377	.	+	0	ID=cds-AAY88865.2;Parent=gene-orf1ab;Dbxref=NCBI_GP:AAY88865.2;Name=AAY88865.2;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab polyprotein;protein_id=AAY88865.2
+DQ022305.2	Genbank	CDS	13377	21464	.	+	0	ID=cds-AAY88865.2;Parent=gene-orf1ab;Dbxref=NCBI_GP:AAY88865.2;Name=AAY88865.2;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab polyprotein;protein_id=AAY88865.2
+DQ022305.2	Genbank	gene	21471	25199	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+DQ022305.2	Genbank	CDS	21471	25199	.	+	0	ID=cds-AAY88866.1;Parent=gene-S;Dbxref=NCBI_GP:AAY88866.1;Name=AAY88866.1;gbkey=CDS;gene=S;product=spike glycoprotein;protein_id=AAY88866.1
+DQ022305.2	Genbank	CDS	25209	26033	.	+	0	ID=cds-AAY88867.1;Dbxref=NCBI_GP:AAY88867.1;Name=AAY88867.1;gbkey=CDS;product=hypothetical protein orf3a;protein_id=AAY88867.1
+DQ022305.2	Genbank	gene	26058	26288	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+DQ022305.2	Genbank	CDS	26058	26288	.	+	0	ID=cds-AAY88868.1;Parent=gene-E;Dbxref=NCBI_GP:AAY88868.1;Name=AAY88868.1;gbkey=CDS;gene=E;product=small membrane protein;protein_id=AAY88868.1
+DQ022305.2	Genbank	gene	26339	27004	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+DQ022305.2	Genbank	CDS	26339	27004	.	+	0	ID=cds-AAY88869.1;Parent=gene-M;Dbxref=NCBI_GP:AAY88869.1;Name=AAY88869.1;gbkey=CDS;gene=M;product=membrane glycoprotein;protein_id=AAY88869.1
+DQ022305.2	Genbank	CDS	27015	27206	.	+	0	ID=cds-AAY88870.1;Dbxref=NCBI_GP:AAY88870.1;Name=AAY88870.1;gbkey=CDS;product=hypothetical protein orf6;protein_id=AAY88870.1
+DQ022305.2	Genbank	CDS	27214	27582	.	+	0	ID=cds-AAY88871.1;Dbxref=NCBI_GP:AAY88871.1;Name=AAY88871.1;gbkey=CDS;product=hypothetical protein orf7a;protein_id=AAY88871.1
+DQ022305.2	Genbank	CDS	27579	27713	.	+	0	ID=cds-AAY88872.1;Dbxref=NCBI_GP:AAY88872.1;Name=AAY88872.1;gbkey=CDS;product=hypothetical protein orf7b;protein_id=AAY88872.1
+DQ022305.2	Genbank	CDS	27720	28085	.	+	0	ID=cds-AAY88873.1;Dbxref=NCBI_GP:AAY88873.1;Name=AAY88873.1;gbkey=CDS;product=hypothetical protein orf8;protein_id=AAY88873.1
+DQ022305.2	Genbank	gene	28100	29365	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+DQ022305.2	Genbank	CDS	28100	29365	.	+	0	ID=cds-AAY88874.1;Parent=gene-N;Dbxref=NCBI_GP:AAY88874.1;Name=AAY88874.1;gbkey=CDS;gene=N;product=nucleocapsid phosphoprotein;protein_id=AAY88874.1
+DQ022305.2	Genbank	CDS	28110	28403	.	+	0	ID=cds-AAY88875.1;Parent=gene-N;Dbxref=NCBI_GP:AAY88875.1;Name=AAY88875.1;gbkey=CDS;gene=N;product=hypothetical protein orf9b;protein_id=AAY88875.1
+

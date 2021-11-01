@@ -1,0 +1,16 @@
+##sequence-region FJ938051.1 1 29232
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=502100
+FJ938051.1	Genbank	region	1	29232	.	+	.	ID=FJ938051.1:1..29232;Dbxref=taxon:502100;collection-date=28-Jan-2002;country=USA: California;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=cat;strain=RM
+FJ938051.1	Genbank	CDS	288	12305	.	+	0	ID=cds-ACT10853.1;Dbxref=NCBI_GP:ACT10853.1;Name=ACT10853.1;exception=ribosomal slippage;gbkey=CDS;product=orf1ab polyprotein;protein_id=ACT10853.1
+FJ938051.1	Genbank	CDS	12305	20347	.	+	0	ID=cds-ACT10853.1;Dbxref=NCBI_GP:ACT10853.1;Name=ACT10853.1;exception=ribosomal slippage;gbkey=CDS;product=orf1ab polyprotein;protein_id=ACT10853.1
+FJ938051.1	Genbank	CDS	288	12347	.	+	0	ID=cds-ACT10852.1;Dbxref=NCBI_GP:ACT10852.1;Name=ACT10852.1;gbkey=CDS;product=orf1a polyprotein;protein_id=ACT10852.1
+FJ938051.1	Genbank	CDS	20344	24744	.	+	0	ID=cds-ACT10854.1;Dbxref=NCBI_GP:ACT10854.1;Name=ACT10854.1;gbkey=CDS;product=spike protein;protein_id=ACT10854.1
+FJ938051.1	Genbank	CDS	24756	24968	.	+	0	ID=cds-ACT10855.1;Dbxref=NCBI_GP:ACT10855.1;Name=ACT10855.1;gbkey=CDS;product=non-structural protein 3a;protein_id=ACT10855.1
+FJ938051.1	Genbank	CDS	24916	25137	.	+	0	ID=cds-ACT10856.1;Dbxref=NCBI_GP:ACT10856.1;Name=ACT10856.1;gbkey=CDS;product=non-structural protein 3b;protein_id=ACT10856.1
+FJ938051.1	Genbank	CDS	25134	25847	.	+	0	ID=cds-ACT10857.1;Dbxref=NCBI_GP:ACT10857.1;Name=ACT10857.1;gbkey=CDS;product=non-structural protein 3c;protein_id=ACT10857.1
+FJ938051.1	Genbank	CDS	25834	26082	.	+	0	ID=cds-ACT10858.1;Dbxref=NCBI_GP:ACT10858.1;Name=ACT10858.1;gbkey=CDS;product=envelope protein;protein_id=ACT10858.1
+FJ938051.1	Genbank	CDS	26093	26881	.	+	0	ID=cds-ACT10859.1;Dbxref=NCBI_GP:ACT10859.1;Name=ACT10859.1;gbkey=CDS;product=membrane protein;protein_id=ACT10859.1
+FJ938051.1	Genbank	CDS	26894	28024	.	+	0	ID=cds-ACT10860.1;Dbxref=NCBI_GP:ACT10860.1;Name=ACT10860.1;gbkey=CDS;product=nucleocapsid protein;protein_id=ACT10860.1
+FJ938051.1	Genbank	CDS	28029	28334	.	+	0	ID=cds-ACT10861.1;Dbxref=NCBI_GP:ACT10861.1;Name=ACT10861.1;gbkey=CDS;product=non-structural protein 7a;protein_id=ACT10861.1
+FJ938051.1	Genbank	CDS	28339	28959	.	+	0	ID=cds-ACT10862.1;Dbxref=NCBI_GP:ACT10862.1;Name=ACT10862.1;gbkey=CDS;product=non-structural protein 7b;protein_id=ACT10862.1
+

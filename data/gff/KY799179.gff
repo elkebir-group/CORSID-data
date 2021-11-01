@@ -1,0 +1,19 @@
+##sequence-region KY799179.1 1 28173
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2020507
+KY799179.1	Genbank	region	1	28173	.	+	.	ID=KY799179.1:1..28173;Dbxref=taxon:2020507;collection-date=Nov-2010;country=Canada;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Myotis lucifugus (little brown bat)
+KY799179.1	Genbank	gene	80	20556	.	+	.	ID=gene-PP1ab;Name=PP1ab;gbkey=Gene;gene=PP1ab;gene_biotype=protein_coding
+KY799179.1	Genbank	CDS	80	12532	.	+	0	ID=cds-ASL24651.1;Parent=gene-PP1ab;Dbxref=NCBI_GP:ASL24651.1;Name=ASL24651.1;exception=ribosomal slippage;gbkey=CDS;gene=PP1ab;product=replicase protein 1ab;protein_id=ASL24651.1
+KY799179.1	Genbank	CDS	12532	20556	.	+	0	ID=cds-ASL24651.1;Parent=gene-PP1ab;Dbxref=NCBI_GP:ASL24651.1;Name=ASL24651.1;exception=ribosomal slippage;gbkey=CDS;gene=PP1ab;product=replicase protein 1ab;protein_id=ASL24651.1
+KY799179.1	Genbank	gene	80	12562	.	+	.	ID=gene-PP1a;Name=PP1a;gbkey=Gene;gene=PP1a;gene_biotype=protein_coding
+KY799179.1	Genbank	CDS	80	12562	.	+	0	ID=cds-ASL24650.1;Parent=gene-PP1a;Dbxref=NCBI_GP:ASL24650.1;Name=ASL24650.1;gbkey=CDS;gene=PP1a;product=replicase protein1a;protein_id=ASL24650.1
+KY799179.1	Genbank	gene	20553	24650	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KY799179.1	Genbank	CDS	20553	24650	.	+	0	ID=cds-ASL24654.1;Parent=gene-S;Dbxref=NCBI_GP:ASL24654.1;Name=ASL24654.1;gbkey=CDS;gene=S;product=S protein;protein_id=ASL24654.1
+KY799179.1	Genbank	gene	24650	25327	.	+	.	ID=gene-NS3;Name=NS3;gbkey=Gene;gene=NS3;gene_biotype=protein_coding
+KY799179.1	Genbank	CDS	24650	25327	.	+	0	ID=cds-ASL24652.1;Parent=gene-NS3;Dbxref=NCBI_GP:ASL24652.1;Name=ASL24652.1;gbkey=CDS;gene=NS3;product=NS3 protein;protein_id=ASL24652.1
+KY799179.1	Genbank	gene	25311	25535	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+KY799179.1	Genbank	CDS	25311	25535	.	+	0	ID=cds-ASL24653.1;Parent=gene-E;Dbxref=NCBI_GP:ASL24653.1;Name=ASL24653.1;gbkey=CDS;gene=E;product=E protein;protein_id=ASL24653.1
+KY799179.1	Genbank	gene	25542	26222	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KY799179.1	Genbank	CDS	25542	26222	.	+	0	ID=cds-ASL24655.1;Parent=gene-M;Dbxref=NCBI_GP:ASL24655.1;Name=ASL24655.1;gbkey=CDS;gene=M;product=M protein;protein_id=ASL24655.1
+KY799179.1	Genbank	gene	26233	27510	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KY799179.1	Genbank	CDS	26233	27510	.	+	0	ID=cds-ASL24656.1;Parent=gene-N;Dbxref=NCBI_GP:ASL24656.1;Name=ASL24656.1;gbkey=CDS;gene=N;product=N protein;protein_id=ASL24656.1
+

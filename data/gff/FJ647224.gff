@@ -1,0 +1,15 @@
+##sequence-region FJ647224.1 1 31448
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=502104
+FJ647224.1	Genbank	region	1	31448	.	+	.	ID=FJ647224.1:1..31448;Dbxref=taxon:502104;country=USA: Pennsylvania;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Mus musculus;strain=MHV-3
+FJ647224.1	Genbank	CDS	187	13566	.	+	0	ID=cds-ACN89745.1;Dbxref=NCBI_GP:ACN89745.1;Name=ACN89745.1;gbkey=CDS;product=ORF1a polyprotein;protein_id=ACN89745.1
+FJ647224.1	Genbank	CDS	13488	21689	.	+	0	ID=cds-ACN89748.1;Dbxref=NCBI_GP:ACN89748.1;Name=ACN89748.1;gbkey=CDS;partial=true;product=ORF1b polyprotein;protein_id=ACN89748.1;start_range=.,13488
+FJ647224.1	Genbank	CDS	21703	22500	.	+	0	ID=cds-ACN89750.1;Dbxref=NCBI_GP:ACN89750.1;Name=ACN89750.1;gbkey=CDS;product=non-structural protein ns2;protein_id=ACN89750.1
+FJ647224.1	Genbank	CDS	22897	24274	.	+	0	ID=cds-FJ647224.1:22897..24274;Note=hemagglutinin-esterase;gbkey=CDS;pseudo=true
+FJ647224.1	Genbank	CDS	23883	28016	.	+	0	ID=cds-ACN89743.1;Dbxref=NCBI_GP:ACN89743.1;Name=ACN89743.1;gbkey=CDS;product=spike protein;protein_id=ACN89743.1
+FJ647224.1	Genbank	CDS	28110	28527	.	+	0	ID=cds-FJ647224.1:28110..28527;Note=non-structural protein ns4;gbkey=CDS;pseudo=true
+FJ647224.1	Genbank	CDS	28511	28834	.	+	0	ID=cds-ACN89751.1;Dbxref=NCBI_GP:ACN89751.1;Name=ACN89751.1;gbkey=CDS;product=non-structural protein ns5;protein_id=ACN89751.1
+FJ647224.1	Genbank	CDS	28827	29093	.	+	0	ID=cds-ACN89744.1;Dbxref=NCBI_GP:ACN89744.1;Name=ACN89744.1;gbkey=CDS;product=envelope protein;protein_id=ACN89744.1
+FJ647224.1	Genbank	CDS	29090	29776	.	+	0	ID=cds-ACN89749.1;Dbxref=NCBI_GP:ACN89749.1;Name=ACN89749.1;gbkey=CDS;product=membrane protein;protein_id=ACN89749.1
+FJ647224.1	Genbank	CDS	29791	31164	.	+	0	ID=cds-ACN89747.1;Dbxref=NCBI_GP:ACN89747.1;Name=ACN89747.1;gbkey=CDS;product=nucleocapsid protein;protein_id=ACN89747.1
+FJ647224.1	Genbank	CDS	30068	30478	.	+	0	ID=cds-ACN89746.1;Dbxref=NCBI_GP:ACN89746.1;Name=ACN89746.1;gbkey=CDS;product=internal protein;protein_id=ACN89746.1
+

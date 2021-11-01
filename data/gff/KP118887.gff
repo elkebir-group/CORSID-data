@@ -1,0 +1,23 @@
+##sequence-region KP118887.1 1 27621
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+KP118887.1	Genbank	region	1	27621	.	+	.	ID=KP118887.1:1..27621;Dbxref=taxon:11120;collection-date=2014;country=China;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Gallus gallus;strain=ck/CH/LHB/140532;type=genomic RNA
+KP118887.1	Genbank	gene	529	20366	.	+	.	ID=gene-ORF1ab;Name=ORF1ab;gbkey=Gene;gene=ORF1ab;gene_biotype=protein_coding
+KP118887.1	Genbank	CDS	529	12330	.	+	0	ID=cds-AJT47904.1;Parent=gene-ORF1ab;Dbxref=NCBI_GP:AJT47904.1;Name=AJT47904.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;product=ORF1ab;protein_id=AJT47904.1
+KP118887.1	Genbank	CDS	12333	20366	.	+	0	ID=cds-AJT47904.1;Parent=gene-ORF1ab;Dbxref=NCBI_GP:AJT47904.1;Name=AJT47904.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;product=ORF1ab;protein_id=AJT47904.1
+KP118887.1	Genbank	gene	20317	23811	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KP118887.1	Genbank	CDS	20317	23811	.	+	0	ID=cds-AJT47905.1;Parent=gene-S;Dbxref=NCBI_GP:AJT47905.1;Name=AJT47905.1;gbkey=CDS;gene=S;product=spike protein;protein_id=AJT47905.1
+KP118887.1	Genbank	gene	23811	23984	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+KP118887.1	Genbank	CDS	23811	23984	.	+	0	ID=cds-AJT47906.1;Parent=gene-3a;Dbxref=NCBI_GP:AJT47906.1;Name=AJT47906.1;gbkey=CDS;gene=3a;product=3a protein;protein_id=AJT47906.1
+KP118887.1	Genbank	gene	23984	24178	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+KP118887.1	Genbank	CDS	23984	24178	.	+	0	ID=cds-AJT47907.1;Parent=gene-3b;Dbxref=NCBI_GP:AJT47907.1;Name=AJT47907.1;gbkey=CDS;gene=3b;product=3b protein;protein_id=AJT47907.1
+KP118887.1	Genbank	gene	24159	24479	.	+	.	ID=gene-3c;Name=3c;gbkey=Gene;gene=3c;gene_biotype=protein_coding
+KP118887.1	Genbank	CDS	24159	24479	.	+	0	ID=cds-AJT47908.1;Parent=gene-3c;Dbxref=NCBI_GP:AJT47908.1;Name=AJT47908.1;gbkey=CDS;gene=3c;product=E protein;protein_id=AJT47908.1
+KP118887.1	Genbank	gene	24460	25128	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KP118887.1	Genbank	CDS	24460	25128	.	+	0	ID=cds-AJT47909.1;Parent=gene-M;Dbxref=NCBI_GP:AJT47909.1;Name=AJT47909.1;gbkey=CDS;gene=M;product=M protein;protein_id=AJT47909.1
+KP118887.1	Genbank	gene	25488	25685	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+KP118887.1	Genbank	CDS	25488	25685	.	+	0	ID=cds-AJT47910.1;Parent=gene-5a;Dbxref=NCBI_GP:AJT47910.1;Name=AJT47910.1;gbkey=CDS;gene=5a;product=5a protein;protein_id=AJT47910.1
+KP118887.1	Genbank	gene	25682	25930	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+KP118887.1	Genbank	CDS	25682	25930	.	+	0	ID=cds-AJT47911.1;Parent=gene-5b;Dbxref=NCBI_GP:AJT47911.1;Name=AJT47911.1;gbkey=CDS;gene=5b;product=5b protein;protein_id=AJT47911.1
+KP118887.1	Genbank	gene	25873	27102	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KP118887.1	Genbank	CDS	25873	27102	.	+	0	ID=cds-AJT47912.1;Parent=gene-N;Dbxref=NCBI_GP:AJT47912.1;Name=AJT47912.1;gbkey=CDS;gene=N;product=N protein;protein_id=AJT47912.1
+

@@ -1,0 +1,30 @@
+##sequence-region MF421319.1 1 27647
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+MF421319.1	Genbank	region	1	27647	.	+	.	ID=MF421319.1:1..27647;Dbxref=taxon:11120;collection-date=2009;country=Uruguay;gbkey=Src;genome=genomic;isolate=UY/09/CA/01;mol_type=genomic RNA;nat-host=Gallus gallus
+MF421319.1	Genbank	gene	532	12354	.	+	.	ID=gene-1a;Name=1a;gbkey=Gene;gene=1a;gene_biotype=protein_coding
+MF421319.1	Genbank	CDS	532	12354	.	+	0	ID=cds-ASM61958.1;Parent=gene-1a;Dbxref=NCBI_GP:ASM61958.1;Name=ASM61958.1;gbkey=CDS;gene=1a;product=ORF1a;protein_id=ASM61958.1
+MF421319.1	Genbank	gene	12429	20387	.	+	.	ID=gene-1b;Name=1b;gbkey=Gene;gene=1b;gene_biotype=protein_coding
+MF421319.1	Genbank	CDS	12429	20387	.	+	0	ID=cds-ASM61959.1;Parent=gene-1b;Dbxref=NCBI_GP:ASM61959.1;Name=ASM61959.1;gbkey=CDS;gene=1b;product=ORF1b;protein_id=ASM61959.1
+MF421319.1	Genbank	gene	20338	23811	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MF421319.1	Genbank	CDS	20338	23811	.	+	0	ID=cds-ASM61960.1;Parent=gene-S;Dbxref=NCBI_GP:ASM61960.1;Name=ASM61960.1;gbkey=CDS;gene=S;product=spike protein;protein_id=ASM61960.1
+MF421319.1	Genbank	gene	23838	24011	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+MF421319.1	Genbank	CDS	23838	24011	.	+	0	ID=cds-ASM61961.1;Parent=gene-3a;Dbxref=NCBI_GP:ASM61961.1;Name=ASM61961.1;gbkey=CDS;gene=3a;product=ORF3a;protein_id=ASM61961.1
+MF421319.1	Genbank	gene	24011	24205	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+MF421319.1	Genbank	CDS	24011	24205	.	+	0	ID=cds-ASM61962.1;Parent=gene-3b;Dbxref=NCBI_GP:ASM61962.1;Name=ASM61962.1;gbkey=CDS;gene=3b;product=ORF3b;protein_id=ASM61962.1
+MF421319.1	Genbank	gene	24186	24494	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MF421319.1	Genbank	CDS	24186	24494	.	+	0	ID=cds-ASM61963.1;Parent=gene-E;Dbxref=NCBI_GP:ASM61963.1;Name=ASM61963.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=ASM61963.1
+MF421319.1	Genbank	gene	24487	25167	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MF421319.1	Genbank	CDS	24487	25167	.	+	0	ID=cds-ASM61964.1;Parent=gene-M;Dbxref=NCBI_GP:ASM61964.1;Name=ASM61964.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=ASM61964.1
+MF421319.1	Genbank	gene	25168	25452	.	+	.	ID=gene-4b;Name=4b;gbkey=Gene;gene=4b;gene_biotype=protein_coding
+MF421319.1	Genbank	CDS	25168	25452	.	+	0	ID=cds-ASM61965.1;Parent=gene-4b;Dbxref=NCBI_GP:ASM61965.1;Name=ASM61965.1;gbkey=CDS;gene=4b;product=ORF4b;protein_id=ASM61965.1
+MF421319.1	Genbank	gene	25373	25534	.	+	.	ID=gene-4c;Name=4c;gbkey=Gene;gene=4c;gene_biotype=protein_coding
+MF421319.1	Genbank	CDS	25373	25534	.	+	0	ID=cds-ASM61966.1;Parent=gene-4c;Dbxref=NCBI_GP:ASM61966.1;Name=ASM61966.1;gbkey=CDS;gene=4c;product=ORF4c;protein_id=ASM61966.1
+MF421319.1	Genbank	gene	25518	25715	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+MF421319.1	Genbank	CDS	25518	25715	.	+	0	ID=cds-ASM61967.1;Parent=gene-5a;Dbxref=NCBI_GP:ASM61967.1;Name=ASM61967.1;gbkey=CDS;gene=5a;product=ORF5a;protein_id=ASM61967.1
+MF421319.1	Genbank	gene	25712	25960	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+MF421319.1	Genbank	CDS	25712	25960	.	+	0	ID=cds-ASM61968.1;Parent=gene-5b;Dbxref=NCBI_GP:ASM61968.1;Name=ASM61968.1;gbkey=CDS;gene=5b;product=ORF5b;protein_id=ASM61968.1
+MF421319.1	Genbank	gene	25903	27132	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MF421319.1	Genbank	CDS	25903	27132	.	+	0	ID=cds-ASM61969.1;Parent=gene-N;Dbxref=NCBI_GP:ASM61969.1;Name=ASM61969.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=ASM61969.1
+MF421319.1	Genbank	gene	27141	27365	.	+	.	ID=gene-6b;Name=6b;gbkey=Gene;gene=6b;gene_biotype=protein_coding
+MF421319.1	Genbank	CDS	27141	27365	.	+	0	ID=cds-ASM61970.1;Parent=gene-6b;Dbxref=NCBI_GP:ASM61970.1;Name=ASM61970.1;gbkey=CDS;gene=6b;product=ORF6b;protein_id=ASM61970.1
+

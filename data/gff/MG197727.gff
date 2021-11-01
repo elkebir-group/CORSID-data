@@ -1,0 +1,19 @@
+##sequence-region MG197727.1 1 27696
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+MG197727.1	Genbank	region	1	27696	.	+	.	ID=MG197727.1:1..27696;Dbxref=taxon:11120;collection-date=01-Nov-2016;country=China;gbkey=Src;genome=genomic;isolate=CK/CH/GD/QY16;mol_type=genomic RNA;nat-host=chicken
+MG197727.1	Genbank	five_prime_UTR	1	525	.	+	.	ID=id-MG197727.1:1..525;gbkey=5'UTR
+MG197727.1	Genbank	CDS	526	12387	.	+	0	ID=cds-AXX83281.1;Dbxref=NCBI_GP:AXX83281.1;Name=AXX83281.1;gbkey=CDS;product=1a polyprotein;protein_id=AXX83281.1
+MG197727.1	Genbank	CDS	12462	20420	.	+	0	ID=cds-AXX83282.1;Dbxref=NCBI_GP:AXX83282.1;Name=AXX83282.1;gbkey=CDS;product=1b polyprotein;protein_id=AXX83282.1
+MG197727.1	Genbank	CDS	20371	23865	.	+	0	ID=cds-AXX83283.1;Dbxref=NCBI_GP:AXX83283.1;Name=AXX83283.1;gbkey=CDS;product=spike glycoprotein;protein_id=AXX83283.1
+MG197727.1	Genbank	CDS	23865	24038	.	+	0	ID=cds-AXX83284.1;Dbxref=NCBI_GP:AXX83284.1;Name=AXX83284.1;gbkey=CDS;product=3a protein;protein_id=AXX83284.1
+MG197727.1	Genbank	CDS	24038	24226	.	+	0	ID=cds-AXX83285.1;Dbxref=NCBI_GP:AXX83285.1;Name=AXX83285.1;gbkey=CDS;product=3b protein;protein_id=AXX83285.1
+MG197727.1	Genbank	CDS	24213	24539	.	+	0	ID=cds-AXX83286.1;Dbxref=NCBI_GP:AXX83286.1;Name=AXX83286.1;gbkey=CDS;product=envelope protein;protein_id=AXX83286.1
+MG197727.1	Genbank	CDS	24511	25188	.	+	0	ID=cds-AXX83287.1;Dbxref=NCBI_GP:AXX83287.1;Name=AXX83287.1;gbkey=CDS;product=membrane glycoprotein;protein_id=AXX83287.1
+MG197727.1	Genbank	CDS	25189	25473	.	+	0	ID=cds-AXX83288.1;Dbxref=NCBI_GP:AXX83288.1;Name=AXX83288.1;gbkey=CDS;product=4b protein;protein_id=AXX83288.1
+MG197727.1	Genbank	CDS	25394	25555	.	+	0	ID=cds-AXX83289.1;Dbxref=NCBI_GP:AXX83289.1;Name=AXX83289.1;gbkey=CDS;product=4c protein;protein_id=AXX83289.1
+MG197727.1	Genbank	CDS	25552	25749	.	+	0	ID=cds-AXX83290.1;Dbxref=NCBI_GP:AXX83290.1;Name=AXX83290.1;gbkey=CDS;product=5a protein;protein_id=AXX83290.1
+MG197727.1	Genbank	CDS	25746	25994	.	+	0	ID=cds-AXX83291.1;Dbxref=NCBI_GP:AXX83291.1;Name=AXX83291.1;gbkey=CDS;product=5b protein;protein_id=AXX83291.1
+MG197727.1	Genbank	CDS	25937	27166	.	+	0	ID=cds-AXX83292.1;Dbxref=NCBI_GP:AXX83292.1;Name=AXX83292.1;gbkey=CDS;product=nucleocapsid protein;protein_id=AXX83292.1
+MG197727.1	Genbank	CDS	27175	27396	.	+	0	ID=cds-AXX83293.1;Dbxref=NCBI_GP:AXX83293.1;Name=AXX83293.1;gbkey=CDS;product=6b protein;protein_id=AXX83293.1
+MG197727.1	Genbank	three_prime_UTR	27397	27696	.	+	.	ID=id-MG197727.1:27397..27696;gbkey=3'UTR
+

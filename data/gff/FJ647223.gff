@@ -1,0 +1,15 @@
+##sequence-region FJ647223.1 1 31386
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=502106
+FJ647223.1	Genbank	region	1	31386	.	+	.	ID=FJ647223.1:1..31386;Dbxref=taxon:502106;country=USA: Pennsylvania;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Mus musculus;strain=MHV-1
+FJ647223.1	Genbank	CDS	191	13567	.	+	0	ID=cds-ACN89736.1;Dbxref=NCBI_GP:ACN89736.1;Name=ACN89736.1;gbkey=CDS;product=ORF1a polyprotein;protein_id=ACN89736.1
+FJ647223.1	Genbank	CDS	13489	21690	.	+	0	ID=cds-ACN89737.1;Dbxref=NCBI_GP:ACN89737.1;Name=ACN89737.1;gbkey=CDS;partial=true;product=ORF1b polyprotein;protein_id=ACN89737.1;start_range=.,13489
+FJ647223.1	Genbank	CDS	21704	22501	.	+	0	ID=cds-ACN89741.1;Dbxref=NCBI_GP:ACN89741.1;Name=ACN89741.1;gbkey=CDS;product=non-structural protein ns2;protein_id=ACN89741.1
+FJ647223.1	Genbank	CDS	22559	23827	.	+	0	ID=cds-FJ647223.1:22559..23827;Note=hemagglutinin-esterase;gbkey=CDS;pseudo=true
+FJ647223.1	Genbank	CDS	23873	27964	.	+	0	ID=cds-ACN89742.1;Dbxref=NCBI_GP:ACN89742.1;Name=ACN89742.1;gbkey=CDS;product=spike protein;protein_id=ACN89742.1
+FJ647223.1	Genbank	CDS	28058	28477	.	+	0	ID=cds-ACN89734.1;Dbxref=NCBI_GP:ACN89734.1;Name=ACN89734.1;gbkey=CDS;product=non-structural protein ns4;protein_id=ACN89734.1
+FJ647223.1	Genbank	CDS	28459	28782	.	+	0	ID=cds-ACN89739.1;Dbxref=NCBI_GP:ACN89739.1;Name=ACN89739.1;gbkey=CDS;product=non-structural protein ns5;protein_id=ACN89739.1
+FJ647223.1	Genbank	CDS	28775	29041	.	+	0	ID=cds-ACN89738.1;Dbxref=NCBI_GP:ACN89738.1;Name=ACN89738.1;gbkey=CDS;product=envelope protein;protein_id=ACN89738.1
+FJ647223.1	Genbank	CDS	29038	29724	.	+	0	ID=cds-ACN89740.1;Dbxref=NCBI_GP:ACN89740.1;Name=ACN89740.1;gbkey=CDS;product=membrane protein;protein_id=ACN89740.1
+FJ647223.1	Genbank	CDS	29739	31106	.	+	0	ID=cds-ACN89735.1;Dbxref=NCBI_GP:ACN89735.1;Name=ACN89735.1;gbkey=CDS;product=nucleocapsid protein;protein_id=ACN89735.1
+FJ647223.1	Genbank	CDS	30019	30424	.	+	0	ID=cds-FJ647223.1:30019..30424;Note=internal protein;gbkey=CDS;pseudo=true
+

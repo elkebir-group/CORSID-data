@@ -1,0 +1,20 @@
+##sequence-region KX834351.1 1 25406
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1586324
+KX834351.1	Genbank	region	1	25406	.	+	.	ID=KX834351.1:1..25406;Dbxref=taxon:1586324;collection-date=10-Oct-2015;country=Viet Nam;gbkey=Src;genome=genomic;isolation-source=feces;mol_type=genomic RNA;nat-host=piglet;strain=PDCoV/Swine/Vietnam/HaNoi6/2015
+KX834351.1	Genbank	gene	537	11402	.	+	.	ID=gene-orf1a;Name=orf1a;gbkey=Gene;gene=orf1a;gene_biotype=protein_coding
+KX834351.1	Genbank	CDS	537	11402	.	+	0	ID=cds-APZ76688.1;Parent=gene-orf1a;Dbxref=NCBI_GP:APZ76688.1;Name=APZ76688.1;gbkey=CDS;gene=orf1a;product=polyprotein 1a;protein_id=APZ76688.1
+KX834351.1	Genbank	gene	11402	19324	.	+	.	ID=gene-orf1b;Name=orf1b;gbkey=Gene;gene=orf1b;gene_biotype=protein_coding;partial=true;start_range=.,11402
+KX834351.1	Genbank	CDS	11402	19324	.	+	0	ID=cds-APZ76689.1;Parent=gene-orf1b;Dbxref=NCBI_GP:APZ76689.1;Name=APZ76689.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1b;partial=true;product=polyprotein 1b;protein_id=APZ76689.1;start_range=.,11402
+KX834351.1	Genbank	gene	19306	22788	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KX834351.1	Genbank	CDS	19306	22788	.	+	0	ID=cds-APZ76690.1;Parent=gene-S;Dbxref=NCBI_GP:APZ76690.1;Name=APZ76690.1;gbkey=CDS;gene=S;product=spike glycoprotein;protein_id=APZ76690.1
+KX834351.1	Genbank	gene	22782	23033	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+KX834351.1	Genbank	CDS	22782	23033	.	+	0	ID=cds-APZ76691.1;Parent=gene-E;Dbxref=NCBI_GP:APZ76691.1;Name=APZ76691.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=APZ76691.1
+KX834351.1	Genbank	gene	23026	23679	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KX834351.1	Genbank	CDS	23026	23679	.	+	0	ID=cds-APZ76692.1;Parent=gene-M;Dbxref=NCBI_GP:APZ76692.1;Name=APZ76692.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=APZ76692.1
+KX834351.1	Genbank	gene	23679	23963	.	+	.	ID=gene-NS6;Name=NS6;gbkey=Gene;gene=NS6;gene_biotype=protein_coding
+KX834351.1	Genbank	CDS	23679	23963	.	+	0	ID=cds-APZ76693.1;Parent=gene-NS6;Dbxref=NCBI_GP:APZ76693.1;Name=APZ76693.1;gbkey=CDS;gene=NS6;product=NS6 protein;protein_id=APZ76693.1
+KX834351.1	Genbank	gene	23984	25012	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KX834351.1	Genbank	CDS	23984	25012	.	+	0	ID=cds-APZ76694.1;Parent=gene-N;Dbxref=NCBI_GP:APZ76694.1;Name=APZ76694.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=APZ76694.1
+KX834351.1	Genbank	gene	24078	24680	.	+	.	ID=gene-NS7;Name=NS7;gbkey=Gene;gene=NS7;gene_biotype=protein_coding
+KX834351.1	Genbank	CDS	24078	24680	.	+	0	ID=cds-APZ76695.1;Parent=gene-NS7;Dbxref=NCBI_GP:APZ76695.1;Name=APZ76695.1;gbkey=CDS;gene=NS7;product=NS7 protein;protein_id=APZ76695.1
+

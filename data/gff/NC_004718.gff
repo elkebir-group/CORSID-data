@@ -1,0 +1,32 @@
+##sequence-region NC_004718.3 1 29751
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=227984
+NC_004718.3	RefSeq	region	1	29751	.	+	.	ID=NC_004718.3:1..29751;Dbxref=taxon:227984;country=Canada: Toronto;gbkey=Src;genome=genomic;isolate=Tor2;mol_type=genomic RNA;nat-host=Homo sapiens%3B patient #2 with severe acute respiratory syndrome (SARS)
+NC_004718.3	RefSeq	gene	265	21485	.	+	.	ID=gene-sarsp1;Dbxref=GeneID:1489680;Name=sarsp1;gbkey=Gene;gene_biotype=protein_coding;locus_tag=sarsp1
+NC_004718.3	RefSeq	CDS	265	13392	.	+	0	ID=cds-NP_828849.7;Parent=gene-sarsp1;Dbxref=Genbank:NP_828849.7,GeneID:1489680;Name=NP_828849.7;exception=ribosomal slippage;gbkey=CDS;locus_tag=sarsp1;product=replicase 1AB;protein_id=NP_828849.7
+NC_004718.3	RefSeq	CDS	13392	21485	.	+	0	ID=cds-NP_828849.7;Parent=gene-sarsp1;Dbxref=Genbank:NP_828849.7,GeneID:1489680;Name=NP_828849.7;exception=ribosomal slippage;gbkey=CDS;locus_tag=sarsp1;product=replicase 1AB;protein_id=NP_828849.7
+NC_004718.3	RefSeq	gene	21492	25259	.	+	.	ID=gene-sars2;Dbxref=GeneID:1489668;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding;gene_synonym=E2;locus_tag=sars2
+NC_004718.3	RefSeq	CDS	21492	25259	.	+	0	ID=cds-YP_009825051.1;Parent=gene-sars2;Dbxref=Genbank:YP_009825051.1,GeneID:1489668;Name=YP_009825051.1;gbkey=CDS;gene=S;locus_tag=sars2;product=spike glycoprotein;protein_id=YP_009825051.1
+NC_004718.3	RefSeq	gene	25268	26092	.	+	.	ID=gene-sars3a;Dbxref=GeneID:1489669;Name=sars3a;gbkey=Gene;gene_biotype=protein_coding;locus_tag=sars3a
+NC_004718.3	RefSeq	CDS	25268	26092	.	+	0	ID=cds-YP_009825052.1;Parent=gene-sars3a;Dbxref=Genbank:YP_009825052.1,GeneID:1489669;Name=YP_009825052.1;gbkey=CDS;locus_tag=sars3a;product=Orf3;protein_id=YP_009825052.1
+NC_004718.3	RefSeq	gene	25689	26153	.	+	.	ID=gene-sars3b;Dbxref=GeneID:1489670;Name=sars3b;gbkey=Gene;gene_biotype=protein_coding;locus_tag=sars3b
+NC_004718.3	RefSeq	CDS	25689	26153	.	+	0	ID=cds-YP_009825053.1;Parent=gene-sars3b;Dbxref=Genbank:YP_009825053.1,GeneID:1489670;Name=YP_009825053.1;gbkey=CDS;locus_tag=sars3b;product=Orf4;protein_id=YP_009825053.1
+NC_004718.3	RefSeq	gene	26117	26347	.	+	.	ID=gene-sars4;Dbxref=GeneID:1489671;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding;locus_tag=sars4
+NC_004718.3	RefSeq	CDS	26117	26347	.	+	0	ID=cds-YP_009825054.1;Parent=gene-sars4;Dbxref=Genbank:YP_009825054.1,GeneID:1489671;Name=YP_009825054.1;gbkey=CDS;gene=E;locus_tag=sars4;product=small envelope E protein;protein_id=YP_009825054.1
+NC_004718.3	RefSeq	gene	26398	27063	.	+	.	ID=gene-sars5;Dbxref=GeneID:1489672;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding;locus_tag=sars5
+NC_004718.3	RefSeq	CDS	26398	27063	.	+	0	ID=cds-YP_009825055.1;Parent=gene-sars5;Dbxref=Genbank:YP_009825055.1,GeneID:1489672;Name=YP_009825055.1;gbkey=CDS;gene=M;locus_tag=sars5;product=membrane glycoprotein M;protein_id=YP_009825055.1
+NC_004718.3	RefSeq	gene	26913	27265	.	+	.	ID=gene-sars6;Dbxref=GeneID:1489673;Name=sars6;gbkey=Gene;gene_biotype=protein_coding;locus_tag=sars6
+NC_004718.3	RefSeq	CDS	27074	27265	.	+	0	ID=cds-YP_009825056.1;Parent=gene-sars6;Dbxref=Genbank:YP_009825056.1,GeneID:1489673;Name=YP_009825056.1;gbkey=CDS;locus_tag=sars6;product=Orf7;protein_id=YP_009825056.1
+NC_004718.3	RefSeq	gene	27273	27641	.	+	.	ID=gene-sars7a;Dbxref=GeneID:1489674;Name=sars7a;gbkey=Gene;gene_biotype=protein_coding;locus_tag=sars7a
+NC_004718.3	RefSeq	CDS	27273	27641	.	+	0	ID=cds-YP_009825057.1;Parent=gene-sars7a;Dbxref=Genbank:YP_009825057.1,GeneID:1489674;Name=YP_009825057.1;gbkey=CDS;locus_tag=sars7a;product=Orf8;protein_id=YP_009825057.1
+NC_004718.3	RefSeq	gene	27638	27772	.	+	.	ID=gene-sars7b;Dbxref=GeneID:1489675;Name=sars7b;gbkey=Gene;gene_biotype=protein_coding;locus_tag=sars7b
+NC_004718.3	RefSeq	CDS	27638	27772	.	+	0	ID=cds-YP_009825058.1;Parent=gene-sars7b;Dbxref=Genbank:YP_009825058.1,GeneID:1489675;Name=YP_009825058.1;gbkey=CDS;locus_tag=sars7b;product=Orf9;protein_id=YP_009825058.1
+NC_004718.3	RefSeq	gene	27779	27898	.	+	.	ID=gene-sars8a;Dbxref=GeneID:1489676;Name=sars8a;gbkey=Gene;gene_biotype=protein_coding;locus_tag=sars8a
+NC_004718.3	RefSeq	CDS	27779	27898	.	+	0	ID=cds-YP_009825059.1;Parent=gene-sars8a;Dbxref=Genbank:YP_009825059.1,GeneID:1489676;Name=YP_009825059.1;gbkey=CDS;locus_tag=sars8a;product=Orf10;protein_id=YP_009825059.1
+NC_004718.3	RefSeq	gene	27864	28118	.	+	.	ID=gene-sars8b;Dbxref=GeneID:1489677;Name=sars8b;gbkey=Gene;gene_biotype=protein_coding;locus_tag=sars8b
+NC_004718.3	RefSeq	CDS	27864	28118	.	+	0	ID=cds-YP_009825060.1;Parent=gene-sars8b;Dbxref=Genbank:YP_009825060.1,GeneID:1489677;Name=YP_009825060.1;gbkey=CDS;locus_tag=sars8b;product=Orf11;protein_id=YP_009825060.1
+NC_004718.3	RefSeq	gene	28120	29388	.	+	.	ID=gene-sars9a;Dbxref=GeneID:1489678;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding;locus_tag=sars9a
+NC_004718.3	RefSeq	CDS	28120	29388	.	+	0	ID=cds-YP_009825061.1;Parent=gene-sars9a;Dbxref=Genbank:YP_009825061.1,GeneID:1489678;Name=YP_009825061.1;gbkey=CDS;gene=N;locus_tag=sars9a;product=nucleocapsid protein;protein_id=YP_009825061.1
+NC_004718.3	RefSeq	CDS	28583	28795	.	+	0	ID=cds-YP_009825063.1;Parent=gene-sars9a;Dbxref=Genbank:YP_009825063.1,GeneID:1489678;Name=YP_009825063.1;gbkey=CDS;gene=N;locus_tag=sars9a;product=Orf14;protein_id=YP_009825063.1
+NC_004718.3	RefSeq	gene	28130	28426	.	+	.	ID=gene-sars9b;Dbxref=GeneID:1489679;Name=sars9b;gbkey=Gene;gene_biotype=protein_coding;locus_tag=sars9b
+NC_004718.3	RefSeq	CDS	28130	28426	.	+	0	ID=cds-YP_009825062.1;Parent=gene-sars9b;Dbxref=Genbank:YP_009825062.1,GeneID:1489679;Name=YP_009825062.1;gbkey=CDS;locus_tag=sars9b;product=Orf13;protein_id=YP_009825062.1
+

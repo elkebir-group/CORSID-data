@@ -1,0 +1,15 @@
+##sequence-region JF792616.1 1 31286
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=31632
+JF792616.1	Genbank	region	1	31286	.	+	.	ID=JF792616.1:1..31286;Dbxref=taxon:31632;gbkey=Src;genome=genomic;isolate=681;mol_type=genomic RNA;nat-host=rat
+JF792616.1	Genbank	CDS	183	13567	.	+	0	ID=cds-AFG25758.1;Dbxref=NCBI_GP:AFG25758.1;Name=AFG25758.1;exception=ribosomal slippage;gbkey=CDS;product=1ab polyprotein;protein_id=AFG25758.1
+JF792616.1	Genbank	CDS	13567	21712	.	+	1	ID=cds-AFG25758.1;Dbxref=NCBI_GP:AFG25758.1;Name=AFG25758.1;exception=ribosomal slippage;gbkey=CDS;product=1ab polyprotein;protein_id=AFG25758.1
+JF792616.1	Genbank	CDS	183	13589	.	+	0	ID=cds-AFG25759.1;Dbxref=NCBI_GP:AFG25759.1;Name=AFG25759.1;gbkey=CDS;product=1a polyprotein;protein_id=AFG25759.1
+JF792616.1	Genbank	CDS	21702	22523	.	+	0	ID=cds-AFG25753.1;Dbxref=NCBI_GP:AFG25753.1;Name=AFG25753.1;gbkey=CDS;product=32 kD non-structural protein;protein_id=AFG25753.1
+JF792616.1	Genbank	CDS	22569	23882	.	+	0	ID=cds-AFG25756.1;Dbxref=NCBI_GP:AFG25756.1;Name=AFG25756.1;gbkey=CDS;product=hemagglutinin esterase;protein_id=AFG25756.1
+JF792616.1	Genbank	CDS	23897	27979	.	+	0	ID=cds-AFG25750.1;Dbxref=NCBI_GP:AFG25750.1;Name=AFG25750.1;gbkey=CDS;product=spike glycoprotein;protein_id=AFG25750.1
+JF792616.1	Genbank	CDS	28070	28471	.	+	0	ID=cds-AFG25752.1;Dbxref=NCBI_GP:AFG25752.1;Name=AFG25752.1;gbkey=CDS;product=15 kD non-structural protein;protein_id=AFG25752.1
+JF792616.1	Genbank	CDS	28645	28911	.	+	0	ID=cds-AFG25757.1;Dbxref=NCBI_GP:AFG25757.1;Name=AFG25757.1;gbkey=CDS;product=envelope;protein_id=AFG25757.1
+JF792616.1	Genbank	CDS	28908	29594	.	+	0	ID=cds-AFG25754.1;Dbxref=NCBI_GP:AFG25754.1;Name=AFG25754.1;gbkey=CDS;product=membrane protein;protein_id=AFG25754.1
+JF792616.1	Genbank	CDS	29609	30973	.	+	0	ID=cds-AFG25751.1;Dbxref=NCBI_GP:AFG25751.1;Name=AFG25751.1;gbkey=CDS;product=nucleocapsid;protein_id=AFG25751.1
+JF792616.1	Genbank	CDS	29673	30296	.	+	0	ID=cds-AFG25755.1;Dbxref=NCBI_GP:AFG25755.1;Name=AFG25755.1;gbkey=CDS;product=internal protein;protein_id=AFG25755.1
+

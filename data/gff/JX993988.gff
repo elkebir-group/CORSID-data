@@ -1,0 +1,11 @@
+##sequence-region JX993988.1 1 29452
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1283333
+JX993988.1	Genbank	region	1	29452	.	+	.	ID=JX993988.1:1..29452;Dbxref=taxon:1283333;collection-date=2011;country=China;gbkey=Src;genome=genomic;isolate=Cp/Yunnan2011;mol_type=genomic RNA;nat-host=Chaerephon plicata;old-name=Bat Cp-coronavirus/Yunnan2011
+JX993988.1	Genbank	CDS	161	13312	.	+	0	ID=cds-AGC74171.1;Dbxref=NCBI_GP:AGC74171.1;Name=AGC74171.1;gbkey=CDS;product=ORF1a protein;protein_id=AGC74171.1
+JX993988.1	Genbank	CDS	13498	21384	.	+	0	ID=cds-AGC74177.1;Dbxref=NCBI_GP:AGC74177.1;Name=AGC74177.1;gbkey=CDS;product=ORF1b protein;protein_id=AGC74177.1
+JX993988.1	Genbank	CDS	21391	25116	.	+	0	ID=cds-AGC74176.1;Dbxref=NCBI_GP:AGC74176.1;Name=AGC74176.1;gbkey=CDS;product=spike protein;protein_id=AGC74176.1
+JX993988.1	Genbank	CDS	25126	25950	.	+	0	ID=cds-AGC74172.1;Dbxref=NCBI_GP:AGC74172.1;Name=AGC74172.1;gbkey=CDS;product=ORF3 protein;protein_id=AGC74172.1
+JX993988.1	Genbank	CDS	25975	26205	.	+	0	ID=cds-AGC74173.1;Dbxref=NCBI_GP:AGC74173.1;Name=AGC74173.1;gbkey=CDS;product=envelope protein;protein_id=AGC74173.1
+JX993988.1	Genbank	CDS	26256	26921	.	+	0	ID=cds-AGC74174.1;Dbxref=NCBI_GP:AGC74174.1;Name=AGC74174.1;gbkey=CDS;product=membrane protein;protein_id=AGC74174.1
+JX993988.1	Genbank	CDS	28017	29285	.	+	0	ID=cds-AGC74175.1;Dbxref=NCBI_GP:AGC74175.1;Name=AGC74175.1;gbkey=CDS;product=nucleocapsid protein;protein_id=AGC74175.1
+

@@ -1,0 +1,13 @@
+##sequence-region MK167038.1 1 29921
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=290028
+MK167038.1	Genbank	region	1	29921	.	+	.	ID=MK167038.1:1..29921;Dbxref=taxon:290028;collection-date=2017;country=USA;gb-acronym=HCoV-HKU1;gbkey=Src;mol_type=genomic RNA;nat-host=Homo sapiens;strain=SC2521
+MK167038.1	Genbank	CDS	206	13597	.	+	0	ID=cds-AZS52616.1;Dbxref=NCBI_GP:AZS52616.1;Name=AZS52616.1;exception=Ribosomal Slippage;gbkey=CDS;product=orf1ab polyprotein;protein_id=AZS52616.1
+MK167038.1	Genbank	CDS	13597	21750	.	+	0	ID=cds-AZS52616.1;Dbxref=NCBI_GP:AZS52616.1;Name=AZS52616.1;exception=Ribosomal Slippage;gbkey=CDS;product=orf1ab polyprotein;protein_id=AZS52616.1
+MK167038.1	Genbank	CDS	21783	22943	.	+	0	ID=cds-AZS52617.1;Dbxref=NCBI_GP:AZS52617.1;Name=AZS52617.1;gbkey=CDS;product=hemagglutinin-esterase glycoprotein;protein_id=AZS52617.1
+MK167038.1	Genbank	CDS	22952	27007	.	+	0	ID=cds-AZS52618.1;Dbxref=NCBI_GP:AZS52618.1;Name=AZS52618.1;gbkey=CDS;product=spike glycoprotein;protein_id=AZS52618.1
+MK167038.1	Genbank	CDS	27046	27375	.	+	0	ID=cds-AZS52619.1;Dbxref=NCBI_GP:AZS52619.1;Name=AZS52619.1;gbkey=CDS;product=hypothetical protein;protein_id=AZS52619.1
+MK167038.1	Genbank	CDS	27368	27616	.	+	0	ID=cds-AZS52620.1;Dbxref=NCBI_GP:AZS52620.1;Name=AZS52620.1;gbkey=CDS;product=small membrane protein;protein_id=AZS52620.1
+MK167038.1	Genbank	CDS	27628	28299	.	+	0	ID=cds-AZS52621.1;Dbxref=NCBI_GP:AZS52621.1;Name=AZS52621.1;gbkey=CDS;product=membrane glycoprotein;protein_id=AZS52621.1
+MK167038.1	Genbank	CDS	28315	29640	.	+	0	ID=cds-AZS52622.1;Dbxref=NCBI_GP:AZS52622.1;Name=AZS52622.1;gbkey=CDS;product=nucleocapsid protein;protein_id=AZS52622.1
+MK167038.1	Genbank	CDS	28337	28954	.	+	0	ID=cds-AZS52623.1;Dbxref=NCBI_GP:AZS52623.1;Name=AZS52623.1;gbkey=CDS;product=Orf8;protein_id=AZS52623.1
+

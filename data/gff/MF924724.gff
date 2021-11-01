@@ -1,0 +1,33 @@
+##sequence-region MF924724.1 1 27623
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+MF924724.1	Genbank	region	1	27623	.	+	.	ID=MF924724.1:1..27623;Dbxref=taxon:11120;collection-date=11-Dec-2008;country=South Korea;gbkey=Src;genome=genomic;isolate=BP-CaKII;mol_type=genomic RNA;nat-host=Gallus gallus
+MF924724.1	Genbank	five_prime_UTR	1	528	.	+	.	ID=id-MF924724.1:1..528;gbkey=5'UTR
+MF924724.1	Genbank	gene	529	20417	.	+	.	ID=gene-1ab;Name=1ab;gbkey=Gene;gene=1ab;gene_biotype=protein_coding
+MF924724.1	Genbank	CDS	529	12353	.	+	0	ID=cds-AYG86358.1;Parent=gene-1ab;Dbxref=NCBI_GP:AYG86358.1;Name=AYG86358.1;Note=translational frameshift results in expression of ORF1a and ORF1b as a single polyprotein;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=polyprotein 1ab;protein_id=AYG86358.1
+MF924724.1	Genbank	CDS	12353	20417	.	+	1	ID=cds-AYG86358.1;Parent=gene-1ab;Dbxref=NCBI_GP:AYG86358.1;Name=AYG86358.1;Note=translational frameshift results in expression of ORF1a and ORF1b as a single polyprotein;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=polyprotein 1ab;protein_id=AYG86358.1
+MF924724.1	Genbank	gene	529	12387	.	+	.	ID=gene-1a;Name=1a;gbkey=Gene;gene=1a;gene_biotype=protein_coding
+MF924724.1	Genbank	CDS	529	12384	.	+	0	ID=cds-AYG86346.1;Parent=gene-1a;Dbxref=NCBI_GP:AYG86346.1;Name=AYG86346.1;Note=1a;gbkey=CDS;gene=1a;product=polymerase/replicase;protein_id=AYG86346.1
+MF924724.1	Genbank	gene	20368	23856	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MF924724.1	Genbank	CDS	20368	23856	.	+	0	ID=cds-AYG86347.1;Parent=gene-S;Dbxref=NCBI_GP:AYG86347.1;Name=AYG86347.1;Note=spike protein;gbkey=CDS;gene=S;product=S protein;protein_id=AYG86347.1
+MF924724.1	Genbank	gene	23856	24002	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+MF924724.1	Genbank	CDS	23856	24002	.	+	0	ID=cds-AYG86348.1;Parent=gene-3a;Dbxref=NCBI_GP:AYG86348.1;Name=AYG86348.1;Note=ORF 3a;gbkey=CDS;gene=3a;product=3a protein;protein_id=AYG86348.1
+MF924724.1	Genbank	gene	23989	24177	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+MF924724.1	Genbank	CDS	23989	24177	.	+	0	ID=cds-AYG86349.1;Parent=gene-3b;Dbxref=NCBI_GP:AYG86349.1;Name=AYG86349.1;Note=ORF 3b;gbkey=CDS;gene=3b;product=3b protein;protein_id=AYG86349.1
+MF924724.1	Genbank	gene	24161	24490	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MF924724.1	Genbank	CDS	24161	24490	.	+	0	ID=cds-AYG86350.1;Parent=gene-E;Dbxref=NCBI_GP:AYG86350.1;Name=AYG86350.1;Note=E protein%3B small membrane protein;gbkey=CDS;gene=E;product=envelope protein;protein_id=AYG86350.1
+MF924724.1	Genbank	gene	24459	25139	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MF924724.1	Genbank	CDS	24459	25139	.	+	0	ID=cds-AYG86351.1;Parent=gene-M;Dbxref=NCBI_GP:AYG86351.1;Name=AYG86351.1;Note=structural protein;gbkey=CDS;gene=M;product=membrane glycoprotein;protein_id=AYG86351.1
+MF924724.1	Genbank	gene	25140	25424	.	+	.	ID=gene-4b;Name=4b;gbkey=Gene;gene=4b;gene_biotype=protein_coding
+MF924724.1	Genbank	CDS	25140	25424	.	+	0	ID=cds-AYG86352.1;Parent=gene-4b;Dbxref=NCBI_GP:AYG86352.1;Name=AYG86352.1;Note=ORF 4b;gbkey=CDS;gene=4b;product=4b protein;protein_id=AYG86352.1
+MF924724.1	Genbank	gene	25345	25515	.	+	.	ID=gene-4c;Name=4c;gbkey=Gene;gene=4c;gene_biotype=protein_coding
+MF924724.1	Genbank	CDS	25345	25515	.	+	0	ID=cds-AYG86353.1;Parent=gene-4c;Dbxref=NCBI_GP:AYG86353.1;Name=AYG86353.1;Note=ORF 4c;gbkey=CDS;gene=4c;product=4c protein;protein_id=AYG86353.1
+MF924724.1	Genbank	gene	25499	25696	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+MF924724.1	Genbank	CDS	25499	25696	.	+	0	ID=cds-AYG86354.1;Parent=gene-5a;Dbxref=NCBI_GP:AYG86354.1;Name=AYG86354.1;Note=ORF 5a;gbkey=CDS;gene=5a;product=5a protein;protein_id=AYG86354.1
+MF924724.1	Genbank	gene	25693	25941	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+MF924724.1	Genbank	CDS	25693	25941	.	+	0	ID=cds-AYG86355.1;Parent=gene-5b;Dbxref=NCBI_GP:AYG86355.1;Name=AYG86355.1;Note=ORF 5b;gbkey=CDS;gene=5b;product=5b protein;protein_id=AYG86355.1
+MF924724.1	Genbank	gene	25884	27113	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MF924724.1	Genbank	CDS	25884	27113	.	+	0	ID=cds-AYG86356.1;Parent=gene-N;Dbxref=NCBI_GP:AYG86356.1;Name=AYG86356.1;Note=structural protein;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=AYG86356.1
+MF924724.1	Genbank	gene	27122	27343	.	+	.	ID=gene-6b;Name=6b;gbkey=Gene;gene=6b;gene_biotype=protein_coding
+MF924724.1	Genbank	CDS	27122	27343	.	+	0	ID=cds-AYG86357.1;Parent=gene-6b;Dbxref=NCBI_GP:AYG86357.1;Name=AYG86357.1;Note=ORF 6b;gbkey=CDS;gene=6b;product=6b protein;protein_id=AYG86357.1
+MF924724.1	Genbank	three_prime_UTR	27344	27623	.	+	.	ID=id-MF924724.1:27344..27623;gbkey=3'UTR
+

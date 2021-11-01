@@ -1,0 +1,21 @@
+##sequence-region AY514485.1 1 27693
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+AY514485.1	Genbank	region	1	27693	.	+	.	ID=AY514485.1:1..27693;Dbxref=taxon:11120;country=USA;gbkey=Src;mol_type=genomic RNA;old-name=Avian infectious bronchitis virus;serotype=California 99;strain=Cal99
+AY514485.1	Genbank	gene	527	20421	.	+	.	ID=gene-1;Name=1;gbkey=Gene;gene=1;gene_biotype=protein_coding
+AY514485.1	Genbank	CDS	527	12358	.	+	0	ID=cds-AAS00078.1;Parent=gene-1;Dbxref=NCBI_GP:AAS00078.1;Name=AAS00078.1;exception=ribosomal slippage;gbkey=CDS;gene=1;product=1ab;protein_id=AAS00078.1
+AY514485.1	Genbank	CDS	12358	20421	.	+	0	ID=cds-AAS00078.1;Parent=gene-1;Dbxref=NCBI_GP:AAS00078.1;Name=AAS00078.1;exception=ribosomal slippage;gbkey=CDS;gene=1;product=1ab;protein_id=AAS00078.1
+AY514485.1	Genbank	CDS	527	12388	.	+	0	ID=cds-AAS00079.1;Parent=gene-1;Dbxref=NCBI_GP:AAS00079.1;Name=AAS00079.1;gbkey=CDS;gene=1;product=1a;protein_id=AAS00079.1
+AY514485.1	Genbank	gene	20372	23881	.	+	.	ID=gene-2;Name=2;gbkey=Gene;gene=2;gene_biotype=protein_coding
+AY514485.1	Genbank	CDS	20372	23881	.	+	0	ID=cds-AAS00080.1;Parent=gene-2;Dbxref=NCBI_GP:AAS00080.1;Name=AAS00080.1;gbkey=CDS;gene=2;product=spike glycoprotein;protein_id=AAS00080.1
+AY514485.1	Genbank	gene	23881	24558	.	+	.	ID=gene-3;Name=3;gbkey=Gene;gene=3;gene_biotype=protein_coding
+AY514485.1	Genbank	CDS	23881	24054	.	+	0	ID=cds-AAS00081.1;Parent=gene-3;Dbxref=NCBI_GP:AAS00081.1;Name=AAS00081.1;gbkey=CDS;gene=3;product=3a protein;protein_id=AAS00081.1
+AY514485.1	Genbank	CDS	24054	24248	.	+	0	ID=cds-AAS00082.1;Parent=gene-3;Dbxref=NCBI_GP:AAS00082.1;Name=AAS00082.1;gbkey=CDS;gene=3;product=3b protein;protein_id=AAS00082.1
+AY514485.1	Genbank	CDS	24229	24558	.	+	0	ID=cds-AAS00083.1;Parent=gene-3;Dbxref=NCBI_GP:AAS00083.1;Name=AAS00083.1;gbkey=CDS;gene=3;product=envelope protein;protein_id=AAS00083.1
+AY514485.1	Genbank	gene	24530	25207	.	+	.	ID=gene-4;Name=4;gbkey=Gene;gene=4;gene_biotype=protein_coding
+AY514485.1	Genbank	CDS	24530	25207	.	+	0	ID=cds-AAS00084.1;Parent=gene-4;Dbxref=NCBI_GP:AAS00084.1;Name=AAS00084.1;gbkey=CDS;gene=4;product=membrane glycoprotein;protein_id=AAS00084.1
+AY514485.1	Genbank	gene	25567	26009	.	+	.	ID=gene-5;Name=5;gbkey=Gene;gene=5;gene_biotype=protein_coding
+AY514485.1	Genbank	CDS	25567	25764	.	+	0	ID=cds-AAS00085.1;Parent=gene-5;Dbxref=NCBI_GP:AAS00085.1;Name=AAS00085.1;gbkey=CDS;gene=5;product=5a protein;protein_id=AAS00085.1
+AY514485.1	Genbank	CDS	25761	26009	.	+	0	ID=cds-AAS00086.1;Parent=gene-5;Dbxref=NCBI_GP:AAS00086.1;Name=AAS00086.1;gbkey=CDS;gene=5;product=5b protein;protein_id=AAS00086.1
+AY514485.1	Genbank	gene	25952	27181	.	+	.	ID=gene-6;Name=6;gbkey=Gene;gene=6;gene_biotype=protein_coding
+AY514485.1	Genbank	CDS	25952	27181	.	+	0	ID=cds-AAS00087.1;Parent=gene-6;Dbxref=NCBI_GP:AAS00087.1;Name=AAS00087.1;gbkey=CDS;gene=6;product=nucleocapsid protein;protein_id=AAS00087.1
+

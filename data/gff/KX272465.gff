@@ -1,0 +1,17 @@
+##sequence-region KX272465.1 1 27646
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+KX272465.1	Genbank	region	1	27646	.	+	.	ID=KX272465.1:1..27646;Dbxref=taxon:11120;collection-date=01-Dec-2014;country=Sudan;gbkey=Src;genome=genomic;isolate=AR251-15;mol_type=genomic RNA;nat-host=Gallus gallus
+KX272465.1	Genbank	CDS	453	12254	.	+	0	ID=cds-APY20692.1;Dbxref=NCBI_GP:APY20692.1;Name=APY20692.1;gbkey=CDS;product=ORF1a;protein_id=APY20692.1
+KX272465.1	Genbank	CDS	12329	20287	.	+	0	ID=cds-APY20693.1;Dbxref=NCBI_GP:APY20693.1;Name=APY20693.1;gbkey=CDS;product=ORF1b;protein_id=APY20693.1
+KX272465.1	Genbank	CDS	20238	23735	.	+	0	ID=cds-APY20694.1;Dbxref=NCBI_GP:APY20694.1;Name=APY20694.1;gbkey=CDS;product=spike glycoprotein;protein_id=APY20694.1
+KX272465.1	Genbank	CDS	23735	23908	.	+	0	ID=cds-APY20695.1;Dbxref=NCBI_GP:APY20695.1;Name=APY20695.1;gbkey=CDS;product=3a protein;protein_id=APY20695.1
+KX272465.1	Genbank	CDS	23908	24099	.	+	0	ID=cds-APY20696.1;Dbxref=NCBI_GP:APY20696.1;Name=APY20696.1;gbkey=CDS;product=3b protein;protein_id=APY20696.1
+KX272465.1	Genbank	CDS	24080	24412	.	+	0	ID=cds-APY20697.1;Dbxref=NCBI_GP:APY20697.1;Name=APY20697.1;gbkey=CDS;product=small virion-associated protein;protein_id=APY20697.1
+KX272465.1	Genbank	CDS	24381	25061	.	+	0	ID=cds-APY20698.1;Dbxref=NCBI_GP:APY20698.1;Name=APY20698.1;gbkey=CDS;product=membrane protein;protein_id=APY20698.1
+KX272465.1	Genbank	CDS	25062	25355	.	+	0	ID=cds-APY20699.1;Dbxref=NCBI_GP:APY20699.1;Name=APY20699.1;gbkey=CDS;product=4b protein;protein_id=APY20699.1
+KX272465.1	Genbank	CDS	25267	25437	.	+	0	ID=cds-APY20700.1;Dbxref=NCBI_GP:APY20700.1;Name=APY20700.1;gbkey=CDS;product=4c protein;protein_id=APY20700.1
+KX272465.1	Genbank	CDS	25421	25618	.	+	0	ID=cds-APY20701.1;Dbxref=NCBI_GP:APY20701.1;Name=APY20701.1;gbkey=CDS;product=5a protein;protein_id=APY20701.1
+KX272465.1	Genbank	CDS	25615	25863	.	+	0	ID=cds-APY20702.1;Dbxref=NCBI_GP:APY20702.1;Name=APY20702.1;gbkey=CDS;product=5b protein;protein_id=APY20702.1
+KX272465.1	Genbank	CDS	25806	27035	.	+	0	ID=cds-APY20703.1;Dbxref=NCBI_GP:APY20703.1;Name=APY20703.1;gbkey=CDS;product=nucleocapsid protein;protein_id=APY20703.1
+KX272465.1	Genbank	CDS	27044	27268	.	+	0	ID=cds-APY20704.1;Dbxref=NCBI_GP:APY20704.1;Name=APY20704.1;gbkey=CDS;product=6b protein;protein_id=APY20704.1
+

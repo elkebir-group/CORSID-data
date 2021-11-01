@@ -1,0 +1,18 @@
+##sequence-region KF367457.1 1 30309
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1415852
+KF367457.1	Genbank	region	1	30309	.	+	.	ID=KF367457.1:1..30309;Dbxref=taxon:1415852;collection-date=Sep-2012;country=China;gbkey=Src;genome=genomic;isolate=WIV1;mol_type=genomic RNA;nat-host=Rhinolophus sinicus
+KF367457.1	Genbank	CDS	265	13398	.	+	0	ID=cds-AGZ48830.1;Dbxref=NCBI_GP:AGZ48830.1;Name=AGZ48830.1;exception=ribosomal slippage;gbkey=CDS;product=non-structural polyprotein 1ab;protein_id=AGZ48830.1
+KF367457.1	Genbank	CDS	13398	21485	.	+	0	ID=cds-AGZ48830.1;Dbxref=NCBI_GP:AGZ48830.1;Name=AGZ48830.1;exception=ribosomal slippage;gbkey=CDS;product=non-structural polyprotein 1ab;protein_id=AGZ48830.1
+KF367457.1	Genbank	CDS	265	13413	.	+	0	ID=cds-AGZ48829.1;Dbxref=NCBI_GP:AGZ48829.1;Name=AGZ48829.1;gbkey=CDS;product=non-structural polyprotein 1a;protein_id=AGZ48829.1
+KF367457.1	Genbank	CDS	21492	25262	.	+	0	ID=cds-AGZ48831.1;Dbxref=NCBI_GP:AGZ48831.1;Name=AGZ48831.1;gbkey=CDS;product=spike protein;protein_id=AGZ48831.1
+KF367457.1	Genbank	CDS	25271	26095	.	+	0	ID=cds-AGZ48832.1;Dbxref=NCBI_GP:AGZ48832.1;Name=AGZ48832.1;gbkey=CDS;product=hypothetical protein 3a;protein_id=AGZ48832.1
+KF367457.1	Genbank	CDS	25692	26036	.	+	0	ID=cds-AGZ48833.1;Dbxref=NCBI_GP:AGZ48833.1;Name=AGZ48833.1;gbkey=CDS;product=hypothetical protein 3b;protein_id=AGZ48833.1
+KF367457.1	Genbank	CDS	26120	26350	.	+	0	ID=cds-AGZ48834.1;Dbxref=NCBI_GP:AGZ48834.1;Name=AGZ48834.1;gbkey=CDS;product=envelope protein;protein_id=AGZ48834.1
+KF367457.1	Genbank	CDS	26401	27066	.	+	0	ID=cds-AGZ48835.1;Dbxref=NCBI_GP:AGZ48835.1;Name=AGZ48835.1;gbkey=CDS;product=membrane protein;protein_id=AGZ48835.1
+KF367457.1	Genbank	CDS	27077	27268	.	+	0	ID=cds-AGZ48837.1;Dbxref=NCBI_GP:AGZ48837.1;Name=AGZ48837.1;gbkey=CDS;product=hypothetical protein;protein_id=AGZ48837.1
+KF367457.1	Genbank	CDS	27282	27575	.	+	0	ID=cds-AGZ48836.1;Dbxref=NCBI_GP:AGZ48836.1;Name=AGZ48836.1;gbkey=CDS;product=hypothetical protein;protein_id=AGZ48836.1
+KF367457.1	Genbank	CDS	27800	28168	.	+	0	ID=cds-AGZ48838.1;Dbxref=NCBI_GP:AGZ48838.1;Name=AGZ48838.1;gbkey=CDS;product=hypothetical protein;protein_id=AGZ48838.1
+KF367457.1	Genbank	CDS	28165	28299	.	+	0	ID=cds-AGZ48839.1;Dbxref=NCBI_GP:AGZ48839.1;Name=AGZ48839.1;gbkey=CDS;product=hypothetical protein;protein_id=AGZ48839.1
+KF367457.1	Genbank	CDS	28306	28671	.	+	0	ID=cds-AGZ48840.1;Dbxref=NCBI_GP:AGZ48840.1;Name=AGZ48840.1;gbkey=CDS;product=hypothetical protein;protein_id=AGZ48840.1
+KF367457.1	Genbank	CDS	28686	29954	.	+	0	ID=cds-AGZ48841.1;Dbxref=NCBI_GP:AGZ48841.1;Name=AGZ48841.1;gbkey=CDS;product=nucleocapsid protein;protein_id=AGZ48841.1
+

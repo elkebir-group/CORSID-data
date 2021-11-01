@@ -1,0 +1,15 @@
+##sequence-region FJ904714.1 1 27664
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+FJ904714.1	Genbank	region	1	27664	.	+	.	ID=FJ904714.1:1..27664;Dbxref=taxon:11120;collection-date=1995;country=USA;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=chicken;serotype=California;strain=Cal 1995
+FJ904714.1	Genbank	CDS	529	12357	.	+	0	ID=cds-ADA83486.1;Dbxref=NCBI_GP:ADA83486.1;Name=ADA83486.1;exception=ribosomal slippage;gbkey=CDS;product=replicase polyprotein 1ab;protein_id=ADA83486.1
+FJ904714.1	Genbank	CDS	12357	20423	.	+	0	ID=cds-ADA83486.1;Dbxref=NCBI_GP:ADA83486.1;Name=ADA83486.1;exception=ribosomal slippage;gbkey=CDS;product=replicase polyprotein 1ab;protein_id=ADA83486.1
+FJ904714.1	Genbank	CDS	529	12390	.	+	0	ID=cds-ADA83485.1;Dbxref=NCBI_GP:ADA83485.1;Name=ADA83485.1;gbkey=CDS;product=replicase polyprotein 1a;protein_id=ADA83485.1
+FJ904714.1	Genbank	CDS	20374	23874	.	+	0	ID=cds-ADA83477.1;Dbxref=NCBI_GP:ADA83477.1;Name=ADA83477.1;gbkey=CDS;product=spike glycoprotein;protein_id=ADA83477.1
+FJ904714.1	Genbank	CDS	23874	24047	.	+	0	ID=cds-ADA83478.1;Dbxref=NCBI_GP:ADA83478.1;Name=ADA83478.1;gbkey=CDS;product=3a protein;protein_id=ADA83478.1
+FJ904714.1	Genbank	CDS	24047	24241	.	+	0	ID=cds-ADA83479.1;Dbxref=NCBI_GP:ADA83479.1;Name=ADA83479.1;gbkey=CDS;product=3b protein;protein_id=ADA83479.1
+FJ904714.1	Genbank	CDS	24222	24503	.	+	0	ID=cds-ADA83480.1;Dbxref=NCBI_GP:ADA83480.1;Name=ADA83480.1;gbkey=CDS;product=envelope protein;protein_id=ADA83480.1
+FJ904714.1	Genbank	CDS	24500	25177	.	+	0	ID=cds-ADA83481.1;Dbxref=NCBI_GP:ADA83481.1;Name=ADA83481.1;gbkey=CDS;product=membrane protein;protein_id=ADA83481.1
+FJ904714.1	Genbank	CDS	25537	25734	.	+	0	ID=cds-ADA83483.1;Dbxref=NCBI_GP:ADA83483.1;Name=ADA83483.1;gbkey=CDS;product=5a protein;protein_id=ADA83483.1
+FJ904714.1	Genbank	CDS	25731	25979	.	+	0	ID=cds-ADA83484.1;Dbxref=NCBI_GP:ADA83484.1;Name=ADA83484.1;gbkey=CDS;product=5b protein;protein_id=ADA83484.1
+FJ904714.1	Genbank	CDS	25922	27151	.	+	0	ID=cds-ADA83482.1;Dbxref=NCBI_GP:ADA83482.1;Name=ADA83482.1;gbkey=CDS;product=nucleocapsid protein;protein_id=ADA83482.1
+

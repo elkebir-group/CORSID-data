@@ -1,0 +1,17 @@
+##sequence-region NC_028833.1 1 27783
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1503291
+NC_028833.1	RefSeq	region	1	27783	.	+	.	ID=NC_028833.1:1..27783;Dbxref=taxon:1503291;collection-date=2013;country=China;gbkey=Src;genome=genomic;isolate=BtNv-SC2013;mol_type=genomic RNA;nat-host=Nyctalus velutinus
+NC_028833.1	RefSeq	gene	214	20009	.	+	.	ID=gene-AVU58_gp1;Dbxref=GeneID:26628975;Name=AVU58_gp1;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AVU58_gp1
+NC_028833.1	RefSeq	CDS	214	11985	.	+	0	ID=cds-YP_009201729.1;Parent=gene-AVU58_gp1;Dbxref=Genbank:YP_009201729.1,GeneID:26628975;Name=YP_009201729.1;exception=ribosomal slippage;gbkey=CDS;locus_tag=AVU58_gp1;product=ORF1ab polyprotein;protein_id=YP_009201729.1
+NC_028833.1	RefSeq	CDS	11985	20009	.	+	0	ID=cds-YP_009201729.1;Parent=gene-AVU58_gp1;Dbxref=Genbank:YP_009201729.1,GeneID:26628975;Name=YP_009201729.1;exception=ribosomal slippage;gbkey=CDS;locus_tag=AVU58_gp1;product=ORF1ab polyprotein;protein_id=YP_009201729.1
+NC_028833.1	RefSeq	gene	20083	24114	.	+	.	ID=gene-AVU58_gp2;Dbxref=GeneID:26628970;Name=AVU58_gp2;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AVU58_gp2
+NC_028833.1	RefSeq	CDS	20083	24114	.	+	0	ID=cds-YP_009201730.1;Parent=gene-AVU58_gp2;Dbxref=Genbank:YP_009201730.1,GeneID:26628970;Name=YP_009201730.1;gbkey=CDS;locus_tag=AVU58_gp2;product=spike glycoprotein;protein_id=YP_009201730.1
+NC_028833.1	RefSeq	gene	24114	24737	.	+	.	ID=gene-AVU58_gp3;Dbxref=GeneID:26628971;Name=AVU58_gp3;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AVU58_gp3
+NC_028833.1	RefSeq	CDS	24114	24737	.	+	0	ID=cds-YP_009201731.1;Parent=gene-AVU58_gp3;Dbxref=Genbank:YP_009201731.1,GeneID:26628971;Name=YP_009201731.1;gbkey=CDS;locus_tag=AVU58_gp3;product=hypothetical protein ORF3;protein_id=YP_009201731.1
+NC_028833.1	RefSeq	gene	24762	24989	.	+	.	ID=gene-AVU58_gp4;Dbxref=GeneID:26628972;Name=AVU58_gp4;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AVU58_gp4
+NC_028833.1	RefSeq	CDS	24762	24989	.	+	0	ID=cds-YP_009201732.1;Parent=gene-AVU58_gp4;Dbxref=Genbank:YP_009201732.1,GeneID:26628972;Name=YP_009201732.1;gbkey=CDS;locus_tag=AVU58_gp4;product=small envelope protein;protein_id=YP_009201732.1
+NC_028833.1	RefSeq	gene	24996	25682	.	+	.	ID=gene-AVU58_gp5;Dbxref=GeneID:26628973;Name=AVU58_gp5;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AVU58_gp5
+NC_028833.1	RefSeq	CDS	24996	25682	.	+	0	ID=cds-YP_009201733.1;Parent=gene-AVU58_gp5;Dbxref=Genbank:YP_009201733.1,GeneID:26628973;Name=YP_009201733.1;gbkey=CDS;locus_tag=AVU58_gp5;product=membrane glycoprotein;protein_id=YP_009201733.1
+NC_028833.1	RefSeq	gene	25691	26986	.	+	.	ID=gene-AVU58_gp6;Dbxref=GeneID:26628974;Name=AVU58_gp6;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AVU58_gp6
+NC_028833.1	RefSeq	CDS	25691	26986	.	+	0	ID=cds-YP_009201734.1;Parent=gene-AVU58_gp6;Dbxref=Genbank:YP_009201734.1,GeneID:26628974;Name=YP_009201734.1;gbkey=CDS;locus_tag=AVU58_gp6;product=nucleocapsid protein;protein_id=YP_009201734.1
+

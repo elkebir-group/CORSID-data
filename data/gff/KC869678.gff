@@ -1,0 +1,27 @@
+##sequence-region KC869678.4 1 30111
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1368314
+KC869678.4	Genbank	region	1	30111	.	+	.	ID=KC869678.4:1..30111;Dbxref=taxon:1368314;collection-date=2011;country=South Africa;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Neoromicia capensis;old-name=Coronavirus Neoromicia/GrNC5/RSA/2012;strain=Neoromicia/PML-PHE1/RSA/2011
+KC869678.4	Genbank	gene	281	21528	.	+	.	ID=gene-ORF1ab;Name=ORF1ab;gbkey=Gene;gene=ORF1ab;gene_biotype=protein_coding
+KC869678.4	Genbank	CDS	281	13444	.	+	0	ID=cds-AGR87639.3;Parent=gene-ORF1ab;Dbxref=NCBI_GP:AGR87639.3;Name=AGR87639.3;Note=contains RNA-dependent RNA polymerase;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;product=ORF1ab polyprotein;protein_id=AGR87639.3
+KC869678.4	Genbank	CDS	13444	21528	.	+	0	ID=cds-AGR87639.3;Parent=gene-ORF1ab;Dbxref=NCBI_GP:AGR87639.3;Name=AGR87639.3;Note=contains RNA-dependent RNA polymerase;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;product=ORF1ab polyprotein;protein_id=AGR87639.3
+KC869678.4	Genbank	gene	281	13465	.	+	.	ID=gene-ORF1a;Name=ORF1a;gbkey=Gene;gene=ORF1a;gene_biotype=protein_coding
+KC869678.4	Genbank	CDS	281	13465	.	+	0	ID=cds-AIG13097.1;Parent=gene-ORF1a;Dbxref=NCBI_GP:AIG13097.1;Name=AIG13097.1;gbkey=CDS;gene=ORF1a;product=ORF1a polyprotein;protein_id=AIG13097.1
+KC869678.4	Genbank	gene	21470	25504	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KC869678.4	Genbank	CDS	21470	25504	.	+	0	ID=cds-AGY29650.2;Parent=gene-S;Dbxref=NCBI_GP:AGY29650.2;Name=AGY29650.2;gbkey=CDS;gene=S;product=spike protein;protein_id=AGY29650.2
+KC869678.4	Genbank	gene	25519	25830	.	+	.	ID=gene-ORF3;Name=ORF3;gbkey=Gene;gene=ORF3;gene_biotype=protein_coding
+KC869678.4	Genbank	CDS	25519	25830	.	+	0	ID=cds-AGY29651.2;Parent=gene-ORF3;Dbxref=NCBI_GP:AGY29651.2;Name=AGY29651.2;gbkey=CDS;gene=ORF3;product=ORF3 protein;protein_id=AGY29651.2
+KC869678.4	Genbank	gene	25839	26168	.	+	.	ID=gene-ORF4a;Name=ORF4a;gbkey=Gene;gene=ORF4a;gene_biotype=protein_coding
+KC869678.4	Genbank	CDS	25839	26168	.	+	0	ID=cds-AIG13098.1;Parent=gene-ORF4a;Dbxref=NCBI_GP:AIG13098.1;Name=AIG13098.1;gbkey=CDS;gene=ORF4a;product=ORF4a protein;protein_id=AIG13098.1
+KC869678.4	Genbank	gene	26044	26820	.	+	.	ID=gene-ORF4b;Name=ORF4b;gbkey=Gene;gene=ORF4b;gene_biotype=protein_coding
+KC869678.4	Genbank	CDS	26044	26820	.	+	0	ID=cds-AIG13099.1;Parent=gene-ORF4b;Dbxref=NCBI_GP:AIG13099.1;Name=AIG13099.1;gbkey=CDS;gene=ORF4b;product=ORF4b protein;protein_id=AIG13099.1
+KC869678.4	Genbank	gene	26827	27501	.	+	.	ID=gene-ORF5;Name=ORF5;gbkey=Gene;gene=ORF5;gene_biotype=protein_coding
+KC869678.4	Genbank	CDS	26827	27501	.	+	0	ID=cds-AIG13100.1;Parent=gene-ORF5;Dbxref=NCBI_GP:AIG13100.1;Name=AIG13100.1;gbkey=CDS;gene=ORF5;product=ORF5 protein;protein_id=AIG13100.1
+KC869678.4	Genbank	gene	27577	27825	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+KC869678.4	Genbank	CDS	27577	27825	.	+	0	ID=cds-AIG13101.1;Parent=gene-E;Dbxref=NCBI_GP:AIG13101.1;Name=AIG13101.1;gbkey=CDS;gene=E;product=E protein;protein_id=AIG13101.1
+KC869678.4	Genbank	gene	27840	28499	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KC869678.4	Genbank	CDS	27840	28499	.	+	0	ID=cds-AIG13102.1;Parent=gene-M;Dbxref=NCBI_GP:AIG13102.1;Name=AIG13102.1;gbkey=CDS;gene=M;product=M protein;protein_id=AIG13102.1
+KC869678.4	Genbank	gene	28557	29801	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KC869678.4	Genbank	CDS	28557	29801	.	+	0	ID=cds-AIG13103.1;Parent=gene-N;Dbxref=NCBI_GP:AIG13103.1;Name=AIG13103.1;gbkey=CDS;gene=N;product=N protein;protein_id=AIG13103.1
+KC869678.4	Genbank	gene	28603	29202	.	+	.	ID=gene-ORF8b;Name=ORF8b;gbkey=Gene;gene=ORF8b;gene_biotype=protein_coding
+KC869678.4	Genbank	CDS	28603	29202	.	+	0	ID=cds-AIG13104.1;Parent=gene-ORF8b;Dbxref=NCBI_GP:AIG13104.1;Name=AIG13104.1;gbkey=CDS;gene=ORF8b;product=ORF8b protein;protein_id=AIG13104.1
+

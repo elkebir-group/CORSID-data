@@ -1,0 +1,23 @@
+##sequence-region KP118894.1 1 27685
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+KP118894.1	Genbank	region	1	27685	.	+	.	ID=KP118894.1:1..27685;Dbxref=taxon:11120;collection-date=2009;country=China;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Gallus gallus;strain=ck/CH/LGD/090907
+KP118894.1	Genbank	gene	526	20384	.	+	.	ID=gene-ORF1ab;Name=ORF1ab;gbkey=Gene;gene=ORF1ab;gene_biotype=protein_coding
+KP118894.1	Genbank	CDS	526	12348	.	+	0	ID=cds-AJR29312.1;Parent=gene-ORF1ab;Dbxref=NCBI_GP:AJR29312.1;Name=AJR29312.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;product=ORF1ab;protein_id=AJR29312.1
+KP118894.1	Genbank	CDS	12348	20384	.	+	0	ID=cds-AJR29312.1;Parent=gene-ORF1ab;Dbxref=NCBI_GP:AJR29312.1;Name=AJR29312.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;product=ORF1ab;protein_id=AJR29312.1
+KP118894.1	Genbank	gene	20335	23838	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KP118894.1	Genbank	CDS	20335	23838	.	+	0	ID=cds-AJR29313.1;Parent=gene-S;Dbxref=NCBI_GP:AJR29313.1;Name=AJR29313.1;gbkey=CDS;gene=S;product=spike protein;protein_id=AJR29313.1
+KP118894.1	Genbank	gene	23838	24011	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+KP118894.1	Genbank	CDS	23838	24011	.	+	0	ID=cds-AJR29314.1;Parent=gene-3a;Dbxref=NCBI_GP:AJR29314.1;Name=AJR29314.1;gbkey=CDS;gene=3a;product=3a protein;protein_id=AJR29314.1
+KP118894.1	Genbank	gene	24011	24229	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+KP118894.1	Genbank	CDS	24011	24229	.	+	0	ID=cds-AJR29315.1;Parent=gene-3b;Dbxref=NCBI_GP:AJR29315.1;Name=AJR29315.1;gbkey=CDS;gene=3b;product=3b protein;protein_id=AJR29315.1
+KP118894.1	Genbank	gene	24213	24542	.	+	.	ID=gene-3c;Name=3c;gbkey=Gene;gene=3c;gene_biotype=protein_coding
+KP118894.1	Genbank	CDS	24213	24542	.	+	0	ID=cds-AJR29316.1;Parent=gene-3c;Dbxref=NCBI_GP:AJR29316.1;Name=AJR29316.1;gbkey=CDS;gene=3c;product=E protein;protein_id=AJR29316.1
+KP118894.1	Genbank	gene	24511	25191	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KP118894.1	Genbank	CDS	24511	25191	.	+	0	ID=cds-AJR29317.1;Parent=gene-M;Dbxref=NCBI_GP:AJR29317.1;Name=AJR29317.1;gbkey=CDS;gene=M;product=M protein;protein_id=AJR29317.1
+KP118894.1	Genbank	gene	25555	25752	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+KP118894.1	Genbank	CDS	25555	25752	.	+	0	ID=cds-AJR29318.1;Parent=gene-5a;Dbxref=NCBI_GP:AJR29318.1;Name=AJR29318.1;gbkey=CDS;gene=5a;product=5a protein;protein_id=AJR29318.1
+KP118894.1	Genbank	gene	25749	25997	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+KP118894.1	Genbank	CDS	25749	25997	.	+	0	ID=cds-AJR29319.1;Parent=gene-5b;Dbxref=NCBI_GP:AJR29319.1;Name=AJR29319.1;gbkey=CDS;gene=5b;product=5b protein;protein_id=AJR29319.1
+KP118894.1	Genbank	gene	25940	27169	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KP118894.1	Genbank	CDS	25940	27169	.	+	0	ID=cds-AJR29320.1;Parent=gene-N;Dbxref=NCBI_GP:AJR29320.1;Name=AJR29320.1;gbkey=CDS;gene=N;product=N protein;protein_id=AJR29320.1
+

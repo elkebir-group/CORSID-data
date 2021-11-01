@@ -1,0 +1,19 @@
+##sequence-region MN611521.1 1 27933
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2691592
+MN611521.1	Genbank	region	1	27933	.	+	.	ID=MN611521.1:1..27933;Dbxref=taxon:2691592;collection-date=Mar-2018;country=China;gbkey=Src;genome=genomic;isolate=HK140714;mol_type=genomic RNA;nat-host=Scotophilus kuhlii
+MN611521.1	Genbank	gene	287	20676	.	+	.	ID=gene-HK140714_gp1;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding;locus_tag=HK140714_gp1
+MN611521.1	Genbank	CDS	287	12643	.	+	0	ID=cds-QHA24695.1;Parent=gene-HK140714_gp1;Dbxref=NCBI_GP:QHA24695.1;Name=QHA24695.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;locus_tag=HK140714_gp1;product=orf1ab polyprotein;protein_id=QHA24695.1
+MN611521.1	Genbank	CDS	12643	20676	.	+	0	ID=cds-QHA24695.1;Parent=gene-HK140714_gp1;Dbxref=NCBI_GP:QHA24695.1;Name=QHA24695.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;locus_tag=HK140714_gp1;product=orf1ab polyprotein;protein_id=QHA24695.1
+MN611521.1	Genbank	gene	20667	24686	.	+	.	ID=gene-HK140714_gp2;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding;locus_tag=HK140714_gp2
+MN611521.1	Genbank	CDS	20667	24686	.	+	0	ID=cds-QHA24696.1;Parent=gene-HK140714_gp2;Dbxref=NCBI_GP:QHA24696.1;Name=QHA24696.1;gbkey=CDS;gene=S;locus_tag=HK140714_gp2;product=spike glycoprotein;protein_id=QHA24696.1
+MN611521.1	Genbank	gene	24686	25360	.	+	.	ID=gene-HK140714_gp3;Name=NS3;gbkey=Gene;gene=NS3;gene_biotype=protein_coding;locus_tag=HK140714_gp3
+MN611521.1	Genbank	CDS	24686	25360	.	+	0	ID=cds-QHA24697.1;Parent=gene-HK140714_gp3;Dbxref=NCBI_GP:QHA24697.1;Name=QHA24697.1;gbkey=CDS;gene=NS3;locus_tag=HK140714_gp3;product=nonstructural protein NS3;protein_id=QHA24697.1
+MN611521.1	Genbank	gene	25341	25571	.	+	.	ID=gene-HK140714_gp4;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding;locus_tag=HK140714_gp4
+MN611521.1	Genbank	CDS	25341	25571	.	+	0	ID=cds-QHA24698.1;Parent=gene-HK140714_gp4;Dbxref=NCBI_GP:QHA24698.1;Name=QHA24698.1;gbkey=CDS;gene=E;locus_tag=HK140714_gp4;product=envelope protein;protein_id=QHA24698.1
+MN611521.1	Genbank	gene	25577	26260	.	+	.	ID=gene-HK140714_gp5;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding;locus_tag=HK140714_gp5
+MN611521.1	Genbank	CDS	25577	26260	.	+	0	ID=cds-QHA24699.1;Parent=gene-HK140714_gp5;Dbxref=NCBI_GP:QHA24699.1;Name=QHA24699.1;gbkey=CDS;gene=M;locus_tag=HK140714_gp5;product=membrane protein;protein_id=QHA24699.1
+MN611521.1	Genbank	gene	26271	27371	.	+	.	ID=gene-HK140714_gp6;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding;locus_tag=HK140714_gp6
+MN611521.1	Genbank	CDS	26271	27371	.	+	0	ID=cds-QHA24700.1;Parent=gene-HK140714_gp6;Dbxref=NCBI_GP:QHA24700.1;Name=QHA24700.1;gbkey=CDS;gene=N;locus_tag=HK140714_gp6;product=nucleocapsid protein;protein_id=QHA24700.1
+MN611521.1	Genbank	gene	27497	27718	.	+	.	ID=gene-HK140714_gp7;Name=NS7;gbkey=Gene;gene=NS7;gene_biotype=protein_coding;locus_tag=HK140714_gp7
+MN611521.1	Genbank	CDS	27497	27718	.	+	0	ID=cds-QHA24701.1;Parent=gene-HK140714_gp7;Dbxref=NCBI_GP:QHA24701.1;Name=QHA24701.1;gbkey=CDS;gene=NS7;locus_tag=HK140714_gp7;product=nonstructural protein NS7;protein_id=QHA24701.1
+

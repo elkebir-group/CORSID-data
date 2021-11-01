@@ -1,0 +1,17 @@
+##sequence-region KF569996.1 1 29805
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1487703
+KF569996.1	Genbank	region	1	29805	.	+	.	ID=KF569996.1:1..29805;Dbxref=taxon:1487703;collected-by=Yun Feng;collection-date=2011;country=China;gbkey=Src;genome=genomic;identified-by=Biao He;isolate=LYRa11;isolation-source=alimentary;mol_type=genomic RNA;nat-host=Rhinolophus affinis
+KF569996.1	Genbank	CDS	272	13420	.	+	0	ID=cds-AHX37556.1;Dbxref=NCBI_GP:AHX37556.1;Name=AHX37556.1;gbkey=CDS;product=protein 1a;protein_id=AHX37556.1
+KF569996.1	Genbank	CDS	13606	21492	.	+	0	ID=cds-AHX37557.1;Dbxref=NCBI_GP:AHX37557.1;Name=AHX37557.1;gbkey=CDS;product=protein 1b;protein_id=AHX37557.1
+KF569996.1	Genbank	CDS	21499	25278	.	+	0	ID=cds-AHX37558.1;Dbxref=NCBI_GP:AHX37558.1;Name=AHX37558.1;gbkey=CDS;product=spike protein;protein_id=AHX37558.1
+KF569996.1	Genbank	CDS	25287	26111	.	+	0	ID=cds-AHX37559.1;Dbxref=NCBI_GP:AHX37559.1;Name=AHX37559.1;gbkey=CDS;product=protein 3;protein_id=AHX37559.1
+KF569996.1	Genbank	CDS	26136	26366	.	+	0	ID=cds-AHX37560.1;Dbxref=NCBI_GP:AHX37560.1;Name=AHX37560.1;gbkey=CDS;product=envelope protein;protein_id=AHX37560.1
+KF569996.1	Genbank	CDS	26417	27082	.	+	0	ID=cds-AHX37561.1;Dbxref=NCBI_GP:AHX37561.1;Name=AHX37561.1;gbkey=CDS;product=membrane protein;protein_id=AHX37561.1
+KF569996.1	Genbank	CDS	27093	27284	.	+	0	ID=cds-AHX37562.1;Dbxref=NCBI_GP:AHX37562.1;Name=AHX37562.1;gbkey=CDS;product=protein 7;protein_id=AHX37562.1
+KF569996.1	Genbank	CDS	27292	27660	.	+	0	ID=cds-AHX37563.1;Dbxref=NCBI_GP:AHX37563.1;Name=AHX37563.1;gbkey=CDS;product=protein 8;protein_id=AHX37563.1
+KF569996.1	Genbank	CDS	27657	27791	.	+	0	ID=cds-AHX37564.1;Dbxref=NCBI_GP:AHX37564.1;Name=AHX37564.1;gbkey=CDS;product=protein 9;protein_id=AHX37564.1
+KF569996.1	Genbank	CDS	27798	28163	.	+	0	ID=cds-AHX37565.1;Dbxref=NCBI_GP:AHX37565.1;Name=AHX37565.1;gbkey=CDS;product=protein 10b;protein_id=AHX37565.1
+KF569996.1	Genbank	CDS	28178	29446	.	+	0	ID=cds-AHX37566.1;Dbxref=NCBI_GP:AHX37566.1;Name=AHX37566.1;gbkey=CDS;product=nucleocapsid protein;protein_id=AHX37566.1
+KF569996.1	Genbank	CDS	28188	28484	.	+	0	ID=cds-AHX37567.1;Dbxref=NCBI_GP:AHX37567.1;Name=AHX37567.1;gbkey=CDS;product=protein 13;protein_id=AHX37567.1
+KF569996.1	Genbank	CDS	28641	28853	.	+	0	ID=cds-AHX37568.1;Dbxref=NCBI_GP:AHX37568.1;Name=AHX37568.1;gbkey=CDS;product=protein 14;protein_id=AHX37568.1
+

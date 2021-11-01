@@ -1,0 +1,14 @@
+##sequence-region JQ173883.1 1 31161
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1163669
+JQ173883.1	Genbank	region	1	31161	.	+	.	ID=JQ173883.1:1..31161;Dbxref=taxon:1163669;gbkey=Src;genome=genomic;mol_type=genomic RNA;note=original source ATCC VR-766;old-name=Betacoronavirus MHV/S/3239-17;strain=MHV/S/3239-17
+JQ173883.1	Genbank	CDS	211	13604	.	+	0	ID=cds-AFD97615.1;Dbxref=NCBI_GP:AFD97615.1;Name=AFD97615.1;exception=ribosomal slippage;gbkey=CDS;product=1ab;protein_id=AFD97615.1
+JQ173883.1	Genbank	CDS	13604	21749	.	+	1	ID=cds-AFD97615.1;Dbxref=NCBI_GP:AFD97615.1;Name=AFD97615.1;exception=ribosomal slippage;gbkey=CDS;product=1ab;protein_id=AFD97615.1
+JQ173883.1	Genbank	CDS	211	13626	.	+	0	ID=cds-AFD97614.1;Dbxref=NCBI_GP:AFD97614.1;Name=AFD97614.1;gbkey=CDS;product=1a;protein_id=AFD97614.1
+JQ173883.1	Genbank	CDS	21763	22560	.	+	0	ID=cds-AFD97610.1;Dbxref=NCBI_GP:AFD97610.1;Name=AFD97610.1;gbkey=CDS;product=ns2a;protein_id=AFD97610.1
+JQ173883.1	Genbank	CDS	22606	23925	.	+	0	ID=cds-AFD97612.1;Dbxref=NCBI_GP:AFD97612.1;Name=AFD97612.1;gbkey=CDS;product=HE;protein_id=AFD97612.1
+JQ173883.1	Genbank	CDS	23933	28018	.	+	0	ID=cds-AFD97607.1;Dbxref=NCBI_GP:AFD97607.1;Name=AFD97607.1;gbkey=CDS;product=spike;protein_id=AFD97607.1
+JQ173883.1	Genbank	CDS	28108	28482	.	+	0	ID=cds-AFD97609.1;Dbxref=NCBI_GP:AFD97609.1;Name=AFD97609.1;gbkey=CDS;product=ns4;protein_id=AFD97609.1
+JQ173883.1	Genbank	CDS	28517	28783	.	+	0	ID=cds-AFD97613.1;Dbxref=NCBI_GP:AFD97613.1;Name=AFD97613.1;gbkey=CDS;product=envelope;protein_id=AFD97613.1
+JQ173883.1	Genbank	CDS	28780	29466	.	+	0	ID=cds-AFD97611.1;Dbxref=NCBI_GP:AFD97611.1;Name=AFD97611.1;gbkey=CDS;product=membrane;protein_id=AFD97611.1
+JQ173883.1	Genbank	CDS	29481	30845	.	+	0	ID=cds-AFD97608.1;Dbxref=NCBI_GP:AFD97608.1;Name=AFD97608.1;gbkey=CDS;product=nucleocapsid;protein_id=AFD97608.1
+

@@ -1,0 +1,23 @@
+##sequence-region KX640829.1 1 27679
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+KX640829.1	Genbank	region	1	27679	.	+	.	ID=KX640829.1:1..27679;Dbxref=taxon:11120;collection-date=2011;country=China;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Gallus gallus;strain=ck/CH/LGX/111119
+KX640829.1	Genbank	gene	526	20414	.	+	.	ID=gene-orf1ab;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding
+KX640829.1	Genbank	CDS	526	12351	.	+	0	ID=cds-AQY55892.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:AQY55892.1;Name=AQY55892.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=ORF1ab;protein_id=AQY55892.1
+KX640829.1	Genbank	CDS	12351	20414	.	+	0	ID=cds-AQY55892.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:AQY55892.1;Name=AQY55892.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=ORF1ab;protein_id=AQY55892.1
+KX640829.1	Genbank	gene	20365	23862	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KX640829.1	Genbank	CDS	20365	23862	.	+	0	ID=cds-AQY55893.1;Parent=gene-S;Dbxref=NCBI_GP:AQY55893.1;Name=AQY55893.1;gbkey=CDS;gene=S;product=spike protein;protein_id=AQY55893.1
+KX640829.1	Genbank	gene	23862	24035	.	+	.	ID=gene-orf3a;Name=orf3a;gbkey=Gene;gene=orf3a;gene_biotype=protein_coding
+KX640829.1	Genbank	CDS	23862	24035	.	+	0	ID=cds-AQY55894.1;Parent=gene-orf3a;Dbxref=NCBI_GP:AQY55894.1;Name=AQY55894.1;gbkey=CDS;gene=orf3a;product=ORF3a;protein_id=AQY55894.1
+KX640829.1	Genbank	gene	24035	24223	.	+	.	ID=gene-orf3b;Name=orf3b;gbkey=Gene;gene=orf3b;gene_biotype=protein_coding
+KX640829.1	Genbank	CDS	24035	24223	.	+	0	ID=cds-AQY55895.1;Parent=gene-orf3b;Dbxref=NCBI_GP:AQY55895.1;Name=AQY55895.1;gbkey=CDS;gene=orf3b;product=ORF3b;protein_id=AQY55895.1
+KX640829.1	Genbank	gene	24210	24536	.	+	.	ID=gene-orf3c;Name=orf3c;gbkey=Gene;gene=orf3c;gene_biotype=protein_coding
+KX640829.1	Genbank	CDS	24210	24536	.	+	0	ID=cds-AQY55896.1;Parent=gene-orf3c;Dbxref=NCBI_GP:AQY55896.1;Name=AQY55896.1;gbkey=CDS;gene=orf3c;product=ORF3c;protein_id=AQY55896.1
+KX640829.1	Genbank	gene	24508	25185	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KX640829.1	Genbank	CDS	24508	25185	.	+	0	ID=cds-AQY55897.1;Parent=gene-M;Dbxref=NCBI_GP:AQY55897.1;Name=AQY55897.1;gbkey=CDS;gene=M;product=M protein;protein_id=AQY55897.1
+KX640829.1	Genbank	gene	25549	25746	.	+	.	ID=gene-orf5a;Name=orf5a;gbkey=Gene;gene=orf5a;gene_biotype=protein_coding
+KX640829.1	Genbank	CDS	25549	25746	.	+	0	ID=cds-AQY55898.1;Parent=gene-orf5a;Dbxref=NCBI_GP:AQY55898.1;Name=AQY55898.1;gbkey=CDS;gene=orf5a;product=ORF5a;protein_id=AQY55898.1
+KX640829.1	Genbank	gene	25743	25991	.	+	.	ID=gene-orf5b;Name=orf5b;gbkey=Gene;gene=orf5b;gene_biotype=protein_coding
+KX640829.1	Genbank	CDS	25743	25991	.	+	0	ID=cds-AQY55899.1;Parent=gene-orf5b;Dbxref=NCBI_GP:AQY55899.1;Name=AQY55899.1;gbkey=CDS;gene=orf5b;product=ORF5b;protein_id=AQY55899.1
+KX640829.1	Genbank	gene	25934	27163	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KX640829.1	Genbank	CDS	25934	27163	.	+	0	ID=cds-AQY55900.1;Parent=gene-N;Dbxref=NCBI_GP:AQY55900.1;Name=AQY55900.1;gbkey=CDS;gene=N;product=N protein;protein_id=AQY55900.1
+

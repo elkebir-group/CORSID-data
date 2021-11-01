@@ -1,0 +1,24 @@
+##sequence-region NC_016992.1 1 26083
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1159906
+NC_016992.1	RefSeq	region	1	26083	.	+	.	ID=NC_016992.1:1..26083;Dbxref=taxon:1159906;collection-date=2007;country=China: Hong Kong;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=sparrow;strain=HKU17-6124
+NC_016992.1	RefSeq	region	1	26083	.	+	.	ID=id-NC_016992.1:1..26083;Note=NS7 proteins were annotated with the kind help of E. Wong%2C PhD%2C The University of Hong Kong.;gbkey=Comment
+NC_016992.1	RefSeq	gene	520	19352	.	+	.	ID=gene-SpCoV-HKU17_gp1;Dbxref=GeneID:11945639;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding;locus_tag=SpCoV-HKU17_gp1
+NC_016992.1	RefSeq	CDS	520	11424	.	+	0	ID=cds-YP_005352845.1;Parent=gene-SpCoV-HKU17_gp1;Dbxref=Genbank:YP_005352845.1,GeneID:11945639;Name=YP_005352845.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;locus_tag=SpCoV-HKU17_gp1;product=replicase polyprotein;protein_id=YP_005352845.1
+NC_016992.1	RefSeq	CDS	11424	19352	.	+	0	ID=cds-YP_005352845.1;Parent=gene-SpCoV-HKU17_gp1;Dbxref=Genbank:YP_005352845.1,GeneID:11945639;Name=YP_005352845.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;locus_tag=SpCoV-HKU17_gp1;product=replicase polyprotein;protein_id=YP_005352845.1
+NC_016992.1	RefSeq	gene	19334	22954	.	+	.	ID=gene-SpCoV-HKU17_gp2;Dbxref=GeneID:11945632;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding;locus_tag=SpCoV-HKU17_gp2
+NC_016992.1	RefSeq	CDS	19334	22954	.	+	0	ID=cds-YP_005352846.1;Parent=gene-SpCoV-HKU17_gp2;Dbxref=Genbank:YP_005352846.1,GeneID:11945632;Name=YP_005352846.1;gbkey=CDS;gene=S;locus_tag=SpCoV-HKU17_gp2;product=spike glycoprotein;protein_id=YP_005352846.1
+NC_016992.1	RefSeq	gene	22948	23196	.	+	.	ID=gene-SpCoV-HKU17_gp3;Dbxref=GeneID:11945633;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding;locus_tag=SpCoV-HKU17_gp3
+NC_016992.1	RefSeq	CDS	22948	23196	.	+	0	ID=cds-YP_005352847.1;Parent=gene-SpCoV-HKU17_gp3;Dbxref=Genbank:YP_005352847.1,GeneID:11945633;Name=YP_005352847.1;gbkey=CDS;gene=E;locus_tag=SpCoV-HKU17_gp3;product=envelope protein;protein_id=YP_005352847.1
+NC_016992.1	RefSeq	gene	23189	23842	.	+	.	ID=gene-SpCoV-HKU17_gp4;Dbxref=GeneID:11945634;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding;locus_tag=SpCoV-HKU17_gp4
+NC_016992.1	RefSeq	CDS	23189	23842	.	+	0	ID=cds-YP_005352848.1;Parent=gene-SpCoV-HKU17_gp4;Dbxref=Genbank:YP_005352848.1,GeneID:11945634;Name=YP_005352848.1;gbkey=CDS;gene=M;locus_tag=SpCoV-HKU17_gp4;product=membrane protein;protein_id=YP_005352848.1
+NC_016992.1	RefSeq	gene	23842	24129	.	+	.	ID=gene-SpCoV-HKU17_gp5;Dbxref=GeneID:11945635;Name=NS6;gbkey=Gene;gene=NS6;gene_biotype=protein_coding;locus_tag=SpCoV-HKU17_gp5
+NC_016992.1	RefSeq	CDS	23842	24129	.	+	0	ID=cds-YP_005352849.1;Parent=gene-SpCoV-HKU17_gp5;Dbxref=Genbank:YP_005352849.1,GeneID:11945635;Name=YP_005352849.1;gbkey=CDS;gene=NS6;locus_tag=SpCoV-HKU17_gp5;product=NS6 protein;protein_id=YP_005352849.1
+NC_016992.1	RefSeq	gene	24150	25178	.	+	.	ID=gene-SpCoV-HKU17_gp6;Dbxref=GeneID:11945636;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding;locus_tag=SpCoV-HKU17_gp6
+NC_016992.1	RefSeq	CDS	24150	25178	.	+	0	ID=cds-YP_005352850.1;Parent=gene-SpCoV-HKU17_gp6;Dbxref=Genbank:YP_005352850.1,GeneID:11945636;Name=YP_005352850.1;gbkey=CDS;gene=N;locus_tag=SpCoV-HKU17_gp6;product=nucleocapsid protein;protein_id=YP_005352850.1
+NC_016992.1	RefSeq	gene	24244	24846	.	+	.	ID=gene-SpCoV-HKU17p1;Dbxref=GeneID:34719090;Name=NS7a;gbkey=Gene;gene=NS7a;gene_biotype=protein_coding;locus_tag=SpCoV-HKU17p1
+NC_016992.1	RefSeq	CDS	24244	24846	.	+	0	ID=cds-YP_009433743.1;Parent=gene-SpCoV-HKU17p1;Dbxref=Genbank:YP_009433743.1,GeneID:34719090;Name=YP_009433743.1;gbkey=CDS;gene=NS7a;locus_tag=SpCoV-HKU17p1;product=NS7a protein;protein_id=YP_009433743.1
+NC_016992.1	RefSeq	gene	25189	25623	.	+	.	ID=gene-SpCoV-HKU17_gp7;Dbxref=GeneID:11945637;Name=NS7b;gbkey=Gene;gene=NS7b;gene_biotype=protein_coding;locus_tag=SpCoV-HKU17_gp7
+NC_016992.1	RefSeq	CDS	25189	25623	.	+	0	ID=cds-YP_005352851.1;Parent=gene-SpCoV-HKU17_gp7;Dbxref=Genbank:YP_005352851.1,GeneID:11945637;Name=YP_005352851.1;gbkey=CDS;gene=NS7b;locus_tag=SpCoV-HKU17_gp7;product=NS7b protein;protein_id=YP_005352851.1
+NC_016992.1	RefSeq	gene	25539	25751	.	+	.	ID=gene-SpCoV-HKU17_gp8;Dbxref=GeneID:11945638;Name=NS7c;gbkey=Gene;gene=NS7c;gene_biotype=protein_coding;locus_tag=SpCoV-HKU17_gp8
+NC_016992.1	RefSeq	CDS	25539	25751	.	+	0	ID=cds-YP_005352852.1;Parent=gene-SpCoV-HKU17_gp8;Dbxref=Genbank:YP_005352852.1,GeneID:11945638;Name=YP_005352852.1;gbkey=CDS;gene=NS7c;locus_tag=SpCoV-HKU17_gp8;product=NS7c protein;protein_id=YP_005352852.1
+

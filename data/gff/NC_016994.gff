@@ -1,0 +1,21 @@
+##sequence-region NC_016994.1 1 26077
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1159904
+NC_016994.1	RefSeq	region	1	26077	.	+	.	ID=NC_016994.1:1..26077;Dbxref=taxon:1159904;collection-date=2007;country=China: Hong Kong;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=night-heron;old-name=Night-heron coronavirus HKU19;strain=HKU19-6918
+NC_016994.1	RefSeq	gene	482	19323	.	+	.	ID=gene-NHCoV-HKU19_gp1;Dbxref=GeneID:11945653;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding;locus_tag=NHCoV-HKU19_gp1
+NC_016994.1	RefSeq	CDS	482	11311	.	+	0	ID=cds-YP_005352862.1;Parent=gene-NHCoV-HKU19_gp1;Dbxref=Genbank:YP_005352862.1,GeneID:11945653;Name=YP_005352862.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;locus_tag=NHCoV-HKU19_gp1;product=replicase polyprotein;protein_id=YP_005352862.1
+NC_016994.1	RefSeq	CDS	11311	19323	.	+	0	ID=cds-YP_005352862.1;Parent=gene-NHCoV-HKU19_gp1;Dbxref=Genbank:YP_005352862.1,GeneID:11945653;Name=YP_005352862.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;locus_tag=NHCoV-HKU19_gp1;product=replicase polyprotein;protein_id=YP_005352862.1
+NC_016994.1	RefSeq	gene	19305	23069	.	+	.	ID=gene-NHCoV-HKU19_gp2;Dbxref=GeneID:11945654;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding;locus_tag=NHCoV-HKU19_gp2
+NC_016994.1	RefSeq	CDS	19305	23069	.	+	0	ID=cds-YP_005352863.1;Parent=gene-NHCoV-HKU19_gp2;Dbxref=Genbank:YP_005352863.1,GeneID:11945654;Name=YP_005352863.1;gbkey=CDS;gene=S;locus_tag=NHCoV-HKU19_gp2;product=spike glycoprotein;protein_id=YP_005352863.1
+NC_016994.1	RefSeq	gene	23069	23317	.	+	.	ID=gene-NHCoV-HKU19_gp3;Dbxref=GeneID:11945655;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding;locus_tag=NHCoV-HKU19_gp3
+NC_016994.1	RefSeq	CDS	23069	23317	.	+	0	ID=cds-YP_005352864.1;Parent=gene-NHCoV-HKU19_gp3;Dbxref=Genbank:YP_005352864.1,GeneID:11945655;Name=YP_005352864.1;gbkey=CDS;gene=E;locus_tag=NHCoV-HKU19_gp3;product=envelope protein;protein_id=YP_005352864.1
+NC_016994.1	RefSeq	gene	23310	23960	.	+	.	ID=gene-NHCoV-HKU19_gp4;Dbxref=GeneID:11945656;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding;locus_tag=NHCoV-HKU19_gp4
+NC_016994.1	RefSeq	CDS	23310	23960	.	+	0	ID=cds-YP_005352865.1;Parent=gene-NHCoV-HKU19_gp4;Dbxref=Genbank:YP_005352865.1,GeneID:11945656;Name=YP_005352865.1;gbkey=CDS;gene=M;locus_tag=NHCoV-HKU19_gp4;product=membrane protein;protein_id=YP_005352865.1
+NC_016994.1	RefSeq	gene	23960	24238	.	+	.	ID=gene-NHCoV-HKU19_gp5;Dbxref=GeneID:11945657;Name=NS6;gbkey=Gene;gene=NS6;gene_biotype=protein_coding;locus_tag=NHCoV-HKU19_gp5
+NC_016994.1	RefSeq	CDS	23960	24238	.	+	0	ID=cds-YP_005352866.1;Parent=gene-NHCoV-HKU19_gp5;Dbxref=Genbank:YP_005352866.1,GeneID:11945657;Name=YP_005352866.1;gbkey=CDS;gene=NS6;locus_tag=NHCoV-HKU19_gp5;product=NS6 protein;protein_id=YP_005352866.1
+NC_016994.1	RefSeq	gene	24248	25276	.	+	.	ID=gene-NHCoV-HKU19_gp6;Dbxref=GeneID:11945658;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding;locus_tag=NHCoV-HKU19_gp6
+NC_016994.1	RefSeq	CDS	24248	25276	.	+	0	ID=cds-YP_005352867.1;Parent=gene-NHCoV-HKU19_gp6;Dbxref=Genbank:YP_005352867.1,GeneID:11945658;Name=YP_005352867.1;gbkey=CDS;gene=N;locus_tag=NHCoV-HKU19_gp6;product=nucleocapsid protein;protein_id=YP_005352867.1
+NC_016994.1	RefSeq	gene	25277	25573	.	+	.	ID=gene-NHCoV-HKU19_gp7;Dbxref=GeneID:11945659;Name=NS7a;gbkey=Gene;gene=NS7a;gene_biotype=protein_coding;locus_tag=NHCoV-HKU19_gp7
+NC_016994.1	RefSeq	CDS	25277	25573	.	+	0	ID=cds-YP_005352868.1;Parent=gene-NHCoV-HKU19_gp7;Dbxref=Genbank:YP_005352868.1,GeneID:11945659;Name=YP_005352868.1;gbkey=CDS;gene=NS7a;locus_tag=NHCoV-HKU19_gp7;product=NS7a protein;protein_id=YP_005352868.1
+NC_016994.1	RefSeq	gene	25583	25876	.	+	.	ID=gene-NHCoV-HKU19_gp8;Dbxref=GeneID:11945660;Name=NS7b;gbkey=Gene;gene=NS7b;gene_biotype=protein_coding;locus_tag=NHCoV-HKU19_gp8
+NC_016994.1	RefSeq	CDS	25583	25876	.	+	0	ID=cds-YP_005352869.1;Parent=gene-NHCoV-HKU19_gp8;Dbxref=Genbank:YP_005352869.1,GeneID:11945660;Name=YP_005352869.1;gbkey=CDS;gene=NS7b;locus_tag=NHCoV-HKU19_gp8;product=NS7b protein;protein_id=YP_005352869.1
+

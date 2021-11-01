@@ -1,0 +1,23 @@
+##sequence-region NC_009020.1 1 30482
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=694008
+NC_009020.1	RefSeq	region	1	30482	.	+	.	ID=NC_009020.1:1..30482;Dbxref=taxon:694008;country=China: Guangdong province;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=bat;old-name=Bat coronavirus HKU5;strain=HKU5-1 LMH03f
+NC_009020.1	RefSeq	gene	261	21808	.	+	.	ID=gene-BatCoVHKU5_gp1;Dbxref=GeneID:4836003;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding;locus_tag=BatCoVHKU5_gp1
+NC_009020.1	RefSeq	CDS	261	13685	.	+	0	ID=cds-YP_001039961.1;Parent=gene-BatCoVHKU5_gp1;Dbxref=Genbank:YP_001039961.1,GeneID:4836003;Name=YP_001039961.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;locus_tag=BatCoVHKU5_gp1;product=orf1ab polyprotein;protein_id=YP_001039961.1
+NC_009020.1	RefSeq	CDS	13685	21808	.	+	0	ID=cds-YP_001039961.1;Parent=gene-BatCoVHKU5_gp1;Dbxref=Genbank:YP_001039961.1,GeneID:4836003;Name=YP_001039961.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;locus_tag=BatCoVHKU5_gp1;product=orf1ab polyprotein;protein_id=YP_001039961.1
+NC_009020.1	RefSeq	gene	21735	25793	.	+	.	ID=gene-BatCoVHKU5_gp2;Dbxref=GeneID:4836002;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding;locus_tag=BatCoVHKU5_gp2
+NC_009020.1	RefSeq	CDS	21735	25793	.	+	0	ID=cds-YP_001039962.1;Parent=gene-BatCoVHKU5_gp2;Dbxref=Genbank:YP_001039962.1,GeneID:4836002;Name=YP_001039962.1;gbkey=CDS;gene=S;locus_tag=BatCoVHKU5_gp2;product=spike glycoprotein;protein_id=YP_001039962.1
+NC_009020.1	RefSeq	gene	25756	26121	.	+	.	ID=gene-BatCoVHKU5_gp3;Dbxref=GeneID:4836004;Name=NS3a;gbkey=Gene;gene=NS3a;gene_biotype=protein_coding;locus_tag=BatCoVHKU5_gp3
+NC_009020.1	RefSeq	CDS	25756	26121	.	+	0	ID=cds-YP_001039963.1;Parent=gene-BatCoVHKU5_gp3;Dbxref=Genbank:YP_001039963.1,GeneID:4836004;Name=YP_001039963.1;gbkey=CDS;gene=NS3a;locus_tag=BatCoVHKU5_gp3;product=hypothetical protein;protein_id=YP_001039963.1
+NC_009020.1	RefSeq	gene	26134	26493	.	+	.	ID=gene-BatCoVHKU5_gp4;Dbxref=GeneID:4836005;Name=NS3b;gbkey=Gene;gene=NS3b;gene_biotype=protein_coding;locus_tag=BatCoVHKU5_gp4
+NC_009020.1	RefSeq	CDS	26134	26493	.	+	0	ID=cds-YP_001039964.1;Parent=gene-BatCoVHKU5_gp4;Dbxref=Genbank:YP_001039964.1,GeneID:4836005;Name=YP_001039964.1;gbkey=CDS;gene=NS3b;locus_tag=BatCoVHKU5_gp4;product=hypothetical protein;protein_id=YP_001039964.1
+NC_009020.1	RefSeq	gene	26375	27145	.	+	.	ID=gene-BatCoVHKU5_gp5;Dbxref=GeneID:4836006;Name=NS3c;gbkey=Gene;gene=NS3c;gene_biotype=protein_coding;locus_tag=BatCoVHKU5_gp5
+NC_009020.1	RefSeq	CDS	26375	27145	.	+	0	ID=cds-YP_001039965.1;Parent=gene-BatCoVHKU5_gp5;Dbxref=Genbank:YP_001039965.1,GeneID:4836006;Name=YP_001039965.1;gbkey=CDS;gene=NS3c;locus_tag=BatCoVHKU5_gp5;product=hypothetical protein;protein_id=YP_001039965.1
+NC_009020.1	RefSeq	gene	27154	27825	.	+	.	ID=gene-BatCoVHKU5_gp6;Dbxref=GeneID:4836007;Name=NS3d;gbkey=Gene;gene=NS3d;gene_biotype=protein_coding;locus_tag=BatCoVHKU5_gp6
+NC_009020.1	RefSeq	CDS	27154	27825	.	+	0	ID=cds-YP_001039966.1;Parent=gene-BatCoVHKU5_gp6;Dbxref=Genbank:YP_001039966.1,GeneID:4836007;Name=YP_001039966.1;gbkey=CDS;gene=NS3d;locus_tag=BatCoVHKU5_gp6;product=hypothetical protein;protein_id=YP_001039966.1
+NC_009020.1	RefSeq	gene	27903	28151	.	+	.	ID=gene-BatCoVHKU5_gp7;Dbxref=GeneID:4836008;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding;locus_tag=BatCoVHKU5_gp7
+NC_009020.1	RefSeq	CDS	27903	28151	.	+	0	ID=cds-YP_001039967.1;Parent=gene-BatCoVHKU5_gp7;Dbxref=Genbank:YP_001039967.1,GeneID:4836008;Name=YP_001039967.1;gbkey=CDS;gene=E;locus_tag=BatCoVHKU5_gp7;product=small membrane protein;protein_id=YP_001039967.1
+NC_009020.1	RefSeq	gene	28166	28828	.	+	.	ID=gene-BatCoVHKU5_gp8;Dbxref=GeneID:4836001;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding;locus_tag=BatCoVHKU5_gp8
+NC_009020.1	RefSeq	CDS	28166	28828	.	+	0	ID=cds-YP_001039968.1;Parent=gene-BatCoVHKU5_gp8;Dbxref=Genbank:YP_001039968.1,GeneID:4836001;Name=YP_001039968.1;gbkey=CDS;gene=M;locus_tag=BatCoVHKU5_gp8;product=membrane glycoprotein;protein_id=YP_001039968.1
+NC_009020.1	RefSeq	gene	28878	30161	.	+	.	ID=gene-BatCoVHKU5_gp9;Dbxref=GeneID:4836000;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding;locus_tag=BatCoVHKU5_gp9
+NC_009020.1	RefSeq	CDS	28878	30161	.	+	0	ID=cds-YP_001039969.1;Parent=gene-BatCoVHKU5_gp9;Dbxref=Genbank:YP_001039969.1,GeneID:4836000;Name=YP_001039969.1;gbkey=CDS;gene=N;locus_tag=BatCoVHKU5_gp9;product=nucleocapsid phosphoprotein;protein_id=YP_001039969.1
+

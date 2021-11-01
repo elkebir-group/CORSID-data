@@ -1,0 +1,25 @@
+##sequence-region KT946798.1 1 27690
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+KT946798.1	Genbank	region	1	27690	.	+	.	ID=KT946798.1:1..27690;Dbxref=taxon:11120;collection-date=01-Jan-2014;country=China;gbkey=Src;genome=genomic;genotype=TW I;mol_type=genomic RNA;nat-host=chicken;note=nephropathogenic strain;strain=CK/CH/GD/GZ14
+KT946798.1	Genbank	gene	527	12388	.	+	.	ID=gene-KT946798.1:527..12388;description=1a;gbkey=Gene;gene_biotype=protein_coding
+KT946798.1	Genbank	CDS	527	12388	.	+	0	ID=cds-AMR60478.1;Parent=gene-KT946798.1:527..12388;Dbxref=NCBI_GP:AMR60478.1;Name=AMR60478.1;gbkey=CDS;product=1a polyprotein;protein_id=AMR60478.1
+KT946798.1	Genbank	gene	12463	20421	.	+	.	ID=gene-KT946798.1:12463..20421;description=1b;gbkey=Gene;gene_biotype=protein_coding
+KT946798.1	Genbank	CDS	12463	20421	.	+	0	ID=cds-AMR60479.1;Parent=gene-KT946798.1:12463..20421;Dbxref=NCBI_GP:AMR60479.1;Name=AMR60479.1;gbkey=CDS;product=1b polyprotein;protein_id=AMR60479.1
+KT946798.1	Genbank	gene	20372	23842	.	+	.	ID=gene-KT946798.1:20372..23842;description=S;gbkey=Gene;gene_biotype=protein_coding
+KT946798.1	Genbank	CDS	20372	23842	.	+	0	ID=cds-AMR60480.1;Parent=gene-KT946798.1:20372..23842;Dbxref=NCBI_GP:AMR60480.1;Name=AMR60480.1;gbkey=CDS;product=spike glycoprotein;protein_id=AMR60480.1
+KT946798.1	Genbank	gene	23869	24042	.	+	.	ID=gene-KT946798.1:23869..24042;description=3a;gbkey=Gene;gene_biotype=protein_coding
+KT946798.1	Genbank	CDS	23869	24042	.	+	0	ID=cds-AMR60481.1;Parent=gene-KT946798.1:23869..24042;Dbxref=NCBI_GP:AMR60481.1;Name=AMR60481.1;gbkey=CDS;product=3a protein;protein_id=AMR60481.1
+KT946798.1	Genbank	gene	24042	24260	.	+	.	ID=gene-KT946798.1:24042..24260;description=3b;gbkey=Gene;gene_biotype=protein_coding
+KT946798.1	Genbank	CDS	24042	24260	.	+	0	ID=cds-AMR60482.1;Parent=gene-KT946798.1:24042..24260;Dbxref=NCBI_GP:AMR60482.1;Name=AMR60482.1;gbkey=CDS;product=3b protein;protein_id=AMR60482.1
+KT946798.1	Genbank	gene	24244	24570	.	+	.	ID=gene-KT946798.1:24244..24570;description=E;gbkey=Gene;gene_biotype=protein_coding
+KT946798.1	Genbank	CDS	24244	24570	.	+	0	ID=cds-AMR60483.1;Parent=gene-KT946798.1:24244..24570;Dbxref=NCBI_GP:AMR60483.1;Name=AMR60483.1;gbkey=CDS;product=envelope protein;protein_id=AMR60483.1
+KT946798.1	Genbank	gene	24542	25219	.	+	.	ID=gene-KT946798.1:24542..25219;description=M;gbkey=Gene;gene_biotype=protein_coding
+KT946798.1	Genbank	CDS	24542	25219	.	+	0	ID=cds-AMR60484.1;Parent=gene-KT946798.1:24542..25219;Dbxref=NCBI_GP:AMR60484.1;Name=AMR60484.1;gbkey=CDS;product=membrane glycoprotein;protein_id=AMR60484.1
+KT946798.1	Genbank	gene	25573	25770	.	+	.	ID=gene-KT946798.1:25573..25770;description=5a;gbkey=Gene;gene_biotype=protein_coding
+KT946798.1	Genbank	CDS	25573	25770	.	+	0	ID=cds-AMR60485.1;Parent=gene-KT946798.1:25573..25770;Dbxref=NCBI_GP:AMR60485.1;Name=AMR60485.1;gbkey=CDS;product=5a protein;protein_id=AMR60485.1
+KT946798.1	Genbank	gene	25767	26015	.	+	.	ID=gene-KT946798.1:25767..26015;description=5b;gbkey=Gene;gene_biotype=protein_coding
+KT946798.1	Genbank	CDS	25767	26015	.	+	0	ID=cds-AMR60486.1;Parent=gene-KT946798.1:25767..26015;Dbxref=NCBI_GP:AMR60486.1;Name=AMR60486.1;gbkey=CDS;product=5b protein;protein_id=AMR60486.1
+KT946798.1	Genbank	gene	25958	27187	.	+	.	ID=gene-KT946798.1:25958..27187;description=N;gbkey=Gene;gene_biotype=protein_coding
+KT946798.1	Genbank	CDS	25958	27187	.	+	0	ID=cds-AMR60487.1;Parent=gene-KT946798.1:25958..27187;Dbxref=NCBI_GP:AMR60487.1;Name=AMR60487.1;gbkey=CDS;product=nucleocapsid protein;protein_id=AMR60487.1
+KT946798.1	Genbank	three_prime_UTR	27418	27690	.	+	.	ID=id-KT946798.1:27418..27690;gbkey=3'UTR
+

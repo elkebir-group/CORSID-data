@@ -1,0 +1,24 @@
+##sequence-region KX432213.1 1 30868
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=215681
+KX432213.1	Genbank	region	1	30868	.	+	.	ID=KX432213.1:1..30868;Dbxref=taxon:215681;collection-date=2014;country=China;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=dog;strain=BJ232
+KX432213.1	Genbank	gene	144	21427	.	+	.	ID=gene-orf1ab;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding
+KX432213.1	Genbank	CDS	144	13274	.	+	0	ID=cds-AQT26494.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:AQT26494.1;Name=AQT26494.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab polyprotein;protein_id=AQT26494.1
+KX432213.1	Genbank	CDS	13274	21427	.	+	0	ID=cds-AQT26494.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:AQT26494.1;Name=AQT26494.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab polyprotein;protein_id=AQT26494.1
+KX432213.1	Genbank	gene	144	13295	.	+	.	ID=gene-orf1a;Name=orf1a;gbkey=Gene;gene=orf1a;gene_biotype=protein_coding
+KX432213.1	Genbank	CDS	144	13295	.	+	0	ID=cds-AQT26495.1;Parent=gene-orf1a;Dbxref=NCBI_GP:AQT26495.1;Name=AQT26495.1;gbkey=CDS;gene=orf1a;product=orf1a polyprotein;protein_id=AQT26495.1
+KX432213.1	Genbank	CDS	21437	22273	.	+	0	ID=cds-AQT26496.1;Dbxref=NCBI_GP:AQT26496.1;Name=AQT26496.1;gbkey=CDS;product=32 kDa non-structural protein;protein_id=AQT26496.1
+KX432213.1	Genbank	gene	22285	23559	.	+	.	ID=gene-HE;Name=HE;gbkey=Gene;gene=HE;gene_biotype=protein_coding
+KX432213.1	Genbank	CDS	22285	23559	.	+	0	ID=cds-AQT26497.1;Parent=gene-HE;Dbxref=NCBI_GP:AQT26497.1;Name=AQT26497.1;gbkey=CDS;gene=HE;product=hemagglutinin-esterase;protein_id=AQT26497.1
+KX432213.1	Genbank	gene	23574	27665	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KX432213.1	Genbank	CDS	23574	27665	.	+	0	ID=cds-AQT26498.1;Parent=gene-S;Dbxref=NCBI_GP:AQT26498.1;Name=AQT26498.1;gbkey=CDS;gene=S;product=spike protein;protein_id=AQT26498.1
+KX432213.1	Genbank	CDS	27655	27789	.	+	0	ID=cds-AQT26499.1;Dbxref=NCBI_GP:AQT26499.1;Name=AQT26499.1;gbkey=CDS;product=4.9 kDa non-structural protein;protein_id=AQT26499.1
+KX432213.1	Genbank	CDS	27825	27902	.	+	0	ID=cds-AQT26500.1;Dbxref=NCBI_GP:AQT26500.1;Name=AQT26500.1;gbkey=CDS;product=2.7 kDa non-structural protein;protein_id=AQT26500.1
+KX432213.1	Genbank	CDS	28039	28368	.	+	0	ID=cds-AQT26501.1;Dbxref=NCBI_GP:AQT26501.1;Name=AQT26501.1;gbkey=CDS;product=12.8 kDa non-structural protein;protein_id=AQT26501.1
+KX432213.1	Genbank	gene	28355	28609	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+KX432213.1	Genbank	CDS	28355	28609	.	+	0	ID=cds-AQT26502.1;Parent=gene-E;Dbxref=NCBI_GP:AQT26502.1;Name=AQT26502.1;gbkey=CDS;gene=E;product=small membrane protein;protein_id=AQT26502.1
+KX432213.1	Genbank	gene	28624	29316	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KX432213.1	Genbank	CDS	28624	29316	.	+	0	ID=cds-AQT26503.1;Parent=gene-M;Dbxref=NCBI_GP:AQT26503.1;Name=AQT26503.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=AQT26503.1
+KX432213.1	Genbank	gene	29326	30672	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KX432213.1	Genbank	CDS	29326	30672	.	+	0	ID=cds-AQT26504.1;Parent=gene-N;Dbxref=NCBI_GP:AQT26504.1;Name=AQT26504.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=AQT26504.1
+KX432213.1	Genbank	CDS	29387	30010	.	+	0	ID=cds-AQT26505.1;Parent=gene-N;Dbxref=NCBI_GP:AQT26505.1;Name=AQT26505.1;gbkey=CDS;gene=N;product=internal N-gene protein;protein_id=AQT26505.1
+

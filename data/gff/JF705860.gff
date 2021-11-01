@@ -1,0 +1,24 @@
+##sequence-region JF705860.1 1 27673
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=300188
+JF705860.1	Genbank	region	1	27673	.	+	.	ID=JF705860.1:1..27673;Dbxref=taxon:300188;collected-by=Xingyou Liu;collection-date=May-2004;country=China;gbkey=Src;genome=proviral;isolate=DK/CH/HN/ZZ2004;mol_type=genomic RNA;nat-host=duck
+JF705860.1	Genbank	gene	528	12386	.	+	.	ID=gene-1a;Name=1a;gbkey=Gene;gene=1a;gene_biotype=protein_coding
+JF705860.1	Genbank	CDS	528	12386	.	+	0	ID=cds-AEO86767.1;Parent=gene-1a;Dbxref=NCBI_GP:AEO86767.1;Name=AEO86767.1;gbkey=CDS;gene=1a;product=1a protein;protein_id=AEO86767.1
+JF705860.1	Genbank	gene	12461	20434	.	+	.	ID=gene-1b;Name=1b;gbkey=Gene;gene=1b;gene_biotype=protein_coding
+JF705860.1	Genbank	CDS	12461	20434	.	+	0	ID=cds-AEO86766.1;Parent=gene-1b;Dbxref=NCBI_GP:AEO86766.1;Name=AEO86766.1;gbkey=CDS;gene=1b;product=1b protein;protein_id=AEO86766.1
+JF705860.1	Genbank	gene	20370	23867	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+JF705860.1	Genbank	CDS	20370	23867	.	+	0	ID=cds-AEO86768.1;Parent=gene-S;Dbxref=NCBI_GP:AEO86768.1;Name=AEO86768.1;gbkey=CDS;gene=S;product=S protein;protein_id=AEO86768.1
+JF705860.1	Genbank	gene	23867	24040	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+JF705860.1	Genbank	CDS	23867	24040	.	+	0	ID=cds-AEO86769.1;Parent=gene-3a;Dbxref=NCBI_GP:AEO86769.1;Name=AEO86769.1;gbkey=CDS;gene=3a;product=3a protein;protein_id=AEO86769.1
+JF705860.1	Genbank	gene	24040	24228	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+JF705860.1	Genbank	CDS	24040	24228	.	+	0	ID=cds-AEO86770.1;Parent=gene-3b;Dbxref=NCBI_GP:AEO86770.1;Name=AEO86770.1;gbkey=CDS;gene=3b;product=3b protein;protein_id=AEO86770.1
+JF705860.1	Genbank	gene	24212	24541	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+JF705860.1	Genbank	CDS	24212	24541	.	+	0	ID=cds-AEO86771.1;Parent=gene-E;Dbxref=NCBI_GP:AEO86771.1;Name=AEO86771.1;gbkey=CDS;gene=E;product=E protein;protein_id=AEO86771.1
+JF705860.1	Genbank	gene	24510	25190	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+JF705860.1	Genbank	CDS	24510	25190	.	+	0	ID=cds-AEO86772.1;Parent=gene-M;Dbxref=NCBI_GP:AEO86772.1;Name=AEO86772.1;gbkey=CDS;gene=M;product=M protein;protein_id=AEO86772.1
+JF705860.1	Genbank	gene	25545	25742	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+JF705860.1	Genbank	CDS	25545	25742	.	+	0	ID=cds-AEO86773.1;Parent=gene-5a;Dbxref=NCBI_GP:AEO86773.1;Name=AEO86773.1;gbkey=CDS;gene=5a;product=5a protein;protein_id=AEO86773.1
+JF705860.1	Genbank	gene	25739	25987	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+JF705860.1	Genbank	CDS	25739	25987	.	+	0	ID=cds-AEO86774.1;Parent=gene-5b;Dbxref=NCBI_GP:AEO86774.1;Name=AEO86774.1;gbkey=CDS;gene=5b;product=5b protein;protein_id=AEO86774.1
+JF705860.1	Genbank	gene	25930	27159	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+JF705860.1	Genbank	CDS	25930	27159	.	+	0	ID=cds-AEO86775.1;Parent=gene-N;Dbxref=NCBI_GP:AEO86775.1;Name=AEO86775.1;gbkey=CDS;gene=N;product=N protein;protein_id=AEO86775.1
+

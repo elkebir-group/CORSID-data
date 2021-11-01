@@ -1,0 +1,16 @@
+##sequence-region MN165107.1 1 29286
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12663
+MN165107.1	Genbank	region	1	29286	.	+	.	ID=MN165107.1:1..29286;Dbxref=taxon:12663;collection-date=Apr-2018;country=China: Changsha;gbkey=Src;genome=genomic;isolate=XXN;mol_type=genomic RNA;nat-host=Felis catus;serotype=I
+MN165107.1	Genbank	CDS	310	12330	.	+	0	ID=cds-QDM36985.1;Dbxref=NCBI_GP:QDM36985.1;Name=QDM36985.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein 1ab;protein_id=QDM36985.1
+MN165107.1	Genbank	CDS	12330	20372	.	+	0	ID=cds-QDM36985.1;Dbxref=NCBI_GP:QDM36985.1;Name=QDM36985.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein 1ab;protein_id=QDM36985.1
+MN165107.1	Genbank	CDS	310	12372	.	+	0	ID=cds-QDM36986.1;Dbxref=NCBI_GP:QDM36986.1;Name=QDM36986.1;gbkey=CDS;product=polyprotein 1a;protein_id=QDM36986.1
+MN165107.1	Genbank	CDS	20369	24766	.	+	0	ID=cds-QDM36987.1;Dbxref=NCBI_GP:QDM36987.1;Name=QDM36987.1;gbkey=CDS;product=spike protein;protein_id=QDM36987.1
+MN165107.1	Genbank	CDS	24778	24990	.	+	0	ID=cds-QDM36988.1;Dbxref=NCBI_GP:QDM36988.1;Name=QDM36988.1;gbkey=CDS;product=non-structural protein 3a;protein_id=QDM36988.1
+MN165107.1	Genbank	CDS	24938	25159	.	+	0	ID=cds-QDM36989.1;Dbxref=NCBI_GP:QDM36989.1;Name=QDM36989.1;gbkey=CDS;product=non-structural protein 3b;protein_id=QDM36989.1
+MN165107.1	Genbank	sequence_feature	25156	25868	.	+	.	ID=id-MN165107.1:25156..25868;Note=nonfunctional non-structural protein 3c due to mutation;gbkey=misc_feature
+MN165107.1	Genbank	CDS	25855	26103	.	+	0	ID=cds-QDM36990.1;Dbxref=NCBI_GP:QDM36990.1;Name=QDM36990.1;gbkey=CDS;product=small envelope protein;protein_id=QDM36990.1
+MN165107.1	Genbank	CDS	26114	26905	.	+	0	ID=cds-QDM36991.1;Dbxref=NCBI_GP:QDM36991.1;Name=QDM36991.1;gbkey=CDS;product=membrane glycoprotein;protein_id=QDM36991.1
+MN165107.1	Genbank	CDS	26918	28051	.	+	0	ID=cds-QDM36992.1;Dbxref=NCBI_GP:QDM36992.1;Name=QDM36992.1;gbkey=CDS;product=nucleocapsid protein;protein_id=QDM36992.1
+MN165107.1	Genbank	CDS	28056	28361	.	+	0	ID=cds-QDM36993.1;Dbxref=NCBI_GP:QDM36993.1;Name=QDM36993.1;gbkey=CDS;product=non-structural protein 7a;protein_id=QDM36993.1
+MN165107.1	Genbank	CDS	28366	28986	.	+	0	ID=cds-QDM36994.1;Dbxref=NCBI_GP:QDM36994.1;Name=QDM36994.1;gbkey=CDS;product=non-structural protein 7b;protein_id=QDM36994.1
+

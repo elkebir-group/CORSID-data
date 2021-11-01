@@ -1,0 +1,16 @@
+##sequence-region JQ404409.1 1 29462
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11153
+JQ404409.1	Genbank	region	1	29462	.	+	.	ID=JQ404409.1:1..29462;Dbxref=taxon:11153;culture-collection=ATCC:VR-809;gbkey=Src;genome=genomic;isolation-source=feces from dog with diarrhea;mol_type=genomic RNA;nat-host=dog;strain=1-71
+JQ404409.1	Genbank	CDS	314	12336	.	+	0	ID=cds-AFG19735.1;Dbxref=NCBI_GP:AFG19735.1;Name=AFG19735.1;exception=ribosomal slippage;gbkey=CDS;product=1ab;protein_id=AFG19735.1
+JQ404409.1	Genbank	CDS	12336	20367	.	+	1	ID=cds-AFG19735.1;Dbxref=NCBI_GP:AFG19735.1;Name=AFG19735.1;exception=ribosomal slippage;gbkey=CDS;product=1ab;protein_id=AFG19735.1
+JQ404409.1	Genbank	CDS	314	12367	.	+	0	ID=cds-AFG19736.1;Dbxref=NCBI_GP:AFG19736.1;Name=AFG19736.1;gbkey=CDS;product=1a;protein_id=AFG19736.1
+JQ404409.1	Genbank	CDS	20364	24725	.	+	0	ID=cds-AFG19726.1;Dbxref=NCBI_GP:AFG19726.1;Name=AFG19726.1;gbkey=CDS;product=spike;protein_id=AFG19726.1
+JQ404409.1	Genbank	CDS	24893	25129	.	+	0	ID=cds-AFG19734.1;Dbxref=NCBI_GP:AFG19734.1;Name=AFG19734.1;gbkey=CDS;product=3a;protein_id=AFG19734.1
+JQ404409.1	Genbank	CDS	25074	25289	.	+	0	ID=cds-AFG19733.1;Dbxref=NCBI_GP:AFG19733.1;Name=AFG19733.1;gbkey=CDS;product=3b;protein_id=AFG19733.1
+JQ404409.1	Genbank	CDS	25286	26020	.	+	0	ID=cds-AFG19732.1;Dbxref=NCBI_GP:AFG19732.1;Name=AFG19732.1;gbkey=CDS;product=3c;protein_id=AFG19732.1
+JQ404409.1	Genbank	CDS	26007	26255	.	+	0	ID=cds-AFG19731.1;Dbxref=NCBI_GP:AFG19731.1;Name=AFG19731.1;gbkey=CDS;product=envelope;protein_id=AFG19731.1
+JQ404409.1	Genbank	CDS	26185	27054	.	+	0	ID=cds-AFG19730.1;Dbxref=NCBI_GP:AFG19730.1;Name=AFG19730.1;gbkey=CDS;product=membrane;protein_id=AFG19730.1
+JQ404409.1	Genbank	CDS	27067	28215	.	+	0	ID=cds-AFG19729.1;Dbxref=NCBI_GP:AFG19729.1;Name=AFG19729.1;gbkey=CDS;product=nucleocapsid;protein_id=AFG19729.1
+JQ404409.1	Genbank	CDS	28220	28525	.	+	0	ID=cds-AFG19728.1;Dbxref=NCBI_GP:AFG19728.1;Name=AFG19728.1;gbkey=CDS;product=7a;protein_id=AFG19728.1
+JQ404409.1	Genbank	CDS	28530	29171	.	+	0	ID=cds-AFG19727.1;Dbxref=NCBI_GP:AFG19727.1;Name=AFG19727.1;gbkey=CDS;product=7b;protein_id=AFG19727.1
+

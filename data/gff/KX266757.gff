@@ -1,0 +1,25 @@
+##sequence-region KX266757.1 1 27231
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+KX266757.1	Genbank	region	1	27231	.	+	.	ID=KX266757.1:1..27231;Dbxref=taxon:11120;collection-date=2008;country=Taiwan;gbkey=Src;genome=genomic;genotype=TW-1;isolate=3575/08;mol_type=genomic RNA;nat-host=Gallus gallus;note=nephropathogenic
+KX266757.1	Genbank	gene	528	20488	.	+	.	ID=gene-1ab;Name=1ab;gbkey=Gene;gene=1ab;gene_biotype=protein_coding
+KX266757.1	Genbank	CDS	528	12435	.	+	0	ID=cds-AOC59721.1;Parent=gene-1ab;Dbxref=NCBI_GP:AOC59721.1;Name=AOC59721.1;Note=translated as extension of polyprotein 1ab via ribosomal frameshift;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=1ab pol protein;protein_id=AOC59721.1
+KX266757.1	Genbank	CDS	12435	20488	.	+	2	ID=cds-AOC59721.1;Parent=gene-1ab;Dbxref=NCBI_GP:AOC59721.1;Name=AOC59721.1;Note=translated as extension of polyprotein 1ab via ribosomal frameshift;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=1ab pol protein;protein_id=AOC59721.1
+KX266757.1	Genbank	gene	528	12455	.	+	.	ID=gene-1a;Name=1a;gbkey=Gene;gene=1a;gene_biotype=protein_coding
+KX266757.1	Genbank	CDS	528	12455	.	+	0	ID=cds-AOC59722.1;Parent=gene-1a;Dbxref=NCBI_GP:AOC59722.1;Name=AOC59722.1;gbkey=CDS;gene=1a;product=1a pol protein;protein_id=AOC59722.1
+KX266757.1	Genbank	gene	20439	23936	.	+	.	ID=gene-s;Name=s;gbkey=Gene;gene=s;gene_biotype=protein_coding
+KX266757.1	Genbank	CDS	20439	23936	.	+	0	ID=cds-AOC59723.1;Parent=gene-s;Dbxref=NCBI_GP:AOC59723.1;Name=AOC59723.1;Note=processed proteolytically into S1 and S2 protein%3B related to neutralization and type-specific antibodies%3B structure protein;gbkey=CDS;gene=s;product=spike protein;protein_id=AOC59723.1
+KX266757.1	Genbank	gene	23936	24109	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+KX266757.1	Genbank	CDS	23936	24109	.	+	0	ID=cds-AOC59724.1;Parent=gene-3a;Dbxref=NCBI_GP:AOC59724.1;Name=AOC59724.1;gbkey=CDS;gene=3a;product=3a protein;protein_id=AOC59724.1
+KX266757.1	Genbank	gene	24109	24300	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+KX266757.1	Genbank	CDS	24109	24300	.	+	0	ID=cds-AOC59725.1;Parent=gene-3b;Dbxref=NCBI_GP:AOC59725.1;Name=AOC59725.1;gbkey=CDS;gene=3b;product=3b protein;protein_id=AOC59725.1
+KX266757.1	Genbank	gene	24284	24610	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+KX266757.1	Genbank	CDS	24284	24610	.	+	0	ID=cds-AOC59730.1;Parent=gene-E;Dbxref=NCBI_GP:AOC59730.1;Name=AOC59730.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=AOC59730.1
+KX266757.1	Genbank	gene	24582	25259	.	+	.	ID=gene-M protein;Name=M protein;gbkey=Gene;gene=M protein;gene_biotype=protein_coding
+KX266757.1	Genbank	CDS	24582	25259	.	+	0	ID=cds-AOC59729.1;Parent=gene-M protein;Dbxref=NCBI_GP:AOC59729.1;Name=AOC59729.1;gbkey=CDS;gene=M protein;product=membrane protein;protein_id=AOC59729.1
+KX266757.1	Genbank	gene	25623	25814	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+KX266757.1	Genbank	CDS	25623	25814	.	+	0	ID=cds-AOC59726.1;Parent=gene-5a;Dbxref=NCBI_GP:AOC59726.1;Name=AOC59726.1;gbkey=CDS;gene=5a;product=5a protein;protein_id=AOC59726.1
+KX266757.1	Genbank	gene	25811	26059	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+KX266757.1	Genbank	CDS	25811	26059	.	+	0	ID=cds-AOC59727.1;Parent=gene-5b;Dbxref=NCBI_GP:AOC59727.1;Name=AOC59727.1;gbkey=CDS;gene=5b;product=5b protein;protein_id=AOC59727.1
+KX266757.1	Genbank	gene	26002	27231	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KX266757.1	Genbank	CDS	26002	27231	.	+	0	ID=cds-AOC59728.1;Parent=gene-N;Dbxref=NCBI_GP:AOC59728.1;Name=AOC59728.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=AOC59728.1
+

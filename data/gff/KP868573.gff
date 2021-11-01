@@ -1,0 +1,25 @@
+##sequence-region KP868573.1 1 27601
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+KP868573.1	Genbank	region	1	27601	.	+	.	ID=KP868573.1:1..27601;Dbxref=taxon:11120;collection-date=2013;country=China;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Gallus gallus;strain=CK/CH/LJL/130908
+KP868573.1	Genbank	gene	529	20351	.	+	.	ID=gene-1ab;Name=1ab;gbkey=Gene;gene=1ab;gene_biotype=protein_coding
+KP868573.1	Genbank	CDS	529	12288	.	+	0	ID=cds-ALC78746.1;Parent=gene-1ab;Dbxref=NCBI_GP:ALC78746.1;Name=ALC78746.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=1ab protein;protein_id=ALC78746.1
+KP868573.1	Genbank	CDS	12288	20351	.	+	0	ID=cds-ALC78746.1;Parent=gene-1ab;Dbxref=NCBI_GP:ALC78746.1;Name=ALC78746.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=1ab protein;protein_id=ALC78746.1
+KP868573.1	Genbank	gene	529	12318	.	+	.	ID=gene-1a;Name=1a;gbkey=Gene;gene=1a;gene_biotype=protein_coding
+KP868573.1	Genbank	CDS	529	12318	.	+	0	ID=cds-ALC78755.1;Parent=gene-1a;Dbxref=NCBI_GP:ALC78755.1;Name=ALC78755.1;gbkey=CDS;gene=1a;product=1a protein;protein_id=ALC78755.1
+KP868573.1	Genbank	gene	20302	23790	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KP868573.1	Genbank	CDS	20302	23790	.	+	0	ID=cds-ALC78747.1;Parent=gene-S;Dbxref=NCBI_GP:ALC78747.1;Name=ALC78747.1;gbkey=CDS;gene=S;product=S protein;protein_id=ALC78747.1
+KP868573.1	Genbank	gene	23790	23963	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+KP868573.1	Genbank	CDS	23790	23963	.	+	0	ID=cds-ALC78748.1;Parent=gene-3a;Dbxref=NCBI_GP:ALC78748.1;Name=ALC78748.1;gbkey=CDS;gene=3a;product=3a protein;protein_id=ALC78748.1
+KP868573.1	Genbank	gene	23963	24157	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+KP868573.1	Genbank	CDS	23963	24157	.	+	0	ID=cds-ALC78749.1;Parent=gene-3b;Dbxref=NCBI_GP:ALC78749.1;Name=ALC78749.1;gbkey=CDS;gene=3b;product=3b protein;protein_id=ALC78749.1
+KP868573.1	Genbank	gene	24138	24461	.	+	.	ID=gene-3c;Name=3c;gbkey=Gene;gene=3c;gene_biotype=protein_coding
+KP868573.1	Genbank	CDS	24138	24461	.	+	0	ID=cds-ALC78750.1;Parent=gene-3c;Dbxref=NCBI_GP:ALC78750.1;Name=ALC78750.1;gbkey=CDS;gene=3c;product=3c protein;protein_id=ALC78750.1
+KP868573.1	Genbank	gene	24439	25110	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KP868573.1	Genbank	CDS	24439	25110	.	+	0	ID=cds-ALC78751.1;Parent=gene-M;Dbxref=NCBI_GP:ALC78751.1;Name=ALC78751.1;gbkey=CDS;gene=M;product=M protein;protein_id=ALC78751.1
+KP868573.1	Genbank	gene	25470	25667	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+KP868573.1	Genbank	CDS	25470	25667	.	+	0	ID=cds-ALC78752.1;Parent=gene-5a;Dbxref=NCBI_GP:ALC78752.1;Name=ALC78752.1;gbkey=CDS;gene=5a;product=5a protein;protein_id=ALC78752.1
+KP868573.1	Genbank	gene	25664	25912	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+KP868573.1	Genbank	CDS	25664	25912	.	+	0	ID=cds-ALC78753.1;Parent=gene-5b;Dbxref=NCBI_GP:ALC78753.1;Name=ALC78753.1;gbkey=CDS;gene=5b;product=5b protein;protein_id=ALC78753.1
+KP868573.1	Genbank	gene	25855	27084	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KP868573.1	Genbank	CDS	25855	27084	.	+	0	ID=cds-ALC78754.1;Parent=gene-N;Dbxref=NCBI_GP:ALC78754.1;Name=ALC78754.1;gbkey=CDS;gene=N;product=N protein;protein_id=ALC78754.1
+

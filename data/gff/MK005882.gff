@@ -1,0 +1,12 @@
+##sequence-region MK005882.1 1 25414
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1586324
+MK005882.1	Genbank	region	1	25414	.	+	.	ID=MK005882.1:1..25414;Dbxref=taxon:1586324;collection-date=Mar-2018;country=China;gbkey=Src;genome=genomic;isolation-source=small intestine;mol_type=genomic RNA;nat-host=porcine;strain=Swine/CHN/SC/2018/1
+MK005882.1	Genbank	CDS	540	11408	.	+	0	ID=cds-QCO76962.1;Dbxref=NCBI_GP:QCO76962.1;Name=QCO76962.1;exception=ribosomal slippage;gbkey=CDS;product=replicase polyprotein;protein_id=QCO76962.1
+MK005882.1	Genbank	CDS	11408	19336	.	+	0	ID=cds-QCO76962.1;Dbxref=NCBI_GP:QCO76962.1;Name=QCO76962.1;exception=ribosomal slippage;gbkey=CDS;product=replicase polyprotein;protein_id=QCO76962.1
+MK005882.1	Genbank	CDS	19318	22797	.	+	0	ID=cds-QCO76963.1;Dbxref=NCBI_GP:QCO76963.1;Name=QCO76963.1;gbkey=CDS;product=spike glycoprotein;protein_id=QCO76963.1
+MK005882.1	Genbank	CDS	22791	23042	.	+	0	ID=cds-QCO76964.1;Dbxref=NCBI_GP:QCO76964.1;Name=QCO76964.1;gbkey=CDS;product=envelope protein;protein_id=QCO76964.1
+MK005882.1	Genbank	CDS	23035	23688	.	+	0	ID=cds-QCO76965.1;Dbxref=NCBI_GP:QCO76965.1;Name=QCO76965.1;gbkey=CDS;product=membrane protein;protein_id=QCO76965.1
+MK005882.1	Genbank	CDS	23688	23972	.	+	0	ID=cds-QCO76966.1;Dbxref=NCBI_GP:QCO76966.1;Name=QCO76966.1;gbkey=CDS;product=non-structural 6 protein;protein_id=QCO76966.1
+MK005882.1	Genbank	CDS	23993	25021	.	+	0	ID=cds-QCO76967.1;Dbxref=NCBI_GP:QCO76967.1;Name=QCO76967.1;gbkey=CDS;product=non-structural N protein;protein_id=QCO76967.1
+MK005882.1	Genbank	CDS	24087	24689	.	+	0	ID=cds-QCO76968.1;Dbxref=NCBI_GP:QCO76968.1;Name=QCO76968.1;gbkey=CDS;product=non-structural 7 protein;protein_id=QCO76968.1
+

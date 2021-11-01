@@ -1,0 +1,22 @@
+##sequence-region AF220295.1 1 31100
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11128
+AF220295.1	Genbank	region	1	31100	.	+	.	ID=AF220295.1:1..31100;Dbxref=taxon:11128;gbkey=Src;mol_type=genomic RNA;strain=Quebec
+AF220295.1	Genbank	CDS	211	13362	.	+	0	ID=cds-AAL40396.1;Dbxref=NCBI_GP:AAL40396.1;Name=AAL40396.1;gbkey=CDS;product=RNA polymerase 1a;protein_id=AAL40396.1
+AF220295.1	Genbank	CDS	13332	21389	.	+	0	ID=cds-AAL40397.1;Dbxref=NCBI_GP:AAL40397.1;Name=AAL40397.1;Note=contains a zinc-finger motif%2C a helicase motif%2C and an RNA polymerase motif;gbkey=CDS;partial=true;product=RNA polymerase 1b;protein_id=AAL40397.1;start_range=.,13332
+AF220295.1	Genbank	gene	21521	22354	.	+	.	ID=gene-NS2;Name=NS2;gbkey=Gene;gene=NS2;gene_biotype=protein_coding
+AF220295.1	Genbank	CDS	21521	22354	.	+	0	ID=cds-AAL40398.1;Parent=gene-NS2;Dbxref=NCBI_GP:AAL40398.1;Name=AAL40398.1;gbkey=CDS;gene=NS2;product=NS2 nonstructural protein;protein_id=AAL40398.1
+AF220295.1	Genbank	gene	22366	23640	.	+	.	ID=gene-HE;Name=HE;gbkey=Gene;gene=HE;gene_biotype=protein_coding
+AF220295.1	Genbank	CDS	22366	23640	.	+	0	ID=cds-AAL40399.1;Parent=gene-HE;Dbxref=NCBI_GP:AAL40399.1;Name=AAL40399.1;gbkey=CDS;gene=HE;product=hemagglutinin-esterase envelope glycoprotein;protein_id=AAL40399.1
+AF220295.1	Genbank	gene	23655	27746	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+AF220295.1	Genbank	CDS	23655	27746	.	+	0	ID=cds-AAL40400.1;Parent=gene-S;Dbxref=NCBI_GP:AAL40400.1;Name=AAL40400.1;gbkey=CDS;gene=S;product=spike glycoprotein;protein_id=AAL40400.1
+AF220295.1	Genbank	CDS	27736	27867	.	+	0	ID=cds-AAL40401.1;Dbxref=NCBI_GP:AAL40401.1;Name=AAL40401.1;gbkey=CDS;product=4.9 kDa nonstructural protein;protein_id=AAL40401.1
+AF220295.1	Genbank	CDS	27908	28039	.	+	0	ID=cds-AAL40402.1;Dbxref=NCBI_GP:AAL40402.1;Name=AAL40402.1;gbkey=CDS;product=4.7 kDa nonstructural protein;protein_id=AAL40402.1
+AF220295.1	Genbank	CDS	28123	28386	.	+	0	ID=cds-AAL40403.1;Dbxref=NCBI_GP:AAL40403.1;Name=AAL40403.1;gbkey=CDS;product=10.1 kDa nonstructural protein;protein_id=AAL40403.1
+AF220295.1	Genbank	gene	28438	28692	.	+	.	ID=gene-sM;Name=sM;gbkey=Gene;gene=sM;gene_biotype=protein_coding
+AF220295.1	Genbank	CDS	28438	28692	.	+	0	ID=cds-AAL40404.1;Parent=gene-sM;Dbxref=NCBI_GP:AAL40404.1;Name=AAL40404.1;gbkey=CDS;gene=sM;product=small membrane protein;protein_id=AAL40404.1
+AF220295.1	Genbank	gene	28707	29399	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+AF220295.1	Genbank	CDS	28707	29399	.	+	0	ID=cds-AAL40405.1;Parent=gene-M;Dbxref=NCBI_GP:AAL40405.1;Name=AAL40405.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=AAL40405.1
+AF220295.1	Genbank	gene	29409	30755	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+AF220295.1	Genbank	CDS	29409	30755	.	+	0	ID=cds-AAL40406.1;Parent=gene-N;Dbxref=NCBI_GP:AAL40406.1;Name=AAL40406.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=AAL40406.1
+AF220295.1	Genbank	CDS	29470	30093	.	+	0	ID=cds-AAL40407.1;Dbxref=NCBI_GP:AAL40407.1;Name=AAL40407.1;gbkey=CDS;product=N internal ORF protein;protein_id=AAL40407.1
+

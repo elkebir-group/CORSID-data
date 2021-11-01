@@ -1,0 +1,17 @@
+##sequence-region KR822424.1 1 27739
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1763410
+KR822424.1	Genbank	region	1	27739	.	+	.	ID=KR822424.1:1..27739;Dbxref=taxon:1763410;collection-date=2008;country=France;gbkey=Src;genome=genomic;isolate=080385d;mol_type=genomic RNA;nat-host=turkey
+KR822424.1	Genbank	CDS	529	12381	.	+	0	ID=cds-ALQ43513.1;Dbxref=NCBI_GP:ALQ43513.1;Name=ALQ43513.1;gbkey=CDS;product=polyprotein 1a;protein_id=ALQ43513.1
+KR822424.1	Genbank	CDS	12465	20414	.	+	0	ID=cds-ALQ43514.1;Dbxref=NCBI_GP:ALQ43514.1;Name=ALQ43514.1;gbkey=CDS;partial=true;product=polyprotein 1b;protein_id=ALQ43514.1;start_range=.,12465
+KR822424.1	Genbank	CDS	20365	23961	.	+	0	ID=cds-ALQ43515.1;Dbxref=NCBI_GP:ALQ43515.1;Name=ALQ43515.1;gbkey=CDS;product=spike protein;protein_id=ALQ43515.1
+KR822424.1	Genbank	CDS	23961	24134	.	+	0	ID=cds-ALQ43516.1;Dbxref=NCBI_GP:ALQ43516.1;Name=ALQ43516.1;gbkey=CDS;product=3a;protein_id=ALQ43516.1
+KR822424.1	Genbank	CDS	24134	24328	.	+	0	ID=cds-ALQ43517.1;Dbxref=NCBI_GP:ALQ43517.1;Name=ALQ43517.1;gbkey=CDS;product=3b;protein_id=ALQ43517.1
+KR822424.1	Genbank	CDS	24309	24590	.	+	0	ID=cds-ALQ43518.1;Dbxref=NCBI_GP:ALQ43518.1;Name=ALQ43518.1;gbkey=CDS;product=envelope protein;protein_id=ALQ43518.1
+KR822424.1	Genbank	CDS	24587	25258	.	+	0	ID=cds-ALQ43519.1;Dbxref=NCBI_GP:ALQ43519.1;Name=ALQ43519.1;gbkey=CDS;product=membrane protein;protein_id=ALQ43519.1
+KR822424.1	Genbank	CDS	25259	25543	.	+	0	ID=cds-ALQ43520.1;Dbxref=NCBI_GP:ALQ43520.1;Name=ALQ43520.1;gbkey=CDS;product=4b;protein_id=ALQ43520.1
+KR822424.1	Genbank	CDS	25464	25634	.	+	0	ID=cds-ALQ43521.1;Dbxref=NCBI_GP:ALQ43521.1;Name=ALQ43521.1;gbkey=CDS;product=4c;protein_id=ALQ43521.1
+KR822424.1	Genbank	CDS	25618	25815	.	+	0	ID=cds-ALQ43522.1;Dbxref=NCBI_GP:ALQ43522.1;Name=ALQ43522.1;gbkey=CDS;product=5a;protein_id=ALQ43522.1
+KR822424.1	Genbank	CDS	25812	26060	.	+	0	ID=cds-ALQ43523.1;Dbxref=NCBI_GP:ALQ43523.1;Name=ALQ43523.1;gbkey=CDS;product=5b;protein_id=ALQ43523.1
+KR822424.1	Genbank	CDS	26003	27232	.	+	0	ID=cds-ALQ43524.1;Dbxref=NCBI_GP:ALQ43524.1;Name=ALQ43524.1;gbkey=CDS;product=nucleocapsid protein;protein_id=ALQ43524.1
+KR822424.1	Genbank	CDS	27241	27465	.	+	0	ID=cds-ALQ43525.1;Dbxref=NCBI_GP:ALQ43525.1;Name=ALQ43525.1;gbkey=CDS;product=6b;protein_id=ALQ43525.1
+

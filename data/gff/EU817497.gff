@@ -1,0 +1,21 @@
+##sequence-region EU817497.1 1 27646
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+EU817497.1	Genbank	region	1	27646	.	+	.	ID=EU817497.1:1..27646;Dbxref=taxon:11120;country=China;gbkey=Src;mol_type=genomic RNA;nat-host=chicken;note=vaccine strain;old-name=Avian infectious bronchitis virus;strain=H52
+EU817497.1	Genbank	gene	529	20363	.	+	.	ID=gene-1;Name=1;gbkey=Gene;gene=1;gene_biotype=protein_coding
+EU817497.1	Genbank	CDS	529	12300	.	+	0	ID=cds-ACJ12832.1;Parent=gene-1;Dbxref=NCBI_GP:ACJ12832.1;Name=ACJ12832.1;exception=ribosomal slippage;gbkey=CDS;gene=1;product=ORF1ab polyprotein;protein_id=ACJ12832.1
+EU817497.1	Genbank	CDS	12300	20363	.	+	0	ID=cds-ACJ12832.1;Parent=gene-1;Dbxref=NCBI_GP:ACJ12832.1;Name=ACJ12832.1;exception=ribosomal slippage;gbkey=CDS;gene=1;product=ORF1ab polyprotein;protein_id=ACJ12832.1
+EU817497.1	Genbank	CDS	529	12330	.	+	0	ID=cds-ACJ12833.1;Parent=gene-1;Dbxref=NCBI_GP:ACJ12833.1;Name=ACJ12833.1;gbkey=CDS;gene=1;product=1a;protein_id=ACJ12833.1
+EU817497.1	Genbank	gene	20314	23802	.	+	.	ID=gene-2;Name=2;gbkey=Gene;gene=2;gene_biotype=protein_coding
+EU817497.1	Genbank	CDS	20314	23802	.	+	0	ID=cds-ACJ12834.1;Parent=gene-2;Dbxref=NCBI_GP:ACJ12834.1;Name=ACJ12834.1;Note=spike protein;gbkey=CDS;gene=2;product=S;protein_id=ACJ12834.1
+EU817497.1	Genbank	gene	23802	24479	.	+	.	ID=gene-3;Name=3;gbkey=Gene;gene=3;gene_biotype=protein_coding
+EU817497.1	Genbank	CDS	23802	23975	.	+	0	ID=cds-ACJ12835.1;Parent=gene-3;Dbxref=NCBI_GP:ACJ12835.1;Name=ACJ12835.1;gbkey=CDS;gene=3;product=3a protein;protein_id=ACJ12835.1
+EU817497.1	Genbank	CDS	23975	24169	.	+	0	ID=cds-ACJ12836.1;Parent=gene-3;Dbxref=NCBI_GP:ACJ12836.1;Name=ACJ12836.1;gbkey=CDS;gene=3;product=3b;protein_id=ACJ12836.1
+EU817497.1	Genbank	CDS	24150	24479	.	+	0	ID=cds-ACJ12837.1;Parent=gene-3;Dbxref=NCBI_GP:ACJ12837.1;Name=ACJ12837.1;gbkey=CDS;gene=3;product=E;protein_id=ACJ12837.1
+EU817497.1	Genbank	gene	24451	25128	.	+	.	ID=gene-4;Name=4;gbkey=Gene;gene=4;gene_biotype=protein_coding
+EU817497.1	Genbank	CDS	24451	25128	.	+	0	ID=cds-ACJ12838.1;Parent=gene-4;Dbxref=NCBI_GP:ACJ12838.1;Name=ACJ12838.1;Note=membrane protein;gbkey=CDS;gene=4;product=M;protein_id=ACJ12838.1
+EU817497.1	Genbank	gene	25488	25930	.	+	.	ID=gene-5;Name=5;gbkey=Gene;gene=5;gene_biotype=protein_coding
+EU817497.1	Genbank	CDS	25488	25685	.	+	0	ID=cds-ACJ12839.1;Parent=gene-5;Dbxref=NCBI_GP:ACJ12839.1;Name=ACJ12839.1;gbkey=CDS;gene=5;product=5a;protein_id=ACJ12839.1
+EU817497.1	Genbank	CDS	25682	25930	.	+	0	ID=cds-ACJ12840.1;Parent=gene-5;Dbxref=NCBI_GP:ACJ12840.1;Name=ACJ12840.1;gbkey=CDS;gene=5;product=5b;protein_id=ACJ12840.1
+EU817497.1	Genbank	gene	25873	27102	.	+	.	ID=gene-6;Name=6;gbkey=Gene;gene=6;gene_biotype=protein_coding
+EU817497.1	Genbank	CDS	25873	27102	.	+	0	ID=cds-ACJ12841.1;Parent=gene-6;Dbxref=NCBI_GP:ACJ12841.1;Name=ACJ12841.1;gbkey=CDS;gene=6;product=N;protein_id=ACJ12841.1
+

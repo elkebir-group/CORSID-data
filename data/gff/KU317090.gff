@@ -1,0 +1,15 @@
+##sequence-region KU317090.1 1 27669
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+KU317090.1	Genbank	region	1	27669	.	+	.	ID=KU317090.1:1..27669;Dbxref=taxon:11120;collection-date=2011;country=China;gbkey=Src;genome=genomic;genotype=LX4;mol_type=genomic RNA;nat-host=Gallus gallus;strain=SAIBK2
+KU317090.1	Genbank	CDS	529	12357	.	+	0	ID=cds-ANI87709.1;Dbxref=NCBI_GP:ANI87709.1;Name=ANI87709.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein 1ab;protein_id=ANI87709.1
+KU317090.1	Genbank	CDS	12357	20420	.	+	0	ID=cds-ANI87709.1;Dbxref=NCBI_GP:ANI87709.1;Name=ANI87709.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein 1ab;protein_id=ANI87709.1
+KU317090.1	Genbank	CDS	529	12387	.	+	0	ID=cds-ANI87710.1;Dbxref=NCBI_GP:ANI87710.1;Name=ANI87710.1;gbkey=CDS;product=polyprotein 1a;protein_id=ANI87710.1
+KU317090.1	Genbank	CDS	20371	23868	.	+	0	ID=cds-ANI87711.1;Dbxref=NCBI_GP:ANI87711.1;Name=ANI87711.1;gbkey=CDS;product=spike protein;protein_id=ANI87711.1
+KU317090.1	Genbank	CDS	23868	24041	.	+	0	ID=cds-ANI87712.1;Dbxref=NCBI_GP:ANI87712.1;Name=ANI87712.1;gbkey=CDS;product=3a;protein_id=ANI87712.1
+KU317090.1	Genbank	CDS	24041	24232	.	+	0	ID=cds-ANI87713.1;Dbxref=NCBI_GP:ANI87713.1;Name=ANI87713.1;gbkey=CDS;product=3b;protein_id=ANI87713.1
+KU317090.1	Genbank	CDS	24213	24542	.	+	0	ID=cds-ANI87714.1;Dbxref=NCBI_GP:ANI87714.1;Name=ANI87714.1;gbkey=CDS;product=envelope protein;protein_id=ANI87714.1
+KU317090.1	Genbank	CDS	24514	25191	.	+	0	ID=cds-ANI87715.1;Dbxref=NCBI_GP:ANI87715.1;Name=ANI87715.1;gbkey=CDS;product=membrane glycoprotein;protein_id=ANI87715.1
+KU317090.1	Genbank	CDS	25551	25748	.	+	0	ID=cds-ANI87716.1;Dbxref=NCBI_GP:ANI87716.1;Name=ANI87716.1;gbkey=CDS;product=5a;protein_id=ANI87716.1
+KU317090.1	Genbank	CDS	25745	25993	.	+	0	ID=cds-ANI87717.1;Dbxref=NCBI_GP:ANI87717.1;Name=ANI87717.1;gbkey=CDS;product=5b;protein_id=ANI87717.1
+KU317090.1	Genbank	CDS	25936	27165	.	+	0	ID=cds-ANI87718.1;Dbxref=NCBI_GP:ANI87718.1;Name=ANI87718.1;gbkey=CDS;product=nucloecapsid protein;protein_id=ANI87718.1
+

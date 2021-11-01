@@ -1,0 +1,28 @@
+##sequence-region KR231009.1 1 27654
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+KR231009.1	Genbank	region	1	27654	.	+	.	ID=KR231009.1:1..27654;Dbxref=taxon:11120;collection-date=1984;country=Belgium;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Gallus gallus;serotype=Belgian nephropathogenic infectious bronchitis virus;strain=B1648
+KR231009.1	Genbank	gene	519	12368	.	+	.	ID=gene-ORF1a;Name=ORF1a;gbkey=Gene;gene=ORF1a;gene_biotype=protein_coding
+KR231009.1	Genbank	CDS	519	12368	.	+	0	ID=cds-ALH21109.1;Parent=gene-ORF1a;Dbxref=NCBI_GP:ALH21109.1;Name=ALH21109.1;Note=ORF1a;gbkey=CDS;gene=ORF1a;product=polyprotein 1a;protein_id=ALH21109.1
+KR231009.1	Genbank	gene	12443	20401	.	+	.	ID=gene-ORF1b;Name=ORF1b;gbkey=Gene;gene=ORF1b;gene_biotype=protein_coding
+KR231009.1	Genbank	CDS	12443	20401	.	+	0	ID=cds-ALH21110.1;Parent=gene-ORF1b;Dbxref=NCBI_GP:ALH21110.1;Name=ALH21110.1;Note=ORF1b;gbkey=CDS;gene=ORF1b;product=polyprotein 1b;protein_id=ALH21110.1
+KR231009.1	Genbank	CDS	20352	23852	.	+	0	ID=cds-ALH21111.1;Dbxref=NCBI_GP:ALH21111.1;Name=ALH21111.1;gbkey=CDS;product=spike protein;protein_id=ALH21111.1
+KR231009.1	Genbank	gene	23852	24025	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+KR231009.1	Genbank	CDS	23852	24025	.	+	0	ID=cds-ALH21112.1;Parent=gene-3a;Dbxref=NCBI_GP:ALH21112.1;Name=ALH21112.1;Note=3a;gbkey=CDS;gene=3a;product=non structural protein 3a;protein_id=ALH21112.1
+KR231009.1	Genbank	gene	24025	24219	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+KR231009.1	Genbank	CDS	24025	24219	.	+	0	ID=cds-ALH21113.1;Parent=gene-3b;Dbxref=NCBI_GP:ALH21113.1;Name=ALH21113.1;Note=3b;gbkey=CDS;gene=3b;product=non structural protein 3b;protein_id=ALH21113.1
+KR231009.1	Genbank	gene	24200	24484	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+KR231009.1	Genbank	CDS	24200	24484	.	+	0	ID=cds-ALH21114.1;Parent=gene-E;Dbxref=NCBI_GP:ALH21114.1;Name=ALH21114.1;Note=structural protein;gbkey=CDS;gene=E;product=envelope protein;protein_id=ALH21114.1
+KR231009.1	Genbank	gene	24477	25154	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KR231009.1	Genbank	CDS	24477	25154	.	+	0	ID=cds-ALH21115.1;Parent=gene-M;Dbxref=NCBI_GP:ALH21115.1;Name=ALH21115.1;Note=structural protein;gbkey=CDS;gene=M;product=membrane protein;protein_id=ALH21115.1
+KR231009.1	Genbank	gene	25155	25439	.	+	.	ID=gene-4b;Name=4b;gbkey=Gene;gene=4b;gene_biotype=protein_coding
+KR231009.1	Genbank	CDS	25155	25439	.	+	0	ID=cds-ALH21116.1;Parent=gene-4b;Dbxref=NCBI_GP:ALH21116.1;Name=ALH21116.1;Note=4b;gbkey=CDS;gene=4b;product=non structural protein 4b;protein_id=ALH21116.1
+KR231009.1	Genbank	CDS	25360	25530	.	+	0	ID=cds-ALH21117.1;Dbxref=NCBI_GP:ALH21117.1;Name=ALH21117.1;gbkey=CDS;product=putative non structural protein;protein_id=ALH21117.1
+KR231009.1	Genbank	gene	25514	25711	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+KR231009.1	Genbank	CDS	25514	25711	.	+	0	ID=cds-ALH21118.1;Parent=gene-5a;Dbxref=NCBI_GP:ALH21118.1;Name=ALH21118.1;Note=5a;gbkey=CDS;gene=5a;product=non structural protein 5a;protein_id=ALH21118.1
+KR231009.1	Genbank	gene	25708	25956	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+KR231009.1	Genbank	CDS	25708	25956	.	+	0	ID=cds-ALH21119.1;Parent=gene-5b;Dbxref=NCBI_GP:ALH21119.1;Name=ALH21119.1;Note=5b;gbkey=CDS;gene=5b;product=non structural protein 5b;protein_id=ALH21119.1
+KR231009.1	Genbank	gene	25899	27128	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KR231009.1	Genbank	CDS	25899	27128	.	+	0	ID=cds-ALH21120.1;Parent=gene-N;Dbxref=NCBI_GP:ALH21120.1;Name=ALH21120.1;Note=structural protein;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=ALH21120.1
+KR231009.1	Genbank	gene	27137	27361	.	+	.	ID=gene-6b;Name=6b;gbkey=Gene;gene=6b;gene_biotype=protein_coding
+KR231009.1	Genbank	CDS	27137	27361	.	+	0	ID=cds-ALH21121.1;Parent=gene-6b;Dbxref=NCBI_GP:ALH21121.1;Name=ALH21121.1;Note=6b;gbkey=CDS;gene=6b;product=non structural protein 6b;protein_id=ALH21121.1
+

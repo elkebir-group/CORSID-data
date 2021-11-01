@@ -1,0 +1,15 @@
+##sequence-region JQ088078.1 1 27664
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+JQ088078.1	Genbank	region	1	27664	.	+	.	ID=JQ088078.1:1..27664;Dbxref=taxon:11120;collection-date=2010;country=Sweden;gbkey=Src;genome=genomic;genotype=European QX-like;isolation-source=allantoic fluid;mol_type=genomic RNA;nat-host=chicken;strain=CK/SWE/0658946/10
+JQ088078.1	Genbank	CDS	497	12328	.	+	0	ID=cds-AFJ11175.1;Dbxref=NCBI_GP:AFJ11175.1;Name=AFJ11175.1;exception=ribosomal slippage;gbkey=CDS;product=ORF2b;protein_id=AFJ11175.1
+JQ088078.1	Genbank	CDS	12328	20391	.	+	0	ID=cds-AFJ11175.1;Dbxref=NCBI_GP:AFJ11175.1;Name=AFJ11175.1;exception=ribosomal slippage;gbkey=CDS;product=ORF2b;protein_id=AFJ11175.1
+JQ088078.1	Genbank	CDS	497	12358	.	+	0	ID=cds-AFJ11174.1;Dbxref=NCBI_GP:AFJ11174.1;Name=AFJ11174.1;gbkey=CDS;product=ORF1a;protein_id=AFJ11174.1
+JQ088078.1	Genbank	CDS	20342	23839	.	+	0	ID=cds-AFJ11176.1;Dbxref=NCBI_GP:AFJ11176.1;Name=AFJ11176.1;gbkey=CDS;product=S protein;protein_id=AFJ11176.1
+JQ088078.1	Genbank	CDS	23839	24012	.	+	0	ID=cds-AFJ11177.1;Dbxref=NCBI_GP:AFJ11177.1;Name=AFJ11177.1;gbkey=CDS;product=ORF3a;protein_id=AFJ11177.1
+JQ088078.1	Genbank	CDS	24012	24203	.	+	0	ID=cds-AFJ11178.1;Dbxref=NCBI_GP:AFJ11178.1;Name=AFJ11178.1;gbkey=CDS;product=ORF3b;protein_id=AFJ11178.1
+JQ088078.1	Genbank	CDS	24184	24516	.	+	0	ID=cds-AFJ11179.1;Dbxref=NCBI_GP:AFJ11179.1;Name=AFJ11179.1;gbkey=CDS;product=E protein;protein_id=AFJ11179.1
+JQ088078.1	Genbank	CDS	24485	25198	.	+	0	ID=cds-AFJ11180.1;Dbxref=NCBI_GP:AFJ11180.1;Name=AFJ11180.1;gbkey=CDS;product=M protein;protein_id=AFJ11180.1
+JQ088078.1	Genbank	CDS	25549	25746	.	+	0	ID=cds-AFJ11181.1;Dbxref=NCBI_GP:AFJ11181.1;Name=AFJ11181.1;gbkey=CDS;product=ORF5a;protein_id=AFJ11181.1
+JQ088078.1	Genbank	CDS	25743	25991	.	+	0	ID=cds-AFJ11182.1;Dbxref=NCBI_GP:AFJ11182.1;Name=AFJ11182.1;gbkey=CDS;product=ORF5b;protein_id=AFJ11182.1
+JQ088078.1	Genbank	CDS	25934	27163	.	+	0	ID=cds-AFJ11183.1;Dbxref=NCBI_GP:AFJ11183.1;Name=AFJ11183.1;gbkey=CDS;product=N protein;protein_id=AFJ11183.1
+

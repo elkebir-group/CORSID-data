@@ -1,0 +1,15 @@
+##sequence-region MH021175.1 1 27599
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=694014
+MH021175.1	Genbank	region	1	27599	.	+	.	ID=MH021175.1:1..27599;Dbxref=taxon:694014;collection-date=1979;country=Netherlands;gb-acronym=ACoV;gbkey=Src;genome=genomic;genotype=GI-12;mol_type=genomic RNA;note=total RNA extracted from an inactivated aliquote of the D274 strain;strain=D274
+MH021175.1	Genbank	CDS	529	12299	.	+	0	ID=cds-AXB38892.1;Dbxref=NCBI_GP:AXB38892.1;Name=AXB38892.1;exception=ribosomal slippage;gbkey=CDS;product=ORF1ab;protein_id=AXB38892.1
+MH021175.1	Genbank	CDS	12299	20360	.	+	1	ID=cds-AXB38892.1;Dbxref=NCBI_GP:AXB38892.1;Name=AXB38892.1;exception=ribosomal slippage;gbkey=CDS;product=ORF1ab;protein_id=AXB38892.1
+MH021175.1	Genbank	CDS	529	12327	.	+	0	ID=cds-AXB38893.1;Dbxref=NCBI_GP:AXB38893.1;Name=AXB38893.1;gbkey=CDS;product=ORF1a;protein_id=AXB38893.1
+MH021175.1	Genbank	CDS	20311	23802	.	+	0	ID=cds-AXB38894.1;Dbxref=NCBI_GP:AXB38894.1;Name=AXB38894.1;gbkey=CDS;product=spike S glycoprotein;protein_id=AXB38894.1
+MH021175.1	Genbank	CDS	23802	23975	.	+	0	ID=cds-AXB38895.1;Dbxref=NCBI_GP:AXB38895.1;Name=AXB38895.1;gbkey=CDS;product=3a protein;protein_id=AXB38895.1
+MH021175.1	Genbank	CDS	23975	24169	.	+	0	ID=cds-AXB38896.1;Dbxref=NCBI_GP:AXB38896.1;Name=AXB38896.1;gbkey=CDS;product=3b protein;protein_id=AXB38896.1
+MH021175.1	Genbank	CDS	24150	24473	.	+	0	ID=cds-AXB38897.1;Dbxref=NCBI_GP:AXB38897.1;Name=AXB38897.1;gbkey=CDS;product=envelope E protein;protein_id=AXB38897.1
+MH021175.1	Genbank	CDS	24442	25122	.	+	0	ID=cds-AXB38898.1;Dbxref=NCBI_GP:AXB38898.1;Name=AXB38898.1;gbkey=CDS;product=membrane M protein;protein_id=AXB38898.1
+MH021175.1	Genbank	CDS	25481	25678	.	+	0	ID=cds-AXB38899.1;Dbxref=NCBI_GP:AXB38899.1;Name=AXB38899.1;gbkey=CDS;product=5a protein;protein_id=AXB38899.1
+MH021175.1	Genbank	CDS	25675	25923	.	+	0	ID=cds-AXB38900.1;Dbxref=NCBI_GP:AXB38900.1;Name=AXB38900.1;gbkey=CDS;product=5b protein;protein_id=AXB38900.1
+MH021175.1	Genbank	CDS	25866	27095	.	+	0	ID=cds-AXB38901.1;Dbxref=NCBI_GP:AXB38901.1;Name=AXB38901.1;gbkey=CDS;product=nucleopcapsid N protein;protein_id=AXB38901.1
+

@@ -1,0 +1,38 @@
+##sequence-region MF113046.1 1 28924
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2163884
+MF113046.1	Genbank	region	1	28924	.	+	.	ID=MF113046.1:1..28924;Dbxref=taxon:2163884;collection-date=2016;country=China;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=mink;strain=Mink/China/1/2016
+MF113046.1	Genbank	gene	275	20295	.	+	.	ID=gene-1ab;Name=1ab;gbkey=Gene;gene=1ab;gene_biotype=protein_coding
+MF113046.1	Genbank	CDS	275	12262	.	+	0	ID=cds-AVY53334.1;Parent=gene-1ab;Dbxref=NCBI_GP:AVY53334.1;Name=AVY53334.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=ORF1ab polyprotein;protein_id=AVY53334.1
+MF113046.1	Genbank	CDS	12262	20295	.	+	0	ID=cds-AVY53334.1;Parent=gene-1ab;Dbxref=NCBI_GP:AVY53334.1;Name=AVY53334.1;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=ORF1ab polyprotein;protein_id=AVY53334.1
+MF113046.1	Genbank	mature_protein_region_of_CDS	12286	13332	.	+	.	ID=id-AVY53334.1:4005..4353;Parent=cds-AVY53334.1;gbkey=Prot;product=RPol_N
+MF113046.1	Genbank	mature_protein_region_of_CDS	15838	16275	.	+	.	ID=id-AVY53334.1:5189..5334;Note=AAA domain;Parent=cds-AVY53334.1;gbkey=Prot;product=AAA_11
+MF113046.1	Genbank	mature_protein_region_of_CDS	16084	16803	.	+	.	ID=id-AVY53334.1:5271..5510;Note=superfamily I DNA and/or RNA helicase%3B replication%2C recombination and repair;Parent=cds-AVY53334.1;gbkey=Prot;product=DNA2
+MF113046.1	Genbank	mature_protein_region_of_CDS	16312	16773	.	+	.	ID=id-AVY53334.1:5347..5500;Note=UvrD-like helicase C-terminal domain;Parent=cds-AVY53334.1;gbkey=Prot;product=UvrD_C_2
+MF113046.1	Genbank	mature_protein_region_of_CDS	16837	18579	.	+	.	ID=id-AVY53334.1:5522..6102;Parent=cds-AVY53334.1;gbkey=Prot;product=NSP11
+MF113046.1	Genbank	mature_protein_region_of_CDS	19396	20289	.	+	.	ID=id-AVY53334.1:6375..6672;Parent=cds-AVY53334.1;gbkey=Prot;product=NSP13
+MF113046.1	Genbank	gene	275	12304	.	+	.	ID=gene-1a;Name=1a;gbkey=Gene;gene=1a;gene_biotype=protein_coding
+MF113046.1	Genbank	CDS	275	12304	.	+	0	ID=cds-AVY53335.1;Parent=gene-1a;Dbxref=NCBI_GP:AVY53335.1;Name=AVY53335.1;gbkey=CDS;gene=1a;product=ORF1a;protein_id=AVY53335.1
+MF113046.1	Genbank	mature_protein_region_of_CDS	275	601	.	+	.	ID=id-AVY53335.1:1..109;Parent=cds-AVY53335.1;gbkey=Prot;product=CNV-Replicase_N
+MF113046.1	Genbank	mature_protein_region_of_CDS	3446	4069	.	+	.	ID=id-AVY53335.1:1058..1265;Note=papain-like viral protease;Parent=cds-AVY53335.1;gbkey=Prot;product=viral protease
+MF113046.1	Genbank	mature_protein_region_of_CDS	4289	4681	.	+	.	ID=id-AVY53335.1:1339..1469;Note=Appr-1'-p processing enzyme;Parent=cds-AVY53335.1;gbkey=Prot;product=A1pp
+MF113046.1	Genbank	mature_protein_region_of_CDS	4763	5647	.	+	.	ID=id-AVY53335.1:1497..1791;Note=papain-like viral protease;Parent=cds-AVY53335.1;gbkey=Prot;product=viral protease
+MF113046.1	Genbank	mature_protein_region_of_CDS	8603	8878	.	+	.	ID=id-AVY53335.1:2777..2868;Note=nonstructural protein 4;Parent=cds-AVY53335.1;gbkey=Prot;product=NSP4
+MF113046.1	Genbank	mature_protein_region_of_CDS	8966	9787	.	+	.	ID=id-AVY53335.1:2898..3171;Note=endopeptidase C30;Parent=cds-AVY53335.1;gbkey=Prot;product=peptidase C30
+MF113046.1	Genbank	mature_protein_region_of_CDS	9485	10495	.	+	.	ID=id-AVY53335.1:3071..3407;Note=MFS family permease%3B carbohydrate transport and metabolism%2C amino acid transport and metabolism%2C inorganic ion transport and metabolism;Parent=cds-AVY53335.1;gbkey=Prot;product=ProP
+MF113046.1	Genbank	mature_protein_region_of_CDS	9815	10099	.	+	.	ID=id-AVY53335.1:3181..3275;Note=putative cytochrome d ubiquinol oxidase subunit 2;Parent=cds-AVY53335.1;gbkey=Prot;product=PRK15003
+MF113046.1	Genbank	mature_protein_region_of_CDS	10673	10921	.	+	.	ID=id-AVY53335.1:3467..3549;Note=replicase;Parent=cds-AVY53335.1;gbkey=Prot;product=NSP7
+MF113046.1	Genbank	mature_protein_region_of_CDS	10922	11506	.	+	.	ID=id-AVY53335.1:3550..3744;Note=replicase;Parent=cds-AVY53335.1;gbkey=Prot;product=nsp8
+MF113046.1	Genbank	mature_protein_region_of_CDS	11507	11842	.	+	.	ID=id-AVY53335.1:3745..3856;Note=replicase;Parent=cds-AVY53335.1;gbkey=Prot;product=nsp9
+MF113046.1	Genbank	mature_protein_region_of_CDS	11873	12229	.	+	.	ID=id-AVY53335.1:3867..3985;Note=RNA synthesis protein;Parent=cds-AVY53335.1;gbkey=Prot;product=NSP10
+MF113046.1	Genbank	gene	20297	24577	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MF113046.1	Genbank	CDS	20297	24577	.	+	0	ID=cds-AVY53336.1;Parent=gene-S;Dbxref=NCBI_GP:AVY53336.1;Name=AVY53336.1;gbkey=CDS;gene=S;product=spike protein;protein_id=AVY53336.1
+MF113046.1	Genbank	gene	25308	25556	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MF113046.1	Genbank	CDS	25308	25556	.	+	0	ID=cds-AVY53337.1;Parent=gene-E;Dbxref=NCBI_GP:AVY53337.1;Name=AVY53337.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=AVY53337.1
+MF113046.1	Genbank	gene	25573	26379	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MF113046.1	Genbank	CDS	25573	26379	.	+	0	ID=cds-AVY53338.1;Parent=gene-M;Dbxref=NCBI_GP:AVY53338.1;Name=AVY53338.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=AVY53338.1
+MF113046.1	Genbank	gene	26394	27524	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MF113046.1	Genbank	CDS	26394	27524	.	+	0	ID=cds-AVY53339.1;Parent=gene-N;Dbxref=NCBI_GP:AVY53339.1;Name=AVY53339.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=AVY53339.1
+MF113046.1	Genbank	CDS	27529	27825	.	+	0	ID=cds-AVY53340.1;Dbxref=NCBI_GP:AVY53340.1;Name=AVY53340.1;gbkey=CDS;product=non-structural protein 7a;protein_id=AVY53340.1
+MF113046.1	Genbank	CDS	27810	28031	.	+	0	ID=cds-AVY53341.1;Dbxref=NCBI_GP:AVY53341.1;Name=AVY53341.1;gbkey=CDS;product=hypothetical protein;protein_id=AVY53341.1
+MF113046.1	Genbank	CDS	27973	28587	.	+	0	ID=cds-AVY53342.1;Dbxref=NCBI_GP:AVY53342.1;Name=AVY53342.1;gbkey=CDS;product=Orf7b;protein_id=AVY53342.1
+

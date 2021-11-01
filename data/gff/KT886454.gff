@@ -1,0 +1,14 @@
+##sequence-region KT886454.1 1 27418
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+KT886454.1	Genbank	region	1	27418	.	+	.	ID=KT886454.1:1..27418;Dbxref=taxon:11120;collection-date=2009;country=Poland;gbkey=Src;genome=genomic;genotype=QX;isolate=gammaCoV/Ck/Poland/74/2009;mol_type=genomic RNA;nat-host=Gallus gallus
+KT886454.1	Genbank	CDS	517	12342	.	+	0	ID=cds-AMO03290.1;Dbxref=NCBI_GP:AMO03290.1;Name=AMO03290.1;gbkey=CDS;product=polyprotein 1a;protein_id=AMO03290.1
+KT886454.1	Genbank	CDS	12417	20375	.	+	0	ID=cds-AMO03291.1;Dbxref=NCBI_GP:AMO03291.1;Name=AMO03291.1;gbkey=CDS;product=polyprotein 1b;protein_id=AMO03291.1
+KT886454.1	Genbank	CDS	20326	23823	.	+	0	ID=cds-AMO03292.1;Dbxref=NCBI_GP:AMO03292.1;Name=AMO03292.1;gbkey=CDS;product=spike protein;protein_id=AMO03292.1
+KT886454.1	Genbank	CDS	23823	23996	.	+	0	ID=cds-AMO03293.1;Dbxref=NCBI_GP:AMO03293.1;Name=AMO03293.1;gbkey=CDS;product=ORF3a;protein_id=AMO03293.1
+KT886454.1	Genbank	CDS	23996	24187	.	+	0	ID=cds-AMO03294.1;Dbxref=NCBI_GP:AMO03294.1;Name=AMO03294.1;gbkey=CDS;product=ORF3b;protein_id=AMO03294.1
+KT886454.1	Genbank	CDS	24168	24500	.	+	0	ID=cds-AMO03295.1;Dbxref=NCBI_GP:AMO03295.1;Name=AMO03295.1;gbkey=CDS;product=envelope protein;protein_id=AMO03295.1
+KT886454.1	Genbank	CDS	24355	25149	.	+	0	ID=cds-AMO03296.1;Dbxref=NCBI_GP:AMO03296.1;Name=AMO03296.1;gbkey=CDS;product=membrane protein;protein_id=AMO03296.1
+KT886454.1	Genbank	CDS	25509	25706	.	+	0	ID=cds-AMO03297.1;Dbxref=NCBI_GP:AMO03297.1;Name=AMO03297.1;gbkey=CDS;product=ORF5a;protein_id=AMO03297.1
+KT886454.1	Genbank	CDS	25703	25951	.	+	0	ID=cds-AMO03298.1;Dbxref=NCBI_GP:AMO03298.1;Name=AMO03298.1;gbkey=CDS;product=ORF5b;protein_id=AMO03298.1
+KT886454.1	Genbank	CDS	25894	27123	.	+	0	ID=cds-AMO03299.1;Dbxref=NCBI_GP:AMO03299.1;Name=AMO03299.1;gbkey=CDS;product=nucleocapsid protein;protein_id=AMO03299.1
+

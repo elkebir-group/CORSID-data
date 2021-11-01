@@ -1,0 +1,16 @@
+##sequence-region HQ012371.1 1 29274
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=871682
+HQ012371.1	Genbank	region	1	29274	.	+	.	ID=HQ012371.1:1..29274;Dbxref=taxon:871682;collection-date=25-Jan-2008;country=Netherlands;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=feline;strain=UU31
+HQ012371.1	Genbank	CDS	293	12340	.	+	0	ID=cds-ADL71485.1;Dbxref=NCBI_GP:ADL71485.1;Name=ADL71485.1;exception=ribosomal slippage;gbkey=CDS;product=orf1ab polyprotein;protein_id=ADL71485.1
+HQ012371.1	Genbank	CDS	12340	20382	.	+	0	ID=cds-ADL71485.1;Dbxref=NCBI_GP:ADL71485.1;Name=ADL71485.1;exception=ribosomal slippage;gbkey=CDS;product=orf1ab polyprotein;protein_id=ADL71485.1
+HQ012371.1	Genbank	CDS	293	12382	.	+	0	ID=cds-ADL71484.1;Dbxref=NCBI_GP:ADL71484.1;Name=ADL71484.1;gbkey=CDS;product=polyprotein orf1a;protein_id=ADL71484.1
+HQ012371.1	Genbank	CDS	20379	24785	.	+	0	ID=cds-ADL71486.1;Dbxref=NCBI_GP:ADL71486.1;Name=ADL71486.1;gbkey=CDS;product=spike protein;protein_id=ADL71486.1
+HQ012371.1	Genbank	CDS	24797	25009	.	+	0	ID=cds-ADL71487.1;Dbxref=NCBI_GP:ADL71487.1;Name=ADL71487.1;gbkey=CDS;product=non-structural protein 3a;protein_id=ADL71487.1
+HQ012371.1	Genbank	CDS	24957	25178	.	+	0	ID=cds-ADL71488.1;Dbxref=NCBI_GP:ADL71488.1;Name=ADL71488.1;gbkey=CDS;product=non-structural protein 3b;protein_id=ADL71488.1
+HQ012371.1	Genbank	CDS	25175	25888	.	+	0	ID=cds-ADL71489.1;Dbxref=NCBI_GP:ADL71489.1;Name=ADL71489.1;gbkey=CDS;product=non-structural protein 3c;protein_id=ADL71489.1
+HQ012371.1	Genbank	CDS	25875	26123	.	+	0	ID=cds-ADL71490.1;Dbxref=NCBI_GP:ADL71490.1;Name=ADL71490.1;gbkey=CDS;product=envelope protein;protein_id=ADL71490.1
+HQ012371.1	Genbank	CDS	26134	26925	.	+	0	ID=cds-ADL71491.1;Dbxref=NCBI_GP:ADL71491.1;Name=ADL71491.1;gbkey=CDS;product=membrane protein;protein_id=ADL71491.1
+HQ012371.1	Genbank	CDS	26938	28071	.	+	0	ID=cds-ADL71492.1;Dbxref=NCBI_GP:ADL71492.1;Name=ADL71492.1;gbkey=CDS;product=nucleocapsid protein;protein_id=ADL71492.1
+HQ012371.1	Genbank	CDS	28076	28381	.	+	0	ID=cds-ADL71493.1;Dbxref=NCBI_GP:ADL71493.1;Name=ADL71493.1;gbkey=CDS;product=non-structural protein 7a;protein_id=ADL71493.1
+HQ012371.1	Genbank	CDS	28386	29006	.	+	0	ID=cds-ADL71494.1;Dbxref=NCBI_GP:ADL71494.1;Name=ADL71494.1;gbkey=CDS;product=non-structural protein 7b;protein_id=ADL71494.1
+

@@ -1,0 +1,27 @@
+##sequence-region DQ848678.1 1 29277
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12663
+DQ848678.1	Genbank	region	1	29277	.	+	.	ID=DQ848678.1:1..29277;Dbxref=taxon:12663;gbkey=Src;isolation-source=jejunum of a kitten with feline infectious peritonitis;mol_type=genomic RNA;strain=FCoV C1Je
+DQ848678.1	Genbank	CDS	311	12358	.	+	0	ID=cds-ABI14446.1;Dbxref=NCBI_GP:ABI14446.1;Name=ABI14446.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein 1ab;protein_id=ABI14446.1
+DQ848678.1	Genbank	CDS	12358	20391	.	+	0	ID=cds-ABI14446.1;Dbxref=NCBI_GP:ABI14446.1;Name=ABI14446.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein 1ab;protein_id=ABI14446.1
+DQ848678.1	Genbank	mature_protein_region_of_CDS	12332	12358	.	+	.	ID=id-ABI14446.1:4008..4936;Note=RNA-dependent RNA polymerase;Parent=cds-ABI14446.1;gbkey=Prot;product=nsp12
+DQ848678.1	Genbank	mature_protein_region_of_CDS	12358	15117	.	+	.	ID=id-ABI14446.1:4008..4936;Note=RNA-dependent RNA polymerase;Parent=cds-ABI14446.1;gbkey=Prot;product=nsp12
+DQ848678.1	Genbank	mature_protein_region_of_CDS	15118	16914	.	+	.	ID=id-ABI14446.1:4937..5535;Note=helicase;Parent=cds-ABI14446.1;gbkey=Prot;product=nsp13
+DQ848678.1	Genbank	mature_protein_region_of_CDS	16915	18471	.	+	.	ID=id-ABI14446.1:5536..6054;Note=exonuclease;Parent=cds-ABI14446.1;gbkey=Prot;product=nsp14
+DQ848678.1	Genbank	mature_protein_region_of_CDS	18472	19488	.	+	.	ID=id-ABI14446.1:6055..6393;Note=endoribonuclease;Parent=cds-ABI14446.1;gbkey=Prot;product=nsp15
+DQ848678.1	Genbank	mature_protein_region_of_CDS	19489	20388	.	+	.	ID=id-ABI14446.1:6394..6693;Note=2'-0-methyltransferase;Parent=cds-ABI14446.1;gbkey=Prot;product=nsp16
+DQ848678.1	Genbank	CDS	311	12391	.	+	0	ID=cds-ABI14447.1;Dbxref=NCBI_GP:ABI14447.1;Name=ABI14447.1;gbkey=CDS;product=polyprotein 1a;protein_id=ABI14447.1
+DQ848678.1	Genbank	mature_protein_region_of_CDS	311	640	.	+	.	ID=id-ABI14447.1:1..110;Parent=cds-ABI14447.1;gbkey=Prot;product=nsp1
+DQ848678.1	Genbank	mature_protein_region_of_CDS	641	2947	.	+	.	ID=id-ABI14447.1:111..879;Parent=cds-ABI14447.1;gbkey=Prot;product=nsp2
+DQ848678.1	Genbank	mature_protein_region_of_CDS	2948	7501	.	+	.	ID=id-ABI14447.1:880..2397;Parent=cds-ABI14447.1;gbkey=Prot;product=nsp3
+DQ848678.1	Genbank	mature_protein_region_of_CDS	7502	8971	.	+	.	ID=id-ABI14447.1:2398..2887;Parent=cds-ABI14447.1;gbkey=Prot;product=nsp4
+DQ848678.1	Genbank	mature_protein_region_of_CDS	8972	9877	.	+	.	ID=id-ABI14447.1:2888..3189;Note=3CLpro;Parent=cds-ABI14447.1;gbkey=Prot;product=nsp5
+DQ848678.1	Genbank	mature_protein_region_of_CDS	9878	10759	.	+	.	ID=id-ABI14447.1:3190..3483;Parent=cds-ABI14447.1;gbkey=Prot;product=nsp6
+DQ848678.1	Genbank	mature_protein_region_of_CDS	10760	11008	.	+	.	ID=id-ABI14447.1:3484..3566;Parent=cds-ABI14447.1;gbkey=Prot;product=nsp7
+DQ848678.1	Genbank	mature_protein_region_of_CDS	11009	11593	.	+	.	ID=id-ABI14447.1:3567..3761;Parent=cds-ABI14447.1;gbkey=Prot;product=nsp8
+DQ848678.1	Genbank	mature_protein_region_of_CDS	11594	11926	.	+	.	ID=id-ABI14447.1:3762..3872;Parent=cds-ABI14447.1;gbkey=Prot;product=nsp9
+DQ848678.1	Genbank	mature_protein_region_of_CDS	11927	12331	.	+	.	ID=id-ABI14447.1:3873..4007;Parent=cds-ABI14447.1;gbkey=Prot;product=nsp10
+DQ848678.1	Genbank	CDS	20388	24791	.	+	0	ID=cds-ABI14448.1;Dbxref=NCBI_GP:ABI14448.1;Name=ABI14448.1;Note=spike glycoprotein;gbkey=CDS;product=S;protein_id=ABI14448.1
+DQ848678.1	Genbank	CDS	25852	26100	.	+	0	ID=cds-ABI14449.1;Dbxref=NCBI_GP:ABI14449.1;Name=ABI14449.1;Note=small envelope protein;gbkey=CDS;product=E;protein_id=ABI14449.1
+DQ848678.1	Genbank	CDS	26111	26902	.	+	0	ID=cds-ABI14450.1;Dbxref=NCBI_GP:ABI14450.1;Name=ABI14450.1;Note=membrane glycoprotein;gbkey=CDS;product=M;protein_id=ABI14450.1
+DQ848678.1	Genbank	CDS	26915	28045	.	+	0	ID=cds-ABI14451.1;Dbxref=NCBI_GP:ABI14451.1;Name=ABI14451.1;Note=nucleocapsid protein;gbkey=CDS;product=N;protein_id=ABI14451.1
+

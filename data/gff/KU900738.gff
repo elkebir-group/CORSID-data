@@ -1,0 +1,27 @@
+##sequence-region KU900738.1 1 27679
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+KU900738.1	Genbank	region	1	27679	.	+	.	ID=KU900738.1:1..27679;Dbxref=taxon:11120;collection-date=2008;country=South Korea;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Gallus gallus;old-name=Avian infectious bronchitis virus;strain=SNU-8065
+KU900738.1	Genbank	five_prime_UTR	1	525	.	+	.	ID=id-KU900738.1:1..525;gbkey=5'UTR
+KU900738.1	Genbank	gene	526	20420	.	+	.	ID=gene-1ab;Name=1ab;gbkey=Gene;gene=1ab;gene_biotype=protein_coding
+KU900738.1	Genbank	CDS	526	12356	.	+	0	ID=cds-ARS22408.1;Parent=gene-1ab;Dbxref=NCBI_GP:ARS22408.1;Name=ARS22408.1;Note=translational frameshift results in expression of ORF1a and ORF1b as a single polyprotein;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=ORF 1ab;protein_id=ARS22408.1
+KU900738.1	Genbank	CDS	12356	20420	.	+	1	ID=cds-ARS22408.1;Parent=gene-1ab;Dbxref=NCBI_GP:ARS22408.1;Name=ARS22408.1;Note=translational frameshift results in expression of ORF1a and ORF1b as a single polyprotein;exception=ribosomal slippage;gbkey=CDS;gene=1ab;product=ORF 1ab;protein_id=ARS22408.1
+KU900738.1	Genbank	gene	526	12387	.	+	.	ID=gene-1a;Name=1a;gbkey=Gene;gene=1a;gene_biotype=protein_coding
+KU900738.1	Genbank	CDS	526	12387	.	+	0	ID=cds-ARS22399.1;Parent=gene-1a;Dbxref=NCBI_GP:ARS22399.1;Name=ARS22399.1;Note=ORF 1a;gbkey=CDS;gene=1a;product=1a polyprotein;protein_id=ARS22399.1
+KU900738.1	Genbank	gene	20371	23868	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KU900738.1	Genbank	CDS	20371	23868	.	+	0	ID=cds-ARS22400.1;Parent=gene-S;Dbxref=NCBI_GP:ARS22400.1;Name=ARS22400.1;Note=spike protein;gbkey=CDS;gene=S;product=S protein;protein_id=ARS22400.1
+KU900738.1	Genbank	gene	23868	24041	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+KU900738.1	Genbank	CDS	23868	24041	.	+	0	ID=cds-ARS22401.1;Parent=gene-3a;Dbxref=NCBI_GP:ARS22401.1;Name=ARS22401.1;Note=ORF 3a;gbkey=CDS;gene=3a;product=3a protein;protein_id=ARS22401.1
+KU900738.1	Genbank	gene	24041	24229	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+KU900738.1	Genbank	CDS	24041	24229	.	+	0	ID=cds-ARS22402.1;Parent=gene-3b;Dbxref=NCBI_GP:ARS22402.1;Name=ARS22402.1;Note=ORF 3b;gbkey=CDS;gene=3b;product=3b protein;protein_id=ARS22402.1
+KU900738.1	Genbank	gene	24216	24542	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+KU900738.1	Genbank	CDS	24216	24542	.	+	0	ID=cds-ARS22403.1;Parent=gene-E;Dbxref=NCBI_GP:ARS22403.1;Name=ARS22403.1;Note=E protein%3B small membrane protein;gbkey=CDS;gene=E;product=envelope protein;protein_id=ARS22403.1
+KU900738.1	Genbank	gene	24514	25191	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KU900738.1	Genbank	CDS	24514	25191	.	+	0	ID=cds-ARS22404.1;Parent=gene-M;Dbxref=NCBI_GP:ARS22404.1;Name=ARS22404.1;Note=structural protein;gbkey=CDS;gene=M;product=membrane glycoprotein;protein_id=ARS22404.1
+KU900738.1	Genbank	gene	25555	25752	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+KU900738.1	Genbank	CDS	25555	25752	.	+	0	ID=cds-ARS22405.1;Parent=gene-5a;Dbxref=NCBI_GP:ARS22405.1;Name=ARS22405.1;Note=ORF 5a;gbkey=CDS;gene=5a;product=5a protein;protein_id=ARS22405.1
+KU900738.1	Genbank	gene	25749	25997	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+KU900738.1	Genbank	CDS	25749	25997	.	+	0	ID=cds-ARS22406.1;Parent=gene-5b;Dbxref=NCBI_GP:ARS22406.1;Name=ARS22406.1;Note=ORF 5b;gbkey=CDS;gene=5b;product=5b protein;protein_id=ARS22406.1
+KU900738.1	Genbank	gene	25940	27169	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KU900738.1	Genbank	CDS	25940	27169	.	+	0	ID=cds-ARS22407.1;Parent=gene-N;Dbxref=NCBI_GP:ARS22407.1;Name=ARS22407.1;Note=structural protein;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=ARS22407.1
+KU900738.1	Genbank	three_prime_UTR	27170	27679	.	+	.	ID=id-KU900738.1:27170..27679;gbkey=3'UTR
+

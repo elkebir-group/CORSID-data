@@ -1,0 +1,10 @@
+##sequence-region MK211373.1 1 29109
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2591232
+MK211373.1	Genbank	region	1	29109	.	+	.	ID=MK211373.1:1..29109;Dbxref=taxon:2591232;collection-date=May-2017;country=China;gbkey=Src;genome=genomic;isolate=BtRs-AlphaCoV/YN2018;mol_type=genomic RNA;nat-host=Cynopterus sphinx
+MK211373.1	Genbank	CDS	325	12441	.	+	0	ID=cds-QDF43809.1;Dbxref=NCBI_GP:QDF43809.1;Name=QDF43809.1;exception=ribosomal slippage;gbkey=CDS;product=ORF1ab;protein_id=QDF43809.1
+MK211373.1	Genbank	CDS	12441	20462	.	+	0	ID=cds-QDF43809.1;Dbxref=NCBI_GP:QDF43809.1;Name=QDF43809.1;exception=ribosomal slippage;gbkey=CDS;product=ORF1ab;protein_id=QDF43809.1
+MK211373.1	Genbank	CDS	20464	24516	.	+	0	ID=cds-QDF43810.1;Dbxref=NCBI_GP:QDF43810.1;Name=QDF43810.1;gbkey=CDS;product=spike glycoprotein;protein_id=QDF43810.1
+MK211373.1	Genbank	CDS	25976	26200	.	+	0	ID=cds-QDF43811.1;Dbxref=NCBI_GP:QDF43811.1;Name=QDF43811.1;gbkey=CDS;product=small envelope protein;protein_id=QDF43811.1
+MK211373.1	Genbank	CDS	26212	26895	.	+	0	ID=cds-QDF43812.1;Dbxref=NCBI_GP:QDF43812.1;Name=QDF43812.1;gbkey=CDS;product=membrane glycoprotein;protein_id=QDF43812.1
+MK211373.1	Genbank	CDS	26906	28117	.	+	0	ID=cds-QDF43813.1;Dbxref=NCBI_GP:QDF43813.1;Name=QDF43813.1;gbkey=CDS;product=nucleocapsid protein;protein_id=QDF43813.1
+

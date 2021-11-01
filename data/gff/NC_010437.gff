@@ -1,0 +1,18 @@
+##sequence-region NC_010437.1 1 28326
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=393767
+NC_010437.1	RefSeq	region	1	28326	.	+	.	ID=NC_010437.1:1..28326;Dbxref=taxon:393767;country=Hong Kong;gbkey=Src;genome=genomic;mol_type=genomic RNA;strain=AFCD62
+NC_010437.1	RefSeq	gene	272	21069	.	+	.	ID=gene-BatCo1A_gp1;Dbxref=GeneID:6020270;Name=ORF1ab;gbkey=Gene;gene=ORF1ab;gene_biotype=protein_coding;locus_tag=BatCo1A_gp1
+NC_010437.1	RefSeq	CDS	272	13048	.	+	0	ID=cds-YP_001718603.1;Parent=gene-BatCo1A_gp1;Dbxref=Genbank:YP_001718603.1,GeneID:6020270;Name=YP_001718603.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;locus_tag=BatCo1A_gp1;product=ORF1ab polyprotein;protein_id=YP_001718603.1
+NC_010437.1	RefSeq	CDS	13048	21069	.	+	0	ID=cds-YP_001718603.1;Parent=gene-BatCo1A_gp1;Dbxref=Genbank:YP_001718603.1,GeneID:6020270;Name=YP_001718603.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;locus_tag=BatCo1A_gp1;product=ORF1ab polyprotein;protein_id=YP_001718603.1
+NC_010437.1	RefSeq	CDS	272	13078	.	+	0	ID=cds-YP_001718604.1;Parent=gene-BatCo1A_gp1;Dbxref=Genbank:YP_001718604.1,GeneID:6020270;Name=YP_001718604.1;gbkey=CDS;gene=ORF1ab;locus_tag=BatCo1A_gp1;product=ORF1a polyprotein;protein_id=YP_001718604.1
+NC_010437.1	RefSeq	gene	21071	25198	.	+	.	ID=gene-BatCo1A_gp2;Dbxref=GeneID:6020275;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding;locus_tag=BatCo1A_gp2
+NC_010437.1	RefSeq	CDS	21071	25198	.	+	0	ID=cds-YP_001718605.1;Parent=gene-BatCo1A_gp2;Dbxref=Genbank:YP_001718605.1,GeneID:6020275;Name=YP_001718605.1;gbkey=CDS;gene=S;locus_tag=BatCo1A_gp2;product=spike protein;protein_id=YP_001718605.1
+NC_010437.1	RefSeq	gene	25198	25857	.	+	.	ID=gene-BatCo1A_gp3;Dbxref=GeneID:6020274;Name=ORF3;gbkey=Gene;gene=ORF3;gene_biotype=protein_coding;locus_tag=BatCo1A_gp3
+NC_010437.1	RefSeq	CDS	25198	25857	.	+	0	ID=cds-YP_001718606.1;Parent=gene-BatCo1A_gp3;Dbxref=Genbank:YP_001718606.1,GeneID:6020274;Name=YP_001718606.1;gbkey=CDS;gene=ORF3;locus_tag=BatCo1A_gp3;product=ORF3 protein;protein_id=YP_001718606.1
+NC_010437.1	RefSeq	gene	25851	26075	.	+	.	ID=gene-BatCo1A_gp4;Dbxref=GeneID:6020273;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding;locus_tag=BatCo1A_gp4
+NC_010437.1	RefSeq	CDS	25851	26075	.	+	0	ID=cds-YP_001718607.1;Parent=gene-BatCo1A_gp4;Dbxref=Genbank:YP_001718607.1,GeneID:6020273;Name=YP_001718607.1;gbkey=CDS;gene=E;locus_tag=BatCo1A_gp4;product=envelope protein;protein_id=YP_001718607.1
+NC_010437.1	RefSeq	gene	26082	26849	.	+	.	ID=gene-BatCo1A_gp5;Dbxref=GeneID:6020272;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding;locus_tag=BatCo1A_gp5
+NC_010437.1	RefSeq	CDS	26082	26849	.	+	0	ID=cds-YP_001718608.1;Parent=gene-BatCo1A_gp5;Dbxref=Genbank:YP_001718608.1,GeneID:6020272;Name=YP_001718608.1;gbkey=CDS;gene=M;locus_tag=BatCo1A_gp5;product=membrane protein;protein_id=YP_001718608.1
+NC_010437.1	RefSeq	gene	26870	28039	.	+	.	ID=gene-BatCo1A_gp6;Dbxref=GeneID:6020271;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding;locus_tag=BatCo1A_gp6
+NC_010437.1	RefSeq	CDS	26870	28039	.	+	0	ID=cds-YP_001718609.1;Parent=gene-BatCo1A_gp6;Dbxref=Genbank:YP_001718609.1,GeneID:6020271;Name=YP_001718609.1;gbkey=CDS;gene=N;locus_tag=BatCo1A_gp6;product=nucleocapsid protein;protein_id=YP_001718609.1
+

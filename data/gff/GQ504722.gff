@@ -1,0 +1,16 @@
+##sequence-region GQ504722.1 1 27648
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+GQ504722.1	Genbank	region	1	27648	.	+	.	ID=GQ504722.1:1..27648;Dbxref=taxon:11120;collection-date=1998;country=USA;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=chicken;strain=Georgia 1998 pass8
+GQ504722.1	Genbank	CDS	529	12329	.	+	0	ID=cds-ADP06482.1;Dbxref=NCBI_GP:ADP06482.1;Name=ADP06482.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein 1ab;protein_id=ADP06482.1
+GQ504722.1	Genbank	CDS	12329	20390	.	+	1	ID=cds-ADP06482.1;Dbxref=NCBI_GP:ADP06482.1;Name=ADP06482.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein 1ab;protein_id=ADP06482.1
+GQ504722.1	Genbank	CDS	529	12357	.	+	0	ID=cds-ADP06483.1;Dbxref=NCBI_GP:ADP06483.1;Name=ADP06483.1;gbkey=CDS;product=polyprotein 1a;protein_id=ADP06483.1
+GQ504722.1	Genbank	CDS	20341	23820	.	+	0	ID=cds-ADP06481.1;Dbxref=NCBI_GP:ADP06481.1;Name=ADP06481.1;gbkey=CDS;product=spike;protein_id=ADP06481.1
+GQ504722.1	Genbank	CDS	23820	23993	.	+	0	ID=cds-ADP06480.1;Dbxref=NCBI_GP:ADP06480.1;Name=ADP06480.1;gbkey=CDS;product=3a;protein_id=ADP06480.1
+GQ504722.1	Genbank	CDS	23993	24187	.	+	0	ID=cds-ADP06479.1;Dbxref=NCBI_GP:ADP06479.1;Name=ADP06479.1;gbkey=CDS;product=3b;protein_id=ADP06479.1
+GQ504722.1	Genbank	CDS	24168	24497	.	+	0	ID=cds-ADP06478.1;Dbxref=NCBI_GP:ADP06478.1;Name=ADP06478.1;gbkey=CDS;product=envelope;protein_id=ADP06478.1
+GQ504722.1	Genbank	CDS	24469	25146	.	+	0	ID=cds-ADP06477.1;Dbxref=NCBI_GP:ADP06477.1;Name=ADP06477.1;gbkey=CDS;product=membrane;protein_id=ADP06477.1
+GQ504722.1	Genbank	CDS	25147	25431	.	+	0	ID=cds-ADP06484.1;Dbxref=NCBI_GP:ADP06484.1;Name=ADP06484.1;gbkey=CDS;product=4b;protein_id=ADP06484.1
+GQ504722.1	Genbank	CDS	25505	25702	.	+	0	ID=cds-ADP06476.1;Dbxref=NCBI_GP:ADP06476.1;Name=ADP06476.1;gbkey=CDS;product=5a;protein_id=ADP06476.1
+GQ504722.1	Genbank	CDS	25699	25947	.	+	0	ID=cds-ADP06475.1;Dbxref=NCBI_GP:ADP06475.1;Name=ADP06475.1;gbkey=CDS;product=5b;protein_id=ADP06475.1
+GQ504722.1	Genbank	CDS	25890	27119	.	+	0	ID=cds-ADP06474.1;Dbxref=NCBI_GP:ADP06474.1;Name=ADP06474.1;gbkey=CDS;product=nucleocapsid;protein_id=ADP06474.1
+

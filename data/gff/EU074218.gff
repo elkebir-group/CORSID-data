@@ -1,0 +1,17 @@
+##sequence-region EU074218.2 1 28569
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11149
+EU074218.2	Genbank	region	1	28569	.	+	.	ID=EU074218.2:1..28569;Dbxref=taxon:11149;country=China;gbkey=Src;lab-host=PK15 cells;mol_type=genomic RNA;note=tissue culture-adapted clone%3B 165 passages in PK15 cells;strain=attenuated H
+EU074218.2	Genbank	CDS	315	12368	.	+	0	ID=cds-ABU49657.2;Dbxref=NCBI_GP:ABU49657.2;Name=ABU49657.2;Note=essential for proteolysis;gbkey=CDS;product=replicase polyprotein 1a;protein_id=ABU49657.2
+EU074218.2	Genbank	CDS	12326	20368	.	+	0	ID=cds-ABU49658.1;Dbxref=NCBI_GP:ABU49658.1;Name=ABU49658.1;Note=translated as extension of ORF1a via ribosomal frameshift%3B location of frameshift not determined;gbkey=CDS;partial=true;product=replicase polyprotein 1b;protein_id=ABU49658.1;start_range=.,12326
+EU074218.2	Genbank	gene	20365	24711	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+EU074218.2	Genbank	CDS	20365	24711	.	+	0	ID=cds-ABU49659.1;Parent=gene-S;Dbxref=NCBI_GP:ABU49659.1;Name=ABU49659.1;Note=structural protein%3B receptor binding molecule;gbkey=CDS;gene=S;product=spike protein;protein_id=ABU49659.1
+EU074218.2	Genbank	CDS	24814	25032	.	+	0	ID=cds-ABU49660.1;Dbxref=NCBI_GP:ABU49660.1;Name=ABU49660.1;Note=non-structural protein;gbkey=CDS;product=3a protein;protein_id=ABU49660.1
+EU074218.2	Genbank	CDS	25094	25828	.	+	0	ID=cds-ABU49661.1;Dbxref=NCBI_GP:ABU49661.1;Name=ABU49661.1;Note=non-structural protein;gbkey=CDS;product=3b protein;protein_id=ABU49661.1
+EU074218.2	Genbank	gene	25815	26063	.	+	.	ID=gene-sM;Name=sM;gbkey=Gene;gene=sM;gene_biotype=protein_coding
+EU074218.2	Genbank	CDS	25815	26063	.	+	0	ID=cds-ABU49662.2;Parent=gene-sM;Dbxref=NCBI_GP:ABU49662.2;Name=ABU49662.2;Note=structural protein%3B essential for membrane assembly;gbkey=CDS;gene=sM;product=envelope protein;protein_id=ABU49662.2
+EU074218.2	Genbank	gene	26074	26862	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+EU074218.2	Genbank	CDS	26074	26862	.	+	0	ID=cds-ABU49663.1;Parent=gene-M;Dbxref=NCBI_GP:ABU49663.1;Name=ABU49663.1;Note=structural protein;gbkey=CDS;gene=M;product=membrane protein;protein_id=ABU49663.1
+EU074218.2	Genbank	gene	26875	28023	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+EU074218.2	Genbank	CDS	26875	28023	.	+	0	ID=cds-ABU49664.1;Parent=gene-N;Dbxref=NCBI_GP:ABU49664.1;Name=ABU49664.1;Note=structural protein;gbkey=CDS;gene=N;product=nucleoprotein;protein_id=ABU49664.1
+EU074218.2	Genbank	CDS	28029	28265	.	+	0	ID=cds-ABU49665.1;Dbxref=NCBI_GP:ABU49665.1;Name=ABU49665.1;gbkey=CDS;product=non-structural protein 7;protein_id=ABU49665.1
+

@@ -1,0 +1,17 @@
+##sequence-region MH938448.1 1 27862
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2492656
+MH938448.1	Genbank	region	1	27862	.	+	.	ID=MH938448.1:1..27862;Dbxref=taxon:2492656;collection-date=2011;country=Italy;gbkey=Src;genome=genomic;isolation-source=carcass;mol_type=genomic RNA;nat-host=Pipistrellus kuhlii;strain=Bat-CoV/P.kuhlii/Italy/206645-41/2011
+MH938448.1	Genbank	gene	296	20166	.	+	.	ID=gene-ORF1ab;Name=ORF1ab;gbkey=Gene;gene=ORF1ab;gene_biotype=protein_coding
+MH938448.1	Genbank	CDS	296	12139	.	+	0	ID=cds-AZF86117.1;Parent=gene-ORF1ab;Dbxref=NCBI_GP:AZF86117.1;Name=AZF86117.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;product=ORF1ab polyprotein;protein_id=AZF86117.1
+MH938448.1	Genbank	CDS	12139	20166	.	+	0	ID=cds-AZF86117.1;Parent=gene-ORF1ab;Dbxref=NCBI_GP:AZF86117.1;Name=AZF86117.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;product=ORF1ab polyprotein;protein_id=AZF86117.1
+MH938448.1	Genbank	gene	20153	24274	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MH938448.1	Genbank	CDS	20153	24274	.	+	0	ID=cds-AZF86118.1;Parent=gene-S;Dbxref=NCBI_GP:AZF86118.1;Name=AZF86118.1;gbkey=CDS;gene=S;product=spike protein;protein_id=AZF86118.1
+MH938448.1	Genbank	gene	24274	24924	.	+	.	ID=gene-ORF3;Name=ORF3;gbkey=Gene;gene=ORF3;gene_biotype=protein_coding
+MH938448.1	Genbank	CDS	24274	24924	.	+	0	ID=cds-AZF86119.1;Parent=gene-ORF3;Dbxref=NCBI_GP:AZF86119.1;Name=AZF86119.1;gbkey=CDS;gene=ORF3;product=ORF3 protein;protein_id=AZF86119.1
+MH938448.1	Genbank	gene	24947	25174	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MH938448.1	Genbank	CDS	24947	25174	.	+	0	ID=cds-AZF86120.1;Parent=gene-E;Dbxref=NCBI_GP:AZF86120.1;Name=AZF86120.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=AZF86120.1
+MH938448.1	Genbank	gene	25180	25863	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MH938448.1	Genbank	CDS	25180	25863	.	+	0	ID=cds-AZF86121.1;Parent=gene-M;Dbxref=NCBI_GP:AZF86121.1;Name=AZF86121.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=AZF86121.1
+MH938448.1	Genbank	gene	25870	27174	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MH938448.1	Genbank	CDS	25870	27174	.	+	0	ID=cds-AZF86122.1;Parent=gene-N;Dbxref=NCBI_GP:AZF86122.1;Name=AZF86122.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=AZF86122.1
+

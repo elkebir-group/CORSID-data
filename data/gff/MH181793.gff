@@ -1,0 +1,14 @@
+##sequence-region MH181793.1 1 27672
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+MH181793.1	Genbank	region	1	27672	.	+	.	ID=MH181793.1:1..27672;Dbxref=taxon:11120;collection-date=2006;country=China;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=chicken;strain=HH06
+MH181793.1	Genbank	CDS	528	12389	.	+	0	ID=cds-QAT77246.1;Dbxref=NCBI_GP:QAT77246.1;Name=QAT77246.1;gbkey=CDS;product=1a;protein_id=QAT77246.1
+MH181793.1	Genbank	CDS	12464	20416	.	+	0	ID=cds-QAT77247.1;Dbxref=NCBI_GP:QAT77247.1;Name=QAT77247.1;gbkey=CDS;product=1b;protein_id=QAT77247.1
+MH181793.1	Genbank	CDS	20367	23837	.	+	0	ID=cds-QAT77248.1;Dbxref=NCBI_GP:QAT77248.1;Name=QAT77248.1;gbkey=CDS;product=S;protein_id=QAT77248.1
+MH181793.1	Genbank	CDS	23864	24037	.	+	0	ID=cds-QAT77249.1;Dbxref=NCBI_GP:QAT77249.1;Name=QAT77249.1;gbkey=CDS;product=3a;protein_id=QAT77249.1
+MH181793.1	Genbank	CDS	24038	24226	.	+	0	ID=cds-QAT77251.1;Dbxref=NCBI_GP:QAT77251.1;Name=QAT77251.1;gbkey=CDS;product=3b;protein_id=QAT77251.1
+MH181793.1	Genbank	CDS	24210	24536	.	+	0	ID=cds-QAT77250.1;Dbxref=NCBI_GP:QAT77250.1;Name=QAT77250.1;gbkey=CDS;product=E;protein_id=QAT77250.1
+MH181793.1	Genbank	CDS	24508	25194	.	+	0	ID=cds-QAT77252.1;Dbxref=NCBI_GP:QAT77252.1;Name=QAT77252.1;gbkey=CDS;product=M;protein_id=QAT77252.1
+MH181793.1	Genbank	CDS	25543	25740	.	+	0	ID=cds-QAT77253.1;Dbxref=NCBI_GP:QAT77253.1;Name=QAT77253.1;gbkey=CDS;product=5a;protein_id=QAT77253.1
+MH181793.1	Genbank	CDS	25737	25985	.	+	0	ID=cds-QAT77254.1;Dbxref=NCBI_GP:QAT77254.1;Name=QAT77254.1;gbkey=CDS;product=5b;protein_id=QAT77254.1
+MH181793.1	Genbank	CDS	25928	27157	.	+	0	ID=cds-QAT77255.1;Dbxref=NCBI_GP:QAT77255.1;Name=QAT77255.1;gbkey=CDS;product=N;protein_id=QAT77255.1
+

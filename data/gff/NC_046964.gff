@@ -1,0 +1,17 @@
+##sequence-region NC_046964.1 1 28128
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2492658
+NC_046964.1	RefSeq	region	1	28128	.	+	.	ID=NC_046964.1:1..28128;Dbxref=taxon:2492658;collection-date=2015;country=Italy;gbkey=Src;genome=genomic;isolation-source=feces;mol_type=genomic RNA;nat-host=Pipistrellus kuhlii;strain=Bat-CoV/P.kuhlii/Italy/3398-19/2015
+NC_046964.1	RefSeq	gene	281	20175	.	+	.	ID=gene-HGI28_gp1;Dbxref=GeneID:54124776;Name=ORF1ab;gbkey=Gene;gene=ORF1ab;gene_biotype=protein_coding;locus_tag=HGI28_gp1
+NC_046964.1	RefSeq	CDS	281	12163	.	+	0	ID=cds-YP_009755889.1;Parent=gene-HGI28_gp1;Dbxref=Genbank:YP_009755889.1,GeneID:54124776;Name=YP_009755889.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;locus_tag=HGI28_gp1;product=ORF1ab polyprotein;protein_id=YP_009755889.1
+NC_046964.1	RefSeq	CDS	12163	20175	.	+	0	ID=cds-YP_009755889.1;Parent=gene-HGI28_gp1;Dbxref=Genbank:YP_009755889.1,GeneID:54124776;Name=YP_009755889.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;locus_tag=HGI28_gp1;product=ORF1ab polyprotein;protein_id=YP_009755889.1
+NC_046964.1	RefSeq	gene	20172	24371	.	+	.	ID=gene-HGI28_gp2;Dbxref=GeneID:54124771;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding;locus_tag=HGI28_gp2
+NC_046964.1	RefSeq	CDS	20172	24371	.	+	0	ID=cds-YP_009755890.1;Parent=gene-HGI28_gp2;Dbxref=Genbank:YP_009755890.1,GeneID:54124771;Name=YP_009755890.1;gbkey=CDS;gene=S;locus_tag=HGI28_gp2;product=spike protein;protein_id=YP_009755890.1
+NC_046964.1	RefSeq	gene	24371	25024	.	+	.	ID=gene-HGI28_gp3;Dbxref=GeneID:54124772;Name=ORF3;gbkey=Gene;gene=ORF3;gene_biotype=protein_coding;locus_tag=HGI28_gp3
+NC_046964.1	RefSeq	CDS	24371	25024	.	+	0	ID=cds-YP_009755891.1;Parent=gene-HGI28_gp3;Dbxref=Genbank:YP_009755891.1,GeneID:54124772;Name=YP_009755891.1;gbkey=CDS;gene=ORF3;locus_tag=HGI28_gp3;product=ORF3 protein;protein_id=YP_009755891.1
+NC_046964.1	RefSeq	gene	25103	25330	.	+	.	ID=gene-HGI28_gp4;Dbxref=GeneID:54124773;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding;locus_tag=HGI28_gp4
+NC_046964.1	RefSeq	CDS	25103	25330	.	+	0	ID=cds-YP_009755892.1;Parent=gene-HGI28_gp4;Dbxref=Genbank:YP_009755892.1,GeneID:54124773;Name=YP_009755892.1;gbkey=CDS;gene=E;locus_tag=HGI28_gp4;product=envelope protein;protein_id=YP_009755892.1
+NC_046964.1	RefSeq	gene	25343	26050	.	+	.	ID=gene-HGI28_gp5;Dbxref=GeneID:54124774;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding;locus_tag=HGI28_gp5
+NC_046964.1	RefSeq	CDS	25343	26050	.	+	0	ID=cds-YP_009755893.1;Parent=gene-HGI28_gp5;Dbxref=Genbank:YP_009755893.1,GeneID:54124774;Name=YP_009755893.1;gbkey=CDS;gene=M;locus_tag=HGI28_gp5;product=membrane protein;protein_id=YP_009755893.1
+NC_046964.1	RefSeq	gene	26058	27356	.	+	.	ID=gene-HGI28_gp6;Dbxref=GeneID:54124775;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding;locus_tag=HGI28_gp6
+NC_046964.1	RefSeq	CDS	26058	27356	.	+	0	ID=cds-YP_009755894.1;Parent=gene-HGI28_gp6;Dbxref=Genbank:YP_009755894.1,GeneID:54124775;Name=YP_009755894.1;gbkey=CDS;gene=N;locus_tag=HGI28_gp6;product=nucleocapsid protein;protein_id=YP_009755894.1
+

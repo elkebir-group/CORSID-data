@@ -1,0 +1,23 @@
+##sequence-region NC_011549.1 1 26396
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=572290
+NC_011549.1	RefSeq	region	1	26396	.	+	.	ID=NC_011549.1:1..26396;Dbxref=taxon:572290;collection-date=Jan-2007;country=Hong Kong;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=grey-backed thrush
+NC_011549.1	RefSeq	gene	592	19451	.	+	.	ID=gene-ThCoV_gp1;Dbxref=GeneID:7040223;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding;locus_tag=ThCoV_gp1
+NC_011549.1	RefSeq	CDS	592	11403	.	+	0	ID=cds-YP_002308496.1;Parent=gene-ThCoV_gp1;Dbxref=Genbank:YP_002308496.1,GeneID:7040223;Name=YP_002308496.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;locus_tag=ThCoV_gp1;product=orf1ab polyprotein;protein_id=YP_002308496.1
+NC_011549.1	RefSeq	CDS	11403	19451	.	+	0	ID=cds-YP_002308496.1;Parent=gene-ThCoV_gp1;Dbxref=Genbank:YP_002308496.1,GeneID:7040223;Name=YP_002308496.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;locus_tag=ThCoV_gp1;product=orf1ab polyprotein;protein_id=YP_002308496.1
+NC_011549.1	RefSeq	gene	19433	23011	.	+	.	ID=gene-ThCoV_gp2;Dbxref=GeneID:7040215;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding;locus_tag=ThCoV_gp2
+NC_011549.1	RefSeq	CDS	19433	23011	.	+	0	ID=cds-YP_002308497.1;Parent=gene-ThCoV_gp2;Dbxref=Genbank:YP_002308497.1,GeneID:7040215;Name=YP_002308497.1;gbkey=CDS;gene=S;locus_tag=ThCoV_gp2;product=spike glycoprotein;protein_id=YP_002308497.1
+NC_011549.1	RefSeq	gene	23005	23253	.	+	.	ID=gene-ThCoV_gp3;Dbxref=GeneID:7040216;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding;locus_tag=ThCoV_gp3
+NC_011549.1	RefSeq	CDS	23005	23253	.	+	0	ID=cds-YP_002308498.1;Parent=gene-ThCoV_gp3;Dbxref=Genbank:YP_002308498.1,GeneID:7040216;Name=YP_002308498.1;gbkey=CDS;gene=E;locus_tag=ThCoV_gp3;product=small membrane protein;protein_id=YP_002308498.1
+NC_011549.1	RefSeq	gene	23246	23899	.	+	.	ID=gene-ThCoV_gp4;Dbxref=GeneID:7040217;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding;locus_tag=ThCoV_gp4
+NC_011549.1	RefSeq	CDS	23246	23899	.	+	0	ID=cds-YP_002308499.1;Parent=gene-ThCoV_gp4;Dbxref=Genbank:YP_002308499.1,GeneID:7040217;Name=YP_002308499.1;gbkey=CDS;gene=M;locus_tag=ThCoV_gp4;product=membrane protein;protein_id=YP_002308499.1
+NC_011549.1	RefSeq	gene	23899	24174	.	+	.	ID=gene-ThCoV_gp5;Dbxref=GeneID:7040218;Name=NS6;gbkey=Gene;gene=NS6;gene_biotype=protein_coding;locus_tag=ThCoV_gp5
+NC_011549.1	RefSeq	CDS	23899	24174	.	+	0	ID=cds-YP_002308500.1;Parent=gene-ThCoV_gp5;Dbxref=Genbank:YP_002308500.1,GeneID:7040218;Name=YP_002308500.1;gbkey=CDS;gene=NS6;locus_tag=ThCoV_gp5;product=nonstructural protein;protein_id=YP_002308500.1
+NC_011549.1	RefSeq	gene	24192	25223	.	+	.	ID=gene-ThCoV_gp6;Dbxref=GeneID:7040219;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding;locus_tag=ThCoV_gp6
+NC_011549.1	RefSeq	CDS	24192	25223	.	+	0	ID=cds-YP_002308501.1;Parent=gene-ThCoV_gp6;Dbxref=Genbank:YP_002308501.1,GeneID:7040219;Name=YP_002308501.1;gbkey=CDS;gene=N;locus_tag=ThCoV_gp6;product=nucleocapsid phosphoprotein;protein_id=YP_002308501.1
+NC_011549.1	RefSeq	gene	25255	25626	.	+	.	ID=gene-ThCoV_gp7;Dbxref=GeneID:7040220;Name=NS7a;gbkey=Gene;gene=NS7a;gene_biotype=protein_coding;locus_tag=ThCoV_gp7
+NC_011549.1	RefSeq	CDS	25255	25626	.	+	0	ID=cds-YP_002308502.1;Parent=gene-ThCoV_gp7;Dbxref=Genbank:YP_002308502.1,GeneID:7040220;Name=YP_002308502.1;gbkey=CDS;gene=NS7a;locus_tag=ThCoV_gp7;product=nonstructural protein;protein_id=YP_002308502.1
+NC_011549.1	RefSeq	gene	25632	25883	.	+	.	ID=gene-ThCoV_gp8;Dbxref=GeneID:7040221;Name=NS7b;gbkey=Gene;gene=NS7b;gene_biotype=protein_coding;locus_tag=ThCoV_gp8
+NC_011549.1	RefSeq	CDS	25632	25883	.	+	0	ID=cds-YP_002308503.1;Parent=gene-ThCoV_gp8;Dbxref=Genbank:YP_002308503.1,GeneID:7040221;Name=YP_002308503.1;gbkey=CDS;gene=NS7b;locus_tag=ThCoV_gp8;product=nonstructural protein;protein_id=YP_002308503.1
+NC_011549.1	RefSeq	gene	25940	26173	.	+	.	ID=gene-ThCoV_gp9;Dbxref=GeneID:7040222;Name=NS7c;gbkey=Gene;gene=NS7c;gene_biotype=protein_coding;locus_tag=ThCoV_gp9
+NC_011549.1	RefSeq	CDS	25940	26173	.	+	0	ID=cds-YP_002308504.1;Parent=gene-ThCoV_gp9;Dbxref=Genbank:YP_002308504.1,GeneID:7040222;Name=YP_002308504.1;gbkey=CDS;gene=NS7c;locus_tag=ThCoV_gp9;product=nonstructural protein;protein_id=YP_002308504.1
+

@@ -1,0 +1,16 @@
+##sequence-region KX722529.1 1 29174
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12663
+KX722529.1	Genbank	region	1	29174	.	+	.	ID=KX722529.1:1..29174;Dbxref=taxon:12663;collection-date=01-Jan-2015;country=Belgium;gbkey=Src;genome=genomic;isolate=UG-FH8;mol_type=genomic RNA;nat-host=Felis catus;serotype=1
+KX722529.1	Genbank	CDS	298	12321	.	+	0	ID=cds-ASU62487.1;Dbxref=NCBI_GP:ASU62487.1;Name=ASU62487.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein 1ab;protein_id=ASU62487.1
+KX722529.1	Genbank	CDS	12321	20354	.	+	0	ID=cds-ASU62487.1;Dbxref=NCBI_GP:ASU62487.1;Name=ASU62487.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein 1ab;protein_id=ASU62487.1
+KX722529.1	Genbank	CDS	298	12354	.	+	0	ID=cds-ASU62486.1;Dbxref=NCBI_GP:ASU62486.1;Name=ASU62486.1;gbkey=CDS;product=polyprotein 1a;protein_id=ASU62486.1
+KX722529.1	Genbank	CDS	20351	24754	.	+	0	ID=cds-ASU62488.1;Dbxref=NCBI_GP:ASU62488.1;Name=ASU62488.1;gbkey=CDS;product=spike protein;protein_id=ASU62488.1
+KX722529.1	Genbank	CDS	24766	24978	.	+	0	ID=cds-ASU62489.1;Dbxref=NCBI_GP:ASU62489.1;Name=ASU62489.1;gbkey=CDS;product=nonstructural protein 3a;protein_id=ASU62489.1
+KX722529.1	Genbank	CDS	24926	25147	.	+	0	ID=cds-ASU62490.1;Dbxref=NCBI_GP:ASU62490.1;Name=ASU62490.1;gbkey=CDS;product=nonstructural protein 3b;protein_id=ASU62490.1
+KX722529.1	Genbank	CDS	25144	25857	.	+	0	ID=cds-ASU62491.1;Dbxref=NCBI_GP:ASU62491.1;Name=ASU62491.1;gbkey=CDS;product=nonstructural protein 3c;protein_id=ASU62491.1
+KX722529.1	Genbank	CDS	25844	26092	.	+	0	ID=cds-ASU62492.1;Dbxref=NCBI_GP:ASU62492.1;Name=ASU62492.1;gbkey=CDS;product=envelope protein;protein_id=ASU62492.1
+KX722529.1	Genbank	CDS	26103	26894	.	+	0	ID=cds-ASU62493.1;Dbxref=NCBI_GP:ASU62493.1;Name=ASU62493.1;gbkey=CDS;product=membrane protein;protein_id=ASU62493.1
+KX722529.1	Genbank	CDS	26907	28040	.	+	0	ID=cds-ASU62494.1;Dbxref=NCBI_GP:ASU62494.1;Name=ASU62494.1;gbkey=CDS;product=nucleocapsid protein;protein_id=ASU62494.1
+KX722529.1	Genbank	CDS	28045	28350	.	+	0	ID=cds-ASU62495.1;Dbxref=NCBI_GP:ASU62495.1;Name=ASU62495.1;gbkey=CDS;product=nonstructural protein 7a;protein_id=ASU62495.1
+KX722529.1	Genbank	CDS	28355	28975	.	+	0	ID=cds-ASU62496.1;Dbxref=NCBI_GP:ASU62496.1;Name=ASU62496.1;gbkey=CDS;product=nonstructural protein 7b;protein_id=ASU62496.1
+

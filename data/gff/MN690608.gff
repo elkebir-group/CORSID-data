@@ -1,0 +1,33 @@
+##sequence-region MN690608.1 1 31728
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2716128
+MN690608.1	Genbank	region	1	31728	.	+	.	ID=MN690608.1:1..31728;Dbxref=taxon:2716128;country=USA;gbkey=Src;genome=genomic;isolation-source=feces;mol_type=genomic RNA;nat-host=bottlenose dolphin;strain=37112-1
+MN690608.1	Genbank	gene	524	20514	.	+	.	ID=gene-ORF1ab;Name=ORF1ab;gbkey=Gene;gene=ORF1ab;gene_biotype=protein_coding
+MN690608.1	Genbank	CDS	524	12388	.	+	0	ID=cds-QII89018.1;Parent=gene-ORF1ab;Dbxref=NCBI_GP:QII89018.1;Name=QII89018.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;product=replicase polyprotein;protein_id=QII89018.1
+MN690608.1	Genbank	CDS	12388	20514	.	+	0	ID=cds-QII89018.1;Parent=gene-ORF1ab;Dbxref=NCBI_GP:QII89018.1;Name=QII89018.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;product=replicase polyprotein;protein_id=QII89018.1
+MN690608.1	Genbank	gene	20450	24898	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MN690608.1	Genbank	CDS	20450	24898	.	+	0	ID=cds-QII89019.1;Parent=gene-S;Dbxref=NCBI_GP:QII89019.1;Name=QII89019.1;gbkey=CDS;gene=S;product=spike protein;protein_id=QII89019.1
+MN690608.1	Genbank	gene	24904	25191	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MN690608.1	Genbank	CDS	24904	25191	.	+	0	ID=cds-QII89020.1;Parent=gene-E;Dbxref=NCBI_GP:QII89020.1;Name=QII89020.1;gbkey=CDS;gene=E;product=envelope glycoprotein;protein_id=QII89020.1
+MN690608.1	Genbank	gene	25175	26002	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MN690608.1	Genbank	CDS	25175	26002	.	+	0	ID=cds-QII89021.1;Parent=gene-M;Dbxref=NCBI_GP:QII89021.1;Name=QII89021.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=QII89021.1
+MN690608.1	Genbank	gene	26005	26421	.	+	.	ID=gene-NS5a;Name=NS5a;gbkey=Gene;gene=NS5a;gene_biotype=protein_coding
+MN690608.1	Genbank	CDS	26005	26421	.	+	0	ID=cds-QII89022.1;Parent=gene-NS5a;Dbxref=NCBI_GP:QII89022.1;Name=QII89022.1;gbkey=CDS;gene=NS5a;product=NS5a protein;protein_id=QII89022.1
+MN690608.1	Genbank	gene	26414	26932	.	+	.	ID=gene-NS5b;Name=NS5b;gbkey=Gene;gene=NS5b;gene_biotype=protein_coding
+MN690608.1	Genbank	CDS	26414	26932	.	+	0	ID=cds-QII89023.1;Parent=gene-NS5b;Dbxref=NCBI_GP:QII89023.1;Name=QII89023.1;gbkey=CDS;gene=NS5b;product=NS5b protein;protein_id=QII89023.1
+MN690608.1	Genbank	gene	26922	27449	.	+	.	ID=gene-NS5c;Name=NS5c;gbkey=Gene;gene=NS5c;gene_biotype=protein_coding
+MN690608.1	Genbank	CDS	26922	27449	.	+	0	ID=cds-QII89024.1;Parent=gene-NS5c;Dbxref=NCBI_GP:QII89024.1;Name=QII89024.1;gbkey=CDS;gene=NS5c;product=NS5c protein;protein_id=QII89024.1
+MN690608.1	Genbank	gene	27453	28139	.	+	.	ID=gene-NS6;Name=NS6;gbkey=Gene;gene=NS6;gene_biotype=protein_coding
+MN690608.1	Genbank	CDS	27453	28139	.	+	0	ID=cds-QII89025.1;Parent=gene-NS6;Dbxref=NCBI_GP:QII89025.1;Name=QII89025.1;gbkey=CDS;gene=NS6;product=NS6 protein;protein_id=QII89025.1
+MN690608.1	Genbank	gene	28142	28270	.	+	.	ID=gene-NS7a;Name=NS7a;gbkey=Gene;gene=NS7a;gene_biotype=protein_coding
+MN690608.1	Genbank	CDS	28142	28270	.	+	0	ID=cds-QII89026.1;Parent=gene-NS7a;Dbxref=NCBI_GP:QII89026.1;Name=QII89026.1;gbkey=CDS;gene=NS7a;product=NS7a protein;protein_id=QII89026.1
+MN690608.1	Genbank	gene	28274	28627	.	+	.	ID=gene-NS7b;Name=NS7b;gbkey=Gene;gene=NS7b;gene_biotype=protein_coding
+MN690608.1	Genbank	CDS	28274	28627	.	+	0	ID=cds-QII89027.1;Parent=gene-NS7b;Dbxref=NCBI_GP:QII89027.1;Name=QII89027.1;gbkey=CDS;gene=NS7b;product=NS7b protein;protein_id=QII89027.1
+MN690608.1	Genbank	gene	28778	28957	.	+	.	ID=gene-NS8;Name=NS8;gbkey=Gene;gene=NS8;gene_biotype=protein_coding
+MN690608.1	Genbank	CDS	28778	28957	.	+	0	ID=cds-QII89028.1;Parent=gene-NS8;Dbxref=NCBI_GP:QII89028.1;Name=QII89028.1;gbkey=CDS;gene=NS8;product=NS8 protein;protein_id=QII89028.1
+MN690608.1	Genbank	gene	29014	29472	.	+	.	ID=gene-NS9;Name=NS9;gbkey=Gene;gene=NS9;gene_biotype=protein_coding
+MN690608.1	Genbank	CDS	29014	29472	.	+	0	ID=cds-QII89029.1;Parent=gene-NS9;Dbxref=NCBI_GP:QII89029.1;Name=QII89029.1;gbkey=CDS;gene=NS9;product=NS9 protein;protein_id=QII89029.1
+MN690608.1	Genbank	gene	29475	30107	.	+	.	ID=gene-NS10;Name=NS10;gbkey=Gene;gene=NS10;gene_biotype=protein_coding
+MN690608.1	Genbank	CDS	29475	30107	.	+	0	ID=cds-QII89030.1;Parent=gene-NS10;Dbxref=NCBI_GP:QII89030.1;Name=QII89030.1;gbkey=CDS;gene=NS10;product=NS10 protein;protein_id=QII89030.1
+MN690608.1	Genbank	gene	30219	31358	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MN690608.1	Genbank	CDS	30219	31358	.	+	0	ID=cds-QII89031.1;Parent=gene-N;Dbxref=NCBI_GP:QII89031.1;Name=QII89031.1;gbkey=CDS;gene=N;product=N protein;protein_id=QII89031.1
+

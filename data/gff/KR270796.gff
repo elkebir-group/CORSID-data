@@ -1,0 +1,22 @@
+##sequence-region KR270796.1 1 27765
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11146
+KR270796.1	Genbank	region	1	27765	.	+	.	ID=KR270796.1:1..27765;Dbxref=taxon:11146;collection-date=24-Jul-2014;country=USA: Ohio;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=pig;strain=OH7269
+KR270796.1	Genbank	gene	315	12356	.	+	.	ID=gene-ORF1a;Name=ORF1a;gbkey=Gene;gene=ORF1a;gene_biotype=protein_coding
+KR270796.1	Genbank	CDS	315	12356	.	+	0	ID=cds-AKV62753.1;Parent=gene-ORF1a;Dbxref=NCBI_GP:AKV62753.1;Name=AKV62753.1;gbkey=CDS;gene=ORF1a;product=replicase 1a;protein_id=AKV62753.1
+KR270796.1	Genbank	gene	12314	20356	.	+	.	ID=gene-ORF1b;Name=ORF1b;gbkey=Gene;gene=ORF1b;gene_biotype=protein_coding;partial=true;start_range=.,12314
+KR270796.1	Genbank	CDS	12314	20356	.	+	0	ID=cds-AKV62754.1;Parent=gene-ORF1b;Dbxref=NCBI_GP:AKV62754.1;Name=AKV62754.1;gbkey=CDS;gene=ORF1b;partial=true;product=replicase 1b;protein_id=AKV62754.1;start_range=.,12314
+KR270796.1	Genbank	gene	20353	24051	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KR270796.1	Genbank	CDS	20353	24051	.	+	0	ID=cds-AKV62755.1;Parent=gene-S;Dbxref=NCBI_GP:AKV62755.1;Name=AKV62755.1;gbkey=CDS;gene=S;product=spike protein;protein_id=AKV62755.1
+KR270796.1	Genbank	gene	24061	24186	.	+	.	ID=gene-ORF3a;Name=ORF3a;gbkey=Gene;gene=ORF3a;gene_biotype=protein_coding
+KR270796.1	Genbank	CDS	24061	24186	.	+	0	ID=cds-AKV62756.1;Parent=gene-ORF3a;Dbxref=NCBI_GP:AKV62756.1;Name=AKV62756.1;gbkey=CDS;gene=ORF3a;product=non-structural protein 3a;protein_id=AKV62756.1
+KR270796.1	Genbank	gene	24327	25082	.	+	.	ID=gene-ORF3b;Name=ORF3b;gbkey=Gene;gene=ORF3b;gene_biotype=protein_coding
+KR270796.1	Genbank	CDS	24327	25082	.	+	0	ID=cds-AKV62757.1;Parent=gene-ORF3b;Dbxref=NCBI_GP:AKV62757.1;Name=AKV62757.1;gbkey=CDS;gene=ORF3b;product=non-structural protein 3b;protein_id=AKV62757.1
+KR270796.1	Genbank	gene	25048	25293	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+KR270796.1	Genbank	CDS	25048	25293	.	+	0	ID=cds-AKV62758.1;Parent=gene-E;Dbxref=NCBI_GP:AKV62758.1;Name=AKV62758.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=AKV62758.1
+KR270796.1	Genbank	gene	25304	26089	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KR270796.1	Genbank	CDS	25304	26089	.	+	0	ID=cds-AKV62759.1;Parent=gene-M;Dbxref=NCBI_GP:AKV62759.1;Name=AKV62759.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=AKV62759.1
+KR270796.1	Genbank	gene	26102	27250	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KR270796.1	Genbank	CDS	26102	27250	.	+	0	ID=cds-AKV62760.1;Parent=gene-N;Dbxref=NCBI_GP:AKV62760.1;Name=AKV62760.1;gbkey=CDS;gene=N;product=nucleoprotein;protein_id=AKV62760.1
+KR270796.1	Genbank	gene	27256	27492	.	+	.	ID=gene-ORF7;Name=ORF7;gbkey=Gene;gene=ORF7;gene_biotype=protein_coding
+KR270796.1	Genbank	CDS	27256	27492	.	+	0	ID=cds-AKV62761.1;Parent=gene-ORF7;Dbxref=NCBI_GP:AKV62761.1;Name=AKV62761.1;gbkey=CDS;gene=ORF7;product=non-structural protein 7;protein_id=AKV62761.1
+

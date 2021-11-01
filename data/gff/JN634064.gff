@@ -1,0 +1,16 @@
+##sequence-region JN634064.1 1 28984
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12663
+JN634064.1	Genbank	region	1	28984	.	+	.	ID=JN634064.1:1..28984;Dbxref=taxon:12663;gbkey=Src;genome=genomic;mol_type=genomic RNA;strain=WSU 79-1683
+JN634064.1	Genbank	CDS	313	12137	.	+	0	ID=cds-AFH58022.1;Dbxref=NCBI_GP:AFH58022.1;Name=AFH58022.1;exception=ribosomal slippage;gbkey=CDS;product=1ab polyprotein;protein_id=AFH58022.1
+JN634064.1	Genbank	CDS	12137	20168	.	+	1	ID=cds-AFH58022.1;Dbxref=NCBI_GP:AFH58022.1;Name=AFH58022.1;exception=ribosomal slippage;gbkey=CDS;product=1ab polyprotein;protein_id=AFH58022.1
+JN634064.1	Genbank	CDS	313	12168	.	+	0	ID=cds-AFH58023.1;Dbxref=NCBI_GP:AFH58023.1;Name=AFH58023.1;gbkey=CDS;product=1a polyprotein;protein_id=AFH58023.1
+JN634064.1	Genbank	CDS	20165	24517	.	+	0	ID=cds-AFH58021.1;Dbxref=NCBI_GP:AFH58021.1;Name=AFH58021.1;gbkey=CDS;product=spike;protein_id=AFH58021.1
+JN634064.1	Genbank	CDS	24581	24817	.	+	0	ID=cds-AFH58020.1;Dbxref=NCBI_GP:AFH58020.1;Name=AFH58020.1;gbkey=CDS;product=3a;protein_id=AFH58020.1
+JN634064.1	Genbank	CDS	24762	24929	.	+	0	ID=cds-AFH58019.1;Dbxref=NCBI_GP:AFH58019.1;Name=AFH58019.1;gbkey=CDS;product=3b;protein_id=AFH58019.1
+JN634064.1	Genbank	CDS	25194	25652	.	+	0	ID=cds-AFH58018.1;Dbxref=NCBI_GP:AFH58018.1;Name=AFH58018.1;gbkey=CDS;product=3c;protein_id=AFH58018.1
+JN634064.1	Genbank	CDS	25722	25928	.	+	0	ID=cds-AFH58017.1;Dbxref=NCBI_GP:AFH58017.1;Name=AFH58017.1;gbkey=CDS;product=envelope;protein_id=AFH58017.1
+JN634064.1	Genbank	CDS	25858	26598	.	+	0	ID=cds-AFH58016.1;Dbxref=NCBI_GP:AFH58016.1;Name=AFH58016.1;gbkey=CDS;product=membrane;protein_id=AFH58016.1
+JN634064.1	Genbank	CDS	26742	27872	.	+	0	ID=cds-AFH58015.1;Dbxref=NCBI_GP:AFH58015.1;Name=AFH58015.1;gbkey=CDS;product=nucleocapsid;protein_id=AFH58015.1
+JN634064.1	Genbank	CDS	27877	28182	.	+	0	ID=cds-AFH58014.1;Dbxref=NCBI_GP:AFH58014.1;Name=AFH58014.1;gbkey=CDS;product=7a;protein_id=AFH58014.1
+JN634064.1	Genbank	CDS	28187	28612	.	+	0	ID=cds-AFH58013.1;Dbxref=NCBI_GP:AFH58013.1;Name=AFH58013.1;gbkey=CDS;product=7b;protein_id=AFH58013.1
+

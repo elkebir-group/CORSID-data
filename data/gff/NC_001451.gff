@@ -1,0 +1,36 @@
+##sequence-region NC_001451.1 1 27608
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+NC_001451.1	RefSeq	region	1	27608	.	+	.	ID=NC_001451.1:1..27608;Dbxref=taxon:11120;gbkey=Src;genome=genomic;lab-host=embryonated chicken eggs;mol_type=genomic RNA;old-name=Avian infectious bronchitis virus;strain=Beaudette
+NC_001451.1	RefSeq	gene	529	20417	.	+	.	ID=gene-IBVgp1;Dbxref=GeneID:1489740;Name=1ab;Note=translational frameshift on a slippery sequence results in expression of orf1a and orf1b as a single polyprotein 1ab;gbkey=Gene;gene=1ab;gene_biotype=protein_coding;locus_tag=IBVgp1
+NC_001451.1	RefSeq	CDS	529	12354	.	+	0	ID=cds-NP_066134.1;Parent=gene-IBVgp1;Dbxref=Genbank:NP_066134.1,GeneID:1489740;Name=NP_066134.1;gbkey=CDS;gene=1ab;locus_tag=IBVgp1;product=ORF1ab polyprotein;protein_id=NP_066134.1
+NC_001451.1	RefSeq	CDS	12354	20417	.	+	0	ID=cds-NP_066134.1;Parent=gene-IBVgp1;Dbxref=Genbank:NP_066134.1,GeneID:1489740;Name=NP_066134.1;gbkey=CDS;gene=1ab;locus_tag=IBVgp1;product=ORF1ab polyprotein;protein_id=NP_066134.1
+NC_001451.1	RefSeq	mature_protein_region_of_CDS	529	2547	.	+	.	ID=id-NP_066134.1:1..673;Parent=cds-NP_066134.1;gbkey=Prot;product=leader protein p87;protein_id=NP_740634.1
+NC_001451.1	RefSeq	mature_protein_region_of_CDS	2548	8865	.	+	.	ID=id-NP_066134.1:674..2779;Parent=cds-NP_066134.1;gbkey=Prot;product=coronavirus nsp1 (HD1);protein_id=NP_740622.1
+NC_001451.1	RefSeq	mature_protein_region_of_CDS	8866	9786	.	+	.	ID=id-NP_066134.1:2780..3086;Parent=cds-NP_066134.1;gbkey=Prot;product=coronavirus nsp2 (3CL-Pro);protein_id=NP_740623.1
+NC_001451.1	RefSeq	mature_protein_region_of_CDS	9787	10665	.	+	.	ID=id-NP_066134.1:3087..3379;Parent=cds-NP_066134.1;gbkey=Prot;product=coronavirus nsp3 (HD2);protein_id=NP_740624.1
+NC_001451.1	RefSeq	mature_protein_region_of_CDS	10666	10914	.	+	.	ID=id-NP_066134.1:3380..3462;Parent=cds-NP_066134.1;gbkey=Prot;product=coronavirus nsp4;protein_id=NP_740625.1
+NC_001451.1	RefSeq	mature_protein_region_of_CDS	10915	11544	.	+	.	ID=id-NP_066134.1:3463..3672;Parent=cds-NP_066134.1;gbkey=Prot;product=coronavirus nsp5;protein_id=NP_740626.1
+NC_001451.1	RefSeq	mature_protein_region_of_CDS	11545	11877	.	+	.	ID=id-NP_066134.1:3673..3783;Parent=cds-NP_066134.1;gbkey=Prot;product=coronavirus nsp6;protein_id=NP_740627.1
+NC_001451.1	RefSeq	mature_protein_region_of_CDS	11878	12312	.	+	.	ID=id-NP_066134.1:3784..3928;Parent=cds-NP_066134.1;gbkey=Prot;product=coronavirus nsp7 (GLF);protein_id=NP_740628.1
+NC_001451.1	RefSeq	mature_protein_region_of_CDS	12313	12354	.	+	.	ID=id-NP_066134.1:3929..4868;Parent=cds-NP_066134.1;gbkey=Prot;product=RNA-dependent RNA polymerase;protein_id=NP_740629.1
+NC_001451.1	RefSeq	mature_protein_region_of_CDS	12354	15131	.	+	.	ID=id-NP_066134.1:3929..4868;Parent=cds-NP_066134.1;gbkey=Prot;product=RNA-dependent RNA polymerase;protein_id=NP_740629.1
+NC_001451.1	RefSeq	mature_protein_region_of_CDS	15132	16931	.	+	.	ID=id-NP_066134.1:4869..5468;Parent=cds-NP_066134.1;gbkey=Prot;product=coronavirus nsp10;protein_id=NP_740630.1
+NC_001451.1	RefSeq	mature_protein_region_of_CDS	16932	18494	.	+	.	ID=id-NP_066134.1:5469..5989;Parent=cds-NP_066134.1;gbkey=Prot;product=coronavirus nsp11;protein_id=NP_740631.1
+NC_001451.1	RefSeq	mature_protein_region_of_CDS	18495	19508	.	+	.	ID=id-NP_066134.1:5990..6327;Parent=cds-NP_066134.1;gbkey=Prot;product=coronavirus nsp12;protein_id=NP_740632.1
+NC_001451.1	RefSeq	mature_protein_region_of_CDS	19509	20414	.	+	.	ID=id-NP_066134.1:6328..6629;Parent=cds-NP_066134.1;gbkey=Prot;product=coronavirus nsp13;protein_id=NP_740633.1
+NC_001451.1	RefSeq	CDS	529	12384	.	+	0	ID=cds-NP_040829.1;Parent=gene-IBVgp1;Dbxref=Genbank:NP_040829.1,GeneID:1489740;Name=NP_040829.1;Note=ORF for gene 1%3B label: 1a;gbkey=CDS;gene=1ab;locus_tag=IBVgp1;product=ORF1a polyprotein;protein_id=NP_040829.1
+NC_001451.1	RefSeq	mature_protein_region_of_CDS	12313	12381	.	+	.	ID=id-NP_040829.1:3929..3951;Parent=cds-NP_040829.1;gbkey=Prot;product=coronavirus nsp8;protein_id=NP_740621.1
+NC_001451.1	RefSeq	gene	20368	23856	.	+	.	ID=gene-IBVgp2;Dbxref=GeneID:1489741;Name=2;gbkey=Gene;gene=2;gene_biotype=protein_coding;locus_tag=IBVgp2
+NC_001451.1	RefSeq	CDS	20368	23856	.	+	0	ID=cds-NP_040831.1;Parent=gene-IBVgp2;Dbxref=Genbank:NP_040831.1,GeneID:1489741;Name=NP_040831.1;Note=gene 2%3B label: S;gbkey=CDS;gene=2;locus_tag=IBVgp2;product=spike protein;protein_id=NP_040831.1
+NC_001451.1	RefSeq	gene	23856	24553	.	+	.	ID=gene-IBVgp3;Dbxref=GeneID:1489742;Name=3;gbkey=Gene;gene=3;gene_biotype=protein_coding;locus_tag=IBVgp3
+NC_001451.1	RefSeq	CDS	23856	24029	.	+	0	ID=cds-NP_040832.1;Parent=gene-IBVgp3;Dbxref=Genbank:NP_040832.1,GeneID:1489742;Name=NP_040832.1;Note=ORF for gene 3%3B label: 3a;gbkey=CDS;gene=3;locus_tag=IBVgp3;product=3a protein;protein_id=NP_040832.1
+NC_001451.1	RefSeq	CDS	24029	24223	.	+	0	ID=cds-NP_040833.1;Parent=gene-IBVgp3;Dbxref=Genbank:NP_040833.1,GeneID:1489742;Name=NP_040833.1;Note=ORF for gene 3%3B label: 3b;gbkey=CDS;gene=3;locus_tag=IBVgp3;product=3b protein;protein_id=NP_040833.1
+NC_001451.1	RefSeq	CDS	24207	24533	.	+	0	ID=cds-NP_040834.1;Parent=gene-IBVgp3;Dbxref=Genbank:NP_040834.1,GeneID:1489742;Name=NP_040834.1;Note=ORF for gene 3%3B label: sM;gbkey=CDS;gene=3;locus_tag=IBVgp3;product=small virion-associated protein;protein_id=NP_040834.1
+NC_001451.1	RefSeq	gene	24505	25182	.	+	.	ID=gene-IBVgp4;Dbxref=GeneID:1489743;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding;locus_tag=IBVgp4
+NC_001451.1	RefSeq	CDS	24505	25182	.	+	0	ID=cds-NP_040835.1;Parent=gene-IBVgp4;Dbxref=Genbank:NP_040835.1,GeneID:1489743;Name=NP_040835.1;Note=ORF for gene 4%3B label: M;gbkey=CDS;gene=M;locus_tag=IBVgp4;product=membrane protein;protein_id=NP_040835.1
+NC_001451.1	RefSeq	gene	25488	25930	.	+	.	ID=gene-IBVgp5;Dbxref=GeneID:1489744;Name=5;gbkey=Gene;gene=5;gene_biotype=protein_coding;locus_tag=IBVgp5
+NC_001451.1	RefSeq	CDS	25488	25685	.	+	0	ID=cds-NP_040836.1;Parent=gene-IBVgp5;Dbxref=Genbank:NP_040836.1,GeneID:1489744;Name=NP_040836.1;Note=ORF for gene 5%3B label: 5a;gbkey=CDS;gene=5;locus_tag=IBVgp5;product=5a protein;protein_id=NP_040836.1
+NC_001451.1	RefSeq	CDS	25682	25930	.	+	0	ID=cds-NP_040837.1;Parent=gene-IBVgp5;Dbxref=Genbank:NP_040837.1,GeneID:1489744;Name=NP_040837.1;Note=ORF for gene 5%3B label: 5b;gbkey=CDS;gene=5;locus_tag=IBVgp5;product=5b protein;protein_id=NP_040837.1
+NC_001451.1	RefSeq	gene	25873	27102	.	+	.	ID=gene-IBVgp6;Dbxref=GeneID:1489745;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding;locus_tag=IBVgp6
+NC_001451.1	RefSeq	CDS	25873	27102	.	+	0	ID=cds-NP_040838.1;Parent=gene-IBVgp6;Dbxref=Genbank:NP_040838.1,GeneID:1489745;Name=NP_040838.1;Note=ORF for gene 6%3B label: N;gbkey=CDS;gene=N;locus_tag=IBVgp6;product=nucleocapsid protein;protein_id=NP_040838.1
+

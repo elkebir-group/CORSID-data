@@ -1,0 +1,14 @@
+##sequence-region KJ473820.1 1 30480
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1503295
+KJ473820.1	Genbank	region	1	30480	.	+	.	ID=KJ473820.1:1..30480;Dbxref=taxon:1503295;collection-date=2013;country=China;gbkey=Src;genome=genomic;isolate=BtPa-GD2013;mol_type=genomic RNA;nat-host=Pipistrellus abramus
+KJ473820.1	Genbank	CDS	260	13684	.	+	0	ID=cds-AIA62342.1;Dbxref=NCBI_GP:AIA62342.1;Name=AIA62342.1;exception=ribosomal slippage;gbkey=CDS;product=ORF1ab polyprotein;protein_id=AIA62342.1
+KJ473820.1	Genbank	CDS	13684	21807	.	+	0	ID=cds-AIA62342.1;Dbxref=NCBI_GP:AIA62342.1;Name=AIA62342.1;exception=ribosomal slippage;gbkey=CDS;product=ORF1ab polyprotein;protein_id=AIA62342.1
+KJ473820.1	Genbank	CDS	21734	25795	.	+	0	ID=cds-AIA62343.1;Dbxref=NCBI_GP:AIA62343.1;Name=AIA62343.1;gbkey=CDS;product=spike glycoprotein;protein_id=AIA62343.1
+KJ473820.1	Genbank	CDS	25758	26123	.	+	0	ID=cds-AIA62344.1;Dbxref=NCBI_GP:AIA62344.1;Name=AIA62344.1;gbkey=CDS;product=hypothetical protein ORF3a;protein_id=AIA62344.1
+KJ473820.1	Genbank	CDS	26136	26495	.	+	0	ID=cds-AIA62345.1;Dbxref=NCBI_GP:AIA62345.1;Name=AIA62345.1;gbkey=CDS;product=hypothetical protein ORF3b;protein_id=AIA62345.1
+KJ473820.1	Genbank	CDS	26374	27147	.	+	0	ID=cds-AIA62346.1;Dbxref=NCBI_GP:AIA62346.1;Name=AIA62346.1;gbkey=CDS;product=hypothetical protein ORF3c;protein_id=AIA62346.1
+KJ473820.1	Genbank	CDS	27157	27828	.	+	0	ID=cds-AIA62347.1;Dbxref=NCBI_GP:AIA62347.1;Name=AIA62347.1;gbkey=CDS;product=hypothetical protein ORF3d;protein_id=AIA62347.1
+KJ473820.1	Genbank	CDS	27906	28154	.	+	0	ID=cds-AIA62348.1;Dbxref=NCBI_GP:AIA62348.1;Name=AIA62348.1;gbkey=CDS;product=small envelope protein;protein_id=AIA62348.1
+KJ473820.1	Genbank	CDS	28169	28831	.	+	0	ID=cds-AIA62349.1;Dbxref=NCBI_GP:AIA62349.1;Name=AIA62349.1;gbkey=CDS;product=membrane glycoprotein;protein_id=AIA62349.1
+KJ473820.1	Genbank	CDS	28881	30164	.	+	0	ID=cds-AIA62350.1;Dbxref=NCBI_GP:AIA62350.1;Name=AIA62350.1;gbkey=CDS;product=nucleocapsid protein;protein_id=AIA62350.1
+

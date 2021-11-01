@@ -1,0 +1,21 @@
+##sequence-region KY626044.1 1 27618
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=694014
+KY626044.1	Genbank	region	1	27618	.	+	.	ID=KY626044.1:1..27618;Dbxref=taxon:694014;collection-date=2016;country=Brazil;gb-acronym=ACoV;gbkey=Src;genome=genomic;mol_type=genomic RNA;note=Brazil type live vaccine strain;strain=BR-I;type=GI-11
+KY626044.1	Genbank	gene	529	20363	.	+	.	ID=gene-ORF1ab;Name=ORF1ab;gbkey=Gene;gene=ORF1ab;gene_biotype=protein_coding
+KY626044.1	Genbank	CDS	529	12324	.	+	0	ID=cds-ARJ35781.1;Parent=gene-ORF1ab;Dbxref=NCBI_GP:ARJ35781.1;Name=ARJ35781.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;product=replicase polyprotein 1ab;protein_id=ARJ35781.1
+KY626044.1	Genbank	CDS	12327	20363	.	+	0	ID=cds-ARJ35781.1;Parent=gene-ORF1ab;Dbxref=NCBI_GP:ARJ35781.1;Name=ARJ35781.1;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;product=replicase polyprotein 1ab;protein_id=ARJ35781.1
+KY626044.1	Genbank	gene	20314	23823	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+KY626044.1	Genbank	CDS	20314	23823	.	+	0	ID=cds-ARJ35789.1;Parent=gene-S;Dbxref=NCBI_GP:ARJ35789.1;Name=ARJ35789.1;gbkey=CDS;gene=S;product=spike glycoprotein;protein_id=ARJ35789.1
+KY626044.1	Genbank	gene	23823	24187	.	+	.	ID=gene-3;Name=3;gbkey=Gene;gene=3;gene_biotype=protein_coding
+KY626044.1	Genbank	CDS	23823	23996	.	+	0	ID=cds-ARJ35782.1;Parent=gene-3;Dbxref=NCBI_GP:ARJ35782.1;Name=ARJ35782.1;gbkey=CDS;gene=3;product=3a protein;protein_id=ARJ35782.1
+KY626044.1	Genbank	CDS	23996	24187	.	+	0	ID=cds-ARJ35783.1;Parent=gene-3;Dbxref=NCBI_GP:ARJ35783.1;Name=ARJ35783.1;gbkey=CDS;gene=3;product=3b protein;protein_id=ARJ35783.1
+KY626044.1	Genbank	gene	24171	24494	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+KY626044.1	Genbank	CDS	24171	24494	.	+	0	ID=cds-ARJ35784.1;Parent=gene-E;Dbxref=NCBI_GP:ARJ35784.1;Name=ARJ35784.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=ARJ35784.1
+KY626044.1	Genbank	gene	24463	25143	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+KY626044.1	Genbank	CDS	24463	25143	.	+	0	ID=cds-ARJ35785.1;Parent=gene-M;Dbxref=NCBI_GP:ARJ35785.1;Name=ARJ35785.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=ARJ35785.1
+KY626044.1	Genbank	gene	25503	25945	.	+	.	ID=gene-5;Name=5;gbkey=Gene;gene=5;gene_biotype=protein_coding
+KY626044.1	Genbank	CDS	25503	25700	.	+	0	ID=cds-ARJ35786.1;Parent=gene-5;Dbxref=NCBI_GP:ARJ35786.1;Name=ARJ35786.1;gbkey=CDS;gene=5;product=5a protein;protein_id=ARJ35786.1
+KY626044.1	Genbank	CDS	25697	25945	.	+	0	ID=cds-ARJ35787.1;Parent=gene-5;Dbxref=NCBI_GP:ARJ35787.1;Name=ARJ35787.1;gbkey=CDS;gene=5;product=5b protein;protein_id=ARJ35787.1
+KY626044.1	Genbank	gene	25888	27114	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+KY626044.1	Genbank	CDS	25888	27114	.	+	0	ID=cds-ARJ35788.1;Parent=gene-N;Dbxref=NCBI_GP:ARJ35788.1;Name=ARJ35788.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=ARJ35788.1
+

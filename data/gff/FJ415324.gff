@@ -1,0 +1,20 @@
+##sequence-region FJ415324.1 1 31029
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=166124
+FJ415324.1	Genbank	region	1	31029	.	+	.	ID=FJ415324.1:1..31029;Dbxref=taxon:166124;collection-date=1988;country=Germany;gbkey=Src;group=2;isolate=4408;mol_type=genomic RNA;nat-host=Homo sapiens
+FJ415324.1	Genbank	CDS	211	13341	.	+	0	ID=cds-ACJ35483.1;Dbxref=NCBI_GP:ACJ35483.1;Name=ACJ35483.1;Note=translational frameshift on a slippery sequence results in expression of orf1a and orf1b as a single polyprotein 1ab;exception=ribosomal slippage;gbkey=CDS;product=orf1ab polyprotein;protein_id=ACJ35483.1
+FJ415324.1	Genbank	CDS	13341	21494	.	+	0	ID=cds-ACJ35483.1;Dbxref=NCBI_GP:ACJ35483.1;Name=ACJ35483.1;Note=translational frameshift on a slippery sequence results in expression of orf1a and orf1b as a single polyprotein 1ab;exception=ribosomal slippage;gbkey=CDS;product=orf1ab polyprotein;protein_id=ACJ35483.1
+FJ415324.1	Genbank	CDS	21504	22340	.	+	0	ID=cds-ACJ35484.1;Dbxref=NCBI_GP:ACJ35484.1;Name=ACJ35484.1;gbkey=CDS;product=32 kDa protein;protein_id=ACJ35484.1
+FJ415324.1	Genbank	gene	22352	23626	.	+	.	ID=gene-HE;Name=HE;gbkey=Gene;gene=HE;gene_biotype=protein_coding
+FJ415324.1	Genbank	CDS	22352	23626	.	+	0	ID=cds-ACJ35485.1;Parent=gene-HE;Dbxref=NCBI_GP:ACJ35485.1;Name=ACJ35485.1;gbkey=CDS;gene=HE;product=hemagglutinin-esterase;protein_id=ACJ35485.1
+FJ415324.1	Genbank	gene	23641	27732	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+FJ415324.1	Genbank	CDS	23641	27732	.	+	0	ID=cds-ACJ35486.1;Parent=gene-S;Dbxref=NCBI_GP:ACJ35486.1;Name=ACJ35486.1;gbkey=CDS;gene=S;product=spike protein;protein_id=ACJ35486.1
+FJ415324.1	Genbank	CDS	27722	27853	.	+	0	ID=cds-ACJ35490.1;Dbxref=NCBI_GP:ACJ35490.1;Name=ACJ35490.1;gbkey=CDS;product=4.9 kDa protein;protein_id=ACJ35490.1
+FJ415324.1	Genbank	CDS	27889	28026	.	+	0	ID=cds-ACJ35491.1;Dbxref=NCBI_GP:ACJ35491.1;Name=ACJ35491.1;gbkey=CDS;product=4.8 kDa protein;protein_id=ACJ35491.1
+FJ415324.1	Genbank	CDS	28107	28436	.	+	0	ID=cds-ACJ35492.1;Dbxref=NCBI_GP:ACJ35492.1;Name=ACJ35492.1;gbkey=CDS;product=12.7 kDa protein;protein_id=ACJ35492.1
+FJ415324.1	Genbank	gene	28423	28677	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+FJ415324.1	Genbank	CDS	28423	28677	.	+	0	ID=cds-ACJ35487.1;Parent=gene-E;Dbxref=NCBI_GP:ACJ35487.1;Name=ACJ35487.1;gbkey=CDS;gene=E;product=small envelope protein;protein_id=ACJ35487.1
+FJ415324.1	Genbank	gene	28692	29384	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+FJ415324.1	Genbank	CDS	28692	29384	.	+	0	ID=cds-ACJ35488.1;Parent=gene-M;Dbxref=NCBI_GP:ACJ35488.1;Name=ACJ35488.1;gbkey=CDS;gene=M;product=multispanning envelope protein;protein_id=ACJ35488.1
+FJ415324.1	Genbank	gene	29394	30740	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+FJ415324.1	Genbank	CDS	29394	30740	.	+	0	ID=cds-ACJ35489.1;Parent=gene-N;Dbxref=NCBI_GP:ACJ35489.1;Name=ACJ35489.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=ACJ35489.1
+

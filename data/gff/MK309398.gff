@@ -1,0 +1,26 @@
+##sequence-region MK309398.1 1 27686
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+MK309398.1	Genbank	region	1	27686	.	+	.	ID=MK309398.1:1..27686;Dbxref=taxon:11120;collection-date=05-Jul-2017;country=China;gbkey=Src;genome=genomic;genotype=TC07-2;isolate=CK/CH/GD/HY16;mol_type=genomic RNA;nat-host=chicken
+MK309398.1	Genbank	five_prime_UTR	1	525	.	+	.	ID=id-MK309398.1:1..525;gbkey=5'UTR
+MK309398.1	Genbank	gene	526	12387	.	+	.	ID=gene-1a;Name=1a;gbkey=Gene;gene=1a;gene_biotype=protein_coding
+MK309398.1	Genbank	CDS	526	12387	.	+	0	ID=cds-QDM02500.1;Parent=gene-1a;Dbxref=NCBI_GP:QDM02500.1;Name=QDM02500.1;gbkey=CDS;gene=1a;product=1a polyprotein;protein_id=QDM02500.1
+MK309398.1	Genbank	gene	12462	20420	.	+	.	ID=gene-1b;Name=1b;gbkey=Gene;gene=1b;gene_biotype=protein_coding
+MK309398.1	Genbank	CDS	12462	20420	.	+	0	ID=cds-QDM02501.1;Parent=gene-1b;Dbxref=NCBI_GP:QDM02501.1;Name=QDM02501.1;gbkey=CDS;gene=1b;product=1b polyprotein;protein_id=QDM02501.1
+MK309398.1	Genbank	gene	20371	23883	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MK309398.1	Genbank	CDS	20371	23883	.	+	0	ID=cds-QDM02502.1;Parent=gene-S;Dbxref=NCBI_GP:QDM02502.1;Name=QDM02502.1;gbkey=CDS;gene=S;product=spike glycoprotein;protein_id=QDM02502.1
+MK309398.1	Genbank	gene	23883	24056	.	+	.	ID=gene-3a;Name=3a;gbkey=Gene;gene=3a;gene_biotype=protein_coding
+MK309398.1	Genbank	CDS	23883	24056	.	+	0	ID=cds-QDM02503.1;Parent=gene-3a;Dbxref=NCBI_GP:QDM02503.1;Name=QDM02503.1;gbkey=CDS;gene=3a;product=3a protein;protein_id=QDM02503.1
+MK309398.1	Genbank	gene	24056	24244	.	+	.	ID=gene-3b;Name=3b;gbkey=Gene;gene=3b;gene_biotype=protein_coding
+MK309398.1	Genbank	CDS	24056	24244	.	+	0	ID=cds-QDM02504.1;Parent=gene-3b;Dbxref=NCBI_GP:QDM02504.1;Name=QDM02504.1;gbkey=CDS;gene=3b;product=3b protein;protein_id=QDM02504.1
+MK309398.1	Genbank	gene	24228	24536	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MK309398.1	Genbank	CDS	24228	24536	.	+	0	ID=cds-QDM02505.1;Parent=gene-E;Dbxref=NCBI_GP:QDM02505.1;Name=QDM02505.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=QDM02505.1
+MK309398.1	Genbank	gene	24526	25206	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MK309398.1	Genbank	CDS	24526	25206	.	+	0	ID=cds-QDM02506.1;Parent=gene-M;Dbxref=NCBI_GP:QDM02506.1;Name=QDM02506.1;gbkey=CDS;gene=M;product=membrane glycoprotein;protein_id=QDM02506.1
+MK309398.1	Genbank	gene	25570	25767	.	+	.	ID=gene-5a;Name=5a;gbkey=Gene;gene=5a;gene_biotype=protein_coding
+MK309398.1	Genbank	CDS	25570	25767	.	+	0	ID=cds-QDM02507.1;Parent=gene-5a;Dbxref=NCBI_GP:QDM02507.1;Name=QDM02507.1;gbkey=CDS;gene=5a;product=5a protein;protein_id=QDM02507.1
+MK309398.1	Genbank	gene	25764	26012	.	+	.	ID=gene-5b;Name=5b;gbkey=Gene;gene=5b;gene_biotype=protein_coding
+MK309398.1	Genbank	CDS	25764	26012	.	+	0	ID=cds-QDM02508.1;Parent=gene-5b;Dbxref=NCBI_GP:QDM02508.1;Name=QDM02508.1;gbkey=CDS;gene=5b;product=5b protein;protein_id=QDM02508.1
+MK309398.1	Genbank	gene	25955	27181	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MK309398.1	Genbank	CDS	25955	27181	.	+	0	ID=cds-QDM02509.1;Parent=gene-N;Dbxref=NCBI_GP:QDM02509.1;Name=QDM02509.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=QDM02509.1
+MK309398.1	Genbank	three_prime_UTR	27182	27686	.	+	.	ID=id-MK309398.1:27182..27686;gbkey=3'UTR
+

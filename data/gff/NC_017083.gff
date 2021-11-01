@@ -1,0 +1,27 @@
+##sequence-region NC_017083.1 1 31100
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1160968
+NC_017083.1	RefSeq	region	1	31100	.	+	.	ID=NC_017083.1:1..31100;Dbxref=taxon:1160968;collection-date=2006;country=China;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Oryctolagus cuniculus;strain=HKU14-1
+NC_017083.1	RefSeq	gene	209	21663	.	+	.	ID=gene-RbCoV-HKU14_gp01;Dbxref=GeneID:13230771;Name=RbCoV-HKU14_gp01;gbkey=Gene;gene_biotype=protein_coding;locus_tag=RbCoV-HKU14_gp01
+NC_017083.1	RefSeq	CDS	209	13519	.	+	0	ID=cds-YP_005454239.1;Parent=gene-RbCoV-HKU14_gp01;Dbxref=Genbank:YP_005454239.1,GeneID:13230771;Name=YP_005454239.1;exception=ribosomal slippage;gbkey=CDS;locus_tag=RbCoV-HKU14_gp01;product=polyprotein;protein_id=YP_005454239.1
+NC_017083.1	RefSeq	CDS	13519	21663	.	+	0	ID=cds-YP_005454239.1;Parent=gene-RbCoV-HKU14_gp01;Dbxref=Genbank:YP_005454239.1,GeneID:13230771;Name=YP_005454239.1;exception=ribosomal slippage;gbkey=CDS;locus_tag=RbCoV-HKU14_gp01;product=polyprotein;protein_id=YP_005454239.1
+NC_017083.1	RefSeq	gene	21673	21804	.	+	.	ID=gene-RbCoV-HKU14_gp02;Dbxref=GeneID:11948229;Name=NS2a1;gbkey=Gene;gene=NS2a1;gene_biotype=protein_coding;locus_tag=RbCoV-HKU14_gp02
+NC_017083.1	RefSeq	CDS	21673	21804	.	+	0	ID=cds-YP_005454240.1;Parent=gene-RbCoV-HKU14_gp02;Dbxref=Genbank:YP_005454240.1,GeneID:11948229;Name=YP_005454240.1;gbkey=CDS;gene=NS2a1;locus_tag=RbCoV-HKU14_gp02;product=NS2a1 protein;protein_id=YP_005454240.1
+NC_017083.1	RefSeq	gene	21829	22020	.	+	.	ID=gene-RbCoV-HKU14_gp03;Dbxref=GeneID:11948230;Name=NS2a2;gbkey=Gene;gene=NS2a2;gene_biotype=protein_coding;locus_tag=RbCoV-HKU14_gp03
+NC_017083.1	RefSeq	CDS	21829	22020	.	+	0	ID=cds-YP_005454241.1;Parent=gene-RbCoV-HKU14_gp03;Dbxref=Genbank:YP_005454241.1,GeneID:11948230;Name=YP_005454241.1;gbkey=CDS;gene=NS2a2;locus_tag=RbCoV-HKU14_gp03;product=NS2a2 protein;protein_id=YP_005454241.1
+NC_017083.1	RefSeq	gene	22126	22254	.	+	.	ID=gene-RbCoV-HKU14_gp04;Dbxref=GeneID:11948231;Name=NS2a3;gbkey=Gene;gene=NS2a3;gene_biotype=protein_coding;locus_tag=RbCoV-HKU14_gp04
+NC_017083.1	RefSeq	CDS	22126	22254	.	+	0	ID=cds-YP_005454242.1;Parent=gene-RbCoV-HKU14_gp04;Dbxref=Genbank:YP_005454242.1,GeneID:11948231;Name=YP_005454242.1;gbkey=CDS;gene=NS2a3;locus_tag=RbCoV-HKU14_gp04;product=NS2a3 protein;protein_id=YP_005454242.1
+NC_017083.1	RefSeq	gene	22277	22492	.	+	.	ID=gene-RbCoV-HKU14_gp05;Dbxref=GeneID:11948232;Name=NS2a4;gbkey=Gene;gene=NS2a4;gene_biotype=protein_coding;locus_tag=RbCoV-HKU14_gp05
+NC_017083.1	RefSeq	CDS	22277	22492	.	+	0	ID=cds-YP_005454243.1;Parent=gene-RbCoV-HKU14_gp05;Dbxref=Genbank:YP_005454243.1,GeneID:11948232;Name=YP_005454243.1;gbkey=CDS;gene=NS2a4;locus_tag=RbCoV-HKU14_gp05;product=NS2a4 protein;protein_id=YP_005454243.1
+NC_017083.1	RefSeq	gene	22504	23778	.	+	.	ID=gene-RbCoV-HKU14_gp06;Dbxref=GeneID:11948233;Name=HE;gbkey=Gene;gene=HE;gene_biotype=protein_coding;locus_tag=RbCoV-HKU14_gp06
+NC_017083.1	RefSeq	CDS	22504	23778	.	+	0	ID=cds-YP_005454244.1;Parent=gene-RbCoV-HKU14_gp06;Dbxref=Genbank:YP_005454244.1,GeneID:11948233;Name=YP_005454244.1;gbkey=CDS;gene=HE;locus_tag=RbCoV-HKU14_gp06;product=hemagglutinin-esterase protein;protein_id=YP_005454244.1
+NC_017083.1	RefSeq	gene	23793	27881	.	+	.	ID=gene-RbCoV-HKU14_gp07;Dbxref=GeneID:11948234;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding;locus_tag=RbCoV-HKU14_gp07
+NC_017083.1	RefSeq	CDS	23793	27881	.	+	0	ID=cds-YP_005454245.1;Parent=gene-RbCoV-HKU14_gp07;Dbxref=Genbank:YP_005454245.1,GeneID:11948234;Name=YP_005454245.1;gbkey=CDS;gene=S;locus_tag=RbCoV-HKU14_gp07;product=spike protein;protein_id=YP_005454245.1
+NC_017083.1	RefSeq	gene	28178	28507	.	+	.	ID=gene-RbCoV-HKU14_gp08;Dbxref=GeneID:11948235;Name=NS5a;gbkey=Gene;gene=NS5a;gene_biotype=protein_coding;locus_tag=RbCoV-HKU14_gp08
+NC_017083.1	RefSeq	CDS	28178	28507	.	+	0	ID=cds-YP_005454246.1;Parent=gene-RbCoV-HKU14_gp08;Dbxref=Genbank:YP_005454246.1,GeneID:11948235;Name=YP_005454246.1;gbkey=CDS;gene=NS5a;locus_tag=RbCoV-HKU14_gp08;product=NS5a protein;protein_id=YP_005454246.1
+NC_017083.1	RefSeq	gene	28494	28763	.	+	.	ID=gene-RbCoV-HKU14_gp09;Dbxref=GeneID:11948236;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding;locus_tag=RbCoV-HKU14_gp09
+NC_017083.1	RefSeq	CDS	28494	28763	.	+	0	ID=cds-YP_005454247.1;Parent=gene-RbCoV-HKU14_gp09;Dbxref=Genbank:YP_005454247.1,GeneID:11948236;Name=YP_005454247.1;gbkey=CDS;gene=E;locus_tag=RbCoV-HKU14_gp09;product=envelope protein;protein_id=YP_005454247.1
+NC_017083.1	RefSeq	gene	28760	29452	.	+	.	ID=gene-RbCoV-HKU14_gp10;Dbxref=GeneID:11948237;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding;locus_tag=RbCoV-HKU14_gp10
+NC_017083.1	RefSeq	CDS	28760	29452	.	+	0	ID=cds-YP_005454248.1;Parent=gene-RbCoV-HKU14_gp10;Dbxref=Genbank:YP_005454248.1,GeneID:11948237;Name=YP_005454248.1;gbkey=CDS;gene=M;locus_tag=RbCoV-HKU14_gp10;product=membrane protein;protein_id=YP_005454248.1
+NC_017083.1	RefSeq	gene	29462	30796	.	+	.	ID=gene-RbCoV-HKU14_gp11;Dbxref=GeneID:11948238;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding;locus_tag=RbCoV-HKU14_gp11
+NC_017083.1	RefSeq	CDS	29462	30796	.	+	0	ID=cds-YP_005454249.1;Parent=gene-RbCoV-HKU14_gp11;Dbxref=Genbank:YP_005454249.1,GeneID:11948238;Name=YP_005454249.1;gbkey=CDS;gene=N;locus_tag=RbCoV-HKU14_gp11;product=nucleocapsid protein;protein_id=YP_005454249.1
+

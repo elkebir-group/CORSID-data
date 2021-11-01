@@ -1,0 +1,22 @@
+##sequence-region NC_034972.1 1 27682
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1964806
+NC_034972.1	RefSeq	region	1	27682	.	+	.	ID=NC_034972.1:1..27682;Dbxref=taxon:1964806;collection-date=Oct-2011;country=China;gbkey=Src;genome=genomic;isolate=AcCoV-JC34;mol_type=genomic RNA;nat-host=Apodemus chevrieri
+NC_034972.1	RefSeq	gene	437	12361	.	+	.	ID=gene-CD915_gp1;Dbxref=GeneID:33133648;Name=CD915_gp1;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CD915_gp1
+NC_034972.1	RefSeq	CDS	437	12361	.	+	0	ID=cds-YP_009380519.1;Parent=gene-CD915_gp1;Dbxref=Genbank:YP_009380519.1,GeneID:33133648;Name=YP_009380519.1;gbkey=CDS;locus_tag=CD915_gp1;product=orf1a polyprotein;protein_id=YP_009380519.1
+NC_034972.1	RefSeq	gene	12361	20376	.	+	.	ID=gene-CD915_gp2;Dbxref=GeneID:33133640;Name=CD915_gp2;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CD915_gp2
+NC_034972.1	RefSeq	CDS	12361	20376	.	+	0	ID=cds-YP_009380520.1;Parent=gene-CD915_gp2;Dbxref=Genbank:YP_009380520.1,GeneID:33133640;Name=YP_009380520.1;gbkey=CDS;locus_tag=CD915_gp2;partial=true;product=orf1b polyprotein;protein_id=YP_009380520.1;start_range=.,12361
+NC_034972.1	RefSeq	gene	20376	23756	.	+	.	ID=gene-CD915_gp3;Dbxref=GeneID:33133641;Name=CD915_gp3;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CD915_gp3
+NC_034972.1	RefSeq	CDS	20376	23756	.	+	0	ID=cds-YP_009380521.1;Parent=gene-CD915_gp3;Dbxref=Genbank:YP_009380521.1,GeneID:33133641;Name=YP_009380521.1;gbkey=CDS;locus_tag=CD915_gp3;product=spike protein;protein_id=YP_009380521.1
+NC_034972.1	RefSeq	gene	23753	24397	.	+	.	ID=gene-CD915_gp4;Dbxref=GeneID:33133642;Name=CD915_gp4;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CD915_gp4
+NC_034972.1	RefSeq	CDS	23753	24397	.	+	0	ID=cds-YP_009380522.1;Parent=gene-CD915_gp4;Dbxref=Genbank:YP_009380522.1,GeneID:33133642;Name=YP_009380522.1;gbkey=CDS;locus_tag=CD915_gp4;product=ORF3;protein_id=YP_009380522.1
+NC_034972.1	RefSeq	gene	24397	24633	.	+	.	ID=gene-CD915_gp5;Dbxref=GeneID:33133643;Name=CD915_gp5;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CD915_gp5
+NC_034972.1	RefSeq	CDS	24397	24633	.	+	0	ID=cds-YP_009380523.1;Parent=gene-CD915_gp5;Dbxref=Genbank:YP_009380523.1,GeneID:33133643;Name=YP_009380523.1;gbkey=CDS;locus_tag=CD915_gp5;product=envelope protein;protein_id=YP_009380523.1
+NC_034972.1	RefSeq	gene	24643	25389	.	+	.	ID=gene-CD915_gp6;Dbxref=GeneID:33133644;Name=CD915_gp6;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CD915_gp6
+NC_034972.1	RefSeq	CDS	24643	25389	.	+	0	ID=cds-YP_009380524.1;Parent=gene-CD915_gp6;Dbxref=Genbank:YP_009380524.1,GeneID:33133644;Name=YP_009380524.1;gbkey=CDS;locus_tag=CD915_gp6;product=membrane protein;protein_id=YP_009380524.1
+NC_034972.1	RefSeq	gene	25401	25901	.	+	.	ID=gene-CD915_gp7;Dbxref=GeneID:33133645;Name=CD915_gp7;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CD915_gp7
+NC_034972.1	RefSeq	CDS	25401	25901	.	+	0	ID=cds-YP_009380525.1;Parent=gene-CD915_gp7;Dbxref=Genbank:YP_009380525.1,GeneID:33133645;Name=YP_009380525.1;gbkey=CDS;locus_tag=CD915_gp7;product=ORF6;protein_id=YP_009380525.1
+NC_034972.1	RefSeq	gene	25903	27072	.	+	.	ID=gene-CD915_gp8;Dbxref=GeneID:33133646;Name=CD915_gp8;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CD915_gp8
+NC_034972.1	RefSeq	CDS	25903	27072	.	+	0	ID=cds-YP_009380526.1;Parent=gene-CD915_gp8;Dbxref=Genbank:YP_009380526.1,GeneID:33133646;Name=YP_009380526.1;gbkey=CDS;locus_tag=CD915_gp8;product=nucleocapsid protein;protein_id=YP_009380526.1
+NC_034972.1	RefSeq	gene	27074	27391	.	+	.	ID=gene-CD915_gp9;Dbxref=GeneID:33133647;Name=CD915_gp9;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CD915_gp9
+NC_034972.1	RefSeq	CDS	27074	27391	.	+	0	ID=cds-YP_009380527.1;Parent=gene-CD915_gp9;Dbxref=Genbank:YP_009380527.1,GeneID:33133647;Name=YP_009380527.1;gbkey=CDS;locus_tag=CD915_gp9;product=ORF8;protein_id=YP_009380527.1
+

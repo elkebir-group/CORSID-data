@@ -1,0 +1,15 @@
+##sequence-region KC008600.1 1 27701
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+KC008600.1	Genbank	region	1	27701	.	+	.	ID=KC008600.1:1..27701;Dbxref=taxon:11120;collection-date=1985;country=China;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=chicken;strain=GX-C
+KC008600.1	Genbank	CDS	527	12376	.	+	0	ID=cds-AGK85497.1;Dbxref=NCBI_GP:AGK85497.1;Name=AGK85497.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein 1ab;protein_id=AGK85497.1
+KC008600.1	Genbank	CDS	12379	20412	.	+	0	ID=cds-AGK85497.1;Dbxref=NCBI_GP:AGK85497.1;Name=AGK85497.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein 1ab;protein_id=AGK85497.1
+KC008600.1	Genbank	CDS	527	12379	.	+	0	ID=cds-AGK85498.1;Dbxref=NCBI_GP:AGK85498.1;Name=AGK85498.1;gbkey=CDS;product=polyprotein 1a;protein_id=AGK85498.1
+KC008600.1	Genbank	CDS	20363	23866	.	+	0	ID=cds-AGK85499.1;Dbxref=NCBI_GP:AGK85499.1;Name=AGK85499.1;gbkey=CDS;product=spike protein;protein_id=AGK85499.1
+KC008600.1	Genbank	CDS	23866	24039	.	+	0	ID=cds-AGK85500.1;Dbxref=NCBI_GP:AGK85500.1;Name=AGK85500.1;gbkey=CDS;product=3a;protein_id=AGK85500.1
+KC008600.1	Genbank	CDS	24039	24257	.	+	0	ID=cds-AGK85501.1;Dbxref=NCBI_GP:AGK85501.1;Name=AGK85501.1;gbkey=CDS;product=3b;protein_id=AGK85501.1
+KC008600.1	Genbank	CDS	24241	24567	.	+	0	ID=cds-AGK85502.1;Dbxref=NCBI_GP:AGK85502.1;Name=AGK85502.1;gbkey=CDS;product=envelope protein;protein_id=AGK85502.1
+KC008600.1	Genbank	CDS	24539	25216	.	+	0	ID=cds-AGK85503.1;Dbxref=NCBI_GP:AGK85503.1;Name=AGK85503.1;gbkey=CDS;product=membrane glycoprotein;protein_id=AGK85503.1
+KC008600.1	Genbank	CDS	25570	25767	.	+	0	ID=cds-AGK85504.1;Dbxref=NCBI_GP:AGK85504.1;Name=AGK85504.1;gbkey=CDS;product=5a;protein_id=AGK85504.1
+KC008600.1	Genbank	CDS	25764	26009	.	+	0	ID=cds-AGK85505.1;Dbxref=NCBI_GP:AGK85505.1;Name=AGK85505.1;gbkey=CDS;product=5b;protein_id=AGK85505.1
+KC008600.1	Genbank	CDS	25952	27181	.	+	0	ID=cds-AGK85506.1;Dbxref=NCBI_GP:AGK85506.1;Name=AGK85506.1;gbkey=CDS;product=nucleocapsid protein;protein_id=AGK85506.1
+

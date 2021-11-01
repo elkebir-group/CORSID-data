@@ -1,0 +1,11 @@
+##sequence-region MK644603.1 1 28043
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=28295
+MK644603.1	Genbank	region	1	28043	.	+	.	ID=MK644603.1:1..28043;Dbxref=taxon:28295;collection-date=27-Oct-2017;country=China;gb-acronym=PEDV;gbkey=Src;genome=genomic;isolate=M3-SX2017;mol_type=genomic RNA;nat-host=pig;subgroup=G2
+MK644603.1	Genbank	CDS	293	12601	.	+	0	ID=cds-QFG01699.1;Dbxref=NCBI_GP:QFG01699.1;Name=QFG01699.1;Note=ORF1ab;exception=ribosomal slippage;gbkey=CDS;product=polyprotein;protein_id=QFG01699.1
+MK644603.1	Genbank	CDS	12601	20637	.	+	0	ID=cds-QFG01699.1;Dbxref=NCBI_GP:QFG01699.1;Name=QFG01699.1;Note=ORF1ab;exception=ribosomal slippage;gbkey=CDS;product=polyprotein;protein_id=QFG01699.1
+MK644603.1	Genbank	CDS	20634	24791	.	+	0	ID=cds-QFG01700.1;Dbxref=NCBI_GP:QFG01700.1;Name=QFG01700.1;Note=S;gbkey=CDS;product=spike protein;protein_id=QFG01700.1
+MK644603.1	Genbank	CDS	24791	25465	.	+	0	ID=cds-QFG01701.1;Dbxref=NCBI_GP:QFG01701.1;Name=QFG01701.1;Note=ORF3;gbkey=CDS;product=hypothetical protein;protein_id=QFG01701.1
+MK644603.1	Genbank	CDS	25446	25676	.	+	0	ID=cds-QFG01702.1;Dbxref=NCBI_GP:QFG01702.1;Name=QFG01702.1;Note=E;gbkey=CDS;product=envelope protein;protein_id=QFG01702.1
+MK644603.1	Genbank	CDS	25684	26364	.	+	0	ID=cds-QFG01703.1;Dbxref=NCBI_GP:QFG01703.1;Name=QFG01703.1;Note=M;gbkey=CDS;product=membrane protein;protein_id=QFG01703.1
+MK644603.1	Genbank	CDS	26376	27701	.	+	0	ID=cds-QFG01704.1;Dbxref=NCBI_GP:QFG01704.1;Name=QFG01704.1;Note=N;gbkey=CDS;product=nucleocapsid protein;protein_id=QFG01704.1
+
