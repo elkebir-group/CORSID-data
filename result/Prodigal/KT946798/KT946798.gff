@@ -1,0 +1,11 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=27690;seqhdr="KT946798.1 Infectious bronchitis virus strain CK/CH/GD/GZ14, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+KT946798.1	Prodigal_v2.6.3	CDS	497	12388	1219.6	+	0	ID=1_1;partial=00;start_type=GTG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.385;conf=99.99;score=1219.62;cscore=1216.14;sscore=3.48;rscore=5.57;uscore=-1.75;tscore=-0.34;
+KT946798.1	Prodigal_v2.6.3	CDS	12463	20421	763.4	+	0	ID=1_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.377;conf=99.99;score=763.35;cscore=754.71;sscore=8.65;rscore=3.28;uscore=2.59;tscore=2.78;
+KT946798.1	Prodigal_v2.6.3	CDS	20378	23842	308.2	+	0	ID=1_3;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.364;conf=99.99;score=308.22;cscore=304.49;sscore=3.73;rscore=3.28;uscore=0.79;tscore=-0.34;
+KT946798.1	Prodigal_v2.6.3	CDS	24042	24260	13.1	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.329;conf=94.62;score=12.47;cscore=13.29;sscore=-0.81;rscore=-2.93;uscore=0.37;tscore=2.40;
+KT946798.1	Prodigal_v2.6.3	CDS	24244	24570	24.7	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.382;conf=99.74;score=25.82;cscore=12.55;sscore=13.27;rscore=7.65;uscore=1.69;tscore=2.78;
+KT946798.1	Prodigal_v2.6.3	CDS	24542	25219	24.6	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.397;conf=99.65;score=24.58;cscore=25.37;sscore=-0.80;rscore=-2.53;uscore=-1.04;tscore=2.78;
+KT946798.1	Prodigal_v2.6.3	CDS	25958	27187	109.8	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.463;conf=100.00;score=109.10;cscore=109.31;sscore=-0.21;rscore=-2.53;uscore=0.20;tscore=2.78;
+KT946798.1	Prodigal_v2.6.3	CDS	27196	27417	8.1	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.338;conf=89.48;score=9.31;cscore=1.69;sscore=7.63;rscore=2.88;uscore=1.14;tscore=2.43;

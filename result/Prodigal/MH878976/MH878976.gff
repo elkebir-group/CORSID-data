@@ -1,0 +1,13 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=27467;seqhdr="MH878976.1 Infectious bronchitis virus isolate VFAR-047, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+MH878976.1	Prodigal_v2.6.3	CDS	297	12188	1236.5	+	0	ID=1_1;partial=00;start_type=GTG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.381;conf=99.99;score=1236.49;cscore=1233.10;sscore=3.39;rscore=5.57;uscore=-1.84;tscore=-0.34;
+MH878976.1	Prodigal_v2.6.3	CDS	12221	20221	794.8	+	0	ID=1_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.375;conf=99.99;score=795.76;cscore=796.36;sscore=-0.60;rscore=-2.53;uscore=1.35;tscore=-0.34;
+MH878976.1	Prodigal_v2.6.3	CDS	20172	23672	308.3	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.367;conf=99.99;score=308.33;cscore=308.05;sscore=0.28;rscore=-2.53;uscore=0.03;tscore=2.78;
+MH878976.1	Prodigal_v2.6.3	CDS	23845	24039	9.0	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.344;conf=95.76;score=13.56;cscore=9.65;sscore=3.91;rscore=-3.30;uscore=0.50;tscore=2.13;
+MH878976.1	Prodigal_v2.6.3	CDS	24020	24328	17.8	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.366;conf=98.35;score=17.79;cscore=16.61;sscore=1.18;rscore=-2.53;uscore=0.93;tscore=2.78;
+MH878976.1	Prodigal_v2.6.3	CDS	24321	25001	28.4	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.392;conf=99.89;score=29.61;cscore=27.87;sscore=1.74;rscore=-2.53;uscore=0.25;tscore=2.78;
+MH878976.1	Prodigal_v2.6.3	CDS	25002	25286	6.0	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.305;conf=84.28;score=7.30;cscore=6.13;sscore=1.17;rscore=-2.53;uscore=-0.35;tscore=2.78;
+MH878976.1	Prodigal_v2.6.3	CDS	25546	25794	-1.4	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.430;conf=66.39;score=2.96;cscore=-0.56;sscore=3.53;rscore=-2.57;uscore=-0.51;tscore=2.73;
+MH878976.1	Prodigal_v2.6.3	CDS	25737	26966	117.0	+	0	ID=1_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.458;conf=100.00;score=116.96;cscore=116.36;sscore=0.60;rscore=-2.53;uscore=0.36;tscore=2.78;
+MH878976.1	Prodigal_v2.6.3	CDS	26975	27199	5.9	+	0	ID=1_10;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.324;conf=83.67;score=7.11;cscore=5.43;sscore=1.68;rscore=-2.85;uscore=0.88;tscore=2.46;

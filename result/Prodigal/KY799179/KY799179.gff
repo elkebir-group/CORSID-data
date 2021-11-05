@@ -1,0 +1,11 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=28173;seqhdr="KY799179.1 Myotis lucifugus coronavirus, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+KY799179.1	Prodigal_v2.6.3	CDS	80	12562	1361.3	+	0	ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.408;conf=99.99;score=1361.28;cscore=1360.05;sscore=1.24;rscore=-2.53;uscore=0.99;tscore=2.78;
+KY799179.1	Prodigal_v2.6.3	CDS	12592	20556	768.7	+	0	ID=1_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.393;conf=99.99;score=769.70;cscore=772.26;sscore=-2.56;rscore=-2.53;uscore=-0.65;tscore=-0.34;
+KY799179.1	Prodigal_v2.6.3	CDS	20553	24650	362.4	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.403;conf=99.99;score=366.69;cscore=362.62;sscore=4.07;rscore=-2.53;uscore=-0.46;tscore=2.78;
+KY799179.1	Prodigal_v2.6.3	CDS	24650	25327	35.6	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.378;conf=99.99;score=40.92;cscore=36.86;sscore=4.06;rscore=-2.53;uscore=-1.50;tscore=2.78;
+KY799179.1	Prodigal_v2.6.3	CDS	25311	25535	2.0	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.351;conf=67.22;score=3.12;cscore=0.07;sscore=3.05;rscore=-2.85;uscore=2.28;tscore=2.46;
+KY799179.1	Prodigal_v2.6.3	CDS	25542	26222	28.9	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.445;conf=99.90;score=30.16;cscore=29.18;sscore=0.97;rscore=-2.53;uscore=-0.48;tscore=2.78;
+KY799179.1	Prodigal_v2.6.3	CDS	26233	27510	97.9	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.488;conf=100.00;score=99.05;cscore=95.99;sscore=3.05;rscore=-2.53;uscore=1.65;tscore=2.78;
+KY799179.1	Prodigal_v2.6.3	CDS	27538	27927	-0.5	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.410;conf=52.73;score=0.48;cscore=4.68;sscore=-4.20;rscore=-2.53;uscore=-1.08;tscore=2.78;

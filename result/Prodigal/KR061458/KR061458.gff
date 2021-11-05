@@ -1,0 +1,10 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=27986;seqhdr="KR061458.1 Porcine epidemic diarrhea virus strain Italy/7239/2009, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+KR061458.1	Prodigal_v2.6.3	CDS	264	12617	1257.8	+	0	ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.417;conf=99.99;score=1257.84;cscore=1257.54;sscore=0.30;rscore=-2.53;uscore=0.06;tscore=2.78;
+KR061458.1	Prodigal_v2.6.3	CDS	12647	20608	665.1	+	0	ID=1_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.410;conf=99.99;score=666.06;cscore=668.48;sscore=-2.42;rscore=-2.53;uscore=-0.50;tscore=-0.34;
+KR061458.1	Prodigal_v2.6.3	CDS	20605	24756	324.9	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.413;conf=99.99;score=328.72;cscore=323.56;sscore=5.16;rscore=-2.53;uscore=1.09;tscore=2.78;
+KR061458.1	Prodigal_v2.6.3	CDS	24753	25430	36.4	+	0	ID=1_4;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.385;conf=99.99;score=39.44;cscore=35.20;sscore=4.23;rscore=3.28;uscore=-1.79;tscore=-0.34;
+KR061458.1	Prodigal_v2.6.3	CDS	25411	25641	2.5	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.355;conf=63.94;score=2.49;cscore=2.23;sscore=0.26;rscore=-2.78;uscore=0.51;tscore=2.53;
+KR061458.1	Prodigal_v2.6.3	CDS	25649	26329	25.5	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.443;conf=99.78;score=26.67;cscore=25.78;sscore=0.89;rscore=-2.53;uscore=-0.55;tscore=2.78;
+KR061458.1	Prodigal_v2.6.3	CDS	26341	27666	97.5	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.469;conf=100.00;score=98.62;cscore=95.10;sscore=3.53;rscore=-2.53;uscore=2.13;tscore=2.78;

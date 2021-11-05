@@ -1,0 +1,11 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=28035;seqhdr="NC_022103.1 Bat coronavirus CDPHE15/USA/2006, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+NC_022103.1	Prodigal_v2.6.3	CDS	80	12562	1362.3	+	0	ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.409;conf=99.99;score=1362.31;cscore=1361.07;sscore=1.24;rscore=-2.53;uscore=0.99;tscore=2.78;
+NC_022103.1	Prodigal_v2.6.3	CDS	12592	20556	758.8	+	0	ID=1_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.396;conf=99.99;score=759.76;cscore=762.33;sscore=-2.56;rscore=-2.53;uscore=-0.65;tscore=-0.34;
+NC_022103.1	Prodigal_v2.6.3	CDS	20553	24647	374.0	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.408;conf=99.99;score=379.32;cscore=375.25;sscore=4.07;rscore=-2.53;uscore=-1.54;tscore=2.78;
+NC_022103.1	Prodigal_v2.6.3	CDS	24647	25324	30.7	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.386;conf=99.97;score=35.98;cscore=31.92;sscore=4.06;rscore=-2.53;uscore=-1.50;tscore=2.78;
+NC_022103.1	Prodigal_v2.6.3	CDS	25308	25532	2.0	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.351;conf=67.22;score=3.12;cscore=0.07;sscore=3.05;rscore=-2.85;uscore=2.28;tscore=2.46;
+NC_022103.1	Prodigal_v2.6.3	CDS	25539	26219	32.6	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.442;conf=99.96;score=33.83;cscore=32.85;sscore=0.97;rscore=-2.53;uscore=-0.48;tscore=2.78;
+NC_022103.1	Prodigal_v2.6.3	CDS	26230	27507	102.6	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.482;conf=100.00;score=103.77;cscore=100.72;sscore=3.05;rscore=-2.53;uscore=1.65;tscore=2.78;
+NC_022103.1	Prodigal_v2.6.3	CDS	27536	27925	-0.4	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.403;conf=53.51;score=0.61;cscore=4.68;sscore=-4.07;rscore=-2.53;uscore=-0.93;tscore=2.78;

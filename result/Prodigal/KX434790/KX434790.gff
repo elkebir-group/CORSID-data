@@ -1,0 +1,11 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=27618;seqhdr="KX434790.1 Infectious bronchitis virus strain ck/CH/LJS/111210, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+KX434790.1	Prodigal_v2.6.3	CDS	499	12327	1229.1	+	0	ID=1_1;partial=00;start_type=GTG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.379;conf=99.99;score=1229.12;cscore=1225.64;sscore=3.48;rscore=5.57;uscore=-1.75;tscore=-0.34;
+KX434790.1	Prodigal_v2.6.3	CDS	12402	20360	772.1	+	0	ID=1_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.375;conf=99.99;score=772.06;cscore=763.69;sscore=8.37;rscore=3.28;uscore=2.31;tscore=2.78;
+KX434790.1	Prodigal_v2.6.3	CDS	20311	23808	328.9	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.358;conf=99.99;score=328.94;cscore=330.52;sscore=-1.58;rscore=-2.53;uscore=-1.83;tscore=2.78;
+KX434790.1	Prodigal_v2.6.3	CDS	23981	24169	7.6	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.296;conf=85.09;score=7.57;cscore=8.92;sscore=-1.34;rscore=-3.40;uscore=-0.00;tscore=2.06;
+KX434790.1	Prodigal_v2.6.3	CDS	24156	24482	10.6	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.376;conf=93.82;score=11.83;cscore=9.45;sscore=2.39;rscore=-2.53;uscore=0.96;tscore=2.78;
+KX434790.1	Prodigal_v2.6.3	CDS	24454	25131	23.1	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.403;conf=99.51;score=23.12;cscore=23.92;sscore=-0.80;rscore=-2.53;uscore=-1.04;tscore=2.78;
+KX434790.1	Prodigal_v2.6.3	CDS	25871	27100	106.3	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.461;conf=100.00;score=105.68;cscore=106.05;sscore=-0.37;rscore=-2.53;uscore=0.04;tscore=2.78;
+KX434790.1	Prodigal_v2.6.3	CDS	27109	27333	8.8	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.324;conf=90.94;score=10.03;cscore=8.13;sscore=1.90;rscore=-2.85;uscore=1.10;tscore=2.46;

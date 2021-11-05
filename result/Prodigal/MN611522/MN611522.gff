@@ -1,0 +1,11 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=26956;seqhdr="MN611522.1 Rhinolophus affinis bat coronavirus HKU2-related isolate 160660, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+MN611522.1	Prodigal_v2.6.3	CDS	132	12314	1463.4	+	0	ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.388;conf=99.99;score=1463.45;cscore=1464.63;sscore=-1.18;rscore=-2.53;uscore=-1.42;tscore=2.78;
+MN611522.1	Prodigal_v2.6.3	CDS	12398	20317	811.3	+	0	ID=1_2;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.389;conf=99.99;score=811.32;cscore=822.45;sscore=-11.12;rscore=-2.53;uscore=1.31;tscore=-9.90;
+MN611522.1	Prodigal_v2.6.3	CDS	20314	23673	272.7	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.433;conf=99.99;score=276.70;cscore=272.63;sscore=4.07;rscore=-2.53;uscore=-0.21;tscore=2.78;
+MN611522.1	Prodigal_v2.6.3	CDS	23673	24362	49.2	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.413;conf=100.00;score=53.85;cscore=49.79;sscore=4.06;rscore=-2.53;uscore=-0.85;tscore=2.78;
+MN611522.1	Prodigal_v2.6.3	CDS	24343	24570	8.5	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=4Base/6BMM;rbs_spacer=13-15bp;gc_cont=0.351;conf=87.63;score=8.52;cscore=7.47;sscore=1.05;rscore=-0.88;uscore=-0.56;tscore=2.50;
+MN611522.1	Prodigal_v2.6.3	CDS	24579	25265	29.5	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.409;conf=99.91;score=30.70;cscore=29.34;sscore=1.36;rscore=-2.53;uscore=-0.07;tscore=2.78;
+MN611522.1	Prodigal_v2.6.3	CDS	25277	26407	103.5	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.480;conf=100.00;score=104.66;cscore=102.94;sscore=1.72;rscore=-2.53;uscore=0.32;tscore=2.78;
+MN611522.1	Prodigal_v2.6.3	CDS	26419	26718	1.6	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.380;conf=65.34;score=2.76;cscore=-0.44;sscore=3.19;rscore=-2.53;uscore=2.30;tscore=2.78;

@@ -1,0 +1,13 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=30175;seqhdr="KC545386.1 Betacoronavirus Erinaceus/VMC/DEU/2012 isolate ErinaceusCoV/2012-216/GER/2012, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="39|Rickettsia_conorii_Malish_7|B|32.4|11|1";gc_cont=32.40;transl_table=11;uses_sd=1
+KC545386.1	Prodigal_v2.6.3	CDS	184	13632	1461.4	+	0	ID=1_1;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.374;conf=99.99;score=1461.45;cscore=1465.38;sscore=-3.93;rscore=-0.99;uscore=1.55;tscore=-4.48;
+KC545386.1	Prodigal_v2.6.3	CDS	13836	21719	779.1	+	0	ID=1_2;partial=00;start_type=TTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.365;conf=99.99;score=778.48;cscore=785.60;sscore=-7.13;rscore=5.66;uscore=-2.52;tscore=-9.61;
+KC545386.1	Prodigal_v2.6.3	CDS	21673	25629	397.2	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.363;conf=99.99;score=397.20;cscore=398.73;sscore=-1.53;rscore=-0.99;uscore=-3.44;tscore=2.90;
+KC545386.1	Prodigal_v2.6.3	CDS	25647	25961	28.2	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.381;conf=99.88;score=29.24;cscore=23.91;sscore=5.33;rscore=-0.99;uscore=2.33;tscore=2.90;
+KC545386.1	Prodigal_v2.6.3	CDS	25918	26163	3.8	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.390;conf=70.66;score=3.82;cscore=7.41;sscore=-3.58;rscore=-1.02;uscore=-5.38;tscore=2.82;
+KC545386.1	Prodigal_v2.6.3	CDS	26150	26821	37.9	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.402;conf=99.99;score=39.10;cscore=35.90;sscore=3.20;rscore=-0.99;uscore=0.10;tscore=2.90;
+KC545386.1	Prodigal_v2.6.3	CDS	26831	27532	29.0	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.358;conf=99.90;score=30.16;cscore=23.49;sscore=6.66;rscore=5.83;uscore=-3.24;tscore=2.90;
+KC545386.1	Prodigal_v2.6.3	CDS	27606	27854	2.2	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.373;conf=62.28;score=2.18;cscore=-1.08;sscore=3.26;rscore=2.68;uscore=-1.76;tscore=2.85;
+KC545386.1	Prodigal_v2.6.3	CDS	27869	28525	35.1	+	0	ID=1_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.394;conf=99.98;score=36.18;cscore=36.82;sscore=-0.64;rscore=-0.99;uscore=-3.67;tscore=2.90;
+KC545386.1	Prodigal_v2.6.3	CDS	28580	29854	107.5	+	0	ID=1_10;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.464;conf=100.00;score=108.18;cscore=102.95;sscore=5.23;rscore=-0.99;uscore=2.64;tscore=2.90;

@@ -1,0 +1,12 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=29462;seqhdr="JQ404409.1 Canine coronavirus strain 1-71, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="39|Rickettsia_conorii_Malish_7|B|32.4|11|1";gc_cont=32.40;transl_table=11;uses_sd=1
+JQ404409.1	Prodigal_v2.6.3	CDS	314	12367	1263.2	+	0	ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.375;conf=99.99;score=1263.25;cscore=1269.32;sscore=-6.08;rscore=-0.99;uscore=-7.98;tscore=2.90;
+JQ404409.1	Prodigal_v2.6.3	CDS	12532	20367	705.3	+	0	ID=1_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.375;conf=99.99;score=705.34;cscore=704.57;sscore=0.76;rscore=-0.99;uscore=-1.14;tscore=2.90;
+JQ404409.1	Prodigal_v2.6.3	CDS	20364	24725	380.3	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.372;conf=99.99;score=383.99;cscore=379.80;sscore=4.19;rscore=-0.99;uscore=-1.39;tscore=2.90;
+JQ404409.1	Prodigal_v2.6.3	CDS	24914	25129	28.0	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.370;conf=99.81;score=27.34;cscore=24.02;sscore=3.32;rscore=2.32;uscore=-0.82;tscore=2.47;
+JQ404409.1	Prodigal_v2.6.3	CDS	25074	25289	4.3	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.292;conf=72.87;score=4.30;cscore=2.84;sscore=1.46;rscore=4.97;uscore=-5.98;tscore=2.47;
+JQ404409.1	Prodigal_v2.6.3	CDS	25286	26020	46.6	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.365;conf=100.00;score=48.85;cscore=43.28;sscore=5.57;rscore=-0.99;uscore=1.38;tscore=2.90;
+JQ404409.1	Prodigal_v2.6.3	CDS	26185	27054	50.3	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.375;conf=100.00;score=50.26;cscore=48.53;sscore=1.73;rscore=-0.99;uscore=-0.18;tscore=2.90;
+JQ404409.1	Prodigal_v2.6.3	CDS	27067	28215	122.7	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.416;conf=100.00;score=123.83;cscore=119.37;sscore=4.46;rscore=-0.99;uscore=1.41;tscore=2.90;
+JQ404409.1	Prodigal_v2.6.3	CDS	28530	29171	30.2	+	0	ID=1_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.360;conf=99.89;score=29.56;cscore=30.59;sscore=-1.02;rscore=-0.99;uscore=-2.28;tscore=2.90;

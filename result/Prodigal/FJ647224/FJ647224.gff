@@ -1,0 +1,13 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=31448;seqhdr="FJ647224.1 Murine coronavirus MHV-3, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+FJ647224.1	Prodigal_v2.6.3	CDS	187	13566	1266.6	+	0	ID=1_1;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.432;conf=99.99;score=1266.61;cscore=1264.72;sscore=1.89;rscore=3.28;uscore=-4.17;tscore=2.78;
+FJ647224.1	Prodigal_v2.6.3	CDS	13596	21689	742.4	+	0	ID=1_2;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.401;conf=99.99;score=743.35;cscore=755.24;sscore=-11.89;rscore=-2.53;uscore=-0.41;tscore=-9.90;
+FJ647224.1	Prodigal_v2.6.3	CDS	21637	22500	53.8	+	0	ID=1_3;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.394;conf=100.00;score=53.76;cscore=56.39;sscore=-2.64;rscore=-2.53;uscore=0.24;tscore=-0.34;
+FJ647224.1	Prodigal_v2.6.3	CDS	22560	22967	30.2	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.402;conf=99.90;score=30.21;cscore=28.29;sscore=1.92;rscore=-2.53;uscore=1.68;tscore=2.78;
+FJ647224.1	Prodigal_v2.6.3	CDS	22937	23875	61.8	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.394;conf=100.00;score=61.75;cscore=60.90;sscore=0.85;rscore=-2.53;uscore=0.61;tscore=2.78;
+FJ647224.1	Prodigal_v2.6.3	CDS	23853	28016	332.3	+	0	ID=1_6;partial=00;start_type=GTG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.410;conf=99.99;score=332.28;cscore=320.38;sscore=11.90;rscore=5.57;uscore=6.67;tscore=-0.34;
+FJ647224.1	Prodigal_v2.6.3	CDS	28526	28834	8.3	+	0	ID=1_7;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.414;conf=96.38;score=14.27;cscore=5.67;sscore=8.60;rscore=7.65;uscore=-4.66;tscore=-0.34;
+FJ647224.1	Prodigal_v2.6.3	CDS	28827	29093	7.2	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.367;conf=87.44;score=8.44;cscore=5.99;sscore=2.45;rscore=-2.53;uscore=0.96;tscore=2.78;
+FJ647224.1	Prodigal_v2.6.3	CDS	29090	29776	28.6	+	0	ID=1_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.421;conf=99.94;score=32.45;cscore=27.48;sscore=4.97;rscore=-2.53;uscore=0.90;tscore=2.78;
+FJ647224.1	Prodigal_v2.6.3	CDS	29791	31164	95.3	+	0	ID=1_10;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.478;conf=100.00;score=96.39;cscore=97.64;sscore=-1.25;rscore=-2.53;uscore=-2.62;tscore=2.78;

@@ -1,0 +1,10 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=27636;seqhdr="KY073748.1 229E-related bat coronavirus strain BtKY229E-8, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+KY073748.1	Prodigal_v2.6.3	CDS	202	12489	1317.4	+	0	ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.385;conf=99.99;score=1317.37;cscore=1316.91;sscore=0.46;rscore=-2.53;uscore=0.21;tscore=2.78;
+KY073748.1	Prodigal_v2.6.3	CDS	12588	20504	758.6	+	0	ID=1_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.386;conf=99.99;score=758.57;cscore=761.34;sscore=-2.77;rscore=-2.53;uscore=0.10;tscore=-0.34;
+KY073748.1	Prodigal_v2.6.3	CDS	20506	24600	339.4	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.397;conf=99.99;score=340.62;cscore=338.11;sscore=2.51;rscore=-2.53;uscore=1.01;tscore=2.78;
+KY073748.1	Prodigal_v2.6.3	CDS	24600	25283	36.0	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.406;conf=99.99;score=40.20;cscore=36.14;sscore=4.06;rscore=-2.53;uscore=-0.42;tscore=2.78;
+KY073748.1	Prodigal_v2.6.3	CDS	25261	25494	6.9	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=AGxAG;rbs_spacer=5-10bp;gc_cont=0.308;conf=82.85;score=6.85;cscore=4.00;sscore=2.85;rscore=-0.11;uscore=0.40;tscore=2.56;
+KY073748.1	Prodigal_v2.6.3	CDS	25506	26186	13.2	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.424;conf=96.44;score=14.35;cscore=13.74;sscore=0.61;rscore=-2.53;uscore=-0.78;tscore=2.78;
+KY073748.1	Prodigal_v2.6.3	CDS	26200	27399	77.2	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.455;conf=100.00;score=78.33;cscore=77.72;sscore=0.62;rscore=-2.53;uscore=-0.76;tscore=2.78;

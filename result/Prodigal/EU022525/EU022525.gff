@@ -1,0 +1,12 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=27771;seqhdr="EU022525.1 Turkey coronavirus isolate TCoV-540, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+EU022525.1	Prodigal_v2.6.3	CDS	501	12368	1261.3	+	0	ID=1_1;partial=00;start_type=GTG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.382;conf=99.99;score=1261.32;cscore=1257.79;sscore=3.53;rscore=5.57;uscore=-1.70;tscore=-0.34;
+EU022525.1	Prodigal_v2.6.3	CDS	12443	20401	775.7	+	0	ID=1_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.378;conf=99.99;score=775.72;cscore=766.89;sscore=8.84;rscore=3.28;uscore=2.78;tscore=2.78;
+EU022525.1	Prodigal_v2.6.3	CDS	20352	23963	336.0	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.361;conf=99.99;score=335.96;cscore=335.10;sscore=0.86;rscore=-2.53;uscore=0.61;tscore=2.78;
+EU022525.1	Prodigal_v2.6.3	CDS	24136	24330	11.6	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.354;conf=93.44;score=11.55;cscore=12.56;sscore=-1.01;rscore=-3.30;uscore=0.16;tscore=2.13;
+EU022525.1	Prodigal_v2.6.3	CDS	24311	24610	23.4	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.380;conf=99.55;score=23.44;cscore=16.45;sscore=6.99;rscore=3.28;uscore=0.93;tscore=2.78;
+EU022525.1	Prodigal_v2.6.3	CDS	24610	25278	26.5	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.389;conf=99.93;score=31.90;cscore=27.84;sscore=4.06;rscore=-2.53;uscore=-1.61;tscore=2.78;
+EU022525.1	Prodigal_v2.6.3	CDS	25279	25563	7.3	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.319;conf=87.78;score=8.58;cscore=7.28;sscore=1.30;rscore=-2.53;uscore=-0.22;tscore=2.78;
+EU022525.1	Prodigal_v2.6.3	CDS	26017	27246	116.4	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.461;conf=100.00;score=115.71;cscore=115.33;sscore=0.38;rscore=-2.53;uscore=0.79;tscore=2.78;
+EU022525.1	Prodigal_v2.6.3	CDS	27255	27476	8.4	+	0	ID=1_9;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.324;conf=90.14;score=9.62;cscore=2.14;sscore=7.48;rscore=2.88;uscore=0.99;tscore=2.43;

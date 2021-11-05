@@ -1,0 +1,11 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=27681;seqhdr="KY407556.1 Infectious bronchitis virus strain gammaCoV/ck/China/I0114/14, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+KY407556.1	Prodigal_v2.6.3	CDS	496	12387	1224.6	+	0	ID=1_1;partial=00;start_type=GTG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.383;conf=99.99;score=1224.61;cscore=1221.13;sscore=3.48;rscore=5.57;uscore=-1.75;tscore=-0.34;
+KY407556.1	Prodigal_v2.6.3	CDS	12462	20420	758.3	+	0	ID=1_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.377;conf=99.99;score=758.26;cscore=749.90;sscore=8.37;rscore=3.28;uscore=2.31;tscore=2.78;
+KY407556.1	Prodigal_v2.6.3	CDS	20371	23877	335.9	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.353;conf=99.99;score=335.89;cscore=337.26;sscore=-1.37;rscore=-2.53;uscore=-1.61;tscore=2.78;
+KY407556.1	Prodigal_v2.6.3	CDS	24032	24238	4.8	+	0	ID=1_4;partial=00;start_type=TTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.329;conf=74.95;score=4.77;cscore=13.51;sscore=-8.74;rscore=2.68;uscore=0.72;tscore=-12.14;
+KY407556.1	Prodigal_v2.6.3	CDS	24222	24548	25.1	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.379;conf=99.76;score=26.29;cscore=13.02;sscore=13.27;rscore=7.65;uscore=1.69;tscore=2.78;
+KY407556.1	Prodigal_v2.6.3	CDS	24520	25197	26.0	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.397;conf=99.75;score=25.97;cscore=26.77;sscore=-0.80;rscore=-2.53;uscore=-1.04;tscore=2.78;
+KY407556.1	Prodigal_v2.6.3	CDS	25936	27165	110.7	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.458;conf=100.00;score=110.04;cscore=110.24;sscore=-0.20;rscore=-2.53;uscore=0.21;tscore=2.78;
+KY407556.1	Prodigal_v2.6.3	CDS	27174	27395	8.1	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.338;conf=89.47;score=9.31;cscore=1.75;sscore=7.56;rscore=2.88;uscore=1.06;tscore=2.43;

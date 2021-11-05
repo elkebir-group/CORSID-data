@@ -1,0 +1,13 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=31161;seqhdr="JQ173883.1 Murine hepatitis virus strain S/3239-17, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+JQ173883.1	Prodigal_v2.6.3	CDS	3	209	7.8	-	0	ID=1_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.483;conf=83.85;score=7.17;cscore=8.20;sscore=-1.03;rscore=-2.53;uscore=-0.62;tscore=2.78;
+JQ173883.1	Prodigal_v2.6.3	CDS	211	13626	1305.9	+	0	ID=1_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.428;conf=99.99;score=1305.91;cscore=1304.19;sscore=1.72;rscore=3.28;uscore=-4.34;tscore=2.78;
+JQ173883.1	Prodigal_v2.6.3	CDS	13656	21749	727.0	+	0	ID=1_3;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.402;conf=99.99;score=727.92;cscore=740.75;sscore=-12.83;rscore=-2.53;uscore=-1.35;tscore=-9.90;
+JQ173883.1	Prodigal_v2.6.3	CDS	21739	22560	56.5	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.387;conf=100.00;score=57.76;cscore=54.40;sscore=3.36;rscore=-2.53;uscore=1.90;tscore=2.78;
+JQ173883.1	Prodigal_v2.6.3	CDS	22615	23925	78.1	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.410;conf=100.00;score=78.74;cscore=75.44;sscore=3.30;rscore=-2.53;uscore=2.38;tscore=2.78;
+JQ173883.1	Prodigal_v2.6.3	CDS	23903	28018	326.2	+	0	ID=1_6;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.403;conf=99.99;score=326.19;cscore=316.76;sscore=9.44;rscore=3.28;uscore=6.50;tscore=-0.34;
+JQ173883.1	Prodigal_v2.6.3	CDS	28108	28482	16.0	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.405;conf=97.51;score=15.96;cscore=16.31;sscore=-0.35;rscore=-2.53;uscore=-0.59;tscore=2.78;
+JQ173883.1	Prodigal_v2.6.3	CDS	28517	28783	5.7	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.360;conf=81.88;score=6.56;cscore=5.87;sscore=0.69;rscore=-2.53;uscore=-0.46;tscore=2.78;
+JQ173883.1	Prodigal_v2.6.3	CDS	28780	29466	28.9	+	0	ID=1_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.412;conf=99.95;score=32.70;cscore=28.34;sscore=4.36;rscore=-2.53;uscore=0.29;tscore=2.78;
+JQ173883.1	Prodigal_v2.6.3	CDS	29481	30845	95.5	+	0	ID=1_10;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.476;conf=100.00;score=96.65;cscore=97.91;sscore=-1.25;rscore=-2.53;uscore=-2.62;tscore=2.78;

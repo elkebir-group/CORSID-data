@@ -1,0 +1,11 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=28751;seqhdr="MN611518.1 Miniopterus pusillus bat coronavirus HKU8-related isolate 6610, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+MN611518.1	Prodigal_v2.6.3	CDS	257	12952	1452.3	+	0	ID=1_1;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.424;conf=99.99;score=1452.34;cscore=1445.60;sscore=6.75;rscore=3.28;uscore=0.69;tscore=2.78;
+MN611518.1	Prodigal_v2.6.3	CDS	12925	20946	762.6	+	0	ID=1_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.404;conf=99.99;score=762.55;cscore=768.23;sscore=-5.68;rscore=-2.53;uscore=-2.80;tscore=-0.34;
+MN611518.1	Prodigal_v2.6.3	CDS	20948	25072	398.6	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.416;conf=99.99;score=399.86;cscore=397.32;sscore=2.54;rscore=-2.53;uscore=1.04;tscore=2.78;
+MN611518.1	Prodigal_v2.6.3	CDS	25072	25740	42.5	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.404;conf=100.00;score=46.80;cscore=42.75;sscore=4.06;rscore=-2.53;uscore=-0.47;tscore=2.78;
+MN611518.1	Prodigal_v2.6.3	CDS	25724	25948	0.8	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.360;conf=60.80;score=1.91;cscore=0.47;sscore=1.44;rscore=-2.85;uscore=0.67;tscore=2.46;
+MN611518.1	Prodigal_v2.6.3	CDS	25958	26716	21.6	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.439;conf=99.46;score=22.73;cscore=21.77;sscore=0.95;rscore=-2.53;uscore=-0.46;tscore=2.78;
+MN611518.1	Prodigal_v2.6.3	CDS	26765	28033	102.5	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.480;conf=100.00;score=103.29;cscore=100.14;sscore=3.14;rscore=-2.53;uscore=2.15;tscore=2.78;
+MN611518.1	Prodigal_v2.6.3	CDS	28030	28527	53.5	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.446;conf=100.00;score=54.83;cscore=44.61;sscore=10.22;rscore=3.28;uscore=2.87;tscore=2.78;

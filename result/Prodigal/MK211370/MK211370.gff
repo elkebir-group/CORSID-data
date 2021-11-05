@@ -1,0 +1,11 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=28175;seqhdr="MK211370.1 Coronavirus BtSk-AlphaCoV/GX2018B, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+MK211370.1	Prodigal_v2.6.3	CDS	260	12646	1284.0	+	0	ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.401;conf=99.99;score=1284.02;cscore=1283.42;sscore=0.60;rscore=-2.53;uscore=0.36;tscore=2.78;
+MK211370.1	Prodigal_v2.6.3	CDS	12676	20640	737.6	+	0	ID=1_2;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.388;conf=99.99;score=738.59;cscore=734.10;sscore=4.49;rscore=3.28;uscore=0.60;tscore=-0.34;
+MK211370.1	Prodigal_v2.6.3	CDS	20637	24755	312.6	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.415;conf=99.99;score=316.42;cscore=311.06;sscore=5.35;rscore=-2.53;uscore=1.28;tscore=2.78;
+MK211370.1	Prodigal_v2.6.3	CDS	24755	25429	30.8	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.379;conf=99.98;score=37.60;cscore=33.55;sscore=4.06;rscore=-2.53;uscore=-3.04;tscore=2.78;
+MK211370.1	Prodigal_v2.6.3	CDS	25410	25640	6.5	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.351;conf=81.66;score=6.50;cscore=3.25;sscore=3.24;rscore=-2.78;uscore=3.49;tscore=2.53;
+MK211370.1	Prodigal_v2.6.3	CDS	25647	26333	15.8	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.456;conf=98.02;score=16.97;cscore=16.81;sscore=0.16;rscore=-2.53;uscore=-1.29;tscore=2.78;
+MK211370.1	Prodigal_v2.6.3	CDS	26344	27528	90.8	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.475;conf=100.00;score=91.98;cscore=89.59;sscore=2.39;rscore=-2.53;uscore=0.98;tscore=2.78;
+MK211370.1	Prodigal_v2.6.3	CDS	27543	28037	6.2	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.418;conf=84.25;score=7.29;cscore=7.39;sscore=-0.09;rscore=-2.53;uscore=-1.46;tscore=2.78;

@@ -1,0 +1,10 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=28009;seqhdr="MK472070.1 Alphacoronavirus sp. isolate WA3607, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+MK472070.1	Prodigal_v2.6.3	CDS	247	12552	1414.7	+	0	ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.407;conf=99.99;score=1414.72;cscore=1413.98;sscore=0.74;rscore=-2.53;uscore=0.50;tscore=2.78;
+MK472070.1	Prodigal_v2.6.3	CDS	12636	20543	776.4	+	0	ID=1_2;partial=00;start_type=TTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.392;conf=99.99;score=776.39;cscore=780.40;sscore=-4.01;rscore=3.28;uscore=2.61;tscore=-9.90;
+MK472070.1	Prodigal_v2.6.3	CDS	20500	24666	398.3	+	0	ID=1_3;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.427;conf=99.99;score=398.30;cscore=389.43;sscore=8.87;rscore=7.65;uscore=1.57;tscore=-0.34;
+MK472070.1	Prodigal_v2.6.3	CDS	24666	25340	36.5	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.399;conf=99.99;score=42.08;cscore=38.02;sscore=4.06;rscore=-2.53;uscore=-1.78;tscore=2.78;
+MK472070.1	Prodigal_v2.6.3	CDS	25558	26238	19.9	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.436;conf=98.81;score=19.22;cscore=22.30;sscore=-3.08;rscore=-2.53;uscore=-2.67;tscore=2.78;
+MK472070.1	Prodigal_v2.6.3	CDS	26248	27519	60.1	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.483;conf=100.00;score=61.28;cscore=58.84;sscore=2.44;rscore=-2.53;uscore=1.02;tscore=2.78;
+MK472070.1	Prodigal_v2.6.3	CDS	27512	27766	-0.3	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.357;conf=55.71;score=1.00;cscore=-0.97;sscore=1.97;rscore=-2.53;uscore=0.98;tscore=2.78;

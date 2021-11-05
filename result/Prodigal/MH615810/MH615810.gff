@@ -1,0 +1,11 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=27184;seqhdr="MH615810.1 Swine acute diarrhea syndrome coronavirus isolate SADS-CoV-CH-FJWT-2018, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+MH615810.1	Prodigal_v2.6.3	CDS	304	12486	1486.5	+	0	ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.388;conf=99.99;score=1486.47;cscore=1487.39;sscore=-0.92;rscore=-2.53;uscore=-1.16;tscore=2.78;
+MH615810.1	Prodigal_v2.6.3	CDS	12570	20489	772.7	+	0	ID=1_2;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.390;conf=99.99;score=772.72;cscore=783.78;sscore=-11.06;rscore=-2.53;uscore=1.38;tscore=-9.90;
+MH615810.1	Prodigal_v2.6.3	CDS	20486	23881	312.5	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.399;conf=99.99;score=317.21;cscore=313.14;sscore=4.07;rscore=-2.53;uscore=-0.92;tscore=2.78;
+MH615810.1	Prodigal_v2.6.3	CDS	23881	24570	48.1	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.391;conf=100.00;score=53.35;cscore=49.29;sscore=4.06;rscore=-2.53;uscore=-1.40;tscore=2.78;
+MH615810.1	Prodigal_v2.6.3	CDS	24551	24778	4.1	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.351;conf=71.82;score=4.07;cscore=5.91;sscore=-1.84;rscore=-2.81;uscore=-1.53;tscore=2.50;
+MH615810.1	Prodigal_v2.6.3	CDS	24787	25476	18.4	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.413;conf=98.92;score=19.63;cscore=20.29;sscore=-0.66;rscore=-2.53;uscore=-2.09;tscore=2.78;
+MH615810.1	Prodigal_v2.6.3	CDS	25488	26615	89.4	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.466;conf=100.00;score=90.54;cscore=88.82;sscore=1.72;rscore=-2.53;uscore=0.32;tscore=2.78;
+MH615810.1	Prodigal_v2.6.3	CDS	26667	26984	13.4	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.396;conf=96.26;score=14.13;cscore=12.23;sscore=1.91;rscore=-2.53;uscore=0.94;tscore=2.78;

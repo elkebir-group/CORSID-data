@@ -1,0 +1,15 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=29201;seqhdr="MK720945.1 Rhinolophus bat coronavirus HKU32 strain TLC26A, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+MK720945.1	Prodigal_v2.6.3	CDS	291	12437	1337.9	+	0	ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.395;conf=99.99;score=1337.92;cscore=1337.81;sscore=0.10;rscore=-2.53;uscore=-0.14;tscore=2.78;
+MK720945.1	Prodigal_v2.6.3	CDS	12509	20428	722.3	+	0	ID=1_2;partial=00;start_type=TTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.401;conf=99.99;score=722.32;cscore=728.71;sscore=-6.39;rscore=3.28;uscore=0.23;tscore=-9.90;
+MK720945.1	Prodigal_v2.6.3	CDS	20430	24485	342.0	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.411;conf=99.99;score=343.29;cscore=339.86;sscore=3.43;rscore=-2.53;uscore=1.92;tscore=2.78;
+MK720945.1	Prodigal_v2.6.3	CDS	24485	25153	50.2	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=4Base/6BMM;rbs_spacer=13-15bp;gc_cont=0.407;conf=100.00;score=53.31;cscore=49.25;sscore=4.06;rscore=-0.80;uscore=-1.04;tscore=2.78;
+MK720945.1	Prodigal_v2.6.3	CDS	25184	25543	13.8	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.378;conf=96.73;score=14.74;cscore=12.49;sscore=2.25;rscore=-2.53;uscore=1.06;tscore=2.78;
+MK720945.1	Prodigal_v2.6.3	CDS	25740	26225	12.7	+	0	ID=1_6;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.405;conf=94.11;score=12.06;cscore=11.45;sscore=0.61;rscore=3.28;uscore=-1.68;tscore=-0.34;
+MK720945.1	Prodigal_v2.6.3	CDS	26209	26433	6.2	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.347;conf=84.30;score=7.31;cscore=3.40;sscore=3.91;rscore=-2.85;uscore=3.14;tscore=2.46;
+MK720945.1	Prodigal_v2.6.3	CDS	26440	27126	14.2	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.443;conf=97.15;score=15.36;cscore=13.93;sscore=1.43;rscore=-2.53;uscore=-0.02;tscore=2.78;
+MK720945.1	Prodigal_v2.6.3	CDS	27137	28279	63.8	+	0	ID=1_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.476;conf=100.00;score=65.00;cscore=63.68;sscore=1.32;rscore=-2.53;uscore=-0.09;tscore=2.78;
+MK720945.1	Prodigal_v2.6.3	CDS	28251	28568	8.8	+	0	ID=1_10;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.355;conf=88.42;score=8.84;cscore=4.78;sscore=4.06;rscore=3.28;uscore=-2.00;tscore=2.78;
+MK720945.1	Prodigal_v2.6.3	CDS	28593	28955	0.6	+	0	ID=1_11;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.405;conf=59.14;score=1.61;cscore=-0.36;sscore=1.97;rscore=-2.53;uscore=1.21;tscore=2.78;
+MK720945.1	Prodigal_v2.6.3	CDS	29037	29201	3.9	-	0	ID=1_12;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.382;conf=70.84;score=3.86;cscore=0.64;sscore=3.22;rscore=0.00;uscore=0.00;tscore=3.22;

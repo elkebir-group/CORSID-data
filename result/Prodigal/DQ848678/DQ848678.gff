@@ -1,0 +1,14 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=29277;seqhdr="DQ848678.1 Feline coronavirus strain FCoV C1Je, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+DQ848678.1	Prodigal_v2.6.3	CDS	311	12391	1232.6	+	0	ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.380;conf=99.99;score=1232.63;cscore=1235.91;sscore=-3.28;rscore=-2.53;uscore=-3.53;tscore=2.78;
+DQ848678.1	Prodigal_v2.6.3	CDS	12364	20391	689.2	+	0	ID=1_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.385;conf=99.99;score=689.17;cscore=695.36;sscore=-6.19;rscore=-2.53;uscore=-3.31;tscore=-0.34;
+DQ848678.1	Prodigal_v2.6.3	CDS	20388	24791	334.1	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.386;conf=99.99;score=338.48;cscore=334.41;sscore=4.07;rscore=-2.53;uscore=-0.53;tscore=2.78;
+DQ848678.1	Prodigal_v2.6.3	CDS	24803	25015	15.6	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.362;conf=97.94;score=16.80;cscore=16.48;sscore=0.32;rscore=-3.01;uscore=-0.15;tscore=2.33;
+DQ848678.1	Prodigal_v2.6.3	CDS	25226	25705	13.2	+	0	ID=1_5;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.354;conf=94.75;score=12.58;cscore=14.40;sscore=-1.82;rscore=-2.53;uscore=1.71;tscore=-0.34;
+DQ848678.1	Prodigal_v2.6.3	CDS	25644	25865	29.3	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.401;conf=99.88;score=29.27;cscore=20.93;sscore=8.34;rscore=4.88;uscore=1.03;tscore=2.43;
+DQ848678.1	Prodigal_v2.6.3	CDS	25846	26100	12.5	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=AGxAG;rbs_spacer=5-10bp;gc_cont=0.376;conf=94.66;score=12.50;cscore=9.75;sscore=2.75;rscore=-0.10;uscore=0.08;tscore=2.78;
+DQ848678.1	Prodigal_v2.6.3	CDS	26111	26902	31.2	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.386;conf=99.94;score=32.32;cscore=30.31;sscore=2.01;rscore=-2.53;uscore=0.60;tscore=2.78;
+DQ848678.1	Prodigal_v2.6.3	CDS	26915	28045	76.4	+	0	ID=1_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.431;conf=100.00;score=77.50;cscore=74.41;sscore=3.09;rscore=-2.53;uscore=1.71;tscore=2.78;
+DQ848678.1	Prodigal_v2.6.3	CDS	28050	28355	7.1	+	0	ID=1_10;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.353;conf=87.11;score=8.31;cscore=6.02;sscore=2.30;rscore=-2.53;uscore=0.82;tscore=2.78;
+DQ848678.1	Prodigal_v2.6.3	CDS	28360	28980	31.1	+	0	ID=1_11;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.369;conf=99.94;score=32.35;cscore=29.19;sscore=3.16;rscore=-2.53;uscore=1.69;tscore=2.78;

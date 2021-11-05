@@ -1,0 +1,11 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=28043;seqhdr="MK644605.1 Porcine epidemic diarrhea virus isolate T10-HB2018, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+MK644605.1	Prodigal_v2.6.3	CDS	293	12646	1267.1	+	0	ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.419;conf=99.99;score=1267.06;cscore=1266.75;sscore=0.30;rscore=-2.53;uscore=0.06;tscore=2.78;
+MK644605.1	Prodigal_v2.6.3	CDS	12676	20637	667.1	+	0	ID=1_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.408;conf=99.99;score=668.02;cscore=670.43;sscore=-2.42;rscore=-2.53;uscore=-0.50;tscore=-0.34;
+MK644605.1	Prodigal_v2.6.3	CDS	20634	24791	330.4	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.416;conf=99.99;score=334.27;cscore=329.08;sscore=5.20;rscore=-2.53;uscore=1.13;tscore=2.78;
+MK644605.1	Prodigal_v2.6.3	CDS	24788	25465	36.2	+	0	ID=1_4;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.378;conf=99.99;score=39.33;cscore=35.10;sscore=4.23;rscore=3.28;uscore=-1.79;tscore=-0.34;
+MK644605.1	Prodigal_v2.6.3	CDS	25446	25676	1.3	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.372;conf=57.61;score=1.33;cscore=0.65;sscore=0.68;rscore=-2.78;uscore=0.93;tscore=2.53;
+MK644605.1	Prodigal_v2.6.3	CDS	25684	26364	27.1	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.448;conf=99.85;score=28.34;cscore=27.62;sscore=0.72;rscore=-2.53;uscore=-0.72;tscore=2.78;
+MK644605.1	Prodigal_v2.6.3	CDS	26376	27701	103.4	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.464;conf=100.00;score=104.54;cscore=101.01;sscore=3.53;rscore=-2.53;uscore=2.13;tscore=2.78;
+MK644605.1	Prodigal_v2.6.3	CDS	27961	28041	4.6	+	0	ID=1_8;partial=01;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.420;conf=71.39;score=3.98;cscore=2.19;sscore=1.79;rscore=3.28;uscore=-3.62;tscore=2.78;

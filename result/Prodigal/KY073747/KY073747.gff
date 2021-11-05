@@ -1,0 +1,11 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=27837;seqhdr="KY073747.1 229E-related bat coronavirus strain BtKY229E-1, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+KY073747.1	Prodigal_v2.6.3	CDS	243	12512	1353.1	+	0	ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.377;conf=99.99;score=1353.13;cscore=1353.61;sscore=-0.48;rscore=-2.53;uscore=-0.72;tscore=2.78;
+KY073747.1	Prodigal_v2.6.3	CDS	12611	20527	783.1	+	0	ID=1_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.378;conf=99.99;score=783.14;cscore=785.92;sscore=-2.77;rscore=-2.53;uscore=0.10;tscore=-0.34;
+KY073747.1	Prodigal_v2.6.3	CDS	20529	24623	362.3	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.368;conf=99.99;score=363.51;cscore=360.76;sscore=2.75;rscore=-2.53;uscore=1.25;tscore=2.78;
+KY073747.1	Prodigal_v2.6.3	CDS	24623	25303	36.7	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.382;conf=99.99;score=42.07;cscore=38.01;sscore=4.06;rscore=-2.53;uscore=-1.57;tscore=2.78;
+KY073747.1	Prodigal_v2.6.3	CDS	25284	25517	5.2	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.295;conf=76.84;score=5.22;cscore=5.00;sscore=0.22;rscore=-2.74;uscore=0.40;tscore=2.56;
+KY073747.1	Prodigal_v2.6.3	CDS	25529	26209	12.7	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.421;conf=95.99;score=13.81;cscore=13.74;sscore=0.07;rscore=-2.53;uscore=-1.32;tscore=2.78;
+KY073747.1	Prodigal_v2.6.3	CDS	26223	27383	93.3	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.421;conf=100.00;score=94.48;cscore=93.91;sscore=0.57;rscore=-2.53;uscore=-0.80;tscore=2.78;
+KY073747.1	Prodigal_v2.6.3	CDS	27370	27675	24.7	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.356;conf=99.74;score=25.93;cscore=24.27;sscore=1.66;rscore=-2.53;uscore=0.23;tscore=2.78;

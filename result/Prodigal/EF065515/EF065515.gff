@@ -1,0 +1,12 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=29136;seqhdr="EF065515.1 Bat coronavirus HKU9-3, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+EF065515.1	Prodigal_v2.6.3	CDS	229	12960	1326.9	+	0	ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.435;conf=99.99;score=1326.92;cscore=1328.01;sscore=-1.09;rscore=-2.53;uscore=-1.33;tscore=2.78;
+EF065515.1	Prodigal_v2.6.3	CDS	13086	20999	757.7	+	0	ID=1_2;partial=00;start_type=TTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.415;conf=99.99;score=757.68;cscore=764.95;sscore=-7.27;rscore=3.28;uscore=-0.65;tscore=-9.90;
+EF065515.1	Prodigal_v2.6.3	CDS	20956	24768	343.1	+	0	ID=1_3;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.411;conf=99.99;score=343.08;cscore=340.91;sscore=2.17;rscore=3.28;uscore=-0.77;tscore=-0.34;
+EF065515.1	Prodigal_v2.6.3	CDS	24765	25457	52.4	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.400;conf=100.00;score=56.19;cscore=49.34;sscore=6.84;rscore=-2.53;uscore=2.77;tscore=2.78;
+EF065515.1	Prodigal_v2.6.3	CDS	25457	25687	6.3	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.325;conf=94.11;score=12.05;cscore=8.24;sscore=3.81;rscore=-2.78;uscore=-1.69;tscore=2.53;
+EF065515.1	Prodigal_v2.6.3	CDS	25693	26355	36.0	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.456;conf=99.98;score=37.24;cscore=37.32;sscore=-0.08;rscore=-2.53;uscore=-1.55;tscore=2.78;
+EF065515.1	Prodigal_v2.6.3	CDS	26418	27824	138.1	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.478;conf=100.00;score=138.12;cscore=135.55;sscore=2.57;rscore=-2.53;uscore=2.33;tscore=2.78;
+EF065515.1	Prodigal_v2.6.3	CDS	27861	28457	28.0	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.439;conf=99.87;score=28.88;cscore=24.61;sscore=4.28;rscore=-2.53;uscore=3.15;tscore=2.78;
+EF065515.1	Prodigal_v2.6.3	CDS	28459	28905	13.1	+	0	ID=1_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.423;conf=96.47;score=14.39;cscore=12.57;sscore=1.82;rscore=-2.53;uscore=0.31;tscore=2.78;

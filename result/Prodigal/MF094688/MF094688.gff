@@ -1,0 +1,10 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=27177;seqhdr="MF094688.1 Swine acute diarrhea syndrome related coronavirus isolate 162140, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+MF094688.1	Prodigal_v2.6.3	CDS	304	12486	1479.0	+	0	ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.388;conf=99.99;score=1478.99;cscore=1479.30;sscore=-0.30;rscore=-2.53;uscore=-0.55;tscore=2.78;
+MF094688.1	Prodigal_v2.6.3	CDS	12570	20489	779.5	+	0	ID=1_2;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.389;conf=99.99;score=779.55;cscore=790.61;sscore=-11.06;rscore=-2.53;uscore=1.38;tscore=-9.90;
+MF094688.1	Prodigal_v2.6.3	CDS	20486	23881	320.2	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.398;conf=99.99;score=324.96;cscore=320.89;sscore=4.07;rscore=-2.53;uscore=-0.92;tscore=2.78;
+MF094688.1	Prodigal_v2.6.3	CDS	23881	24570	48.7	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.391;conf=100.00;score=53.35;cscore=49.29;sscore=4.06;rscore=-2.53;uscore=-0.86;tscore=2.78;
+MF094688.1	Prodigal_v2.6.3	CDS	24787	25476	21.1	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.413;conf=99.09;score=20.41;cscore=22.91;sscore=-2.50;rscore=-2.53;uscore=-2.09;tscore=2.78;
+MF094688.1	Prodigal_v2.6.3	CDS	25488	26615	85.1	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.462;conf=100.00;score=86.25;cscore=84.53;sscore=1.72;rscore=-2.53;uscore=0.32;tscore=2.78;
+MF094688.1	Prodigal_v2.6.3	CDS	26667	26984	14.0	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.393;conf=96.72;score=14.72;cscore=11.57;sscore=3.15;rscore=-2.53;uscore=2.19;tscore=2.78;

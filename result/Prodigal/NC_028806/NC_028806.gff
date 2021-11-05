@@ -1,0 +1,11 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=28111;seqhdr="NC_028806.1 Swine enteric coronavirus strain Italy/213306/2009, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+NC_028806.1	Prodigal_v2.6.3	CDS	307	12354	1244.5	+	0	ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.371;conf=99.99;score=1244.50;cscore=1248.30;sscore=-3.79;rscore=-2.53;uscore=-4.04;tscore=2.78;
+NC_028806.1	Prodigal_v2.6.3	CDS	12327	20354	701.3	+	0	ID=1_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.376;conf=99.99;score=701.34;cscore=705.02;sscore=-3.68;rscore=-2.53;uscore=-0.81;tscore=-0.34;
+NC_028806.1	Prodigal_v2.6.3	CDS	20355	24503	315.0	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.413;conf=99.99;score=316.24;cscore=315.24;sscore=1.00;rscore=-2.53;uscore=-0.52;tscore=2.78;
+NC_028806.1	Prodigal_v2.6.3	CDS	24666	25400	47.6	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.363;conf=100.00;score=47.56;cscore=49.23;sscore=-1.67;rscore=-2.53;uscore=-1.92;tscore=2.78;
+NC_028806.1	Prodigal_v2.6.3	CDS	25387	25635	6.5	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.353;conf=85.49;score=7.71;cscore=6.79;sscore=0.93;rscore=-2.57;uscore=-0.42;tscore=2.73;
+NC_028806.1	Prodigal_v2.6.3	CDS	25574	26434	40.0	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.396;conf=99.99;score=39.96;cscore=39.66;sscore=0.30;rscore=-2.53;uscore=0.06;tscore=2.78;
+NC_028806.1	Prodigal_v2.6.3	CDS	26447	27595	77.7	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.426;conf=100.00;score=78.88;cscore=75.38;sscore=3.50;rscore=-2.53;uscore=2.12;tscore=2.78;
+NC_028806.1	Prodigal_v2.6.3	CDS	27601	27837	2.9	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.278;conf=71.89;score=4.08;cscore=1.97;sscore=2.11;rscore=-2.70;uscore=1.00;tscore=2.60;

@@ -1,0 +1,11 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=28235;seqhdr="MH687945.1 Alphacoronavirus sp. strain VZ_AlphaCoV_16715_56, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+MH687945.1	Prodigal_v2.6.3	CDS	252	12638	1289.1	+	0	ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.399;conf=99.99;score=1289.09;cscore=1288.43;sscore=0.66;rscore=-2.53;uscore=0.42;tscore=2.78;
+MH687945.1	Prodigal_v2.6.3	CDS	12668	20632	749.7	+	0	ID=1_2;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.386;conf=99.99;score=750.62;cscore=746.13;sscore=4.49;rscore=3.28;uscore=0.60;tscore=-0.34;
+MH687945.1	Prodigal_v2.6.3	CDS	20629	24744	316.3	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.417;conf=99.99;score=320.12;cscore=314.77;sscore=5.35;rscore=-2.53;uscore=1.28;tscore=2.78;
+MH687945.1	Prodigal_v2.6.3	CDS	24744	25418	31.9	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.381;conf=99.99;score=38.72;cscore=34.66;sscore=4.06;rscore=-2.53;uscore=-3.04;tscore=2.78;
+MH687945.1	Prodigal_v2.6.3	CDS	25399	25629	7.2	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.346;conf=83.96;score=7.20;cscore=3.95;sscore=3.24;rscore=-2.78;uscore=3.49;tscore=2.53;
+MH687945.1	Prodigal_v2.6.3	CDS	25636	26322	16.7	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.448;conf=98.39;score=17.89;cscore=17.72;sscore=0.16;rscore=-2.53;uscore=-1.29;tscore=2.78;
+MH687945.1	Prodigal_v2.6.3	CDS	26333	27517	90.0	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.478;conf=100.00;score=91.19;cscore=88.80;sscore=2.39;rscore=-2.53;uscore=0.98;tscore=2.78;
+MH687945.1	Prodigal_v2.6.3	CDS	28079	28213	3.0	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.363;conf=63.11;score=2.34;cscore=2.96;sscore=-0.62;rscore=1.73;uscore=-3.17;tscore=1.47;

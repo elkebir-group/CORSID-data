@@ -1,0 +1,12 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=30004;seqhdr="KP849472.1 Alphacoronavirus 1 strain 23/03, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="39|Rickettsia_conorii_Malish_7|B|32.4|11|1";gc_cont=32.40;transl_table=11;uses_sd=1
+KP849472.1	Prodigal_v2.6.3	CDS	314	12358	1196.6	+	0	ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.376;conf=99.99;score=1196.63;cscore=1201.77;sscore=-5.15;rscore=-0.99;uscore=-7.06;tscore=2.90;
+KP849472.1	Prodigal_v2.6.3	CDS	12331	20358	718.7	+	0	ID=1_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.372;conf=99.99;score=718.72;cscore=726.63;sscore=-7.92;rscore=-0.99;uscore=-2.44;tscore=-4.48;
+KP849472.1	Prodigal_v2.6.3	CDS	20359	24804	460.3	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.357;conf=99.99;score=461.59;cscore=461.68;sscore=-0.09;rscore=-0.99;uscore=-3.27;tscore=2.90;
+KP849472.1	Prodigal_v2.6.3	CDS	24812	25435	38.7	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.335;conf=99.99;score=39.86;cscore=35.86;sscore=4.00;rscore=-0.99;uscore=0.89;tscore=2.90;
+KP849472.1	Prodigal_v2.6.3	CDS	25468	25683	28.9	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.347;conf=99.90;score=29.84;cscore=24.90;sscore=4.94;rscore=2.32;uscore=-0.77;tscore=2.47;
+KP849472.1	Prodigal_v2.6.3	CDS	25840	26595	57.5	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.360;conf=100.00;score=57.52;cscore=53.89;sscore=3.63;rscore=-0.99;uscore=1.72;tscore=2.90;
+KP849472.1	Prodigal_v2.6.3	CDS	26739	27614	63.6	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.365;conf=100.00;score=63.57;cscore=63.40;sscore=0.17;rscore=-0.99;uscore=-1.74;tscore=2.90;
+KP849472.1	Prodigal_v2.6.3	CDS	27627	28769	98.6	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.416;conf=100.00;score=99.76;cscore=95.19;sscore=4.57;rscore=-0.99;uscore=1.52;tscore=2.90;
+KP849472.1	Prodigal_v2.6.3	CDS	29084	29725	35.2	+	0	ID=1_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.357;conf=99.98;score=36.42;cscore=35.02;sscore=1.40;rscore=-0.99;uscore=-1.74;tscore=2.90;

@@ -1,0 +1,10 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=27679;seqhdr="KX640829.1 Infectious bronchitis virus strain ck/CH/LGX/111119, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+KX640829.1	Prodigal_v2.6.3	CDS	496	12381	1218.0	+	0	ID=1_1;partial=00;start_type=GTG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.384;conf=99.99;score=1218.04;cscore=1214.65;sscore=3.39;rscore=5.57;uscore=-1.84;tscore=-0.34;
+KX640829.1	Prodigal_v2.6.3	CDS	12456	20414	761.9	+	0	ID=1_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.377;conf=99.99;score=761.89;cscore=753.25;sscore=8.65;rscore=3.28;uscore=2.59;tscore=2.78;
+KX640829.1	Prodigal_v2.6.3	CDS	20365	23862	329.4	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.356;conf=99.99;score=329.36;cscore=328.92;sscore=0.44;rscore=-2.53;uscore=0.20;tscore=2.78;
+KX640829.1	Prodigal_v2.6.3	CDS	24035	24223	7.6	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.296;conf=94.37;score=12.27;cscore=8.92;sscore=3.35;rscore=-3.40;uscore=-0.00;tscore=2.06;
+KX640829.1	Prodigal_v2.6.3	CDS	24210	24536	11.7	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.370;conf=95.05;score=12.85;cscore=10.46;sscore=2.39;rscore=-2.53;uscore=0.96;tscore=2.78;
+KX640829.1	Prodigal_v2.6.3	CDS	24508	25185	20.0	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.404;conf=99.01;score=20.02;cscore=20.82;sscore=-0.80;rscore=-2.53;uscore=-1.04;tscore=2.78;
+KX640829.1	Prodigal_v2.6.3	CDS	25934	27163	115.2	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.455;conf=100.00;score=114.58;cscore=114.59;sscore=-0.01;rscore=-2.53;uscore=0.40;tscore=2.78;

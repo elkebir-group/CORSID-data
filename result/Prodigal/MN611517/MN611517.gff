@@ -1,0 +1,10 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=27619;seqhdr="MN611517.1 Rousettus aegyptiacus bat coronavirus 229E-related isolate 5425, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+MN611517.1	Prodigal_v2.6.3	CDS	283	12570	1312.7	+	0	ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.386;conf=99.99;score=1312.72;cscore=1312.26;sscore=0.46;rscore=-2.53;uscore=0.21;tscore=2.78;
+MN611517.1	Prodigal_v2.6.3	CDS	12669	20588	754.4	+	0	ID=1_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.383;conf=99.99;score=754.40;cscore=757.17;sscore=-2.77;rscore=-2.53;uscore=0.10;tscore=-0.34;
+MN611517.1	Prodigal_v2.6.3	CDS	20590	24681	328.7	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.394;conf=99.99;score=329.95;cscore=326.85;sscore=3.10;rscore=-2.53;uscore=1.60;tscore=2.78;
+MN611517.1	Prodigal_v2.6.3	CDS	24681	25364	36.1	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.383;conf=99.99;score=40.33;cscore=36.28;sscore=4.06;rscore=-2.53;uscore=-0.42;tscore=2.78;
+MN611517.1	Prodigal_v2.6.3	CDS	25342	25575	1.8	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.329;conf=60.25;score=1.81;cscore=1.59;sscore=0.22;rscore=-2.74;uscore=0.40;tscore=2.56;
+MN611517.1	Prodigal_v2.6.3	CDS	25587	26267	13.0	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.429;conf=96.28;score=14.15;cscore=13.74;sscore=0.41;rscore=-2.53;uscore=-0.98;tscore=2.78;
+MN611517.1	Prodigal_v2.6.3	CDS	26281	27483	76.4	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.454;conf=100.00;score=77.51;cscore=76.90;sscore=0.62;rscore=-2.53;uscore=-0.76;tscore=2.78;

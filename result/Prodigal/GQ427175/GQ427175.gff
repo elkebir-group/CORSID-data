@@ -1,0 +1,10 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=27690;seqhdr="GQ427175.1 Turkey coronavirus strain TCoV/IN-517/94, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+GQ427175.1	Prodigal_v2.6.3	CDS	499	12387	1270.0	+	0	ID=1_1;partial=00;start_type=GTG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.381;conf=99.99;score=1269.96;cscore=1265.86;sscore=4.11;rscore=5.57;uscore=-1.12;tscore=-0.34;
+GQ427175.1	Prodigal_v2.6.3	CDS	12462	20345	768.8	+	0	ID=1_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.376;conf=99.99;score=768.84;cscore=760.01;sscore=8.84;rscore=3.28;uscore=2.78;tscore=2.78;
+GQ427175.1	Prodigal_v2.6.3	CDS	20375	24049	329.9	+	0	ID=1_3;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.358;conf=99.99;score=330.84;cscore=324.53;sscore=6.31;rscore=3.28;uscore=2.41;tscore=-0.34;
+GQ427175.1	Prodigal_v2.6.3	CDS	24170	24364	9.3	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.344;conf=89.40;score=9.27;cscore=10.45;sscore=-1.18;rscore=-3.30;uscore=-0.01;tscore=2.13;
+GQ427175.1	Prodigal_v2.6.3	CDS	24345	24644	24.6	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.377;conf=99.65;score=24.55;cscore=17.56;sscore=6.99;rscore=3.28;uscore=0.93;tscore=2.78;
+GQ427175.1	Prodigal_v2.6.3	CDS	24646	25317	27.4	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.390;conf=99.86;score=28.66;cscore=28.78;sscore=-0.12;rscore=-2.53;uscore=-1.63;tscore=2.78;
+GQ427175.1	Prodigal_v2.6.3	CDS	26063	27292	112.1	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.465;conf=100.00;score=111.49;cscore=112.01;sscore=-0.52;rscore=-2.53;uscore=-0.11;tscore=2.78;

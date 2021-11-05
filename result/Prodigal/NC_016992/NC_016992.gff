@@ -1,0 +1,12 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=26083;seqhdr="NC_016992.1 Sparrow coronavirus HKU17, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="21|Haloquadratum_walsbyi_DSM_16790|A|47.9|11|0";gc_cont=47.90;transl_table=11;uses_sd=0
+NC_016992.1	Prodigal_v2.6.3	CDS	520	11430	802.7	+	0	ID=1_1;partial=00;start_type=ATG;rbs_motif=ATA;rbs_spacer=10bp;gc_cont=0.451;conf=99.99;score=802.74;cscore=797.18;sscore=5.57;rscore=4.35;uscore=-3.05;tscore=4.27;
+NC_016992.1	Prodigal_v2.6.3	CDS	11505	19352	439.3	+	0	ID=1_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.433;conf=99.99;score=439.33;cscore=447.62;sscore=-8.29;rscore=-0.25;uscore=-2.67;tscore=-5.38;
+NC_016992.1	Prodigal_v2.6.3	CDS	19334	22954	203.3	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.423;conf=99.99;score=203.28;cscore=200.90;sscore=2.38;rscore=-0.25;uscore=-1.64;tscore=4.27;
+NC_016992.1	Prodigal_v2.6.3	CDS	22948	23196	3.9	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.402;conf=76.75;score=5.20;cscore=0.41;sscore=4.79;rscore=-0.25;uscore=-0.42;tscore=4.20;
+NC_016992.1	Prodigal_v2.6.3	CDS	23189	23842	33.6	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.479;conf=99.97;score=34.83;cscore=29.08;sscore=5.75;rscore=-0.25;uscore=0.48;tscore=4.27;
+NC_016992.1	Prodigal_v2.6.3	CDS	23842	24129	20.2	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=ATA;rbs_spacer=4bp;gc_cont=0.389;conf=99.55;score=23.50;cscore=10.89;sscore=12.61;rscore=7.06;uscore=-2.01;tscore=4.27;
+NC_016992.1	Prodigal_v2.6.3	CDS	24150	25178	35.9	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.508;conf=99.98;score=37.00;cscore=28.50;sscore=8.51;rscore=-0.25;uscore=3.43;tscore=4.27;
+NC_016992.1	Prodigal_v2.6.3	CDS	25189	25623	8.7	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.497;conf=90.62;score=9.86;cscore=5.04;sscore=4.82;rscore=-0.25;uscore=-0.36;tscore=4.27;
+NC_016992.1	Prodigal_v2.6.3	CDS	25988	26083	5.3	+	0	ID=1_9;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.385;conf=74.37;score=4.63;cscore=1.76;sscore=2.87;rscore=-0.25;uscore=-0.50;tscore=4.27;

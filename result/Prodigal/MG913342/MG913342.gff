@@ -1,0 +1,12 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=27618;seqhdr="MG913342.1 Avian coronavirus isolate AvCoV/Gallus gallus/Brazil/sample 38/2013 GI-11, complete genome, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+MG913342.1	Prodigal_v2.6.3	CDS	499	12330	1206.7	+	0	ID=1_1;partial=00;start_type=GTG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.381;conf=99.99;score=1206.70;cscore=1203.31;sscore=3.39;rscore=5.57;uscore=-1.84;tscore=-0.34;
+MG913342.1	Prodigal_v2.6.3	CDS	12405	20363	788.6	+	0	ID=1_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.376;conf=99.99;score=788.61;cscore=780.30;sscore=8.31;rscore=3.28;uscore=2.25;tscore=2.78;
+MG913342.1	Prodigal_v2.6.3	CDS	20314	23823	324.9	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.356;conf=99.99;score=324.92;cscore=322.74;sscore=2.18;rscore=-2.53;uscore=1.93;tscore=2.78;
+MG913342.1	Prodigal_v2.6.3	CDS	23996	24187	9.3	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.333;conf=96.63;score=14.60;cscore=11.22;sscore=3.38;rscore=-3.35;uscore=-0.68;tscore=2.10;
+MG913342.1	Prodigal_v2.6.3	CDS	24171	24494	25.0	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.383;conf=99.76;score=26.20;cscore=18.07;sscore=8.13;rscore=3.28;uscore=0.92;tscore=2.78;
+MG913342.1	Prodigal_v2.6.3	CDS	24463	25143	33.2	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.392;conf=99.95;score=33.16;cscore=33.76;sscore=-0.60;rscore=-2.53;uscore=-0.84;tscore=2.78;
+MG913342.1	Prodigal_v2.6.3	CDS	25349	25519	3.4	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.351;conf=65.33;score=2.76;cscore=5.26;sscore=-2.50;rscore=-3.77;uscore=0.05;tscore=1.87;
+MG913342.1	Prodigal_v2.6.3	CDS	25888	27114	119.0	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.471;conf=100.00;score=118.38;cscore=119.65;sscore=-1.27;rscore=-2.53;uscore=-0.86;tscore=2.78;
+MG913342.1	Prodigal_v2.6.3	CDS	27111	27332	3.1	+	0	ID=1_9;partial=00;start_type=TTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.311;conf=73.35;score=4.40;cscore=6.94;sscore=-2.54;rscore=6.70;uscore=0.77;tscore=-11.31;

@@ -1,0 +1,12 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=27802;seqhdr="KX185057.1 Infectious bronchitis virus strain ck/CH/LHLJ/95I, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+KX185057.1	Prodigal_v2.6.3	CDS	496	12504	1260.9	+	0	ID=1_1;partial=00;start_type=GTG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.380;conf=99.99;score=1260.87;cscore=1257.48;sscore=3.39;rscore=5.57;uscore=-1.84;tscore=-0.34;
+KX185057.1	Prodigal_v2.6.3	CDS	12579	20537	764.2	+	0	ID=1_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.375;conf=99.99;score=764.20;cscore=752.98;sscore=11.23;rscore=7.65;uscore=0.80;tscore=2.78;
+KX185057.1	Prodigal_v2.6.3	CDS	20494	23994	326.2	+	0	ID=1_3;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.360;conf=99.99;score=326.22;cscore=323.02;sscore=3.19;rscore=3.28;uscore=0.25;tscore=-0.34;
+KX185057.1	Prodigal_v2.6.3	CDS	24167	24358	8.4	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.297;conf=87.39;score=8.42;cscore=9.23;sscore=-0.81;rscore=-3.35;uscore=0.44;tscore=2.10;
+KX185057.1	Prodigal_v2.6.3	CDS	24342	24671	10.9	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.382;conf=94.13;score=12.07;cscore=9.71;sscore=2.35;rscore=-2.53;uscore=0.96;tscore=2.78;
+KX185057.1	Prodigal_v2.6.3	CDS	24640	25320	22.8	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.402;conf=99.47;score=22.80;cscore=26.92;sscore=-4.12;rscore=-2.53;uscore=-4.36;tscore=2.78;
+KX185057.1	Prodigal_v2.6.3	CDS	25321	25605	5.4	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.337;conf=82.24;score=6.67;cscore=5.95;sscore=0.72;rscore=-2.53;uscore=-0.80;tscore=2.78;
+KX185057.1	Prodigal_v2.6.3	CDS	26069	27298	100.0	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.464;conf=100.00;score=99.37;cscore=101.08;sscore=-1.71;rscore=-2.53;uscore=-1.30;tscore=2.78;
+KX185057.1	Prodigal_v2.6.3	CDS	27307	27516	8.4	+	0	ID=1_9;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.310;conf=90.03;score=9.57;cscore=3.10;sscore=6.47;rscore=2.72;uscore=0.27;tscore=2.30;

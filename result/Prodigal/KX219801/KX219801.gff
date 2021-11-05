@@ -1,0 +1,11 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=27667;seqhdr="KX219801.1 Infectious bronchitis virus strain ck/CH/LSD/120437, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+KX219801.1	Prodigal_v2.6.3	CDS	496	12387	1233.0	+	0	ID=1_1;partial=00;start_type=GTG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.381;conf=99.99;score=1233.00;cscore=1229.52;sscore=3.48;rscore=5.57;uscore=-1.75;tscore=-0.34;
+KX219801.1	Prodigal_v2.6.3	CDS	12462	20420	770.7	+	0	ID=1_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.376;conf=99.99;score=770.71;cscore=762.54;sscore=8.17;rscore=3.28;uscore=2.11;tscore=2.78;
+KX219801.1	Prodigal_v2.6.3	CDS	20371	23868	337.3	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.361;conf=99.99;score=337.29;cscore=338.88;sscore=-1.58;rscore=-2.53;uscore=-1.83;tscore=2.78;
+KX219801.1	Prodigal_v2.6.3	CDS	24041	24211	5.7	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.263;conf=78.90;score=5.74;cscore=7.47;sscore=-1.73;rscore=-3.77;uscore=0.17;tscore=1.87;
+KX219801.1	Prodigal_v2.6.3	CDS	24198	24524	13.1	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.373;conf=96.42;score=14.32;cscore=10.18;sscore=4.14;rscore=-2.53;uscore=2.71;tscore=2.78;
+KX219801.1	Prodigal_v2.6.3	CDS	24496	25173	25.2	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.394;conf=99.69;score=25.16;cscore=25.95;sscore=-0.80;rscore=-2.53;uscore=-1.04;tscore=2.78;
+KX219801.1	Prodigal_v2.6.3	CDS	25922	27151	110.0	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.450;conf=100.00;score=109.36;cscore=109.71;sscore=-0.35;rscore=-2.53;uscore=0.06;tscore=2.78;
+KX219801.1	Prodigal_v2.6.3	CDS	27160	27381	10.6	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.324;conf=93.77;score=11.80;cscore=4.17;sscore=7.63;rscore=2.88;uscore=1.14;tscore=2.43;

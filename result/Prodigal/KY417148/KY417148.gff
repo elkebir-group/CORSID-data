@@ -1,0 +1,13 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=29743;seqhdr="KY417148.1 Bat SARS-like coronavirus isolate Rs4247, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+KY417148.1	Prodigal_v2.6.3	CDS	265	13413	1089.2	+	0	ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.416;conf=99.99;score=1089.16;cscore=1090.44;sscore=-1.28;rscore=-2.53;uscore=-1.53;tscore=2.78;
+KY417148.1	Prodigal_v2.6.3	CDS	13599	21485	626.8	+	0	ID=1_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.397;conf=99.99;score=626.17;cscore=613.18;sscore=13.00;rscore=7.65;uscore=3.22;tscore=2.78;
+KY417148.1	Prodigal_v2.6.3	CDS	21492	25220	267.6	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.397;conf=99.99;score=268.85;cscore=264.09;sscore=4.76;rscore=-2.53;uscore=3.31;tscore=2.78;
+KY417148.1	Prodigal_v2.6.3	CDS	25242	26054	27.1	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.416;conf=99.85;score=28.16;cscore=22.89;sscore=5.27;rscore=3.28;uscore=-1.83;tscore=2.78;
+KY417148.1	Prodigal_v2.6.3	CDS	26079	26309	3.7	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.398;conf=74.77;score=4.72;cscore=-0.08;sscore=4.81;rscore=3.00;uscore=-1.23;tscore=2.53;
+KY417148.1	Prodigal_v2.6.3	CDS	26360	27025	27.1	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.455;conf=99.83;score=27.85;cscore=25.80;sscore=2.05;rscore=-2.53;uscore=1.08;tscore=2.78;
+KY417148.1	Prodigal_v2.6.3	CDS	27036	27227	7.8	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.307;conf=88.74;score=8.98;cscore=10.06;sscore=-1.08;rscore=-3.35;uscore=-0.99;tscore=2.10;
+KY417148.1	Prodigal_v2.6.3	CDS	27599	27733	-2.7	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.311;conf=56.25;score=1.09;cscore=-2.90;sscore=3.99;rscore=1.73;uscore=-2.50;tscore=1.47;
+KY417148.1	Prodigal_v2.6.3	CDS	27785	28105	10.5	+	0	ID=1_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.364;conf=92.88;score=11.17;cscore=9.77;sscore=1.40;rscore=-2.53;uscore=0.44;tscore=2.78;
+KY417148.1	Prodigal_v2.6.3	CDS	28120	29388	50.8	+	0	ID=1_10;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.484;conf=100.00;score=51.95;cscore=49.45;sscore=2.51;rscore=-2.53;uscore=1.14;tscore=2.78;

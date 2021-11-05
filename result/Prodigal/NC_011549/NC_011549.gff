@@ -1,0 +1,12 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=26396;seqhdr="NC_011549.1 Thrush coronavirus HKU12-600, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="11|Candidatus_Amoebophilus_asiaticus_5a2|B|35.0|11|0";gc_cont=35.00;transl_table=11;uses_sd=0
+NC_011549.1	Prodigal_v2.6.3	CDS	592	11409	1195.9	+	0	ID=1_1;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=9bp;gc_cont=0.369;conf=99.99;score=1195.94;cscore=1195.91;sscore=0.04;rscore=0.55;uscore=-3.98;tscore=3.47;
+NC_011549.1	Prodigal_v2.6.3	CDS	11514	19451	740.3	+	0	ID=1_2;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.371;conf=99.99;score=740.26;cscore=755.28;sscore=-15.02;rscore=-4.87;uscore=-0.52;tscore=-9.63;
+NC_011549.1	Prodigal_v2.6.3	CDS	19433	23011	247.4	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.385;conf=99.99;score=247.39;cscore=252.81;sscore=-5.43;rscore=-4.87;uscore=-4.03;tscore=3.47;
+NC_011549.1	Prodigal_v2.6.3	CDS	23246	23899	21.8	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.420;conf=99.22;score=21.10;cscore=20.08;sscore=1.02;rscore=-4.87;uscore=3.08;tscore=3.47;
+NC_011549.1	Prodigal_v2.6.3	CDS	23899	24174	8.8	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=9bp;gc_cont=0.355;conf=96.99;score=15.10;cscore=9.80;sscore=5.30;rscore=0.55;uscore=-5.04;tscore=3.47;
+NC_011549.1	Prodigal_v2.6.3	CDS	24192	25223	104.6	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.456;conf=100.00;score=105.72;cscore=105.59;sscore=0.12;rscore=-4.87;uscore=0.44;tscore=3.47;
+NC_011549.1	Prodigal_v2.6.3	CDS	25255	25626	21.2	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=TAAA;rbs_spacer=14bp;gc_cont=0.387;conf=99.38;score=22.09;cscore=15.91;sscore=6.19;rscore=0.85;uscore=0.94;tscore=3.47;
+NC_011549.1	Prodigal_v2.6.3	CDS	25632	25883	13.1	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=AATAA;rbs_spacer=5bp;gc_cont=0.357;conf=96.45;score=14.37;cscore=3.87;sscore=10.50;rscore=4.98;uscore=0.85;tscore=3.45;
+NC_011549.1	Prodigal_v2.6.3	CDS	25940	26173	1.4	+	0	ID=1_9;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=15bp;gc_cont=0.427;conf=61.49;score=2.04;cscore=-1.02;sscore=3.06;rscore=-0.48;uscore=0.16;tscore=3.20;

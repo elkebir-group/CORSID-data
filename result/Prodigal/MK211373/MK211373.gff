@@ -1,0 +1,12 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=29109;seqhdr="MK211373.1 Coronavirus BtRs-AlphaCoV/YN2018, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+MK211373.1	Prodigal_v2.6.3	CDS	325	12471	1292.6	+	0	ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.410;conf=99.99;score=1292.58;cscore=1295.10;sscore=-2.52;rscore=-2.53;uscore=-2.76;tscore=2.78;
+MK211373.1	Prodigal_v2.6.3	CDS	12534	20462	699.3	+	0	ID=1_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.408;conf=99.99;score=699.29;cscore=701.12;sscore=-1.82;rscore=-2.53;uscore=1.05;tscore=-0.34;
+MK211373.1	Prodigal_v2.6.3	CDS	20464	24516	322.2	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.426;conf=99.99;score=323.43;cscore=319.75;sscore=3.68;rscore=-2.53;uscore=2.17;tscore=2.78;
+MK211373.1	Prodigal_v2.6.3	CDS	24516	25184	35.7	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.420;conf=99.99;score=41.74;cscore=37.68;sscore=4.06;rscore=-2.53;uscore=-2.19;tscore=2.78;
+MK211373.1	Prodigal_v2.6.3	CDS	25546	25992	15.0	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.356;conf=96.93;score=15.01;cscore=12.69;sscore=2.32;rscore=-2.53;uscore=2.08;tscore=2.78;
+MK211373.1	Prodigal_v2.6.3	CDS	25976	26200	4.0	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.378;conf=76.49;score=5.13;cscore=3.39;sscore=1.74;rscore=-2.85;uscore=0.98;tscore=2.46;
+MK211373.1	Prodigal_v2.6.3	CDS	26212	26895	16.4	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.437;conf=98.25;score=17.53;cscore=17.94;sscore=-0.41;rscore=-2.53;uscore=-1.80;tscore=2.78;
+MK211373.1	Prodigal_v2.6.3	CDS	26906	28117	54.3	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.460;conf=100.00;score=55.49;cscore=53.95;sscore=1.54;rscore=-2.53;uscore=0.13;tscore=2.78;
+MK211373.1	Prodigal_v2.6.3	CDS	28098	28406	11.4	+	0	ID=1_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.392;conf=93.20;score=11.39;cscore=7.44;sscore=3.94;rscore=-2.53;uscore=3.70;tscore=2.78;

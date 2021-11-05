@@ -1,0 +1,10 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=28096;seqhdr="KY770851.1 Bat coronavirus isolate Anlong-57, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+KY770851.1	Prodigal_v2.6.3	CDS	169	12375	1307.9	+	0	ID=1_1;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.415;conf=99.99;score=1307.91;cscore=1312.09;sscore=-4.18;rscore=-2.53;uscore=-1.30;tscore=-0.34;
+KY770851.1	Prodigal_v2.6.3	CDS	12348	20390	706.6	+	0	ID=1_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.415;conf=99.99;score=706.63;cscore=712.31;sscore=-5.67;rscore=-2.53;uscore=-2.80;tscore=-0.34;
+KY770851.1	Prodigal_v2.6.3	CDS	20392	24579	372.1	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.417;conf=99.99;score=373.32;cscore=370.22;sscore=3.10;rscore=-2.53;uscore=1.59;tscore=2.78;
+KY770851.1	Prodigal_v2.6.3	CDS	24576	25235	38.3	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.392;conf=99.99;score=41.02;cscore=33.67;sscore=7.35;rscore=3.28;uscore=-1.48;tscore=2.78;
+KY770851.1	Prodigal_v2.6.3	CDS	25482	26168	16.0	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.440;conf=97.12;score=15.30;cscore=17.38;sscore=-2.08;rscore=-2.53;uscore=-1.67;tscore=2.78;
+KY770851.1	Prodigal_v2.6.3	CDS	26177	27478	74.0	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.491;conf=100.00;score=75.16;cscore=74.03;sscore=1.13;rscore=-2.53;uscore=-0.30;tscore=2.78;
+KY770851.1	Prodigal_v2.6.3	CDS	27549	27908	2.4	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.431;conf=63.33;score=2.38;cscore=1.52;sscore=0.86;rscore=-2.53;uscore=0.61;tscore=2.78;

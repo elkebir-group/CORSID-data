@@ -1,0 +1,11 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=28124;seqhdr="KX981440.1 Porcine epidemic diarrhea virus isolate CH/HNZZ47/2016, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+KX981440.1	Prodigal_v2.6.3	CDS	284	12637	1252.8	+	0	ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.420;conf=99.99;score=1252.79;cscore=1252.48;sscore=0.30;rscore=-2.53;uscore=0.06;tscore=2.78;
+KX981440.1	Prodigal_v2.6.3	CDS	12667	20628	666.2	+	0	ID=1_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.409;conf=99.99;score=667.20;cscore=669.61;sscore=-2.42;rscore=-2.53;uscore=-0.50;tscore=-0.34;
+KX981440.1	Prodigal_v2.6.3	CDS	20625	24779	328.7	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.414;conf=99.99;score=332.49;cscore=327.29;sscore=5.20;rscore=-2.53;uscore=1.13;tscore=2.78;
+KX981440.1	Prodigal_v2.6.3	CDS	24776	25453	40.1	+	0	ID=1_4;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.381;conf=99.99;score=42.23;cscore=38.00;sscore=4.23;rscore=3.28;uscore=-0.85;tscore=-0.34;
+KX981440.1	Prodigal_v2.6.3	CDS	25434	25664	2.0	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.364;conf=61.47;score=2.03;cscore=1.35;sscore=0.68;rscore=-2.78;uscore=0.93;tscore=2.53;
+KX981440.1	Prodigal_v2.6.3	CDS	25672	26352	24.9	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.451;conf=99.75;score=26.12;cscore=25.06;sscore=1.06;rscore=-2.53;uscore=-0.38;tscore=2.78;
+KX981440.1	Prodigal_v2.6.3	CDS	26364	27689	91.8	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.466;conf=100.00;score=92.93;cscore=89.41;sscore=3.53;rscore=-2.53;uscore=2.13;tscore=2.78;
+KX981440.1	Prodigal_v2.6.3	CDS	27949	28122	10.5	+	0	ID=1_8;partial=01;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.195;conf=90.63;score=9.87;cscore=8.08;sscore=1.79;rscore=3.28;uscore=-3.62;tscore=2.78;

@@ -1,0 +1,12 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=29855;seqhdr="MN996532.1 Bat coronavirus RaTG13, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="11|Candidatus_Amoebophilus_asiaticus_5a2|B|35.0|11|0";gc_cont=35.00;transl_table=11;uses_sd=0
+MN996532.1	Prodigal_v2.6.3	CDS	251	13465	1263.6	+	0	ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.376;conf=99.99;score=1263.61;cscore=1274.38;sscore=-10.76;rscore=-4.87;uscore=-9.36;tscore=3.47;
+MN996532.1	Prodigal_v2.6.3	CDS	13513	21537	749.9	+	0	ID=1_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.370;conf=99.99;score=750.65;cscore=768.48;sscore=-17.83;rscore=-4.87;uscore=-8.76;tscore=-4.96;
+MN996532.1	Prodigal_v2.6.3	CDS	21545	25354	296.6	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=TAAA;rbs_spacer=6bp;gc_cont=0.376;conf=99.99;score=297.79;cscore=291.59;sscore=6.20;rscore=1.89;uscore=-0.35;tscore=3.47;
+MN996532.1	Prodigal_v2.6.3	CDS	25363	26190	27.2	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=TAAA;rbs_spacer=7bp;gc_cont=0.395;conf=99.85;score=28.40;cscore=21.77;sscore=6.64;rscore=1.89;uscore=0.10;tscore=3.47;
+MN996532.1	Prodigal_v2.6.3	CDS	26493	27158	20.6	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=8bp;gc_cont=0.425;conf=98.99;score=19.93;cscore=15.76;sscore=4.17;rscore=0.55;uscore=0.81;tscore=3.47;
+MN996532.1	Prodigal_v2.6.3	CDS	27169	27354	-0.1	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=10bp;gc_cont=0.285;conf=55.83;score=1.02;cscore=4.34;sscore=-3.32;rscore=0.40;uscore=-3.07;tscore=2.54;
+MN996532.1	Prodigal_v2.6.3	CDS	27360	27725	6.5	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=5bp;gc_cont=0.380;conf=85.47;score=7.71;cscore=4.66;sscore=3.05;rscore=0.55;uscore=-2.19;tscore=3.47;
+MN996532.1	Prodigal_v2.6.3	CDS	27860	28225	12.7	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=TAAA;rbs_spacer=5bp;gc_cont=0.374;conf=94.90;score=12.71;cscore=7.73;sscore=4.98;rscore=1.89;uscore=-0.37;tscore=3.47;
+MN996532.1	Prodigal_v2.6.3	CDS	28240	29499	119.8	+	0	ID=1_9;partial=00;start_type=ATG;rbs_motif=TAAA;rbs_spacer=13bp;gc_cont=0.467;conf=100.00;score=120.94;cscore=116.80;sscore=4.14;rscore=0.85;uscore=-1.29;tscore=3.47;

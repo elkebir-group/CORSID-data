@@ -1,0 +1,9 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=28476;seqhdr="EU420137.1 Bat coronavirus 1B strain AFCD307, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+EU420137.1	Prodigal_v2.6.3	CDS	273	13247	1386.8	+	0	ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.389;conf=99.99;score=1386.76;cscore=1385.93;sscore=0.83;rscore=-2.53;uscore=0.58;tscore=2.78;
+EU420137.1	Prodigal_v2.6.3	CDS	13337	21238	758.8	+	0	ID=1_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.384;conf=99.99;score=758.79;cscore=761.61;sscore=-2.82;rscore=-2.53;uscore=0.05;tscore=-0.34;
+EU420137.1	Prodigal_v2.6.3	CDS	21240	25397	410.3	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.368;conf=99.99;score=411.55;cscore=408.40;sscore=3.14;rscore=-2.53;uscore=1.64;tscore=2.78;
+EU420137.1	Prodigal_v2.6.3	CDS	25366	26025	30.4	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.355;conf=99.91;score=30.41;cscore=31.43;sscore=-1.02;rscore=-2.53;uscore=-1.26;tscore=2.78;
+EU420137.1	Prodigal_v2.6.3	CDS	26250	27017	30.9	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.418;conf=99.94;score=32.10;cscore=32.23;sscore=-0.13;rscore=-2.53;uscore=-1.58;tscore=2.78;
+EU420137.1	Prodigal_v2.6.3	CDS	27038	28189	103.5	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.433;conf=100.00;score=104.60;cscore=101.99;sscore=2.62;rscore=-2.53;uscore=1.32;tscore=2.78;

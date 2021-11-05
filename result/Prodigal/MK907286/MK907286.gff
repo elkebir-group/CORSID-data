@@ -1,0 +1,12 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=29951;seqhdr="MK907286.1 Erinaceus hedgehog coronavirus HKU31 strain F6, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="39|Rickettsia_conorii_Malish_7|B|32.4|11|1";gc_cont=32.40;transl_table=11;uses_sd=1
+MK907286.1	Prodigal_v2.6.3	CDS	187	13437	1391.2	+	0	ID=1_1;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.373;conf=99.99;score=1391.18;cscore=1395.45;sscore=-4.27;rscore=-0.99;uscore=1.20;tscore=-4.48;
+MK907286.1	Prodigal_v2.6.3	CDS	13626	21497	773.2	+	0	ID=1_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.373;conf=99.99;score=772.54;cscore=772.73;sscore=-0.19;rscore=-0.99;uscore=-1.44;tscore=2.90;
+MK907286.1	Prodigal_v2.6.3	CDS	21466	25425	407.5	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.364;conf=99.99;score=407.50;cscore=409.13;sscore=-1.63;rscore=-0.99;uscore=-3.54;tscore=2.90;
+MK907286.1	Prodigal_v2.6.3	CDS	25441	25752	28.1	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.359;conf=99.88;score=29.22;cscore=25.95;sscore=3.26;rscore=-0.99;uscore=0.25;tscore=2.90;
+MK907286.1	Prodigal_v2.6.3	CDS	25709	25957	7.2	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.382;conf=83.92;score=7.19;cscore=10.46;sscore=-3.27;rscore=-1.00;uscore=-5.12;tscore=2.85;
+MK907286.1	Prodigal_v2.6.3	CDS	25947	26624	43.5	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.413;conf=100.00;score=44.72;cscore=41.42;sscore=3.30;rscore=-0.99;uscore=0.17;tscore=2.90;
+MK907286.1	Prodigal_v2.6.3	CDS	26634	27320	29.6	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.358;conf=99.92;score=30.78;cscore=24.63;sscore=6.15;rscore=5.83;uscore=-3.75;tscore=2.90;
+MK907286.1	Prodigal_v2.6.3	CDS	27654	28310	38.7	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.385;conf=99.99;score=39.86;cscore=42.76;sscore=-2.90;rscore=-0.99;uscore=-5.97;tscore=2.90;
+MK907286.1	Prodigal_v2.6.3	CDS	28365	29648	107.0	+	0	ID=1_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.463;conf=100.00;score=107.64;cscore=104.80;sscore=2.84;rscore=-0.99;uscore=0.25;tscore=2.90;

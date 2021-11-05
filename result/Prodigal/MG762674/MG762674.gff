@@ -1,0 +1,12 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=29134;seqhdr="MG762674.1 Rousettus bat coronavirus HKU9 isolate Rousettus spp/Jinghong/2009, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+MG762674.1	Prodigal_v2.6.3	CDS	230	12952	1299.4	+	0	ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.429;conf=99.99;score=1299.43;cscore=1301.20;sscore=-1.77;rscore=-2.53;uscore=-2.02;tscore=2.78;
+MG762674.1	Prodigal_v2.6.3	CDS	12916	20991	784.6	+	0	ID=1_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.404;conf=99.99;score=784.62;cscore=778.03;sscore=6.59;rscore=3.28;uscore=0.53;tscore=2.78;
+MG762674.1	Prodigal_v2.6.3	CDS	20951	24748	328.6	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.402;conf=99.99;score=328.62;cscore=327.68;sscore=0.94;rscore=-2.53;uscore=0.70;tscore=2.78;
+MG762674.1	Prodigal_v2.6.3	CDS	24745	25437	50.1	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.395;conf=100.00;score=53.97;cscore=48.72;sscore=5.26;rscore=-2.53;uscore=1.19;tscore=2.78;
+MG762674.1	Prodigal_v2.6.3	CDS	25437	25667	10.2	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.329;conf=96.62;score=14.59;cscore=10.78;sscore=3.81;rscore=-2.78;uscore=-0.34;tscore=2.53;
+MG762674.1	Prodigal_v2.6.3	CDS	25672	26346	32.4	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.443;conf=99.96;score=33.62;cscore=34.95;sscore=-1.33;rscore=-2.53;uscore=-2.80;tscore=2.78;
+MG762674.1	Prodigal_v2.6.3	CDS	26410	27819	131.9	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.487;conf=100.00;score=131.92;cscore=128.76;sscore=3.16;rscore=-2.53;uscore=2.91;tscore=2.78;
+MG762674.1	Prodigal_v2.6.3	CDS	27893	28450	21.5	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.461;conf=99.28;score=21.45;cscore=21.18;sscore=0.27;rscore=-2.53;uscore=0.03;tscore=2.78;
+MG762674.1	Prodigal_v2.6.3	CDS	28447	28890	12.8	+	0	ID=1_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.455;conf=98.70;score=18.83;cscore=14.77;sscore=4.07;rscore=-2.53;uscore=-2.19;tscore=2.78;

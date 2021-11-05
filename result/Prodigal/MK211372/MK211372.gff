@@ -1,0 +1,11 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=28238;seqhdr="MK211372.1 Coronavirus BtSk-AlphaCoV/GX2018D, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+MK211372.1	Prodigal_v2.6.3	CDS	250	12636	1295.2	+	0	ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.400;conf=99.99;score=1295.20;cscore=1294.60;sscore=0.60;rscore=-2.53;uscore=0.36;tscore=2.78;
+MK211372.1	Prodigal_v2.6.3	CDS	12666	20636	731.3	+	0	ID=1_2;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.388;conf=99.99;score=732.25;cscore=727.76;sscore=4.49;rscore=3.28;uscore=0.60;tscore=-0.34;
+MK211372.1	Prodigal_v2.6.3	CDS	20627	24724	319.9	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.408;conf=99.99;score=321.12;cscore=317.89;sscore=3.23;rscore=-2.53;uscore=1.76;tscore=2.78;
+MK211372.1	Prodigal_v2.6.3	CDS	24724	25398	29.8	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.379;conf=99.98;score=36.63;cscore=32.58;sscore=4.06;rscore=-2.53;uscore=-3.04;tscore=2.78;
+MK211372.1	Prodigal_v2.6.3	CDS	25379	25609	7.3	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.346;conf=84.32;score=7.32;cscore=4.07;sscore=3.24;rscore=-2.78;uscore=3.49;tscore=2.53;
+MK211372.1	Prodigal_v2.6.3	CDS	25616	26302	16.8	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.447;conf=98.43;score=18.01;cscore=17.85;sscore=0.16;rscore=-2.53;uscore=-1.29;tscore=2.78;
+MK211372.1	Prodigal_v2.6.3	CDS	26313	27497	95.1	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.478;conf=100.00;score=96.27;cscore=93.88;sscore=2.39;rscore=-2.53;uscore=0.98;tscore=2.78;
+MK211372.1	Prodigal_v2.6.3	CDS	27512	28006	7.0	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.424;conf=86.58;score=8.11;cscore=7.39;sscore=0.72;rscore=-2.53;uscore=-0.64;tscore=2.78;

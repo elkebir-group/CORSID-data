@@ -1,0 +1,13 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=29306;seqhdr="FJ938052.1 Feline coronavirus UU11, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+FJ938052.1	Prodigal_v2.6.3	CDS	300	12407	1235.9	+	0	ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.386;conf=99.99;score=1235.86;cscore=1239.66;sscore=-3.79;rscore=-2.53;uscore=-4.04;tscore=2.78;
+FJ938052.1	Prodigal_v2.6.3	CDS	12380	20407	696.7	+	0	ID=1_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.382;conf=99.99;score=696.65;cscore=701.79;sscore=-5.14;rscore=-2.53;uscore=-2.26;tscore=-0.34;
+FJ938052.1	Prodigal_v2.6.3	CDS	20404	24810	322.1	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.389;conf=99.99;score=326.41;cscore=322.34;sscore=4.07;rscore=-2.53;uscore=-0.53;tscore=2.78;
+FJ938052.1	Prodigal_v2.6.3	CDS	24822	25034	16.4	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.371;conf=98.25;score=17.52;cscore=19.93;sscore=-2.42;rscore=-3.01;uscore=-2.89;tscore=2.33;
+FJ938052.1	Prodigal_v2.6.3	CDS	25200	25913	53.4	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.349;conf=100.00;score=60.42;cscore=56.35;sscore=4.07;rscore=-2.53;uscore=-3.17;tscore=2.78;
+FJ938052.1	Prodigal_v2.6.3	CDS	25900	26148	12.7	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.361;conf=96.08;score=13.91;cscore=5.86;sscore=8.06;rscore=3.23;uscore=0.91;tscore=2.73;
+FJ938052.1	Prodigal_v2.6.3	CDS	26087	26950	36.9	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.374;conf=99.98;score=36.92;cscore=36.59;sscore=0.33;rscore=-2.53;uscore=0.09;tscore=2.78;
+FJ938052.1	Prodigal_v2.6.3	CDS	26963	28096	82.1	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.436;conf=100.00;score=83.24;cscore=80.04;sscore=3.20;rscore=-2.53;uscore=1.81;tscore=2.78;
+FJ938052.1	Prodigal_v2.6.3	CDS	28080	28406	7.3	+	0	ID=1_9;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.373;conf=87.41;score=8.43;cscore=3.05;sscore=5.38;rscore=3.28;uscore=-1.83;tscore=2.78;
+FJ938052.1	Prodigal_v2.6.3	CDS	28411	29031	32.4	+	0	ID=1_10;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.370;conf=99.96;score=33.64;cscore=30.48;sscore=3.16;rscore=-2.53;uscore=1.69;tscore=2.78;

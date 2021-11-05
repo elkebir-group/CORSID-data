@@ -1,0 +1,14 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=29262;seqhdr="KU215420.1 Feline coronavirus isolate Cat1_day7, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+KU215420.1	Prodigal_v2.6.3	CDS	288	12377	1213.9	+	0	ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.387;conf=99.99;score=1213.88;cscore=1217.68;sscore=-3.79;rscore=-2.53;uscore=-4.04;tscore=2.78;
+KU215420.1	Prodigal_v2.6.3	CDS	12350	20377	675.2	+	0	ID=1_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.382;conf=99.99;score=675.19;cscore=680.33;sscore=-5.14;rscore=-2.53;uscore=-2.26;tscore=-0.34;
+KU215420.1	Prodigal_v2.6.3	CDS	20374	24777	316.0	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.395;conf=99.99;score=320.33;cscore=316.26;sscore=4.07;rscore=-2.53;uscore=-0.53;tscore=2.78;
+KU215420.1	Prodigal_v2.6.3	CDS	24789	25001	17.0	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.385;conf=98.49;score=18.18;cscore=18.06;sscore=0.12;rscore=-3.01;uscore=-0.35;tscore=2.33;
+KU215420.1	Prodigal_v2.6.3	CDS	24949	25167	4.5	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.338;conf=73.77;score=4.50;cscore=-2.36;sscore=6.86;rscore=2.84;uscore=2.12;tscore=2.40;
+KU215420.1	Prodigal_v2.6.3	CDS	25164	25877	53.9	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.354;conf=100.00;score=58.63;cscore=54.56;sscore=4.07;rscore=-2.53;uscore=-0.86;tscore=2.78;
+KU215420.1	Prodigal_v2.6.3	CDS	25864	26112	17.3	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.357;conf=98.59;score=18.47;cscore=10.42;sscore=8.06;rscore=3.23;uscore=0.91;tscore=2.73;
+KU215420.1	Prodigal_v2.6.3	CDS	26051	26911	33.9	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.391;conf=99.96;score=33.94;cscore=33.88;sscore=0.06;rscore=-2.53;uscore=-0.18;tscore=2.78;
+KU215420.1	Prodigal_v2.6.3	CDS	26924	28057	78.9	+	0	ID=1_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.439;conf=100.00;score=80.03;cscore=76.94;sscore=3.09;rscore=-2.53;uscore=1.71;tscore=2.78;
+KU215420.1	Prodigal_v2.6.3	CDS	28041	28367	5.7	+	0	ID=1_10;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.361;conf=82.88;score=6.86;cscore=1.48;sscore=5.38;rscore=3.28;uscore=-1.83;tscore=2.78;
+KU215420.1	Prodigal_v2.6.3	CDS	28372	28992	31.4	+	0	ID=1_11;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.385;conf=99.95;score=32.65;cscore=29.49;sscore=3.16;rscore=-2.53;uscore=1.69;tscore=2.78;

@@ -1,0 +1,13 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=28514;seqhdr="MN611523.1 Hipposideros pomona bat coronavirus HKU10-related isolate 160942, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+MN611523.1	Prodigal_v2.6.3	CDS	303	12659	1332.4	+	0	ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.381;conf=99.99;score=1332.43;cscore=1333.23;sscore=-0.80;rscore=-2.53;uscore=-1.05;tscore=2.78;
+MN611523.1	Prodigal_v2.6.3	CDS	12824	20656	740.9	+	0	ID=1_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.381;conf=99.99;score=740.92;cscore=740.40;sscore=0.52;rscore=-2.53;uscore=0.27;tscore=2.78;
+MN611523.1	Prodigal_v2.6.3	CDS	20653	24264	348.9	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.368;conf=99.99;score=352.74;cscore=346.50;sscore=6.24;rscore=-2.53;uscore=2.17;tscore=2.78;
+MN611523.1	Prodigal_v2.6.3	CDS	24274	24714	25.7	+	0	ID=1_4;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.342;conf=99.79;score=26.88;cscore=20.69;sscore=6.19;rscore=3.28;uscore=2.07;tscore=-0.34;
+MN611523.1	Prodigal_v2.6.3	CDS	24714	25370	39.5	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.396;conf=100.00;score=44.86;cscore=40.80;sscore=4.06;rscore=-2.53;uscore=-1.57;tscore=2.78;
+MN611523.1	Prodigal_v2.6.3	CDS	25402	25626	7.1	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.302;conf=86.43;score=8.05;cscore=8.84;sscore=-0.79;rscore=-2.85;uscore=-1.33;tscore=2.46;
+MN611523.1	Prodigal_v2.6.3	CDS	25632	26318	18.3	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.431;conf=98.88;score=19.49;cscore=18.33;sscore=1.16;rscore=-2.53;uscore=-0.30;tscore=2.78;
+MN611523.1	Prodigal_v2.6.3	CDS	26330	27538	70.1	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.444;conf=100.00;score=71.29;cscore=70.34;sscore=0.95;rscore=-2.53;uscore=-0.44;tscore=2.78;
+MN611523.1	Prodigal_v2.6.3	CDS	27806	28267	12.8	+	0	ID=1_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.405;conf=96.14;score=13.98;cscore=8.83;sscore=5.15;rscore=-2.53;uscore=3.74;tscore=2.78;
+MN611523.1	Prodigal_v2.6.3	CDS	28439	28513	3.1	+	0	ID=1_10;partial=01;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.427;conf=67.05;score=3.09;cscore=1.38;sscore=1.71;rscore=3.28;uscore=-4.35;tscore=2.78;

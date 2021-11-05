@@ -1,0 +1,12 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=30494;seqhdr="MH002340.1 Pipistrellus bat coronavirus HKU5 isolate BY140535, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+MH002340.1	Prodigal_v2.6.3	CDS	195	13709	999.9	+	0	ID=1_1;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.439;conf=99.99;score=999.89;cscore=1000.32;sscore=-0.43;rscore=-2.53;uscore=2.45;tscore=-0.34;
+MH002340.1	Prodigal_v2.6.3	CDS	13898	21811	583.2	+	0	ID=1_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.416;conf=99.99;score=582.56;cscore=582.58;sscore=-0.02;rscore=-2.53;uscore=0.39;tscore=2.78;
+MH002340.1	Prodigal_v2.6.3	CDS	21762	25817	249.0	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.413;conf=99.99;score=249.02;cscore=249.48;sscore=-0.46;rscore=-2.53;uscore=-0.70;tscore=2.78;
+MH002340.1	Prodigal_v2.6.3	CDS	25807	26145	19.1	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.437;conf=99.06;score=20.28;cscore=11.82;sscore=8.46;rscore=3.28;uscore=1.18;tscore=2.78;
+MH002340.1	Prodigal_v2.6.3	CDS	26396	27169	40.3	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.428;conf=99.99;score=39.67;cscore=35.99;sscore=3.68;rscore=3.28;uscore=-1.73;tscore=2.78;
+MH002340.1	Prodigal_v2.6.3	CDS	27179	27850	11.7	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.420;conf=95.05;score=12.85;cscore=13.46;sscore=-0.61;rscore=-2.53;uscore=-2.03;tscore=2.78;
+MH002340.1	Prodigal_v2.6.3	CDS	28034	28282	7.9	-	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.442;conf=84.16;score=7.26;cscore=-0.91;sscore=8.17;rscore=7.53;uscore=-0.93;tscore=2.73;
+MH002340.1	Prodigal_v2.6.3	CDS	28578	28853	13.7	+	0	ID=1_8;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.482;conf=95.89;score=13.70;cscore=4.58;sscore=9.12;rscore=8.84;uscore=0.62;tscore=-0.34;
+MH002340.1	Prodigal_v2.6.3	CDS	28903	30186	52.3	+	0	ID=1_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.499;conf=100.00;score=53.01;cscore=52.82;sscore=0.19;rscore=-2.53;uscore=-0.79;tscore=2.78;

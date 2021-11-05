@@ -1,0 +1,12 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=26476;seqhdr="FJ376620.1 Bulbul coronavirus HKU11-796, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="11|Candidatus_Amoebophilus_asiaticus_5a2|B|35.0|11|0";gc_cont=35.00;transl_table=11;uses_sd=0
+FJ376620.1	Prodigal_v2.6.3	CDS	640	11352	1069.0	+	0	ID=1_1;partial=00;start_type=GTG;rbs_motif=AAAA;rbs_spacer=12bp;gc_cont=0.383;conf=99.99;score=1069.02;cscore=1070.23;sscore=-1.21;rscore=2.56;uscore=1.19;tscore=-4.96;
+FJ376620.1	Prodigal_v2.6.3	CDS	11304	19394	714.8	+	0	ID=1_2;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.380;conf=99.99;score=714.83;cscore=732.66;sscore=-17.84;rscore=-4.87;uscore=-3.34;tscore=-9.63;
+FJ376620.1	Prodigal_v2.6.3	CDS	19376	22867	274.2	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.375;conf=99.99;score=274.17;cscore=279.99;sscore=-5.82;rscore=-4.87;uscore=-4.42;tscore=3.47;
+FJ376620.1	Prodigal_v2.6.3	CDS	22861	23109	3.1	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=TAAA;rbs_spacer=8bp;gc_cont=0.357;conf=73.03;score=4.33;cscore=1.06;sscore=3.27;rscore=1.86;uscore=-3.26;tscore=3.41;
+FJ376620.1	Prodigal_v2.6.3	CDS	23106	23807	30.0	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.420;conf=99.98;score=36.14;cscore=28.70;sscore=7.44;rscore=-4.87;uscore=2.68;tscore=3.47;
+FJ376620.1	Prodigal_v2.6.3	CDS	23807	24094	13.2	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.358;conf=99.58;score=23.77;cscore=19.02;sscore=4.75;rscore=-4.87;uscore=-4.38;tscore=3.47;
+FJ376620.1	Prodigal_v2.6.3	CDS	24115	25164	107.6	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.460;conf=100.00;score=108.61;cscore=107.20;sscore=1.41;rscore=-4.87;uscore=1.76;tscore=3.47;
+FJ376620.1	Prodigal_v2.6.3	CDS	25720	25974	3.5	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=5bp;gc_cont=0.376;conf=66.02;score=2.89;cscore=0.18;sscore=2.71;rscore=0.55;uscore=-0.65;tscore=3.47;
+FJ376620.1	Prodigal_v2.6.3	CDS	26010	26255	11.8	+	0	ID=1_9;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=11bp;gc_cont=0.407;conf=94.82;score=12.64;cscore=1.96;sscore=10.68;rscore=5.90;uscore=0.52;tscore=3.37;

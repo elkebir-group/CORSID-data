@@ -1,0 +1,12 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=30321;seqhdr="KU182965.1 Bat coronavirus isolate JPDB144, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+KU182965.1	Prodigal_v2.6.3	CDS	201	13610	1412.2	+	0	ID=1_1;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.381;conf=99.99;score=1412.17;cscore=1406.90;sscore=5.27;rscore=3.28;uscore=2.32;tscore=-0.34;
+KU182965.1	Prodigal_v2.6.3	CDS	13799	21664	781.5	+	0	ID=1_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.371;conf=99.99;score=780.87;cscore=779.55;sscore=1.32;rscore=-2.53;uscore=1.73;tscore=2.78;
+KU182965.1	Prodigal_v2.6.3	CDS	21609	25667	384.4	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.378;conf=99.99;score=384.39;cscore=382.97;sscore=1.41;rscore=-2.53;uscore=1.17;tscore=2.78;
+KU182965.1	Prodigal_v2.6.3	CDS	25694	25969	21.3	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.359;conf=99.41;score=22.30;cscore=19.37;sscore=2.93;rscore=-2.53;uscore=1.69;tscore=2.78;
+KU182965.1	Prodigal_v2.6.3	CDS	26150	27007	60.8	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.390;conf=100.00;score=60.12;cscore=60.26;sscore=-0.14;rscore=-2.53;uscore=0.27;tscore=2.78;
+KU182965.1	Prodigal_v2.6.3	CDS	27023	27706	24.4	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.379;conf=99.71;score=25.47;cscore=24.70;sscore=0.77;rscore=-2.53;uscore=-0.58;tscore=2.78;
+KU182965.1	Prodigal_v2.6.3	CDS	27776	28024	12.1	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.386;conf=94.22;score=12.14;cscore=3.40;sscore=8.74;rscore=3.23;uscore=2.78;tscore=2.73;
+KU182965.1	Prodigal_v2.6.3	CDS	28039	28698	38.8	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.398;conf=99.99;score=39.91;cscore=39.10;sscore=0.82;rscore=-2.53;uscore=-0.55;tscore=2.78;
+KU182965.1	Prodigal_v2.6.3	CDS	28736	30007	65.0	+	0	ID=1_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.464;conf=100.00;score=65.88;cscore=63.82;sscore=2.06;rscore=-2.53;uscore=0.95;tscore=2.78;

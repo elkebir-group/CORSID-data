@@ -1,0 +1,16 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=27715;seqhdr="EU526388.1 Infectious bronchitis virus strain A2, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+EU526388.1	Prodigal_v2.6.3	CDS	500	7096	681.8	+	0	ID=1_1;partial=00;start_type=GTG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.391;conf=99.99;score=681.78;cscore=678.38;sscore=3.39;rscore=5.57;uscore=-1.84;tscore=-0.34;
+EU526388.1	Prodigal_v2.6.3	CDS	7132	11484	408.4	+	0	ID=1_2;partial=00;start_type=TTG;rbs_motif=AGxAG;rbs_spacer=3-4bp;gc_cont=0.362;conf=99.99;score=409.28;cscore=416.92;sscore=-7.64;rscore=1.68;uscore=-0.31;tscore=-9.90;
+EU526388.1	Prodigal_v2.6.3	CDS	11454	12413	68.3	+	0	ID=1_3;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.403;conf=100.00;score=68.32;cscore=78.98;sscore=-10.65;rscore=-2.53;uscore=1.78;tscore=-9.90;
+EU526388.1	Prodigal_v2.6.3	CDS	12488	17269	461.3	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.376;conf=99.99;score=461.29;cscore=453.12;sscore=8.17;rscore=3.28;uscore=2.11;tscore=2.78;
+EU526388.1	Prodigal_v2.6.3	CDS	17241	19634	224.5	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.371;conf=99.99;score=224.54;cscore=217.25;sscore=7.29;rscore=3.28;uscore=1.23;tscore=2.78;
+EU526388.1	Prodigal_v2.6.3	CDS	19595	20446	72.8	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.363;conf=100.00;score=72.81;cscore=71.08;sscore=1.73;rscore=-2.53;uscore=1.48;tscore=2.78;
+EU526388.1	Prodigal_v2.6.3	CDS	20397	23876	310.7	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.354;conf=99.99;score=310.73;cscore=310.99;sscore=-0.26;rscore=-2.53;uscore=-0.50;tscore=2.78;
+EU526388.1	Prodigal_v2.6.3	CDS	24076	24267	11.1	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.286;conf=91.67;score=10.43;cscore=12.14;sscore=-1.71;rscore=-3.35;uscore=0.19;tscore=2.10;
+EU526388.1	Prodigal_v2.6.3	CDS	24251	24577	12.0	+	0	ID=1_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.382;conf=95.33;score=13.12;cscore=10.77;sscore=2.35;rscore=-2.53;uscore=0.96;tscore=2.78;
+EU526388.1	Prodigal_v2.6.3	CDS	24549	25226	24.1	+	0	ID=1_10;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.398;conf=99.61;score=24.08;cscore=24.88;sscore=-0.80;rscore=-2.53;uscore=-1.04;tscore=2.78;
+EU526388.1	Prodigal_v2.6.3	CDS	25227	25511	-0.9	+	0	ID=1_11;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.337;conf=52.27;score=0.40;cscore=4.18;sscore=-3.78;rscore=-2.53;uscore=-0.95;tscore=2.78;
+EU526388.1	Prodigal_v2.6.3	CDS	25975	27204	102.7	+	0	ID=1_12;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.463;conf=100.00;score=102.03;cscore=103.52;sscore=-1.50;rscore=-2.53;uscore=-1.09;tscore=2.78;
+EU526388.1	Prodigal_v2.6.3	CDS	27214	27429	-0.2	+	0	ID=1_13;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.343;conf=55.69;score=0.99;cscore=4.68;sscore=-3.68;rscore=-2.97;uscore=0.10;tscore=2.36;

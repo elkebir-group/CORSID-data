@@ -1,0 +1,10 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=27935;seqhdr="NC_028811.1 BtMr-AlphaCoV/SAX2011, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+NC_028811.1	Prodigal_v2.6.3	CDS	299	12268	1312.7	+	0	ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.406;conf=99.99;score=1312.69;cscore=1311.95;sscore=0.75;rscore=-2.53;uscore=0.50;tscore=2.78;
+NC_028811.1	Prodigal_v2.6.3	CDS	12241	20286	698.8	+	0	ID=1_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.405;conf=99.99;score=698.83;cscore=701.96;sscore=-3.13;rscore=-2.53;uscore=-0.26;tscore=-0.34;
+NC_028811.1	Prodigal_v2.6.3	CDS	20288	24451	341.9	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.412;conf=99.99;score=343.12;cscore=340.58;sscore=2.54;rscore=-2.53;uscore=1.03;tscore=2.78;
+NC_028811.1	Prodigal_v2.6.3	CDS	24448	25107	30.0	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.370;conf=99.97;score=35.76;cscore=31.69;sscore=4.07;rscore=-2.53;uscore=-1.92;tscore=2.78;
+NC_028811.1	Prodigal_v2.6.3	CDS	25109	25339	1.5	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.338;conf=65.17;score=2.72;cscore=-0.28;sscore=3.01;rscore=3.00;uscore=-3.28;tscore=2.53;
+NC_028811.1	Prodigal_v2.6.3	CDS	25349	26032	15.2	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.446;conf=97.75;score=16.42;cscore=18.28;sscore=-1.86;rscore=-2.53;uscore=-3.28;tscore=2.78;
+NC_028811.1	Prodigal_v2.6.3	CDS	26041	27330	73.9	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.489;conf=100.00;score=75.13;cscore=75.41;sscore=-0.29;rscore=-2.53;uscore=-1.72;tscore=2.78;

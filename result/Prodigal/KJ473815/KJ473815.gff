@@ -1,0 +1,12 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=29161;seqhdr="KJ473815.1 BtRs-BetaCoV/GX2013, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+KJ473815.1	Prodigal_v2.6.3	CDS	25	13167	1123.8	+	0	ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.412;conf=99.99;score=1123.77;cscore=1123.58;sscore=0.19;rscore=-2.53;uscore=-0.06;tscore=2.78;
+KJ473815.1	Prodigal_v2.6.3	CDS	13353	21239	612.1	+	0	ID=1_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.399;conf=99.99;score=611.43;cscore=598.43;sscore=13.00;rscore=7.65;uscore=3.22;tscore=2.78;
+KJ473815.1	Prodigal_v2.6.3	CDS	21246	24974	259.2	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.395;conf=99.99;score=260.44;cscore=257.53;sscore=2.91;rscore=-2.53;uscore=1.46;tscore=2.78;
+KJ473815.1	Prodigal_v2.6.3	CDS	24996	25808	32.7	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.402;conf=99.96;score=33.77;cscore=28.50;sscore=5.27;rscore=3.28;uscore=-1.83;tscore=2.78;
+KJ473815.1	Prodigal_v2.6.3	CDS	25833	26063	4.4	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.407;conf=77.65;score=5.42;cscore=0.11;sscore=5.31;rscore=3.00;uscore=-1.23;tscore=2.53;
+KJ473815.1	Prodigal_v2.6.3	CDS	26114	26779	26.2	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.450;conf=99.80;score=26.94;cscore=24.89;sscore=2.05;rscore=-2.53;uscore=1.08;tscore=2.78;
+KJ473815.1	Prodigal_v2.6.3	CDS	26790	26981	6.4	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.323;conf=84.95;score=7.53;cscore=8.61;sscore=-1.08;rscore=-3.35;uscore=-0.99;tscore=2.10;
+KJ473815.1	Prodigal_v2.6.3	CDS	27495	27863	6.6	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.401;conf=85.86;score=7.85;cscore=7.69;sscore=0.15;rscore=-2.53;uscore=-1.30;tscore=2.78;
+KJ473815.1	Prodigal_v2.6.3	CDS	27865	29133	48.4	+	0	ID=1_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.485;conf=100.00;score=49.70;cscore=45.92;sscore=3.78;rscore=-2.53;uscore=2.27;tscore=2.78;

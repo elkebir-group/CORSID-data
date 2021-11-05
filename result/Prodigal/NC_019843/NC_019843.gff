@@ -1,0 +1,12 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=30119;seqhdr="NC_019843.3 Middle East respiratory syndrome coronavirus, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+NC_019843.3	Prodigal_v2.6.3	CDS	213	13454	1143.5	+	0	ID=1_1;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.418;conf=99.99;score=1143.51;cscore=1143.51;sscore=-0.00;rscore=-2.53;uscore=2.87;tscore=-0.34;
+NC_019843.3	Prodigal_v2.6.3	CDS	13484	21514	677.4	+	0	ID=1_2;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.398;conf=99.99;score=678.32;cscore=689.94;sscore=-11.62;rscore=-2.53;uscore=-0.14;tscore=-9.90;
+NC_019843.3	Prodigal_v2.6.3	CDS	21456	25517	292.3	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.408;conf=99.99;score=292.34;cscore=291.88;sscore=0.46;rscore=-2.53;uscore=0.21;tscore=2.78;
+NC_019843.3	Prodigal_v2.6.3	CDS	25532	25843	10.4	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.401;conf=93.37;score=11.51;cscore=11.39;sscore=0.12;rscore=-2.53;uscore=-1.25;tscore=2.78;
+NC_019843.3	Prodigal_v2.6.3	CDS	26108	26833	29.7	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.413;conf=99.88;score=29.08;cscore=18.52;sscore=10.56;rscore=8.84;uscore=-0.41;tscore=2.78;
+NC_019843.3	Prodigal_v2.6.3	CDS	26840	27514	11.1	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.403;conf=94.39;score=12.28;cscore=13.55;sscore=-1.27;rscore=-2.53;uscore=-2.72;tscore=2.78;
+NC_019843.3	Prodigal_v2.6.3	CDS	27590	27838	2.0	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.398;conf=61.27;score=2.00;cscore=-4.22;sscore=6.21;rscore=3.23;uscore=0.75;tscore=2.73;
+NC_019843.3	Prodigal_v2.6.3	CDS	27853	28512	22.2	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.436;conf=99.53;score=23.31;cscore=24.01;sscore=-0.70;rscore=-2.53;uscore=-2.06;tscore=2.78;
+NC_019843.3	Prodigal_v2.6.3	CDS	28566	29807	59.0	+	0	ID=1_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.471;conf=100.00;score=59.66;cscore=56.96;sscore=2.70;rscore=-2.53;uscore=1.76;tscore=2.78;

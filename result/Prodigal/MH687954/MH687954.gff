@@ -1,0 +1,11 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=28240;seqhdr="MH687954.1 Alphacoronavirus sp. strain VZ_AlphaCoV_16845_24, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+MH687954.1	Prodigal_v2.6.3	CDS	248	12634	1310.8	+	0	ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.399;conf=99.99;score=1310.84;cscore=1311.11;sscore=-0.27;rscore=-2.53;uscore=-0.52;tscore=2.78;
+MH687954.1	Prodigal_v2.6.3	CDS	12664	20628	742.3	+	0	ID=1_2;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.388;conf=99.99;score=743.22;cscore=738.73;sscore=4.49;rscore=3.28;uscore=0.60;tscore=-0.34;
+MH687954.1	Prodigal_v2.6.3	CDS	20625	24743	305.7	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.422;conf=99.99;score=309.49;cscore=304.13;sscore=5.35;rscore=-2.53;uscore=1.28;tscore=2.78;
+MH687954.1	Prodigal_v2.6.3	CDS	24743	25417	31.5	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.378;conf=99.99;score=38.37;cscore=34.32;sscore=4.06;rscore=-2.53;uscore=-3.04;tscore=2.78;
+MH687954.1	Prodigal_v2.6.3	CDS	25398	25628	7.2	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.346;conf=83.96;score=7.20;cscore=3.95;sscore=3.24;rscore=-2.78;uscore=3.49;tscore=2.53;
+MH687954.1	Prodigal_v2.6.3	CDS	25635	26321	16.4	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.450;conf=98.28;score=17.60;cscore=17.44;sscore=0.16;rscore=-2.53;uscore=-1.29;tscore=2.78;
+MH687954.1	Prodigal_v2.6.3	CDS	26332	27516	89.9	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.476;conf=100.00;score=91.05;cscore=88.66;sscore=2.39;rscore=-2.53;uscore=0.98;tscore=2.78;
+MH687954.1	Prodigal_v2.6.3	CDS	27531	28022	6.1	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.421;conf=83.96;score=7.20;cscore=7.30;sscore=-0.09;rscore=-2.53;uscore=-1.46;tscore=2.78;

@@ -1,0 +1,11 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=27165;seqhdr="NC_009988.1 Bat coronavirus HKU2, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+NC_009988.1	Prodigal_v2.6.3	CDS	297	12476	1488.6	+	0	ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.388;conf=99.99;score=1488.63;cscore=1488.93;sscore=-0.30;rscore=-2.53;uscore=-0.55;tscore=2.78;
+NC_009988.1	Prodigal_v2.6.3	CDS	12539	20479	800.2	+	0	ID=1_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.387;conf=99.99;score=800.22;cscore=801.32;sscore=-1.10;rscore=-2.53;uscore=1.77;tscore=-0.34;
+NC_009988.1	Prodigal_v2.6.3	CDS	20476	23862	316.7	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.399;conf=99.99;score=320.82;cscore=316.75;sscore=4.07;rscore=-2.53;uscore=-0.31;tscore=2.78;
+NC_009988.1	Prodigal_v2.6.3	CDS	23862	24551	55.3	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.399;conf=100.00;score=59.96;cscore=55.90;sscore=4.06;rscore=-2.53;uscore=-0.86;tscore=2.78;
+NC_009988.1	Prodigal_v2.6.3	CDS	24532	24759	7.0	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=4Base/6BMM;rbs_spacer=13-15bp;gc_cont=0.338;conf=83.35;score=7.01;cscore=6.45;sscore=0.56;rscore=-0.88;uscore=-1.05;tscore=2.50;
+NC_009988.1	Prodigal_v2.6.3	CDS	24768	25457	20.6	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.413;conf=99.33;score=21.75;cscore=22.41;sscore=-0.66;rscore=-2.53;uscore=-2.09;tscore=2.78;
+NC_009988.1	Prodigal_v2.6.3	CDS	25469	26596	94.5	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.461;conf=100.00;score=95.70;cscore=93.98;sscore=1.72;rscore=-2.53;uscore=0.32;tscore=2.78;
+NC_009988.1	Prodigal_v2.6.3	CDS	26648	26965	8.6	+	0	ID=1_8;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.377;conf=89.45;score=9.30;cscore=9.33;sscore=-0.03;rscore=-2.53;uscore=2.13;tscore=-0.34;

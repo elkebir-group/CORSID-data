@@ -1,0 +1,13 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=27754;seqhdr="KM454473.1 Duck coronavirus isolate DK/GD/27/2014, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+KM454473.1	Prodigal_v2.6.3	CDS	317	12292	1323.5	+	0	ID=1_1;partial=00;start_type=GTG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.390;conf=99.99;score=1323.55;cscore=1320.36;sscore=3.19;rscore=5.57;uscore=-2.04;tscore=-0.34;
+KM454473.1	Prodigal_v2.6.3	CDS	12367	20364	800.3	+	0	ID=1_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.387;conf=99.99;score=800.29;cscore=791.55;sscore=8.75;rscore=3.28;uscore=2.69;tscore=2.78;
+KM454473.1	Prodigal_v2.6.3	CDS	20318	23893	325.6	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.382;conf=99.99;score=325.61;cscore=327.22;sscore=-1.60;rscore=-2.53;uscore=-1.85;tscore=2.78;
+KM454473.1	Prodigal_v2.6.3	CDS	24048	24257	2.7	+	0	ID=1_4;partial=00;start_type=TTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.314;conf=65.14;score=2.72;cscore=11.09;sscore=-8.37;rscore=2.72;uscore=0.88;tscore=-11.96;
+KM454473.1	Prodigal_v2.6.3	CDS	24238	24519	15.1	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.369;conf=96.98;score=15.08;cscore=14.17;sscore=0.92;rscore=-2.53;uscore=0.67;tscore=2.78;
+KM454473.1	Prodigal_v2.6.3	CDS	24516	25223	15.1	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.438;conf=99.02;score=20.06;cscore=15.99;sscore=4.07;rscore=-2.53;uscore=-1.10;tscore=2.78;
+KM454473.1	Prodigal_v2.6.3	CDS	25224	25508	7.8	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.340;conf=88.97;score=9.08;cscore=7.99;sscore=1.09;rscore=-2.53;uscore=-0.42;tscore=2.78;
+KM454473.1	Prodigal_v2.6.3	CDS	25781	26029	3.8	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.414;conf=67.56;score=3.19;cscore=3.68;sscore=-0.48;rscore=-2.57;uscore=0.01;tscore=2.73;
+KM454473.1	Prodigal_v2.6.3	CDS	25972	27216	117.3	+	0	ID=1_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.488;conf=100.00;score=117.34;cscore=115.28;sscore=2.06;rscore=-2.53;uscore=1.82;tscore=2.78;
+KM454473.1	Prodigal_v2.6.3	CDS	27246	27458	6.0	+	0	ID=1_10;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.376;conf=83.07;score=6.92;cscore=9.99;sscore=-3.07;rscore=-3.01;uscore=-3.35;tscore=2.33;

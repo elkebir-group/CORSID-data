@@ -1,0 +1,12 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=29521;seqhdr="MT121216.1 Pangolin coronavirus isolate MP789, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="11|Candidatus_Amoebophilus_asiaticus_5a2|B|35.0|11|0";gc_cont=35.00;transl_table=11;uses_sd=0
+MT121216.1	Prodigal_v2.6.3	CDS	146	13342	1260.3	+	0	ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.380;conf=99.99;score=1260.27;cscore=1270.74;sscore=-10.47;rscore=-4.87;uscore=-9.07;tscore=3.47;
+MT121216.1	Prodigal_v2.6.3	CDS	13627	21414	724.3	+	0	ID=1_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.372;conf=99.99;score=723.67;cscore=725.36;sscore=-1.69;rscore=-4.87;uscore=0.36;tscore=3.47;
+MT121216.1	Prodigal_v2.6.3	CDS	21421	25218	290.2	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=AATAA;rbs_spacer=10bp;gc_cont=0.375;conf=99.99;score=291.43;cscore=282.13;sscore=9.30;rscore=5.00;uscore=-0.38;tscore=3.47;
+MT121216.1	Prodigal_v2.6.3	CDS	25227	26054	27.4	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=TAAA;rbs_spacer=7bp;gc_cont=0.393;conf=99.86;score=28.59;cscore=21.75;sscore=6.84;rscore=1.89;uscore=0.30;tscore=3.47;
+MT121216.1	Prodigal_v2.6.3	CDS	26357	27025	20.7	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=8bp;gc_cont=0.425;conf=99.01;score=20.04;cscore=15.87;sscore=4.17;rscore=0.55;uscore=0.81;tscore=3.47;
+MT121216.1	Prodigal_v2.6.3	CDS	27036	27221	6.0	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=10bp;gc_cont=0.280;conf=83.92;score=7.19;cscore=6.16;sscore=1.03;rscore=0.40;uscore=-3.07;tscore=2.54;
+MT121216.1	Prodigal_v2.6.3	CDS	27228	27593	9.7	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=TAAA;rbs_spacer=5bp;gc_cont=0.377;conf=92.53;score=10.95;cscore=6.58;sscore=4.37;rscore=1.89;uscore=-2.19;tscore=3.47;
+MT121216.1	Prodigal_v2.6.3	CDS	27728	28045	13.3	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=TAAA;rbs_spacer=5bp;gc_cont=0.365;conf=95.47;score=13.26;cscore=7.81;sscore=5.45;rscore=1.89;uscore=0.09;tscore=3.47;
+MT121216.1	Prodigal_v2.6.3	CDS	28060	29319	125.0	+	0	ID=1_9;partial=00;start_type=ATG;rbs_motif=TAAA;rbs_spacer=13bp;gc_cont=0.467;conf=100.00;score=126.11;cscore=121.97;sscore=4.14;rscore=0.85;uscore=-1.29;tscore=3.47;

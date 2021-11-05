@@ -1,0 +1,12 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=28363;seqhdr="NC_032107.1 NL63-related bat coronavirus strain BtKYNL63-9a, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+NC_032107.1	Prodigal_v2.6.3	CDS	3	95	0.6	+	0	ID=1_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.366;conf=53.52;score=0.61;cscore=-2.11;sscore=2.72;rscore=0.00;uscore=3.22;tscore=0.00;
+NC_032107.1	Prodigal_v2.6.3	CDS	242	12502	1272.5	+	0	ID=1_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.392;conf=99.99;score=1272.46;cscore=1272.78;sscore=-0.32;rscore=-2.53;uscore=-0.56;tscore=2.78;
+NC_032107.1	Prodigal_v2.6.3	CDS	12592	20517	735.1	+	0	ID=1_3;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.387;conf=99.99;score=735.15;cscore=737.52;sscore=-2.37;rscore=-2.53;uscore=0.51;tscore=-0.34;
+NC_032107.1	Prodigal_v2.6.3	CDS	20514	24632	365.0	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.390;conf=99.99;score=368.83;cscore=362.47;sscore=6.36;rscore=-2.53;uscore=2.29;tscore=2.78;
+NC_032107.1	Prodigal_v2.6.3	CDS	24632	25315	44.7	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.402;conf=100.00;score=49.09;cscore=45.03;sscore=4.06;rscore=-2.53;uscore=-0.56;tscore=2.78;
+NC_032107.1	Prodigal_v2.6.3	CDS	25296	25529	1.5	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.342;conf=58.56;score=1.50;cscore=-0.55;sscore=2.05;rscore=-2.74;uscore=2.73;tscore=2.56;
+NC_032107.1	Prodigal_v2.6.3	CDS	25538	26230	17.5	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.429;conf=98.65;score=18.67;cscore=17.96;sscore=0.71;rscore=-2.53;uscore=-0.72;tscore=2.78;
+NC_032107.1	Prodigal_v2.6.3	CDS	26241	27464	83.2	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.438;conf=100.00;score=84.41;cscore=83.06;sscore=1.35;rscore=-2.53;uscore=-0.06;tscore=2.78;
+NC_032107.1	Prodigal_v2.6.3	CDS	27936	28214	18.0	+	0	ID=1_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.373;conf=98.19;score=17.37;cscore=15.39;sscore=1.98;rscore=-2.53;uscore=2.39;tscore=2.78;

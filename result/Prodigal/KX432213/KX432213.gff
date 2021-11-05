@@ -1,0 +1,12 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=30868;seqhdr="KX432213.1 Canine respiratory coronavirus strain BJ232, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+KX432213.1	Prodigal_v2.6.3	CDS	144	13295	1546.6	+	0	ID=1_1;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.360;conf=99.99;score=1546.56;cscore=1541.23;sscore=5.33;rscore=3.28;uscore=-0.73;tscore=2.78;
+KX432213.1	Prodigal_v2.6.3	CDS	13478	21427	816.5	+	0	ID=1_2;partial=00;start_type=TTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.369;conf=99.99;score=815.86;cscore=814.33;sscore=1.53;rscore=7.65;uscore=4.44;tscore=-9.90;
+KX432213.1	Prodigal_v2.6.3	CDS	21437	22273	77.3	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.368;conf=100.00;score=78.45;cscore=74.88;sscore=3.57;rscore=-2.53;uscore=2.15;tscore=2.78;
+KX432213.1	Prodigal_v2.6.3	CDS	22279	23559	111.9	+	0	ID=1_4;partial=00;start_type=GTG;rbs_motif=AGxAG;rbs_spacer=5-10bp;gc_cont=0.358;conf=100.00;score=113.13;cscore=110.61;sscore=2.52;rscore=-0.10;uscore=1.75;tscore=-0.34;
+KX432213.1	Prodigal_v2.6.3	CDS	23574	27665	397.8	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.352;conf=99.99;score=398.89;cscore=396.49;sscore=2.40;rscore=-2.53;uscore=1.03;tscore=2.78;
+KX432213.1	Prodigal_v2.6.3	CDS	28039	28368	11.9	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.358;conf=93.01;score=11.26;cscore=10.55;sscore=0.71;rscore=-2.53;uscore=1.12;tscore=2.78;
+KX432213.1	Prodigal_v2.6.3	CDS	28355	28609	27.2	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=3-4bp;gc_cont=0.345;conf=99.85;score=28.37;cscore=17.46;sscore=10.91;rscore=6.38;uscore=0.57;tscore=2.78;
+KX432213.1	Prodigal_v2.6.3	CDS	28624	29316	39.0	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.365;conf=99.99;score=40.15;cscore=36.78;sscore=3.37;rscore=-2.53;uscore=2.01;tscore=2.78;
+KX432213.1	Prodigal_v2.6.3	CDS	29326	30672	88.8	+	0	ID=1_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.457;conf=100.00;score=89.92;cscore=90.25;sscore=-0.33;rscore=-2.53;uscore=-1.75;tscore=2.78;

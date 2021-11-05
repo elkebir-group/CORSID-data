@@ -1,0 +1,12 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=28155;seqhdr="MH687950.1 Alphacoronavirus sp. strain VZ_AlphaCoV_16715_77, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+MH687950.1	Prodigal_v2.6.3	CDS	221	12541	1280.7	+	0	ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.402;conf=99.99;score=1280.69;cscore=1279.60;sscore=1.09;rscore=-2.53;uscore=0.85;tscore=2.78;
+MH687950.1	Prodigal_v2.6.3	CDS	12571	20535	755.6	+	0	ID=1_2;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.391;conf=99.99;score=756.58;cscore=752.68;sscore=3.89;rscore=3.28;uscore=-0.00;tscore=-0.34;
+MH687950.1	Prodigal_v2.6.3	CDS	20532	24647	317.1	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.418;conf=99.99;score=320.96;cscore=315.61;sscore=5.35;rscore=-2.53;uscore=1.28;tscore=2.78;
+MH687950.1	Prodigal_v2.6.3	CDS	24647	25321	33.7	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.379;conf=99.99;score=40.55;cscore=36.49;sscore=4.06;rscore=-2.53;uscore=-3.04;tscore=2.78;
+MH687950.1	Prodigal_v2.6.3	CDS	25302	25532	3.0	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.359;conf=66.69;score=3.02;cscore=0.28;sscore=2.74;rscore=-2.78;uscore=2.99;tscore=2.53;
+MH687950.1	Prodigal_v2.6.3	CDS	25539	26222	22.6	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.447;conf=99.59;score=23.85;cscore=24.02;sscore=-0.17;rscore=-2.53;uscore=-1.62;tscore=2.78;
+MH687950.1	Prodigal_v2.6.3	CDS	26233	27417	90.2	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.479;conf=100.00;score=91.38;cscore=88.60;sscore=2.78;rscore=-2.53;uscore=1.37;tscore=2.78;
+MH687950.1	Prodigal_v2.6.3	CDS	27432	27926	6.0	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.416;conf=83.64;score=7.10;cscore=7.39;sscore=-0.29;rscore=-2.53;uscore=-1.65;tscore=2.78;
+MH687950.1	Prodigal_v2.6.3	CDS	28069	28155	8.1	+	0	ID=1_9;partial=01;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.437;conf=86.58;score=8.11;cscore=5.56;sscore=2.55;rscore=3.28;uscore=-3.51;tscore=2.78;

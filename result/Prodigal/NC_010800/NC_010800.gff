@@ -1,0 +1,11 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=27657;seqhdr="NC_010800.1 Turkey coronavirus, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+NC_010800.1	Prodigal_v2.6.3	CDS	499	12384	1270.1	+	0	ID=1_1;partial=00;start_type=GTG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.382;conf=99.99;score=1270.09;cscore=1266.70;sscore=3.39;rscore=5.57;uscore=-1.84;tscore=-0.34;
+NC_010800.1	Prodigal_v2.6.3	CDS	12459	20336	765.6	+	0	ID=1_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.377;conf=99.99;score=765.61;cscore=756.77;sscore=8.84;rscore=3.28;uscore=2.78;tscore=2.78;
+NC_010800.1	Prodigal_v2.6.3	CDS	20366	24040	325.8	+	0	ID=1_3;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.356;conf=99.99;score=326.79;cscore=320.48;sscore=6.31;rscore=3.28;uscore=2.41;tscore=-0.34;
+NC_010800.1	Prodigal_v2.6.3	CDS	24161	24355	10.3	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.359;conf=91.38;score=10.27;cscore=11.45;sscore=-1.18;rscore=-3.30;uscore=-0.01;tscore=2.13;
+NC_010800.1	Prodigal_v2.6.3	CDS	24336	24635	24.8	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.373;conf=99.66;score=24.76;cscore=17.77;sscore=6.99;rscore=3.28;uscore=0.93;tscore=2.78;
+NC_010800.1	Prodigal_v2.6.3	CDS	24637	25308	27.0	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.403;conf=99.85;score=28.25;cscore=28.49;sscore=-0.24;rscore=-2.53;uscore=-1.75;tscore=2.78;
+NC_010800.1	Prodigal_v2.6.3	CDS	25309	25593	2.9	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.326;conf=72.27;score=4.17;cscore=2.79;sscore=1.38;rscore=-2.53;uscore=-0.14;tscore=2.78;
+NC_010800.1	Prodigal_v2.6.3	CDS	26054	27283	108.2	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.469;conf=100.00;score=107.52;cscore=108.04;sscore=-0.52;rscore=-2.53;uscore=-0.11;tscore=2.78;

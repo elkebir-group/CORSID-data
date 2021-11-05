@@ -1,0 +1,12 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=29732;seqhdr="MG772934.1 Bat SARS-like coronavirus isolate bat-SL-CoVZXC21, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="11|Candidatus_Amoebophilus_asiaticus_5a2|B|35.0|11|0";gc_cont=35.00;transl_table=11;uses_sd=0
+MG772934.1	Prodigal_v2.6.3	CDS	265	13404	1201.4	+	0	ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.379;conf=99.99;score=1201.35;cscore=1211.84;sscore=-10.49;rscore=-4.87;uscore=-9.08;tscore=3.47;
+MG772934.1	Prodigal_v2.6.3	CDS	13590	21476	642.1	+	0	ID=1_2;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=10bp;gc_cont=0.394;conf=99.99;score=641.49;cscore=640.07;sscore=1.42;rscore=0.55;uscore=-1.95;tscore=3.47;
+MG772934.1	Prodigal_v2.6.3	CDS	21483	25220	277.2	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=TAAA;rbs_spacer=5bp;gc_cont=0.380;conf=99.99;score=278.37;cscore=272.28;sscore=6.09;rscore=1.89;uscore=-0.48;tscore=3.47;
+MG772934.1	Prodigal_v2.6.3	CDS	25229	26056	31.9	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=TAAA;rbs_spacer=7bp;gc_cont=0.395;conf=99.95;score=33.09;cscore=26.35;sscore=6.74;rscore=1.89;uscore=0.20;tscore=3.47;
+MG772934.1	Prodigal_v2.6.3	CDS	26359	27027	19.9	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=8bp;gc_cont=0.426;conf=98.81;score=19.22;cscore=15.87;sscore=3.35;rscore=0.55;uscore=-0.01;tscore=3.47;
+MG772934.1	Prodigal_v2.6.3	CDS	27038	27223	5.3	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=10bp;gc_cont=0.290;conf=81.62;score=6.49;cscore=5.45;sscore=1.03;rscore=0.40;uscore=-3.07;tscore=2.54;
+MG772934.1	Prodigal_v2.6.3	CDS	27230	27595	8.5	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=TAAA;rbs_spacer=5bp;gc_cont=0.366;conf=90.36;score=9.74;cscore=4.66;sscore=5.07;rscore=1.89;uscore=-1.49;tscore=3.47;
+MG772934.1	Prodigal_v2.6.3	CDS	27730	28095	15.8	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=TAAA;rbs_spacer=5bp;gc_cont=0.380;conf=97.44;score=15.83;cscore=8.80;sscore=7.03;rscore=1.89;uscore=1.68;tscore=3.47;
+MG772934.1	Prodigal_v2.6.3	CDS	28110	29369	124.3	+	0	ID=1_9;partial=00;start_type=ATG;rbs_motif=TAAA;rbs_spacer=13bp;gc_cont=0.466;conf=100.00;score=125.40;cscore=121.60;sscore=3.79;rscore=0.85;uscore=-1.64;tscore=3.47;

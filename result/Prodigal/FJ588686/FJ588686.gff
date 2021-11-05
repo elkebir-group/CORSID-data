@@ -1,0 +1,15 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=29059;seqhdr="FJ588686.1 Bat SARS CoV Rs672/2006, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+FJ588686.1	Prodigal_v2.6.3	CDS	3	86	6.1	-	0	ID=1_1;partial=10;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.464;conf=77.71;score=5.43;cscore=0.87;sscore=4.56;rscore=3.28;uscore=-0.85;tscore=2.78;
+FJ588686.1	Prodigal_v2.6.3	CDS	246	12815	1052.9	+	0	ID=1_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.415;conf=99.99;score=1052.87;cscore=1053.20;sscore=-0.33;rscore=-2.53;uscore=-0.57;tscore=2.78;
+FJ588686.1	Prodigal_v2.6.3	CDS	13001	20887	618.4	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.402;conf=99.99;score=617.71;cscore=603.78;sscore=13.93;rscore=7.65;uscore=4.16;tscore=2.78;
+FJ588686.1	Prodigal_v2.6.3	CDS	20894	24619	261.8	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.396;conf=99.99;score=263.00;cscore=259.39;sscore=3.61;rscore=-2.53;uscore=2.16;tscore=2.78;
+FJ588686.1	Prodigal_v2.6.3	CDS	24641	25453	23.9	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.417;conf=99.68;score=24.96;cscore=19.69;sscore=5.27;rscore=3.28;uscore=-1.83;tscore=2.78;
+FJ588686.1	Prodigal_v2.6.3	CDS	25478	25708	6.3	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.398;conf=84.35;score=7.33;cscore=2.02;sscore=5.31;rscore=3.00;uscore=-1.23;tscore=2.53;
+FJ588686.1	Prodigal_v2.6.3	CDS	25759	26424	30.3	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.450;conf=99.92;score=30.98;cscore=28.93;sscore=2.05;rscore=-2.53;uscore=1.08;tscore=2.78;
+FJ588686.1	Prodigal_v2.6.3	CDS	26435	26626	7.1	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.318;conf=86.96;score=8.25;cscore=9.34;sscore=-1.08;rscore=-3.35;uscore=-0.99;tscore=2.10;
+FJ588686.1	Prodigal_v2.6.3	CDS	26634	27002	-1.1	+	0	ID=1_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.390;conf=50.52;score=0.09;cscore=-1.17;sscore=1.26;rscore=-2.53;uscore=0.32;tscore=2.78;
+FJ588686.1	Prodigal_v2.6.3	CDS	26999	27133	-3.8	+	0	ID=1_10;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.319;conf=50.03;score=0.00;cscore=-3.99;sscore=3.99;rscore=1.73;uscore=-2.50;tscore=1.47;
+FJ588686.1	Prodigal_v2.6.3	CDS	27185	27505	10.6	+	0	ID=1_11;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.361;conf=93.13;score=11.34;cscore=9.94;sscore=1.40;rscore=-2.53;uscore=0.44;tscore=2.78;
+FJ588686.1	Prodigal_v2.6.3	CDS	27520	28788	46.5	+	0	ID=1_12;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.489;conf=100.00;score=47.57;cscore=45.07;sscore=2.51;rscore=-2.53;uscore=1.14;tscore=2.78;

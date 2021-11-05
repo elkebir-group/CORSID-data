@@ -1,0 +1,11 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=27663;seqhdr="GU393337.1 Infectious bronchitis virus serotype Iowa 97, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+GU393337.1	Prodigal_v2.6.3	CDS	499	12390	1249.5	+	0	ID=1_1;partial=00;start_type=GTG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.380;conf=99.99;score=1249.52;cscore=1246.13;sscore=3.39;rscore=5.57;uscore=-1.84;tscore=-0.34;
+GU393337.1	Prodigal_v2.6.3	CDS	12465	20423	763.3	+	0	ID=1_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.377;conf=99.99;score=763.28;cscore=754.44;sscore=8.84;rscore=3.28;uscore=2.78;tscore=2.78;
+GU393337.1	Prodigal_v2.6.3	CDS	20374	23880	319.7	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.355;conf=99.99;score=319.75;cscore=318.58;sscore=1.17;rscore=-2.53;uscore=0.92;tscore=2.78;
+GU393337.1	Prodigal_v2.6.3	CDS	24053	24247	11.2	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.344;conf=92.94;score=11.21;cscore=13.64;sscore=-2.42;rscore=-3.30;uscore=-1.26;tscore=2.13;
+GU393337.1	Prodigal_v2.6.3	CDS	24228	24551	23.8	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.367;conf=99.58;score=23.77;cscore=17.05;sscore=6.72;rscore=3.28;uscore=0.66;tscore=2.78;
+GU393337.1	Prodigal_v2.6.3	CDS	24529	25140	21.1	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.382;conf=99.22;score=21.08;cscore=21.24;sscore=-0.16;rscore=-2.53;uscore=-0.40;tscore=2.78;
+GU393337.1	Prodigal_v2.6.3	CDS	25938	27167	105.9	+	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.464;conf=100.00;score=105.26;cscore=106.56;sscore=-1.31;rscore=-2.53;uscore=-0.90;tscore=2.78;
+GU393337.1	Prodigal_v2.6.3	CDS	27176	27400	11.4	+	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.307;conf=94.70;score=12.54;cscore=4.67;sscore=7.87;rscore=2.92;uscore=1.31;tscore=2.46;
