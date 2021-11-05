@@ -1,0 +1,25 @@
+Starting at Sun Feb 28 15:42:41 2021
+
+Sequence file = ../genbank/MG757139.fasta
+Number of sequences = 1
+ICM model file = result/glimmer/MG757139/MG757139.icm
+Excluded regions file = none
+List of orfs file = none
+Input is NOT separate orfs
+Independent (non-coding) scores are used
+Circular genome = true
+Truncated orfs = false
+Minimum gene length = 100 bp
+Maximum overlap bases = 30
+Threshold score = 30
+Use first start codon = false
+Start codons = atg,gtg,ttg
+Start probs = 0.600,0.300,0.100
+Stop codons = taa,tag,tga
+GC percentage = 37.1%
+Ignore score on orfs longer than 522
+Analyzing Sequence #1
+Start Find_Orfs
+Start Score_Orfs
+Start Process_Events
+Start Trace_Back

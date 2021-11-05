@@ -1,0 +1,25 @@
+Starting at Sun Feb 28 15:43:16 2021
+
+Sequence file = ../genbank/KX389094.fasta
+Number of sequences = 1
+ICM model file = result/glimmer/KX389094/KX389094.icm
+Excluded regions file = none
+List of orfs file = none
+Input is NOT separate orfs
+Independent (non-coding) scores are used
+Circular genome = true
+Truncated orfs = false
+Minimum gene length = 100 bp
+Maximum overlap bases = 30
+Threshold score = 30
+Use first start codon = false
+Start codons = atg,gtg,ttg
+Start probs = 0.600,0.300,0.100
+Stop codons = taa,tag,tga
+GC percentage = 38.2%
+Ignore score on orfs longer than 535
+Analyzing Sequence #1
+Start Find_Orfs
+Start Score_Orfs
+Start Process_Events
+Start Trace_Back
