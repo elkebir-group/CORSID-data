@@ -1,0 +1,235 @@
+********************************************************************************
+MEME - Motif discovery tool
+********************************************************************************
+MEME version 5.3.0 (Release date: Wed Nov 25 19:19:29 2020 -0800)
+
+For further information on how to interpret please access http://meme-suite.org.
+To get a copy of the MEME Suite software please access http://meme-suite.org.
+
+********************************************************************************
+
+
+********************************************************************************
+REFERENCE
+********************************************************************************
+If you use this program in your research, please cite:
+
+Timothy L. Bailey and Charles Elkan,
+"Fitting a mixture model by expectation maximization to discover
+motifs in biopolymers", Proceedings of the Second International
+Conference on Intelligent Systems for Molecular Biology, pp. 28-36,
+AAAI Press, Menlo Park, California, 1994.
+********************************************************************************
+
+
+********************************************************************************
+TRAINING SET
+********************************************************************************
+PRIMARY SEQUENCES= result/meme/MK581205/MK581205.seg.fasta
+CONTROL SEQUENCES= --none--
+ALPHABET= ACGT
+Sequence name            Weight Length  Sequence name            Weight Length  
+-------------            ------ ------  -------------            ------ ------  
+Leader                   1.0000    500  S                        1.0000    261  
+3a                       1.0000     43  3b                       1.0000    173  
+E                        1.0000    178  M                        1.0000     78  
+4b                       1.0000    132  4c                       1.0000    205  
+5a                       1.0000    145  5b                       1.0000    194  
+N                        1.0000    191  6b                       1.0000     64  
+********************************************************************************
+
+********************************************************************************
+COMMAND LINE SUMMARY
+********************************************************************************
+This information can also be useful in the event you wish to report a
+problem with the MEME software.
+
+command: meme result/meme/MK581205/MK581205.seg.fasta -dna -maxw 10 -oc result/meme/MK581205/ -mod zoops -nmotifs 1 
+
+model:  mod=         zoops    nmotifs=         1    evt=           inf
+objective function:           em=       E-value of product of p-values
+                              starts=   E-value of product of p-values
+strands: +
+width:  minw=            8    maxw=           10
+nsites: minsites=        2    maxsites=       12    wnsites=       0.8
+theta:  spmap=         uni    spfuzz=        0.5
+em:     prior=   dirichlet    b=            0.01    maxiter=        50
+        distance=    1e-05
+trim:   wg=             11    ws=              1    endgaps=       yes
+data:   n=            2164    N=              12
+sample: seed=            0    hsfrac=          0
+        searchsize=   2164    norand=         no    csites=       1000
+Letter frequencies in dataset:
+A 0.315 C 0.165 G 0.214 T 0.306 
+Background letter frequencies (from file dataset with add-one prior applied):
+A 0.315 C 0.165 G 0.214 T 0.306 
+Background model order: 0
+********************************************************************************
+
+
+********************************************************************************
+MOTIF ARCKTBTGBT MEME-1	width =  10  sites =  12  llr = 92  E-value = 2.2e+002
+********************************************************************************
+--------------------------------------------------------------------------------
+	Motif ARCKTBTGBT MEME-1 Description
+--------------------------------------------------------------------------------
+Simplified        A  a6311:1:::
+pos.-specific     C  ::7213::4:
+probability       G  :413:3:a31
+matrix            T  :::4839:39
+
+         bits    2.6           
+                 2.3        *  
+                 2.1        *  
+                 1.8        *  
+Relative         1.6 *      *  
+Entropy          1.3 *     ** *
+(11.0 bits)      1.0 *** * ** *
+                 0.8 *** * ****
+                 0.5 *** ******
+                 0.3 **********
+                 0.0 ----------
+
+Multilevel           AACTTCTGCT
+consensus             GAG G  T 
+sequence                  T  G 
+                               
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif ARCKTBTGBT MEME-1 sites sorted by position p-value
+--------------------------------------------------------------------------------
+Sequence name             Start   P-value               Site 
+-------------             ----- ---------            ----------
+S                           125  2.39e-06 ATTATTTACA AACTTCTGCT TATAGTGCAT
+5b                          117  4.40e-06 AGCGCACATT AACGTGTGCT AGGCGAGTGC
+3b                           53  5.79e-06 CTTTGGTTTA AACTTGTGCT AAGTTGTCTT
+5a                           51  2.41e-05 AGGTTGTTGT AGCTTGTGGT CCGATTATAA
+Leader                      472  3.19e-05 GGGTGCGAAG AACCTCTGGT TCATCTAGCG
+3a                           32  1.12e-04 ACAGACCTAA AAAGTCTGTT TA        
+N                            75  1.56e-04 GACAAGGATT AGATTGTGTT TACTTTCTTA
+4b                           42  2.03e-04 GAAATAAGAA AAGGTTTGCT ACATTTGTCT
+4c                          168  4.46e-04 TTGTGCCAAA AACTATTGTT GTTAATGGTG
+M                            56  4.46e-04 CTAAGGGTAC AGCCTTTGTG TATAAACATA
+E                           150  4.46e-04 TTTGGGAAGT AGAGTCAGCT GAAGAGTGTT
+6b                           32  7.08e-04 GGGGTGACTC AGCACTTGGT GAAAATGAAC
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif ARCKTBTGBT MEME-1 block diagrams
+--------------------------------------------------------------------------------
+SEQUENCE NAME            POSITION P-VALUE  MOTIF DIAGRAM
+-------------            ----------------  -------------
+S                                 2.4e-06  124_[+1]_127
+5b                                4.4e-06  116_[+1]_68
+3b                                5.8e-06  52_[+1]_111
+5a                                2.4e-05  50_[+1]_85
+Leader                            3.2e-05  471_[+1]_19
+3a                                0.00011  31_[+1]_2
+N                                 0.00016  74_[+1]_107
+4b                                 0.0002  41_[+1]_81
+4c                                0.00045  167_[+1]_28
+M                                 0.00045  55_[+1]_13
+E                                 0.00045  149_[+1]_19
+6b                                0.00071  31_[+1]_23
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif ARCKTBTGBT MEME-1 in BLOCKS format
+--------------------------------------------------------------------------------
+BL   MOTIF ARCKTBTGBT width=10 seqs=12
+S                        (  125) AACTTCTGCT  1 
+5b                       (  117) AACGTGTGCT  1 
+3b                       (   53) AACTTGTGCT  1 
+5a                       (   51) AGCTTGTGGT  1 
+Leader                   (  472) AACCTCTGGT  1 
+3a                       (   32) AAAGTCTGTT  1 
+N                        (   75) AGATTGTGTT  1 
+4b                       (   42) AAGGTTTGCT  1 
+4c                       (  168) AACTATTGTT  1 
+M                        (   56) AGCCTTTGTG  1 
+E                        (  150) AGAGTCAGCT  1 
+6b                       (   32) AGCACTTGGT  1 
+//
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif ARCKTBTGBT MEME-1 position-specific scoring matrix
+--------------------------------------------------------------------------------
+log-odds matrix: alength= 4 w= 10 n= 2056 bayes= 7.86193 E= 2.2e+002 
+   167  -1023  -1023  -1023 
+    89  -1023     96  -1023 
+   -33    201   -136  -1023 
+  -191      1     64     45 
+  -191    -99  -1023    145 
+ -1023    101     64     12 
+  -191  -1023  -1023    158 
+ -1023  -1023    222  -1023 
+ -1023    133     22     12 
+ -1023  -1023   -136    158 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif ARCKTBTGBT MEME-1 position-specific probability matrix
+--------------------------------------------------------------------------------
+letter-probability matrix: alength= 4 w= 10 nsites= 12 E= 2.2e+002 
+ 1.000000  0.000000  0.000000  0.000000 
+ 0.583333  0.000000  0.416667  0.000000 
+ 0.250000  0.666667  0.083333  0.000000 
+ 0.083333  0.166667  0.333333  0.416667 
+ 0.083333  0.083333  0.000000  0.833333 
+ 0.000000  0.333333  0.333333  0.333333 
+ 0.083333  0.000000  0.000000  0.916667 
+ 0.000000  0.000000  1.000000  0.000000 
+ 0.000000  0.416667  0.250000  0.333333 
+ 0.000000  0.000000  0.083333  0.916667 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif ARCKTBTGBT MEME-1 regular expression
+--------------------------------------------------------------------------------
+A[AG][CA][TG]T[CGT]TG[CTG]T
+--------------------------------------------------------------------------------
+
+
+
+
+Time  0.16 secs.
+
+********************************************************************************
+
+
+********************************************************************************
+SUMMARY OF MOTIFS
+********************************************************************************
+
+--------------------------------------------------------------------------------
+	Combined block diagrams: non-overlapping sites with p-value < 0.0001
+--------------------------------------------------------------------------------
+SEQUENCE NAME            COMBINED P-VALUE  MOTIF DIAGRAM
+-------------            ----------------  -------------
+Leader                           1.55e-02  471_[+1(3.19e-05)]_19
+S                                6.01e-04  124_[+1(2.39e-06)]_127
+3a                               3.81e-03  43
+3b                               9.49e-04  52_[+1(5.79e-06)]_111
+E                                7.26e-02  178
+M                                3.03e-02  78
+4b                               2.46e-02  132
+4c                               8.37e-02  205
+5a                               3.28e-03  50_[+1(2.41e-05)]_85
+5b                               8.14e-04  116_[+1(4.40e-06)]_68
+N                                2.80e-02  191
+6b                               3.82e-02  64
+--------------------------------------------------------------------------------
+
+********************************************************************************
+
+
+********************************************************************************
+Stopped because requested number of motifs (1) found.
+********************************************************************************
+
+CPU: ada.cs.illinois.edu
+
+********************************************************************************

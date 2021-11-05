@@ -1,0 +1,235 @@
+********************************************************************************
+MEME - Motif discovery tool
+********************************************************************************
+MEME version 5.3.0 (Release date: Wed Nov 25 19:19:29 2020 -0800)
+
+For further information on how to interpret please access http://meme-suite.org.
+To get a copy of the MEME Suite software please access http://meme-suite.org.
+
+********************************************************************************
+
+
+********************************************************************************
+REFERENCE
+********************************************************************************
+If you use this program in your research, please cite:
+
+Timothy L. Bailey and Charles Elkan,
+"Fitting a mixture model by expectation maximization to discover
+motifs in biopolymers", Proceedings of the Second International
+Conference on Intelligent Systems for Molecular Biology, pp. 28-36,
+AAAI Press, Menlo Park, California, 1994.
+********************************************************************************
+
+
+********************************************************************************
+TRAINING SET
+********************************************************************************
+PRIMARY SEQUENCES= result/meme/KR231009/KR231009.seg.fasta
+CONTROL SEQUENCES= --none--
+ALPHABET= ACGT
+Sequence name            Weight Length  Sequence name            Weight Length  
+-------------            ------ ------  -------------            ------ ------  
+Leader                   1.0000    500  S                        1.0000    261  
+3a                       1.0000     43  3b                       1.0000    173  
+E                        1.0000    175  M                        1.0000    277  
+4b                       1.0000    132  non                      1.0000    205  
+5a                       1.0000    154  5b                       1.0000    194  
+N                        1.0000    191  6b                       1.0000     64  
+********************************************************************************
+
+********************************************************************************
+COMMAND LINE SUMMARY
+********************************************************************************
+This information can also be useful in the event you wish to report a
+problem with the MEME software.
+
+command: meme result/meme/KR231009/KR231009.seg.fasta -dna -maxw 10 -oc result/meme/KR231009/ -mod zoops -nmotifs 1 
+
+model:  mod=         zoops    nmotifs=         1    evt=           inf
+objective function:           em=       E-value of product of p-values
+                              starts=   E-value of product of p-values
+strands: +
+width:  minw=            8    maxw=           10
+nsites: minsites=        2    maxsites=       12    wnsites=       0.8
+theta:  spmap=         uni    spfuzz=        0.5
+em:     prior=   dirichlet    b=            0.01    maxiter=        50
+        distance=    1e-05
+trim:   wg=             11    ws=              1    endgaps=       yes
+data:   n=            2369    N=              12
+sample: seed=            0    hsfrac=          0
+        searchsize=   2369    norand=         no    csites=       1000
+Letter frequencies in dataset:
+A 0.299 C 0.173 G 0.215 T 0.313 
+Background letter frequencies (from file dataset with add-one prior applied):
+A 0.299 C 0.173 G 0.215 T 0.313 
+Background model order: 0
+********************************************************************************
+
+
+********************************************************************************
+MOTIF AMCAAARCRG MEME-1	width =  10  sites =  12  llr = 103  E-value = 6.4e-003
+********************************************************************************
+--------------------------------------------------------------------------------
+	Motif AMCAAARCRG MEME-1 Description
+--------------------------------------------------------------------------------
+Simplified        A  9729983:6:
+pos.-specific     C  :3811:28:2
+probability       G  ::::::4238
+matrix            T  1::::21:1:
+
+         bits    2.5           
+                 2.3           
+                 2.0           
+                 1.8   *    *  
+Relative         1.5   *    * *
+Entropy          1.3 * ***  * *
+(12.4 bits)      1.0 ****** * *
+                 0.8 ****** * *
+                 0.5 ****** ***
+                 0.3 **********
+                 0.0 ----------
+
+Multilevel           AACAAAGCAG
+consensus             C    A G 
+sequence                       
+                               
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif AMCAAARCRG MEME-1 sites sorted by position p-value
+--------------------------------------------------------------------------------
+Sequence name             Start   P-value               Site 
+-------------             ----- ---------            ----------
+N                            94  9.89e-07 TTACTTTCTT AACAAAGCAG GACAAGCAGA
+4b                           23  2.68e-06 TACACTGGTG ACCAAAGCGG AAATAAGAAA
+3a                           16  4.06e-06 GTGGTAACTG AACAAAACAG ACCTAAAAAG
+Leader                       53  6.64e-06 TTTTCAACTT AACAAAACGG ACTTAAATAC
+M                           220  8.24e-06 TAAAAAACTT AACAAACCGG AGTTAGAAAC
+5b                          102  1.36e-05 TAGAACACGG ACCAAAGCGC ACATTAACGT
+E                            47  1.80e-05 CAAATAATTC AACAAATCAG TTTCGATTTA
+S                           205  7.76e-05 TTAAAAACTG AACAAAGGAC AGACTTAGTT
+3b                           87  1.85e-04 AGTGTGTTAT AACACTCCAG CAACTAATAC
+5a                          142  2.33e-04 CAAACGCTTA ACAAATACAG ACG       
+non                         135  3.17e-04 AGTTATTATT TAAAAAACAG TTTTTCCACT
+6b                            5  4.67e-04       ATGA ACCCAAGGTG ATTAACTGGG
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif AMCAAARCRG MEME-1 block diagrams
+--------------------------------------------------------------------------------
+SEQUENCE NAME            POSITION P-VALUE  MOTIF DIAGRAM
+-------------            ----------------  -------------
+N                                 9.9e-07  93_[+1]_88
+4b                                2.7e-06  22_[+1]_100
+3a                                4.1e-06  15_[+1]_18
+Leader                            6.6e-06  52_[+1]_438
+M                                 8.2e-06  219_[+1]_48
+5b                                1.4e-05  101_[+1]_83
+E                                 1.8e-05  46_[+1]_119
+S                                 7.8e-05  204_[+1]_47
+3b                                0.00019  86_[+1]_77
+5a                                0.00023  141_[+1]_3
+non                               0.00032  134_[+1]_61
+6b                                0.00047  4_[+1]_50
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif AMCAAARCRG MEME-1 in BLOCKS format
+--------------------------------------------------------------------------------
+BL   MOTIF AMCAAARCRG width=10 seqs=12
+N                        (   94) AACAAAGCAG  1 
+4b                       (   23) ACCAAAGCGG  1 
+3a                       (   16) AACAAAACAG  1 
+Leader                   (   53) AACAAAACGG  1 
+M                        (  220) AACAAACCGG  1 
+5b                       (  102) ACCAAAGCGC  1 
+E                        (   47) AACAAATCAG  1 
+S                        (  205) AACAAAGGAC  1 
+3b                       (   87) AACACTCCAG  1 
+5a                       (  142) ACAAATACAG  1 
+non                      (  135) TAAAAAACAG  1 
+6b                       (    5) ACCCAAGGTG  1 
+//
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif AMCAAARCRG MEME-1 position-specific scoring matrix
+--------------------------------------------------------------------------------
+log-odds matrix: alength= 4 w= 10 n= 2261 bayes= 7.55011 E= 6.4e-003 
+   161  -1023  -1023   -190 
+   116     95  -1023  -1023 
+   -84    227  -1023  -1023 
+   161   -105  -1023  -1023 
+   161   -105  -1023  -1023 
+   148  -1023  -1023    -91 
+    16     -5     95   -190 
+ -1023    227    -37  -1023 
+    96  -1023     63   -190 
+ -1023     -5    195  -1023 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif AMCAAARCRG MEME-1 position-specific probability matrix
+--------------------------------------------------------------------------------
+letter-probability matrix: alength= 4 w= 10 nsites= 12 E= 6.4e-003 
+ 0.916667  0.000000  0.000000  0.083333 
+ 0.666667  0.333333  0.000000  0.000000 
+ 0.166667  0.833333  0.000000  0.000000 
+ 0.916667  0.083333  0.000000  0.000000 
+ 0.916667  0.083333  0.000000  0.000000 
+ 0.833333  0.000000  0.000000  0.166667 
+ 0.333333  0.166667  0.416667  0.083333 
+ 0.000000  0.833333  0.166667  0.000000 
+ 0.583333  0.000000  0.333333  0.083333 
+ 0.000000  0.166667  0.833333  0.000000 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif AMCAAARCRG MEME-1 regular expression
+--------------------------------------------------------------------------------
+A[AC]CAAA[GA]C[AG]G
+--------------------------------------------------------------------------------
+
+
+
+
+Time  0.18 secs.
+
+********************************************************************************
+
+
+********************************************************************************
+SUMMARY OF MOTIFS
+********************************************************************************
+
+--------------------------------------------------------------------------------
+	Combined block diagrams: non-overlapping sites with p-value < 0.0001
+--------------------------------------------------------------------------------
+SEQUENCE NAME            COMBINED P-VALUE  MOTIF DIAGRAM
+-------------            ----------------  -------------
+Leader                           3.25e-03  52_[+1(6.64e-06)]_438
+S                                1.94e-02  204_[+1(7.76e-05)]_47
+3a                               1.38e-04  15_[+1(4.06e-06)]_18
+3b                               2.99e-02  173
+E                                2.99e-03  46_[+1(1.80e-05)]_119
+M                                2.21e-03  219_[+1(8.24e-06)]_48
+4b                               3.30e-04  22_[+1(2.68e-06)]_100
+non                              6.02e-02  205
+5a                               3.33e-02  154
+5b                               2.51e-03  101_[+1(1.36e-05)]_83
+N                                1.80e-04  93_[+1(9.89e-07)]_88
+6b                               2.54e-02  64
+--------------------------------------------------------------------------------
+
+********************************************************************************
+
+
+********************************************************************************
+Stopped because requested number of motifs (1) found.
+********************************************************************************
+
+CPU: ada.cs.illinois.edu
+
+********************************************************************************

@@ -1,0 +1,17 @@
+The output directory 'result/meme/MG757139/' already exists.
+Its contents will be overwritten.
+BACKGROUND: using background model of order 0
+PRIMARY (classic): n 10 p0 10 p1 0 p2 0
+SEQUENCE GROUP USAGE-- Starts/EM: p0; Trim: p0; pvalue: p0; nsites: p0,p1,p2
+SEEDS: maxwords 1112 highwater mark: seq 10 pos 98
+BALANCE: samples 10 chars 1112 nodes 1 chars/node 1112
+Initializing the motif probability tables for 2 to 10 sites...
+nsites = 2nsites = 3nsites = 4nsites = 5nsites = 6nsites = 7nsites = 8nsites = 9nsites = 10
+Done initializing.
+
+seqs=    10, min_w=  25, max_w=  196, total_size=     1112
+
+motif=1
+SEED DEPTHS: 2 4 8 10
+SEED WIDTHS: 8 10
+starts: w=8, seq=0, l=167				starts: w=8, seq=5, l=25				starts: w=10, seq=0, l=167				starts: w=10, seq=5, l=25				em: w=   8, psites=   2, iter=   0 em: w=   8, psites=   2, iter=  10 em: w=   8, psites=   4, iter=   0 em: w=   8, psites=   4, iter=  10 em: w=   8, psites=   4, iter=  20 em: w=   8, psites=   8, iter=   0 em: w=   8, psites=   8, iter=  10 em: w=   8, psites=   8, iter=  20 em: w=   8, psites=  10, iter=   0 em: w=  10, psites=   2, iter=   0 em: w=  10, psites=   4, iter=   0 em: w=  10, psites=   4, iter=  10 em: w=  10, psites=   8, iter=   0 em: w=  10, psites=   8, iter=  10 em: w=  10, psites=  10, iter=   0 em: w=  10, psites=  10, iter=  10 

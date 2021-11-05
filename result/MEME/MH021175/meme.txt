@@ -1,0 +1,222 @@
+********************************************************************************
+MEME - Motif discovery tool
+********************************************************************************
+MEME version 5.3.0 (Release date: Wed Nov 25 19:19:29 2020 -0800)
+
+For further information on how to interpret please access http://meme-suite.org.
+To get a copy of the MEME Suite software please access http://meme-suite.org.
+
+********************************************************************************
+
+
+********************************************************************************
+REFERENCE
+********************************************************************************
+If you use this program in your research, please cite:
+
+Timothy L. Bailey and Charles Elkan,
+"Fitting a mixture model by expectation maximization to discover
+motifs in biopolymers", Proceedings of the Second International
+Conference on Intelligent Systems for Molecular Biology, pp. 28-36,
+AAAI Press, Menlo Park, California, 1994.
+********************************************************************************
+
+
+********************************************************************************
+TRAINING SET
+********************************************************************************
+PRIMARY SEQUENCES= result/meme/MH021175/MH021175.seg.fasta
+CONTROL SEQUENCES= --none--
+ALPHABET= ACGT
+Sequence name            Weight Length  Sequence name            Weight Length  
+-------------            ------ ------  -------------            ------ ------  
+Leader                   1.0000    500  spike                    1.0000    280  
+3a                       1.0000     43  3b                       1.0000    173  
+envelope                 1.0000    175  membrane                 1.0000    292  
+5a                       1.0000     10  5b                       1.0000    194  
+nucleopcapsid            1.0000    191  
+********************************************************************************
+
+********************************************************************************
+COMMAND LINE SUMMARY
+********************************************************************************
+This information can also be useful in the event you wish to report a
+problem with the MEME software.
+
+command: meme result/meme/MH021175/MH021175.seg.fasta -dna -maxw 10 -oc result/meme/MH021175/ -mod zoops -nmotifs 1 
+
+model:  mod=         zoops    nmotifs=         1    evt=           inf
+objective function:           em=       E-value of product of p-values
+                              starts=   E-value of product of p-values
+strands: +
+width:  minw=            8    maxw=           10
+nsites: minsites=        2    maxsites=        9    wnsites=       0.8
+theta:  spmap=         uni    spfuzz=        0.5
+em:     prior=   dirichlet    b=            0.01    maxiter=        50
+        distance=    1e-05
+trim:   wg=             11    ws=              1    endgaps=       yes
+data:   n=            1858    N=               9
+sample: seed=            0    hsfrac=          0
+        searchsize=   1858    norand=         no    csites=       1000
+Letter frequencies in dataset:
+A 0.288 C 0.18 G 0.216 T 0.316 
+Background letter frequencies (from file dataset with add-one prior applied):
+A 0.288 C 0.18 G 0.216 T 0.316 
+Background model order: 0
+********************************************************************************
+
+
+********************************************************************************
+MOTIF AACAMWNCAG MEME-1	width =  10  sites =   9  llr = 75  E-value = 4.4e-001
+********************************************************************************
+--------------------------------------------------------------------------------
+	Motif AACAMWNCAG MEME-1 Description
+--------------------------------------------------------------------------------
+Simplified        A  9a:a76217:
+pos.-specific     C  ::8:3:29:2
+probability       G  :::::13:28
+matrix            T  1:2::32:1:
+
+         bits    2.5           
+                 2.2           
+                 2.0        *  
+                 1.7  * *   *  
+Relative         1.5  ***   * *
+Entropy          1.2 ****   * *
+(12.1 bits)      1.0 *****  * *
+                 0.7 *****  ***
+                 0.5 ****** ***
+                 0.2 ****** ***
+                 0.0 ----------
+
+Multilevel           AACAAAGCAG
+consensus              T CTA GC
+sequence                   C   
+                           T   
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif AACAMWNCAG MEME-1 sites sorted by position p-value
+--------------------------------------------------------------------------------
+Sequence name             Start   P-value               Site 
+-------------             ----- ---------            ----------
+nucleopcapsid                94  8.63e-07 TTACTTTCTT AACAAAGCAG GACAAGCACA
+envelope                     47  5.93e-06 CAAATAATTC AACAAATCAG TTTCTATTTA
+membrane                    220  1.16e-05 TAAAAAACTT AACAAACCGG AGTTAGAAAC
+3b                           87  1.16e-05 AGTGTGTTAT AACACTCCAG CAACTAATAC
+3a                           16  1.29e-05 GTGGTAACTG AACAATACAG ACCTAAAAAG
+Leader                       60  1.87e-05 TTTCCAACTT AACAAAACGG ACTTAAATAC
+spike                        96  3.16e-05 TTAGTGGAAA AACACTGCAC GCAAATTATA
+5b                           43  5.64e-04 CATCACCTGT TATAAATCAC TATTACTAAC
+5a                            1  1.06e-03          . AATACGGATG           
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif AACAMWNCAG MEME-1 block diagrams
+--------------------------------------------------------------------------------
+SEQUENCE NAME            POSITION P-VALUE  MOTIF DIAGRAM
+-------------            ----------------  -------------
+nucleopcapsid                     8.6e-07  93_[+1]_88
+envelope                          5.9e-06  46_[+1]_119
+membrane                          1.2e-05  219_[+1]_63
+3b                                1.2e-05  86_[+1]_77
+3a                                1.3e-05  15_[+1]_18
+Leader                            1.9e-05  59_[+1]_431
+spike                             3.2e-05  95_[+1]_175
+5b                                0.00056  42_[+1]_142
+5a                                 0.0011  [+1]
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif AACAMWNCAG MEME-1 in BLOCKS format
+--------------------------------------------------------------------------------
+BL   MOTIF AACAMWNCAG width=10 seqs=9
+nucleopcapsid            (   94) AACAAAGCAG  1 
+envelope                 (   47) AACAAATCAG  1 
+membrane                 (  220) AACAAACCGG  1 
+3b                       (   87) AACACTCCAG  1 
+3a                       (   16) AACAATACAG  1 
+Leader                   (   60) AACAAAACGG  1 
+spike                    (   96) AACACTGCAC  1 
+5b                       (   43) TATAAATCAC  1 
+5a                       (    1) AATACGGATG  1 
+//
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif AACAMWNCAG MEME-1 position-specific scoring matrix
+--------------------------------------------------------------------------------
+log-odds matrix: alength= 4 w= 10 n= 1777 bayes= 7.75293 E= 4.4e-001 
+   162   -982   -982   -150 
+   179   -982   -982   -982 
+  -982    211   -982    -51 
+   179   -982   -982   -982 
+   121     89   -982   -982 
+    95   -982    -96      8 
+   -38     30     63    -51 
+  -137    230   -982   -982 
+   121   -982      4   -150 
+  -982     30    185   -982 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif AACAMWNCAG MEME-1 position-specific probability matrix
+--------------------------------------------------------------------------------
+letter-probability matrix: alength= 4 w= 10 nsites= 9 E= 4.4e-001 
+ 0.888889  0.000000  0.000000  0.111111 
+ 1.000000  0.000000  0.000000  0.000000 
+ 0.000000  0.777778  0.000000  0.222222 
+ 1.000000  0.000000  0.000000  0.000000 
+ 0.666667  0.333333  0.000000  0.000000 
+ 0.555556  0.000000  0.111111  0.333333 
+ 0.222222  0.222222  0.333333  0.222222 
+ 0.111111  0.888889  0.000000  0.000000 
+ 0.666667  0.000000  0.222222  0.111111 
+ 0.000000  0.222222  0.777778  0.000000 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif AACAMWNCAG MEME-1 regular expression
+--------------------------------------------------------------------------------
+AA[CT]A[AC][AT][GACT]C[AG][GC]
+--------------------------------------------------------------------------------
+
+
+
+
+Time  0.14 secs.
+
+********************************************************************************
+
+
+********************************************************************************
+SUMMARY OF MOTIFS
+********************************************************************************
+
+--------------------------------------------------------------------------------
+	Combined block diagrams: non-overlapping sites with p-value < 0.0001
+--------------------------------------------------------------------------------
+SEQUENCE NAME            COMBINED P-VALUE  MOTIF DIAGRAM
+-------------            ----------------  -------------
+Leader                           9.12e-03  59_[+1(1.87e-05)]_431
+spike                            8.53e-03  95_[+1(3.16e-05)]_175
+3a                               4.38e-04  15_[+1(1.29e-05)]_18
+3b                               1.90e-03  86_[+1(1.16e-05)]_77
+envelope                         9.84e-04  46_[+1(5.93e-06)]_119
+membrane                         3.28e-03  219_[+1(1.16e-05)]_63
+5a                               1.06e-03  10
+5b                               9.92e-02  194
+nucleopcapsid                    1.57e-04  93_[+1(8.63e-07)]_88
+--------------------------------------------------------------------------------
+
+********************************************************************************
+
+
+********************************************************************************
+Stopped because requested number of motifs (1) found.
+********************************************************************************
+
+CPU: ada.cs.illinois.edu
+
+********************************************************************************

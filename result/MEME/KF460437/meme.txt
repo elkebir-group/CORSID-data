@@ -1,0 +1,231 @@
+********************************************************************************
+MEME - Motif discovery tool
+********************************************************************************
+MEME version 5.3.0 (Release date: Wed Nov 25 19:19:29 2020 -0800)
+
+For further information on how to interpret please access http://meme-suite.org.
+To get a copy of the MEME Suite software please access http://meme-suite.org.
+
+********************************************************************************
+
+
+********************************************************************************
+REFERENCE
+********************************************************************************
+If you use this program in your research, please cite:
+
+Timothy L. Bailey and Charles Elkan,
+"Fitting a mixture model by expectation maximization to discover
+motifs in biopolymers", Proceedings of the Second International
+Conference on Intelligent Systems for Molecular Biology, pp. 28-36,
+AAAI Press, Menlo Park, California, 1994.
+********************************************************************************
+
+
+********************************************************************************
+TRAINING SET
+********************************************************************************
+PRIMARY SEQUENCES= result/meme/KF460437/KF460437.seg.fasta
+CONTROL SEQUENCES= --none--
+ALPHABET= ACGT
+Sequence name            Weight Length  Sequence name            Weight Length  
+-------------            ------ ------  -------------            ------ ------  
+Leader                   1.0000    500  spike                    1.0000    121  
+3a                       1.0000     43  3b                       1.0000    173  
+E                        1.0000    178  M                        1.0000    149  
+4b                       1.0000     71  4c                       1.0000     24  
+5a                       1.0000    154  5b                       1.0000    194  
+N                        1.0000    191  
+********************************************************************************
+
+********************************************************************************
+COMMAND LINE SUMMARY
+********************************************************************************
+This information can also be useful in the event you wish to report a
+problem with the MEME software.
+
+command: meme result/meme/KF460437/KF460437.seg.fasta -dna -maxw 10 -oc result/meme/KF460437/ -mod zoops -nmotifs 1 
+
+model:  mod=         zoops    nmotifs=         1    evt=           inf
+objective function:           em=       E-value of product of p-values
+                              starts=   E-value of product of p-values
+strands: +
+width:  minw=            8    maxw=           10
+nsites: minsites=        2    maxsites=       11    wnsites=       0.8
+theta:  spmap=         uni    spfuzz=        0.5
+em:     prior=   dirichlet    b=            0.01    maxiter=        50
+        distance=    1e-05
+trim:   wg=             11    ws=              1    endgaps=       yes
+data:   n=            1798    N=              11
+sample: seed=            0    hsfrac=          0
+        searchsize=   1798    norand=         no    csites=       1000
+Letter frequencies in dataset:
+A 0.302 C 0.18 G 0.214 T 0.305 
+Background letter frequencies (from file dataset with add-one prior applied):
+A 0.302 C 0.18 G 0.214 T 0.305 
+Background model order: 0
+********************************************************************************
+
+
+********************************************************************************
+MOTIF MACKKAACAA MEME-1	width =  10  sites =  11  llr = 93  E-value = 1.9e-001
+********************************************************************************
+--------------------------------------------------------------------------------
+	Motif MACKKAACAA MEME-1 Description
+--------------------------------------------------------------------------------
+Simplified        A  67:::a62a9
+pos.-specific     C  4:7:1:28::
+probability       G  :3:44:2:::
+matrix            T  ::365::::1
+
+         bits    2.5           
+                 2.2           
+                 2.0           
+                 1.7      * ** 
+Relative         1.5   *  * ** 
+Entropy          1.2   *  * ***
+(12.1 bits)      1.0 **** * ***
+                 0.7 **********
+                 0.5 **********
+                 0.2 **********
+                 0.0 ----------
+
+Multilevel           AACTTAACAA
+consensus            CGTGG     
+sequence                       
+                               
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif MACKKAACAA MEME-1 sites sorted by position p-value
+--------------------------------------------------------------------------------
+Sequence name             Start   P-value               Site 
+-------------             ----- ---------            ----------
+M                            63  2.29e-06 TATGGTAAAA AACTTAACAA TACGGAATTA
+Leader                       43  2.29e-06 CTAGATTTTT AACTTAACAA AACGGACTTA
+3a                           11  5.25e-06 ATGATGTGGT AACTGAACAA TACAGACCTA
+spike                        60  5.25e-06 TTAATTTGAA AACTGAACAA AAGACAGACT
+5a                          136  1.57e-05 GACTTACAAG CGCTTAACAA ATACAGACG 
+5b                           97  2.99e-05 AAATTTAGAT CACGGACCAA GCCGCACTTT
+N                            28  6.93e-05 TAATCCTTTT CGCGGAGCAA TAGCAAGAAA
+4b                           36  1.13e-04 CGAGCTAGAA AGTGTAACAA CGGGAGGAAA
+E                            42  1.46e-04 GTGAGCAATT AATTCAACAA ATCAGTTTCG
+4c                           15  4.49e-04 TGTAACCTTT CATGTAGAAA           
+3b                          133  4.86e-04 TATTAATAAC AACTTACAAT CTAGACTGAT
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif MACKKAACAA MEME-1 block diagrams
+--------------------------------------------------------------------------------
+SEQUENCE NAME            POSITION P-VALUE  MOTIF DIAGRAM
+-------------            ----------------  -------------
+M                                 2.3e-06  62_[+1]_77
+Leader                            2.3e-06  42_[+1]_448
+3a                                5.3e-06  10_[+1]_23
+spike                             5.3e-06  59_[+1]_52
+5a                                1.6e-05  135_[+1]_9
+5b                                  3e-05  96_[+1]_88
+N                                 6.9e-05  27_[+1]_154
+4b                                0.00011  35_[+1]_26
+E                                 0.00015  41_[+1]_127
+4c                                0.00045  14_[+1]
+3b                                0.00049  132_[+1]_31
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif MACKKAACAA MEME-1 in BLOCKS format
+--------------------------------------------------------------------------------
+BL   MOTIF MACKKAACAA width=10 seqs=11
+M                        (   63) AACTTAACAA  1 
+Leader                   (   43) AACTTAACAA  1 
+3a                       (   11) AACTGAACAA  1 
+spike                    (   60) AACTGAACAA  1 
+5a                       (  136) CGCTTAACAA  1 
+5b                       (   97) CACGGACCAA  1 
+N                        (   28) CGCGGAGCAA  1 
+4b                       (   36) AGTGTAACAA  1 
+E                        (   42) AATTCAACAA  1 
+4c                       (   15) CATGTAGAAA  1 
+3b                       (  133) AACTTACAAT  1 
+//
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif MACKKAACAA MEME-1 position-specific scoring matrix
+--------------------------------------------------------------------------------
+log-odds matrix: alength= 4 w= 10 n= 1699 bayes= 8.29292 E= 1.9e-001 
+   108    102  -1010  -1010 
+   127  -1010     35  -1010 
+ -1010    202  -1010    -16 
+ -1010  -1010     77    106 
+ -1010    -98     77     84 
+   173  -1010  -1010  -1010 
+   108      2    -23  -1010 
+   -73    219  -1010  -1010 
+   173  -1010  -1010  -1010 
+   159  -1010  -1010   -174 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif MACKKAACAA MEME-1 position-specific probability matrix
+--------------------------------------------------------------------------------
+letter-probability matrix: alength= 4 w= 10 nsites= 11 E= 1.9e-001 
+ 0.636364  0.363636  0.000000  0.000000 
+ 0.727273  0.000000  0.272727  0.000000 
+ 0.000000  0.727273  0.000000  0.272727 
+ 0.000000  0.000000  0.363636  0.636364 
+ 0.000000  0.090909  0.363636  0.545455 
+ 1.000000  0.000000  0.000000  0.000000 
+ 0.636364  0.181818  0.181818  0.000000 
+ 0.181818  0.818182  0.000000  0.000000 
+ 1.000000  0.000000  0.000000  0.000000 
+ 0.909091  0.000000  0.000000  0.090909 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif MACKKAACAA MEME-1 regular expression
+--------------------------------------------------------------------------------
+[AC][AG][CT][TG][TG]AACAA
+--------------------------------------------------------------------------------
+
+
+
+
+Time  0.12 secs.
+
+********************************************************************************
+
+
+********************************************************************************
+SUMMARY OF MOTIFS
+********************************************************************************
+
+--------------------------------------------------------------------------------
+	Combined block diagrams: non-overlapping sites with p-value < 0.0001
+--------------------------------------------------------------------------------
+SEQUENCE NAME            COMBINED P-VALUE  MOTIF DIAGRAM
+-------------            ----------------  -------------
+Leader                           1.12e-03  42_[+1(2.29e-06)]_448
+spike                            5.88e-04  59_[+1(5.25e-06)]_52
+3a                               1.79e-04  10_[+1(5.25e-06)]_23
+3b                               7.66e-02  173
+E                                2.44e-02  178
+M                                3.20e-04  62_[+1(2.29e-06)]_77
+4b                               6.95e-03  71
+4c                               6.72e-03  24
+5a                               2.27e-03  135_[+1(1.57e-05)]_9
+5b                               5.51e-03  96_[+1(2.99e-05)]_88
+N                                1.25e-02  27_[+1(6.93e-05)]_154
+--------------------------------------------------------------------------------
+
+********************************************************************************
+
+
+********************************************************************************
+Stopped because requested number of motifs (1) found.
+********************************************************************************
+
+CPU: ada.cs.illinois.edu
+
+********************************************************************************

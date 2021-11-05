@@ -1,0 +1,17 @@
+The output directory 'result/meme/MH687964/' already exists.
+Its contents will be overwritten.
+BACKGROUND: using background model of order 0
+PRIMARY (classic): n 6 p0 6 p1 0 p2 0
+SEQUENCE GROUP USAGE-- Starts/EM: p0; Trim: p0; pvalue: p0; nsites: p0,p1,p2
+SEEDS: maxwords 968 highwater mark: seq 6 pos 62
+BALANCE: samples 6 chars 968 nodes 1 chars/node 968
+Initializing the motif probability tables for 2 to 6 sites...
+nsites = 2nsites = 3nsites = 4nsites = 5nsites = 6
+Done initializing.
+
+seqs=     6, min_w=  70, max_w=  220, total_size=      968
+
+motif=1
+SEED DEPTHS: 2 4 6
+SEED WIDTHS: 8 10
+starts: w=8, seq=0, l=180				starts: w=8, seq=5, l=70				starts: w=10, seq=0, l=180				starts: w=10, seq=5, l=70				em: w=   8, psites=   2, iter=   0 em: w=   8, psites=   2, iter=  10 em: w=   8, psites=   2, iter=  20 em: w=   8, psites=   2, iter=  30 em: w=   8, psites=   4, iter=   0 em: w=   8, psites=   4, iter=  10 em: w=   8, psites=   6, iter=   0 em: w=   8, psites=   6, iter=  10 em: w=  10, psites=   2, iter=   0 em: w=  10, psites=   2, iter=  10 em: w=  10, psites=   4, iter=   0 em: w=  10, psites=   4, iter=  10 em: w=  10, psites=   6, iter=   0 em: w=  10, psites=   6, iter=  10 

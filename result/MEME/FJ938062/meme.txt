@@ -1,0 +1,222 @@
+********************************************************************************
+MEME - Motif discovery tool
+********************************************************************************
+MEME version 5.3.0 (Release date: Wed Nov 25 19:19:29 2020 -0800)
+
+For further information on how to interpret please access http://meme-suite.org.
+To get a copy of the MEME Suite software please access http://meme-suite.org.
+
+********************************************************************************
+
+
+********************************************************************************
+REFERENCE
+********************************************************************************
+If you use this program in your research, please cite:
+
+Timothy L. Bailey and Charles Elkan,
+"Fitting a mixture model by expectation maximization to discover
+motifs in biopolymers", Proceedings of the Second International
+Conference on Intelligent Systems for Molecular Biology, pp. 28-36,
+AAAI Press, Menlo Park, California, 1994.
+********************************************************************************
+
+
+********************************************************************************
+TRAINING SET
+********************************************************************************
+PRIMARY SEQUENCES= result/meme/FJ938062/FJ938062.seg.fasta
+CONTROL SEQUENCES= --none--
+ALPHABET= ACGT
+Sequence name            Weight Length  Sequence name            Weight Length  
+-------------            ------ ------  -------------            ------ ------  
+Leader                   1.0000    285  S                        1.0000     89  
+ns3a                     1.0000    198  ns3b                     1.0000    160  
+ns3c                     1.0000    218  E                        1.0000    187  
+M                        1.0000     72  N                        1.0000     38  
+ns7a                     1.0000     21  ns7b                     1.0000    294  
+********************************************************************************
+
+********************************************************************************
+COMMAND LINE SUMMARY
+********************************************************************************
+This information can also be useful in the event you wish to report a
+problem with the MEME software.
+
+command: meme result/meme/FJ938062/FJ938062.seg.fasta -dna -maxw 10 -oc result/meme/FJ938062/ -mod zoops -nmotifs 1 
+
+model:  mod=         zoops    nmotifs=         1    evt=           inf
+objective function:           em=       E-value of product of p-values
+                              starts=   E-value of product of p-values
+strands: +
+width:  minw=            8    maxw=           10
+nsites: minsites=        2    maxsites=       10    wnsites=       0.8
+theta:  spmap=         uni    spfuzz=        0.5
+em:     prior=   dirichlet    b=            0.01    maxiter=        50
+        distance=    1e-05
+trim:   wg=             11    ws=              1    endgaps=       yes
+data:   n=            1562    N=              10
+sample: seed=            0    hsfrac=          0
+        searchsize=   1562    norand=         no    csites=       1000
+Letter frequencies in dataset:
+A 0.281 C 0.181 G 0.211 T 0.326 
+Background letter frequencies (from file dataset with add-one prior applied):
+A 0.281 C 0.181 G 0.212 T 0.326 
+Background model order: 0
+********************************************************************************
+
+
+********************************************************************************
+MOTIF AACTAAAC MEME-1	width =   8  sites =  10  llr = 82  E-value = 8.3e-004
+********************************************************************************
+--------------------------------------------------------------------------------
+	Motif AACTAAAC MEME-1 Description
+--------------------------------------------------------------------------------
+Simplified        A  78:2a8a1
+pos.-specific     C  1:a::1:9
+probability       G  :2::::::
+matrix            T  2::8:1::
+
+         bits    2.5   *     
+                 2.2   *     
+                 2.0   *    *
+                 1.7   * * **
+Relative         1.5   * * **
+Entropy          1.2  ** * **
+(11.8 bits)      1.0  *******
+                 0.7 ********
+                 0.5 ********
+                 0.2 ********
+                 0.0 --------
+
+Multilevel           AACTAAAC
+consensus            TG A    
+sequence                     
+                             
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif AACTAAAC MEME-1 sites sorted by position p-value
+--------------------------------------------------------------------------------
+Sequence name             Start   P-value              Site
+-------------             ----- ---------            --------
+ns7a                         12  1.87e-05 TGAGGTTACG AACTAAAC GC        
+N                            25  1.87e-05 CATATGGTGT AACTAAAC TTCTAA    
+M                            62  1.87e-05 TCTTGGTTTG AACTAAAC AAA       
+ns3a                        186  1.87e-05 CACATTCATT AACTAAAC GATTT     
+Leader                       65  1.87e-05 CACCAACTCG AACTAAAC GAAATATTTG
+S                            56  7.07e-05 AATGGTAAGT TACTAAAC TTTGGTAATC
+ns3c                        129  2.21e-04 TCATAAATAA CACAAAAC CTAAAACAGC
+E                            15  2.70e-04 TTGTAGGCAT AGCTATAC GTGGCCTAGT
+ns3b                        149  4.04e-04 GAGGAGGCTG AACAAAAA GCTT      
+ns7b                        261  4.49e-04 AGGGTTTTCC TGCTACAC ATTGTTAGGT
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif AACTAAAC MEME-1 block diagrams
+--------------------------------------------------------------------------------
+SEQUENCE NAME            POSITION P-VALUE  MOTIF DIAGRAM
+-------------            ----------------  -------------
+ns7a                              1.9e-05  11_[+1]_2
+N                                 1.9e-05  24_[+1]_6
+M                                 1.9e-05  61_[+1]_3
+ns3a                              1.9e-05  185_[+1]_5
+Leader                            1.9e-05  64_[+1]_213
+S                                 7.1e-05  55_[+1]_26
+ns3c                              0.00022  128_[+1]_82
+E                                 0.00027  14_[+1]_165
+ns3b                               0.0004  148_[+1]_4
+ns7b                              0.00045  260_[+1]_26
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif AACTAAAC MEME-1 in BLOCKS format
+--------------------------------------------------------------------------------
+BL   MOTIF AACTAAAC width=8 seqs=10
+ns7a                     (   12) AACTAAAC  1 
+N                        (   25) AACTAAAC  1 
+M                        (   62) AACTAAAC  1 
+ns3a                     (  186) AACTAAAC  1 
+Leader                   (   65) AACTAAAC  1 
+S                        (   56) TACTAAAC  1 
+ns3c                     (  129) CACAAAAC  1 
+E                        (   15) AGCTATAC  1 
+ns3b                     (  149) AACAAAAA  1 
+ns7b                     (  261) TGCTACAC  1 
+//
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif AACTAAAC MEME-1 position-specific scoring matrix
+--------------------------------------------------------------------------------
+log-odds matrix: alength= 4 w= 8 n= 1491 bayes= 7.46352 E= 8.3e-004 
+   132    -86   -997    -70 
+   151   -997     -8   -997 
+  -997    246   -997   -997 
+   -49   -997   -997    129 
+   183   -997   -997   -997 
+   151    -86   -997   -170 
+   183   -997   -997   -997 
+  -149    231   -997   -997 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif AACTAAAC MEME-1 position-specific probability matrix
+--------------------------------------------------------------------------------
+letter-probability matrix: alength= 4 w= 8 nsites= 10 E= 8.3e-004 
+ 0.700000  0.100000  0.000000  0.200000 
+ 0.800000  0.000000  0.200000  0.000000 
+ 0.000000  1.000000  0.000000  0.000000 
+ 0.200000  0.000000  0.000000  0.800000 
+ 1.000000  0.000000  0.000000  0.000000 
+ 0.800000  0.100000  0.000000  0.100000 
+ 1.000000  0.000000  0.000000  0.000000 
+ 0.100000  0.900000  0.000000  0.000000 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif AACTAAAC MEME-1 regular expression
+--------------------------------------------------------------------------------
+[AT][AG]C[TA]AAAC
+--------------------------------------------------------------------------------
+
+
+
+
+Time  0.10 secs.
+
+********************************************************************************
+
+
+********************************************************************************
+SUMMARY OF MOTIFS
+********************************************************************************
+
+--------------------------------------------------------------------------------
+	Combined block diagrams: non-overlapping sites with p-value < 0.0001
+--------------------------------------------------------------------------------
+SEQUENCE NAME            COMBINED P-VALUE  MOTIF DIAGRAM
+-------------            ----------------  -------------
+Leader                           5.19e-03  64_[+1(1.87e-05)]_213
+S                                5.78e-03  55_[+1(7.07e-05)]_26
+ns3a                             3.57e-03  185_[+1(1.87e-05)]_5
+ns3b                             6.00e-02  160
+ns3c                             4.56e-02  218
+E                                4.74e-02  187
+M                                1.22e-03  61_[+1(1.87e-05)]_3
+N                                5.80e-04  24_[+1(1.87e-05)]_6
+ns7a                             2.62e-04  11_[+1(1.87e-05)]_2
+ns7b                             1.21e-01  294
+--------------------------------------------------------------------------------
+
+********************************************************************************
+
+
+********************************************************************************
+Stopped because requested number of motifs (1) found.
+********************************************************************************
+
+CPU: ada.cs.illinois.edu
+
+********************************************************************************

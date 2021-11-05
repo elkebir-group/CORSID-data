@@ -1,0 +1,223 @@
+********************************************************************************
+MEME - Motif discovery tool
+********************************************************************************
+MEME version 5.3.0 (Release date: Wed Nov 25 19:19:29 2020 -0800)
+
+For further information on how to interpret please access http://meme-suite.org.
+To get a copy of the MEME Suite software please access http://meme-suite.org.
+
+********************************************************************************
+
+
+********************************************************************************
+REFERENCE
+********************************************************************************
+If you use this program in your research, please cite:
+
+Timothy L. Bailey and Charles Elkan,
+"Fitting a mixture model by expectation maximization to discover
+motifs in biopolymers", Proceedings of the Second International
+Conference on Intelligent Systems for Molecular Biology, pp. 28-36,
+AAAI Press, Menlo Park, California, 1994.
+********************************************************************************
+
+
+********************************************************************************
+TRAINING SET
+********************************************************************************
+PRIMARY SEQUENCES= result/meme/AC_000192/AC_000192.seg.fasta
+CONTROL SEQUENCES= --none--
+ALPHABET= ACGT
+Sequence name            Weight Length  Sequence name            Weight Length  
+-------------            ------ ------  -------------            ------ ------  
+Leader                   1.0000    214  p30                      1.0000     24  
+hemagglutinin-esterase   1.0000     66  spike                    1.0000     18  
+accessory                1.0000    102  envelop                  1.0000    316  
+membrane                 1.0000     55  nucleocapsid             1.0000    181  
+internal                 1.0000    252  
+********************************************************************************
+
+********************************************************************************
+COMMAND LINE SUMMARY
+********************************************************************************
+This information can also be useful in the event you wish to report a
+problem with the MEME software.
+
+command: meme result/meme/AC_000192/AC_000192.seg.fasta -dna -maxw 10 -oc result/meme/AC_000192/ -mod zoops -nmotifs 1 
+
+model:  mod=         zoops    nmotifs=         1    evt=           inf
+objective function:           em=       E-value of product of p-values
+                              starts=   E-value of product of p-values
+strands: +
+width:  minw=            8    maxw=           10
+nsites: minsites=        2    maxsites=        9    wnsites=       0.8
+theta:  spmap=         uni    spfuzz=        0.5
+em:     prior=   dirichlet    b=            0.01    maxiter=        50
+        distance=    1e-05
+trim:   wg=             11    ws=              1    endgaps=       yes
+data:   n=            1228    N=               9
+sample: seed=            0    hsfrac=          0
+        searchsize=   1228    norand=         no    csites=       1000
+Letter frequencies in dataset:
+A 0.283 C 0.214 G 0.223 T 0.28 
+Background letter frequencies (from file dataset with add-one prior applied):
+A 0.282 C 0.214 G 0.223 T 0.28 
+Background model order: 0
+********************************************************************************
+
+
+********************************************************************************
+MOTIF TAATCTAAAC MEME-1	width =  10  sites =   9  llr = 83  E-value = 8.5e-004
+********************************************************************************
+--------------------------------------------------------------------------------
+	Motif TAATCTAAAC MEME-1 Description
+--------------------------------------------------------------------------------
+Simplified        A  2a91:18991
+pos.-specific     C  ::1:a1:::7
+probability       G  ::::::::::
+matrix            T  8::9:82112
+
+         bits    2.2     *     
+                 2.0     *     
+                 1.8  *  *     
+                 1.6  *  *     
+Relative         1.3  ****  ** 
+Entropy          1.1 ***** *** 
+(13.3 bits)      0.9 **********
+                 0.7 **********
+                 0.4 **********
+                 0.2 **********
+                 0.0 ----------
+
+Multilevel           TAATCTAAAC
+consensus            A     T  T
+sequence                       
+                               
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif TAATCTAAAC MEME-1 sites sorted by position p-value
+--------------------------------------------------------------------------------
+Sequence name             Start   P-value               Site 
+-------------             ----- ---------            ----------
+nucleocapsid                165  1.79e-06 GTTGAGAATC TAATCTAAAC TTTAAGG   
+spike                         9  1.79e-06   ATGAGGCA TAATCTAAAC           
+Leader                       67  1.79e-06 AAATCTAATC TAATCTAAAC TTTATAAACG
+accessory                    40  5.38e-06 GAAAGACAGA AAATCTAAAC AATTTATAGC
+membrane                     43  9.09e-06 GATGATAATA TAATCCAAAC ATT       
+p30                          10  4.62e-05  ATGTTAAAT AAATCTATAC TTGTC     
+internal                     92  6.16e-05 GCGGGTTAAA TAATCAAAAT AGAGGCAGAA
+envelop                     171  1.79e-04 CAGCGCAGTT TACTCTTAAA AGTTGCGAAA
+hemagglutinin-esterase       46  3.94e-04 ATTAGTGTAA TAAACTTATT ATTTTGTTGA
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif TAATCTAAAC MEME-1 block diagrams
+--------------------------------------------------------------------------------
+SEQUENCE NAME            POSITION P-VALUE  MOTIF DIAGRAM
+-------------            ----------------  -------------
+nucleocapsid                      1.8e-06  164_[+1]_7
+spike                             1.8e-06  8_[+1]
+Leader                            1.8e-06  66_[+1]_138
+accessory                         5.4e-06  39_[+1]_53
+membrane                          9.1e-06  42_[+1]_3
+p30                               4.6e-05  9_[+1]_5
+internal                          6.2e-05  91_[+1]_151
+envelop                           0.00018  170_[+1]_136
+hemagglutinin-esterase            0.00039  45_[+1]_11
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif TAATCTAAAC MEME-1 in BLOCKS format
+--------------------------------------------------------------------------------
+BL   MOTIF TAATCTAAAC width=10 seqs=9
+nucleocapsid             (  165) TAATCTAAAC  1 
+spike                    (    9) TAATCTAAAC  1 
+Leader                   (   67) TAATCTAAAC  1 
+accessory                (   40) AAATCTAAAC  1 
+membrane                 (   43) TAATCCAAAC  1 
+p30                      (   10) AAATCTATAC  1 
+internal                 (   92) TAATCAAAAT  1 
+envelop                  (  171) TACTCTTAAA  1 
+hemagglutinin-esterase   (   46) TAAACTTATT  1 
+//
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif TAATCTAAAC MEME-1 position-specific scoring matrix
+--------------------------------------------------------------------------------
+log-odds matrix: alength= 4 w= 10 n= 1147 bayes= 7.11767 E= 8.5e-004 
+   -35   -982   -982    147 
+   182   -982   -982   -982 
+   165    -95   -982   -982 
+  -134   -982   -982    167 
+  -982    222   -982   -982 
+  -134    -95   -982    147 
+   146   -982   -982    -33 
+   165   -982   -982   -133 
+   165   -982   -982   -133 
+  -134    164   -982    -33 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif TAATCTAAAC MEME-1 position-specific probability matrix
+--------------------------------------------------------------------------------
+letter-probability matrix: alength= 4 w= 10 nsites= 9 E= 8.5e-004 
+ 0.222222  0.000000  0.000000  0.777778 
+ 1.000000  0.000000  0.000000  0.000000 
+ 0.888889  0.111111  0.000000  0.000000 
+ 0.111111  0.000000  0.000000  0.888889 
+ 0.000000  1.000000  0.000000  0.000000 
+ 0.111111  0.111111  0.000000  0.777778 
+ 0.777778  0.000000  0.000000  0.222222 
+ 0.888889  0.000000  0.000000  0.111111 
+ 0.888889  0.000000  0.000000  0.111111 
+ 0.111111  0.666667  0.000000  0.222222 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif TAATCTAAAC MEME-1 regular expression
+--------------------------------------------------------------------------------
+[TA]AATCT[AT]AA[CT]
+--------------------------------------------------------------------------------
+
+
+
+
+Time  0.08 secs.
+
+********************************************************************************
+
+
+********************************************************************************
+SUMMARY OF MOTIFS
+********************************************************************************
+
+--------------------------------------------------------------------------------
+	Combined block diagrams: non-overlapping sites with p-value < 0.0001
+--------------------------------------------------------------------------------
+SEQUENCE NAME            COMBINED P-VALUE  MOTIF DIAGRAM
+-------------            ----------------  -------------
+Leader                           3.68e-04  34_[+1(8.05e-05)]_22_[+1(1.79e-06)]_\
+    138
+p30                              6.94e-04  9_[+1(4.62e-05)]_5
+hemagglutinin-esterase           2.22e-02  66
+spike                            1.61e-05  8_[+1(1.79e-06)]
+accessory                        5.00e-04  39_[+1(5.38e-06)]_53
+envelop                          5.36e-02  316
+membrane                         4.18e-04  42_[+1(9.09e-06)]_3
+nucleocapsid                     3.08e-04  164_[+1(1.79e-06)]_7
+internal                         1.49e-02  91_[+1(6.16e-05)]_151
+--------------------------------------------------------------------------------
+
+********************************************************************************
+
+
+********************************************************************************
+Stopped because requested number of motifs (1) found.
+********************************************************************************
+
+CPU: ada.cs.illinois.edu
+
+********************************************************************************
