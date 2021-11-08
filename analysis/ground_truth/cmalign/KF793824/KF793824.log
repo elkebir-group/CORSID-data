@@ -1,0 +1,18 @@
+# cmalign :: align sequences to a CM
+# INFERNAL 1.1.4 (Dec 2020)
+# Copyright (C) 2020 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# CM file:                                     data/cmfiles/RF03118.cm
+# sequence file:                               result/ground_truth/cmalign/KF793824/KF793824.leader.fasta
+# CM name:                                     gCoV-5UTR
+# saving alignment to file:                    result/ground_truth/cmalign/KF793824/KF793824.stk
+# number of worker threads:                    28
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+#                                                                            running time (s)                 
+#                                                                     -------------------------------          
+# idx  seq name    length  cm from    cm to  trunc    bit sc  avg pp  band calc  alignment      total  mem (Mb)
+# ---  ----------  ------  -------  -------  -----  --------  ------  ---------  ---------  ---------  --------
+    1  KF793824.1     520        1      119     3'      9.50   0.620       0.02       1.85       1.88    125.14
+#
+# CPU time: 1.84u 0.18s 00:00:02.02 Elapsed: 00:00:02.02
