@@ -1,0 +1,1822 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+KP757890        ACATGGGGACTAAAGATAAAAAT---TATAGCATTAGTCTATAATTTTAT--CTCCCTAG
+KX998969        ACATGGGGACTAAAGATAAAAAT---TATAGCATTAGTCTATAATTTTAT--CTCCCTAG
+KX834351        ACATGGGGACTAAAGATAAAAAT---TATAGCACTAGTCTATAATTTTAT--CTCCCTAG
+KU051641        ACATGGGGACTAAAGATAAAAAT---TATAGCACTAGTCTATAATTTTAT--CTCCCTAG
+KX443143        ACATGGGGACTAAAGATAAAAAT---TATAGCATTAGTCTATAATTTTAT--CTCCCTAG
+MK005882        ACATGGGGACTAAAGATAAAAAT---TATAGCATTAGTCTATTATTTTAT--CTCCCTAG
+NC_039208       -------GACTAAAGATAAAAAT---TATAGCATTAGTCTATAATTTTAT--CTCCCTAG
+NC_011550       -------GACAAAAGATAAAAAT---TATA---CACGTATA-ATTTTTGT--CTCTCTAG
+NC_016993       -------GACTAAAGATAAAAAT---TATA---TACGTATA-ATTTTTGT--CTCTCTAG
+NC_016992       --------------GGTAAAAAT---TTAT---ATTATATA-ATTTTTAT--CTCCCTAG
+MG812377        -----------------------------------------TTTTACCTT--C--TCTAG
+MG812378        ----------------TAAAAAT---TATAT--TATATAATTTTTACCTT--C--TCTAG
+MG812375        ----------------TAAAAAT---TATAT--TATATAATTTTTACCTC--C--TCTAG
+MH532440        ----------------------------------------------CCTT--CAGTCTAG
+NC_016991       --------GACAAAGCTGAAAAT---CA-ATACGTCATACGTATTGCTCA--GCCTCTAG
+FJ376620        --------GACAAAGCTCAAAATCAATACGTTATACGTATTGTATTTTGTAGCCCTCTAG
+NC_011547       --------GACAAAGCTCAAAATCAATACGTTATACGTATTGTATTTTGTAGCCCTCTAG
+NC_011549       --------GTCATTGCGTAAAAT----ATATTATATATAT---ATTTTGCTGCAACCTAG
+                                                                        ****
+
+KP757890        CTTCGCTAGTTCTCTACCGACACCAATCCAGGTGCGTCTGC------------CACCAAG
+KX998969        CTTCGCTAGTTCTCTACCGACACCAATCCAGGTGCGTCTGC------------CATCAAG
+KX834351        CTTCGCTAGTTCTCTACCGACACCAATCCAGGTGCGTCTGC------------CACCAAG
+KU051641        CTTCGCTAGTTCTCTACCGACACCAATCCAGGTGCGTTTGC------------CACCAAG
+KX443143        CTTCGCTAGTTCTCTACCGACACCAATCCAGGTGCGTCTGC------------CACCAAG
+MK005882        CTTCGCTAGTTCTCTACCGACACCAATCCAGGTGCGTCTGC------------CACCAAG
+NC_039208       CTTCGCTAGTTCTCTACCGACACCAATCCAGGTGCGTCTGC------------CACCAAG
+NC_011550       CTTCGCTAGTTCGCTACCGACACCAATCCAGGTGCGCCGCCATTACTTGCTCCCGTTTTG
+NC_016993       CTTCGCTAGTTCGCTACCGACACCAATCCAGGTGCATCGCCATTGTCCTCTCCCTTCGGG
+NC_016992       CTTCGCTAGTTCGCTACCGACACCAATCCAGGTGCGTTGC--------------TTCAAG
+MG812377        CTTCGCTAGTTCGCTACCGACACCAATCCAGGTGCTTTT------------GCCGTCAGG
+MG812378        CTTCGCTAGTTCGCTACCGACACCAATCCAGGTGCTTTT------------GCCGTCAGG
+MG812375        CTTCGCTAGTTCGCTACCGACACCAATCCAGGTGCTTTT------------GCCGTCAGG
+MH532440        CTTCGCTAGTTCGCTACCGACACCAATCCAGGTGCTTTTT-----------GCCGTCAGG
+NC_016991       CTTCGCTAGCTCGATTCCGACACCAATCCAGGTGCGTTGTG------------CCTTAGG
+FJ376620        CTTCGCTAGCTCGATTCCGACACCAATCCAGGTGCGTTGTGCTGGACAGTGCCTGCCCGG
+NC_011547       CTTCGCTAGCTCGATTCCGACACCAATCCAGGTGCGTTGTGCTGGACAGTGCCTGCCCGG
+NC_011549       CTTCGCTAGTCCGATTCCGACACCAATCCAGGTGCGTTGCGTTGGCCTGTGTGCGCCCGG
+                *********  *  * *******************                        *
+
+KP757890        ---------------------TTGGCTACCCTTCCTA---------------GGGG----
+KX998969        ---------------------TTGGCTACCCTTCCCA---------------GGGG----
+KX834351        ---------------------TTGGCTACCCTTC------------------GGGG----
+KU051641        ---------------------TTGGCTACCCTT---A---------------GGGG----
+KX443143        ---------------------TTGGCTACCCTTCTCA---------------GGGG----
+MK005882        ---------------------TTGGCTACCCTTTTCA---------------GGGG----
+NC_039208       ---------------------TTGGCTACCCTTTCTA---------------GGGG----
+NC_011550       GCAGCCTTTGGCTGACC-TACTTGGTCACTGCCGCACAAAAGCAG----C--AGAGTT--
+NC_016993       GCAGCGTTGGCTTGCCAGTGCTCGGTCACCAGTGCCACCAAACGG----CCTGGGGCT--
+NC_016992       ---------------------TTGGCTACCCATCCCA---------------GGGG----
+MG812377        ---------------------CTGTCTACCCTTTAC----------------GGGG----
+MG812378        ---------------------CTGTTTACCCTTCAC----------------GGGG----
+MG812375        ---------------------CTGTCTACCCTTCAC----------------GGGG----
+MH532440        ---------------------CTGTCTACCCCATCA----------------GGGG----
+NC_016991       ---------------------CTGGCTGCCCTT--------------------GTG----
+FJ376620        TTT----AGTGACTTACAGATTTGATCACGCCTAACCACAGTTCA---TTGTGGAGTTTC
+NC_011547       TTT----AGTGACTTACAGATTTGATCACGCCTAACCACAGTTCA---TTGTGGAGTTTC
+NC_011549       TG-----AGTGGTGCAAGAGTTTGATCACGCCTAACCGTAACATAAAGTTGCGGAGTTTT
+                                       *    *                        * *    
+
+KP757890        CGCTT---------TCGCGCTTGCTCACCAT------------------TAGATTACCTG
+KX998969        CGCTT---------TCGCGCTTGCTCACCAT------------------TAGATTACCTG
+KX834351        CGCTT---------TAGCGCTTGCTCACCAT------------------TAGATTACCTG
+KU051641        CGCTT---------TTGCGCTTGCTCACCAT------------------TAGATTACCTG
+KX443143        CGCTT---------TGGCGCTTGCTCACCAT------------------TAGATTACCTG
+MK005882        CGCTT---------TTGCGCTTGCTCACCAT------------------TAGATTACCTG
+NC_039208       CGCTT---------TTGCGCTTGCTCACCAT------------------TAGATTACCTG
+NC_011550       CGCCGAGGACGGTTTTCAGCTCTTTGGCTGTG-------TGGGTTGAACTGGACCACTTA
+NC_016993       CGCTG-----GGCTCTCCTCGTCTTCGCTGTG-------TGTCTAGGGCGGGATTACTCA
+NC_016992       CGCTG---------TTGCGCTTGCTCACCAT------------------TAGATTACCTG
+MG812377        CGCCC-------TTTGGCGTGTGCTAACCCG------------------GGGACCATCTG
+MG812378        CGCCC-------TTTGGCGTGTGCTAACCTG------------------GGGACCATCTG
+MG812375        CGCCC-------TTTGGCGTGTGCTAACCAG------------------GGGACCATCTG
+MH532440        CGCCT-------TTTGGCGTGTGCTAACCCG------------------AGGACTATCTG
+NC_016991       -GCTT-----------TAGTTTGTTCAAAGT-------------------GAACTACT--
+FJ376620        GGCT-GTTGATTGTCTGTTTGTTGCAACGGGGTCTTACTGTGTTCTTTGAGGACTACCTA
+NC_011547       GGCT-GTTGATTGTCTGTTTGTTGCAACGGGGTCTTACTGTGTTCTTTGAGGACTACCTA
+NC_011549       GGTTTGTTGATTGCTCTAGCGCTGCGACGGGA-CTTGTTGTGTTCATACAATACTACCTG
+                 *                                                  *  *    
+
+KP757890        GAAACCAG--CCATTCA--GGTTGGAGTTTCCC-CAGGCTCTTTTGTGTGGGCATTAGCG
+KX998969        GAAACCAG--CCATTCA--GGTTGGAGTTTCCC-CAGGCTCTTTTGTGTGGGCATTAGCG
+KX834351        GAAACCAG--CCATTCA--GGTTGGAGTTTCCC-CAGGCTCTTTTGTGTGGGCATTAGCG
+KU051641        GAAACCAG--CCATTCA--GGTTGGAGTTTCCC-CAGGCTCTTTTGTGTGGGCATTAGCG
+KX443143        GAAACCAG--CCATTCA--GGTTGGAGTTTCCC-CAGGCTCTCTTGTGTGGGCATTAGCG
+MK005882        GAAACCAG--CCATTCA--GGTTGGAGTTTCCC-CAGGCTCTTTTGTGTGGGCATTAGCG
+NC_039208       GAAACCAG--CCATTCA--GGTTGGAGTTTCCC-CAGGCTCTTTTGTGTGGGCATTAGCG
+NC_011550       GTCACCGGTGCCATAAA--GGCCTGGAGTTCGC-TAAGCTCCCGTTTAGCCTACAGTGCA
+NC_016993       GTTACCAGAGCCACCACACGGCCTGGGGTTCGC-TGAGCTCCCTTCCTCGTCACGAGACC
+NC_016992       GAAACCAG--CCACTCA--GGTTGGAGTTTCCC-CAGGCTCTTTTGCGTGGGCATTGGCC
+MG812377        GCCACCAG--CCATTCA---GGTTGGAATTTCC-CAGACTC-CTCGCGTTGGCACTAGCT
+MG812378        GCCACCAG--CCATTCA---GGTTGGAATTTCC-CAGACTC-CTCGCGTTGGCACTAGCT
+MG812375        GCCACCAG--CCACTCA---GGTTGGAATTTCC-CAGACTC-CTCGCGTTGGCACTAGCT
+MH532440        GTCACCAT--CCATTCA---GGTTGGAATTTCC-CAGACTC-CTTGCGCTGGCACTAGCA
+NC_016991       GGCGGTAACTGCACACAAAGTGCAGATCTTCCCGCTGGCTTCACTTCTGAGCAACGGTCA
+FJ376620        GGTAACAC-CACATTCA--GTG-GTGGTTTTCCCTAGGCTCCTTATTAGGGCACCAGACA
+NC_011547       GGTAACAC-CACATTCA--GTG-GTGGTTTTCCCTAGGCTCCTTATTAGGGCACCAGACA
+NC_011549       TGCAACCCACTCATTTA--GAGTGGGAGTTTCCACAGGCTATTGTTTTGGGCACCGTGCA
+                           **               **  *     **                  * 
+
+KP757890        GCTTGTGG-TTTTTGCACAAAATCTAAGCTACTTACC---GTTCCTCTGACCATCCACCA
+KX998969        GCTTGTGG-TTTTTGCACAAAATCTAAGCTACTTACC---GTTCCTCTGACCATCCACCA
+KX834351        GCTTGTGG-TTTTTGCACAAAATCTAAGCTACTTACC---GTTCCTCTGACCATCCACCA
+KU051641        GCTTGTGG-TTTTTGCACAAAATCTAAGCTACTTACC---GTTCCTCTGACCATCCACCA
+KX443143        ACTTGTGG-TTTTTGCACAAAATCTAAGCTACTTACC---GTTCCTCTGACCATCCACCA
+MK005882        GCTTGTGG-TTTTTGCACAAAATCTAAGCTACTTACC---GTTCCTCTGACCATCCACCA
+NC_039208       GCTTGTGG-TTTTTGCACAAAATYTAAGCTACTTACC---GTTCCTCTGACCATCCACCA
+NC_011550       GATAGTGGCTTTTTGCACTATTTACCTTTATTTGTG----GTTCCTCTGACCGTTCACCA
+NC_016993       GATAGTGG-TTTTCGCACTATTCTCTCTCTTCTCTGTTTTGTTCCTCTGGCCCTCTACCA
+NC_016992       GCTTGTGG-CTTTTGCACAAAATTTCAGCTACTTTCA---GTTCCTCTGGCCGTTTACCT
+MG812377        GTCTTCGG-CTTTTGCACTATTTTCTTCTCATTTGTA---GTTCCTCTGACCATTTACCA
+MG812378        GTCTTCGG-CTTTTGCACTATTTTCTTTTCATCTTTA---GTTCCTCTGACCGTTTACCA
+MG812375        GTCCTCGG-CTTTTGCACTATTTTCTT-TCATCTGCA---GTTCCTCTGGCCGTTTACCA
+MH532440        GTCTACGG-CTATTGCACTATTTTCCT--CATTATCA---GTTCCTCTGACCATTCAACA
+NC_016991       GTCTCTGG--ACTTGCACAAAACTTCTACTCTTA------GTTCCGCTGCCTATACACCA
+FJ376620        TTGCCAGA-CTTTTGCACTATTCTAAAATCTTTA------GTTCCTCTAACCATACACCT
+NC_011547       TTGCCAGA-CTTTTGCACTATTCTAAAATCTTTA------GTTCCTCTAACCATACACCT
+NC_011549       CAGCCAAA-CTTT-GCACAACTTCTTTAATTTTG------ATTCCTCTGACCATATACCT
+                            * **** *                     **** **  *  *  * * 
+
+KP757890        CTTCTATAGACAGCACTG-ACTACCGTAGGGTTTAAGTCACACCGG--TCTGCACCGCCC
+KX998969        CTTCTATAGACAGCACTG-ACTACCGTAGGGTTTAAGTCACACCGG--TCTGCACCGCCC
+KX834351        CTTCTATAGACAGCACTG-ACTACCGTAGGGTTTAAGTCACACCGG--TCTGCACCGCCC
+KU051641        CTTCTATAGACAGCACTG-ATTACCGTAGGGTTTA-GTCACACCGG--TTTGCACCGCCC
+KX443143        CTTCTATAGACAGCACTG-ACTACCGTAGGGTTTAAGTCACACCGG--TCTGCACCGCCC
+MK005882        CTTCTATAGACAGCACTG-ACTACCGTAGGGTTTAAGTCACACCGG--TCTGCACCGCCC
+NC_039208       CTTCTATAGACAGCACTG-ACTACCGTAGGGTTTAAGTCACACCGG--TCTGCACCGCCC
+NC_011550       ACTCTATAGACAGCGCAG-ATTACTGTAGGGTT-AAGTTGCACCGGTATTCGCACCGCCC
+NC_016993       ACTCTATAGACAGCTCGG-ATTACTGTAGGGTT-AAGCTGTACCGG--TCTGCACCGCCC
+NC_016992       CCTCTATAGACAGCACTG-ACCACCGTAGGGTTCAAGTCACACCGG--TCTGCACCGCCC
+MG812377        CCTCTATAGACAGCGCGG-ATTACCGTAGGGTTTAAGTCACACCGG--TCTGCACCGCCC
+MG812378        CCTCTATAGACAGCACGG-ATTACCGTAGGGTTTAAGTCACACCGG--TTTGCACCGCCC
+MG812375        CCTCTATAGACAGCACGG-ATTACCGTAGGGTTTAAGTCGCACCGG--TCTGCACCGCCC
+MH532440        CCTCTATAGACAGTACGG-ACTACCGTAGGGTTGAAGTCACACCGG--TCTGCACCGCCC
+NC_016991       ACTCTGTAAACACCAGTG-ACCACCGTAGGGTT-AATTGCTACCGC--TCTGCACCGGCC
+FJ376620        ACTTGCTGAGCTTCAGTGCATTACTGTAGGGTT-AATTGGTACCGG--TCTGCACCGCCC
+NC_011547       ACTTGCTGAGCTTCAGTGCATTACTGTAGGGTT-AATTGGTACCGG--TCTGCACCGCCC
+NC_011549       GTTTGTTGAGCATCAGTGCACCACTGTAGGGTT-AATTGCTACCGG--TCTGCACCGCCC
+                  *   *   *      * *  ** ******** *      ****   *  ****** **
+
+KP757890        GTCAGCGGACACAT-TACCCAGCATAGCACTCCTTGCACCGAGCCTAGGTAGGATAAAAC
+KX998969        GTCAGCGGACACAT-TACCCAGCATAGCACTCCTTGCACCGAGCCTAGGTAGGATAAAAC
+KX834351        GTCAGCGGACACAT-TACCCAGCATAGCACTCCTTGCACCGAGCCTAGGTAGGATAAAAC
+KU051641        GTCAGCGGACACAT-TACCCAGCATAGCACTCCTTGCACCGAGCCTAGGTAGGATAAAAC
+KX443143        GTCAGCGGACACAT-TACCCAGCATAGCACTCCTTGCACCGAGCCTAGGTAGGATAAAAC
+MK005882        GTCAGCGGACACAT-TACCCAGCATAGCACTCCTTGCACCGAGCCTAGGTAGGATAAAAC
+NC_039208       GTCAGCGGACACAT-TACCCAGCATAGCACTCCTTGCACCGAGCCTAGGTAGGATAAAAC
+NC_011550       GTCAGCGGACGCAT-TATCCAGCATAGCACTCCTTGCATCGAGCCTAGGTAGGATAAAAC
+NC_016993       GTCAGCGGACACGT-TATCCAGCATAGCACTCCTTGCACCGAGCCTAGGTAGGATAAAAC
+NC_016992       GTCAGCGGACACGT-TACCCAGCATAGCACTCCTTGCACCGAGCCTAGGTAGGATAAAAC
+MG812377        GTCAGCGGACACAT-TGCCCAGCATAGCACTCCTTGCACCGAGCCTAGATAGGATAAAAC
+MG812378        GTCAGCGGACACAT-TGCCCAGCATAGCACTCCTTGCACCGAGCCTAGATAGGATAAAAC
+MG812375        GTCAGCGGACACAT-TGCCCAGCATAGCACTCCTTGCACTGAGCCTAGATAGGATAAAAC
+MH532440        GTCAGCGGACACAT-TGCCCAGCATAGCACTCCTTGCACCGAGCCTAGATAGGATAAAAC
+NC_016991       GTCAGTGGACACAT-TACCCAGCATAGCACTCCCTAGTCCGAGCCAAGG--------GGT
+FJ376620        GTCAGCGGAAGTGTATAGTGAGCACAGCACTCCTTGCACCGAGCCTAGTACGGATAAAAC
+NC_011547       GTCAGCGGAAGTGTATAGTGAGCACAGCACTCCTTGCACCGAGCCTAGTACGGATAAAAC
+NC_011549       GTCAGCGGAGGTGT-TAGTGGGCATAGCACTCCTTGCACCGCGCCAAGTGC---------
+                ***** ***    * *     *** ******** *     * *** **            
+
+KP757890        CCCCTACCGGGTGACTCTTAAGGCGTTTCCTCCACGGGATAGCCACTAGTCACTAGGTGT
+KX998969        CCCCTACCGGGTGACTCTTAAGGCGTTTCCTCCACGGGATAGCCACTAGTCACTAGGTGT
+KX834351        CCCCTACCGGGTGACTCTTAAGGTGTTTCCTCCACGGGATAGCCACTAGTCACTAGGTGT
+KU051641        CCCCTACCGGGTGACTCTTAAGGCGTTTCCTCCACGGGATAGCCACTAGTCACTAGGTGT
+KX443143        CCCCTACCGGGTGACTCTTAAGGCGTTTCCTCCACGGGATAGCCACTAGTCACTAGGTGT
+MK005882        CCCCTACCGGGTGACTCTTAAGGCGTTTCCTCCACGGGATAGCCACTAGTCACTAGGTGT
+NC_039208       CCCCTACCGGGTGACTCTTAAGGCGTTTCCTCCACGGGATAGCCACTAGTCACTAGGTGT
+NC_011550       CCCCTACCGGGTCACTTTTAAGGCGTTTCCTCCACGGGATAGCCACTAGTGACTAGGTGT
+NC_016993       CCCCTACCGGGTCACTCTTAAGGCGTTTCCTGCACGGGATAGCCACTAGTGACTAGGTGT
+NC_016992       CCCCTACCGGGTCACTCTTAAGGCGTTTCCTCCGTGGGATAGCCACTAGTGACTAGGTGT
+MG812377        CCCCTATCGGGTCACTCTTAAGGCGTTTCCTCCACGGGATAGCCACTAGTGACTAGGTGT
+MG812378        CCCCTATCGGGTCACTTTTAAGGCGTTTCCTCCACGGGATAGCCACTAGTGACTAGGTGT
+MG812375        CCCCTATCGGGTCACTCTTAAGGCGTTTCCTCCACGGGATAGCCACTAGTGACTAGGTGT
+MH532440        CCCCTATCGGGTCGCTCTTAAGGCGTTTCCTCCACGGGATAGCCACTAGTGACTAGGTGT
+NC_016991       TCGCT-CCGGGTTGCATCTAAGCTGTTCCCTCCACGGGGTAGGCATTTGCAATTAGGGCT
+FJ376620        CCCCGTACGGGTGACTCCTAAGCCGTTCCATTCGCGTGGTAGGCATTAGTCACTAGGTGT
+NC_011547       CCCCGTACGGGTGACTCCTAAGCCGTTCCATTCGCGTGGTAGGCATTAGTCACTAGGTGT
+NC_011549       -TTTGCACGGGTGGCTTCTAAACCGTTTCTTCCACGAGATAGGTATTAGCCATTAGGTGT
+                       *****  *   ***   *** * * *  * * ***  * * *  * ****  *
+
+KP757890        AAGTGATCTGATCTG-GGCGTATTGTGTTGCGCAAGTGTGATACCCATAGGAGCGTGGAA
+KX998969        AAGTGATCTGATCTG-GGCGTATTGTGTTGCGCAAGTGTGATACCCATAGGAGCGTGGAA
+KX834351        AAGTGATCTGATCTG-GGCGTATTGTGTTGCGCAAGTGTGATACCCATAGGAGCGTGGAA
+KU051641        AAGTGATCTGATCTG-GGCGTATTGTGTTGCGCAAGTGTGATACCCATAGGAGCGTGGAA
+KX443143        AAGTGATCTGATCTG-GGCGTATTGTGTTGCGCAAGTGTGATACCCATAGGAGCGTGGAA
+MK005882        AAGTGATCTGATCTG-GGCGTATTGTGTTGCGCAAGTGTGATACCCATAGGAGCGTGGAA
+NC_039208       AAGTGATCTGATCTG-GGCGTATTGTGTTGCGCAAGTGTGATACCCATAGGAGCGTGGAA
+NC_011550       AAGTGATCTGATCTG-GACGTATTGCGTTGCGCAAGTGCAACACCCATAGGAGCGTGGAA
+NC_016993       AAGTGATCTGATCTG-GACGTATCGTGTTGCGCAAGTACAGCACCCATAGGAGCGTGCAA
+NC_016992       AAGTGATCTGATCTG-GGCGTATCGTGTTGCGCAAGTGTGATACCCATAGGAGCGCGGAA
+MG812377        AAGTGATCTGATCTGTGGTGTATTGTGTTGCGCAAGTGTGACACCCATAGGAGCGTGGAA
+MG812378        AAGTGATCTGATCTGTGGTGTATTGTGTTGCGCAAGTGTGACACCCATAGGAGCGTGGAA
+MG812375        AAGTGATCTGATCTGTGGTGTATTGTGTTGCGCAAGTGTGACACCCATAGGAGCGTGGAA
+MH532440        AAGTGATCTGATCTGTGGTGTATTGTGTTGCGCAAGTGTGACACCCATAGGAACGTGGAA
+NC_016991       AGGTGATCTGATCTG-GGCGTATTGTGTTGCACAAGTAGCAAACCCATAGGAGCGTGGAA
+FJ376620        AAGTGATCTTATCTC-ACCGAATCACTTTGCGCAAGTACCAAACCCATAGGAGCGCGAAA
+NC_011547       AAGTGATCTTATCTC-ACCGAATCACTTTGCGCAAGTACCAAACCCATAGGAGCGCGAAA
+NC_011549       AAGTGACCTGATCCC-ACCGTATCACCTTGCGCAAGTAGCAAACCCATAGGAGCGTGGAA
+                * **** ** ***      * **    **** *****     ********** ** * **
+
+KP757890        TCCTATTCTGCGGCTCAGTGCCTGATATAGCTGTGAAATG--------------------
+KX998969        TCCTATTCTGCGGCTCAGTGCCTGATATAGCTGTGAAATGGCCAAGAACAAGTCCAAGCG
+KX834351        TCCTATTCTGCGGCTCAGTGCCTGATATAGCTGTGAAATG--------------------
+KU051641        TCCTATTCTGCGGCTCAGTGCCTGATATAGCTGTGAAATG--------------------
+KX443143        TCCTATTCTGCGGCTCAGTGCCTGATATAGCTGTGAAATG--------------------
+MK005882        TCCTATTCTGCGGCTCAGTGCCTGATATAGCTGTGAAATG--------------------
+NC_039208       TCCTATTCTGCGGCTCAGTGCCTGATATAGCTGTAAAATG--------------------
+NC_011550       TCCTATTCTGCAGCTCTGTGCCTGATATAGTTTTGGAATG--------------------
+NC_016993       TCCTATTCTGCAGCTCCGCGCCTGATATAGTTTTGAGATG--------------------
+NC_016992       TCCTATTCTGCGGCTCAGTGCCTGATATAGTTGAGAAATG--------------------
+MG812377        TCCTATTCTGCGGCTCCGTGCCTGATATAGTTGTGAAATG--------------------
+MG812378        TCCTATTCTGCGGCTCCGTGCCTGATATAGTTGTGAAATG--------------------
+MG812375        TCCTATTCTGCGGCTCCGTGCCTGATATAGTTGTGAAATG--------------------
+MH532440        TCCTATTCTGCGGCTCCGTGCCTGATATAGTTGTGAAATG--------------------
+NC_016991       TCCTATTCTGCGGCTCGCTGGTTGATACAGTTTTGATATG--------------------
+FJ376620        TCCTATTCTGCAGCTGCCTGATTGTTAGCATTTAGATATG--------------------
+NC_011547       TCCTATTCTGCAGCTGCCTGATTGTTAGCATTTAGATATG--------------------
+NC_011549       TCCTATTCTGCAGCTGCCTGATTGTTAACACTCAGATATG--------------------
+                *********** ***    *  ** **    *     ***                    
+
+KP757890        ------------------------------------------------------------
+KX998969        CGACGCTATCGCGTTGCCTGAAAATGTACCACCACCTCTGCAACTTTTTATCCATGTTGC
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        AGCTGCTGAAGAGGGTCACCCTAAGGTTACTACTTACCTTGGCAACTATAACCTCTACGC
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        CACCAAGGCTCCGCCTGGCGTGCAGGTTCTTAGTGCTAAAACCTCTCTTACTGACTTTGA
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        GAATGTCTTTGGAGCCCAACCCACCTTGCGATCAATTCGTAATCTGGTGTGTGAGGCTCG
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        CTCGGCTGAATGGACAACTTCCAAGAATGCTTTTGCACTCAAAGCCACTCAACTTGACTA
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        CTCTGATGCCGTTTTGAGGGCAATGATTCGTTTCTGCCCTCCAAAGGTGTCCACACTTGC
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        TGCCTTTGCTCTTTTTGGCCGATTGGTTAAAATTGAGGACAAGGAACTTGCTGAGTTAGC
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        TCGTGATACTGCCCTTGAGTTGGCGTACACTGCTAAAATTGGTACATCTCTTGCTGACAC
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        GAGATCTGTCTCACTTATTCATAAGGACGCCTATCTAACTCTCAGTAACGAGGTTGTTGG
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        CGTAACTTTTACTGCCGCACTTATGGCAAAGGCTACCACTGTTAATGGAGCAATGCAATA
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        CTCAAACTTTTACCTCTACCCTCGCGCCACTATCAAGGTGACCGATGGTAAGGCTGAAGC
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        AATTGCAACTAAGCCTCTGCCTGCTGCCACTAAAGGCAAGCCAATCACAGAGGATGTCAA
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        CCTCCTCCCTGACTATCAGCAGCTGCTTGTTGATCAAGTGACTGGCACTGAGGTTAAGGT
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        TGGAGCCTTAACTTATGTTAAGACCACTGACCTACCACCCCTTTACTTTCCCAAAGTTAA
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        AGGCGGTGTTGTTGGTATTGCACTTAAGCAGCAGGGCACTGCGGCTAAGAAGCTCAATGT
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        AGTCTTCCATGCTCAACCTGATGATGTTCTGCTAGCTTTCATACAACTTCAGCAATTCTT
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        GAACCGCACTTCGGATTCAAGTGTTGAAATTACTGATTGCCAGAGTTATGAAGTCTCTCC
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        AACTGTGACGGTAAAAATTGGCCCGTCTAAATCTGGAGATGTCATCGTGGCTACTGATGA
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        GGAATACCTTAAATGCTTTGAAACCCCCGAGGTAGGTAGGCTCTATAAGGTTTTCCAAAC
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        TCAATCTTGGGCTATCATTGAGCGTTCCTTCTCCAGGATCCGCGTGTCCAAAGCTTTATC
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        AGCATTTATAAGTTTTCTGCAAAACCTTGCAGATAACTTTACTGCATTAAGTGGTGTTGT
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        CACTGCACTCATTCGTGAACTCCAGGATCTCACCCTGGATGTGGCGACACGTATCACTAA
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        TATACAATTTGTTTACCGCGCTGGTAAGCTTATTGTCGAACCGACAAGTGTCATAGCTAA
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        ACTTTTCCAGCCATTTTGTGATTTTATATCACCTTTCCTTCGGAAAGTTGCTGGTTTTGC
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        AATTTACACTGTTGGTAATCGCATGCTTATGTTTACCAGCACTGGCACCTTTCTTCTCAC
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        AAAGGCAACTACTAAGATACTCAATAAGGCAAAGTACATCTTTGATGTTGAGCCTGAGTA
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        TCCAGTAGCTGTAACAACATCTAAAGTTGTAGTACATGAAGCACTCCAGCAAATTGACAC
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        TAAGCCTGCTAGAGCTCTGGAGGCTGTTGATGTCGTTGTTGGTAACACTGTACTGCAAAT
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        GGCTACTGATGGCACTGCGTTCTACCCATCAGATGGTACGCATGCCTCTTTACCAGGATT
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        CAAAGCAGGTTCGGATGAGCTTCTCATAAGCTTCAACTGCGACCTCTTTGATGATGAGAC
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        TAATGCTCAAATCAACGAAACACTCGCTGCATATGAGCTTAACCAACTAGTAGCTCCAGG
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        TGATTCTACACCGCGTCAAATTGCGACGTTGGTTGTCGATACACTTGTGGATGCTATAAC
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        GGACCACTTTCCGGAGAAAACCATTGATCTACCTGAAGACTATCAAGTCTTTTCTGACCA
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        TGATGACCTCCTACTTGCACAATACCACATCCCTGATCACCTGAGCCTGTATATTCAAGC
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        TATGGAGGGTGAAGATGATAGTGGTGATGAAATATGTATTGAGGACGATGATTACGATTG
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        TCCTCAAGCCGACGAAAACACAGAAGGAGTAATTCCCCAACAGTGGGAACTTCCTGATGT
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        TGATAAATTTTTACTCAAGATCCAGGAACGGAAGACCAGCAGCGACGAAGTACTTAGCGT
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        TGACGTCTATCCTAAACCAGATGAGGTTGGGGTTGACGACAGCGCGTCGGAAAAGAAGCC
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        AAATGGGGACCCAGTACCGGATCCTGAGGTTCATCCAACACTAGAGAGTGTGGATGTTGA
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        ACAACCAACTGAAACAGCAAATCAGGCTGTTGAAGACAAACCTTCTGATACCACCTTTGT
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        GGTTGATGAGGAACAATTACAAGAATCAACACCAGAACCTGAGCTCCGCTCCTATGAAGG
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        GGAGTTTGATTCTGATGATGAAATTATTATTCCTATAGTACCAGTAACACCTGCGGATTT
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        AAAACCACAGACTATTACTATAAAGGAGTACTTTAAGTCTGAAAAACTTGAGACTATTAA
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        CGAAGGATCTACAGAGTCAGTTGCACAGTCTGACGATTCGTTCGACGAACCATTTGCTGA
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        TGCTGAGTCTGATGATCCACAAGACCCTGCTGTATATGATGATACAACAATTATAACAGA
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        CAGTACTGATGTAGGCGATGAGCCTGAGACAACTCTAGCTACCATCGTTAACACACCACT
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        GACACTCGATAATAACTTGCCACCTGAAGCCATTAAACAACCCAGCCCGACTAAGGTTGA
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        GTTAGTTGTTGGCGAATTGGCAAGTATTAAATTTGACAATTCTGTCTTAGTCAACCCTGC
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        TAATGCGCAATTAACAAATGGCGGTGGAGCTGCCCGTGCAATTGCAAAATTAGCTGGTCC
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        AAAATACCAAGAGTACTGTAATAGTGTGGCTCCTATCTCAGGACCGCTTACCACGGACTC
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        TTTTGATGCCAAGAAACTTGGTGTAGCCTGCATCTTGCATGTAGTGCCACCCAAAGGTTC
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        TGACCCTAATGTACAAGAACTTCTGTATCAAGCTTACAAGAGTATCCTTACTGAACCAGC
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        ACACTATGTTATACCTATACTAGGTGCTGGTATCTTTGGATGTAACCCAGTCCACTCTCT
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        GGATGCGTTCAGGAAAGCCTGTCCAAGTGACATAGGTCGTGTCACCCTTGTCACTATGAA
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        CAAAAACCATTTGCAGGTGTGGGATGCTCTCAATAGGATCATTGTACGTACCACTACTGA
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        TTATGATCAAGTCACCACCAAGGCTCTTACACCCCAGGGAGTGTTAGAAGCCAATCTCTT
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        TGATGGTGAGGACTTTGTTCAAGAACCAAAACCCGGTCAAATCTACCTTGAGGTTACTGA
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        AGAAGTTCAGAACCAAGCCCAGGAACTTGACCTTAATCTTCAGCAATACTGCGTCTACCT
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        GAAGACTTGCCACCATAAATGGGTTGTGAGTCGTACGAATGGGTTGATGCATCTAAAACA
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        AAAAGATAACAATTGTTTTGTTAGTGCAGGTGTAAACCTGTTTCAAAACACTGCTTATCA
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        ACTTAGACCTGCTATTGATGCTCTCTATAGGGAGTATCTCAATGGTAATCCAAACCGATT
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        TGTTGCTTGGATCTACGCATCCACAAACCATCGTGTTGGTGAGATGGGCTGTCCACAGCA
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        AGTTATTTCTTTGCTCGTTAGTAACTCTGACGCGGCATTCTCAGCAACTACAGCCTGTTG
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        TAACACCTACTTTAATCACACAGGTGTTATTTCAGTAGCTTGCGAATATGACCCAATACA
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        ACCAAAGGTCTACTGCATGAAGTGTGACGTGTGGACTCCCTTTACACCCCAGAGTGGAAA
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        AGGTGCAGTTGCAATTGGCACTTCTGCAGATGAACCTACCGGTCCTGCCATTAAATTTGC
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        CGCAGCTCACTGCTGGTACACTAATGGTAAGAAAACAGTTAATGGCTATGACACTAAAGC
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        TAATGTTGTAGCTACCTATCATAGGTTTGACGTGCCTAAGCCTCAACTTGTCGAGGACGT
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        GGTTGCGCTGCCTACTAAAAATGACTTTGAAGTTCTCAATGTTGAAGAACTGCCGCAGGA
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        TAGTGTGCTCCATTTGGACCCACCTCCTGTACAGGCTTTACAACCTAAGGCTAACCAACA
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        TATTGAGACTCTAGAAAACCCAGATTATCTGGACATTTTGGATCTTTGGATTCGTAAACC
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        CAAATTCATCCTTGTAAAGTCATGGAGTGTTTTGGGTAGAGCACTATGTAAGGCAGGTAG
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        AGTTGTCTTTGTTAGTGCTTCTCTTTTGACCCGTTTCTACAATTACCTTGTAGAGATTGG
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        TGCTCTTGACTCAACAATAAGATTGTCAATCGATCTTACCTGTAAATTTGTTAGAACGGT
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        TCTCCCATCGTCTAACACTGTACGCAAAACTTGTCTTGGTCTGTATTATTCAGCCCAGAC
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        ACTTTTTGTTTCTTTAGCACCATTCCTTATGTTACCAGCTGTAGTTAGTCTGCTTAATTC
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        AGGCTAAACAATTGGCCAATATTTGTATGCAAAAACTGGCTGGCCTTGTAATTACAATGC
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        CACGCAACACTTTGATTATAATTCTTACTGTGCAGGTGACTTGGTTTGTCAAGCCTGTTT
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        ------------------------------------------------------------
+KX998969        TGACGGTCAAGACTCCCTACATTTGTATCCGCATTTACGTGTTAATCAGCAGCCCCTTCA
+KX834351        ------------------------------------------------------------
+KU051641        ------------------------------------------------------------
+KX443143        ------------------------------------------------------------
+MK005882        ------------------------------------------------------------
+NC_039208       ------------------------------------------------------------
+NC_011550       ------------------------------------------------------------
+NC_016993       ------------------------------------------------------------
+NC_016992       ------------------------------------------------------------
+MG812377        ------------------------------------------------------------
+MG812378        ------------------------------------------------------------
+MG812375        ------------------------------------------------------------
+MH532440        ------------------------------------------------------------
+NC_016991       ------------------------------------------------------------
+FJ376620        ------------------------------------------------------------
+NC_011547       ------------------------------------------------------------
+NC_011549       ------------------------------------------------------------
+                                                                            
+
+KP757890        -------------------------------------------------------
+KX998969        GGCCACTGACTACACTGTTTATGCGCTTTCACTAATACTACTATTAGCTAACATG
+KX834351        -------------------------------------------------------
+KU051641        -------------------------------------------------------
+KX443143        -------------------------------------------------------
+MK005882        -------------------------------------------------------
+NC_039208       -------------------------------------------------------
+NC_011550       -------------------------------------------------------
+NC_016993       -------------------------------------------------------
+NC_016992       -------------------------------------------------------
+MG812377        -------------------------------------------------------
+MG812378        -------------------------------------------------------
+MG812375        -------------------------------------------------------
+MH532440        -------------------------------------------------------
+NC_016991       -------------------------------------------------------
+FJ376620        -------------------------------------------------------
+NC_011547       -------------------------------------------------------
+NC_011549       -------------------------------------------------------
+                                                                       
