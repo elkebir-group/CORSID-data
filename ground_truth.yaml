@@ -1,0 +1,34 @@
+cmfiles:
+  Alphacoronavirus: data/cmfiles/RF03116.cm
+  Betacoronavirus: data/cmfiles/RF03117.cm
+  Gammacoronavirus: data/cmfiles/RF03118.cm
+  Deltacoronavirus: data/cmfiles/RF03119.cm
+  Sarbecovirus: data/cmfiles/RF03120.cm
+
+delegate:
+  NC_016995: [Deltacoronavirus, Andecovirus]
+  KX834351: [Deltacoronavirus, Buldecovirus]
+  KF793824: [Gammacoronavirus, Cegacovirus]
+  KY799179: [Alphacoronavirus, Colacovirus]
+  MG916901: [Alphacoronavirus, Decacovirus]
+  MN611517: [Alphacoronavirus, Duvinacovirus]
+  NC_017083: [Betacoronavirus, Embecovirus]
+  NC_016994: [Deltacoronavirus, Herdecovirus]
+  NC_025217: [Betacoronavirus, Hibecovirus]
+  AY514485: [Gammacoronavirus, Igacovirus]
+  NC_032730: [Alphacoronavirus, Luchacovirus]
+  MK907286: [Betacoronavirus, Merbecovirus]
+  HM245926: [Alphacoronavirus, Minacovirus]
+  KJ473798: [Alphacoronavirus, Minunacovirus]
+  NC_016996: [Deltacoronavirus, Moordecovirus]
+  NC_028811: [Alphacoronavirus, Myotacovirus]
+  EF065514: [Betacoronavirus, Nobecovirus]
+  MK720944: [Alphacoronavirus, Nyctacovirus]
+  KR061458: [Alphacoronavirus, Pedacovirus]
+  NC_009988: [Alphacoronavirus, Rhinacovirus]
+  NC_045512: [Betacoronavirus, Sarbecovirus]
+  KY073746: [Alphacoronavirus, Setracovirus]
+  KX722529: [Alphacoronavirus, Tegacovirus]
+  # Unclassified
+  MK472070: [Alphacoronavirus, unclassified]
+  KY770850: [Alphacoronavirus, unclassified]
