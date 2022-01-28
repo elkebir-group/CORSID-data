@@ -1,0 +1,45 @@
+>Feature KJ473810.1
+57	20244	gene
+57	12223	CDS
+12223	20244
+			product	ORF1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	KJ473810.1_1
+20246	24358	gene
+20246	24358	CDS
+			product	spike glycoprotein
+			protein_id	KJ473810.1_2
+24358	25047	gene
+24358	25047	CDS
+			product	hypothetical protein ORF3
+			protein_id	KJ473810.1_3
+25055	25252	gene
+25055	25252	CDS
+			product	small envelope protein
+			protein_id	KJ473810.1_4
+25262	25945	gene
+25262	25945	CDS
+			product	membrane glycoprotein
+			protein_id	KJ473810.1_5
+25957	27108	gene
+25957	27108	CDS
+			product	nucleocapsid protein
+			protein_id	KJ473810.1_6
+27130	27324	gene
+27130	27324	CDS
+			product	hypothetical protein ORF7
+			protein_id	KJ473810.1_7
+
+Additional note(s) to submitter:
+ERROR: LOW_SIMILARITY_START: (*sequence*) significant similarity not detected at 5' end of the sequence [low similarity region of length 21]; seq-coords:1..21:+; mdl-coords:1..6:+; mdl:NC_028814;
+ERROR: CDS_HAS_STOP_CODON: (CDS:ORF1ab polyprotein) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAA, shifted S:20065,M:20062]; seq-coords:177..179:+; mdl-coords:160..162:+; mdl:NC_028814;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:ORF1ab polyprotein) possible frameshift in CDS (frame not restored before end) [cause:insert,S:98..99(2),M:82; frame:1(3); length:41:(20148);]; seq-coords:98..20244:+; mdl-coords:83..20224:+; mdl:NC_028814;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:ORF1ab polyprotein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [41>5]; seq-coords:57..97:+; mdl-coords:42..42:+; mdl:NC_028814;
+ERROR: UNEXPECTED_LENGTH: (CDS:ORF1ab polyprotein) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [20189]; seq-coords:57..12223:+,12223..20244:+; mdl-coords:42..12203:+,12203..20224:+; mdl:NC_028814;
+ERROR: INDEFINITE_ANNOTATION_START: (gene:gene.7) alignment to homology model is a gap at 5' boundary [-]; seq-coords:27130..27130:+; mdl-coords:27111..27111:+; mdl:NC_028814;
+ERROR: CDS_HAS_STOP_CODON: (CDS:hypothetical protein ORF7) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAA, shifted S:72,M:91]; seq-coords:27250..27252:+; mdl-coords:27266..27268:+; mdl:NC_028814;
+ERROR: CDS_HAS_STOP_CODON: (CDS:hypothetical protein ORF7) stop codon in protein-based alignment [-]; seq-coords:27250..27252:+; mdl-coords:27285..27287:+; mdl:NC_028814;
+ERROR: DELETION_OF_NT: (CDS:hypothetical protein ORF7) too large of a deletion in protein-based alignment [45>27]; seq-coords:27246..27246:+; mdl-coords:27237..27281:+; mdl:NC_028814;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:hypothetical protein ORF7) alignment to homology model is a gap at 5' boundary [-]; seq-coords:27130..27130:+; mdl-coords:27111..27111:+; mdl:NC_028814;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:hypothetical protein ORF7) protein-based alignment extends past nucleotide-based alignment at 5' end [-]; seq-coords:27124..27129:+; mdl-coords:27111..27111:+; mdl:NC_028814;
+ERROR: MUTATION_AT_START: (CDS:hypothetical protein ORF7) expected start codon could not be identified [TTC]; seq-coords:27130..27132:+; mdl-coords:27120..27122:+; mdl:NC_028814;

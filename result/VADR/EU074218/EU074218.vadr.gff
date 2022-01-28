@@ -1,0 +1,9 @@
+##gff-version 3
+EU074218	vadr	CDS	315	12368	.	+	.	ID=ftr-2;Name=replicase polyprotein 1a;Gene=replicase polyprotein 1a;Alias=EU074218.2_1;
+EU074218	vadr	CDS	20369	24818	.	+	.	ID=ftr-5;Name=spike protein;Gene=spike protein;Alias=EU074218.2_2;
+EU074218	vadr	CDS	24701	25009	.	+	.	ID=ftr-7;Name=non-structural protein 3a;Gene=non-structural protein 3a;Alias=EU074218.2_3;
+EU074218	vadr	CDS	25094	25828	.	+	.	ID=ftr-9;Name=non-structural protein 3b;Gene=non-structural protein 3b;Alias=EU074218.2_4;
+EU074218	vadr	CDS	25815	26063	.	+	.	ID=ftr-11;Name=envelope protein;Gene=envelope protein;Alias=EU074218.2_5;
+EU074218	vadr	CDS	26074	26862	.	+	.	ID=ftr-13;Name=membrane protein;Gene=membrane protein;Alias=EU074218.2_6;
+EU074218	vadr	CDS	26875	28023	.	+	.	ID=ftr-15;Name=nucleoprotein;Gene=nucleoprotein;Alias=EU074218.2_7;
+EU074218	vadr	CDS	28029	28265	.	+	.	ID=ftr-17;Name=non-structural protein 7;Gene=non-structural protein 7;Alias=EU074218.2_8;

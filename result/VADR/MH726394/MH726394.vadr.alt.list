@@ -1,0 +1,2 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+MH726394.1	NC_003436	CDS	spike protein	POSSIBLE_FRAMESHIFT	20800..20818:+	20804..20810:+	possible frameshift in CDS (frame restored before end) [cause:insert,S:20800(1),M:20803; restore:insert,S:20808..20818(11),M:20810; frame:1(2)1; length:166:(19):3976;]

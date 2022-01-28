@@ -1,0 +1,75 @@
+>Feature JN856008.2
+277	12327	gene
+277	12327	CDS
+			product	replicase polyprotein 1a
+			protein_id	JN856008.2_1
+12285	20327	gene
+20328	24796	gene
+20328	24796	CDS
+			product	spike protein
+			protein_id	JN856008.2_2
+24735	25051	gene
+24735	25051	CDS
+			product	non-structural protein 3a
+			protein_id	JN856008.2_3
+25136	25870	gene
+25136	25870	CDS
+			product	non-structural protein 3b
+			protein_id	JN856008.2_4
+25857	26105	gene
+25857	26105	CDS
+			product	envelope protein
+			protein_id	JN856008.2_5
+26116	26901	gene
+26116	26901	CDS
+			product	membrane protein
+			protein_id	JN856008.2_6
+26914	28062	gene
+26914	28062	CDS
+			product	nucleoprotein
+			protein_id	JN856008.2_7
+28067	29018	gene
+28067	29018	CDS
+			product	non-structural protein 7
+			protein_id	JN856008.2_8
+
+Additional note(s) to submitter:
+ERROR: LOW_COVERAGE: (*sequence*) low sequence fraction with significant similarity to homology model [0.824<0.900]; seq-coords:20326..23278:+,23563..25035:+,28180..28251:+,28373..29013:+; mdl-coords:-; mdl:NC_028806;
+ERROR: LOW_FEATURE_SIMILARITY: (gene:gene.2) region within annotated feature that does not match a CDS lacks significant similarity [2 nt overlap b/t low similarity region of length 2953 (20326..23278) and annotated feature (12285..20327)]; seq-coords:20326..20327:+; mdl-coords:20353..20354:+; mdl:NC_028806;
+ERROR: CDS_HAS_STOP_CODON: (CDS:spike protein) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAG, shifted S:4451,M:4131]; seq-coords:20343..20345:+; mdl-coords:20370..20372:+; mdl:NC_028806;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike protein) possible frameshift in CDS (frame restored before end) [cause:insert,S:20373..20383(11),M:20399; restore:insert,S:20416(1),M:20431; frame:1(3)12323231312313213232313213123213131323232313; length:45:(44):40:23:34:15:14:13:23:30:90:40:65:227:24:73:31:7:159:28:54:6:62:15:7:18:45:424:20:10:21:14:20:151:6:137:10:301:19:62:29:362:46:978:8:619;]; seq-coords:20373..20416:+; mdl-coords:20400..20431:+; mdl:NC_028806;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike protein) possible frameshift in CDS (frame restored before end) [cause:insert,S:20457(1),M:20471; restore:insert,S:20578(1),M:20569; frame:131(232323)1312313213232313213123213131323232313; length:45:44:40:(23:34:15:14:13:23):30:90:40:65:227:24:73:31:7:159:28:54:6:62:15:7:18:45:424:20:10:21:14:20:151:6:137:10:301:19:62:29:362:46:978:8:619; intermediate:insert,S:20480..20489(10),M:20493;insert,S:20514..20521(8),M:20517;insert,S:20529(1),M:20524;insert,S:20543..20544(2),M:20537;insert,S:20556(1),M:20548;]; seq-coords:20457..20578:+; mdl-coords:20472..20569:+; mdl:NC_028806;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike protein) possible frameshift in CDS (frame restored before end) [cause:insert,S:20609..20616(8),M:20599; restore:insert,S:20677..20698(22),M:20659; frame:1312323231(3)12313213232313213123213131323232313; length:45:44:40:23:34:15:14:13:23:30:(90):40:65:227:24:73:31:7:159:28:54:6:62:15:7:18:45:424:20:10:21:14:20:151:6:137:10:301:19:62:29:362:46:978:8:619;]; seq-coords:20609..20698:+; mdl-coords:20600..20659:+; mdl:NC_028806;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike protein) possible frameshift in CDS (frame restored before end) [cause:insert,S:20739..20754(16),M:20696; restore:insert,S:21021..21030(10),M:20919; frame:131232323131(23)13213232313213123213131323232313; length:45:44:40:23:34:15:14:13:23:30:90:40:(65:227):24:73:31:7:159:28:54:6:62:15:7:18:45:424:20:10:21:14:20:151:6:137:10:301:19:62:29:362:46:978:8:619; intermediate:insert,S:20804..20807(4),M:20745;]; seq-coords:20739..21030:+; mdl-coords:20697..20919:+; mdl:NC_028806;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike protein) possible frameshift in CDS (frame restored before end) [cause:insert,S:21055..21059(5),M:20943; restore:delete,S:21158,M:21032(1); frame:131232323131231(32)13232313213123213131323232313; length:45:44:40:23:34:15:14:13:23:30:90:40:65:227:24:(73:31):7:159:28:54:6:62:15:7:18:45:424:20:10:21:14:20:151:6:137:10:301:19:62:29:362:46:978:8:619; intermediate:insert,S:21128..21138(11),M:21011;]; seq-coords:21055..21158:+; mdl-coords:20944..21032:+; mdl:NC_028806;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike protein) possible frameshift in CDS (frame restored before end) [cause:insert,S:21166..21170(5),M:21039; restore:insert,S:21474(1),M:21339; frame:131232323131231321(32323)13213123213131323232313; length:45:44:40:23:34:15:14:13:23:30:90:40:65:227:24:73:31:7:(159:28:54:6:62):15:7:18:45:424:20:10:21:14:20:151:6:137:10:301:19:62:29:362:46:978:8:619; intermediate:delete,S:21324,M:21194(1);insert,S:21353(1),M:21222;delete,S:21406,M:21276..21279(4);delete,S:21412,M:21286..21290(5);]; seq-coords:21166..21474:+; mdl-coords:21040..21339:+; mdl:NC_028806;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike protein) possible frameshift in CDS (frame restored before end) [cause:delete,S:21489,M:21355(1); restore:delete,S:21514,M:21379(1); frame:131232323131231321323231(32)13123213131323232313; length:45:44:40:23:34:15:14:13:23:30:90:40:65:227:24:73:31:7:159:28:54:6:62:15:(7:18):45:424:20:10:21:14:20:151:6:137:10:301:19:62:29:362:46:978:8:619; intermediate:insert,S:21497..21498(2),M:21362;]; seq-coords:21490..21514:+; mdl-coords:21355..21379:+; mdl:NC_028806;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike protein) possible frameshift in CDS (frame restored before end) [cause:insert,S:21560..21570(11),M:21424; restore:insert,S:21980..21983(4),M:21848; frame:131232323131231321323231321(3)123213131323232313; length:45:44:40:23:34:15:14:13:23:30:90:40:65:227:24:73:31:7:159:28:54:6:62:15:7:18:45:(424):20:10:21:14:20:151:6:137:10:301:19:62:29:362:46:978:8:619;]; seq-coords:21560..21983:+; mdl-coords:21425..21848:+; mdl:NC_028806;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike protein) possible frameshift in CDS (frame restored before end) [cause:insert,S:22004(1),M:21868; restore:delete,S:22048,M:21910(1); frame:13123232313123132132323132131(232)13131323232313; length:45:44:40:23:34:15:14:13:23:30:90:40:65:227:24:73:31:7:159:28:54:6:62:15:7:18:45:424:20:(10:21:14):20:151:6:137:10:301:19:62:29:362:46:978:8:619; intermediate:insert,S:22014(1),M:21877;insert,S:22035..22036(2),M:21897;]; seq-coords:22004..22048:+; mdl-coords:21869..21910:+; mdl:NC_028806;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike protein) possible frameshift in CDS (frame restored before end) [cause:insert,S:22069..22070(2),M:21930; restore:insert,S:22195..22219(25),M:22039; frame:131232323131231321323231321312321(3)131323232313; length:45:44:40:23:34:15:14:13:23:30:90:40:65:227:24:73:31:7:159:28:54:6:62:15:7:18:45:424:20:10:21:14:20:(151):6:137:10:301:19:62:29:362:46:978:8:619;]; seq-coords:22069..22219:+; mdl-coords:21931..22039:+; mdl:NC_028806;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike protein) possible frameshift in CDS (frame restored before end) [cause:delete,S:22225,M:22046(1); restore:insert,S:22362(1),M:22182; frame:13123232313123132132323132131232131(3)1323232313; length:45:44:40:23:34:15:14:13:23:30:90:40:65:227:24:73:31:7:159:28:54:6:62:15:7:18:45:424:20:10:21:14:20:151:6:(137):10:301:19:62:29:362:46:978:8:619;]; seq-coords:22226..22362:+; mdl-coords:22046..22182:+; mdl:NC_028806;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike protein) possible frameshift in CDS (frame restored before end) [cause:delete,S:22372,M:22193..22196(4); restore:delete,S:24169,M:23925..23926(2); frame:1312323231312313213232313213123213131(3232323)13; length:45:44:40:23:34:15:14:13:23:30:90:40:65:227:24:73:31:7:159:28:54:6:62:15:7:18:45:424:20:10:21:14:20:151:6:137:10:(301:19:62:29:362:46:978):8:619; intermediate:insert,S:22674..22675(2),M:22497;insert,S:22693..22696(4),M:22514;insert,S:22755..22777(23),M:22572;insert,S:22784..22787(4),M:22578;insert,S:23146..23147(2),M:22930;insert,S:23192..23198(7),M:22974;]; seq-coords:22373..24169:+; mdl-coords:22193..23926:+; mdl:NC_028806;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike protein) possible frameshift in CDS (frame not restored before end) [cause:delete,S:24177,M:23935(1); frame:131232323131231321323231321312321313132323231(3); length:45:44:40:23:34:15:14:13:23:30:90:40:65:227:24:73:31:7:159:28:54:6:62:15:7:18:45:424:20:10:21:14:20:151:6:137:10:301:19:62:29:362:46:978:8:(619);]; seq-coords:24178..24796:+; mdl-coords:23935..24503:+; mdl:NC_028806;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:spike protein) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [54>8]; seq-coords:24743..24796:+; mdl-coords:24503..24503:+; mdl:NC_028806;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:spike protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [125>5]; seq-coords:20328..20452:+; mdl-coords:20355..20355:+; mdl:NC_028806;
+ERROR: INSERTION_OF_NT: (CDS:spike protein) too large of an insertion in nucleotide-based alignment of CDS feature [51>27]; seq-coords:24744..24794:+; mdl-coords:24501..24501:+; mdl:NC_028806;
+ERROR: INSERTION_OF_NT: (CDS:spike protein) too large of an insertion in protein-based alignment [45>27]; seq-coords:20572..20616:+; mdl-coords:20567..20567:+; mdl:NC_028806;
+ERROR: INSERTION_OF_NT: (CDS:spike protein) too large of an insertion in protein-based alignment [36>27]; seq-coords:22141..22176:+; mdl-coords:22001..22001:+; mdl:NC_028806;
+ERROR: INSERTION_OF_NT: (CDS:spike protein) too large of an insertion in protein-based alignment [33>27]; seq-coords:23161..23193:+; mdl-coords:22952..22952:+; mdl:NC_028806;
+ERROR: MUTATION_AT_START: (CDS:spike protein) expected start codon could not be identified [AAG]; seq-coords:20328..20330:+; mdl-coords:20355..20357:+; mdl:NC_028806;
+ERROR: UNEXPECTED_LENGTH: (CDS:spike protein) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [4469]; seq-coords:20328..24796:+; mdl-coords:20355..24503:+; mdl:NC_028806;
+ERROR: CDS_HAS_STOP_CODON: (CDS:non-structural protein 3a) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAA, shifted S:263,M:84]; seq-coords:24786..24788:+; mdl-coords:24501..24501:+; mdl:NC_028806;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:non-structural protein 3a) possible frameshift in CDS (frame not restored before end) [cause:insert,S:24811..24829(19),M:24517; frame:1(23); length:76:(107:134); intermediate:insert,S:24918..24921(4),M:24557;]; seq-coords:24811..25051:+; mdl-coords:24518..24585:+; mdl:NC_028806;
+ERROR: INDEFINITE_ANNOTATION: (CDS:non-structural protein 3a) nucleotide-based search identifies CDS not identified in protein-based search [-]; seq-coords:24735..25051:+; mdl-coords:24493..24585:+; mdl:NC_028806;
+ERROR: INSERTION_OF_NT: (CDS:non-structural protein 3a) too large of an insertion in nucleotide-based alignment of CDS feature [51>27]; seq-coords:24744..24794:+; mdl-coords:24501..24501:+; mdl:NC_028806;
+ERROR: INSERTION_OF_NT: (CDS:non-structural protein 3a) too large of an insertion in nucleotide-based alignment of CDS feature [48>27]; seq-coords:24840..24887:+; mdl-coords:24527..24527:+; mdl:NC_028806;
+ERROR: INSERTION_OF_NT: (CDS:non-structural protein 3a) too large of an insertion in nucleotide-based alignment of CDS feature [102>27]; seq-coords:24934..25035:+; mdl-coords:24569..24569:+; mdl:NC_028806;
+ERROR: MUTATION_AT_START: (CDS:non-structural protein 3a) expected start codon could not be identified [ACG]; seq-coords:24735..24737:+; mdl-coords:24493..24495:+; mdl:NC_028806;
+ERROR: UNEXPECTED_LENGTH: (CDS:non-structural protein 3a) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [317]; seq-coords:24735..25051:+; mdl-coords:24493..24585:+; mdl:NC_028806;
+ERROR: CDS_HAS_STOP_CODON: (CDS:non-structural protein 7) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAA, shifted S:646,M:4]; seq-coords:28370..28372:+; mdl-coords:27833..27833:+; mdl:NC_028806;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:non-structural protein 7) possible frameshift in CDS (frame not restored before end) [cause:insert,S:28369..29014(646),M:27833; frame:1(2); length:302:(650);]; seq-coords:28369..29018:+; mdl-coords:27834..27837:+; mdl:NC_028806;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:non-structural protein 7) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [649>8]; seq-coords:28370..29018:+; mdl-coords:27837..27837:+; mdl:NC_028806;
+ERROR: INSERTION_OF_NT: (CDS:non-structural protein 7) too large of an insertion in nucleotide-based alignment of CDS feature [69>27]; seq-coords:28184..28252:+; mdl-coords:27717..27717:+; mdl:NC_028806;
+ERROR: INSERTION_OF_NT: (CDS:non-structural protein 7) too large of an insertion in nucleotide-based alignment of CDS feature [646>27]; seq-coords:28369..29014:+; mdl-coords:27833..27833:+; mdl:NC_028806;
+ERROR: INSERTION_OF_NT: (CDS:non-structural protein 7) too large of an insertion in protein-based alignment [69>27]; seq-coords:28225..28293:+; mdl-coords:27717..27717:+; mdl:NC_028806;
+ERROR: UNEXPECTED_LENGTH: (CDS:non-structural protein 7) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [952]; seq-coords:28067..29018:+; mdl-coords:27601..27837:+; mdl:NC_028806;

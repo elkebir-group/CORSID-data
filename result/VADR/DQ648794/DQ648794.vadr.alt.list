@@ -1,0 +1,4 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+DQ648794.1	NC_009019	-	*sequence*	LOW_SIMILARITY_END	30298..30307:+	30286..30286:+	significant similarity not detected at 3' end of the sequence [low similarity region of length 10]
+DQ648794.1	NC_009019	CDS	orf1ab polyprotein	INSERTION_OF_NT	3330..3359:+	3336..3336:+	too large of an insertion in nucleotide-based alignment of CDS feature [30>27]
+DQ648794.1	NC_009019	CDS	orf1ab polyprotein	INSERTION_OF_NT	3328..3357:+	3335..3335:+	too large of an insertion in protein-based alignment [30>27]

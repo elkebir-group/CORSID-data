@@ -1,0 +1,96 @@
+>Feature AC_000192.1
+215	21756	gene
+			gene	orf1ab
+215	13618	CDS
+13618	21756
+			product	orf1ab
+			exception	ribosomal slippage
+			protein_id	AC_000192.1_1
+215	13639	CDS
+			product	pp1a polyprotein
+			protein_id	AC_000192.1_2
+215	955	mat_peptide
+			product	nsp1 or p28
+			protein_id	AC_000192.1_2
+956	2710	mat_peptide
+			product	nsp2 or p65
+			protein_id	AC_000192.1_2
+2711	8734	mat_peptide
+			product	nsp3 or p210
+			protein_id	AC_000192.1_2
+8735	10222	mat_peptide
+			product	nsp4 or p44
+			protein_id	AC_000192.1_2
+10223	11131	mat_peptide
+			product	nsp5 or 3CLpro
+			protein_id	AC_000192.1_2
+11132	11995	mat_peptide
+			product	nsp6
+			protein_id	AC_000192.1_2
+11996	12271	mat_peptide
+			product	nsp7
+			protein_id	AC_000192.1_2
+12272	12853	mat_peptide
+			product	nsp8
+			protein_id	AC_000192.1_2
+12854	13183	mat_peptide
+			product	nsp9; ssRNA-binding protein
+			protein_id	AC_000192.1_2
+13184	13594	mat_peptide
+			product	nsp10
+			protein_id	AC_000192.1_2
+13595	13618	mat_peptide
+13618	16377
+			product	nsp12; RNA-dependent RNA polymerase
+			protein_id	AC_000192.1_1
+13595	13636	mat_peptide
+			product	nsp11
+			protein_id	AC_000192.1_2
+16378	18177	mat_peptide
+			product	nsp13; zinc-binding domain and helicase
+			protein_id	AC_000192.1_1
+18178	19734	mat_peptide
+			product	nsp14; exoribonuclease
+			protein_id	AC_000192.1_1
+19735	20856	mat_peptide
+			product	nsp15; endoribonuclease
+			protein_id	AC_000192.1_1
+20857	21753	mat_peptide
+			product	nsp16; 2'-0-ribose methyltransferase
+			protein_id	AC_000192.1_1
+21770	22567	gene
+21770	22567	CDS
+			product	p30 accessory protein
+			protein_id	AC_000192.1_3
+22613	23932	gene
+22613	23932	CDS
+			product	hemagglutinin-esterase glycoprotein [HE]
+			protein_id	AC_000192.1_4
+23940	28070	gene
+23940	28070	CDS
+			product	spike glycoprotein [S]
+			protein_id	AC_000192.1_5
+28162	28581	gene
+28162	28581	CDS
+			product	accessory protein 4
+			protein_id	AC_000192.1_6
+28563	28886	gene
+28563	28886	CDS
+			product	accessory protein 5a
+			protein_id	AC_000192.1_7
+28879	29145	gene
+28879	29145	CDS
+			product	envelop protein [E]
+			protein_id	AC_000192.1_8
+29142	29828	gene
+29142	29828	CDS
+			product	membrane protein [M]
+			protein_id	AC_000192.1_9
+29843	31210	gene
+29843	31210	CDS
+			product	nucleocapsid protein [N]
+			protein_id	AC_000192.1_10
+30120	30530	gene
+30120	30530	CDS
+			product	putative internal [I] ORF
+			protein_id	AC_000192.1_11

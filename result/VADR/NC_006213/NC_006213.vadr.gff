@@ -1,0 +1,27 @@
+##gff-version 3
+NC_006213	vadr	gene	210	21496	.	+	.	ID=ftr-1;Name=orf1ab;Gene=orf1ab;
+NC_006213	vadr	region	13340	21496	.	+	.	ID=ftr-3;Name=Orf1ab;Gene=Orf1ab;Parent=ftr-1;Alias=NC_006213.1_1;
+NC_006213	vadr	mat_peptide	210	947	.	+	.	ID=ftr-4;Name=leader protein;Gene=leader protein;Alias=NC_006213.1_1;
+NC_006213	vadr	mat_peptide	948	2762	.	+	.	ID=ftr-5;Name=MHV p65-like protein;Gene=MHV p65-like protein;Alias=NC_006213.1_1;
+NC_006213	vadr	mat_peptide	2763	8459	.	+	.	ID=ftr-6;Name=nsp1;Gene=nsp1;Alias=NC_006213.1_1;
+NC_006213	vadr	mat_peptide	8460	9947	.	+	.	ID=ftr-7;Name=transmembrane domain 2;Gene=transmembrane domain 2;Alias=NC_006213.1_1;
+NC_006213	vadr	mat_peptide	9948	10856	.	+	.	ID=ftr-8;Name=nsp2;Gene=nsp2;Alias=NC_006213.1_1;
+NC_006213	vadr	mat_peptide	10857	11717	.	+	.	ID=ftr-9;Name=nsp3;Gene=nsp3;Alias=NC_006213.1_1;
+NC_006213	vadr	mat_peptide	11718	11984	.	+	.	ID=ftr-10;Name=nsp4;Gene=nsp4;Alias=NC_006213.1_1;
+NC_006213	vadr	mat_peptide	11985	12575	.	+	.	ID=ftr-11;Name=nsp5;Gene=nsp5;Alias=NC_006213.1_1;
+NC_006213	vadr	mat_peptide	12576	12905	.	+	.	ID=ftr-12;Name=nsp6;Gene=nsp6;Alias=NC_006213.1_1;
+NC_006213	vadr	mat_peptide	12906	13316	.	+	.	ID=ftr-13;Name=nsp7;Gene=nsp7;Alias=NC_006213.1_1;
+NC_006213	vadr	region	13340	16099	.	+	.	ID=ftr-15;Name=nsp9;Gene=nsp9;Parent=ftr-1;Alias=NC_006213.1_1;
+NC_006213	vadr	mat_peptide	16100	17908	.	+	.	ID=ftr-16;Name=nsp10;Gene=nsp10;Alias=NC_006213.1_1;
+NC_006213	vadr	mat_peptide	17909	19471	.	+	.	ID=ftr-17;Name=nsp11;Gene=nsp11;Alias=NC_006213.1_1;
+NC_006213	vadr	mat_peptide	19472	20596	.	+	.	ID=ftr-18;Name=nsp12;Gene=nsp12;Alias=NC_006213.1_1;
+NC_006213	vadr	mat_peptide	20597	21493	.	+	.	ID=ftr-19;Name=nsp13;Gene=nsp13;Alias=NC_006213.1_1;
+NC_006213	vadr	gene	21506	22342	.	+	.	ID=ftr-20;Name=ns2;Gene=ns2;
+NC_006213	vadr	CDS	21506	22342	.	+	.	ID=ftr-21;Name=ns2;Gene=ns2;Parent=ftr-20;Alias=NC_006213.1_2;
+NC_006213	vadr	CDS	22354	23628	.	+	.	ID=ftr-23;Name=hemagglutinin-esterase;Gene=hemagglutinin-esterase;Parent=ftr-20;Alias=NC_006213.1_3;
+NC_006213	vadr	CDS	23643	27704	.	+	.	ID=ftr-25;Name=spike surface glycoprotein;Gene=spike surface glycoprotein;Parent=ftr-20;Alias=NC_006213.1_4;
+NC_006213	vadr	gene	27792	28121	.	+	.	ID=ftr-26;Name=ns12.9;Gene=ns12.9;
+NC_006213	vadr	CDS	27792	28121	.	+	.	ID=ftr-27;Name=ns12.9;Gene=ns12.9;Parent=ftr-26;Alias=NC_006213.1_5;
+NC_006213	vadr	CDS	28108	28362	.	+	.	ID=ftr-29;Name=envelope protein;Gene=envelope protein;Parent=ftr-26;Alias=NC_006213.1_6;
+NC_006213	vadr	CDS	28377	29069	.	+	.	ID=ftr-31;Name=membrane protein;Gene=membrane protein;Parent=ftr-26;Alias=NC_006213.1_7;
+NC_006213	vadr	CDS	29079	30425	.	+	.	ID=ftr-33;Name=nucleocapsid protein;Gene=nucleocapsid protein;Parent=ftr-26;Alias=NC_006213.1_8;

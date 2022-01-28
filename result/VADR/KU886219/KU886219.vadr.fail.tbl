@@ -1,0 +1,113 @@
+>Feature KU886219.1
+185	21468	gene
+			gene	orf1ab
+185	13315	CDS
+13315	21468
+			product	orf1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	KU886219.1_1
+185	13336	CDS
+			product	orf1a polyprotein
+			protein_id	KU886219.1_2
+185	922	mat_peptide
+			product	Leader protein
+			protein_id	KU886219.1_1
+923	2737	mat_peptide
+			product	MHV p65-like protein
+			protein_id	KU886219.1_1
+2738	8434	mat_peptide
+			product	coronavirus nsp1 [PL1-PRO, PL2-PRO, HD]
+			protein_id	KU886219.1_1
+8435	9922	mat_peptide
+			product	transmembrane domain 2
+			protein_id	KU886219.1_1
+9923	10831	mat_peptide
+			product	coronavirus nsp2 [3CL-PRO]
+			protein_id	KU886219.1_1
+10832	11692	mat_peptide
+			product	coronavirus nsp3 [HD2]
+			product	hydrophobic domain
+			protein_id	KU886219.1_1
+11693	11959	mat_peptide
+			product	coronavirus nsp4
+			protein_id	KU886219.1_1
+11960	12550	mat_peptide
+			product	coronavirus nsp5
+			protein_id	KU886219.1_1
+12551	12880	mat_peptide
+			product	coronavirus nsp6
+			protein_id	KU886219.1_1
+12881	13291	mat_peptide
+			product	coronavirus nsp7 [GFL]
+			product	growth-factor-like protein
+			protein_id	KU886219.1_1
+13292	13315	mat_peptide
+13315	16074
+			product	RNA-dependent RNA polymerase
+			product	coronavirus nsp9 [RdRp]
+			protein_id	KU886219.1_1
+16075	17883	mat_peptide
+			product	coronavirus nsp10 [MB, NTPase/HEL]
+			product	metal-binding domain, NTPase/helicase domain
+			protein_id	KU886219.1_1
+17884	19446	mat_peptide
+			product	coronavirus nsp11
+			protein_id	KU886219.1_1
+19447	20568	mat_peptide
+			product	coronavirus nsp12
+			protein_id	KU886219.1_1
+20569	21465	mat_peptide
+			product	coronavirus nsp13
+			protein_id	KU886219.1_1
+21478	22314	gene
+			gene	NS
+21478	22314	CDS
+			product	32 kDa non-structural protein
+			protein_id	KU886219.1_3
+22326	23600	gene
+			gene	HE
+22326	23600	CDS
+			product	hemmaglutinin-esterase
+			protein_id	KU886219.1_4
+23615	27706	gene
+			gene	S
+23615	27706	CDS
+			product	spike structural protein
+			protein_id	KU886219.1_5
+27696	27785	gene
+27696	27785	CDS
+			product	4.9 kDa non-structural protein
+			protein_id	KU886219.1_6
+27863	27999	gene
+27863	27999	CDS
+			product	4.8 kDa non-structural protein
+			protein_id	KU886219.1_7
+28079	28408	gene
+28079	28408	CDS
+			product	12.7 kDa non-structural protein
+			protein_id	KU886219.1_8
+28395	28649	gene
+			gene	E
+28395	28649	CDS
+			product	small membrane protein
+			protein_id	KU886219.1_9
+28664	29356	gene
+			gene	M
+28664	29356	CDS
+			product	matrix protein
+			protein_id	KU886219.1_10
+29366	30712	gene
+			gene	N
+29366	30712	CDS
+			product	nucleocapsid protein
+			protein_id	KU886219.1_11
+29427	30050	CDS
+			product	hypothetical protein
+			protein_id	KU886219.1_12
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:4.8 kDa non-structural protein) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAA, shifted S:20,M:20]; seq-coords:27977..27979:+; mdl-coords:28003..28006:+; mdl:NC_003045;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:4.8 kDa non-structural protein) possible frameshift in CDS (frame not restored before end) [cause:delete,S:27978,M:28005(1); frame:1(3); length:116:(21);]; seq-coords:27979..27999:+; mdl-coords:28005..28026:+; mdl:NC_003045;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:4.8 kDa non-structural protein) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [23>8]; seq-coords:27977..27999:+; mdl-coords:28026..28026:+; mdl:NC_003045;
+ERROR: MUTATION_AT_START: (CDS:4.8 kDa non-structural protein) expected start codon could not be identified [ATT]; seq-coords:27863..27865:+; mdl-coords:27889..27891:+; mdl:NC_003045;
+ERROR: UNEXPECTED_LENGTH: (CDS:4.8 kDa non-structural protein) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [137]; seq-coords:27863..27999:+; mdl-coords:27889..28026:+; mdl:NC_003045;

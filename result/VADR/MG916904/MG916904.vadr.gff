@@ -1,0 +1,8 @@
+##gff-version 3
+MG916904	vadr	region	12439	20460	.	+	.	ID=ftr-3;Name=ORF1ab polyprotein;Gene=ORF1ab polyprotein;Alias=MG916904.1_1;
+MG916904	vadr	CDS	20463	24542	.	+	.	ID=ftr-5;Name=spike glycoprotein;Gene=spike glycoprotein;Alias=MG916904.1_2;
+MG916904	vadr	CDS	24542	25673	.	+	.	ID=ftr-7;Name=hypothetical protein ORF3;Gene=hypothetical protein ORF3;Alias=MG916904.1_3;
+MG916904	vadr	CDS	25681	25878	.	+	.	ID=ftr-9;Name=small envelope protein;Gene=small envelope protein;Alias=MG916904.1_4;
+MG916904	vadr	CDS	25888	26624	.	+	.	ID=ftr-11;Name=membrane glycoprotein;Gene=membrane glycoprotein;Alias=MG916904.1_5;
+MG916904	vadr	CDS	26635	27814	.	+	.	ID=ftr-13;Name=nucleocapsid protein;Gene=nucleocapsid protein;Alias=MG916904.1_6;
+MG916904	vadr	CDS	27877	28485	.	+	.	ID=ftr-15;Name=hypothetical protein ORF7;Gene=hypothetical protein ORF7;Alias=MG916904.1_7;

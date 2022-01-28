@@ -1,0 +1,4 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+KU182965.1	NC_009019	CDS	orf1ab polyprotein	INSERTION_OF_NT	3337..3366:+	3336..3336:+	too large of an insertion in nucleotide-based alignment of CDS feature [30>27]
+KU182965.1	NC_009019	CDS	orf1ab polyprotein	INSERTION_OF_NT	3335..3364:+	3335..3335:+	too large of an insertion in protein-based alignment [30>27]
+KU182965.1	NC_009019	CDS	spike glycoprotein	INDEFINITE_ANNOTATION_START	21609..21644:+	21570..21570:+	protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [36>5]

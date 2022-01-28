@@ -1,0 +1,14 @@
+#       seq            seq                   ftr   ftr                   ftr  num  sgm    seq    seq    mdl    mdl    sgm            5'  3'  5'   3' 
+#idx    name           len  p/f   model      type  name                  idx  sgm  idx   from     to   from     to    len  str  trc  pp  pp  gap  gap
+#-----  -----------  -----  ----  ---------  ----  --------------------  ---  ---  ---  -----  -----  -----  -----  -----  ---  ---  --  --  ---  ---
+1.1.1   NC_032730.1  28763  PASS  NC_032730  gene  gene.1                  1    1    1    332  20580    332  20580  20249    +  no    ?   ?  no   no 
+1.2.1   NC_032730.1  28763  PASS  NC_032730  CDS   orf1ab_polyprotein      2    2    1    332  12538    332  12538  12207    +  no    ?   ?  no   no 
+1.2.2   NC_032730.1  28763  PASS  NC_032730  CDS   orf1ab_polyprotein      2    2    2  12538  20580  12538  20580   8043    +  no    ?   ?  no   no 
+1.3.1   NC_032730.1  28763  PASS  NC_032730  gene  gene.2                  3    1    1  21412  24816  21412  24816   3405    +  no    ?   ?  no   no 
+1.4.1   NC_032730.1  28763  PASS  NC_032730  CDS   spike_glycoprotein      4    1    1  21412  24816  21412  24816   3405    +  no    ?   ?  no   no 
+1.5.1   NC_032730.1  28763  PASS  NC_032730  gene  gene.3                  5    1    1  25457  25693  25457  25693    237    +  no    ?   ?  no   no 
+1.6.1   NC_032730.1  28763  PASS  NC_032730  CDS   envelope_protein        6    1    1  25457  25693  25457  25693    237    +  no    ?   ?  no   no 
+1.7.1   NC_032730.1  28763  PASS  NC_032730  gene  gene.4                  7    1    1  25703  26449  25703  26449    747    +  no    ?   ?  no   no 
+1.8.1   NC_032730.1  28763  PASS  NC_032730  CDS   membrane_protein        8    1    1  25703  26449  25703  26449    747    +  no    ?   ?  no   no 
+1.9.1   NC_032730.1  28763  PASS  NC_032730  gene  gene.5                  9    1    1  26974  28149  26974  28149   1176    +  no    ?   ?  no   no 
+1.10.1  NC_032730.1  28763  PASS  NC_032730  CDS   nucleocapsid_protein   10    1    1  26974  28149  26974  28149   1176    +  no    ?   ?  no   no 

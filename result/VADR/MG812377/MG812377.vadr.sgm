@@ -1,0 +1,22 @@
+#       seq           seq                   ftr   ftr                    ftr  num  sgm    seq    seq    mdl    mdl    sgm            5'  3'  5'   3' 
+#idx    name          len  p/f   model      type  name                   idx  sgm  idx   from     to   from     to    len  str  trc  pp  pp  gap  gap
+#-----  ----------  -----  ----  ---------  ----  ---------------------  ---  ---  ---  -----  -----  -----  -----  -----  ---  ---  --  --  ---  ---
+1.1.1   MG812377.1  25710  FAIL  NC_016992  gene  orf1ab                   1    1    1    500  19278    520  19352  18779    +  no    ?   ?  no   no 
+1.2.1   MG812377.1  25710  FAIL  NC_016992  CDS   replicase_polyprotein    2    2    1    500  11350    520  11424  10851    +  no    ?   ?  no   no 
+1.2.2   MG812377.1  25710  FAIL  NC_016992  CDS   replicase_polyprotein    2    2    2  11350  19278  11424  19352   7929    +  no    ?   ?  no   no 
+1.3.1   MG812377.1  25710  FAIL  NC_016992  gene  S                        3    1    1  19260  22733  19334  22954   3474    +  no    ?   ?  no   no 
+1.4.1   MG812377.1  25710  FAIL  NC_016992  CDS   spike_glycoprotein       4    1    1  19260  22733  19334  22954   3474    +  no    ?   ?  no   no 
+1.5.1   MG812377.1  25710  FAIL  NC_016992  gene  E                        5    1    1  22727  22978  22948  23196    252    +  no    ?   ?  no   no 
+1.6.1   MG812377.1  25710  FAIL  NC_016992  CDS   envelope_protein         6    1    1  22727  22978  22948  23196    252    +  no    ?   ?  no   no 
+1.7.1   MG812377.1  25710  FAIL  NC_016992  gene  M                        7    1    1  22971  23624  23189  23842    654    +  no    ?   ?  no   no 
+1.8.1   MG812377.1  25710  FAIL  NC_016992  CDS   membrane_protein         8    1    1  22971  23624  23189  23842    654    +  no    ?   ?  no   no 
+1.9.1   MG812377.1  25710  FAIL  NC_016992  gene  NS6                      9    1    1  23624  23909  23842  24129    286    +  no    ?   ?  no   no 
+1.10.1  MG812377.1  25710  FAIL  NC_016992  CDS   NS6_protein             10    1    1  23624  23909  23842  24129    286    +  no    ?   ?  no   no 
+1.11.1  MG812377.1  25710  FAIL  NC_016992  gene  N                       11    1    1  23930  24955  24150  25178   1026    +  no    ?   ?  no   no 
+1.12.1  MG812377.1  25710  FAIL  NC_016992  CDS   nucleocapsid_protein    12    1    1  23930  24955  24150  25178   1026    +  no    ?   ?  no   no 
+1.13.1  MG812377.1  25710  FAIL  NC_016992  gene  NS7a                    13    1    1  24024  24626  24244  24846    603    +  no    ?   ?  no   no 
+1.14.1  MG812377.1  25710  FAIL  NC_016992  CDS   NS7a_protein            14    1    1  24024  24626  24244  24846    603    +  no    ?   ?  no   no 
+1.15.1  MG812377.1  25710  FAIL  NC_016992  gene  NS7b                    15    1    1  24966  25400  25189  25623    435    +  no    ?   ?  no   no 
+1.16.1  MG812377.1  25710  FAIL  NC_016992  CDS   NS7b_protein            16    1    1  24966  25400  25189  25623    435    +  no    ?   ?  no   no 
+1.17.1  MG812377.1  25710  FAIL  NC_016992  gene  NS7c                    17    1    1  25316  25528  25539  25751    213    +  no    ?   ?  no   no 
+1.18.1  MG812377.1  25710  FAIL  NC_016992  CDS   NS7c_protein            18    1    1  25316  25528  25539  25751    213    +  no    ?   ?  no   no 

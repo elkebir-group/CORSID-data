@@ -1,0 +1,4 @@
+#      seq                    ftr   ftr   ftr  alert           alert                    seq  seq     mdl  mdl  alert 
+#idx   name        model      type  name  idx  code      fail  description           coords  len  coords  len  detail
+#----  ----------  ---------  ----  ----  ---  --------  ----  --------------------  ------  ---  ------  ---  ------
+1.1.1  KX834351.1  NC_039208  -     -       -  lowsim5s  yes   LOW_SIMILARITY_START  1..7:+    7  0..0:+    1  significant similarity not detected at 5' end of the sequence [low similarity region of length 7]

@@ -1,0 +1,7 @@
+##gff-version 3
+MK472068	vadr	region	11795	19815	.	+	.	ID=ftr-3;Name=ORF1ab polyprotein;Gene=ORF1ab polyprotein;Alias=MK472068.1_1;
+MK472068	vadr	CDS	19873	23958	.	+	.	ID=ftr-5;Name=spike glycoprotein;Gene=spike glycoprotein;Alias=MK472068.1_2;
+MK472068	vadr	CDS	23958	24563	.	+	.	ID=ftr-7;Name=hypothetical protein ORF3;Gene=hypothetical protein ORF3;Alias=MK472068.1_3;
+MK472068	vadr	CDS	24581	24811	.	+	.	ID=ftr-9;Name=small envelope protein;Gene=small envelope protein;Alias=MK472068.1_4;
+MK472068	vadr	CDS	24818	25495	.	+	.	ID=ftr-11;Name=membrane glycoprotein;Gene=membrane glycoprotein;Alias=MK472068.1_5;
+MK472068	vadr	CDS	25504	26763	.	+	.	ID=ftr-13;Name=nucleocapsid protein;Gene=nucleocapsid protein;Alias=MK472068.1_6;

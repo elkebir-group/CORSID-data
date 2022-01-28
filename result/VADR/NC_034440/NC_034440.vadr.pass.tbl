@@ -1,0 +1,51 @@
+>Feature NC_034440.1
+61	13227	gene
+			gene	ORF1a
+61	13227	CDS
+			product	ORF1a protein
+			protein_id	NC_034440.1_1
+13416	21290	gene
+			gene	ORF1b
+13416	21290	CDS
+			product	ORF1b protein
+			protein_id	NC_034440.1_2
+21232	25269	gene
+			gene	S
+21232	25269	CDS
+			product	spike glycoprotein
+			protein_id	NC_034440.1_3
+25284	25589	gene
+			gene	ORF3
+25284	25589	CDS
+			product	ORF3 protein
+			protein_id	NC_034440.1_4
+25598	25927	gene
+			gene	ORF4a
+25598	25927	CDS
+			product	ORF4a protein
+			protein_id	NC_034440.1_5
+25803	26579	gene
+			gene	ORF4b
+25803	26579	CDS
+			product	ORF4b protein
+			protein_id	NC_034440.1_6
+26586	27263	gene
+			gene	ORF5
+26586	27263	CDS
+			product	ORF5 protein
+			protein_id	NC_034440.1_7
+27342	27590	gene
+			gene	E
+27342	27590	CDS
+			product	small envelope protein
+			protein_id	NC_034440.1_8
+27605	28264	gene
+			gene	M
+27605	28264	CDS
+			product	membrane glycoprotein
+			protein_id	NC_034440.1_9
+28311	29558	gene
+			gene	N
+28311	29558	CDS
+			product	nucleocapsid phosphoprotein
+			protein_id	NC_034440.1_10

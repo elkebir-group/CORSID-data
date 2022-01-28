@@ -1,0 +1,93 @@
+>Feature MK167038.1
+206	21750	gene
+			gene	orf1ab
+206	13597	CDS
+13597	21750
+			product	orf1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	MK167038.1_1
+206	871	mat_peptide
+			product	Leader protein
+			product	nsp1
+			protein_id	MK167038.1_1
+872	2632	mat_peptide
+			product	nsp2
+			protein_id	MK167038.1_1
+2633	8716	mat_peptide
+			product	nsp3
+			protein_id	MK167038.1_1
+8717	10204	mat_peptide
+			product	nsp4 [TM2]
+			protein_id	MK167038.1_1
+10205	11113	mat_peptide
+			product	nsp5
+			protein_id	MK167038.1_1
+11114	11974	mat_peptide
+			product	nsp6 [hydrophobic domain]
+			protein_id	MK167038.1_1
+11975	12250	mat_peptide
+			product	nsp7
+			protein_id	MK167038.1_1
+12251	12832	mat_peptide
+			product	nsp8
+			protein_id	MK167038.1_1
+12833	13162	mat_peptide
+			product	nsp9
+			protein_id	MK167038.1_1
+13163	13573	mat_peptide
+			product	nsp10
+			protein_id	MK167038.1_1
+13574	13597	mat_peptide
+13597	16356
+			product	nsp12
+			protein_id	MK167038.1_1
+16357	18165	mat_peptide
+			product	nsp13
+			protein_id	MK167038.1_1
+18166	19728	mat_peptide
+			product	nsp14
+			protein_id	MK167038.1_1
+19729	20850	mat_peptide
+			product	nsp15
+			protein_id	MK167038.1_1
+20851	21747	mat_peptide
+			product	nsp16
+			protein_id	MK167038.1_1
+21783	22943	gene
+			gene	HE
+21783	22943	CDS
+			product	hemagglutinin-esterase glycoprotein
+			protein_id	MK167038.1_2
+22952	27007	gene
+			gene	S
+22952	27007	CDS
+			product	spike glycoprotein
+			protein_id	MK167038.1_3
+27046	27375	gene
+			gene	orf4
+27046	27375	CDS
+			product	non-structural protein
+			protein_id	MK167038.1_4
+27368	27616	gene
+			gene	E
+27368	27616	CDS
+			product	small membrane protein
+			protein_id	MK167038.1_5
+27628	28299	gene
+			gene	M
+27628	28299	CDS
+			product	membrane glycoprotein
+			protein_id	MK167038.1_6
+28315	29640	gene
+			gene	N
+28315	29640	CDS
+			product	nucleocapsid phosphoprotein
+			protein_id	MK167038.1_7
+28337	28954	gene
+			gene	N2
+28337	28954	CDS
+			product	nucleocapsid phosphoprotein 2
+			protein_id	MK167038.1_8
+
+Additional note(s) to submitter:
+ERROR: DISCONTINUOUS_SIMILARITY: (*sequence*) not all hits are in the same order in the sequence and the homology model [seq order: 1,26,25,23,21,19,17,15,13,11,9,7,5,3,2,4,6,8,10,12,14,16,18,20,22,24,27, mdl order: 1,24,22,20,18,16,14,12,10,8,6,4,2,3,5,7,9,11,13,15,17,19,21,23,25,27,26]; seq-coords:1..29921:+,3128..3513:+,3038..3426:+,3158..3513:+,3038..3396:+,3188..3513:+,3038..3366:+,3218..3513:+,3038..3336:+,3248..3513:+,3038..3306:+,3278..3513:+,3038..3276:+,3308..3513:+,3038..3246:+,3338..3513:+,3038..3216:+,3368..3513:+,3038..3186:+,3398..3513:+,3038..3156:+,3428..3513:+,3038..3126:+,3458..3513:+,3038..3096:+,42..74:+,22934..22974:+; mdl-coords:1..29926:+,3038..3426:+,3128..3516:+,3038..3396:+,3158..3516:+,3038..3366:+,3188..3516:+,3038..3336:+,3218..3516:+,3038..3306:+,3248..3516:+,3038..3276:+,3278..3516:+,3038..3246:+,3308..3516:+,3038..3216:+,3338..3516:+,3038..3186:+,3368..3516:+,3038..3156:+,3398..3516:+,3038..3126:+,3428..3516:+,3038..3096:+,3458..3516:+,27014..27046:+,21754..21794:+; mdl:NC_006577;

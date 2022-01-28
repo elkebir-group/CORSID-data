@@ -1,0 +1,19 @@
+##gff-version 3
+FJ376620	vadr	gene	607	19394	.	+	.	ID=ftr-1;Name=orf1ab;Gene=orf1ab;
+FJ376620	vadr	region	11346	19394	.	+	.	ID=ftr-3;Name=orf1ab polyprotein;Gene=orf1ab polyprotein;Parent=ftr-1;Alias=FJ376620.1_1;
+FJ376620	vadr	gene	19376	22867	.	+	.	ID=ftr-4;Name=S;Gene=S;
+FJ376620	vadr	CDS	19376	22867	.	+	.	ID=ftr-5;Name=spike glycoprotein;Gene=spike glycoprotein;Parent=ftr-4;Alias=FJ376620.1_2;
+FJ376620	vadr	gene	22861	23109	.	+	.	ID=ftr-6;Name=E;Gene=E;
+FJ376620	vadr	CDS	22861	23109	.	+	.	ID=ftr-7;Name=small membrane protein;Gene=small membrane protein;Parent=ftr-6;Alias=FJ376620.1_3;
+FJ376620	vadr	gene	23106	23807	.	+	.	ID=ftr-8;Name=M;Gene=M;
+FJ376620	vadr	CDS	23106	23807	.	+	.	ID=ftr-9;Name=membrane protein;Gene=membrane protein;Parent=ftr-8;Alias=FJ376620.1_4;
+FJ376620	vadr	gene	23807	24094	.	+	.	ID=ftr-10;Name=NS6;Gene=NS6;
+FJ376620	vadr	CDS	23807	24094	.	+	.	ID=ftr-11;Name=nonstructural protein;Gene=nonstructural protein;Parent=ftr-10;Alias=FJ376620.1_5;
+FJ376620	vadr	gene	24115	25164	.	+	.	ID=ftr-12;Name=N;Gene=N;
+FJ376620	vadr	CDS	24115	25164	.	+	.	ID=ftr-13;Name=nucleocapsid phosphoprotein;Gene=nucleocapsid phosphoprotein;Parent=ftr-12;Alias=FJ376620.1_6;
+FJ376620	vadr	gene	25343	25714	.	+	.	ID=ftr-14;Name=NS7a;Gene=NS7a;
+FJ376620	vadr	CDS	25343	25714	.	+	.	ID=ftr-15;Name=nonstructural protein;Gene=nonstructural protein;Parent=ftr-14;Alias=FJ376620.1_7;
+FJ376620	vadr	gene	25720	25974	.	+	.	ID=ftr-16;Name=NS7b;Gene=NS7b;
+FJ376620	vadr	CDS	25720	25974	.	+	.	ID=ftr-17;Name=nonstructural protein;Gene=nonstructural protein;Parent=ftr-16;Alias=FJ376620.1_8;
+FJ376620	vadr	gene	25971	26255	.	+	.	ID=ftr-18;Name=NS7c;Gene=NS7c;
+FJ376620	vadr	CDS	25971	26255	.	+	.	ID=ftr-19;Name=nonstructural protein;Gene=nonstructural protein;Parent=ftr-18;Alias=FJ376620.1_9;

@@ -1,0 +1,82 @@
+>Feature MF577027.1
+292	20636	gene
+292	12615	CDS
+12615	20636
+			product	Pol1
+			exception	ribosomal slippage
+			protein_id	MF577027.1_1
+292	621	mat_peptide
+			product	putative leader protein
+			protein_id	MF577027.1_1
+2977	7842	mat_peptide
+			product	putative coronavirus nsp1
+			protein_id	MF577027.1_1
+9283	10188	mat_peptide
+			product	putative coronavirus nsp2 [3CL-PRO]
+			protein_id	MF577027.1_1
+10189	11028	mat_peptide
+			product	putative coronavirus nsp3 [HD2]
+			protein_id	MF577027.1_1
+11029	11277	mat_peptide
+			product	putative coronavirus nsp4
+			protein_id	MF577027.1_1
+11278	11862	mat_peptide
+			product	putative coronavirus nsp5
+			protein_id	MF577027.1_1
+11863	12186	mat_peptide
+			product	putative coronavirus nsp6
+			protein_id	MF577027.1_1
+12187	12591	mat_peptide
+			product	formerly known as growth-factor-like protein
+			product	putative coronavirus nsp7
+			protein_id	MF577027.1_1
+12592	12615	mat_peptide
+12615	15371
+			product	RNA-dependent RNA polymerase
+			product	putative coronavirus nsp9 [RdRp]
+			protein_id	MF577027.1_1
+15372	17162	mat_peptide
+			product	putative coronavirus nsp10 [MB, NTPase/HEL]
+			protein_id	MF577027.1_1
+17163	18713	mat_peptide
+			product	putative coronavirus nsp11
+			protein_id	MF577027.1_1
+18714	19730	mat_peptide
+			product	putative coronavirus nsp12
+			protein_id	MF577027.1_1
+19731	20633	mat_peptide
+			product	putative coronavirus nsp13
+			protein_id	MF577027.1_1
+20633	24751	gene
+20633	24751	CDS
+			product	spike protein
+			protein_id	MF577027.1_2
+24751	25425	gene
+24751	25425	CDS
+			product	hypothetical protein
+			protein_id	MF577027.1_3
+25406	25636	gene
+25406	25636	CDS
+			product	envelope protein
+			protein_id	MF577027.1_4
+25644	26324	gene
+25644	26324	CDS
+			product	membrane protein
+			protein_id	MF577027.1_5
+26336	27640	gene
+26336	27640	CDS
+			product	nucleocapsid protein
+			protein_id	MF577027.1_6
+
+Additional note(s) to submitter:
+ERROR: LOW_COVERAGE: (*sequence*) low sequence fraction with significant similarity to homology model [0.893<0.900]; seq-coords:20638..22941:+,24093..24397:+,27643..28044:+,28285..28315:+; mdl-coords:-; mdl:NC_003436;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 31]; seq-coords:28285..28315:+; mdl-coords:28033..28033:+; mdl:NC_003436;
+ERROR: LOW_SIMILARITY: (*sequence*) internal region without significant similarity [low similarity region of length 402]; seq-coords:27643..28044:+; mdl-coords:27701..27806:+; mdl:NC_003436;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike protein) possible frameshift in CDS (frame restored before end) [cause:delete,S:20659,M:20665..20669(5); restore:delete,S:20711,M:20721..20722(2); frame:1(23)1212121213121; length:27:(42:10):282:21:259:24:303:15:258:12:171:21:300:12:2362; intermediate:insert,S:20702(1),M:20711;]; seq-coords:20660..20711:+; mdl-coords:20665..20722:+; mdl:NC_003436;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike protein) possible frameshift in CDS (frame restored before end) [cause:delete,S:20993,M:21011..21012(2); restore:delete,S:21014,M:21034(1); frame:1231(2)12121213121; length:27:42:10:282:(21):259:24:303:15:258:12:171:21:300:12:2362;]; seq-coords:20994..21014:+; mdl-coords:21011..21034:+; mdl:NC_003436;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike protein) possible frameshift in CDS (frame restored before end) [cause:insert,S:21274(1),M:21290; restore:delete,S:21297,M:21314..21317(4); frame:123121(2)121213121; length:27:42:10:282:21:259:(24):303:15:258:12:171:21:300:12:2362;]; seq-coords:21274..21297:+; mdl-coords:21291..21317:+; mdl:NC_003436;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike protein) possible frameshift in CDS (frame restored before end) [cause:delete,S:21600,M:21624..21628(5); restore:insert,S:21614..21615(2),M:21641; frame:12312121(2)1213121; length:27:42:10:282:21:259:24:303:(15):258:12:171:21:300:12:2362;]; seq-coords:21601..21615:+; mdl-coords:21624..21641:+; mdl:NC_003436;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike protein) possible frameshift in CDS (frame restored before end) [cause:delete,S:21873,M:21894..21898(5); restore:delete,S:21885,M:21911..21914(4); frame:1231212121(2)13121; length:27:42:10:282:21:259:24:303:15:258:(12):171:21:300:12:2362;]; seq-coords:21874..21885:+; mdl-coords:21894..21914:+; mdl:NC_003436;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike protein) possible frameshift in CDS (frame restored before end) [cause:insert,S:22057..22058(2),M:22088; restore:insert,S:22077(1),M:22106; frame:123121212121(3)121; length:27:42:10:282:21:259:24:303:15:258:12:171:(21):300:12:2362;]; seq-coords:22057..22077:+; mdl-coords:22089..22106:+; mdl:NC_003436;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike protein) possible frameshift in CDS (frame restored before end) [cause:insert,S:22378(1),M:22403; restore:delete,S:22389,M:22415(1); frame:12312121212131(2)1; length:27:42:10:282:21:259:24:303:15:258:12:171:21:300:(12):2362;]; seq-coords:22378..22389:+; mdl-coords:22404..22415:+; mdl:NC_003436;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:spike protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:20633..20641:+; mdl-coords:20638..20638:+; mdl:NC_003436;

@@ -1,0 +1,20 @@
+##gff-version 3
+KX981440	vadr	region	12607	20628	.	+	.	ID=ftr-3;Name=Pol1;Gene=Pol1;Alias=KX981440.1_1;
+KX981440	vadr	mat_peptide	284	613	.	+	.	ID=ftr-4;Name=putative leader protein;Gene=putative leader protein;Alias=KX981440.1_1;
+KX981440	vadr	mat_peptide	2969	7834	.	+	.	ID=ftr-5;Name=putative coronavirus nsp1;Gene=putative coronavirus nsp1;Alias=KX981440.1_1;
+KX981440	vadr	mat_peptide	9275	10180	.	+	.	ID=ftr-6;Name=putative coronavirus nsp2 [3CL-PRO];Gene=putative coronavirus nsp2 [3CL-PRO];Alias=KX981440.1_1;
+KX981440	vadr	mat_peptide	10181	11020	.	+	.	ID=ftr-7;Name=putative coronavirus nsp3 [HD2];Gene=putative coronavirus nsp3 [HD2];Alias=KX981440.1_1;
+KX981440	vadr	mat_peptide	11021	11269	.	+	.	ID=ftr-8;Name=putative coronavirus nsp4;Gene=putative coronavirus nsp4;Alias=KX981440.1_1;
+KX981440	vadr	mat_peptide	11270	11854	.	+	.	ID=ftr-9;Name=putative coronavirus nsp5;Gene=putative coronavirus nsp5;Alias=KX981440.1_1;
+KX981440	vadr	mat_peptide	11855	12178	.	+	.	ID=ftr-10;Name=putative coronavirus nsp6;Gene=putative coronavirus nsp6;Alias=KX981440.1_1;
+KX981440	vadr	mat_peptide	12179	12583	.	+	.	ID=ftr-11;Name=putative coronavirus nsp7;Gene=putative coronavirus nsp7;Alias=KX981440.1_1;
+KX981440	vadr	region	12607	15363	.	+	.	ID=ftr-13;Name=putative coronavirus nsp9 [RdRp];Gene=putative coronavirus nsp9 [RdRp];Alias=KX981440.1_1;
+KX981440	vadr	mat_peptide	15364	17154	.	+	.	ID=ftr-14;Name=putative coronavirus nsp10 [MB, NTPase/HEL];Gene=putative coronavirus nsp10 [MB, NTPase/HEL];Alias=KX981440.1_1;
+KX981440	vadr	mat_peptide	17155	18705	.	+	.	ID=ftr-15;Name=putative coronavirus nsp11;Gene=putative coronavirus nsp11;Alias=KX981440.1_1;
+KX981440	vadr	mat_peptide	18706	19722	.	+	.	ID=ftr-16;Name=putative coronavirus nsp12;Gene=putative coronavirus nsp12;Alias=KX981440.1_1;
+KX981440	vadr	mat_peptide	19723	20625	.	+	.	ID=ftr-17;Name=putative coronavirus nsp13;Gene=putative coronavirus nsp13;Alias=KX981440.1_1;
+KX981440	vadr	CDS	20625	24779	.	+	.	ID=ftr-19;Name=spike protein;Gene=spike protein;Alias=KX981440.1_2;
+KX981440	vadr	CDS	24779	25453	.	+	.	ID=ftr-21;Name=hypothetical protein;Gene=hypothetical protein;Alias=KX981440.1_3;
+KX981440	vadr	CDS	25434	25664	.	+	.	ID=ftr-23;Name=envelope protein;Gene=envelope protein;Alias=KX981440.1_4;
+KX981440	vadr	CDS	25672	26352	.	+	.	ID=ftr-25;Name=membrane protein;Gene=membrane protein;Alias=KX981440.1_5;
+KX981440	vadr	CDS	26364	27689	.	+	.	ID=ftr-27;Name=nucleocapsid protein;Gene=nucleocapsid protein;Alias=KX981440.1_6;

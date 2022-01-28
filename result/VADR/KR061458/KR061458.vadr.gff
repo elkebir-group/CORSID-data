@@ -1,0 +1,20 @@
+##gff-version 3
+KR061458	vadr	region	12587	20608	.	+	.	ID=ftr-3;Name=Pol1;Gene=Pol1;Alias=KR061458.1_1;
+KR061458	vadr	mat_peptide	264	593	.	+	.	ID=ftr-4;Name=putative leader protein;Gene=putative leader protein;Alias=KR061458.1_1;
+KR061458	vadr	mat_peptide	2949	7814	.	+	.	ID=ftr-5;Name=putative coronavirus nsp1;Gene=putative coronavirus nsp1;Alias=KR061458.1_1;
+KR061458	vadr	mat_peptide	9255	10160	.	+	.	ID=ftr-6;Name=putative coronavirus nsp2 [3CL-PRO];Gene=putative coronavirus nsp2 [3CL-PRO];Alias=KR061458.1_1;
+KR061458	vadr	mat_peptide	10161	11000	.	+	.	ID=ftr-7;Name=putative coronavirus nsp3 [HD2];Gene=putative coronavirus nsp3 [HD2];Alias=KR061458.1_1;
+KR061458	vadr	mat_peptide	11001	11249	.	+	.	ID=ftr-8;Name=putative coronavirus nsp4;Gene=putative coronavirus nsp4;Alias=KR061458.1_1;
+KR061458	vadr	mat_peptide	11250	11834	.	+	.	ID=ftr-9;Name=putative coronavirus nsp5;Gene=putative coronavirus nsp5;Alias=KR061458.1_1;
+KR061458	vadr	mat_peptide	11835	12158	.	+	.	ID=ftr-10;Name=putative coronavirus nsp6;Gene=putative coronavirus nsp6;Alias=KR061458.1_1;
+KR061458	vadr	mat_peptide	12159	12563	.	+	.	ID=ftr-11;Name=putative coronavirus nsp7;Gene=putative coronavirus nsp7;Alias=KR061458.1_1;
+KR061458	vadr	region	12587	15343	.	+	.	ID=ftr-13;Name=putative coronavirus nsp9 [RdRp];Gene=putative coronavirus nsp9 [RdRp];Alias=KR061458.1_1;
+KR061458	vadr	mat_peptide	15344	17134	.	+	.	ID=ftr-14;Name=putative coronavirus nsp10 [MB, NTPase/HEL];Gene=putative coronavirus nsp10 [MB, NTPase/HEL];Alias=KR061458.1_1;
+KR061458	vadr	mat_peptide	17135	18685	.	+	.	ID=ftr-15;Name=putative coronavirus nsp11;Gene=putative coronavirus nsp11;Alias=KR061458.1_1;
+KR061458	vadr	mat_peptide	18686	19702	.	+	.	ID=ftr-16;Name=putative coronavirus nsp12;Gene=putative coronavirus nsp12;Alias=KR061458.1_1;
+KR061458	vadr	mat_peptide	19703	20605	.	+	.	ID=ftr-17;Name=putative coronavirus nsp13;Gene=putative coronavirus nsp13;Alias=KR061458.1_1;
+KR061458	vadr	CDS	20605	24756	.	+	.	ID=ftr-19;Name=spike protein;Gene=spike protein;Alias=KR061458.1_2;
+KR061458	vadr	CDS	24756	25430	.	+	.	ID=ftr-21;Name=hypothetical protein;Gene=hypothetical protein;Alias=KR061458.1_3;
+KR061458	vadr	CDS	25411	25641	.	+	.	ID=ftr-23;Name=envelope protein;Gene=envelope protein;Alias=KR061458.1_4;
+KR061458	vadr	CDS	25649	26329	.	+	.	ID=ftr-25;Name=membrane protein;Gene=membrane protein;Alias=KR061458.1_5;
+KR061458	vadr	CDS	26341	27666	.	+	.	ID=ftr-27;Name=nucleocapsid protein;Gene=nucleocapsid protein;Alias=KR061458.1_6;

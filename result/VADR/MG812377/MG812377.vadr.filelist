@@ -1,0 +1,18 @@
+# esl-seqstat -a output for input fasta file saved in:                             MG812377.vadr.seqstat
+# 5 column feature table output for passing sequences saved in:                    MG812377.vadr.pass.tbl
+# 5 column feature table output for failing sequences saved in:                    MG812377.vadr.fail.tbl
+# list of passing sequences saved in:                                              MG812377.vadr.pass.list
+# list of failing sequences saved in:                                              MG812377.vadr.fail.list
+# list of alerts in the feature tables saved in:                                   MG812377.vadr.alt.list
+# fasta file with passing sequences saved in:                                      MG812377.vadr.pass.fa
+# fasta file with failing sequences saved in:                                      MG812377.vadr.fail.fa
+# per-sequence tabular annotation summary file saved in:                           MG812377.vadr.sqa
+# per-sequence tabular classification summary file saved in:                       MG812377.vadr.sqc
+# per-feature tabular summary file saved in:                                       MG812377.vadr.ftr
+# per-model-segment tabular summary file saved in:                                 MG812377.vadr.sgm
+# per-alert tabular summary file saved in:                                         MG812377.vadr.alt
+# alert count tabular summary file saved in:                                       MG812377.vadr.alc
+# per-model tabular summary file saved in:                                         MG812377.vadr.mdl
+# alignment doctoring tabular summary file saved in:                               MG812377.vadr.dcr
+# seed alignment summary file (-s) saved in:                                       MG812377.vadr.sda
+# replaced stretches of Ns summary file (-r) saved in:                             MG812377.vadr.rpn

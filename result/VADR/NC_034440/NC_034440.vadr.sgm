@@ -1,0 +1,23 @@
+#       seq            seq                   ftr   ftr                          ftr  num  sgm    seq    seq    mdl    mdl    sgm            5'  3'  5'   3' 
+#idx    name           len  p/f   model      type  name                         idx  sgm  idx   from     to   from     to    len  str  trc  pp  pp  gap  gap
+#-----  -----------  -----  ----  ---------  ----  ---------------------------  ---  ---  ---  -----  -----  -----  -----  -----  ---  ---  --  --  ---  ---
+1.1.1   NC_034440.1  29642  PASS  NC_034440  gene  ORF1a                          1    1    1     61  13227     61  13227  13167    +  no    ?   ?  no   no 
+1.2.1   NC_034440.1  29642  PASS  NC_034440  CDS   ORF1a_protein                  2    1    1     61  13227     61  13227  13167    +  no    ?   ?  no   no 
+1.3.1   NC_034440.1  29642  PASS  NC_034440  gene  ORF1b                          3    1    1  13416  21290  13416  21290   7875    +  no    ?   ?  no   no 
+1.4.1   NC_034440.1  29642  PASS  NC_034440  CDS   ORF1b_protein                  4    1    1  13416  21290  13416  21290   7875    +  no    ?   ?  no   no 
+1.5.1   NC_034440.1  29642  PASS  NC_034440  gene  S                              5    1    1  21232  25269  21232  25269   4038    +  no    ?   ?  no   no 
+1.6.1   NC_034440.1  29642  PASS  NC_034440  CDS   spike_glycoprotein             6    1    1  21232  25269  21232  25269   4038    +  no    ?   ?  no   no 
+1.7.1   NC_034440.1  29642  PASS  NC_034440  gene  ORF3                           7    1    1  25284  25589  25284  25589    306    +  no    ?   ?  no   no 
+1.8.1   NC_034440.1  29642  PASS  NC_034440  CDS   ORF3_protein                   8    1    1  25284  25589  25284  25589    306    +  no    ?   ?  no   no 
+1.9.1   NC_034440.1  29642  PASS  NC_034440  gene  ORF4a                          9    1    1  25598  25927  25598  25927    330    +  no    ?   ?  no   no 
+1.10.1  NC_034440.1  29642  PASS  NC_034440  CDS   ORF4a_protein                 10    1    1  25598  25927  25598  25927    330    +  no    ?   ?  no   no 
+1.11.1  NC_034440.1  29642  PASS  NC_034440  gene  ORF4b                         11    1    1  25803  26579  25803  26579    777    +  no    ?   ?  no   no 
+1.12.1  NC_034440.1  29642  PASS  NC_034440  CDS   ORF4b_protein                 12    1    1  25803  26579  25803  26579    777    +  no    ?   ?  no   no 
+1.13.1  NC_034440.1  29642  PASS  NC_034440  gene  ORF5                          13    1    1  26586  27263  26586  27263    678    +  no    ?   ?  no   no 
+1.14.1  NC_034440.1  29642  PASS  NC_034440  CDS   ORF5_protein                  14    1    1  26586  27263  26586  27263    678    +  no    ?   ?  no   no 
+1.15.1  NC_034440.1  29642  PASS  NC_034440  gene  E                             15    1    1  27342  27590  27342  27590    249    +  no    ?   ?  no   no 
+1.16.1  NC_034440.1  29642  PASS  NC_034440  CDS   small_envelope_protein        16    1    1  27342  27590  27342  27590    249    +  no    ?   ?  no   no 
+1.17.1  NC_034440.1  29642  PASS  NC_034440  gene  M                             17    1    1  27605  28264  27605  28264    660    +  no    ?   ?  no   no 
+1.18.1  NC_034440.1  29642  PASS  NC_034440  CDS   membrane_glycoprotein         18    1    1  27605  28264  27605  28264    660    +  no    ?   ?  no   no 
+1.19.1  NC_034440.1  29642  PASS  NC_034440  gene  N                             19    1    1  28311  29558  28311  29558   1248    +  no    ?   ?  no   no 
+1.20.1  NC_034440.1  29642  PASS  NC_034440  CDS   nucleocapsid_phosphoprotein   20    1    1  28311  29558  28311  29558   1248    +  no    ?   ?  no   no 

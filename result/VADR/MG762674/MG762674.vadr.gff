@@ -1,0 +1,17 @@
+##gff-version 3
+MG762674	vadr	gene	230	20994	.	+	.	ID=ftr-1;Name=orf1ab;Gene=orf1ab;
+MG762674	vadr	region	12928	20994	.	+	.	ID=ftr-3;Name=orf1ab polyprotein;Gene=orf1ab polyprotein;Parent=ftr-1;Alias=MG762674.1_1;
+MG762674	vadr	gene	20951	24748	.	+	.	ID=ftr-4;Name=S;Gene=S;
+MG762674	vadr	CDS	20951	24748	.	+	.	ID=ftr-5;Name=spike glycoprotein;Gene=spike glycoprotein;Parent=ftr-4;Alias=MG762674.1_2;
+MG762674	vadr	gene	24745	25437	.	+	.	ID=ftr-6;Name=NS3;Gene=NS3;
+MG762674	vadr	CDS	24745	25437	.	+	.	ID=ftr-7;Name=hypothetical protein;Gene=hypothetical protein;Parent=ftr-6;Alias=MG762674.1_3;
+MG762674	vadr	gene	25437	25679	.	+	.	ID=ftr-8;Name=E;Gene=E;
+MG762674	vadr	CDS	25437	25679	.	+	.	ID=ftr-9;Name=small membrane protein;Gene=small membrane protein;Parent=ftr-8;Alias=MG762674.1_4;
+MG762674	vadr	gene	25672	26346	.	+	.	ID=ftr-10;Name=M;Gene=M;
+MG762674	vadr	CDS	25672	26346	.	+	.	ID=ftr-11;Name=membrane glycoprotein;Gene=membrane glycoprotein;Parent=ftr-10;Alias=MG762674.1_5;
+MG762674	vadr	gene	26410	27819	.	+	.	ID=ftr-12;Name=N;Gene=N;
+MG762674	vadr	CDS	26410	27819	.	+	.	ID=ftr-13;Name=nucleocapsid phosphoprotein;Gene=nucleocapsid phosphoprotein;Parent=ftr-12;Alias=MG762674.1_6;
+MG762674	vadr	gene	27857	28450	.	+	.	ID=ftr-14;Name=NS7a;Gene=NS7a;
+MG762674	vadr	CDS	27857	28450	.	+	.	ID=ftr-15;Name=hypothetical protein;Gene=hypothetical protein;Parent=ftr-14;Alias=MG762674.1_7;
+MG762674	vadr	gene	28457	28902	.	+	.	ID=ftr-16;Name=NS7b;Gene=NS7b;
+MG762674	vadr	CDS	28457	28902	.	+	.	ID=ftr-17;Name=hypothetical protein;Gene=hypothetical protein;Parent=ftr-16;Alias=MG762674.1_8;

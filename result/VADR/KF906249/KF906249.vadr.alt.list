@@ -1,0 +1,11 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+KF906249.1	NC_003045	-	*sequence*	LOW_SIMILARITY_END	31037..31052:+	31028..31028:+	significant similarity not detected at 3' end of the sequence [low similarity region of length 16]
+KF906249.1	NC_003045	CDS	4.9 kDa non-structural protein	CDS_HAS_STOP_CODON	27768..27770:+	27757..27759:+	in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:51,M:52]
+KF906249.1	NC_003045	CDS	4.9 kDa non-structural protein	POSSIBLE_FRAMESHIFT	27761..27815:+	27748..27805:+	possible frameshift in CDS (frame restored before end) [cause:delete,S:27760,M:27748..27749(2); restore:delete,S:27815,M:27805(1); frame:1(2)1; length:26:(55):6;]
+KF906249.1	NC_003045	CDS	4.9 kDa non-structural protein	INDEFINITE_ANNOTATION_START	27735..27756:+	27722..27722:+	protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [22>5]
+KF906249.1	NC_003045	CDS	4.8 kDa non-structural protein	CDS_HAS_STOP_CODON	27918..27920:+	27909..27911:+	in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:113,M:115]
+KF906249.1	NC_003045	CDS	4.8 kDa non-structural protein	POSSIBLE_FRAMESHIFT	27913..27957:+	27902..27949:+	possible frameshift in CDS (frame restored before end) [cause:delete,S:27912,M:27902..27903(2); restore:delete,S:27957,M:27949(1); frame:1(2)13; length:13:(45):66:10;]
+KF906249.1	NC_003045	CDS	4.8 kDa non-structural protein	POSSIBLE_FRAMESHIFT	28024..28033:+	28016..28026:+	possible frameshift in CDS (frame not restored before end) [cause:delete,S:28023,M:28016(1); frame:121(3); length:13:45:66:(10);]
+KF906249.1	NC_003045	CDS	4.8 kDa non-structural protein	INDEFINITE_ANNOTATION_END	28023..28033:+	28026..28026:+	protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [11>8]
+KF906249.1	NC_003045	CDS	4.8 kDa non-structural protein	INDEFINITE_ANNOTATION_START	27900..27956:+	27889..27889:+	protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [57>5]
+KF906249.1	NC_003045	CDS	4.8 kDa non-structural protein	UNEXPECTED_LENGTH	27900..28033:+	27889..28026:+	length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [134]

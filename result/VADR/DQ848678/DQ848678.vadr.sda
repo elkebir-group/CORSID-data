@@ -1,0 +1,4 @@
+#seq  seq           seq                            seed           seed      seed    5'unaln    5'unaln   5'unaln         3'unaln         3'unaln   3'unaln
+#idx  name          len  model      p/f             seq            mdl  fraction        seq        mdl  fraction             seq             mdl  fraction
+#---  ----------  -----  ---------  ----  -------------  -------------  --------  ---------  ---------  --------  --------------  --------------  --------
+1     DQ848678.1  29277  NC_002306  FAIL  5681..12198:+  5729..12246:+     0.223  1..5780:+  1..5828:+     0.197  12099..29277:+  12147..29355:+     0.587

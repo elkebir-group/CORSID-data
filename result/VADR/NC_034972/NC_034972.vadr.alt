@@ -1,0 +1,4 @@
+#      seq                     ftr   ftr   ftr  alert           alert                       seq  seq       mdl  mdl  alert 
+#idx   name         model      type  name  idx  code      fail  description              coords  len    coords  len  detail
+#----  -----------  ---------  ----  ----  ---  --------  ----  -----------------  ------------  ---  --------  ---  ------
+1.1.1  NC_034972.1  NC_034972  -     -       -  indfstrn  yes   INDEFINITE_STRAND  1879..1761:-  119  1..119:+  119  significant similarity detected on both strands [score:216.0>25.0]

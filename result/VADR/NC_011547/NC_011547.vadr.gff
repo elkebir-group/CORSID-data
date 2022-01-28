@@ -1,0 +1,19 @@
+##gff-version 3
+NC_011547	vadr	gene	607	19400	.	+	.	ID=ftr-1;Name=orf1ab;Gene=orf1ab;
+NC_011547	vadr	region	11352	19400	.	+	.	ID=ftr-3;Name=orf1ab polyprotein;Gene=orf1ab polyprotein;Parent=ftr-1;Alias=NC_011547.1_1;
+NC_011547	vadr	gene	19382	22879	.	+	.	ID=ftr-4;Name=S;Gene=S;
+NC_011547	vadr	CDS	19382	22879	.	+	.	ID=ftr-5;Name=spike glycoprotein;Gene=spike glycoprotein;Parent=ftr-4;Alias=NC_011547.1_2;
+NC_011547	vadr	gene	22873	23121	.	+	.	ID=ftr-6;Name=E;Gene=E;
+NC_011547	vadr	CDS	22873	23121	.	+	.	ID=ftr-7;Name=small membrane protein;Gene=small membrane protein;Parent=ftr-6;Alias=NC_011547.1_3;
+NC_011547	vadr	gene	23118	23819	.	+	.	ID=ftr-8;Name=M;Gene=M;
+NC_011547	vadr	CDS	23118	23819	.	+	.	ID=ftr-9;Name=membrane protein;Gene=membrane protein;Parent=ftr-8;Alias=NC_011547.1_4;
+NC_011547	vadr	gene	23819	24106	.	+	.	ID=ftr-10;Name=NS6;Gene=NS6;
+NC_011547	vadr	CDS	23819	24106	.	+	.	ID=ftr-11;Name=nonstructural protein;Gene=nonstructural protein;Parent=ftr-10;Alias=NC_011547.1_5;
+NC_011547	vadr	gene	24127	25176	.	+	.	ID=ftr-12;Name=N;Gene=N;
+NC_011547	vadr	CDS	24127	25176	.	+	.	ID=ftr-13;Name=nucleocapsid phosphoprotein;Gene=nucleocapsid phosphoprotein;Parent=ftr-12;Alias=NC_011547.1_6;
+NC_011547	vadr	gene	25355	25726	.	+	.	ID=ftr-14;Name=NS7a;Gene=NS7a;
+NC_011547	vadr	CDS	25355	25726	.	+	.	ID=ftr-15;Name=nonstructural protein;Gene=nonstructural protein;Parent=ftr-14;Alias=NC_011547.1_7;
+NC_011547	vadr	gene	25732	25986	.	+	.	ID=ftr-16;Name=NS7b;Gene=NS7b;
+NC_011547	vadr	CDS	25732	25986	.	+	.	ID=ftr-17;Name=nonstructural protein;Gene=nonstructural protein;Parent=ftr-16;Alias=NC_011547.1_8;
+NC_011547	vadr	gene	25983	26267	.	+	.	ID=ftr-18;Name=NS7c;Gene=NS7c;
+NC_011547	vadr	CDS	25983	26267	.	+	.	ID=ftr-19;Name=nonstructural protein;Gene=nonstructural protein;Parent=ftr-18;Alias=NC_011547.1_9;

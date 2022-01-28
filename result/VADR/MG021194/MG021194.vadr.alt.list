@@ -1,0 +1,8 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+MG021194.1	NC_001451	CDS	spike protein	POSSIBLE_FRAMESHIFT	20694..20706:+	20784..20790:+	possible frameshift in CDS (frame restored before end) [cause:insert,S:20694..20698(5),M:20783; restore:insert,S:20706(1),M:20790; frame:1(3)1; length:422:(13):3066;]
+MG021194.1	NC_001451	CDS	spike protein	INDEFINITE_ANNOTATION_START	20272..20316:+	20368..20368:+	protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [45>5]
+MG021194.1	NC_001451	CDS	small virion-associated protein	CDS_HAS_STOP_CODON	24402..24404:+	24510..24512:+	in-frame stop codon exists 5' of stop position predicted by homology to reference [TAA, shifted S:21,M:21]
+MG021194.1	NC_001451	CDS	small virion-associated protein	INDEFINITE_ANNOTATION_END	24396..24425:+	24533..24533:+	protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [30>5, no valid stop codon in nucleotide-based prediction]
+MG021194.1	NC_001451	CDS	small virion-associated protein	MUTATION_AT_START	24120..24122:+	24207..24209:+	expected start codon could not be identified [ACG]
+MG021194.1	NC_001451	CDS	membrane protein	INDEFINITE_ANNOTATION_START	24397..24402:+	24505..24505:+	protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [6>5]
+MG021194.1	NC_001451	CDS	membrane protein	MUTATION_AT_START	24397..24399:+	24505..24507:+	expected start codon could not be identified [GGT]

@@ -1,0 +1,20 @@
+##gff-version 3
+KF530123	vadr	gene	231	20254	.	+	.	ID=ftr-1;Name=ORF 1a/1b;Gene=ORF 1a/1b;
+KF530123	vadr	region	12224	20254	.	+	.	ID=ftr-3;Name=polyprotein ab;Gene=polyprotein ab;Parent=ftr-1;Alias=KF530123.1_1;
+KF530123	vadr	gene	20251	24654	.	+	.	ID=ftr-4;Name=S;Gene=S;
+KF530123	vadr	CDS	20251	24654	.	+	.	ID=ftr-5;Name=spike protein;Gene=spike protein;Parent=ftr-4;Alias=KF530123.1_2;
+KF530123	vadr	gene	24666	24878	.	+	.	ID=ftr-6;Name=nsp 3a;Gene=nsp 3a;
+KF530123	vadr	CDS	24666	24878	.	+	.	ID=ftr-7;Name=putative 3a protein;Gene=putative 3a protein;Parent=ftr-6;Alias=KF530123.1_3;
+KF530123	vadr	gene	24826	25047	.	+	.	ID=ftr-8;Name=nsp 3b;Gene=nsp 3b;
+KF530123	vadr	CDS	24826	25047	.	+	.	ID=ftr-9;Name=putative 3b protein;Gene=putative 3b protein;Parent=ftr-8;Alias=KF530123.1_4;
+KF530123	vadr	gene	25044	25757	.	+	.	ID=ftr-10;Name=nsp 3c;Gene=nsp 3c;
+KF530123	vadr	gene	25744	25992	.	+	.	ID=ftr-11;Name=E;Gene=E;
+KF530123	vadr	CDS	25744	25992	.	+	.	ID=ftr-12;Name=E protein;Gene=E protein;Parent=ftr-11;Alias=KF530123.1_5;
+KF530123	vadr	gene	26003	26794	.	+	.	ID=ftr-13;Name=M;Gene=M;
+KF530123	vadr	CDS	26003	26794	.	+	.	ID=ftr-14;Name=matrix protein;Gene=matrix protein;Parent=ftr-13;Alias=KF530123.1_6;
+KF530123	vadr	gene	26807	27940	.	+	.	ID=ftr-15;Name=N;Gene=N;
+KF530123	vadr	CDS	26807	27940	.	+	.	ID=ftr-16;Name=nucleocapsid protein;Gene=nucleocapsid protein;Parent=ftr-15;Alias=KF530123.1_7;
+KF530123	vadr	gene	27945	28250	.	+	.	ID=ftr-17;Name=nsp 7a;Gene=nsp 7a;
+KF530123	vadr	CDS	27945	28250	.	+	.	ID=ftr-18;Name=non-structural protein 7a;Gene=non-structural protein 7a;Parent=ftr-17;Alias=KF530123.1_8;
+KF530123	vadr	gene	28255	28869	.	+	.	ID=ftr-19;Name=nsp 7b;Gene=nsp 7b;
+KF530123	vadr	CDS	28255	28869	.	+	.	ID=ftr-20;Name=non-structural protein 7b;Gene=non-structural protein 7b;Parent=ftr-19;Alias=KF530123.1_9;

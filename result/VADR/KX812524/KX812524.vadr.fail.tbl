@@ -1,0 +1,72 @@
+>Feature KX812524.1
+293	20637	gene
+293	12616	CDS
+12616	20637
+			product	Pol1
+			exception	ribosomal slippage
+			protein_id	KX812524.1_1
+293	622	mat_peptide
+			product	putative leader protein
+			protein_id	KX812524.1_1
+2978	7843	mat_peptide
+			product	putative coronavirus nsp1
+			protein_id	KX812524.1_1
+9284	10189	mat_peptide
+			product	putative coronavirus nsp2 [3CL-PRO]
+			protein_id	KX812524.1_1
+10190	11029	mat_peptide
+			product	putative coronavirus nsp3 [HD2]
+			protein_id	KX812524.1_1
+11030	11278	mat_peptide
+			product	putative coronavirus nsp4
+			protein_id	KX812524.1_1
+11279	11863	mat_peptide
+			product	putative coronavirus nsp5
+			protein_id	KX812524.1_1
+11864	12187	mat_peptide
+			product	putative coronavirus nsp6
+			protein_id	KX812524.1_1
+12188	12592	mat_peptide
+			product	formerly known as growth-factor-like protein
+			product	putative coronavirus nsp7
+			protein_id	KX812524.1_1
+12593	12616	mat_peptide
+12616	15372
+			product	RNA-dependent RNA polymerase
+			product	putative coronavirus nsp9 [RdRp]
+			protein_id	KX812524.1_1
+15373	17163	mat_peptide
+			product	putative coronavirus nsp10 [MB, NTPase/HEL]
+			protein_id	KX812524.1_1
+17164	18714	mat_peptide
+			product	putative coronavirus nsp11
+			protein_id	KX812524.1_1
+18715	19731	mat_peptide
+			product	putative coronavirus nsp12
+			protein_id	KX812524.1_1
+19732	20634	mat_peptide
+			product	putative coronavirus nsp13
+			protein_id	KX812524.1_1
+20634	24794	gene
+20634	24794	CDS
+			product	spike protein
+			protein_id	KX812524.1_2
+24794	25468	gene
+24794	25468	CDS
+			product	hypothetical protein
+			protein_id	KX812524.1_3
+25449	25679	gene
+25449	25679	CDS
+			product	envelope protein
+			protein_id	KX812524.1_4
+25687	26367	gene
+25687	26367	CDS
+			product	membrane protein
+			protein_id	KX812524.1_5
+26379	27704	gene
+26379	27704	CDS
+			product	nucleocapsid protein
+			protein_id	KX812524.1_6
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike protein) possible frameshift in CDS (frame restored before end) [cause:insert,S:20800(1),M:20803; restore:insert,S:20808..20818(11),M:20810; frame:1(2)1; length:166:(19):3976;]; seq-coords:20800..20818:+; mdl-coords:20804..20810:+; mdl:NC_003436;

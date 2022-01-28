@@ -1,0 +1,15 @@
+##gff-version 3
+MF542265	vadr	region	12537	20585	.	+	.	ID=ftr-3;Name=replicase polyprotein 1ab;Gene=replicase polyprotein 1ab;Alias=MF542265.1_1;
+MF542265	vadr	CDS	295	12567	.	+	.	ID=ftr-4;Name=replicase polyprotein 1a;Gene=replicase polyprotein 1a;Alias=MF542265.1_2;
+MF542265	vadr	gene	20587	24102	.	+	.	ID=ftr-5;Name=S;Gene=S;
+MF542265	vadr	CDS	20587	24102	.	+	.	ID=ftr-6;Name=surface glycoprotein;Gene=surface glycoprotein;Parent=ftr-5;Alias=MF542265.1_3;
+MF542265	vadr	gene	24102	24505	.	+	.	ID=ftr-7;Name=4a;Gene=4a;
+MF542265	vadr	CDS	24102	24505	.	+	.	ID=ftr-8;Name=4a protein;Gene=4a protein;Parent=ftr-7;Alias=MF542265.1_4;
+MF542265	vadr	gene	24493	24761	.	+	.	ID=ftr-9;Name=4b;Gene=4b;
+MF542265	vadr	CDS	24493	24761	.	+	.	ID=ftr-10;Name=4b protein;Gene=4b protein;Parent=ftr-9;Alias=MF542265.1_5;
+MF542265	vadr	gene	24763	24996	.	+	.	ID=ftr-11;Name=E;Gene=E;
+MF542265	vadr	CDS	24763	24996	.	+	.	ID=ftr-12;Name=envelope protein;Gene=envelope protein;Parent=ftr-11;Alias=MF542265.1_6;
+MF542265	vadr	gene	25008	25685	.	+	.	ID=ftr-13;Name=M;Gene=M;
+MF542265	vadr	CDS	25008	25685	.	+	.	ID=ftr-14;Name=membrane protein;Gene=membrane protein;Parent=ftr-13;Alias=MF542265.1_7;
+MF542265	vadr	gene	25699	26868	.	+	.	ID=ftr-15;Name=N;Gene=N;
+MF542265	vadr	CDS	25699	26868	.	+	.	ID=ftr-16;Name=nucleocapsid protein;Gene=nucleocapsid protein;Parent=ftr-15;Alias=MF542265.1_8;

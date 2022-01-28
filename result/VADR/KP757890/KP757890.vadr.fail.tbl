@@ -1,0 +1,41 @@
+>Feature KP757890.1
+540	19342	gene
+			gene	orf1ab
+540	11414	CDS
+11414	19342
+			product	replicase polyprotein
+			exception	ribosomal slippage
+			protein_id	KP757890.1_1
+19324	22806	gene
+			gene	S
+19324	22806	CDS
+			product	spike glycoprotein
+			protein_id	KP757890.1_2
+22800	23051	gene
+			gene	E
+22800	23051	CDS
+			product	envelope protein
+			protein_id	KP757890.1_3
+23044	23697	gene
+			gene	M
+23044	23697	CDS
+			product	membrane protein
+			protein_id	KP757890.1_4
+23697	23981	gene
+			gene	NS6
+23697	23981	CDS
+			product	NS6 protein
+			protein_id	KP757890.1_5
+24002	25030	gene
+			gene	N
+24002	25030	CDS
+			product	nucleocapsid protein
+			protein_id	KP757890.1_6
+24096	24698	gene
+			gene	NS7
+24096	24698	CDS
+			product	NS7 protein
+			protein_id	KP757890.1_7
+
+Additional note(s) to submitter:
+ERROR: LOW_SIMILARITY_START: (*sequence*) significant similarity not detected at 5' end of the sequence [low similarity region of length 7]; seq-coords:1..7:+; mdl-coords:0..0:+; mdl:NC_039208;

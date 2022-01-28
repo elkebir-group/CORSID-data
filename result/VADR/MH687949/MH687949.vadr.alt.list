@@ -1,0 +1,8 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+MH687949.1	NC_009657	-	*sequence*	LOW_SIMILARITY_END	28172..28185:+	28179..28192:+	significant similarity not detected at 3' end of the sequence [low similarity region of length 14]
+MH687949.1	NC_009657	-	*sequence*	LOW_SIMILARITY	27533..27744:+	27645..27751:+	internal region without significant similarity [low similarity region of length 212]
+MH687949.1	NC_009657	CDS	ORF1	DELETION_OF_NT	3355..3355:+	3411..3455:+	too large of a deletion in protein-based alignment [45>27]
+MH687949.1	NC_009657	CDS	ORF1	DELETION_OF_NT	4585..4585:+	4665..4697:+	too large of a deletion in protein-based alignment [33>27]
+MH687949.1	NC_009657	CDS	ORF1	POSSIBLE_FRAMESHIFT	4103..4119:+	4188..4198:+	possible frameshift in CDS (frame restored before end) [cause:insert,S:4103..4109(7),M:4187; restore:delete,S:4119,M:4198(1); frame:1(2)12131; length:3855:(17):527:7:5601:13:10296;]
+MH687949.1	NC_009657	CDS	ORF1	POSSIBLE_FRAMESHIFT	4647..4653:+	4753..4765:+	possible frameshift in CDS (frame restored before end) [cause:delete,S:4646,M:4753..4757(5); restore:delete,S:4653,M:4765(1); frame:121(2)131; length:3855:17:527:(7):5601:13:10296;]
+MH687949.1	NC_009657	CDS	ORF1	POSSIBLE_FRAMESHIFT	10255..10267:+	10367..10379:+	possible frameshift in CDS (frame restored before end) [cause:delete,S:10254,M:10367(1); restore:insert,S:10267(1),M:10379; frame:12121(3)1; length:3855:17:527:7:5601:(13):10296;]

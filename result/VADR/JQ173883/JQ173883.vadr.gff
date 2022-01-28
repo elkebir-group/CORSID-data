@@ -1,0 +1,10 @@
+##gff-version 3
+JQ173883	vadr	gene	211	21749	.	+	.	ID=ftr-1;Name=1;Gene=1;
+JQ173883	vadr	CDS	211	13626	.	+	.	ID=ftr-2;Name=RNA-directed RNA polymerase;Gene=RNA-directed RNA polymerase;Parent=ftr-1;Alias=JQ173883.1_1;
+JQ173883	vadr	CDS	13548	21749	.	+	.	ID=ftr-3;Name=RNA-directed RNA polymerase;Gene=RNA-directed RNA polymerase;Parent=ftr-1;Alias=JQ173883.1_2;
+JQ173883	vadr	gene	23933	28018	.	+	.	ID=ftr-4;Name=S;Gene=S;
+JQ173883	vadr	CDS	23933	28018	.	+	.	ID=ftr-5;Name=E2 glycoprotein precursor;Gene=E2 glycoprotein precursor;Parent=ftr-4;Alias=JQ173883.1_3;
+JQ173883	vadr	gene	28780	29466	.	+	.	ID=ftr-6;Name=M;Gene=M;
+JQ173883	vadr	CDS	28780	29466	.	+	.	ID=ftr-7;Name=matrix glycoprotein;Gene=matrix glycoprotein;Parent=ftr-6;Alias=JQ173883.1_4;
+JQ173883	vadr	gene	29481	30845	.	+	.	ID=ftr-8;Name=N;Gene=N;
+JQ173883	vadr	CDS	29481	30845	.	+	.	ID=ftr-9;Name=nucleocapsid protein;Gene=nucleocapsid protein;Parent=ftr-8;Alias=JQ173883.1_5;

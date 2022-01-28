@@ -1,0 +1,22 @@
+#       seq           seq                   ftr   ftr                          ftr  num  sgm    seq    seq    mdl    mdl    sgm            5'  3'  5'   3' 
+#idx    name          len  p/f   model      type  name                         idx  sgm  idx   from     to   from     to    len  str  trc  pp  pp  gap  gap
+#-----  ----------  -----  ----  ---------  ----  ---------------------------  ---  ---  ---  -----  -----  -----  -----  -----  ---  ---  --  --  ---  ---
+1.1.1   JQ989268.1  28483  FAIL  NC_018871  gene  gene.1                         1    1    1    303  20647    303  20644  20345    +  no    ?   ?  no   no 
+1.2.1   JQ989268.1  28483  FAIL  NC_018871  CDS   orf1ab_polyprotein             2    2    1    303  12620    303  12617  12318    +  no    ?   ?  no   no 
+1.2.2   JQ989268.1  28483  FAIL  NC_018871  CDS   orf1ab_polyprotein             2    2    2  12620  20647  12617  20644   8028    +  no    ?   ?  no   no 
+1.3.1   JQ989268.1  28483  FAIL  NC_018871  gene  gene.2                         3    1    1  20644  24699  20641  24690   4056    +  no    ?   ?  no   no 
+1.4.1   JQ989268.1  28483  FAIL  NC_018871  CDS   spike_glycoprotein             4    1    1  20644  24699  20641  24690   4056    +  no    ?   ?  no   no 
+1.5.1   JQ989268.1  28483  FAIL  NC_018871  gene  gene.3                         5    1    1  24699  25355  24690  25346    657    +  no    ?   ?  no   no 
+1.6.1   JQ989268.1  28483  FAIL  NC_018871  CDS   non-structural_protein_NS3     6    1    1  24699  25355  24690  25346    657    +  no    ?   ?  no   no 
+1.7.1   JQ989268.1  28483  FAIL  NC_018871  gene  gene.4                         7    1    1  25384  25611  25375  25602    228    +  no    ?   ?  no   no 
+1.8.1   JQ989268.1  28483  FAIL  NC_018871  CDS   envelope_protein               8    1    1  25384  25611  25375  25602    228    +  no    ?   ?  no   no 
+1.9.1   JQ989268.1  28483  FAIL  NC_018871  gene  gene.5                         9    1    1  25617  26297  25608  26297    681    +  no    ?   ?  no   no 
+1.10.1  JQ989268.1  28483  FAIL  NC_018871  CDS   membrane_protein              10    1    1  25617  26297  25608  26297    681    +  no    ?   ?  no   no 
+1.11.1  JQ989268.1  28483  FAIL  NC_018871  gene  gene.6                        11    1    1  26309  27508  26308  27516   1200    +  no    ?   ?  no   no 
+1.12.1  JQ989268.1  28483  FAIL  NC_018871  CDS   nucleocapsid_protein          12    1    1  26309  27508  26308  27516   1200    +  no    ?   ?  no   no 
+1.13.1  JQ989268.1  28483  FAIL  NC_018871  gene  gene.7                        13    1    1  27524  27766  27532  27777    243    +  no    ?   ?  no   no 
+1.14.1  JQ989268.1  28483  FAIL  NC_018871  CDS   non-structural_protein_NS7a   14    1    1  27524  27766  27532  27777    243    +  no    ?   ?  no   no 
+1.15.1  JQ989268.1  28483  FAIL  NC_018871  gene  gene.8                        15    1    1  27776  28237  27787  28248    462    +  no    ?   ?  no   no 
+1.16.1  JQ989268.1  28483  FAIL  NC_018871  CDS   non-structural_protein_NS7b   16    1    1  27776  28237  27787  28248    462    +  no    ?   ?  no   no 
+1.17.1  JQ989268.1  28483  FAIL  NC_018871  gene  gene.9                        17    1    1  27975  28205  27986  28216    231    +  no    ?   ?  no   no 
+1.18.1  JQ989268.1  28483  FAIL  NC_018871  CDS   non-structural_protein_NS7c   18    1    1  27975  28205  27986  28216    231    +  no    ?   ?  no   no 

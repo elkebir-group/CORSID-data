@@ -1,0 +1,53 @@
+>Feature DQ648794.1
+260	21639	gene
+			gene	orf1ab
+260	13564	CDS
+13564	21639
+			product	orf1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	DQ648794.1_1
+21584	25636	gene
+			gene	S
+21584	25636	CDS
+			product	spike glycoprotein
+			protein_id	DQ648794.1_2
+25663	25938	gene
+			gene	NS3a
+25663	25938	CDS
+			product	hypothetical protein
+			protein_id	DQ648794.1_3
+25956	26315	gene
+			gene	NS3b
+25956	26315	CDS
+			product	hypothetical protein
+			protein_id	DQ648794.1_4
+26119	26976	gene
+			gene	NS3c
+26119	26976	CDS
+			product	hypothetical protein
+			protein_id	DQ648794.1_5
+26992	27675	gene
+			gene	NS3d
+26992	27675	CDS
+			product	hypothetical protein
+			protein_id	DQ648794.1_6
+27745	27993	gene
+			gene	E
+27745	27993	CDS
+			product	small membrane protein
+			protein_id	DQ648794.1_7
+28008	28667	gene
+			gene	M
+28008	28667	CDS
+			product	membrane glycoprotein
+			protein_id	DQ648794.1_8
+28705	29979	gene
+			gene	N
+28705	29979	CDS
+			product	nucleocapsid phosphoprotein
+			protein_id	DQ648794.1_9
+
+Additional note(s) to submitter:
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 10]; seq-coords:30298..30307:+; mdl-coords:30286..30286:+; mdl:NC_009019;
+ERROR: INSERTION_OF_NT: (CDS:orf1ab polyprotein) too large of an insertion in nucleotide-based alignment of CDS feature [30>27]; seq-coords:3330..3359:+; mdl-coords:3336..3336:+; mdl:NC_009019;
+ERROR: INSERTION_OF_NT: (CDS:orf1ab polyprotein) too large of an insertion in protein-based alignment [30>27]; seq-coords:3328..3357:+; mdl-coords:3335..3335:+; mdl:NC_009019;

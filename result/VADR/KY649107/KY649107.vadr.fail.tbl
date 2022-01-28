@@ -1,0 +1,90 @@
+>Feature KY649107.1
+293	20636	gene
+293	12615	CDS
+12615	20636
+			product	Pol1
+			exception	ribosomal slippage
+			protein_id	KY649107.1_1
+293	622	mat_peptide
+			product	putative leader protein
+			protein_id	KY649107.1_1
+2978	7843	mat_peptide
+			product	putative coronavirus nsp1
+			protein_id	KY649107.1_1
+9284	10189	mat_peptide
+			product	putative coronavirus nsp2 [3CL-PRO]
+			protein_id	KY649107.1_1
+10190	11029	mat_peptide
+			product	putative coronavirus nsp3 [HD2]
+			protein_id	KY649107.1_1
+11030	11278	mat_peptide
+			product	putative coronavirus nsp4
+			protein_id	KY649107.1_1
+11279	11863	mat_peptide
+			product	putative coronavirus nsp5
+			protein_id	KY649107.1_1
+11864	12187	mat_peptide
+			product	putative coronavirus nsp6
+			protein_id	KY649107.1_1
+12188	12592	mat_peptide
+			product	formerly known as growth-factor-like protein
+			product	putative coronavirus nsp7
+			protein_id	KY649107.1_1
+12593	12615	mat_peptide
+12615	15371
+			product	RNA-dependent RNA polymerase
+			product	putative coronavirus nsp9 [RdRp]
+			protein_id	KY649107.1_1
+15372	17162	mat_peptide
+			product	putative coronavirus nsp10 [MB, NTPase/HEL]
+			protein_id	KY649107.1_1
+17163	18713	mat_peptide
+			product	putative coronavirus nsp11
+			protein_id	KY649107.1_1
+18714	19730	mat_peptide
+			product	putative coronavirus nsp12
+			protein_id	KY649107.1_1
+19731	20633	mat_peptide
+			product	putative coronavirus nsp13
+			protein_id	KY649107.1_1
+20633	24793	gene
+20633	24793	CDS
+			product	spike protein
+			protein_id	KY649107.1_2
+24793	25467	gene
+24793	25467	CDS
+			product	hypothetical protein
+			protein_id	KY649107.1_3
+25448	25678	gene
+25448	25678	CDS
+			product	envelope protein
+			protein_id	KY649107.1_4
+25686	26366	gene
+25686	26366	CDS
+			product	membrane protein
+			protein_id	KY649107.1_5
+26378	27703	gene
+26378	27703	CDS
+			product	nucleocapsid protein
+			protein_id	KY649107.1_6
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:Pol1) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAA, shifted S:8023,M:8023]; seq-coords:12611..12613:+; mdl-coords:12616..12618:+; mdl:NC_003436;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:Pol1) possible frameshift in CDS (frame not restored before end) [cause:delete,S:12600,M:12605(1); frame:1(3); length:12308:(8037);]; seq-coords:12601..20636:+; mdl-coords:12605..20641:+; mdl:NC_003436;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:Pol1) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [8035>8]; seq-coords:12602..20636:+; mdl-coords:20641..20641:+; mdl:NC_003436;
+ERROR: UNEXPECTED_LENGTH: (CDS:Pol1) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [20345]; seq-coords:293..12615:+,12615..20636:+; mdl-coords:297..12620:+,12620..20641:+; mdl:NC_003436;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike protein) possible frameshift in CDS (frame restored before end) [cause:insert,S:20799(1),M:20803; restore:insert,S:20808..20818(11),M:20811; frame:1(2)1; length:166:(20):3975;]; seq-coords:20799..20818:+; mdl-coords:20804..20811:+; mdl:NC_003436;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:putative leader protein) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_003436;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:putative coronavirus nsp1) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_003436;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:putative coronavirus nsp2 [3CL-PRO]) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_003436;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:putative coronavirus nsp3 [HD2]) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_003436;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:putative coronavirus nsp4) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_003436;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:putative coronavirus nsp5) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_003436;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:putative coronavirus nsp6) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_003436;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:formerly known as growth-factor-like protein:GBSEP:putative coronavirus nsp7) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_003436;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:RNA-dependent RNA polymerase:GBSEP:putative coronavirus nsp9 [RdRp]) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_003436;
+ERROR: UNEXPECTED_LENGTH: (mat_peptide:RNA-dependent RNA polymerase:GBSEP:putative coronavirus nsp9 [RdRp]) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [2780]; seq-coords:12593..12615:+,12615..15371:+; mdl-coords:12597..12620:+,12620..15376:+; mdl:NC_003436;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:putative coronavirus nsp10 [MB, NTPase/HEL]) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_003436;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:putative coronavirus nsp11) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_003436;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:putative coronavirus nsp12) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_003436;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:putative coronavirus nsp13) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_003436;

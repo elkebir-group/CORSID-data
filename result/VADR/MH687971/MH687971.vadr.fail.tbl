@@ -1,0 +1,48 @@
+>Feature MH687971.1
+198	21574	gene
+198	13421	CDS
+13421	21574
+			product	replicase polyprotein
+			exception	ribosomal slippage
+			protein_id	MH687971.1_1
+21576	22406	gene
+21576	22406	CDS
+			product	non-structural protein NS2a
+			protein_id	MH687971.1_2
+22421	23698	gene
+22421	23698	CDS
+			product	hemagglutinin-esterase protein
+			protein_id	MH687971.1_3
+23714	27790	gene
+23714	27790	CDS
+			product	spike glycoprotein
+			protein_id	MH687971.1_4
+27883	28296	gene
+27883	28296	CDS
+			product	non-structural protein NS4
+			protein_id	MH687971.1_5
+28278	28592	gene
+28278	28592	CDS
+			product	non-structural protein NS5
+			protein_id	MH687971.1_6
+28585	28833	gene
+28585	28833	CDS
+			product	envelope protein
+			protein_id	MH687971.1_7
+28848	29543	gene
+28848	29543	CDS
+			product	membrane protein
+			protein_id	MH687971.1_8
+29536	30228	gene
+29536	30228	CDS
+			product	internal protein
+			protein_id	MH687971.1_9
+29553	30884	gene
+29553	30884	CDS
+			product	nucleocapsid protein
+			protein_id	MH687971.1_10
+
+Additional note(s) to submitter:
+ERROR: DELETION_OF_NT: (CDS:replicase polyprotein) too large of a deletion in nucleotide-based alignment of CDS feature [39>27]; seq-coords:3303..3303:+; mdl-coords:3319..3357:+; mdl:NC_026011;
+ERROR: DELETION_OF_NT: (CDS:replicase polyprotein) too large of a deletion in protein-based alignment [39>27]; seq-coords:3299..3299:+; mdl-coords:3315..3353:+; mdl:NC_026011;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:non-structural protein NS4) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [6>5]; seq-coords:27883..27888:+; mdl-coords:27946..27946:+; mdl:NC_026011;

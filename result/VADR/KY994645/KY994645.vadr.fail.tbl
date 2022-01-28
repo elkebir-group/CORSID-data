@@ -1,0 +1,119 @@
+>Feature KY994645.1
+211	21494	gene
+			gene	orf1ab
+211	13338	CDS
+13338	21494
+			product	orf1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	KY994645.1_1
+211	13359	CDS
+			product	orf1a polyprotein
+			protein_id	KY994645.1_2
+211	945	mat_peptide
+			product	Leader protein
+			protein_id	KY994645.1_1
+946	2760	mat_peptide
+			product	MHV p65-like protein
+			protein_id	KY994645.1_1
+2761	8457	mat_peptide
+			product	coronavirus nsp1 [PL1-PRO, PL2-PRO, HD]
+			protein_id	KY994645.1_1
+8458	9945	mat_peptide
+			product	transmembrane domain 2
+			protein_id	KY994645.1_1
+9946	10854	mat_peptide
+			product	coronavirus nsp2 [3CL-PRO]
+			protein_id	KY994645.1_1
+10855	11715	mat_peptide
+			product	coronavirus nsp3 [HD2]
+			product	hydrophobic domain
+			protein_id	KY994645.1_1
+11716	11982	mat_peptide
+			product	coronavirus nsp4
+			protein_id	KY994645.1_1
+11983	12573	mat_peptide
+			product	coronavirus nsp5
+			protein_id	KY994645.1_1
+12574	12903	mat_peptide
+			product	coronavirus nsp6
+			protein_id	KY994645.1_1
+12904	13314	mat_peptide
+			product	coronavirus nsp7 [GFL]
+			product	growth-factor-like protein
+			protein_id	KY994645.1_1
+13315	13338	mat_peptide
+13338	16097
+			product	RNA-dependent RNA polymerase
+			product	coronavirus nsp9 [RdRp]
+			protein_id	KY994645.1_1
+16098	17906	mat_peptide
+			product	coronavirus nsp10 [MB, NTPase/HEL]
+			product	metal-binding domain, NTPase/helicase domain
+			protein_id	KY994645.1_1
+17907	19469	mat_peptide
+			product	coronavirus nsp11
+			protein_id	KY994645.1_1
+19470	20594	mat_peptide
+			product	coronavirus nsp12
+			protein_id	KY994645.1_1
+20595	21491	mat_peptide
+			product	coronavirus nsp13
+			protein_id	KY994645.1_1
+21504	22342	gene
+			gene	NS
+21504	22342	CDS
+			product	32 kDa non-structural protein
+			protein_id	KY994645.1_3
+22354	23628	gene
+			gene	HE
+22354	23628	CDS
+			product	hemmaglutinin-esterase
+			protein_id	KY994645.1_4
+23643	27692	gene
+			gene	S
+23643	27692	CDS
+			product	spike structural protein
+			protein_id	KY994645.1_5
+27682	27715	gene
+27682	27715	CDS
+			product	4.9 kDa non-structural protein
+			protein_id	KY994645.1_6
+27760	28089	gene
+27760	28089	CDS
+			product	12.7 kDa non-structural protein
+			protein_id	KY994645.1_7
+28076	28330	gene
+			gene	E
+28076	28330	CDS
+			product	small membrane protein
+			protein_id	KY994645.1_8
+28345	29037	gene
+			gene	M
+28345	29037	CDS
+			product	matrix protein
+			protein_id	KY994645.1_9
+29047	30396	gene
+			gene	N
+29047	30396	CDS
+			product	nucleocapsid protein
+			protein_id	KY994645.1_10
+29108	29731	CDS
+			product	hypothetical protein
+			protein_id	KY994645.1_11
+
+Additional note(s) to submitter:
+ERROR: DELETION_OF_FEATURE: (*sequence*) internal deletion of a complete feature [gene feature number 6: gene.6]; seq-coords:-; mdl-coords:27889..28026:+; mdl:NC_003045;
+ERROR: DELETION_OF_FEATURE: (*sequence*) internal deletion of a complete feature [CDS feature number 7: 4.8 kDa non-structural protein]; seq-coords:-; mdl-coords:27889..28026:+; mdl:NC_003045;
+ERROR: CDS_HAS_STOP_CODON: (CDS:32 kDa non-structural protein) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAG, shifted S:137,M:135]; seq-coords:22203..22205:+; mdl-coords:22203..22205:+; mdl:NC_003045;
+ERROR: CDS_HAS_STOP_CODON: (CDS:32 kDa non-structural protein) stop codon in protein-based alignment [-]; seq-coords:22203..22205:+; mdl-coords:22203..22205:+; mdl:NC_003045;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:32 kDa non-structural protein) possible frameshift in CDS (frame not restored before end) [cause:insert,S:22239..22240(2),M:22238; frame:1(3); length:735:(104);]; seq-coords:22239..22342:+; mdl-coords:22239..22340:+; mdl:NC_003045;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:32 kDa non-structural protein) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [101>8]; seq-coords:22242..22342:+; mdl-coords:22340..22340:+; mdl:NC_003045;
+ERROR: UNEXPECTED_LENGTH: (CDS:32 kDa non-structural protein) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [839]; seq-coords:21504..22342:+; mdl-coords:21504..22340:+; mdl:NC_003045;
+ERROR: DELETION_OF_NT: (CDS:spike structural protein) too large of a deletion in protein-based alignment [30>27]; seq-coords:25115..25115:+; mdl-coords:25138..25167:+; mdl:NC_003045;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike structural protein) possible frameshift in CDS (frame restored before end) [cause:delete,S:25005,M:25004..25007(4); restore:delete,S:25027,M:25030..25034(5); frame:1(3)131; length:1363:(22):67:15:2583;]; seq-coords:25006..25027:+; mdl-coords:25004..25034:+; mdl:NC_003045;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike structural protein) possible frameshift in CDS (frame restored before end) [cause:delete,S:25094,M:25111..25114(4); restore:insert,S:25109(1),M:25128; frame:131(3)1; length:1363:22:67:(15):2583;]; seq-coords:25095..25109:+; mdl-coords:25111..25128:+; mdl:NC_003045;
+ERROR: DELETION_OF_NT: (CDS:4.9 kDa non-structural protein) too large of a deletion in nucleotide-based alignment of CDS feature [56>27]; seq-coords:27707..27707:+; mdl-coords:27748..27803:+; mdl:NC_003045;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:4.9 kDa non-structural protein) possible frameshift in CDS (frame not restored before end) [cause:delete,S:27707,M:27748..27803(56); frame:1(2); length:26:(8);]; seq-coords:27708..27715:+; mdl-coords:27748..27811:+; mdl:NC_003045;
+ERROR: INDEFINITE_ANNOTATION: (CDS:4.9 kDa non-structural protein) nucleotide-based search identifies CDS not identified in protein-based search [-]; seq-coords:27682..27715:+; mdl-coords:27722..27811:+; mdl:NC_003045;
+ERROR: MUTATION_AT_END: (CDS:4.9 kDa non-structural protein) expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAA]; seq-coords:27742..27744:+; mdl-coords:28088..28090:+; mdl:NC_003045;
+ERROR: UNEXPECTED_LENGTH: (CDS:4.9 kDa non-structural protein) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [34]; seq-coords:27682..27715:+; mdl-coords:27722..27811:+; mdl:NC_003045;

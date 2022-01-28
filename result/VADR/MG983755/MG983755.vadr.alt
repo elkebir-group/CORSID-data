@@ -1,0 +1,5 @@
+#      seq                    ftr   ftr            ftr  alert           alert                           seq  seq             mdl  mdl  alert 
+#idx   name        model      type  name           idx  code      fail  description                  coords  len          coords  len  detail
+#----  ----------  ---------  ----  -------------  ---  --------  ----  -------------------  --------------  ---  --------------  ---  ------
+1.1.1  MG983755.1  NC_003436  -     -                -  lowsim3s  yes   LOW_SIMILARITY_END   28033..28067:+   35  28033..28033:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 35]
+1.2.1  MG983755.1  NC_003436  CDS   spike_protein    4  fstukcfi  yes   POSSIBLE_FRAMESHIFT  20800..20818:+   19  20804..20810:+    7  possible frameshift in CDS (frame restored before end) [cause:insert,S:20800(1),M:20803; restore:insert,S:20808..20818(11),M:20810; frame:1(2)1; length:166:(19):3973;]

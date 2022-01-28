@@ -1,0 +1,27 @@
+>Feature NC_028833.1
+214	20009	gene
+214	11985	CDS
+11985	20009
+			product	ORF1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	NC_028833.1_1
+20083	24114	gene
+20083	24114	CDS
+			product	spike glycoprotein
+			protein_id	NC_028833.1_2
+24114	24737	gene
+24114	24737	CDS
+			product	hypothetical protein ORF3
+			protein_id	NC_028833.1_3
+24762	24989	gene
+24762	24989	CDS
+			product	small envelope protein
+			protein_id	NC_028833.1_4
+24996	25682	gene
+24996	25682	CDS
+			product	membrane glycoprotein
+			protein_id	NC_028833.1_5
+25691	26986	gene
+25691	26986	CDS
+			product	nucleocapsid protein
+			protein_id	NC_028833.1_6

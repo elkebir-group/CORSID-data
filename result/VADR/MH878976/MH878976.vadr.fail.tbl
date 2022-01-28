@@ -1,0 +1,99 @@
+>Feature MH878976.1
+327	20221	gene
+			gene	1ab
+327	12158	CDS
+12158	20221
+			product	ORF1ab polyprotein
+			product	frameshift product
+			protein_id	MH878976.1_1
+327	12188	CDS
+			product	ORF1a polyprotein
+			protein_id	MH878976.1_2
+327	2345	mat_peptide
+			product	leader protein p87
+			protein_id	MH878976.1_1
+2346	8666	mat_peptide
+			product	coronavirus nsp1 [HD1]
+			product	hydrophobic domain 1
+			protein_id	MH878976.1_1
+8667	9587	mat_peptide
+			product	coronavirus nsp2 [3CL-Pro]
+			protein_id	MH878976.1_1
+9588	10469	mat_peptide
+			product	coronavirus nsp3 [HD2]
+			product	hydrophobic domain 2
+			protein_id	MH878976.1_1
+10470	10718	mat_peptide
+			product	coronavirus nsp4
+			protein_id	MH878976.1_1
+10719	11348	mat_peptide
+			product	coronavirus nsp5
+			protein_id	MH878976.1_1
+11349	11681	mat_peptide
+			product	coronavirus nsp6
+			protein_id	MH878976.1_1
+11682	12116	mat_peptide
+			product	coronavirus nsp7 [GLF]
+			product	growth factor-like protein
+			protein_id	MH878976.1_1
+12117	12158	mat_peptide
+12158	14935
+			product	RNA-dependent RNA polymerase
+			product	coronavirus nsp9 [RdRp]
+			protein_id	MH878976.1_1
+12117	12185	mat_peptide
+			product	coronavirus nsp8
+			protein_id	MH878976.1_2
+14936	16735	mat_peptide
+			product	coronavirus nsp10
+			product	metal-binding NTPase/helicase
+			protein_id	MH878976.1_1
+16736	18298	mat_peptide
+			product	coronavirus nsp11
+			protein_id	MH878976.1_1
+18299	19312	mat_peptide
+			product	coronavirus nsp12
+			protein_id	MH878976.1_1
+19313	20218	mat_peptide
+			product	coronavirus nsp13
+			protein_id	MH878976.1_1
+20172	23672	gene
+			gene	2
+20172	23672	CDS
+			product	spike protein
+			protein_id	MH878976.1_3
+23672	24372	gene
+			gene	3
+23672	23845	CDS
+			product	3a protein
+			protein_id	MH878976.1_4
+23845	24039	CDS
+			product	3b protein
+			protein_id	MH878976.1_5
+24023	24352	CDS
+			product	small virion-associated protein
+			protein_id	MH878976.1_6
+24321	25001	gene
+			gene	M
+24321	25001	CDS
+			product	membrane protein
+			protein_id	MH878976.1_7
+25352	25794	gene
+			gene	5
+25352	25549	CDS
+			product	5a protein
+			protein_id	MH878976.1_8
+25546	25794	CDS
+			product	5b protein
+			protein_id	MH878976.1_9
+25737	26966	gene
+			gene	N
+25737	26966	CDS
+			product	nucleocapsid protein
+			protein_id	MH878976.1_10
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:spike protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [45>5]; seq-coords:20172..20216:+; mdl-coords:20368..20368:+; mdl:NC_001451;
+ERROR: CDS_HAS_STOP_CODON: (CDS:small virion-associated protein) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAA, shifted S:24,M:21]; seq-coords:24326..24328:+; mdl-coords:24510..24512:+; mdl:NC_001451;
+ERROR: CDS_HAS_STOP_CODON: (CDS:small virion-associated protein) stop codon in protein-based alignment [-]; seq-coords:24326..24328:+; mdl-coords:24510..24512:+; mdl:NC_001451;
+ERROR: MUTATION_AT_START: (CDS:small virion-associated protein) expected start codon could not be identified [ACG]; seq-coords:24023..24025:+; mdl-coords:24207..24209:+; mdl:NC_001451;

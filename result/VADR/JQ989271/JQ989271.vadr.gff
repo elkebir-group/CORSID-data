@@ -1,0 +1,10 @@
+##gff-version 3
+JQ989271	vadr	region	12620	20647	.	+	.	ID=ftr-3;Name=orf1ab polyprotein;Gene=orf1ab polyprotein;Alias=JQ989271.1_1;
+JQ989271	vadr	CDS	20644	24693	.	+	.	ID=ftr-5;Name=spike glycoprotein;Gene=spike glycoprotein;Alias=JQ989271.1_2;
+JQ989271	vadr	CDS	24693	25349	.	+	.	ID=ftr-7;Name=non-structural protein NS3;Gene=non-structural protein NS3;Alias=JQ989271.1_3;
+JQ989271	vadr	CDS	25378	25605	.	+	.	ID=ftr-9;Name=envelope protein;Gene=envelope protein;Alias=JQ989271.1_4;
+JQ989271	vadr	CDS	25611	26291	.	+	.	ID=ftr-11;Name=membrane protein;Gene=membrane protein;Alias=JQ989271.1_5;
+JQ989271	vadr	CDS	26303	27511	.	+	.	ID=ftr-13;Name=nucleocapsid protein;Gene=nucleocapsid protein;Alias=JQ989271.1_6;
+JQ989271	vadr	CDS	27527	27772	.	+	.	ID=ftr-15;Name=non-structural protein NS7a;Gene=non-structural protein NS7a;Alias=JQ989271.1_7;
+JQ989271	vadr	CDS	27782	28243	.	+	.	ID=ftr-17;Name=non-structural protein NS7b;Gene=non-structural protein NS7b;Alias=JQ989271.1_8;
+JQ989271	vadr	CDS	27981	28211	.	+	.	ID=ftr-19;Name=non-structural protein NS7c;Gene=non-structural protein NS7c;Alias=JQ989271.1_9;

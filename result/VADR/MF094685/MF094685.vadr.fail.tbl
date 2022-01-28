@@ -1,0 +1,45 @@
+>Feature MF094685.1
+304	20489	gene
+304	12486	gene
+304	12456	CDS
+12456	20489
+			product	orf1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	MF094685.1_1
+304	12486	CDS
+			product	orf1a polyprotein
+			protein_id	MF094685.1_2
+20486	23902	gene
+			gene	S
+20486	23902	CDS
+			product	spike glycoprotein
+			protein_id	MF094685.1_3
+23902	24591	gene
+			gene	NS3
+23902	24591	CDS
+			product	hypothetical protein
+			protein_id	MF094685.1_4
+24572	24799	gene
+			gene	E
+24572	24799	CDS
+			product	small membrane protein
+			protein_id	MF094685.1_5
+24808	25497	gene
+			gene	M
+24808	25497	CDS
+			product	membrane glycoprotein
+			protein_id	MF094685.1_6
+25509	26636	gene
+			gene	N
+25509	26636	CDS
+			product	nucleocapsid phosphoprotein
+			protein_id	MF094685.1_7
+26648	26947	gene
+			gene	NS7a
+26648	26947	CDS
+			product	hypothetical protein
+			protein_id	MF094685.1_8
+
+Additional note(s) to submitter:
+ERROR: LOW_SIMILARITY_START: (*sequence*) significant similarity not detected at 5' end of the sequence [low similarity region of length 7]; seq-coords:1..7:+; mdl-coords:0..0:+; mdl:NC_009988;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike glycoprotein) possible frameshift in CDS (frame restored before end) [cause:insert,S:21416..21432(17),M:21399; restore:insert,S:21445..21448(4),M:21411; frame:1(3)1; length:930:(33):2454;]; seq-coords:21416..21448:+; mdl-coords:21400..21411:+; mdl:NC_009988;

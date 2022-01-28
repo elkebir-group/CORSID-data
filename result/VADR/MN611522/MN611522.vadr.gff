@@ -1,0 +1,15 @@
+##gff-version 3
+MN611522	vadr	region	12284	20317	.	+	.	ID=ftr-4;Name=orf1ab polyprotein;Gene=orf1ab polyprotein;Alias=MN611522.1_1;
+MN611522	vadr	CDS	132	12314	.	+	.	ID=ftr-5;Name=orf1a polyprotein;Gene=orf1a polyprotein;Alias=MN611522.1_2;
+MN611522	vadr	gene	20314	23673	.	+	.	ID=ftr-6;Name=S;Gene=S;
+MN611522	vadr	CDS	20314	23673	.	+	.	ID=ftr-7;Name=spike glycoprotein;Gene=spike glycoprotein;Parent=ftr-6;Alias=MN611522.1_3;
+MN611522	vadr	gene	23673	24362	.	+	.	ID=ftr-8;Name=NS3;Gene=NS3;
+MN611522	vadr	CDS	23673	24362	.	+	.	ID=ftr-9;Name=hypothetical protein;Gene=hypothetical protein;Parent=ftr-8;Alias=MN611522.1_4;
+MN611522	vadr	gene	24343	24570	.	+	.	ID=ftr-10;Name=E;Gene=E;
+MN611522	vadr	CDS	24343	24570	.	+	.	ID=ftr-11;Name=small membrane protein;Gene=small membrane protein;Parent=ftr-10;Alias=MN611522.1_5;
+MN611522	vadr	gene	24579	25265	.	+	.	ID=ftr-12;Name=M;Gene=M;
+MN611522	vadr	CDS	24579	25265	.	+	.	ID=ftr-13;Name=membrane glycoprotein;Gene=membrane glycoprotein;Parent=ftr-12;Alias=MN611522.1_6;
+MN611522	vadr	gene	25277	26407	.	+	.	ID=ftr-14;Name=N;Gene=N;
+MN611522	vadr	CDS	25277	26407	.	+	.	ID=ftr-15;Name=nucleocapsid phosphoprotein;Gene=nucleocapsid phosphoprotein;Parent=ftr-14;Alias=MN611522.1_7;
+MN611522	vadr	gene	26419	26718	.	+	.	ID=ftr-16;Name=NS7a;Gene=NS7a;
+MN611522	vadr	CDS	26419	26718	.	+	.	ID=ftr-17;Name=hypothetical protein;Gene=hypothetical protein;Parent=ftr-16;Alias=MN611522.1_8;

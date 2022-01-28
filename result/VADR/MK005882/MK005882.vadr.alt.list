@@ -1,0 +1,2 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+MK005882.1	NC_039208	-	*sequence*	LOW_SIMILARITY_START	1..7:+	0..0:+	significant similarity not detected at 5' end of the sequence [low similarity region of length 7]

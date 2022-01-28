@@ -1,0 +1,25 @@
+##gff-version 3
+MK679660	vadr	gene	241	21710	.	+	.	ID=ftr-1;Name=orf1ab;Gene=orf1ab;
+MK679660	vadr	gene	241	13623	.	+	.	ID=ftr-2;Name=ORF 1a;Gene=ORF 1a;
+MK679660	vadr	region	13602	21710	.	+	.	ID=ftr-4;Name=orf1ab;Gene=orf1ab;Parent=ftr-2;Alias=MK679660.1_1;
+MK679660	vadr	CDS	241	13623	.	+	.	ID=ftr-5;Name=ORF 1a;Gene=ORF 1a;Parent=ftr-2;Alias=MK679660.1_2;
+MK679660	vadr	gene	21628	25614	.	+	.	ID=ftr-6;Name=S;Gene=S;
+MK679660	vadr	CDS	21628	25614	.	+	.	ID=ftr-7;Name=S;Gene=S;Parent=ftr-6;Alias=MK679660.1_3;
+MK679660	vadr	gene	25632	25949	.	+	.	ID=ftr-8;Name=ORF 3a;Gene=ORF 3a;
+MK679660	vadr	CDS	25632	25949	.	+	.	ID=ftr-9;Name=ORF 3a;Gene=ORF 3a;Parent=ftr-8;Alias=MK679660.1_4;
+MK679660	vadr	gene	25726	26148	.	+	.	ID=ftr-10;Name=ORF 3b;Gene=ORF 3b;
+MK679660	vadr	CDS	25726	26148	.	+	.	ID=ftr-11;Name=ORF 3b;Gene=ORF 3b;Parent=ftr-10;Alias=MK679660.1_5;
+MK679660	vadr	gene	25903	26148	.	+	.	ID=ftr-12;Name=orf4a;Gene=orf4a;
+MK679660	vadr	CDS	25903	26148	.	+	.	ID=ftr-13;Name=orf4a;Gene=orf4a;Parent=ftr-12;Alias=MK679660.1_6;
+MK679660	vadr	gene	26135	26815	.	+	.	ID=ftr-14;Name=orf4b;Gene=orf4b;
+MK679660	vadr	CDS	26135	26815	.	+	.	ID=ftr-15;Name=orf4b;Gene=orf4b;Parent=ftr-14;Alias=MK679660.1_7;
+MK679660	vadr	gene	26825	27526	.	+	.	ID=ftr-16;Name=orf5;Gene=orf5;
+MK679660	vadr	CDS	26825	27526	.	+	.	ID=ftr-17;Name=orf5;Gene=orf5;Parent=ftr-16;Alias=MK679660.1_8;
+MK679660	vadr	gene	27600	27848	.	+	.	ID=ftr-18;Name=E;Gene=E;
+MK679660	vadr	CDS	27600	27848	.	+	.	ID=ftr-19;Name=E;Gene=E;Parent=ftr-18;Alias=MK679660.1_9;
+MK679660	vadr	gene	27863	28519	.	+	.	ID=ftr-20;Name=M;Gene=M;
+MK679660	vadr	CDS	27863	28519	.	+	.	ID=ftr-21;Name=M;Gene=M;Parent=ftr-20;Alias=MK679660.1_10;
+MK679660	vadr	gene	28573	29850	.	+	.	ID=ftr-22;Name=N;Gene=N;
+MK679660	vadr	CDS	28573	29850	.	+	.	ID=ftr-23;Name=N;Gene=N;Parent=ftr-22;Alias=MK679660.1_11;
+MK679660	vadr	gene	28619	29221	.	+	.	ID=ftr-24;Name=orf8b;Gene=orf8b;
+MK679660	vadr	CDS	28619	29221	.	+	.	ID=ftr-25;Name=orf8b;Gene=orf8b;Parent=ftr-24;Alias=MK679660.1_12;

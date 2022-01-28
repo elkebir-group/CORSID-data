@@ -1,0 +1,8 @@
+#     alert     causes   short                              per    num   num  long       
+#idx  code      failure  description                       type  cases  seqs  description
+#---  --------  -------  ----------------------------  --------  -----  ----  -----------
+1     unjoinbl  no       UNJOINABLE_SUBSEQ_ALIGNMENTS  sequence      1     1  inconsistent alignment of overlapping region between seed and flanking region
+#---  --------  -------  ----------------------------  --------  -----  ----  -----------
+2     insertnp  yes      INSERTION_OF_NT                feature      1     1  too large of an insertion in protein-based alignment
+3     insertnn  yes      INSERTION_OF_NT                feature      1     1  too large of an insertion in nucleotide-based alignment of CDS feature
+#---  --------  -------  ----------------------------  --------  -----  ----  -----------

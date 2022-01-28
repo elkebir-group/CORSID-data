@@ -1,0 +1,118 @@
+>Feature MN065811.1
+285	20515	gene
+285	12491	CDS
+12491	20515
+			product	Pol1
+			exception	ribosomal slippage
+			protein_id	MN065811.1_1
+285	614	mat_peptide
+			product	putative leader protein
+			protein_id	MN065811.1_1
+2958	7721	mat_peptide
+			product	putative coronavirus nsp1
+			protein_id	MN065811.1_1
+9165	10070	mat_peptide
+			product	putative coronavirus nsp2 [3CL-PRO]
+			protein_id	MN065811.1_1
+10071	10901	mat_peptide
+			product	putative coronavirus nsp3 [HD2]
+			protein_id	MN065811.1_1
+10902	11150	mat_peptide
+			product	putative coronavirus nsp4
+			protein_id	MN065811.1_1
+11151	11735	mat_peptide
+			product	putative coronavirus nsp5
+			protein_id	MN065811.1_1
+11736	12059	mat_peptide
+			product	putative coronavirus nsp6
+			protein_id	MN065811.1_1
+12060	12464	mat_peptide
+			product	formerly known as growth-factor-like protein
+			product	putative coronavirus nsp7
+			protein_id	MN065811.1_1
+12465	12491	mat_peptide
+12491	15247
+			product	RNA-dependent RNA polymerase
+			product	putative coronavirus nsp9 [RdRp]
+			protein_id	MN065811.1_1
+15248	17038	mat_peptide
+			product	putative coronavirus nsp10 [MB, NTPase/HEL]
+			protein_id	MN065811.1_1
+17039	18592	mat_peptide
+			product	putative coronavirus nsp11
+			protein_id	MN065811.1_1
+18593	19609	mat_peptide
+			product	putative coronavirus nsp12
+			protein_id	MN065811.1_1
+19610	20512	mat_peptide
+			product	putative coronavirus nsp13
+			protein_id	MN065811.1_1
+20512	24606	gene
+20512	24606	CDS
+			product	spike protein
+			protein_id	MN065811.1_2
+24606	25280	gene
+24606	25280	CDS
+			product	hypothetical protein
+			protein_id	MN065811.1_3
+25261	25491	gene
+25261	25491	CDS
+			product	envelope protein
+			protein_id	MN065811.1_4
+25499	26183	gene
+25499	26183	CDS
+			product	membrane protein
+			protein_id	MN065811.1_5
+26192	27650	gene
+26192	27650	CDS
+			product	nucleocapsid protein
+			protein_id	MN065811.1_6
+
+Additional note(s) to submitter:
+ERROR: LOW_COVERAGE: (*sequence*) low sequence fraction with significant similarity to homology model [0.707<0.900]; seq-coords:1..9:+,1054..2619:+,2695..4078:+,4530..5267:+,5522..6119:+,20504..23140:+,26443..26995:+,27133..27843:+,28083..28119:+; mdl-coords:-; mdl:NC_003436;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 37]; seq-coords:28083..28119:+; mdl-coords:28033..28033:+; mdl:NC_003436;
+ERROR: LOW_SIMILARITY_START: (*sequence*) significant similarity not detected at 5' end of the sequence [low similarity region of length 9]; seq-coords:1..9:+; mdl-coords:6..14:+; mdl:NC_003436;
+ERROR: DELETION_OF_NT: (CDS:Pol1) too large of a deletion in protein-based alignment [63>27]; seq-coords:3239..3239:+; mdl-coords:3264..3326:+; mdl:NC_003436;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:Pol1) possible frameshift in CDS (frame restored before end) [cause:insert,S:1633(1),M:1656; restore:delete,S:1689,M:1713(1); frame:1(2)131213121312121; length:1348:(57):342:19:1244:16:1239:19:3163:20:32:7:1307:12:3601:15:7791;]; seq-coords:1633..1689:+; mdl-coords:1657..1713:+; mdl:NC_003436;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:Pol1) possible frameshift in CDS (frame restored before end) [cause:delete,S:2031,M:2056(1); restore:insert,S:2050(1),M:2074; frame:121(3)1213121312121; length:1348:57:342:(19):1244:16:1239:19:3163:20:32:7:1307:12:3601:15:7791;]; seq-coords:2032..2050:+; mdl-coords:2056..2074:+; mdl:NC_003436;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:Pol1) possible frameshift in CDS (frame restored before end) [cause:delete,S:3294,M:3340..3353(14); restore:delete,S:3310,M:3370(1); frame:12131(2)13121312121; length:1348:57:342:19:1244:(16):1239:19:3163:20:32:7:1307:12:3601:15:7791;]; seq-coords:3295..3310:+; mdl-coords:3340..3370:+; mdl:NC_003436;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:Pol1) possible frameshift in CDS (frame restored before end) [cause:delete,S:4549,M:4670..4673(4); restore:delete,S:4568,M:4693..4706(14); frame:1213121(3)121312121; length:1348:57:342:19:1244:16:1239:(19):3163:20:32:7:1307:12:3601:15:7791;]; seq-coords:4550..4568:+; mdl-coords:4670..4706:+; mdl:NC_003436;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:Pol1) possible frameshift in CDS (frame restored before end) [cause:insert,S:7732..7735(4),M:7857; restore:delete,S:7751,M:7874(1); frame:121312131(2)1312121; length:1348:57:342:19:1244:16:1239:19:3163:(20):32:7:1307:12:3601:15:7791;]; seq-coords:7732..7751:+; mdl-coords:7858..7874:+; mdl:NC_003436;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:Pol1) possible frameshift in CDS (frame restored before end) [cause:delete,S:7783,M:7907(1); restore:insert,S:7790(1),M:7913; frame:12131213121(3)12121; length:1348:57:342:19:1244:16:1239:19:3163:20:32:(7):1307:12:3601:15:7791;]; seq-coords:7784..7790:+; mdl-coords:7907..7913:+; mdl:NC_003436;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:Pol1) possible frameshift in CDS (frame restored before end) [cause:insert,S:9098(1),M:9220; restore:delete,S:9109,M:9232(1); frame:1213121312131(2)121; length:1348:57:342:19:1244:16:1239:19:3163:20:32:7:1307:(12):3601:15:7791;]; seq-coords:9098..9109:+; mdl-coords:9221..9232:+; mdl:NC_003436;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:Pol1) possible frameshift in CDS (frame restored before end) [cause:insert,S:12710(1),M:12838; restore:delete,S:12724,M:12853(1); frame:121312131213121(2)1; length:1348:57:342:19:1244:16:1239:19:3163:20:32:7:1307:12:3601:(15):7791;]; seq-coords:12710..12724:+; mdl-coords:12839..12853:+; mdl:NC_003436;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike protein) possible frameshift in CDS (frame restored before end) [cause:insert,S:21367..21370(4),M:21504; restore:delete,S:21400,M:21535(1); frame:1(2)13131313121; length:855:(34):84:5:278:22:350:19:145:5:747:12:1539;]; seq-coords:21367..21400:+; mdl-coords:21505..21535:+; mdl:NC_003436;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike protein) possible frameshift in CDS (frame restored before end) [cause:delete,S:21767,M:21903..21912(10); restore:delete,S:21789,M:21935..21936(2); frame:12131(3)1313121; length:855:34:84:5:278:(22):350:19:145:5:747:12:1539;]; seq-coords:21768..21789:+; mdl-coords:21903..21936:+; mdl:NC_003436;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike protein) possible frameshift in CDS (frame restored before end) [cause:delete,S:22139,M:22287(1); restore:insert,S:22158(1),M:22305; frame:1213131(3)13121; length:855:34:84:5:278:22:350:(19):145:5:747:12:1539;]; seq-coords:22140..22158:+; mdl-coords:22287..22305:+; mdl:NC_003436;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike protein) possible frameshift in CDS (frame restored before end) [cause:insert,S:23056(1),M:23202; restore:delete,S:23067,M:23214(1); frame:12131313131(2)1; length:855:34:84:5:278:22:350:19:145:5:747:(12):1539;]; seq-coords:23056..23067:+; mdl-coords:23203..23214:+; mdl:NC_003436;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:spike protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [12>5]; seq-coords:20512..20523:+; mdl-coords:20638..20638:+; mdl:NC_003436;
+ERROR: CDS_HAS_STOP_CODON: (CDS:membrane protein) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAA, shifted S:673,M:673]; seq-coords:25508..25510:+; mdl-coords:25687..25689:+; mdl:NC_003436;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:membrane protein) possible frameshift in CDS (frame not restored before end) [cause:insert,S:25501..25504(4),M:25683; frame:1(2); length:2:(683);]; seq-coords:25501..26183:+; mdl-coords:25684..26362:+; mdl:NC_003436;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:membrane protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [7>5]; seq-coords:25499..25505:+; mdl-coords:25682..25682:+; mdl:NC_003436;
+ERROR: MUTATION_AT_START: (CDS:membrane protein) expected start codon could not be identified [GTC]; seq-coords:25499..25501:+; mdl-coords:25682..25683:+; mdl:NC_003436;
+ERROR: UNEXPECTED_LENGTH: (CDS:membrane protein) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [685]; seq-coords:25499..26183:+; mdl-coords:25682..26362:+; mdl:NC_003436;
+ERROR: CDS_HAS_STOP_CODON: (CDS:nucleocapsid protein) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAA, shifted S:199,M:89]; seq-coords:27449..27451:+; mdl-coords:27608..27610:+; mdl:NC_003436;
+ERROR: DELETION_OF_NT: (CDS:nucleocapsid protein) too large of a deletion in nucleotide-based alignment of CDS feature [34>27]; seq-coords:26730..26730:+; mdl-coords:26915..26948:+; mdl:NC_003436;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:nucleocapsid protein) possible frameshift in CDS (frame restored before end) [cause:insert,S:26314..26317(4),M:26492; restore:insert,S:26331..26332(2),M:26505; frame:1(2)12121213212; length:122:(19):393:5:63:13:476:109:34:29:121:43:32;]; seq-coords:26314..26332:+; mdl-coords:26493..26505:+; mdl:NC_003436;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:nucleocapsid protein) possible frameshift in CDS (frame restored before end) [cause:delete,S:26793,M:27012..27016(5); restore:delete,S:26806,M:27030(1); frame:12121(2)1213212; length:122:19:393:5:63:(13):476:109:34:29:121:43:32;]; seq-coords:26794..26806:+; mdl-coords:27012..27030:+; mdl:NC_003436;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:nucleocapsid protein) possible frameshift in CDS (frame restored before end) [cause:insert,S:27283..27340(58),M:27536; restore:insert,S:27390..27391(2),M:27561; frame:1212121(2)13212; length:122:19:393:5:63:13:476:(109):34:29:121:43:32;]; seq-coords:27283..27391:+; mdl-coords:27537..27561:+; mdl:NC_003436;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:nucleocapsid protein) possible frameshift in CDS (frame restored before end) [cause:insert,S:27426..27430(5),M:27589; restore:insert,S:27541..27575(35),M:27637; frame:121212121(32)12; length:122:19:393:5:63:13:476:109:34:(29:121):43:32; intermediate:insert,S:27455..27474(20),M:27613;]; seq-coords:27426..27575:+; mdl-coords:27590..27637:+; mdl:NC_003436;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:nucleocapsid protein) possible frameshift in CDS (frame not restored before end) [cause:insert,S:27619..27622(4),M:27671; frame:121212121321(2); length:122:19:393:5:63:13:476:109:34:29:121:43:(32);]; seq-coords:27619..27650:+; mdl-coords:27672..27699:+; mdl:NC_003436;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:nucleocapsid protein) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [229>5]; seq-coords:27422..27650:+; mdl-coords:27699..27699:+; mdl:NC_003436;
+ERROR: INSERTION_OF_NT: (CDS:nucleocapsid protein) too large of an insertion in nucleotide-based alignment of CDS feature [58>27]; seq-coords:27283..27340:+; mdl-coords:27536..27536:+; mdl:NC_003436;
+ERROR: INSERTION_OF_NT: (CDS:nucleocapsid protein) too large of an insertion in nucleotide-based alignment of CDS feature [42>27]; seq-coords:27494..27535:+; mdl-coords:27632..27632:+; mdl:NC_003436;
+ERROR: INSERTION_OF_NT: (CDS:nucleocapsid protein) too large of an insertion in nucleotide-based alignment of CDS feature [35>27]; seq-coords:27541..27575:+; mdl-coords:27637..27637:+; mdl:NC_003436;
+ERROR: UNEXPECTED_LENGTH: (CDS:nucleocapsid protein) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [1459]; seq-coords:26192..27650:+; mdl-coords:26374..27699:+; mdl:NC_003436;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:putative leader protein) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_003436;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:putative coronavirus nsp1) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_003436;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:putative coronavirus nsp2 [3CL-PRO]) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_003436;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:putative coronavirus nsp3 [HD2]) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_003436;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:putative coronavirus nsp4) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_003436;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:putative coronavirus nsp5) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_003436;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:putative coronavirus nsp6) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_003436;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:formerly known as growth-factor-like protein:GBSEP:putative coronavirus nsp7) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_003436;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:RNA-dependent RNA polymerase:GBSEP:putative coronavirus nsp9 [RdRp]) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_003436;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:putative coronavirus nsp10 [MB, NTPase/HEL]) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_003436;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:putative coronavirus nsp11) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_003436;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:putative coronavirus nsp12) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_003436;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:putative coronavirus nsp13) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_003436;

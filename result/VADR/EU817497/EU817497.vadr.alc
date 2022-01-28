@@ -1,0 +1,8 @@
+#     alert     causes   short                             per    num   num  long       
+#idx  code      failure  description                      type  cases  seqs  description
+#---  --------  -------  ---------------------------  --------  -----  ----  -----------
+1     lowsim3s  yes      LOW_SIMILARITY_END           sequence      1     1  significant similarity not detected at 3' end of the sequence
+2     peptrans  yes*     PEPTIDE_TRANSLATION_PROBLEM   feature     14     1  mat_peptide may not be translated because its parent CDS has a problem
+3     deletinp  yes*     DELETION_OF_NT                feature      2     1  too large of a deletion in protein-based alignment
+4     deletinn  yes*     DELETION_OF_NT                feature      2     1  too large of a deletion in nucleotide-based alignment of CDS feature
+#---  --------  -------  ---------------------------  --------  -----  ----  -----------

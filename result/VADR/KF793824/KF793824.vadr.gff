@@ -1,0 +1,15 @@
+##gff-version 3
+KF793824	vadr	region	12384	20510	.	+	.	ID=ftr-4;Name=ORF 1ab polyprotein;Gene=ORF 1ab polyprotein;Alias=KF793824.1_1;
+KF793824	vadr	CDS	520	12414	.	+	.	ID=ftr-5;Name=ORF 1a polyprotein;Gene=ORF 1a polyprotein;Alias=KF793824.1_2;
+KF793824	vadr	CDS	20446	24927	.	+	.	ID=ftr-7;Name=spike protein;Gene=spike protein;Alias=KF793824.1_3;
+KF793824	vadr	CDS	24933	25220	.	+	.	ID=ftr-9;Name=small membrane protein;Gene=small membrane protein;Alias=KF793824.1_4;
+KF793824	vadr	CDS	25204	26028	.	+	.	ID=ftr-11;Name=matrix glycoprotein;Gene=matrix glycoprotein;Alias=KF793824.1_5;
+KF793824	vadr	CDS	26031	26447	.	+	.	ID=ftr-13;Name=ORF 5a;Gene=ORF 5a;Alias=KF793824.1_6;
+KF793824	vadr	CDS	26440	26958	.	+	.	ID=ftr-15;Name=ORF 5b;Gene=ORF 5b;Alias=KF793824.1_7;
+KF793824	vadr	CDS	26948	27475	.	+	.	ID=ftr-17;Name=ORF 5c;Gene=ORF 5c;Alias=KF793824.1_8;
+KF793824	vadr	CDS	27479	28165	.	+	.	ID=ftr-19;Name=ORF 6;Gene=ORF 6;Alias=KF793824.1_9;
+KF793824	vadr	CDS	28168	28653	.	+	.	ID=ftr-21;Name=ORF 7;Gene=ORF 7;Alias=KF793824.1_10;
+KF793824	vadr	CDS	28804	28983	.	+	.	ID=ftr-23;Name=ORF 8;Gene=ORF 8;Alias=KF793824.1_11;
+KF793824	vadr	CDS	29040	29498	.	+	.	ID=ftr-25;Name=ORF 9;Gene=ORF 9;Alias=KF793824.1_12;
+KF793824	vadr	CDS	29501	30133	.	+	.	ID=ftr-27;Name=ORF 10;Gene=ORF 10;Alias=KF793824.1_13;
+KF793824	vadr	CDS	30245	31384	.	+	.	ID=ftr-29;Name=nucleocapsid protein;Gene=nucleocapsid protein;Alias=KF793824.1_14;

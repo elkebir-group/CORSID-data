@@ -1,0 +1,4 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+MK937830.1	NC_001451	-	*sequence*	LOW_SIMILARITY_END	27475..27485:+	27608..27608:+	significant similarity not detected at 3' end of the sequence [low similarity region of length 11]
+MK937830.1	NC_001451	CDS	spike protein	CDS_HAS_STOP_CODON	23833..23835:+	23827..23829:+	in-frame stop codon exists 5' of stop position predicted by homology to reference [TAA, shifted S:27,M:27]
+MK937830.1	NC_001451	CDS	spike protein	CDS_HAS_STOP_CODON	23833..23835:+	23827..23829:+	stop codon in protein-based alignment [-]

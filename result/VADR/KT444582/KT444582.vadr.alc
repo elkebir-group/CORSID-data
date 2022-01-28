@@ -1,0 +1,16 @@
+#     alert     causes   short                             per    num   num  long       
+#idx  code      failure  description                      type  cases  seqs  description
+#---  --------  -------  ---------------------------  --------  -----  ----  -----------
+1     lowsimic  no       LOW_FEATURE_SIMILARITY        feature      4     1  region within annotated feature that is or matches a CDS lacks significant similarity
+#---  --------  -------  ---------------------------  --------  -----  ----  -----------
+2     lowsimis  yes      LOW_SIMILARITY               sequence      1     1  internal region without significant similarity
+3     mutstart  yes*     MUTATION_AT_START             feature      1     1  expected start codon could not be identified
+4     mutendcd  yes*     MUTATION_AT_END               feature      1     1  expected stop codon could not be identified, predicted CDS stop by homology is invalid
+5     mutendex  yes*     MUTATION_AT_END               feature      1     1  expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position
+6     cdsstopn  yes*     CDS_HAS_STOP_CODON            feature      2     1  in-frame stop codon exists 5' of stop position predicted by homology to reference
+7     cdsstopp  yes*     CDS_HAS_STOP_CODON            feature      1     1  stop codon in protein-based alignment
+8     fstukcfi  yes*     POSSIBLE_FRAMESHIFT           feature      3     1  possible frameshift in CDS (frame restored before end)
+9     indf5pst  yes*     INDEFINITE_ANNOTATION_START   feature      1     1  protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint
+10    indf3pst  yes*     INDEFINITE_ANNOTATION_END     feature      1     1  protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint
+11    insertnn  yes      INSERTION_OF_NT               feature      1     1  too large of an insertion in nucleotide-based alignment of CDS feature
+#---  --------  -------  ---------------------------  --------  -----  ----  -----------

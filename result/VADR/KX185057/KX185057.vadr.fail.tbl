@@ -1,0 +1,124 @@
+>Feature KX185057.1
+526	20537	gene
+			gene	1ab
+526	12474	CDS
+12474	20537
+			product	ORF1ab polyprotein
+			product	frameshift product
+			protein_id	KX185057.1_1
+526	12504	CDS
+			product	ORF1a polyprotein
+			protein_id	KX185057.1_2
+526	2619	mat_peptide
+			product	leader protein p87
+			protein_id	KX185057.1_1
+2620	8982	mat_peptide
+			product	coronavirus nsp1 [HD1]
+			product	hydrophobic domain 1
+			protein_id	KX185057.1_1
+8983	9903	mat_peptide
+			product	coronavirus nsp2 [3CL-Pro]
+			protein_id	KX185057.1_1
+9904	10785	mat_peptide
+			product	coronavirus nsp3 [HD2]
+			product	hydrophobic domain 2
+			protein_id	KX185057.1_1
+10786	11034	mat_peptide
+			product	coronavirus nsp4
+			protein_id	KX185057.1_1
+11035	11664	mat_peptide
+			product	coronavirus nsp5
+			protein_id	KX185057.1_1
+11665	11997	mat_peptide
+			product	coronavirus nsp6
+			protein_id	KX185057.1_1
+11998	12432	mat_peptide
+			product	coronavirus nsp7 [GLF]
+			product	growth factor-like protein
+			protein_id	KX185057.1_1
+12433	12474	mat_peptide
+12474	15251
+			product	RNA-dependent RNA polymerase
+			product	coronavirus nsp9 [RdRp]
+			protein_id	KX185057.1_1
+12433	12501	mat_peptide
+			product	coronavirus nsp8
+			protein_id	KX185057.1_2
+15252	17051	mat_peptide
+			product	coronavirus nsp10
+			product	metal-binding NTPase/helicase
+			protein_id	KX185057.1_1
+17052	18614	mat_peptide
+			product	coronavirus nsp11
+			protein_id	KX185057.1_1
+18615	19628	mat_peptide
+			product	coronavirus nsp12
+			protein_id	KX185057.1_1
+19629	20534	mat_peptide
+			product	coronavirus nsp13
+			protein_id	KX185057.1_1
+20488	23994	gene
+			gene	2
+20488	23994	CDS
+			product	spike protein
+			protein_id	KX185057.1_3
+23994	24691	gene
+			gene	3
+23994	24167	CDS
+			product	3a protein
+			protein_id	KX185057.1_4
+24167	24358	CDS
+			product	3b protein
+			protein_id	KX185057.1_5
+24345	24671	CDS
+			product	small virion-associated protein
+			protein_id	KX185057.1_6
+24640	25320	gene
+			gene	M
+24640	25320	CDS
+			product	membrane protein
+			protein_id	KX185057.1_7
+25684	26126	gene
+			gene	5
+25684	25881	CDS
+			product	5a protein
+			protein_id	KX185057.1_8
+25878	26126	CDS
+			product	5b protein
+			protein_id	KX185057.1_9
+26069	27298	gene
+			gene	N
+26069	27298	CDS
+			product	nucleocapsid protein
+			protein_id	KX185057.1_10
+
+Additional note(s) to submitter:
+ERROR: DUPLICATE_REGIONS: (*sequence*) similarity to a model region occurs more than once [716..787:+ (len 72>=20) hits 1 (28685.0 bits) and 2 (1108.0 bits)]; seq-coords:788..27791:+,1..787:+; mdl-coords:716..27608:+,1..787:+; mdl:NC_001451;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 11]; seq-coords:27792..27802:+; mdl-coords:27608..27608:+; mdl:NC_001451;
+ERROR: INSERTION_OF_NT: (CDS:ORF1ab polyprotein:GBSEP:frameshift product) too large of an insertion in nucleotide-based alignment of CDS feature [72>27]; seq-coords:740..811:+; mdl-coords:739..739:+; mdl:NC_001451;
+ERROR: INSERTION_OF_NT: (CDS:ORF1ab polyprotein:GBSEP:frameshift product) too large of an insertion in nucleotide-based alignment of CDS feature [39>27]; seq-coords:3543..3581:+; mdl-coords:3467..3467:+; mdl:NC_001451;
+ERROR: INSERTION_OF_NT: (CDS:ORF1ab polyprotein:GBSEP:frameshift product) too large of an insertion in protein-based alignment [72>27]; seq-coords:732..803:+; mdl-coords:732..732:+; mdl:NC_001451;
+ERROR: INSERTION_OF_NT: (CDS:ORF1ab polyprotein:GBSEP:frameshift product) too large of an insertion in protein-based alignment [42>27]; seq-coords:3564..3605:+; mdl-coords:3477..3477:+; mdl:NC_001451;
+ERROR: INSERTION_OF_NT: (CDS:ORF1a polyprotein) too large of an insertion in nucleotide-based alignment of CDS feature [72>27]; seq-coords:740..811:+; mdl-coords:739..739:+; mdl:NC_001451;
+ERROR: INSERTION_OF_NT: (CDS:ORF1a polyprotein) too large of an insertion in nucleotide-based alignment of CDS feature [39>27]; seq-coords:3543..3581:+; mdl-coords:3467..3467:+; mdl:NC_001451;
+ERROR: INSERTION_OF_NT: (CDS:ORF1a polyprotein) too large of an insertion in protein-based alignment [72>27]; seq-coords:732..803:+; mdl-coords:732..732:+; mdl:NC_001451;
+ERROR: INSERTION_OF_NT: (CDS:ORF1a polyprotein) too large of an insertion in protein-based alignment [42>27]; seq-coords:3564..3605:+; mdl-coords:3477..3477:+; mdl:NC_001451;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:spike protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [93>5]; seq-coords:20488..20580:+; mdl-coords:20368..20368:+; mdl:NC_001451;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:3b protein) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [12>8, valid stop codon in nucleotide-based prediction]; seq-coords:24347..24358:+; mdl-coords:24223..24223:+; mdl:NC_001451;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:small virion-associated protein) protein-based alignment extends past nucleotide-based alignment at 5' end [-]; seq-coords:24342..24344:+; mdl-coords:24207..24207:+; mdl:NC_001451;
+ERROR: MUTATION_AT_START: (CDS:small virion-associated protein) expected start codon could not be identified [AAT]; seq-coords:24345..24347:+; mdl-coords:24207..24212:+; mdl:NC_001451;
+ERROR: MUTATION_AT_END: (CDS:5b protein) expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAG]; seq-coords:26148..26150:+; mdl-coords:25952..25954:+; mdl:NC_001451;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:leader protein p87) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_001451;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:coronavirus nsp1 [HD1]:GBSEP:hydrophobic domain 1) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_001451;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:coronavirus nsp2 [3CL-Pro]) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_001451;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:coronavirus nsp3 [HD2]:GBSEP:hydrophobic domain 2) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_001451;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:coronavirus nsp4) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_001451;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:coronavirus nsp5) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_001451;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:coronavirus nsp6) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_001451;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:coronavirus nsp7 [GLF]:GBSEP:growth factor-like protein) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_001451;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:RNA-dependent RNA polymerase:GBSEP:coronavirus nsp9 [RdRp]) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_001451;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:coronavirus nsp10:GBSEP:metal-binding NTPase/helicase) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_001451;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:coronavirus nsp11) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_001451;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:coronavirus nsp12) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_001451;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:coronavirus nsp13) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_001451;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:coronavirus nsp8) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_001451;

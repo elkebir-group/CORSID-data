@@ -1,0 +1,4 @@
+#seq  seq           seq                              sub                     seq    mdl         num                        sub     score  diff/  seq   
+#idx  name          len  p/f   ant  model1     grp1  grp1    score  sc/nt    cov    cov  bias  hits  str  model2     grp2  grp2     diff     nt  alerts
+#---  ----------  -----  ----  ---  ---------  ----  ----  -------  -----  -----  -----  ----  ----  ---  ---------  ----  ----  -------  -----  ------
+1     KY799179.1  28173  FAIL  yes  NC_022103  -     -     44537.0  1.672  0.946  0.950     0     2    +  NC_009657  -     -     38391.5  1.277  LOW_SIMILARITY_END(lowsim3s)

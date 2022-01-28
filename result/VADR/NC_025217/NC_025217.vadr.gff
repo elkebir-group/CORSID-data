@@ -1,0 +1,10 @@
+##gff-version 3
+NC_025217	vadr	region	13931	22045	.	+	.	ID=ftr-3;Name=non-structural polyprotein;Gene=non-structural polyprotein;Alias=NC_025217.1_1;
+NC_025217	vadr	CDS	22058	23413	.	+	.	ID=ftr-5;Name=hypothetical protein;Gene=hypothetical protein;Alias=NC_025217.1_2;
+NC_025217	vadr	CDS	23563	27516	.	+	.	ID=ftr-7;Name=spike protein;Gene=spike protein;Alias=NC_025217.1_3;
+NC_025217	vadr	CDS	27523	28260	.	+	.	ID=ftr-9;Name=hypothetical protein;Gene=hypothetical protein;Alias=NC_025217.1_4;
+NC_025217	vadr	CDS	28315	28554	.	+	.	ID=ftr-11;Name=envelope protein;Gene=envelope protein;Alias=NC_025217.1_5;
+NC_025217	vadr	CDS	28610	29281	.	+	.	ID=ftr-13;Name=membrane protein;Gene=membrane protein;Alias=NC_025217.1_6;
+NC_025217	vadr	CDS	29297	29515	.	+	.	ID=ftr-15;Name=hypothetical protein;Gene=hypothetical protein;Alias=NC_025217.1_7;
+NC_025217	vadr	CDS	29534	29857	.	+	.	ID=ftr-17;Name=hypothetical protein;Gene=hypothetical protein;Alias=NC_025217.1_8;
+NC_025217	vadr	CDS	29917	31173	.	+	.	ID=ftr-19;Name=nucleocapsid protein;Gene=nucleocapsid protein;Alias=NC_025217.1_9;

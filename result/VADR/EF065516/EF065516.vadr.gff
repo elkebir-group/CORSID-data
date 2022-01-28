@@ -1,0 +1,17 @@
+##gff-version 3
+EF065516	vadr	gene	229	21005	.	+	.	ID=ftr-1;Name=orf1ab;Gene=orf1ab;
+EF065516	vadr	region	12936	21005	.	+	.	ID=ftr-3;Name=orf1ab polyprotein;Gene=orf1ab polyprotein;Parent=ftr-1;Alias=EF065516.1_1;
+EF065516	vadr	gene	20959	24777	.	+	.	ID=ftr-4;Name=S;Gene=S;
+EF065516	vadr	CDS	20959	24777	.	+	.	ID=ftr-5;Name=spike glycoprotein;Gene=spike glycoprotein;Parent=ftr-4;Alias=EF065516.1_2;
+EF065516	vadr	gene	24774	25460	.	+	.	ID=ftr-6;Name=NS3;Gene=NS3;
+EF065516	vadr	CDS	24774	25460	.	+	.	ID=ftr-7;Name=hypothetical protein;Gene=hypothetical protein;Parent=ftr-6;Alias=EF065516.1_3;
+EF065516	vadr	gene	25460	25702	.	+	.	ID=ftr-8;Name=E;Gene=E;
+EF065516	vadr	CDS	25460	25702	.	+	.	ID=ftr-9;Name=small membrane protein;Gene=small membrane protein;Parent=ftr-8;Alias=EF065516.1_4;
+EF065516	vadr	gene	25695	26363	.	+	.	ID=ftr-10;Name=M;Gene=M;
+EF065516	vadr	CDS	25695	26363	.	+	.	ID=ftr-11;Name=membrane glycoprotein;Gene=membrane glycoprotein;Parent=ftr-10;Alias=EF065516.1_5;
+EF065516	vadr	gene	26426	27838	.	+	.	ID=ftr-12;Name=N;Gene=N;
+EF065516	vadr	CDS	26426	27838	.	+	.	ID=ftr-13;Name=nucleocapsid phosphoprotein;Gene=nucleocapsid phosphoprotein;Parent=ftr-12;Alias=EF065516.1_6;
+EF065516	vadr	gene	27875	28457	.	+	.	ID=ftr-14;Name=NS7a;Gene=NS7a;
+EF065516	vadr	CDS	27875	28457	.	+	.	ID=ftr-15;Name=hypothetical protein;Gene=hypothetical protein;Parent=ftr-14;Alias=EF065516.1_7;
+EF065516	vadr	gene	28473	28922	.	+	.	ID=ftr-16;Name=NS7b;Gene=NS7b;
+EF065516	vadr	CDS	28473	28922	.	+	.	ID=ftr-17;Name=hypothetical protein;Gene=hypothetical protein;Parent=ftr-16;Alias=EF065516.1_8;

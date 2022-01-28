@@ -1,0 +1,4 @@
+#seq  seq           seq                              sub                     seq    mdl         num                                sub           score  diff/  seq   
+#idx  name          len  p/f   ant  model1     grp1  grp1    score  sc/nt    cov    cov  bias  hits  str  model2     grp2          grp2           diff     nt  alerts
+#---  ----------  -----  ----  ---  ---------  ----  ----  -------  -----  -----  -----  ----  ----  ---  ---------  ------------  ----------  -------  -----  ------
+1     KY417143.1  29741  FAIL  yes  NC_004718  -     -     45357.0  1.551  0.983  0.982     0     3    +  NC_045512  Sarbecovirus  SARS-CoV-2  22377.0  0.727  -     

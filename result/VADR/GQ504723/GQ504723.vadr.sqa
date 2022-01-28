@@ -1,0 +1,4 @@
+#seq  seq           seq             best            sub                             seq   
+#idx  name          len  p/f   ant  model      grp  grp  nfa  nfn  nf5  nf3  nfalt  alerts
+#---  ----------  -----  ----  ---  ---------  ---  ---  ---  ---  ---  ---  -----  ------
+1     GQ504723.1  27620  FAIL  yes  NC_010800  -    -     37    0    0    0     44  LOW_COVERAGE(lowcovrg),LOW_SIMILARITY_END(lowsim3s)

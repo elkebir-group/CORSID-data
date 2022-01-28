@@ -1,0 +1,6 @@
+#     alert     causes   short                            per    num   num  long       
+#idx  code      failure  description                     type  cases  seqs  description
+#---  --------  -------  ---------------------------  -------  -----  ----  -----------
+1     fstukcfi  yes*     POSSIBLE_FRAMESHIFT          feature      1     1  possible frameshift in CDS (frame restored before end)
+2     peptrans  yes*     PEPTIDE_TRANSLATION_PROBLEM  feature     15     1  mat_peptide may not be translated because its parent CDS has a problem
+#---  --------  -------  ---------------------------  -------  -----  ----  -----------

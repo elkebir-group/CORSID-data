@@ -1,0 +1,20 @@
+##gff-version 3
+MK644603	vadr	region	12616	20637	.	+	.	ID=ftr-3;Name=Pol1;Gene=Pol1;Alias=MK644603.1_1;
+MK644603	vadr	mat_peptide	293	622	.	+	.	ID=ftr-4;Name=putative leader protein;Gene=putative leader protein;Alias=MK644603.1_1;
+MK644603	vadr	mat_peptide	2978	7843	.	+	.	ID=ftr-5;Name=putative coronavirus nsp1;Gene=putative coronavirus nsp1;Alias=MK644603.1_1;
+MK644603	vadr	mat_peptide	9284	10189	.	+	.	ID=ftr-6;Name=putative coronavirus nsp2 [3CL-PRO];Gene=putative coronavirus nsp2 [3CL-PRO];Alias=MK644603.1_1;
+MK644603	vadr	mat_peptide	10190	11029	.	+	.	ID=ftr-7;Name=putative coronavirus nsp3 [HD2];Gene=putative coronavirus nsp3 [HD2];Alias=MK644603.1_1;
+MK644603	vadr	mat_peptide	11030	11278	.	+	.	ID=ftr-8;Name=putative coronavirus nsp4;Gene=putative coronavirus nsp4;Alias=MK644603.1_1;
+MK644603	vadr	mat_peptide	11279	11863	.	+	.	ID=ftr-9;Name=putative coronavirus nsp5;Gene=putative coronavirus nsp5;Alias=MK644603.1_1;
+MK644603	vadr	mat_peptide	11864	12187	.	+	.	ID=ftr-10;Name=putative coronavirus nsp6;Gene=putative coronavirus nsp6;Alias=MK644603.1_1;
+MK644603	vadr	mat_peptide	12188	12592	.	+	.	ID=ftr-11;Name=putative coronavirus nsp7;Gene=putative coronavirus nsp7;Alias=MK644603.1_1;
+MK644603	vadr	region	12616	15372	.	+	.	ID=ftr-13;Name=putative coronavirus nsp9 [RdRp];Gene=putative coronavirus nsp9 [RdRp];Alias=MK644603.1_1;
+MK644603	vadr	mat_peptide	15373	17163	.	+	.	ID=ftr-14;Name=putative coronavirus nsp10 [MB, NTPase/HEL];Gene=putative coronavirus nsp10 [MB, NTPase/HEL];Alias=MK644603.1_1;
+MK644603	vadr	mat_peptide	17164	18714	.	+	.	ID=ftr-15;Name=putative coronavirus nsp11;Gene=putative coronavirus nsp11;Alias=MK644603.1_1;
+MK644603	vadr	mat_peptide	18715	19731	.	+	.	ID=ftr-16;Name=putative coronavirus nsp12;Gene=putative coronavirus nsp12;Alias=MK644603.1_1;
+MK644603	vadr	mat_peptide	19732	20634	.	+	.	ID=ftr-17;Name=putative coronavirus nsp13;Gene=putative coronavirus nsp13;Alias=MK644603.1_1;
+MK644603	vadr	CDS	20634	24791	.	+	.	ID=ftr-19;Name=spike protein;Gene=spike protein;Alias=MK644603.1_2;
+MK644603	vadr	CDS	24791	25465	.	+	.	ID=ftr-21;Name=hypothetical protein;Gene=hypothetical protein;Alias=MK644603.1_3;
+MK644603	vadr	CDS	25446	25676	.	+	.	ID=ftr-23;Name=envelope protein;Gene=envelope protein;Alias=MK644603.1_4;
+MK644603	vadr	CDS	25684	26364	.	+	.	ID=ftr-25;Name=membrane protein;Gene=membrane protein;Alias=MK644603.1_5;
+MK644603	vadr	CDS	26376	27701	.	+	.	ID=ftr-27;Name=nucleocapsid protein;Gene=nucleocapsid protein;Alias=MK644603.1_6;

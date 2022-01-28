@@ -1,0 +1,2 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+JQ989271.1	NC_018871	CDS	membrane protein	POSSIBLE_FRAMESHIFT	25622..25639:+	25619..25645:+	possible frameshift in CDS (frame restored before end) [cause:delete,S:25621,M:25619(1); restore:delete,S:25639,M:25638..25645(8); frame:1(3)1; length:11:(18):652;]

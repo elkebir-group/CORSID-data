@@ -1,0 +1,58 @@
+>Feature MF113046.1
+275	20295	gene
+275	12304	gene
+275	12262	CDS
+12262	20295
+			product	orf1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	MF113046.1_1
+275	12304	CDS
+			product	orf1a polyprotein
+			protein_id	MF113046.1_2
+20297	24577	gene
+20297	24577	CDS
+			product	spike protein
+			protein_id	MF113046.1_3
+24595	25339	gene
+24595	25339	CDS
+			product	non-structural protein 3c
+			protein_id	MF113046.1_4
+25308	25556	gene
+25308	25556	CDS
+			product	envelope protein
+			protein_id	MF113046.1_5
+25573	26379	gene
+25573	26379	CDS
+			product	membrane protein
+			protein_id	MF113046.1_6
+26394	27524	gene
+26394	27524	CDS
+			product	nucleocapsid protein
+			protein_id	MF113046.1_7
+27529	27825	gene
+27529	27825	CDS
+			product	non-structural protein 7a
+			protein_id	MF113046.1_8
+27810	28031	gene
+27810	28031	CDS
+			product	hypothetical protein
+			protein_id	MF113046.1_9
+27973	28587	gene
+27973	28587	CDS
+			product	hypothetical protein orf7b
+			protein_id	MF113046.1_10
+
+Additional note(s) to submitter:
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 43]; seq-coords:28882..28924:+; mdl-coords:28941..28941:+; mdl:NC_023760;
+ERROR: DELETION_OF_NT: (CDS:orf1ab polyprotein) too large of a deletion in nucleotide-based alignment of CDS feature [48>27]; seq-coords:4169..4169:+; mdl-coords:4153..4200:+; mdl:NC_023760;
+ERROR: DELETION_OF_NT: (CDS:orf1ab polyprotein) too large of a deletion in protein-based alignment [48>27]; seq-coords:4168..4168:+; mdl-coords:4152..4199:+; mdl:NC_023760;
+ERROR: DELETION_OF_NT: (CDS:orf1a polyprotein) too large of a deletion in nucleotide-based alignment of CDS feature [48>27]; seq-coords:4169..4169:+; mdl-coords:4153..4200:+; mdl:NC_023760;
+ERROR: DELETION_OF_NT: (CDS:orf1a polyprotein) too large of a deletion in protein-based alignment [48>27]; seq-coords:4168..4168:+; mdl-coords:4152..4199:+; mdl:NC_023760;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike protein) possible frameshift in CDS (frame restored before end) [cause:delete,S:20302,M:20328(1); restore:delete,S:20309,M:20336..20343(8); frame:1(3)12131; length:6:(7):47:14:520:39:3648;]; seq-coords:20303..20309:+; mdl-coords:20328..20343:+; mdl:NC_023760;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike protein) possible frameshift in CDS (frame restored before end) [cause:delete,S:20356,M:20394..20407(14); restore:delete,S:20370,M:20422(1); frame:131(2)131; length:6:7:47:(14):520:39:3648;]; seq-coords:20357..20370:+; mdl-coords:20394..20422:+; mdl:NC_023760;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike protein) possible frameshift in CDS (frame restored before end) [cause:delete,S:20890,M:20952(1); restore:delete,S:20929,M:20992..20993(2); frame:13121(3)1; length:6:7:47:14:520:(39):3648;]; seq-coords:20891..20929:+; mdl-coords:20952..20993:+; mdl:NC_023760;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:spike protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [51>5]; seq-coords:20297..20347:+; mdl-coords:20322..20322:+; mdl:NC_023760;
+ERROR: CDS_HAS_STOP_CODON: (CDS:non-structural protein 3c) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAG, shifted S:535,M:535]; seq-coords:24802..24804:+; mdl-coords:24862..24864:+; mdl:NC_023760;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:non-structural protein 3c) possible frameshift in CDS (frame not restored before end) [cause:insert,S:24789(1),M:24849; frame:1(2); length:194:(551);]; seq-coords:24789..25339:+; mdl-coords:24850..25399:+; mdl:NC_023760;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:non-structural protein 3c) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [181>5]; seq-coords:24595..24775:+; mdl-coords:24656..24656:+; mdl:NC_023760;
+ERROR: UNEXPECTED_LENGTH: (CDS:non-structural protein 3c) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [745]; seq-coords:24595..25339:+; mdl-coords:24656..25399:+; mdl:NC_023760;

@@ -1,0 +1,54 @@
+>Feature EU420137.1
+273	21238	gene
+			gene	ORF1ab
+273	13217	CDS
+13217	21238
+			product	ORF1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	EU420137.1_1
+273	13247	CDS
+			product	ORF1a polyprotein
+			protein_id	EU420137.1_2
+21240	25366	gene
+			gene	S
+21240	25366	CDS
+			product	spike protein
+			protein_id	EU420137.1_3
+25366	26025	gene
+			gene	ORF3
+25366	26025	CDS
+			product	ORF3 protein
+			protein_id	EU420137.1_4
+26019	26243	gene
+			gene	E
+26019	26243	CDS
+			product	envelope protein
+			protein_id	EU420137.1_5
+26250	27017	gene
+			gene	M
+26250	27017	CDS
+			product	membrane protein
+			protein_id	EU420137.1_6
+27038	28189	gene
+			gene	N
+27038	28189	CDS
+			product	nucleocapsid protein
+			protein_id	EU420137.1_7
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:ORF1ab polyprotein) possible frameshift in CDS (frame restored before end) [cause:insert,S:5075..5103(29),M:5040; restore:insert,S:5113..5149(37),M:5049; frame:1(3)131; length:4802:(75):64:41:15985;]; seq-coords:5075..5149:+; mdl-coords:5041..5049:+; mdl:NC_010437;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:ORF1ab polyprotein) possible frameshift in CDS (frame restored before end) [cause:insert,S:5214..5221(8),M:5101; restore:insert,S:5233..5254(22),M:5112; frame:131(3)1; length:4802:75:64:(41):15985;]; seq-coords:5214..5254:+; mdl-coords:5102..5112:+; mdl:NC_010437;
+ERROR: INSERTION_OF_NT: (CDS:ORF1ab polyprotein) too large of an insertion in nucleotide-based alignment of CDS feature [29>27]; seq-coords:5075..5103:+; mdl-coords:5040..5040:+; mdl:NC_010437;
+ERROR: INSERTION_OF_NT: (CDS:ORF1ab polyprotein) too large of an insertion in nucleotide-based alignment of CDS feature [37>27]; seq-coords:5113..5149:+; mdl-coords:5049..5049:+; mdl:NC_010437;
+ERROR: INSERTION_OF_NT: (CDS:ORF1ab polyprotein) too large of an insertion in protein-based alignment [30>27]; seq-coords:3743..3772:+; mdl-coords:3736..3736:+; mdl:NC_010437;
+ERROR: INSERTION_OF_NT: (CDS:ORF1ab polyprotein) too large of an insertion in protein-based alignment [93>27]; seq-coords:5102..5194:+; mdl-coords:5026..5026:+; mdl:NC_010437;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:ORF1a polyprotein) possible frameshift in CDS (frame restored before end) [cause:insert,S:5075..5103(29),M:5040; restore:insert,S:5113..5149(37),M:5049; frame:1(3)131; length:4802:(75):64:41:7993;]; seq-coords:5075..5149:+; mdl-coords:5041..5049:+; mdl:NC_010437;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:ORF1a polyprotein) possible frameshift in CDS (frame restored before end) [cause:insert,S:5214..5221(8),M:5101; restore:insert,S:5233..5254(22),M:5112; frame:131(3)1; length:4802:75:64:(41):7993;]; seq-coords:5214..5254:+; mdl-coords:5102..5112:+; mdl:NC_010437;
+ERROR: INSERTION_OF_NT: (CDS:ORF1a polyprotein) too large of an insertion in nucleotide-based alignment of CDS feature [29>27]; seq-coords:5075..5103:+; mdl-coords:5040..5040:+; mdl:NC_010437;
+ERROR: INSERTION_OF_NT: (CDS:ORF1a polyprotein) too large of an insertion in nucleotide-based alignment of CDS feature [37>27]; seq-coords:5113..5149:+; mdl-coords:5049..5049:+; mdl:NC_010437;
+ERROR: INSERTION_OF_NT: (CDS:ORF1a polyprotein) too large of an insertion in protein-based alignment [30>27]; seq-coords:3743..3772:+; mdl-coords:3736..3736:+; mdl:NC_010437;
+ERROR: INSERTION_OF_NT: (CDS:ORF1a polyprotein) too large of an insertion in protein-based alignment [93>27]; seq-coords:5102..5194:+; mdl-coords:5026..5026:+; mdl:NC_010437;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike protein) possible frameshift in CDS (frame not restored before end) [cause:delete,S:25323,M:25155(1); frame:1(3); length:4084:(43);]; seq-coords:25324..25366:+; mdl-coords:25155..25198:+; mdl:NC_010437;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:spike protein) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [14>8]; seq-coords:25353..25366:+; mdl-coords:25198..25198:+; mdl:NC_010437;
+ERROR: MUTATION_AT_END: (CDS:spike protein) expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TGA]; seq-coords:25395..25397:+; mdl-coords:25227..25229:+; mdl:NC_010437;
+ERROR: UNEXPECTED_LENGTH: (CDS:spike protein) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [4127]; seq-coords:21240..25366:+; mdl-coords:21071..25198:+; mdl:NC_010437;

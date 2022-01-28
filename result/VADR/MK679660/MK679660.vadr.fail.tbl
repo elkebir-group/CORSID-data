@@ -1,0 +1,70 @@
+>Feature MK679660.1
+241	21710	gene
+			gene	orf1ab
+241	13623	gene
+			gene	ORF 1a
+241	13602	CDS
+13602	21710
+			product	orf1ab
+			exception	ribosomal slippage
+			protein_id	MK679660.1_1
+241	13623	CDS
+			product	ORF 1a
+			protein_id	MK679660.1_2
+21628	25614	gene
+			gene	S
+21628	25614	CDS
+			product	S
+			protein_id	MK679660.1_3
+25632	25949	gene
+			gene	ORF 3a
+25632	25949	CDS
+			product	ORF 3a
+			protein_id	MK679660.1_4
+25726	26148	gene
+			gene	ORF 3b
+25726	26148	CDS
+			product	ORF 3b
+			protein_id	MK679660.1_5
+25903	26148	gene
+			gene	orf4a
+25903	26148	CDS
+			product	orf4a
+			protein_id	MK679660.1_6
+26135	26815	gene
+			gene	orf4b
+26135	26815	CDS
+			product	orf4b
+			protein_id	MK679660.1_7
+26825	27526	gene
+			gene	orf5
+26825	27526	CDS
+			product	orf5
+			protein_id	MK679660.1_8
+27600	27848	gene
+			gene	E
+27600	27848	CDS
+			product	E
+			protein_id	MK679660.1_9
+27863	28519	gene
+			gene	M
+27863	28519	CDS
+			product	M
+			protein_id	MK679660.1_10
+28573	29850	gene
+			gene	N
+28573	29850	CDS
+			product	N
+			protein_id	MK679660.1_11
+28619	29221	gene
+			gene	orf8b
+28619	29221	CDS
+			product	orf8b
+			protein_id	MK679660.1_12
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:orf1ab) possible frameshift in CDS (frame restored before end) [cause:insert,S:3756..3765(10),M:3749; restore:insert,S:3770..3771(2),M:3753; frame:1(2)1; length:3515:(16):17940;]; seq-coords:3756..3771:+; mdl-coords:3750..3753:+; mdl:NC_039207;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:ORF 1a) possible frameshift in CDS (frame restored before end) [cause:insert,S:3756..3765(10),M:3749; restore:insert,S:3770..3771(2),M:3753; frame:1(2)1; length:3515:(16):9852;]; seq-coords:3756..3771:+; mdl-coords:3750..3753:+; mdl:NC_039207;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:S) possible frameshift in CDS (frame restored before end) [cause:delete,S:22492,M:22475(1); restore:delete,S:22501,M:22485..22486(2); frame:1(3)1; length:865:(9):3113;]; seq-coords:22493..22501:+; mdl-coords:22475..22486:+; mdl:NC_039207;
+ERROR: MUTATION_AT_START: (CDS:orf4b) expected start codon could not be identified [ATC]; seq-coords:26135..26137:+; mdl-coords:26123..26125:+; mdl:NC_039207;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:orf5) possible frameshift in CDS (frame restored before end) [cause:delete,S:26878,M:26858..26861(4); restore:insert,S:26890(1),M:26872; frame:1(3)1; length:54:(12):636;]; seq-coords:26879..26890:+; mdl-coords:26858..26872:+; mdl:NC_039207;

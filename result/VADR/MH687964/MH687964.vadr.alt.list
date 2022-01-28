@@ -1,0 +1,4 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+MH687964.1	NC_009657	-	*sequence*	LOW_SIMILARITY_END	28205..28210:+	28179..28184:+	significant similarity not detected at 3' end of the sequence [low similarity region of length 6]
+MH687964.1	NC_009657	-	*sequence*	LOW_SIMILARITY	27603..27720:+	27679..27694:+	internal region without significant similarity [low similarity region of length 118]
+MH687964.1	NC_009657	CDS	matrix protein	INDEFINITE_ANNOTATION_START	25599..25604:+	25678..25678:+	protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [6>5]

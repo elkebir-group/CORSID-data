@@ -1,0 +1,23 @@
+#       seq           seq                   ftr   ftr                        ftr  num  sgm    seq    seq    mdl    mdl    sgm            5'  3'  5'   3' 
+#idx    name          len  p/f   model      type  name                       idx  sgm  idx   from     to   from     to    len  str  trc  pp  pp  gap  gap
+#-----  ----------  -----  ----  ---------  ----  -------------------------  ---  ---  ---  -----  -----  -----  -----  -----  ---  ---  --  --  ---  ---
+1.1.1   MG893511.1  29298  FAIL  NC_002306  gene  ORF_1a/1b                    1    1    1    312  20416    311  20439  20105    +  no    ?   ?  no   no 
+1.2.1   MG893511.1  29298  FAIL  NC_002306  CDS   polyprotein_ab               2    2    1    312  12386    311  12409  12075    +  no    ?   ?  no   no 
+1.2.2   MG893511.1  29298  FAIL  NC_002306  CDS   polyprotein_ab               2    2    2  12386  20416  12409  20439   8031    +  no    ?   ?  no   no 
+1.3.1   MG893511.1  29298  FAIL  NC_002306  gene  S                            3    1    1  20413  24810  20436  24794   4398    +  no    ?   ?  no   no 
+1.4.1   MG893511.1  29298  FAIL  NC_002306  CDS   spike_protein                4    1    1  20413  24810  20436  24794   4398    +  no    ?   ?  no   no 
+1.5.1   MG893511.1  29298  FAIL  NC_002306  gene  nsp_3a                       5    1    1  24822  25034  24861  25076    213    +  no    ?   ?  no   no 
+1.6.1   MG893511.1  29298  FAIL  NC_002306  CDS   putative_3a_protein          6    1    1  24822  25034  24861  25076    213    +  no    ?   ?  no   no 
+1.7.1   MG893511.1  29298  FAIL  NC_002306  gene  nsp_3b                       7    1    1  24982  25200  25021  25236    219    +  no    ?   ?  no   no 
+1.8.1   MG893511.1  29298  FAIL  NC_002306  CDS   putative_3b_protein          8    1    1  24982  25200  25021  25236    219    +  no    ?   ?  no   no 
+1.9.1   MG893511.1  29298  FAIL  NC_002306  gene  nsp_3c                       9    1    1  25197  25910  25233  25967    714    +  no    ?   ?  no   no 
+1.10.1  MG893511.1  29298  FAIL  NC_002306  gene  E                           10    1    1  25897  26145  25954  26202    249    +  no    ?   ?  no   no 
+1.11.1  MG893511.1  29298  FAIL  NC_002306  CDS   E_protein                   11    1    1  25897  26145  25954  26202    249    +  no    ?   ?  no   no 
+1.12.1  MG893511.1  29298  FAIL  NC_002306  gene  M                           12    1    1  26156  26947  26213  27001    792    +  no    ?   ?  no   no 
+1.13.1  MG893511.1  29298  FAIL  NC_002306  CDS   matrix_protein              13    1    1  26156  26947  26213  27001    792    +  no    ?   ?  no   no 
+1.14.1  MG893511.1  29298  FAIL  NC_002306  gene  N                           14    1    1  26960  28087  27014  28147   1128    +  no    ?   ?  no   no 
+1.15.1  MG893511.1  29298  FAIL  NC_002306  CDS   nucleocapsid_protein        15    1    1  26960  28087  27014  28147   1128    +  no    ?   ?  no   no 
+1.16.1  MG893511.1  29298  FAIL  NC_002306  gene  nsp_7a                      16    1    1  28092  28397  28152  28457    306    +  no    ?   ?  no   no 
+1.17.1  MG893511.1  29298  FAIL  NC_002306  CDS   non-structural_protein_7a   17    1    1  28092  28397  28152  28457    306    +  no    ?   ?  no   no 
+1.18.1  MG893511.1  29298  FAIL  NC_002306  gene  nsp_7b                      18    1    1  28402  29022  28462  29082    621    +  no    ?   ?  no   no 
+1.19.1  MG893511.1  29298  FAIL  NC_002306  CDS   non-structural_protein_7b   19    1    1  28402  29022  28462  29082    621    +  no    ?   ?  no   no 

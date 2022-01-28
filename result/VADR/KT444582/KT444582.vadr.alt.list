@@ -1,0 +1,13 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+KT444582.1	NC_004718	-	*sequence*	LOW_SIMILARITY	27275..27788:+	27265..27265:+	internal region without significant similarity [low similarity region of length 514]
+KT444582.1	NC_004718	CDS	hypothetical protein sars3b	CDS_HAS_STOP_CODON	26031..26033:+	26031..26033:+	in-frame stop codon exists 5' of stop position predicted by homology to reference [TAA, shifted S:120,M:120]
+KT444582.1	NC_004718	CDS	hypothetical protein sars3b	CDS_HAS_STOP_CODON	26031..26033:+	26031..26033:+	stop codon in protein-based alignment [-]
+KT444582.1	NC_004718	CDS	hypothetical protein sars6	INSERTION_OF_NT	27266..27789:+	27265..27265:+	too large of an insertion in nucleotide-based alignment of CDS feature [524>27]
+KT444582.1	NC_004718	CDS	hypothetical protein sars8a	POSSIBLE_FRAMESHIFT	28323..28368:+	27799..27838:+	possible frameshift in CDS (frame restored before end) [cause:insert,S:28323..28324(2),M:27798; restore:insert,S:28367..28368(2),M:27838; frame:1(32)1; length:20:(13:33):60; intermediate:delete,S:28335,M:27810(1);]
+KT444582.1	NC_004718	CDS	hypothetical protein sars8a	MUTATION_AT_END	28666..28668:+	28103..28105:+	expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAA]
+KT444582.1	NC_004718	CDS	hypothetical protein sars8b	CDS_HAS_STOP_CODON	28442..28444:+	27905..27907:+	in-frame stop codon exists 5' of stop position predicted by homology to reference [TAA, shifted S:237,M:211]
+KT444582.1	NC_004718	CDS	hypothetical protein sars8b	POSSIBLE_FRAMESHIFT	28429..28542:+	27899..27985:+	possible frameshift in CDS (frame restored before end) [cause:insert,S:28429..28435(7),M:27898; restore:insert,S:28542(1),M:27985; frame:1(23)131; length:35:(25:89):11:106:22; intermediate:insert,S:28454..28463(10),M:27916;]
+KT444582.1	NC_004718	CDS	hypothetical protein sars8b	POSSIBLE_FRAMESHIFT	28554..28659:+	27997..28096:+	possible frameshift in CDS (frame restored before end) [cause:insert,S:28554..28561(8),M:27996; restore:delete,S:28659,M:28095..28096(2); frame:1231(3)1; length:35:25:89:11:(106):22;]
+KT444582.1	NC_004718	CDS	hypothetical protein sars8b	INDEFINITE_ANNOTATION_END	28660..28681:+	28118..28118:+	protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [22>8, valid stop codon in nucleotide-based prediction]
+KT444582.1	NC_004718	CDS	hypothetical protein sars8b	INDEFINITE_ANNOTATION_START	28394..28479:+	27864..27864:+	protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [86>5]
+KT444582.1	NC_004718	CDS	hypothetical protein sars8b	MUTATION_AT_START	28394..28396:+	27864..27866:+	expected start codon could not be identified [TCC]

@@ -1,0 +1,24 @@
+#       seq            seq                   ftr   ftr                         ftr  num  sgm    seq    seq    mdl    mdl    sgm            5'  3'  5'   3' 
+#idx    name           len  p/f   model      type  name                        idx  sgm  idx   from     to   from     to    len  str  trc  pp  pp  gap  gap
+#-----  -----------  -----  ----  ---------  ----  --------------------------  ---  ---  ---  -----  -----  -----  -----  -----  ---  ---  --  --  ---  ---
+1.1.1   NC_023760.1  28941  FAIL  NC_023760  gene  gene.1                        1    1    1    273  20320    273  20320  20048    +  no    ?   ?  no   no 
+1.2.1   NC_023760.1  28941  FAIL  NC_023760  CDS   orf1ab_polyprotein            2    2    1    273  12287    273  12287  12015    +  no    ?   ?  no   no 
+1.2.2   NC_023760.1  28941  FAIL  NC_023760  CDS   orf1ab_polyprotein            2    2    2  12287  20320  12287  20320   8034    +  no    ?   ?  no   no 
+1.3.1   NC_023760.1  28941  FAIL  NC_023760  gene  gene.2                        3    1    1    273  12329    273  12329  12057    +  no    ?   ?  no   no 
+1.4.1   NC_023760.1  28941  FAIL  NC_023760  CDS   orf1a_polyprotein             4    1    1    273  12329    273  12329  12057    +  no    ?   ?  no   no 
+1.5.1   NC_023760.1  28941  FAIL  NC_023760  gene  gene.3                        5    1    1  20322  24638  20322  24638   4317    +  no    ?   ?  no   no 
+1.6.1   NC_023760.1  28941  FAIL  NC_023760  CDS   spike_protein                 6    1    1  20322  24638  20322  24638   4317    +  no    ?   ?  no   no 
+1.7.1   NC_023760.1  28941  FAIL  NC_023760  gene  gene.4                        7    1    1  24656  25399  24656  25399    744    +  no    ?   ?  no   no 
+1.8.1   NC_023760.1  28941  FAIL  NC_023760  CDS   non-structural_protein_3c     8    1    1  24656  25399  24656  25399    744    +  no    ?   ?  no   no 
+1.9.1   NC_023760.1  28941  FAIL  NC_023760  gene  gene.5                        9    1    1  25368  25616  25368  25616    249    +  no    ?   ?  no   no 
+1.10.1  NC_023760.1  28941  FAIL  NC_023760  CDS   envelope_protein             10    1    1  25368  25616  25368  25616    249    +  no    ?   ?  no   no 
+1.11.1  NC_023760.1  28941  FAIL  NC_023760  gene  gene.6                       11    1    1  25633  26439  25633  26439    807    +  no    ?   ?  no   no 
+1.12.1  NC_023760.1  28941  FAIL  NC_023760  CDS   membrane_protein             12    1    1  25633  26439  25633  26439    807    +  no    ?   ?  no   no 
+1.13.1  NC_023760.1  28941  FAIL  NC_023760  gene  gene.7                       13    1    1  26454  27584  26454  27584   1131    +  no    ?   ?  no   no 
+1.14.1  NC_023760.1  28941  FAIL  NC_023760  CDS   nucleocapsid_protein         14    1    1  26454  27584  26454  27584   1131    +  no    ?   ?  no   no 
+1.15.1  NC_023760.1  28941  FAIL  NC_023760  gene  gene.8                       15    1    1  27589  27885  27589  27885    297    +  no    ?   ?  no   no 
+1.16.1  NC_023760.1  28941  FAIL  NC_023760  CDS   non-structural_protein_7a    16    1    1  27589  27885  27589  27885    297    +  no    ?   ?  no   no 
+1.17.1  NC_023760.1  28941  FAIL  NC_023760  gene  gene.9                       17    1    1  27870  28091  27870  28091    222    +  no    ?   ?  no   no 
+1.18.1  NC_023760.1  28941  FAIL  NC_023760  CDS   hypothetical_protein         18    1    1  27870  28091  27870  28091    222    +  no    ?   ?  no   no 
+1.19.1  NC_023760.1  28941  FAIL  NC_023760  gene  gene.10                      19    1    1  28033  28647  28033  28647    615    +  no    ?   ?  no   no 
+1.20.1  NC_023760.1  28941  FAIL  NC_023760  CDS   hypothetical_protein_orf7b   20    1    1  28033  28647  28033  28647    615    +  no    ?   ?  no   no 

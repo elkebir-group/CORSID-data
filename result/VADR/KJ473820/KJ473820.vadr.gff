@@ -1,0 +1,19 @@
+##gff-version 3
+KJ473820	vadr	gene	260	21807	.	+	.	ID=ftr-1;Name=orf1ab;Gene=orf1ab;
+KJ473820	vadr	region	13684	21807	.	+	.	ID=ftr-3;Name=orf1ab polyprotein;Gene=orf1ab polyprotein;Parent=ftr-1;Alias=KJ473820.1_1;
+KJ473820	vadr	gene	21734	25795	.	+	.	ID=ftr-4;Name=S;Gene=S;
+KJ473820	vadr	CDS	21734	25795	.	+	.	ID=ftr-5;Name=spike glycoprotein;Gene=spike glycoprotein;Parent=ftr-4;Alias=KJ473820.1_2;
+KJ473820	vadr	gene	25758	26123	.	+	.	ID=ftr-6;Name=NS3a;Gene=NS3a;
+KJ473820	vadr	CDS	25758	26123	.	+	.	ID=ftr-7;Name=hypothetical protein;Gene=hypothetical protein;Parent=ftr-6;Alias=KJ473820.1_3;
+KJ473820	vadr	gene	26136	26495	.	+	.	ID=ftr-8;Name=NS3b;Gene=NS3b;
+KJ473820	vadr	CDS	26136	26495	.	+	.	ID=ftr-9;Name=hypothetical protein;Gene=hypothetical protein;Parent=ftr-8;Alias=KJ473820.1_4;
+KJ473820	vadr	gene	26377	27147	.	+	.	ID=ftr-10;Name=NS3c;Gene=NS3c;
+KJ473820	vadr	CDS	26377	27147	.	+	.	ID=ftr-11;Name=hypothetical protein;Gene=hypothetical protein;Parent=ftr-10;Alias=KJ473820.1_5;
+KJ473820	vadr	gene	27157	27828	.	+	.	ID=ftr-12;Name=NS3d;Gene=NS3d;
+KJ473820	vadr	CDS	27157	27828	.	+	.	ID=ftr-13;Name=hypothetical protein;Gene=hypothetical protein;Parent=ftr-12;Alias=KJ473820.1_6;
+KJ473820	vadr	gene	27906	28154	.	+	.	ID=ftr-14;Name=E;Gene=E;
+KJ473820	vadr	CDS	27906	28154	.	+	.	ID=ftr-15;Name=small membrane protein;Gene=small membrane protein;Parent=ftr-14;Alias=KJ473820.1_7;
+KJ473820	vadr	gene	28169	28831	.	+	.	ID=ftr-16;Name=M;Gene=M;
+KJ473820	vadr	CDS	28169	28831	.	+	.	ID=ftr-17;Name=membrane glycoprotein;Gene=membrane glycoprotein;Parent=ftr-16;Alias=KJ473820.1_8;
+KJ473820	vadr	gene	28881	30164	.	+	.	ID=ftr-18;Name=N;Gene=N;
+KJ473820	vadr	CDS	28881	30164	.	+	.	ID=ftr-19;Name=nucleocapsid phosphoprotein;Gene=nucleocapsid phosphoprotein;Parent=ftr-18;Alias=KJ473820.1_9;

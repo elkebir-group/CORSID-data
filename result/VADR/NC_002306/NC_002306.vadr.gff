@@ -1,0 +1,20 @@
+##gff-version 3
+NC_002306	vadr	gene	311	20439	.	+	.	ID=ftr-1;Name=ORF 1a/1b;Gene=ORF 1a/1b;
+NC_002306	vadr	region	12409	20439	.	+	.	ID=ftr-3;Name=polyprotein ab;Gene=polyprotein ab;Parent=ftr-1;Alias=NC_002306.3_1;
+NC_002306	vadr	gene	20436	24794	.	+	.	ID=ftr-4;Name=S;Gene=S;
+NC_002306	vadr	CDS	20436	24794	.	+	.	ID=ftr-5;Name=spike protein;Gene=spike protein;Parent=ftr-4;Alias=NC_002306.3_2;
+NC_002306	vadr	gene	24861	25076	.	+	.	ID=ftr-6;Name=nsp 3a;Gene=nsp 3a;
+NC_002306	vadr	CDS	24861	25076	.	+	.	ID=ftr-7;Name=putative 3a protein;Gene=putative 3a protein;Parent=ftr-6;Alias=NC_002306.3_3;
+NC_002306	vadr	gene	25021	25236	.	+	.	ID=ftr-8;Name=nsp 3b;Gene=nsp 3b;
+NC_002306	vadr	CDS	25021	25236	.	+	.	ID=ftr-9;Name=putative 3b protein;Gene=putative 3b protein;Parent=ftr-8;Alias=NC_002306.3_4;
+NC_002306	vadr	gene	25233	25967	.	+	.	ID=ftr-10;Name=nsp 3c;Gene=nsp 3c;
+NC_002306	vadr	gene	25954	26202	.	+	.	ID=ftr-11;Name=E;Gene=E;
+NC_002306	vadr	CDS	25954	26202	.	+	.	ID=ftr-12;Name=E protein;Gene=E protein;Parent=ftr-11;Alias=NC_002306.3_5;
+NC_002306	vadr	gene	26213	27001	.	+	.	ID=ftr-13;Name=M;Gene=M;
+NC_002306	vadr	CDS	26213	27001	.	+	.	ID=ftr-14;Name=matrix protein;Gene=matrix protein;Parent=ftr-13;Alias=NC_002306.3_6;
+NC_002306	vadr	gene	27014	28147	.	+	.	ID=ftr-15;Name=N;Gene=N;
+NC_002306	vadr	CDS	27014	28147	.	+	.	ID=ftr-16;Name=nucleocapsid protein;Gene=nucleocapsid protein;Parent=ftr-15;Alias=NC_002306.3_7;
+NC_002306	vadr	gene	28152	28457	.	+	.	ID=ftr-17;Name=nsp 7a;Gene=nsp 7a;
+NC_002306	vadr	CDS	28152	28457	.	+	.	ID=ftr-18;Name=non-structural protein 7a;Gene=non-structural protein 7a;Parent=ftr-17;Alias=NC_002306.3_8;
+NC_002306	vadr	gene	28462	29082	.	+	.	ID=ftr-19;Name=nsp 7b;Gene=nsp 7b;
+NC_002306	vadr	CDS	28462	29082	.	+	.	ID=ftr-20;Name=non-structural protein 7b;Gene=non-structural protein 7b;Parent=ftr-19;Alias=NC_002306.3_9;

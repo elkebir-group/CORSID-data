@@ -1,0 +1,4 @@
+#seq  seq           seq                              sub                     seq    mdl         num                        sub   score  diff/  seq   
+#idx  name          len  p/f   ant  model1     grp1  grp1    score  sc/nt    cov    cov  bias  hits  str  model2     grp2  grp2   diff     nt  alerts
+#---  ----------  -----  ----  ---  ---------  ----  ----  -------  -----  -----  -----  ----  ----  ---  ---------  ----  ----  -----  -----  ------
+1     JQ173883.1  31161  FAIL  yes  NC_001846  -     -     47626.0  1.543  0.990  0.984     0     3    +  NC_012936  -     -     226.0  0.019  INDEFINITE_CLASSIFICATION(indfclas),LOW_SIMILARITY(lowsimis)

@@ -1,0 +1,52 @@
+>Feature MN611520.1
+278	21816	gene
+			gene	orf1ab
+278	13699	CDS
+13699	21816
+			product	orf1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	MN611520.1_1
+21743	25822	gene
+			gene	S
+21743	25822	CDS
+			product	spike glycoprotein
+			protein_id	MN611520.1_2
+25785	26150	gene
+			gene	NS3a
+25785	26150	CDS
+			product	hypothetical protein
+			protein_id	MN611520.1_3
+26163	26522	gene
+			gene	NS3b
+26163	26522	CDS
+			product	hypothetical protein
+			protein_id	MN611520.1_4
+26404	27174	gene
+			gene	NS3c
+26404	27174	CDS
+			product	hypothetical protein
+			protein_id	MN611520.1_5
+27184	27855	gene
+			gene	NS3d
+27184	27855	CDS
+			product	hypothetical protein
+			protein_id	MN611520.1_6
+27933	28181	gene
+			gene	E
+27933	28181	CDS
+			product	small membrane protein
+			protein_id	MN611520.1_7
+28196	28858	gene
+			gene	M
+28196	28858	CDS
+			product	membrane glycoprotein
+			protein_id	MN611520.1_8
+28908	30191	gene
+			gene	N
+28908	30191	CDS
+			product	nucleocapsid phosphoprotein
+			protein_id	MN611520.1_9
+
+Additional note(s) to submitter:
+ERROR: LOW_SIMILARITY_START: (*sequence*) significant similarity not detected at 5' end of the sequence [low similarity region of length 23]; seq-coords:1..23:+; mdl-coords:2..6:+; mdl:NC_009020;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:hypothetical protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [30>5]; seq-coords:25785..25814:+; mdl-coords:25756..25756:+; mdl:NC_009020;

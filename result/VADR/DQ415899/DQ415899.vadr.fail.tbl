@@ -1,0 +1,95 @@
+>Feature DQ415899.1
+200	21747	gene
+			gene	orf1ab
+200	13594	CDS
+13594	21747
+			product	orf1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	DQ415899.1_1
+200	865	mat_peptide
+			product	Leader protein
+			product	nsp1
+			protein_id	DQ415899.1_1
+866	2626	mat_peptide
+			product	nsp2
+			protein_id	DQ415899.1_1
+2627	8713	mat_peptide
+			product	nsp3
+			protein_id	DQ415899.1_1
+8714	10201	mat_peptide
+			product	nsp4 [TM2]
+			protein_id	DQ415899.1_1
+10202	11110	mat_peptide
+			product	nsp5
+			protein_id	DQ415899.1_1
+11111	11971	mat_peptide
+			product	nsp6 [hydrophobic domain]
+			protein_id	DQ415899.1_1
+11972	12247	mat_peptide
+			product	nsp7
+			protein_id	DQ415899.1_1
+12248	12829	mat_peptide
+			product	nsp8
+			protein_id	DQ415899.1_1
+12830	13159	mat_peptide
+			product	nsp9
+			protein_id	DQ415899.1_1
+13160	13570	mat_peptide
+			product	nsp10
+			protein_id	DQ415899.1_1
+13571	13594	mat_peptide
+13594	16353
+			product	nsp12
+			protein_id	DQ415899.1_1
+16354	18162	mat_peptide
+			product	nsp13
+			protein_id	DQ415899.1_1
+18163	19725	mat_peptide
+			product	nsp14
+			protein_id	DQ415899.1_1
+19726	20847	mat_peptide
+			product	nsp15
+			protein_id	DQ415899.1_1
+20848	21744	mat_peptide
+			product	nsp16
+			protein_id	DQ415899.1_1
+21780	22943	gene
+			gene	HE
+21780	22943	CDS
+			product	hemagglutinin-esterase glycoprotein
+			protein_id	DQ415899.1_2
+22952	27007	gene
+			gene	S
+22952	27007	CDS
+			product	spike glycoprotein
+			protein_id	DQ415899.1_3
+27030	27359	gene
+			gene	orf4
+27030	27359	CDS
+			product	non-structural protein
+			protein_id	DQ415899.1_4
+27352	27600	gene
+			gene	E
+27352	27600	CDS
+			product	small membrane protein
+			protein_id	DQ415899.1_5
+27612	28283	gene
+			gene	M
+27612	28283	CDS
+			product	membrane glycoprotein
+			protein_id	DQ415899.1_6
+28299	29624	gene
+			gene	N
+28299	29624	CDS
+			product	nucleocapsid phosphoprotein
+			protein_id	DQ415899.1_7
+28321	28938	gene
+			gene	N2
+28321	28938	CDS
+			product	nucleocapsid phosphoprotein 2
+			protein_id	DQ415899.1_8
+
+Additional note(s) to submitter:
+ERROR: DISCONTINUOUS_SIMILARITY: (*sequence*) not all hits are in the same order in the sequence and the homology model [seq order: 1,25,24,22,20,18,16,14,12,10,8,6,4,2,3,5,7,9,11,13,15,17,19,21,23,26, mdl order: 1,26,23,21,19,17,15,13,11,9,7,5,3,2,4,6,8,10,12,14,16,18,20,22,24,25]; seq-coords:1..29905:+,3032..3420:+,3122..3510:+,3032..3390:+,3152..3510:+,3032..3360:+,3182..3510:+,3032..3330:+,3212..3510:+,3032..3300:+,3242..3510:+,3032..3270:+,3272..3510:+,3032..3240:+,3302..3510:+,3032..3210:+,3332..3510:+,3032..3180:+,3362..3510:+,3032..3150:+,3392..3510:+,3032..3120:+,3422..3510:+,3032..3090:+,36..68:+,3452..3510:+; mdl-coords:7..29926:+,3128..3516:+,3038..3426:+,3158..3516:+,3038..3396:+,3188..3516:+,3038..3366:+,3218..3516:+,3038..3336:+,3248..3516:+,3038..3306:+,3278..3516:+,3038..3276:+,3308..3516:+,3038..3246:+,3338..3516:+,3038..3216:+,3368..3516:+,3038..3186:+,3398..3516:+,3038..3156:+,3428..3516:+,3038..3126:+,3458..3516:+,27014..27046:+,3038..3096:+; mdl:NC_006577;
+ERROR: CDS_HAS_STOP_CODON: (CDS:hemagglutinin-esterase glycoprotein) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAA, shifted S:6,M:9]; seq-coords:22935..22937:+; mdl-coords:22922..22924:+; mdl:NC_006577;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:hemagglutinin-esterase glycoprotein) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [60>8, valid stop codon in nucleotide-based prediction]; seq-coords:22884..22943:+; mdl-coords:22933..22933:+; mdl:NC_006577;

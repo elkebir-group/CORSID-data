@@ -1,0 +1,4 @@
+#seq  seq           seq             best            sub                             seq   
+#idx  name          len  p/f   ant  model      grp  grp  nfa  nfn  nf5  nf3  nfalt  alerts
+#---  ----------  -----  ----  ---  ---------  ---  ---  ---  ---  ---  ---  -----  ------
+1     KX259249.1  27685  FAIL  yes  NC_001451  -    -     30    0    0    0     21  INDEFINITE_CLASSIFICATION(indfclas),LOW_SIMILARITY_END(lowsim3s)

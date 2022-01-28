@@ -1,0 +1,7 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+MK581202.1	NC_001451	-	*sequence*	DUPLICATE_REGIONS	157..27752:+,27752..27875:+	6..27530:+,26655..26778:+	similarity to a model region occurs more than once [26655..26778:+ (len 123>=20) hits 1 (34551.0 bits) and 2 (153.0 bits)]
+MK581202.1	NC_001451	-	*sequence*	INDEFINITE_STRAND	127..1:-	25772..25898:+	significant similarity detected on both strands [score:170.0>25.0]
+MK581202.1	NC_001451	-	*sequence*	LOW_SIMILARITY_START	1..156:+	1..9:+	significant similarity not detected at 5' end of the sequence [low similarity region of length 156]
+MK581202.1	NC_001451	CDS	spike protein	INDEFINITE_ANNOTATION_START	20516..20560:+	20368..20368:+	protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [45>5]
+MK581202.1	NC_001451	CDS	small virion-associated protein	INDEFINITE_ANNOTATION_END	24676..24696:+	24533..24533:+	protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [21>8, valid stop codon in nucleotide-based prediction]
+MK581202.1	NC_001451	CDS	membrane protein	INDEFINITE_ANNOTATION_START	24674..24682:+	24505..24505:+	protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]

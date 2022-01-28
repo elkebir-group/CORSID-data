@@ -1,0 +1,10 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+MN514962.1	NC_003045	CDS	4.9 kDa non-structural protein	CDS_HAS_STOP_CODON	27756..27758:+	27757..27759:+	in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:51,M:52]
+MN514962.1	NC_003045	CDS	4.9 kDa non-structural protein	POSSIBLE_FRAMESHIFT	27749..27803:+	27748..27805:+	possible frameshift in CDS (frame restored before end) [cause:delete,S:27748,M:27748..27749(2); restore:delete,S:27803,M:27805(1); frame:1(2)1; length:26:(55):6;]
+MN514962.1	NC_003045	CDS	4.9 kDa non-structural protein	INDEFINITE_ANNOTATION_START	27723..27744:+	27722..27722:+	protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [22>5]
+MN514962.1	NC_003045	CDS	4.8 kDa non-structural protein	CDS_HAS_STOP_CODON	27923..27925:+	27927..27929:+	in-frame stop codon exists 5' of stop position predicted by homology to reference [TAA, shifted S:95,M:97]
+MN514962.1	NC_003045	CDS	4.8 kDa non-structural protein	POSSIBLE_FRAMESHIFT	27900..27944:+	27902..27949:+	possible frameshift in CDS (frame restored before end) [cause:delete,S:27899,M:27902..27903(2); restore:delete,S:27944,M:27949(1); frame:1(2)13; length:13:(45):66:10;]
+MN514962.1	NC_003045	CDS	4.8 kDa non-structural protein	POSSIBLE_FRAMESHIFT	28011..28020:+	28016..28026:+	possible frameshift in CDS (frame not restored before end) [cause:delete,S:28010,M:28016(1); frame:121(3); length:13:45:66:(10);]
+MN514962.1	NC_003045	CDS	4.8 kDa non-structural protein	INDEFINITE_ANNOTATION_END	28010..28020:+	28026..28026:+	protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [11>8]
+MN514962.1	NC_003045	CDS	4.8 kDa non-structural protein	INDEFINITE_ANNOTATION_START	27887..27955:+	27889..27889:+	protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [69>5]
+MN514962.1	NC_003045	CDS	4.8 kDa non-structural protein	UNEXPECTED_LENGTH	27887..28020:+	27889..28026:+	length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [134]

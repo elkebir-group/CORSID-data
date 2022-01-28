@@ -1,0 +1,49 @@
+>Feature KY073747.1
+243	20527	gene
+			gene	orf1ab
+243	12512	gene
+			gene	orf1a
+243	12481	CDS
+12481	20527
+			product	polyprotein ORF1ab
+			exception	ribosomal slippage
+			protein_id	KY073747.1_1
+243	12512	CDS
+			product	polyprotein ORF1a
+			protein_id	KY073747.1_2
+20529	24623	gene
+			gene	S
+20529	24623	CDS
+			product	spike protein
+			protein_id	KY073747.1_3
+24623	25306	gene
+			gene	orf4
+24623	25306	CDS
+			product	ORF4
+			protein_id	KY073747.1_4
+25284	25517	gene
+			gene	E
+25284	25517	CDS
+			product	envelope protein
+			protein_id	KY073747.1_5
+25529	26209	gene
+			gene	M
+25529	26209	CDS
+			product	membrane protein
+			protein_id	KY073747.1_6
+26223	27383	gene
+			gene	N
+26223	27383	CDS
+			product	nucleocapsid protein
+			protein_id	KY073747.1_7
+
+Additional note(s) to submitter:
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 10]; seq-coords:27828..27837:+; mdl-coords:27291..27300:+; mdl:NC_028752;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike protein) possible frameshift in CDS (frame restored before end) [cause:insert,S:20535..20542(8),M:20590; restore:insert,S:20824..21020(197),M:20629; frame:1(32)1; length:6:(17:469):3603; intermediate:insert,S:20552..20646(95),M:20599;]; seq-coords:20535..21020:+; mdl-coords:20591..20629:+; mdl:NC_028752;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:spike protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [624>5]; seq-coords:20529..21152:+; mdl-coords:20585..20585:+; mdl:NC_028752;
+ERROR: INSERTION_OF_NT: (CDS:spike protein) too large of an insertion in nucleotide-based alignment of CDS feature [95>27]; seq-coords:20552..20646:+; mdl-coords:20599..20599:+; mdl:NC_028752;
+ERROR: INSERTION_OF_NT: (CDS:spike protein) too large of an insertion in nucleotide-based alignment of CDS feature [147>27]; seq-coords:20663..20809:+; mdl-coords:20615..20615:+; mdl:NC_028752;
+ERROR: INSERTION_OF_NT: (CDS:spike protein) too large of an insertion in nucleotide-based alignment of CDS feature [197>27]; seq-coords:20824..21020:+; mdl-coords:20629..20629:+; mdl:NC_028752;
+ERROR: INSERTION_OF_NT: (CDS:spike protein) too large of an insertion in nucleotide-based alignment of CDS feature [96>27]; seq-coords:21065..21160:+; mdl-coords:20658..20658:+; mdl:NC_028752;
+ERROR: CDS_HAS_STOP_CODON: (CDS:ORF4) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:3,M:3]; seq-coords:25301..25303:+; mdl-coords:24769..24771:+; mdl:NC_028752;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:nucleocapsid protein) possible frameshift in CDS (frame restored before end) [cause:insert,S:26823..26830(8),M:26278; restore:insert,S:26840(1),M:26287; frame:1(3)1; length:600:(18):543;]; seq-coords:26823..26840:+; mdl-coords:26279..26287:+; mdl:NC_028752;

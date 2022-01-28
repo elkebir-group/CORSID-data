@@ -1,0 +1,90 @@
+>Feature NC_022103.1
+80	20556	gene
+			gene	PP1ab
+80	12562	gene
+			gene	PP1a
+80	12532	CDS
+12532	20556
+			product	replicase polyprotein 1ab
+			exception	ribosomal slippage
+			protein_id	NC_022103.1_1
+80	12562	CDS
+			product	replicase polyprotein 1a
+			protein_id	NC_022103.1_2
+80	409	mat_peptide
+			product	nsp1
+			protein_id	NC_022103.1_1
+410	2767	mat_peptide
+			product	nsp2
+			protein_id	NC_022103.1_1
+2768	7753	mat_peptide
+			product	nsp3
+			protein_id	NC_022103.1_1
+7754	9202	mat_peptide
+			product	nsp4
+			protein_id	NC_022103.1_1
+9203	10111	mat_peptide
+			product	3C-like proteinase nsp5
+			protein_id	NC_022103.1_1
+10112	10942	mat_peptide
+			product	nsp6
+			protein_id	NC_022103.1_1
+10943	11191	mat_peptide
+			product	nsp7
+			protein_id	NC_022103.1_1
+11192	11776	mat_peptide
+			product	nsp8
+			protein_id	NC_022103.1_1
+11777	12100	mat_peptide
+			product	nsp9
+			protein_id	NC_022103.1_1
+12101	12505	mat_peptide
+			product	nsp10
+			protein_id	NC_022103.1_1
+12101	12508	mat_peptide
+			product	nsp10
+			protein_id	NC_022103.1_2
+12506	12532	mat_peptide
+12532	15288
+			product	nsp12
+			protein_id	NC_022103.1_1
+12509	12559	mat_peptide
+			product	nsp11
+			protein_id	NC_022103.1_2
+15289	17079	mat_peptide
+			product	nsp13
+			protein_id	NC_022103.1_1
+17080	18636	mat_peptide
+			product	nsp14
+			protein_id	NC_022103.1_1
+18637	19653	mat_peptide
+			product	nsp15
+			protein_id	NC_022103.1_1
+19654	20553	mat_peptide
+			product	nsp16
+			protein_id	NC_022103.1_1
+20553	24647	gene
+			gene	S
+20553	24647	CDS
+			product	spike glycoprotein
+			protein_id	NC_022103.1_3
+24647	25324	gene
+			gene	NS3
+24647	25324	CDS
+			product	non-structural protein 3
+			protein_id	NC_022103.1_4
+25308	25532	gene
+			gene	E
+25308	25532	CDS
+			product	envelope small membrane protein
+			protein_id	NC_022103.1_5
+25539	26219	gene
+			gene	M
+25539	26219	CDS
+			product	membrane protein
+			protein_id	NC_022103.1_6
+26230	27507	gene
+			gene	N
+26230	27507	CDS
+			product	nucleoprotein
+			protein_id	NC_022103.1_7

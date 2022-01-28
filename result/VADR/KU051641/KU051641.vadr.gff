@@ -1,0 +1,15 @@
+##gff-version 3
+KU051641	vadr	gene	536	19323	.	+	.	ID=ftr-1;Name=orf1ab;Gene=orf1ab;
+KU051641	vadr	region	11395	19323	.	+	.	ID=ftr-3;Name=replicase polyprotein;Gene=replicase polyprotein;Parent=ftr-1;Alias=KU051641.1_1;
+KU051641	vadr	gene	19305	22787	.	+	.	ID=ftr-4;Name=S;Gene=S;
+KU051641	vadr	CDS	19305	22787	.	+	.	ID=ftr-5;Name=spike glycoprotein;Gene=spike glycoprotein;Parent=ftr-4;Alias=KU051641.1_2;
+KU051641	vadr	gene	22781	23032	.	+	.	ID=ftr-6;Name=E;Gene=E;
+KU051641	vadr	CDS	22781	23032	.	+	.	ID=ftr-7;Name=envelope protein;Gene=envelope protein;Parent=ftr-6;Alias=KU051641.1_3;
+KU051641	vadr	gene	23025	23678	.	+	.	ID=ftr-8;Name=M;Gene=M;
+KU051641	vadr	CDS	23025	23678	.	+	.	ID=ftr-9;Name=membrane protein;Gene=membrane protein;Parent=ftr-8;Alias=KU051641.1_4;
+KU051641	vadr	gene	23678	23962	.	+	.	ID=ftr-10;Name=NS6;Gene=NS6;
+KU051641	vadr	CDS	23678	23962	.	+	.	ID=ftr-11;Name=NS6 protein;Gene=NS6 protein;Parent=ftr-10;Alias=KU051641.1_5;
+KU051641	vadr	gene	23983	25011	.	+	.	ID=ftr-12;Name=N;Gene=N;
+KU051641	vadr	CDS	23983	25011	.	+	.	ID=ftr-13;Name=nucleocapsid protein;Gene=nucleocapsid protein;Parent=ftr-12;Alias=KU051641.1_6;
+KU051641	vadr	gene	24077	24679	.	+	.	ID=ftr-14;Name=NS7;Gene=NS7;
+KU051641	vadr	CDS	24077	24679	.	+	.	ID=ftr-15;Name=NS7 protein;Gene=NS7 protein;Parent=ftr-14;Alias=KU051641.1_7;

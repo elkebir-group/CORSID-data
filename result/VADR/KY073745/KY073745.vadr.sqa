@@ -1,0 +1,4 @@
+#seq  seq           seq             best            sub                             seq   
+#idx  name          len  p/f   ant  model      grp  grp  nfa  nfn  nf5  nf3  nfalt  alerts
+#---  ----------  -----  ----  ---  ---------  ---  ---  ---  ---  ---  ---  -----  ------
+1     KY073745.1  28679  FAIL  yes  NC_032107  -    -     15    0    0    0     24  INDEFINITE_CLASSIFICATION(indfclas),LOW_COVERAGE(lowcovrg),LOW_SIMILARITY_END(lowsim3s)

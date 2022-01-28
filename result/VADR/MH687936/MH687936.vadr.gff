@@ -1,0 +1,7 @@
+##gff-version 3
+MH687936	vadr	region	12547	20571	.	+	.	ID=ftr-3;Name=ORF1;Gene=ORF1;Alias=MH687936.1_1;
+MH687936	vadr	CDS	20568	24683	.	+	.	ID=ftr-5;Name=spike protein;Gene=spike protein;Alias=MH687936.1_2;
+MH687936	vadr	CDS	24683	25357	.	+	.	ID=ftr-7;Name=putative ORF3;Gene=putative ORF3;Alias=MH687936.1_3;
+MH687936	vadr	CDS	25338	25568	.	+	.	ID=ftr-9;Name=envelope protein;Gene=envelope protein;Alias=MH687936.1_4;
+MH687936	vadr	CDS	25575	26258	.	+	.	ID=ftr-11;Name=matrix protein;Gene=matrix protein;Alias=MH687936.1_5;
+MH687936	vadr	CDS	26269	27453	.	+	.	ID=ftr-13;Name=nucleocapsid protein;Gene=nucleocapsid protein;Alias=MH687936.1_6;

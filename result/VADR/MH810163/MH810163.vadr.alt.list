@@ -1,0 +1,4 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+MH810163.1	NC_003045	CDS	32 kDa non-structural protein	CDS_HAS_STOP_CODON	22089..22091:+	22089..22091:+	in-frame stop codon exists 5' of stop position predicted by homology to reference [TAG, shifted S:249,M:249]
+MH810163.1	NC_003045	CDS	32 kDa non-structural protein	CDS_HAS_STOP_CODON	22089..22091:+	22089..22091:+	stop codon in protein-based alignment [-]
+MH810163.1	NC_003045	CDS	4.9 kDa non-structural protein	MUTATION_AT_END	27851..27853:+	27851..27853:+	expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAG]

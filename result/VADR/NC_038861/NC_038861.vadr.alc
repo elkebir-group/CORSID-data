@@ -1,0 +1,18 @@
+#     alert     causes   short                             per    num   num  long       
+#idx  code      failure  description                      type  cases  seqs  description
+#---  --------  -------  ---------------------------  --------  -----  ----  -----------
+1     lowsimic  no       LOW_FEATURE_SIMILARITY        feature      6     1  region within annotated feature that is or matches a CDS lacks significant similarity
+#---  --------  -------  ---------------------------  --------  -----  ----  -----------
+2     lowcovrg  yes      LOW_COVERAGE                 sequence      1     1  low sequence fraction with significant similarity to homology model
+3     lowsim5s  yes      LOW_SIMILARITY_START         sequence      1     1  significant similarity not detected at 5' end of the sequence
+4     mutstart  yes*     MUTATION_AT_START             feature      2     1  expected start codon could not be identified
+5     unexleng  yes*     UNEXPECTED_LENGTH             feature      1     1  length of complete coding (CDS or mat_peptide) feature is not a multiple of 3
+6     cdsstopn  yes*     CDS_HAS_STOP_CODON            feature      2     1  in-frame stop codon exists 5' of stop position predicted by homology to reference
+7     fstukcft  yes*     POSSIBLE_FRAMESHIFT           feature      1     1  possible frameshift in CDS (frame not restored before end)
+8     fstukcfi  yes*     POSSIBLE_FRAMESHIFT           feature     12     1  possible frameshift in CDS (frame restored before end)
+9     indfantn  yes      INDEFINITE_ANNOTATION         feature      1     1  nucleotide-based search identifies CDS not identified in protein-based search
+10    indf5pst  yes*     INDEFINITE_ANNOTATION_START   feature      1     1  protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint
+11    insertnp  yes      INSERTION_OF_NT               feature      2     1  too large of an insertion in protein-based alignment
+12    insertnn  yes      INSERTION_OF_NT               feature      3     1  too large of an insertion in nucleotide-based alignment of CDS feature
+13    lowsimin  yes      LOW_FEATURE_SIMILARITY        feature      1     1  region within annotated feature that does not match a CDS lacks significant similarity
+#---  --------  -------  ---------------------------  --------  -----  ----  -----------

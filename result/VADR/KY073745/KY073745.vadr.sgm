@@ -1,0 +1,19 @@
+#       seq           seq                   ftr   ftr             ftr  num  sgm    seq    seq    mdl    mdl    sgm            5'  3'  5'   3' 
+#idx    name          len  p/f   model      type  name            idx  sgm  idx   from     to   from     to    len  str  trc  pp  pp  gap  gap
+#-----  ----------  -----  ----  ---------  ----  --------------  ---  ---  ---  -----  -----  -----  -----  -----  ---  ---  --  --  ---  ---
+1.1.1   KY073745.1  28679  FAIL  NC_032107  gene  orf1ab            1    1    1    246  20593    242  20517  20348    +  no    ?   ?  no   no 
+1.2.1   KY073745.1  28679  FAIL  NC_032107  CDS   ORF1ab_protein    2    2    1    246  12557    242  12472  12312    +  no    ?   ?  no   no 
+1.2.2   KY073745.1  28679  FAIL  NC_032107  CDS   ORF1ab_protein    2    2    2  12557  20593  12472  20517   8037    +  no    ?   ?  no   no 
+1.3.1   KY073745.1  28679  FAIL  NC_032107  CDS   ORF1a_protein     3    1    1    246  12587    242  12502  12342    +  no    ?   ?  no   no 
+1.4.1   KY073745.1  28679  FAIL  NC_032107  gene  S                 4    1    1  20590  24711  20514  24632   4122    +  no    ?   ?  no   no 
+1.5.1   KY073745.1  28679  FAIL  NC_032107  CDS   S_protein         5    1    1  20590  24711  20514  24632   4122    +  no    ?   ?  no   no 
+1.6.1   KY073745.1  28679  FAIL  NC_032107  gene  ORF3              6    1    1  24711  25394  24632  25315    684    +  no    ?   ?  no   no 
+1.7.1   KY073745.1  28679  FAIL  NC_032107  CDS   ORF3_protein      7    1    1  24711  25394  24632  25315    684    +  no    ?   ?  no   no 
+1.8.1   KY073745.1  28679  FAIL  NC_032107  gene  E                 8    1    1  25375  25608  25296  25529    234    +  no    ?   ?  no   no 
+1.9.1   KY073745.1  28679  FAIL  NC_032107  CDS   E_protein         9    1    1  25375  25608  25296  25529    234    +  no    ?   ?  no   no 
+1.10.1  KY073745.1  28679  FAIL  NC_032107  gene  M                10    1    1  25617  26300  25538  26230    684    +  no    ?   ?  no   no 
+1.11.1  KY073745.1  28679  FAIL  NC_032107  CDS   M_protein        11    1    1  25617  26300  25538  26230    684    +  no    ?   ?  no   no 
+1.12.1  KY073745.1  28679  FAIL  NC_032107  gene  N                12    1    1  26312  27613  26241  27464   1302    +  no    ?   ?  no   no 
+1.13.1  KY073745.1  28679  FAIL  NC_032107  CDS   N_protein        13    1    1  26312  27613  26241  27464   1302    +  no    ?   ?  no   no 
+1.14.1  KY073745.1  28679  FAIL  NC_032107  gene  ORFx             14    1    1  28196  28486  27927  28214    291    +  no    ?   ?  no   no 
+1.15.1  KY073745.1  28679  FAIL  NC_032107  CDS   ORFx_protein     15    1    1  28196  28486  27927  28214    291    +  no    ?   ?  no   no 

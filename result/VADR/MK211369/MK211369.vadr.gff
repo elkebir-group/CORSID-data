@@ -1,0 +1,7 @@
+##gff-version 3
+MK211369	vadr	region	12652	20676	.	+	.	ID=ftr-3;Name=ORF1;Gene=ORF1;Alias=MK211369.1_1;
+MK211369	vadr	CDS	20673	24788	.	+	.	ID=ftr-5;Name=spike protein;Gene=spike protein;Alias=MK211369.1_2;
+MK211369	vadr	CDS	24788	25462	.	+	.	ID=ftr-7;Name=putative ORF3;Gene=putative ORF3;Alias=MK211369.1_3;
+MK211369	vadr	CDS	25443	25673	.	+	.	ID=ftr-9;Name=envelope protein;Gene=envelope protein;Alias=MK211369.1_4;
+MK211369	vadr	CDS	25680	26366	.	+	.	ID=ftr-11;Name=matrix protein;Gene=matrix protein;Alias=MK211369.1_5;
+MK211369	vadr	CDS	26377	27561	.	+	.	ID=ftr-13;Name=nucleocapsid protein;Gene=nucleocapsid protein;Alias=MK211369.1_6;

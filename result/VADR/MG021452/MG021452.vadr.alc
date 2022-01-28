@@ -1,0 +1,20 @@
+#     alert     causes   short                             per    num   num  long       
+#idx  code      failure  description                      type  cases  seqs  description
+#---  --------  -------  ---------------------------  --------  -----  ----  -----------
+1     lowsimic  no       LOW_FEATURE_SIMILARITY        feature     26     1  region within annotated feature that is or matches a CDS lacks significant similarity
+#---  --------  -------  ---------------------------  --------  -----  ----  -----------
+2     lowcovrg  yes      LOW_COVERAGE                 sequence      1     1  low sequence fraction with significant similarity to homology model
+3     mutstart  yes*     MUTATION_AT_START             feature      1     1  expected start codon could not be identified
+4     mutendcd  yes*     MUTATION_AT_END               feature      3     1  expected stop codon could not be identified, predicted CDS stop by homology is invalid
+5     mutendex  yes*     MUTATION_AT_END               feature      3     1  expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position
+6     unexleng  yes*     UNEXPECTED_LENGTH             feature      3     1  length of complete coding (CDS or mat_peptide) feature is not a multiple of 3
+7     cdsstopn  yes*     CDS_HAS_STOP_CODON            feature      2     1  in-frame stop codon exists 5' of stop position predicted by homology to reference
+8     fstukcft  yes*     POSSIBLE_FRAMESHIFT           feature      2     1  possible frameshift in CDS (frame not restored before end)
+9     fstukcfi  yes*     POSSIBLE_FRAMESHIFT           feature     15     1  possible frameshift in CDS (frame restored before end)
+10    indf5pst  yes*     INDEFINITE_ANNOTATION_START   feature      1     1  protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint
+11    indf3gap  yes*     INDEFINITE_ANNOTATION_END     feature      2     1  alignment to homology model is a gap at 3' boundary
+12    indf3plg  yes*     INDEFINITE_ANNOTATION_END     feature      1     1  protein-based alignment extends past nucleotide-based alignment at 3' end
+13    indf3pst  yes*     INDEFINITE_ANNOTATION_END     feature      4     1  protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint
+14    insertnp  yes      INSERTION_OF_NT               feature      5     1  too large of an insertion in protein-based alignment
+15    insertnn  yes      INSERTION_OF_NT               feature      2     1  too large of an insertion in nucleotide-based alignment of CDS feature
+#---  --------  -------  ---------------------------  --------  -----  ----  -----------

@@ -1,0 +1,53 @@
+>Feature KU182965.1
+267	21664	gene
+			gene	orf1ab
+267	13589	CDS
+13589	21664
+			product	orf1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	KU182965.1_1
+21609	25667	gene
+			gene	S
+21609	25667	CDS
+			product	spike glycoprotein
+			protein_id	KU182965.1_2
+25694	25969	gene
+			gene	NS3a
+25694	25969	CDS
+			product	hypothetical protein
+			protein_id	KU182965.1_3
+25987	26346	gene
+			gene	NS3b
+25987	26346	CDS
+			product	hypothetical protein
+			protein_id	KU182965.1_4
+26150	27007	gene
+			gene	NS3c
+26150	27007	CDS
+			product	hypothetical protein
+			protein_id	KU182965.1_5
+27023	27706	gene
+			gene	NS3d
+27023	27706	CDS
+			product	hypothetical protein
+			protein_id	KU182965.1_6
+27776	28024	gene
+			gene	E
+27776	28024	CDS
+			product	small membrane protein
+			protein_id	KU182965.1_7
+28039	28698	gene
+			gene	M
+28039	28698	CDS
+			product	membrane glycoprotein
+			protein_id	KU182965.1_8
+28736	30007	gene
+			gene	N
+28736	30007	CDS
+			product	nucleocapsid phosphoprotein
+			protein_id	KU182965.1_9
+
+Additional note(s) to submitter:
+ERROR: INSERTION_OF_NT: (CDS:orf1ab polyprotein) too large of an insertion in nucleotide-based alignment of CDS feature [30>27]; seq-coords:3337..3366:+; mdl-coords:3336..3336:+; mdl:NC_009019;
+ERROR: INSERTION_OF_NT: (CDS:orf1ab polyprotein) too large of an insertion in protein-based alignment [30>27]; seq-coords:3335..3364:+; mdl-coords:3335..3335:+; mdl:NC_009019;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:spike glycoprotein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [36>5]; seq-coords:21609..21644:+; mdl-coords:21570..21570:+; mdl:NC_009019;

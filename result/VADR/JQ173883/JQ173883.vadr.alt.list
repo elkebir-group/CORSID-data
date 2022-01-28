@@ -1,0 +1,8 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+JQ173883.1	NC_001846	-	*sequence*	LOW_SIMILARITY	28468..28472:+	28351..28355:+	internal region without significant similarity [low similarity region of length 5]
+JQ173883.1	NC_001846	CDS	E2 glycoprotein precursor	POSSIBLE_FRAMESHIFT	25409..25444:+	25405..25407:+	possible frameshift in CDS (frame restored before end) [cause:insert,S:25409..25436(28),M:25404; restore:insert,S:25440..25444(5),M:25407; frame:1(2)13121; length:1476:(36):18:108:46:12:2390;]
+JQ173883.1	NC_001846	CDS	E2 glycoprotein precursor	POSSIBLE_FRAMESHIFT	25463..25570:+	25426..25437:+	possible frameshift in CDS (frame restored before end) [cause:insert,S:25463..25482(20),M:25425; restore:insert,S:25495..25570(76),M:25437; frame:121(3)121; length:1476:36:18:(108):46:12:2390;]
+JQ173883.1	NC_001846	CDS	E2 glycoprotein precursor	POSSIBLE_FRAMESHIFT	25617..25628:+	25484..25504:+	possible frameshift in CDS (frame restored before end) [cause:delete,S:25616,M:25484..25485(2); restore:delete,S:25628,M:25498..25504(7); frame:12131(2)1; length:1476:36:18:108:46:(12):2390;]
+JQ173883.1	NC_001846	CDS	E2 glycoprotein precursor	INSERTION_OF_NT	25409..25436:+	25404..25404:+	too large of an insertion in nucleotide-based alignment of CDS feature [28>27]
+JQ173883.1	NC_001846	CDS	E2 glycoprotein precursor	INSERTION_OF_NT	25495..25570:+	25437..25437:+	too large of an insertion in nucleotide-based alignment of CDS feature [76>27]
+JQ173883.1	NC_001846	CDS	E2 glycoprotein precursor	INSERTION_OF_NT	25508..25639:+	25425..25425:+	too large of an insertion in protein-based alignment [132>27]

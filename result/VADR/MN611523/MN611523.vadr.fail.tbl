@@ -1,0 +1,51 @@
+>Feature MN611523.1
+303	20656	gene
+303	12629	CDS
+12629	20656
+			product	orf1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	MN611523.1_1
+20653	24714	gene
+20653	24714	CDS
+			product	spike glycoprotein
+			protein_id	MN611523.1_2
+24714	25370	gene
+24714	25370	CDS
+			product	non-structural protein NS3
+			protein_id	MN611523.1_3
+25399	25626	gene
+25399	25626	CDS
+			product	envelope protein
+			protein_id	MN611523.1_4
+25632	26318	gene
+25632	26318	CDS
+			product	membrane protein
+			protein_id	MN611523.1_5
+26330	27538	gene
+26330	27538	CDS
+			product	nucleocapsid protein
+			protein_id	MN611523.1_6
+27554	27796	gene
+27554	27796	CDS
+			product	non-structural protein NS7a
+			protein_id	MN611523.1_7
+27806	28267	gene
+27806	28267	CDS
+			product	non-structural protein NS7b
+			protein_id	MN611523.1_8
+28005	28235	gene
+28005	28235	CDS
+			product	non-structural protein NS7c
+			protein_id	MN611523.1_9
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:spike glycoprotein) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAG, shifted S:450,M:441]; seq-coords:24262..24264:+; mdl-coords:24247..24249:+; mdl:NC_018871;
+ERROR: CDS_HAS_STOP_CODON: (CDS:spike glycoprotein) stop codon in protein-based alignment [-]; seq-coords:24262..24264:+; mdl-coords:24247..24249:+; mdl:NC_018871;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike glycoprotein) possible frameshift in CDS (frame restored before end) [cause:delete,S:20849,M:20835(1); restore:insert,S:20857(1),M:20842; frame:1(3)1312131; length:197:(8):368:12:948:41:177:29:2282;]; seq-coords:20850..20857:+; mdl-coords:20835..20842:+; mdl:NC_018871;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike glycoprotein) possible frameshift in CDS (frame restored before end) [cause:delete,S:21225,M:21217(1); restore:insert,S:21237(1),M:21228; frame:131(3)12131; length:197:8:368:(12):948:41:177:29:2282;]; seq-coords:21226..21237:+; mdl-coords:21217..21228:+; mdl:NC_018871;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike glycoprotein) possible frameshift in CDS (frame restored before end) [cause:insert,S:22186..22189(4),M:22176; restore:insert,S:22225..22226(2),M:22211; frame:13131(2)131; length:197:8:368:12:948:(41):177:29:2282;]; seq-coords:22186..22226:+; mdl-coords:22177..22211:+; mdl:NC_018871;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike glycoprotein) possible frameshift in CDS (frame restored before end) [cause:delete,S:22403,M:22395(1); restore:insert,S:22432(1),M:22423; frame:1313121(3)1; length:197:8:368:12:948:41:177:(29):2282;]; seq-coords:22404..22432:+; mdl-coords:22395..22423:+; mdl:NC_018871;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:membrane protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:25632..25640:+; mdl-coords:25608..25608:+; mdl:NC_018871;
+ERROR: CDS_HAS_STOP_CODON: (CDS:non-structural protein NS7c) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:54,M:54]; seq-coords:28179..28181:+; mdl-coords:28160..28162:+; mdl:NC_018871;
+ERROR: CDS_HAS_STOP_CODON: (CDS:non-structural protein NS7c) stop codon in protein-based alignment [-]; seq-coords:28179..28181:+; mdl-coords:28160..28162:+; mdl:NC_018871;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:non-structural protein NS7c) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [18>8, valid stop codon in nucleotide-based prediction]; seq-coords:28218..28235:+; mdl-coords:28216..28216:+; mdl:NC_018871;

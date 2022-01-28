@@ -1,0 +1,4 @@
+#seq  seq           seq             best            sub                             seq   
+#idx  name          len  p/f   ant  model      grp  grp  nfa  nfn  nf5  nf3  nfalt  alerts
+#---  ----------  -----  ----  ---  ---------  ---  ---  ---  ---  ---  ---  -----  ------
+1     MK167038.1  29921  FAIL  yes  NC_006577  -    -     31    0    0    0      0  DISCONTINUOUS_SIMILARITY(discontn)

@@ -1,0 +1,6 @@
+##gff-version 3
+NC_046955	vadr	region	11490	19481	.	+	.	ID=ftr-3;Name=ORF1ab polyprotein;Gene=ORF1ab polyprotein;Alias=NC_046955.1_1;
+NC_046955	vadr	CDS	19488	23143	.	+	.	ID=ftr-5;Name=spike glycoprotein;Gene=spike glycoprotein;Alias=NC_046955.1_2;
+NC_046955	vadr	CDS	23893	24150	.	+	.	ID=ftr-7;Name=envelope protein;Gene=envelope protein;Alias=NC_046955.1_3;
+NC_046955	vadr	CDS	24165	24973	.	+	.	ID=ftr-9;Name=membrane protein;Gene=membrane protein;Alias=NC_046955.1_4;
+NC_046955	vadr	CDS	24977	26362	.	+	.	ID=ftr-11;Name=nucleocapsid protein;Gene=nucleocapsid protein;Alias=NC_046955.1_5;

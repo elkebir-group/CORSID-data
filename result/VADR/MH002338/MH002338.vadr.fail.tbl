@@ -1,0 +1,55 @@
+>Feature MH002338.1
+238	21617	gene
+			gene	orf1ab
+238	13545	CDS
+13545	21617
+			product	orf1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	MH002338.1_1
+21562	25620	gene
+			gene	S
+21562	25620	CDS
+			product	spike glycoprotein
+			protein_id	MH002338.1_2
+25647	25913	gene
+			gene	NS3a
+25647	25913	CDS
+			product	hypothetical protein
+			protein_id	MH002338.1_3
+25931	26287	gene
+			gene	NS3b
+25931	26287	CDS
+			product	hypothetical protein
+			protein_id	MH002338.1_4
+26094	26948	gene
+			gene	NS3c
+26094	26948	CDS
+			product	hypothetical protein
+			protein_id	MH002338.1_5
+26964	27647	gene
+			gene	NS3d
+26964	27647	CDS
+			product	hypothetical protein
+			protein_id	MH002338.1_6
+27717	27965	gene
+			gene	E
+27717	27965	CDS
+			product	small membrane protein
+			protein_id	MH002338.1_7
+27980	28636	gene
+			gene	M
+27980	28636	CDS
+			product	membrane glycoprotein
+			protein_id	MH002338.1_8
+28674	29945	gene
+			gene	N
+28674	29945	CDS
+			product	nucleocapsid phosphoprotein
+			protein_id	MH002338.1_9
+
+Additional note(s) to submitter:
+ERROR: LOW_SIMILARITY: (*sequence*) internal region without significant similarity [low similarity region of length 1]; seq-coords:30..30:+; mdl-coords:30..30:+; mdl:NC_009019;
+ERROR: INSERTION_OF_NT: (CDS:orf1ab polyprotein) too large of an insertion in nucleotide-based alignment of CDS feature [30>27]; seq-coords:3302..3331:+; mdl-coords:3336..3336:+; mdl:NC_009019;
+ERROR: INSERTION_OF_NT: (CDS:orf1ab polyprotein) too large of an insertion in protein-based alignment [30>27]; seq-coords:3300..3329:+; mdl-coords:3335..3335:+; mdl:NC_009019;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:spike glycoprotein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [36>5]; seq-coords:21562..21597:+; mdl-coords:21570..21570:+; mdl:NC_009019;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:hypothetical protein) protein-based alignment extends past nucleotide-based alignment at 5' end [-]; seq-coords:25644..25646:+; mdl-coords:25655..25655:+; mdl:NC_009019;

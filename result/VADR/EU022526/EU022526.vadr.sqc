@@ -1,0 +1,4 @@
+#seq  seq           seq                              sub                     seq    mdl         num                        sub    score  diff/  seq   
+#idx  name          len  p/f   ant  model1     grp1  grp1    score  sc/nt    cov    cov  bias  hits  str  model2     grp2  grp2    diff     nt  alerts
+#---  ----------  -----  ----  ---  ---------  ----  ----  -------  -----  -----  -----  ----  ----  ---  ---------  ----  ----  ------  -----  ------
+1     EU022526.1  27854  FAIL  yes  NC_010800  -     -     40403.0  1.463  0.992  0.998     0     2    +  NC_001451  -     -     6423.4  0.077  LOW_SIMILARITY_END(lowsim3s)

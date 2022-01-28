@@ -1,0 +1,11 @@
+##gff-version 3
+HM245926	vadr	region	12251	20284	.	+	.	ID=ftr-4;Name=orf1ab polyprotein;Gene=orf1ab polyprotein;Alias=HM245926.1_1;
+HM245926	vadr	CDS	273	12293	.	+	.	ID=ftr-5;Name=orf1a polyprotein;Gene=orf1a polyprotein;Alias=HM245926.1_2;
+HM245926	vadr	CDS	20286	24566	.	+	.	ID=ftr-7;Name=spike protein;Gene=spike protein;Alias=HM245926.1_3;
+HM245926	vadr	CDS	24584	25330	.	+	.	ID=ftr-9;Name=non-structural protein 3c;Gene=non-structural protein 3c;Alias=HM245926.1_4;
+HM245926	vadr	CDS	25299	25547	.	+	.	ID=ftr-11;Name=envelope protein;Gene=envelope protein;Alias=HM245926.1_5;
+HM245926	vadr	CDS	25564	26370	.	+	.	ID=ftr-13;Name=membrane protein;Gene=membrane protein;Alias=HM245926.1_6;
+HM245926	vadr	CDS	26385	27515	.	+	.	ID=ftr-15;Name=nucleocapsid protein;Gene=nucleocapsid protein;Alias=HM245926.1_7;
+HM245926	vadr	CDS	27520	27816	.	+	.	ID=ftr-17;Name=non-structural protein 7a;Gene=non-structural protein 7a;Alias=HM245926.1_8;
+HM245926	vadr	CDS	27801	28022	.	+	.	ID=ftr-19;Name=hypothetical protein;Gene=hypothetical protein;Alias=HM245926.1_9;
+HM245926	vadr	CDS	27964	28578	.	+	.	ID=ftr-21;Name=hypothetical protein orf7b;Gene=hypothetical protein orf7b;Alias=HM245926.1_10;

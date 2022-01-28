@@ -1,0 +1,147 @@
+>Feature KY417145.1
+265	21485	gene
+			gene	orf1ab
+265	13398	CDS
+13398	21485
+			product	orf1ab polyprotein [pp1ab]
+			exception	ribosomal slippage
+			protein_id	KY417145.1_1
+265	13413	CDS
+			product	orf1a polyprotein [pp1a]
+			protein_id	KY417145.1_2
+265	804	mat_peptide
+			product	leader protein
+			product	nsp1-pp1a/pp1ab
+			protein_id	KY417145.1_1
+805	2718	mat_peptide
+			product	counterpart of MHV p65
+			product	nsp2-pp1a/pp1ab
+			protein_id	KY417145.1_1
+2719	8484	mat_peptide
+			product	nsp3-pp1a/pp1ab
+			protein_id	KY417145.1_1
+8485	9984	mat_peptide
+			product	nsp4-pp1a/pp1ab
+			protein_id	KY417145.1_1
+9985	10902	mat_peptide
+			product	3C-like proteinase
+			product	main proteinase [Mpro]
+			product	nsp5-pp1a/pp1ab [3CL-PRO]
+			protein_id	KY417145.1_1
+10903	11772	mat_peptide
+			product	nsp6-pp1a/pp1ab [TM3]
+			product	putative transmembrane domain
+			protein_id	KY417145.1_1
+11773	12021	mat_peptide
+			product	nsp7-pp1a/pp1ab
+			protein_id	KY417145.1_1
+12022	12615	mat_peptide
+			product	nsp8-pp1a/pp1ab
+			protein_id	KY417145.1_1
+12616	12954	mat_peptide
+			product	nsp9-pp1a/pp1ab
+			product	ssRNA-binding protein
+			protein_id	KY417145.1_1
+12955	13371	mat_peptide
+			product	formerly known as growth-factor-like protein [GFL]
+			product	nsp10-pp1a/pp1ab
+			protein_id	KY417145.1_1
+13372	13398	mat_peptide
+13398	16166
+			product	RNA-dependent RNA polymerase
+			product	nsp12-pp1ab [RdRp]
+			protein_id	KY417145.1_1
+13372	13410	mat_peptide
+			product	nsp11-pp1a
+			protein_id	KY417145.1_2
+16167	17969	mat_peptide
+			product	nsp13-pp1ab [ZD, NTPase/HEL; RNA 5'-triphosphatase]
+			protein_id	KY417145.1_1
+17970	19550	mat_peptide
+			product	3'-to-5' exonuclease
+			product	nsp14-pp1ab [nuclease ExoN homolog]
+			protein_id	KY417145.1_1
+19551	20588	mat_peptide
+			product	endoRNAse
+			product	nsp15-pp1ab
+			product	uridylate-specific endoribonuclease NendoU
+			protein_id	KY417145.1_1
+20589	21482	mat_peptide
+			product	2'-O-ribose methyltransferase [2'-o-MT]
+			product	nsp16-pp1ab
+			protein_id	KY417145.1_1
+21492	25196	gene
+			gene	S
+21492	25196	CDS
+			product	E2 glycoprotein precursor
+			product	spike glycoprotein
+			protein_id	KY417145.1_3
+25206	26030	gene
+25206	26030	CDS
+			product	hypothetical protein sars3a
+			protein_id	KY417145.1_4
+25627	26091	gene
+25627	26091	CDS
+			product	hypothetical protein sars3b
+			protein_id	KY417145.1_5
+26055	26285	gene
+			gene	E
+26055	26285	CDS
+			product	protein E
+			product	protein sM
+			product	small envelope protein
+			protein_id	KY417145.1_6
+26336	27001	gene
+			gene	M
+26336	27001	CDS
+			product	matrix protein
+			protein_id	KY417145.1_7
+26851	27203	gene
+27012	27203	CDS
+			product	hypothetical protein sars6
+			protein_id	KY417145.1_8
+27211	27579	gene
+27211	27579	CDS
+			product	hypothetical protein sars7a
+			protein_id	KY417145.1_9
+27576	27710	gene
+27576	27710	CDS
+			product	hypothetical protein sars7b
+			protein_id	KY417145.1_10
+27717	27865	gene
+27717	27865	CDS
+			product	hypothetical protein sars8a
+			protein_id	KY417145.1_11
+27802	28085	gene
+27802	28085	CDS
+			product	hypothetical protein sars8b
+			protein_id	KY417145.1_12
+28087	29355	gene
+			gene	N
+28087	29355	CDS
+			product	nucleocapsid protein
+			protein_id	KY417145.1_13
+28097	28393	gene
+28097	28393	CDS
+			product	hypothetical protein sars9b
+			protein_id	KY417145.1_14
+
+Additional note(s) to submitter:
+ERROR: DELETION_OF_NT: (CDS:E2 glycoprotein precursor:GBSEP:spike glycoprotein) too large of a deletion in protein-based alignment [39>27]; seq-coords:22844..22844:+; mdl-coords:22869..22907:+; mdl:NC_004718;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:E2 glycoprotein precursor:GBSEP:spike glycoprotein) possible frameshift in CDS (frame restored before end) [cause:delete,S:21497,M:21498..21499(2); restore:delete,S:21528,M:21530..21531(2); frame:1(23)131213131; length:6:(10:21):9:51:322:4:297:18:614:11:2342; intermediate:insert,S:21508(1),M:21509;]; seq-coords:21498..21528:+; mdl-coords:21498..21531:+; mdl:NC_004718;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:E2 glycoprotein precursor:GBSEP:spike glycoprotein) possible frameshift in CDS (frame restored before end) [cause:delete,S:21537,M:21541(1); restore:insert,S:21588(1),M:21591; frame:1231(3)1213131; length:6:10:21:9:(51):322:4:297:18:614:11:2342;]; seq-coords:21538..21588:+; mdl-coords:21541..21591:+; mdl:NC_004718;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:E2 glycoprotein precursor:GBSEP:spike glycoprotein) possible frameshift in CDS (frame restored before end) [cause:delete,S:22211,M:22212..22218(7); restore:delete,S:22229,M:22237..22238(2); frame:12313121(3)131; length:6:10:21:9:51:322:4:297:(18):614:11:2342;]; seq-coords:22212..22229:+; mdl-coords:22212..22238:+; mdl:NC_004718;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:E2 glycoprotein precursor:GBSEP:spike glycoprotein) possible frameshift in CDS (frame restored before end) [cause:delete,S:22843,M:22883(1); restore:delete,S:22854,M:22895..22917(23); frame:1231312131(3)1; length:6:10:21:9:51:322:4:297:18:614:(11):2342;]; seq-coords:22844..22854:+; mdl-coords:22883..22917:+; mdl:NC_004718;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:E2 glycoprotein precursor:GBSEP:spike glycoprotein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [96>5]; seq-coords:21492..21587:+; mdl-coords:21492..21492:+; mdl:NC_004718;
+ERROR: CDS_HAS_STOP_CODON: (CDS:hypothetical protein sars3b) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAA, shifted S:120,M:120]; seq-coords:25969..25971:+; mdl-coords:26031..26033:+; mdl:NC_004718;
+ERROR: CDS_HAS_STOP_CODON: (CDS:hypothetical protein sars3b) stop codon in protein-based alignment [-]; seq-coords:25969..25971:+; mdl-coords:26031..26033:+; mdl:NC_004718;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:hypothetical protein sars8a) possible frameshift in CDS (frame not restored before end) [cause:insert,S:27821..27849(29),M:27882; frame:1(3); length:104:(45);]; seq-coords:27821..27865:+; mdl-coords:27883..27898:+; mdl:NC_004718;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:hypothetical protein sars8a) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [32>8]; seq-coords:27834..27865:+; mdl-coords:27898..27898:+; mdl:NC_004718;
+ERROR: INSERTION_OF_NT: (CDS:hypothetical protein sars8a) too large of an insertion in nucleotide-based alignment of CDS feature [29>27]; seq-coords:27821..27849:+; mdl-coords:27882..27882:+; mdl:NC_004718;
+ERROR: MUTATION_AT_END: (CDS:hypothetical protein sars8a) expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAA]; seq-coords:28083..28085:+; mdl-coords:28116..28118:+; mdl:NC_004718;
+ERROR: UNEXPECTED_LENGTH: (CDS:hypothetical protein sars8a) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [149]; seq-coords:27717..27865:+; mdl-coords:27779..27898:+; mdl:NC_004718;
+ERROR: CDS_HAS_STOP_CODON: (CDS:hypothetical protein sars8b) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAA, shifted S:233,M:233]; seq-coords:27850..27852:+; mdl-coords:27883..27885:+; mdl:NC_004718;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:hypothetical protein sars8b) possible frameshift in CDS (frame not restored before end) [cause:insert,S:27821..27849(29),M:27882; frame:1(3); length:19:(265);]; seq-coords:27821..28085:+; mdl-coords:27883..28118:+; mdl:NC_004718;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:hypothetical protein sars8b) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [47>5]; seq-coords:27802..27848:+; mdl-coords:27864..27864:+; mdl:NC_004718;
+ERROR: INSERTION_OF_NT: (CDS:hypothetical protein sars8b) too large of an insertion in nucleotide-based alignment of CDS feature [29>27]; seq-coords:27821..27849:+; mdl-coords:27882..27882:+; mdl:NC_004718;
+ERROR: UNEXPECTED_LENGTH: (CDS:hypothetical protein sars8b) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [284]; seq-coords:27802..28085:+; mdl-coords:27864..28118:+; mdl:NC_004718;

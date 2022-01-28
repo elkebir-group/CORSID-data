@@ -1,0 +1,101 @@
+>Feature MN599049.1
+529	20390	gene
+			gene	1ab
+529	12327	CDS
+12327	20390
+			product	ORF1ab polyprotein
+			product	frameshift product
+			protein_id	MN599049.1_1
+529	12357	CDS
+			product	ORF1a polyprotein
+			protein_id	MN599049.1_2
+529	2547	mat_peptide
+			product	leader protein p87
+			protein_id	MN599049.1_1
+2548	8838	mat_peptide
+			product	coronavirus nsp1 [HD1]
+			product	hydrophobic domain 1
+			protein_id	MN599049.1_1
+8839	9759	mat_peptide
+			product	coronavirus nsp2 [3CL-Pro]
+			protein_id	MN599049.1_1
+9760	10638	mat_peptide
+			product	coronavirus nsp3 [HD2]
+			product	hydrophobic domain 2
+			protein_id	MN599049.1_1
+10639	10887	mat_peptide
+			product	coronavirus nsp4
+			protein_id	MN599049.1_1
+10888	11517	mat_peptide
+			product	coronavirus nsp5
+			protein_id	MN599049.1_1
+11518	11850	mat_peptide
+			product	coronavirus nsp6
+			protein_id	MN599049.1_1
+11851	12285	mat_peptide
+			product	coronavirus nsp7 [GLF]
+			product	growth factor-like protein
+			protein_id	MN599049.1_1
+12286	12327	mat_peptide
+12327	15104
+			product	RNA-dependent RNA polymerase
+			product	coronavirus nsp9 [RdRp]
+			protein_id	MN599049.1_1
+12286	12354	mat_peptide
+			product	coronavirus nsp8
+			protein_id	MN599049.1_2
+15105	16904	mat_peptide
+			product	coronavirus nsp10
+			product	metal-binding NTPase/helicase
+			protein_id	MN599049.1_1
+16905	18467	mat_peptide
+			product	coronavirus nsp11
+			protein_id	MN599049.1_1
+18468	19481	mat_peptide
+			product	coronavirus nsp12
+			protein_id	MN599049.1_1
+19482	20387	mat_peptide
+			product	coronavirus nsp13
+			protein_id	MN599049.1_1
+20341	23850	gene
+			gene	2
+20341	23850	CDS
+			product	spike protein
+			protein_id	MN599049.1_3
+23850	24541	gene
+			gene	3
+23850	24023	CDS
+			product	3a protein
+			protein_id	MN599049.1_4
+24023	24217	CDS
+			product	3b protein
+			protein_id	MN599049.1_5
+24201	24521	CDS
+			product	small virion-associated protein
+			protein_id	MN599049.1_6
+24499	25170	gene
+			gene	M
+24499	25170	CDS
+			product	membrane protein
+			protein_id	MN599049.1_7
+25530	25972	gene
+			gene	5
+25530	25727	CDS
+			product	5a protein
+			protein_id	MN599049.1_8
+25724	25972	CDS
+			product	5b protein
+			protein_id	MN599049.1_9
+25915	27144	gene
+			gene	N
+25915	27144	CDS
+			product	nucleocapsid protein
+			protein_id	MN599049.1_10
+
+Additional note(s) to submitter:
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 15]; seq-coords:27652..27666:+; mdl-coords:27608..27608:+; mdl:NC_001451;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike protein) possible frameshift in CDS (frame restored before end) [cause:insert,S:20761..20770(10),M:20781; restore:insert,S:20780..20784(5),M:20790; frame:1(2)1; length:420:(24):3066;]; seq-coords:20761..20784:+; mdl-coords:20782..20790:+; mdl:NC_001451;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:spike protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [45>5]; seq-coords:20341..20385:+; mdl-coords:20368..20368:+; mdl:NC_001451;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:small virion-associated protein) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [12>8, valid stop codon in nucleotide-based prediction]; seq-coords:24510..24521:+; mdl-coords:24533..24533:+; mdl:NC_001451;
+ERROR: MUTATION_AT_START: (CDS:small virion-associated protein) expected start codon could not be identified [ACG]; seq-coords:24201..24203:+; mdl-coords:24207..24209:+; mdl:NC_001451;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:membrane protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:24499..24507:+; mdl-coords:24505..24505:+; mdl:NC_001451;

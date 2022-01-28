@@ -1,0 +1,17 @@
+##gff-version 3
+HM211101	vadr	gene	228	20941	.	+	.	ID=ftr-1;Name=orf1ab;Gene=orf1ab;
+HM211101	vadr	region	12875	20941	.	+	.	ID=ftr-3;Name=orf1ab polyprotein;Gene=orf1ab polyprotein;Parent=ftr-1;Alias=HM211101.1_1;
+HM211101	vadr	gene	20898	24740	.	+	.	ID=ftr-4;Name=S;Gene=S;
+HM211101	vadr	CDS	20898	24740	.	+	.	ID=ftr-5;Name=spike glycoprotein;Gene=spike glycoprotein;Parent=ftr-4;Alias=HM211101.1_2;
+HM211101	vadr	gene	24737	25429	.	+	.	ID=ftr-6;Name=NS3;Gene=NS3;
+HM211101	vadr	CDS	24737	25429	.	+	.	ID=ftr-7;Name=hypothetical protein;Gene=hypothetical protein;Parent=ftr-6;Alias=HM211101.1_3;
+HM211101	vadr	gene	25429	25668	.	+	.	ID=ftr-8;Name=E;Gene=E;
+HM211101	vadr	CDS	25429	25668	.	+	.	ID=ftr-9;Name=small membrane protein;Gene=small membrane protein;Parent=ftr-8;Alias=HM211101.1_4;
+HM211101	vadr	gene	25661	26327	.	+	.	ID=ftr-10;Name=M;Gene=M;
+HM211101	vadr	CDS	25661	26327	.	+	.	ID=ftr-11;Name=membrane glycoprotein;Gene=membrane glycoprotein;Parent=ftr-10;Alias=HM211101.1_5;
+HM211101	vadr	gene	26390	27799	.	+	.	ID=ftr-12;Name=N;Gene=N;
+HM211101	vadr	CDS	26390	27799	.	+	.	ID=ftr-13;Name=nucleocapsid phosphoprotein;Gene=nucleocapsid phosphoprotein;Parent=ftr-12;Alias=HM211101.1_6;
+HM211101	vadr	gene	27846	28434	.	+	.	ID=ftr-14;Name=NS7a;Gene=NS7a;
+HM211101	vadr	CDS	27846	28434	.	+	.	ID=ftr-15;Name=hypothetical protein;Gene=hypothetical protein;Parent=ftr-14;Alias=HM211101.1_7;
+HM211101	vadr	gene	28441	28890	.	+	.	ID=ftr-16;Name=NS7b;Gene=NS7b;
+HM211101	vadr	CDS	28441	28890	.	+	.	ID=ftr-17;Name=hypothetical protein;Gene=hypothetical protein;Parent=ftr-16;Alias=HM211101.1_8;

@@ -1,0 +1,39 @@
+>Feature NC_018871.1
+303	20644	gene
+303	12617	CDS
+12617	20644
+			product	orf1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	NC_018871.1_1
+20641	24690	gene
+20641	24690	CDS
+			product	spike glycoprotein
+			protein_id	NC_018871.1_2
+24690	25346	gene
+24690	25346	CDS
+			product	non-structural protein NS3
+			protein_id	NC_018871.1_3
+25375	25602	gene
+25375	25602	CDS
+			product	envelope protein
+			protein_id	NC_018871.1_4
+25608	26297	gene
+25608	26297	CDS
+			product	membrane protein
+			protein_id	NC_018871.1_5
+26308	27516	gene
+26308	27516	CDS
+			product	nucleocapsid protein
+			protein_id	NC_018871.1_6
+27532	27777	gene
+27532	27777	CDS
+			product	non-structural protein NS7a
+			protein_id	NC_018871.1_7
+27787	28248	gene
+27787	28248	CDS
+			product	non-structural protein NS7b
+			protein_id	NC_018871.1_8
+27986	28216	gene
+27986	28216	CDS
+			product	non-structural protein NS7c
+			protein_id	NC_018871.1_9

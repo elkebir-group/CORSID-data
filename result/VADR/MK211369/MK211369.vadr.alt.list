@@ -1,0 +1,3 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+MK211369.1	NC_009657	-	*sequence*	LOW_SIMILARITY	27672..27804:+	27667..27694:+	internal region without significant similarity [low similarity region of length 133]
+MK211369.1	NC_009657	CDS	matrix protein	INDEFINITE_ANNOTATION_START	25680..25685:+	25678..25678:+	protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [6>5]

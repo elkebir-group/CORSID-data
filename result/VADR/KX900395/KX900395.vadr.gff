@@ -1,0 +1,9 @@
+##gff-version 3
+KX900395	vadr	CDS	315	12356	.	+	.	ID=ftr-2;Name=replicase polyprotein 1a;Gene=replicase polyprotein 1a;Alias=KX900395.1_1;
+KX900395	vadr	CDS	20357	24806	.	+	.	ID=ftr-5;Name=spike protein;Gene=spike protein;Alias=KX900395.1_2;
+KX900395	vadr	CDS	24692	24997	.	+	.	ID=ftr-7;Name=non-structural protein 3a;Gene=non-structural protein 3a;Alias=KX900395.1_3;
+KX900395	vadr	CDS	25078	25812	.	+	.	ID=ftr-9;Name=non-structural protein 3b;Gene=non-structural protein 3b;Alias=KX900395.1_4;
+KX900395	vadr	CDS	25799	26047	.	+	.	ID=ftr-11;Name=envelope protein;Gene=envelope protein;Alias=KX900395.1_5;
+KX900395	vadr	CDS	26058	26843	.	+	.	ID=ftr-13;Name=membrane protein;Gene=membrane protein;Alias=KX900395.1_6;
+KX900395	vadr	CDS	26856	28004	.	+	.	ID=ftr-15;Name=nucleoprotein;Gene=nucleoprotein;Alias=KX900395.1_7;
+KX900395	vadr	CDS	28010	28246	.	+	.	ID=ftr-17;Name=non-structural protein 7;Gene=non-structural protein 7;Alias=KX900395.1_8;

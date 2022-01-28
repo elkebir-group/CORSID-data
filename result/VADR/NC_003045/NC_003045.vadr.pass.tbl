@@ -1,0 +1,106 @@
+>Feature NC_003045.1
+211	21494	gene
+			gene	orf1ab
+211	13341	CDS
+13341	21494
+			product	orf1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	NC_003045.1_1
+211	13362	CDS
+			product	orf1a polyprotein
+			protein_id	NC_003045.1_2
+211	948	mat_peptide
+			product	Leader protein
+			protein_id	NC_003045.1_1
+949	2763	mat_peptide
+			product	MHV p65-like protein
+			protein_id	NC_003045.1_1
+2764	8460	mat_peptide
+			product	coronavirus nsp1 [PL1-PRO, PL2-PRO, HD]
+			protein_id	NC_003045.1_1
+8461	9948	mat_peptide
+			product	transmembrane domain 2
+			protein_id	NC_003045.1_1
+9949	10857	mat_peptide
+			product	coronavirus nsp2 [3CL-PRO]
+			protein_id	NC_003045.1_1
+10858	11718	mat_peptide
+			product	coronavirus nsp3 [HD2]
+			product	hydrophobic domain
+			protein_id	NC_003045.1_1
+11719	11985	mat_peptide
+			product	coronavirus nsp4
+			protein_id	NC_003045.1_1
+11986	12576	mat_peptide
+			product	coronavirus nsp5
+			protein_id	NC_003045.1_1
+12577	12906	mat_peptide
+			product	coronavirus nsp6
+			protein_id	NC_003045.1_1
+12907	13317	mat_peptide
+			product	coronavirus nsp7 [GFL]
+			product	growth-factor-like protein
+			protein_id	NC_003045.1_1
+13318	13341	mat_peptide
+13341	16100
+			product	RNA-dependent RNA polymerase
+			product	coronavirus nsp9 [RdRp]
+			protein_id	NC_003045.1_1
+16101	17909	mat_peptide
+			product	coronavirus nsp10 [MB, NTPase/HEL]
+			product	metal-binding domain, NTPase/helicase domain
+			protein_id	NC_003045.1_1
+17910	19472	mat_peptide
+			product	coronavirus nsp11
+			protein_id	NC_003045.1_1
+19473	20594	mat_peptide
+			product	coronavirus nsp12
+			protein_id	NC_003045.1_1
+20595	21491	mat_peptide
+			product	coronavirus nsp13
+			protein_id	NC_003045.1_1
+21504	22340	gene
+			gene	NS
+21504	22340	CDS
+			product	32 kDa non-structural protein
+			protein_id	NC_003045.1_3
+22352	23626	gene
+			gene	HE
+22352	23626	CDS
+			product	hemmaglutinin-esterase
+			protein_id	NC_003045.1_4
+23641	27732	gene
+			gene	S
+23641	27732	CDS
+			product	spike structural protein
+			protein_id	NC_003045.1_5
+27722	27811	gene
+27722	27811	CDS
+			product	4.9 kDa non-structural protein
+			protein_id	NC_003045.1_6
+27889	28026	gene
+27889	28026	CDS
+			product	4.8 kDa non-structural protein
+			protein_id	NC_003045.1_7
+28106	28435	gene
+28106	28435	CDS
+			product	12.7 kDa non-structural protein
+			protein_id	NC_003045.1_8
+28422	28676	gene
+			gene	E
+28422	28676	CDS
+			product	small membrane protein
+			protein_id	NC_003045.1_9
+28691	29383	gene
+			gene	M
+28691	29383	CDS
+			product	matrix protein
+			protein_id	NC_003045.1_10
+29393	30739	gene
+			gene	N
+29393	30739	CDS
+			product	nucleocapsid protein
+			protein_id	NC_003045.1_11
+29454	30077	CDS
+			product	hypothetical protein
+			protein_id	NC_003045.1_12

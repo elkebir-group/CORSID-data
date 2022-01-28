@@ -1,0 +1,20 @@
+##gff-version 3
+FJ938056	vadr	gene	292	20387	.	+	.	ID=ftr-1;Name=ORF 1a/1b;Gene=ORF 1a/1b;
+FJ938056	vadr	region	12357	20387	.	+	.	ID=ftr-3;Name=polyprotein ab;Gene=polyprotein ab;Parent=ftr-1;Alias=FJ938056.1_1;
+FJ938056	vadr	gene	20384	24784	.	+	.	ID=ftr-4;Name=S;Gene=S;
+FJ938056	vadr	CDS	20384	24784	.	+	.	ID=ftr-5;Name=spike protein;Gene=spike protein;Parent=ftr-4;Alias=FJ938056.1_2;
+FJ938056	vadr	gene	24796	25008	.	+	.	ID=ftr-6;Name=nsp 3a;Gene=nsp 3a;
+FJ938056	vadr	CDS	24796	25008	.	+	.	ID=ftr-7;Name=putative 3a protein;Gene=putative 3a protein;Parent=ftr-6;Alias=FJ938056.1_3;
+FJ938056	vadr	gene	24956	25177	.	+	.	ID=ftr-8;Name=nsp 3b;Gene=nsp 3b;
+FJ938056	vadr	CDS	24956	25177	.	+	.	ID=ftr-9;Name=putative 3b protein;Gene=putative 3b protein;Parent=ftr-8;Alias=FJ938056.1_4;
+FJ938056	vadr	gene	25174	25886	.	+	.	ID=ftr-10;Name=nsp 3c;Gene=nsp 3c;
+FJ938056	vadr	gene	25873	26121	.	+	.	ID=ftr-11;Name=E;Gene=E;
+FJ938056	vadr	CDS	25873	26121	.	+	.	ID=ftr-12;Name=E protein;Gene=E protein;Parent=ftr-11;Alias=FJ938056.1_5;
+FJ938056	vadr	gene	26132	26920	.	+	.	ID=ftr-13;Name=M;Gene=M;
+FJ938056	vadr	CDS	26132	26920	.	+	.	ID=ftr-14;Name=matrix protein;Gene=matrix protein;Parent=ftr-13;Alias=FJ938056.1_6;
+FJ938056	vadr	gene	26933	28060	.	+	.	ID=ftr-15;Name=N;Gene=N;
+FJ938056	vadr	CDS	26933	28060	.	+	.	ID=ftr-16;Name=nucleocapsid protein;Gene=nucleocapsid protein;Parent=ftr-15;Alias=FJ938056.1_7;
+FJ938056	vadr	gene	28065	28370	.	+	.	ID=ftr-17;Name=nsp 7a;Gene=nsp 7a;
+FJ938056	vadr	CDS	28065	28370	.	+	.	ID=ftr-18;Name=non-structural protein 7a;Gene=non-structural protein 7a;Parent=ftr-17;Alias=FJ938056.1_8;
+FJ938056	vadr	gene	28375	28989	.	+	.	ID=ftr-19;Name=nsp 7b;Gene=nsp 7b;
+FJ938056	vadr	CDS	28375	28989	.	+	.	ID=ftr-20;Name=non-structural protein 7b;Gene=non-structural protein 7b;Parent=ftr-19;Alias=FJ938056.1_9;

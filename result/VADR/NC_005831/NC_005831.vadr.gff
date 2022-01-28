@@ -1,0 +1,7 @@
+##gff-version 3
+NC_005831	vadr	region	12439	20475	.	+	.	ID=ftr-3;Name=replicase polyprotein 1ab;Gene=replicase polyprotein 1ab;Alias=NC_005831.2_1;
+NC_005831	vadr	CDS	20472	24542	.	+	.	ID=ftr-5;Name=spike protein;Gene=spike protein;Alias=NC_005831.2_2;
+NC_005831	vadr	CDS	24542	25219	.	+	.	ID=ftr-7;Name=protein 3;Gene=protein 3;Alias=NC_005831.2_3;
+NC_005831	vadr	CDS	25200	25433	.	+	.	ID=ftr-9;Name=envelope protein;Gene=envelope protein;Alias=NC_005831.2_4;
+NC_005831	vadr	CDS	25442	26122	.	+	.	ID=ftr-11;Name=membrane protein;Gene=membrane protein;Alias=NC_005831.2_5;
+NC_005831	vadr	CDS	26133	27266	.	+	.	ID=ftr-13;Name=nucleocapsid protein;Gene=nucleocapsid protein;Alias=NC_005831.2_6;

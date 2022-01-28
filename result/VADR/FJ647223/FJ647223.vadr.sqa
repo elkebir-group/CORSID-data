@@ -1,0 +1,4 @@
+#seq  seq           seq             best            sub                             seq   
+#idx  name          len  p/f   ant  model      grp  grp  nfa  nfn  nf5  nf3  nfalt  alerts
+#---  ----------  -----  ----  ---  ---------  ---  ---  ---  ---  ---  ---  -----  ------
+1     FJ647223.1  31386  FAIL  yes  AC_000192  -    -     37    0    0    0     30  INDEFINITE_CLASSIFICATION(indfclas)

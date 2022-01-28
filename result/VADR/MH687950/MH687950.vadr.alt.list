@@ -1,0 +1,10 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+MH687950.1	NC_009657	-	*sequence*	LOW_SIMILARITY_END	28145..28155:+	28179..28189:+	significant similarity not detected at 3' end of the sequence [low similarity region of length 11]
+MH687950.1	NC_009657	-	*sequence*	LOW_SIMILARITY	27506..27717:+	27645..27751:+	internal region without significant similarity [low similarity region of length 212]
+MH687950.1	NC_009657	CDS	ORF1	DELETION_OF_NT	3328..3328:+	3411..3455:+	too large of a deletion in protein-based alignment [45>27]
+MH687950.1	NC_009657	CDS	ORF1	DELETION_OF_NT	4558..4558:+	4665..4697:+	too large of a deletion in protein-based alignment [33>27]
+MH687950.1	NC_009657	CDS	ORF1	POSSIBLE_FRAMESHIFT	3218..3225:+	3291..3313:+	possible frameshift in CDS (frame restored before end) [cause:delete,S:3217,M:3291..3295(5); restore:delete,S:3225,M:3304..3313(10); frame:1(2)121212131; length:2997:(8):38:26:786:17:518:16:5601:13:10296;]
+MH687950.1	NC_009657	CDS	ORF1	POSSIBLE_FRAMESHIFT	3264..3289:+	3352..3395:+	possible frameshift in CDS (frame restored before end) [cause:delete,S:3263,M:3352..3353(2); restore:delete,S:3289,M:3380..3395(16); frame:121(2)1212131; length:2997:8:38:(26):786:17:518:16:5601:13:10296;]
+MH687950.1	NC_009657	CDS	ORF1	POSSIBLE_FRAMESHIFT	4076..4092:+	4188..4198:+	possible frameshift in CDS (frame restored before end) [cause:insert,S:4076..4082(7),M:4187; restore:delete,S:4092,M:4198(1); frame:12121(2)12131; length:2997:8:38:26:786:(17):518:16:5601:13:10296;]
+MH687950.1	NC_009657	CDS	ORF1	POSSIBLE_FRAMESHIFT	4611..4626:+	4741..4765:+	possible frameshift in CDS (frame restored before end) [cause:delete,S:4610,M:4741..4748(8); restore:delete,S:4626,M:4765(1); frame:1212121(2)131; length:2997:8:38:26:786:17:518:(16):5601:13:10296;]
+MH687950.1	NC_009657	CDS	ORF1	POSSIBLE_FRAMESHIFT	10228..10240:+	10367..10379:+	possible frameshift in CDS (frame restored before end) [cause:delete,S:10227,M:10367(1); restore:insert,S:10240(1),M:10379; frame:121212121(3)1; length:2997:8:38:26:786:17:518:16:5601:(13):10296;]

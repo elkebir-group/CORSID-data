@@ -1,0 +1,19 @@
+##gff-version 3
+MG812375	vadr	gene	519	19297	.	+	.	ID=ftr-1;Name=orf1ab;Gene=orf1ab;
+MG812375	vadr	region	11369	19297	.	+	.	ID=ftr-3;Name=replicase polyprotein;Gene=replicase polyprotein;Parent=ftr-1;Alias=MG812375.1_1;
+MG812375	vadr	gene	19279	22749	.	+	.	ID=ftr-4;Name=S;Gene=S;
+MG812375	vadr	CDS	19279	22749	.	+	.	ID=ftr-5;Name=spike glycoprotein;Gene=spike glycoprotein;Parent=ftr-4;Alias=MG812375.1_2;
+MG812375	vadr	gene	22743	22994	.	+	.	ID=ftr-6;Name=E;Gene=E;
+MG812375	vadr	CDS	22743	22994	.	+	.	ID=ftr-7;Name=envelope protein;Gene=envelope protein;Parent=ftr-6;Alias=MG812375.1_3;
+MG812375	vadr	gene	22987	23640	.	+	.	ID=ftr-8;Name=M;Gene=M;
+MG812375	vadr	CDS	22987	23640	.	+	.	ID=ftr-9;Name=membrane protein;Gene=membrane protein;Parent=ftr-8;Alias=MG812375.1_4;
+MG812375	vadr	gene	23640	23925	.	+	.	ID=ftr-10;Name=NS6;Gene=NS6;
+MG812375	vadr	CDS	23640	23925	.	+	.	ID=ftr-11;Name=NS6 protein;Gene=NS6 protein;Parent=ftr-10;Alias=MG812375.1_5;
+MG812375	vadr	gene	23946	24971	.	+	.	ID=ftr-12;Name=N;Gene=N;
+MG812375	vadr	CDS	23946	24971	.	+	.	ID=ftr-13;Name=nucleocapsid protein;Gene=nucleocapsid protein;Parent=ftr-12;Alias=MG812375.1_6;
+MG812375	vadr	gene	24040	24642	.	+	.	ID=ftr-14;Name=NS7a;Gene=NS7a;
+MG812375	vadr	CDS	24040	24642	.	+	.	ID=ftr-15;Name=NS7a protein;Gene=NS7a protein;Parent=ftr-14;Alias=MG812375.1_7;
+MG812375	vadr	gene	24982	25416	.	+	.	ID=ftr-16;Name=NS7b;Gene=NS7b;
+MG812375	vadr	CDS	24982	25416	.	+	.	ID=ftr-17;Name=NS7b protein;Gene=NS7b protein;Parent=ftr-16;Alias=MG812375.1_8;
+MG812375	vadr	gene	25332	25526	.	+	.	ID=ftr-18;Name=NS7c;Gene=NS7c;
+MG812375	vadr	CDS	25332	25526	.	+	.	ID=ftr-19;Name=NS7c protein;Gene=NS7c protein;Parent=ftr-18;Alias=MG812375.1_9;

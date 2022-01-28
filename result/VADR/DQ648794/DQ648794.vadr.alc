@@ -1,0 +1,7 @@
+#     alert     causes   short                    per    num   num  long       
+#idx  code      failure  description             type  cases  seqs  description
+#---  --------  -------  ------------------  --------  -----  ----  -----------
+1     lowsim3s  yes      LOW_SIMILARITY_END  sequence      1     1  significant similarity not detected at 3' end of the sequence
+2     insertnp  yes      INSERTION_OF_NT      feature      1     1  too large of an insertion in protein-based alignment
+3     insertnn  yes      INSERTION_OF_NT      feature      1     1  too large of an insertion in nucleotide-based alignment of CDS feature
+#---  --------  -------  ------------------  --------  -----  ----  -----------

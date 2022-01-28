@@ -1,0 +1,20 @@
+##gff-version 3
+KY292377	vadr	gene	292	20405	.	+	.	ID=ftr-1;Name=ORF 1a/1b;Gene=ORF 1a/1b;
+KY292377	vadr	region	12375	20405	.	+	.	ID=ftr-3;Name=polyprotein ab;Gene=polyprotein ab;Parent=ftr-1;Alias=KY292377.1_1;
+KY292377	vadr	gene	20402	24805	.	+	.	ID=ftr-4;Name=S;Gene=S;
+KY292377	vadr	CDS	20402	24805	.	+	.	ID=ftr-5;Name=spike protein;Gene=spike protein;Parent=ftr-4;Alias=KY292377.1_2;
+KY292377	vadr	gene	24817	25029	.	+	.	ID=ftr-6;Name=nsp 3a;Gene=nsp 3a;
+KY292377	vadr	CDS	24817	25029	.	+	.	ID=ftr-7;Name=putative 3a protein;Gene=putative 3a protein;Parent=ftr-6;Alias=KY292377.1_3;
+KY292377	vadr	gene	24977	25198	.	+	.	ID=ftr-8;Name=nsp 3b;Gene=nsp 3b;
+KY292377	vadr	CDS	24977	25198	.	+	.	ID=ftr-9;Name=putative 3b protein;Gene=putative 3b protein;Parent=ftr-8;Alias=KY292377.1_4;
+KY292377	vadr	gene	25195	25908	.	+	.	ID=ftr-10;Name=nsp 3c;Gene=nsp 3c;
+KY292377	vadr	gene	25895	26143	.	+	.	ID=ftr-11;Name=E;Gene=E;
+KY292377	vadr	CDS	25895	26143	.	+	.	ID=ftr-12;Name=E protein;Gene=E protein;Parent=ftr-11;Alias=KY292377.1_5;
+KY292377	vadr	gene	26154	26948	.	+	.	ID=ftr-13;Name=M;Gene=M;
+KY292377	vadr	CDS	26154	26948	.	+	.	ID=ftr-14;Name=matrix protein;Gene=matrix protein;Parent=ftr-13;Alias=KY292377.1_6;
+KY292377	vadr	gene	26961	28094	.	+	.	ID=ftr-15;Name=N;Gene=N;
+KY292377	vadr	CDS	26961	28094	.	+	.	ID=ftr-16;Name=nucleocapsid protein;Gene=nucleocapsid protein;Parent=ftr-15;Alias=KY292377.1_7;
+KY292377	vadr	gene	28099	28404	.	+	.	ID=ftr-17;Name=nsp 7a;Gene=nsp 7a;
+KY292377	vadr	CDS	28099	28404	.	+	.	ID=ftr-18;Name=non-structural protein 7a;Gene=non-structural protein 7a;Parent=ftr-17;Alias=KY292377.1_8;
+KY292377	vadr	gene	28409	29029	.	+	.	ID=ftr-19;Name=nsp 7b;Gene=nsp 7b;
+KY292377	vadr	CDS	28409	29029	.	+	.	ID=ftr-20;Name=non-structural protein 7b;Gene=non-structural protein 7b;Parent=ftr-19;Alias=KY292377.1_9;

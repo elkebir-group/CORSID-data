@@ -1,0 +1,114 @@
+>Feature KY419109.1
+212	21498	gene
+			gene	orf1ab
+212	13342	CDS
+13342	21498
+			product	orf1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	KY419109.1_1
+212	13363	CDS
+			product	orf1a polyprotein
+			protein_id	KY419109.1_2
+212	949	mat_peptide
+			product	Leader protein
+			protein_id	KY419109.1_1
+950	2764	mat_peptide
+			product	MHV p65-like protein
+			protein_id	KY419109.1_1
+2765	8461	mat_peptide
+			product	coronavirus nsp1 [PL1-PRO, PL2-PRO, HD]
+			protein_id	KY419109.1_1
+8462	9949	mat_peptide
+			product	transmembrane domain 2
+			protein_id	KY419109.1_1
+9950	10858	mat_peptide
+			product	coronavirus nsp2 [3CL-PRO]
+			protein_id	KY419109.1_1
+10859	11719	mat_peptide
+			product	coronavirus nsp3 [HD2]
+			product	hydrophobic domain
+			protein_id	KY419109.1_1
+11720	11986	mat_peptide
+			product	coronavirus nsp4
+			protein_id	KY419109.1_1
+11987	12577	mat_peptide
+			product	coronavirus nsp5
+			protein_id	KY419109.1_1
+12578	12907	mat_peptide
+			product	coronavirus nsp6
+			protein_id	KY419109.1_1
+12908	13318	mat_peptide
+			product	coronavirus nsp7 [GFL]
+			product	growth-factor-like protein
+			protein_id	KY419109.1_1
+13319	13342	mat_peptide
+13342	16101
+			product	RNA-dependent RNA polymerase
+			product	coronavirus nsp9 [RdRp]
+			protein_id	KY419109.1_1
+16102	17910	mat_peptide
+			product	coronavirus nsp10 [MB, NTPase/HEL]
+			product	metal-binding domain, NTPase/helicase domain
+			protein_id	KY419109.1_1
+17911	19473	mat_peptide
+			product	coronavirus nsp11
+			protein_id	KY419109.1_1
+19474	20598	mat_peptide
+			product	coronavirus nsp12
+			protein_id	KY419109.1_1
+20599	21495	mat_peptide
+			product	coronavirus nsp13
+			protein_id	KY419109.1_1
+21508	21568	gene
+			gene	NS
+21508	21568	CDS
+			product	32 kDa non-structural protein
+			protein_id	KY419109.1_3
+21580	22854	gene
+			gene	HE
+21580	22854	CDS
+			product	hemmaglutinin-esterase
+			protein_id	KY419109.1_4
+22869	26915	gene
+			gene	S
+22869	26915	CDS
+			product	spike structural protein
+			protein_id	KY419109.1_5
+26983	27312	gene
+26983	27312	CDS
+			product	12.7 kDa non-structural protein
+			protein_id	KY419109.1_6
+27299	27553	gene
+			gene	E
+27299	27553	CDS
+			product	small membrane protein
+			protein_id	KY419109.1_7
+27568	28260	gene
+			gene	M
+27568	28260	CDS
+			product	matrix protein
+			protein_id	KY419109.1_8
+28270	29619	gene
+			gene	N
+28270	29619	CDS
+			product	nucleocapsid protein
+			protein_id	KY419109.1_9
+28331	28954	CDS
+			product	hypothetical protein
+			protein_id	KY419109.1_10
+
+Additional note(s) to submitter:
+ERROR: DELETION_OF_FEATURE: (*sequence*) internal deletion of a complete feature [gene feature number 6: gene.6]; seq-coords:-; mdl-coords:27889..28026:+; mdl:NC_003045;
+ERROR: DELETION_OF_FEATURE: (*sequence*) internal deletion of a complete feature [CDS feature number 7: 4.8 kDa non-structural protein]; seq-coords:-; mdl-coords:27889..28026:+; mdl:NC_003045;
+ERROR: INDEFINITE_STRAND: (*sequence*) significant similarity detected on both strands [score:64.3>25.0]; seq-coords:43..1:-; mdl-coords:1..43:+; mdl:NC_003045;
+ERROR: LOW_SIMILARITY_START: (*sequence*) significant similarity not detected at 5' end of the sequence [low similarity region of length 40]; seq-coords:1..40:+; mdl-coords:1..38:+; mdl:NC_003045;
+ERROR: LOW_SIMILARITY: (*sequence*) internal region without significant similarity [low similarity region of length 8]; seq-coords:26931..26938:+; mdl-coords:28034..28041:+; mdl:NC_003045;
+ERROR: CDS_HAS_STOP_CODON: (CDS:32 kDa non-structural protein) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:22,M:22]; seq-coords:21544..21546:+; mdl-coords:22316..22318:+; mdl:NC_003045;
+ERROR: DELETION_OF_NT: (CDS:32 kDa non-structural protein) too large of a deletion in nucleotide-based alignment of CDS feature [519>27]; seq-coords:21523..21523:+; mdl-coords:21520..22038:+; mdl:NC_003045;
+ERROR: DELETION_OF_NT: (CDS:32 kDa non-structural protein) too large of a deletion in nucleotide-based alignment of CDS feature [250>27]; seq-coords:21531..21531:+; mdl-coords:22047..22296:+; mdl:NC_003045;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:32 kDa non-structural protein) possible frameshift in CDS (frame not restored before end) [cause:delete,S:21531,M:22047..22296(250); frame:1(32); length:24:(10:27); intermediate:delete,S:21541,M:22307..22313(7);]; seq-coords:21532..21568:+; mdl-coords:22047..22340:+; mdl:NC_003045;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:32 kDa non-structural protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [31>5]; seq-coords:21508..21538:+; mdl-coords:21504..21504:+; mdl:NC_003045;
+ERROR: UNEXPECTED_LENGTH: (CDS:32 kDa non-structural protein) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [61]; seq-coords:21508..21568:+; mdl-coords:21504..22340:+; mdl:NC_003045;
+ERROR: DELETION_OF_NT: (CDS:spike structural protein) too large of a deletion in protein-based alignment [30>27]; seq-coords:24341..24341:+; mdl-coords:25138..25167:+; mdl:NC_003045;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike structural protein) possible frameshift in CDS (frame restored before end) [cause:delete,S:24231,M:25004..25007(4); restore:delete,S:24253,M:25030..25034(5); frame:1(3)131; length:1363:(22):67:14:2581;]; seq-coords:24232..24253:+; mdl-coords:25004..25034:+; mdl:NC_003045;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike structural protein) possible frameshift in CDS (frame restored before end) [cause:delete,S:24320,M:25111..25114(4); restore:delete,S:24334,M:25129..25130(2); frame:131(3)1; length:1363:22:67:(14):2581;]; seq-coords:24321..24334:+; mdl-coords:25111..25130:+; mdl:NC_003045;

@@ -1,0 +1,4 @@
+#seq  seq           seq                          seed         seed      seed   5'unaln    5'unaln   5'unaln  3'unaln  3'unaln   3'unaln
+#idx  name          len  model      p/f           seq          mdl  fraction       seq        mdl  fraction      seq      mdl  fraction
+#---  ----------  -----  ---------  ----  -----------  -----------  --------  --------  ---------  --------  -------  -------  --------
+1     KR061458.1  27986  NC_003436  PASS  53..27986:+  86..28019:+     0.998  1..152:+  29..185:+     0.005        -        -         -

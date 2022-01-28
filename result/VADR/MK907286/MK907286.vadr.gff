@@ -1,0 +1,25 @@
+##gff-version 3
+MK907286	vadr	gene	244	21518	.	+	.	ID=ftr-1;Name=orf1ab;Gene=orf1ab;
+MK907286	vadr	gene	244	13437	.	+	.	ID=ftr-2;Name=ORF 1a;Gene=ORF 1a;
+MK907286	vadr	region	13416	21518	.	+	.	ID=ftr-4;Name=orf1ab;Gene=orf1ab;Parent=ftr-2;Alias=MK907286.1_1;
+MK907286	vadr	CDS	244	13437	.	+	.	ID=ftr-5;Name=ORF 1a;Gene=ORF 1a;Parent=ftr-2;Alias=MK907286.1_2;
+MK907286	vadr	gene	21442	25425	.	+	.	ID=ftr-6;Name=S;Gene=S;
+MK907286	vadr	CDS	21442	25425	.	+	.	ID=ftr-7;Name=S;Gene=S;Parent=ftr-6;Alias=MK907286.1_3;
+MK907286	vadr	gene	25441	25755	.	+	.	ID=ftr-8;Name=ORF 3a;Gene=ORF 3a;
+MK907286	vadr	CDS	25441	25755	.	+	.	ID=ftr-9;Name=ORF 3a;Gene=ORF 3a;Parent=ftr-8;Alias=MK907286.1_4;
+MK907286	vadr	gene	25532	25957	.	+	.	ID=ftr-10;Name=ORF 3b;Gene=ORF 3b;
+MK907286	vadr	CDS	25532	25957	.	+	.	ID=ftr-11;Name=ORF 3b;Gene=ORF 3b;Parent=ftr-10;Alias=MK907286.1_5;
+MK907286	vadr	gene	25709	25957	.	+	.	ID=ftr-12;Name=orf4a;Gene=orf4a;
+MK907286	vadr	CDS	25709	25957	.	+	.	ID=ftr-13;Name=orf4a;Gene=orf4a;Parent=ftr-12;Alias=MK907286.1_6;
+MK907286	vadr	gene	25944	26624	.	+	.	ID=ftr-14;Name=orf4b;Gene=orf4b;
+MK907286	vadr	CDS	25944	26624	.	+	.	ID=ftr-15;Name=orf4b;Gene=orf4b;Parent=ftr-14;Alias=MK907286.1_7;
+MK907286	vadr	gene	26634	27320	.	+	.	ID=ftr-16;Name=orf5;Gene=orf5;
+MK907286	vadr	CDS	26634	27320	.	+	.	ID=ftr-17;Name=orf5;Gene=orf5;Parent=ftr-16;Alias=MK907286.1_8;
+MK907286	vadr	gene	27395	27643	.	+	.	ID=ftr-18;Name=E;Gene=E;
+MK907286	vadr	CDS	27395	27643	.	+	.	ID=ftr-19;Name=E;Gene=E;Parent=ftr-18;Alias=MK907286.1_9;
+MK907286	vadr	gene	27654	28310	.	+	.	ID=ftr-20;Name=M;Gene=M;
+MK907286	vadr	CDS	27654	28310	.	+	.	ID=ftr-21;Name=M;Gene=M;Parent=ftr-20;Alias=MK907286.1_10;
+MK907286	vadr	gene	28365	29648	.	+	.	ID=ftr-22;Name=N;Gene=N;
+MK907286	vadr	CDS	28365	29648	.	+	.	ID=ftr-23;Name=N;Gene=N;Parent=ftr-22;Alias=MK907286.1_11;
+MK907286	vadr	gene	28411	29019	.	+	.	ID=ftr-24;Name=orf8b;Gene=orf8b;
+MK907286	vadr	CDS	28411	29019	.	+	.	ID=ftr-25;Name=orf8b;Gene=orf8b;Parent=ftr-24;Alias=MK907286.1_12;

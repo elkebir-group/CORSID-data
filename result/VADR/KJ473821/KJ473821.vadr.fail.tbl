@@ -1,0 +1,99 @@
+>Feature KJ473821.1
+241	21779	gene
+			gene	orf1ab
+241	13697	CDS
+13697	21779
+			product	ORF1b protein
+			exception	ribosomal slippage
+			protein_id	KJ473821.1_1
+241	13719	CDS
+			product	ORF1a protein
+			protein_id	KJ473821.1_2
+21721	25775	gene
+			gene	S
+21721	25775	CDS
+			product	S protein
+			protein_id	KJ473821.1_3
+25791	26102	gene
+			gene	ns3a
+25791	26102	CDS
+			product	NS3A protein
+			protein_id	KJ473821.1_4
+26111	26422	gene
+			gene	ns3b
+26111	26422	CDS
+			product	NS3B protein
+			protein_id	KJ473821.1_5
+26352	27065	gene
+			gene	ns3c
+26352	27065	CDS
+			product	NS3C protein
+			protein_id	KJ473821.1_6
+27072	27767	gene
+			gene	ns3d
+27072	27767	CDS
+			product	NS3D protein
+			protein_id	KJ473821.1_7
+27844	28092	gene
+			gene	E
+27844	28092	CDS
+			product	E protein
+			protein_id	KJ473821.1_8
+28107	28763	gene
+			gene	M
+28107	28763	CDS
+			product	M protein
+			protein_id	KJ473821.1_9
+28819	30114	gene
+			gene	N
+28819	30114	CDS
+			product	N protein
+			protein_id	KJ473821.1_10
+
+Additional note(s) to submitter:
+ERROR: LOW_COVERAGE: (*sequence*) low sequence fraction with significant similarity to homology model [0.873<0.900]; seq-coords:1..1:+,3154..3915:+,6307..6605:+,6793..6981:+,22974..23421:+,23767..24057:+,25128..25542:+,25896..26097:+,26323..27407:+,29937..30115:+; mdl-coords:-; mdl:NC_038294;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:ORF1b protein) possible frameshift in CDS (frame restored before end) [cause:insert,S:710..714(5),M:740; restore:delete,S:757,M:784..788(5); frame:1(3)13132121; length:469:(48):2461:39:309:39:41:104:32:17998;]; seq-coords:710..757:+; mdl-coords:741..788:+; mdl:NC_038294;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:ORF1b protein) possible frameshift in CDS (frame restored before end) [cause:insert,S:3219..3238(20),M:3231; restore:insert,S:3245..3257(13),M:3237; frame:131(3)132121; length:469:48:2461:(39):309:39:41:104:32:17998;]; seq-coords:3219..3257:+; mdl-coords:3232..3237:+; mdl:NC_038294;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:ORF1b protein) possible frameshift in CDS (frame restored before end) [cause:insert,S:3567..3598(32),M:3453; restore:insert,S:3639..3646(8),M:3476; frame:13131(32)121; length:469:48:2461:39:309:(39:41):104:32:17998; intermediate:insert,S:3606..3622(17),M:3460;]; seq-coords:3567..3646:+; mdl-coords:3454..3476:+; mdl:NC_038294;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:ORF1b protein) possible frameshift in CDS (frame restored before end) [cause:insert,S:3751..3757(7),M:3547; restore:insert,S:3775..3782(8),M:3564; frame:13131321(2)1; length:469:48:2461:39:309:39:41:104:(32):17998;]; seq-coords:3751..3782:+; mdl-coords:3548..3564:+; mdl:NC_038294;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:ORF1b protein) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [9>8, valid stop codon in nucleotide-based prediction]; seq-coords:21771..21779:+; mdl-coords:21513..21513:+; mdl:NC_038294;
+ERROR: INSERTION_OF_NT: (CDS:ORF1b protein) too large of an insertion in nucleotide-based alignment of CDS feature [33>27]; seq-coords:3371..3403:+; mdl-coords:3326..3326:+; mdl:NC_038294;
+ERROR: INSERTION_OF_NT: (CDS:ORF1b protein) too large of an insertion in nucleotide-based alignment of CDS feature [32>27]; seq-coords:3567..3598:+; mdl-coords:3453..3453:+; mdl:NC_038294;
+ERROR: INSERTION_OF_NT: (CDS:ORF1b protein) too large of an insertion in nucleotide-based alignment of CDS feature [42>27]; seq-coords:3820..3861:+; mdl-coords:3598..3598:+; mdl:NC_038294;
+ERROR: INSERTION_OF_NT: (CDS:ORF1b protein) too large of an insertion in protein-based alignment [45>27]; seq-coords:3150..3194:+; mdl-coords:3181..3181:+; mdl:NC_038294;
+ERROR: INSERTION_OF_NT: (CDS:ORF1b protein) too large of an insertion in protein-based alignment [36>27]; seq-coords:3615..3650:+; mdl-coords:3481..3481:+; mdl:NC_038294;
+ERROR: INSERTION_OF_NT: (CDS:ORF1b protein) too large of an insertion in protein-based alignment [36>27]; seq-coords:3714..3749:+; mdl-coords:3529..3529:+; mdl:NC_038294;
+ERROR: INSERTION_OF_NT: (CDS:ORF1b protein) too large of an insertion in protein-based alignment [42>27]; seq-coords:3831..3872:+; mdl-coords:3598..3598:+; mdl:NC_038294;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:ORF1a protein) possible frameshift in CDS (frame restored before end) [cause:insert,S:710..714(5),M:740; restore:delete,S:757,M:784..788(5); frame:1(3)13132121; length:469:(48):2461:39:309:39:41:104:32:9937;]; seq-coords:710..757:+; mdl-coords:741..788:+; mdl:NC_038294;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:ORF1a protein) possible frameshift in CDS (frame restored before end) [cause:insert,S:3219..3238(20),M:3231; restore:insert,S:3245..3257(13),M:3237; frame:131(3)132121; length:469:48:2461:(39):309:39:41:104:32:9937;]; seq-coords:3219..3257:+; mdl-coords:3232..3237:+; mdl:NC_038294;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:ORF1a protein) possible frameshift in CDS (frame restored before end) [cause:insert,S:3567..3598(32),M:3453; restore:insert,S:3639..3646(8),M:3476; frame:13131(32)121; length:469:48:2461:39:309:(39:41):104:32:9937; intermediate:insert,S:3606..3622(17),M:3460;]; seq-coords:3567..3646:+; mdl-coords:3454..3476:+; mdl:NC_038294;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:ORF1a protein) possible frameshift in CDS (frame restored before end) [cause:insert,S:3751..3757(7),M:3547; restore:insert,S:3775..3782(8),M:3564; frame:13131321(2)1; length:469:48:2461:39:309:39:41:104:(32):9937;]; seq-coords:3751..3782:+; mdl-coords:3548..3564:+; mdl:NC_038294;
+ERROR: INSERTION_OF_NT: (CDS:ORF1a protein) too large of an insertion in nucleotide-based alignment of CDS feature [33>27]; seq-coords:3371..3403:+; mdl-coords:3326..3326:+; mdl:NC_038294;
+ERROR: INSERTION_OF_NT: (CDS:ORF1a protein) too large of an insertion in nucleotide-based alignment of CDS feature [32>27]; seq-coords:3567..3598:+; mdl-coords:3453..3453:+; mdl:NC_038294;
+ERROR: INSERTION_OF_NT: (CDS:ORF1a protein) too large of an insertion in nucleotide-based alignment of CDS feature [42>27]; seq-coords:3820..3861:+; mdl-coords:3598..3598:+; mdl:NC_038294;
+ERROR: INSERTION_OF_NT: (CDS:ORF1a protein) too large of an insertion in protein-based alignment [45>27]; seq-coords:3150..3194:+; mdl-coords:3181..3181:+; mdl:NC_038294;
+ERROR: INSERTION_OF_NT: (CDS:ORF1a protein) too large of an insertion in protein-based alignment [36>27]; seq-coords:3615..3650:+; mdl-coords:3481..3481:+; mdl:NC_038294;
+ERROR: INSERTION_OF_NT: (CDS:ORF1a protein) too large of an insertion in protein-based alignment [36>27]; seq-coords:3714..3749:+; mdl-coords:3529..3529:+; mdl:NC_038294;
+ERROR: INSERTION_OF_NT: (CDS:ORF1a protein) too large of an insertion in protein-based alignment [42>27]; seq-coords:3831..3872:+; mdl-coords:3598..3598:+; mdl:NC_038294;
+ERROR: INDEFINITE_ANNOTATION_END: (gene:S) alignment to homology model is a gap at 3' boundary [-]; seq-coords:25775..25775:+; mdl-coords:25516..25516:+; mdl:NC_038294;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:S protein) possible frameshift in CDS (frame restored before end) [cause:delete,S:21997,M:21732(1); restore:insert,S:22018..22036(19),M:21752; frame:1(3)132132121; length:277:(39):1173:18:32:71:19:36:973:12:1405;]; seq-coords:21998..22036:+; mdl-coords:21732..21752:+; mdl:NC_038294;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:S protein) possible frameshift in CDS (frame restored before end) [cause:delete,S:23209,M:22929..22932(4); restore:insert,S:23258..23259(2),M:22978; frame:131(32)132121; length:277:39:1173:(18:32):71:19:36:973:12:1405; intermediate:insert,S:23228..23229(2),M:22950;]; seq-coords:23210..23259:+; mdl-coords:22929..22978:+; mdl:NC_038294;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:S protein) possible frameshift in CDS (frame restored before end) [cause:delete,S:23330,M:23047(1); restore:delete,S:23385,M:23116(1); frame:131321(32)121; length:277:39:1173:18:32:71:(19:36):973:12:1405; intermediate:delete,S:23349,M:23067..23076(10);]; seq-coords:23331..23385:+; mdl-coords:23047..23116:+; mdl:NC_038294;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:S protein) possible frameshift in CDS (frame restored before end) [cause:insert,S:24359(1),M:24104; restore:insert,S:24369..24370(2),M:24113; frame:131321321(2)1; length:277:39:1173:18:32:71:19:36:973:(12):1405;]; seq-coords:24359..24370:+; mdl-coords:24105..24113:+; mdl:NC_038294;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:S protein) alignment to homology model is a gap at 3' boundary [-]; seq-coords:25775..25775:+; mdl-coords:25516..25516:+; mdl:NC_038294;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:S protein) protein-based alignment extends past nucleotide-based alignment at 3' end [-]; seq-coords:25776..25776:+; mdl-coords:25516..25516:+; mdl:NC_038294;
+ERROR: MUTATION_AT_END: (CDS:S protein) expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAA]; seq-coords:25777..25779:+; mdl-coords:25518..25520:+; mdl:NC_038294;
+ERROR: UNEXPECTED_LENGTH: (CDS:S protein) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [4055]; seq-coords:21721..25775:+; mdl-coords:21455..25512:+; mdl:NC_038294;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:NS3A protein) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [18>8, valid stop codon in nucleotide-based prediction]; seq-coords:26085..26102:+; mdl-coords:25842..25842:+; mdl:NC_038294;
+ERROR: INDEFINITE_ANNOTATION_END: (gene:ns3b) alignment to homology model is a gap at 3' boundary [-]; seq-coords:26422..26422:+; mdl-coords:26180..26180:+; mdl:NC_038294;
+ERROR: CDS_HAS_STOP_CODON: (CDS:NS3B protein) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAA, shifted S:27,M:27]; seq-coords:26393..26395:+; mdl-coords:26142..26144:+; mdl:NC_038294;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:NS3B protein) alignment to homology model is a gap at 3' boundary [-]; seq-coords:26422..26422:+; mdl-coords:26180..26180:+; mdl:NC_038294;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:NS3B protein) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [36>5, no valid stop codon in nucleotide-based prediction]; seq-coords:26387..26422:+; mdl-coords:26180..26180:+; mdl:NC_038294;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:NS3C protein) possible frameshift in CDS (frame restored before end) [cause:delete,S:27046,M:26811..26815(5); restore:insert,S:27061..27062(2),M:26829; frame:1(2)1; length:695:(16):3;]; seq-coords:27047..27062:+; mdl-coords:26811..26829:+; mdl:NC_038294;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:NS3C protein) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [18>8, valid stop codon in nucleotide-based prediction]; seq-coords:27048..27065:+; mdl-coords:26832..26832:+; mdl:NC_038294;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:NS3C protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [45>5]; seq-coords:26352..26396:+; mdl-coords:26092..26092:+; mdl:NC_038294;
+ERROR: MUTATION_AT_START: (CDS:NS3C protein) expected start codon could not be identified [ACG]; seq-coords:26352..26354:+; mdl-coords:26092..26094:+; mdl:NC_038294;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:NS3D protein) possible frameshift in CDS (frame restored before end) [cause:insert,S:27135..27141(7),M:26901; restore:insert,S:27152..27162(11),M:26911; frame:1(2)1; length:63:(28):605;]; seq-coords:27135..27162:+; mdl-coords:26902..26911:+; mdl:NC_038294;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:N protein) possible frameshift in CDS (frame restored before end) [cause:insert,S:29980..29983(4),M:29710; restore:insert,S:30013..30038(26),M:29739; frame:1(2)1; length:1161:(59):76;]; seq-coords:29980..30038:+; mdl-coords:29711..29739:+; mdl:NC_038294;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:N protein) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [204>5, no valid stop codon in nucleotide-based prediction]; seq-coords:29911..30114:+; mdl-coords:29800..29800:+; mdl:NC_038294;
+ERROR: MUTATION_AT_END: (CDS:N protein) expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAA]; seq-coords:30121..30123:+; mdl-coords:29807..29809:+; mdl:NC_038294;

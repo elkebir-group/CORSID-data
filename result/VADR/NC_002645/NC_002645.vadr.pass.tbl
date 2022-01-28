@@ -1,0 +1,39 @@
+>Feature NC_002645.1
+293	20568	gene
+293	12520	CDS
+12520	20568
+			product	replicase polyprotein 1ab
+			protein_id	NC_002645.1_1
+293	12550	CDS
+			product	replicase polyprotein 1a
+			protein_id	NC_002645.1_2
+20570	24091	gene
+			gene	S
+20570	24091	CDS
+			product	surface glycoprotein
+			protein_id	NC_002645.1_3
+24091	24492	gene
+			gene	4a
+24091	24492	CDS
+			product	4a protein
+			protein_id	NC_002645.1_4
+24482	24748	gene
+			gene	4b
+24482	24748	CDS
+			product	4b protein
+			protein_id	NC_002645.1_5
+24750	24983	gene
+			gene	E
+24750	24983	CDS
+			product	envelope protein
+			protein_id	NC_002645.1_6
+24995	25672	gene
+			gene	M
+24995	25672	CDS
+			product	membrane protein
+			protein_id	NC_002645.1_7
+25686	26855	gene
+			gene	N
+25686	26855	CDS
+			product	nucleocapsid protein
+			protein_id	NC_002645.1_8

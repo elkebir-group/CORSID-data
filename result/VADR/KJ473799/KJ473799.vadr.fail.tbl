@@ -1,0 +1,55 @@
+>Feature KJ473799.1
+269	20937	gene
+			gene	ORF1ab
+269	12913	CDS
+12913	20937
+			product	ORF1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	KJ473799.1_1
+269	12943	CDS
+			product	ORF1a polyprotein
+			protein_id	KJ473799.1_2
+20934	25075	gene
+			gene	S
+20934	25075	CDS
+			product	spike protein
+			protein_id	KJ473799.1_3
+25075	25743	gene
+			gene	ORF3
+25075	25743	CDS
+			product	ORF3 protein
+			protein_id	KJ473799.1_4
+25727	25951	gene
+			gene	E
+25727	25951	CDS
+			product	envelope protein
+			protein_id	KJ473799.1_5
+25961	26719	gene
+			gene	M
+25961	26719	CDS
+			product	membrane protein
+			protein_id	KJ473799.1_6
+26768	28036	gene
+			gene	N
+26768	28036	CDS
+			product	nucleocapsid protein
+			protein_id	KJ473799.1_7
+27786	28532	gene
+			gene	ORF7
+27786	28532	CDS
+			product	hypothetical protein
+			protein_id	KJ473799.1_8
+
+Additional note(s) to submitter:
+ERROR: LOW_COVERAGE: (*sequence*) low sequence fraction with significant similarity to homology model [0.890<0.900]; seq-coords:20946..24097:+; mdl-coords:-; mdl:NC_010438;
+ERROR: CDS_HAS_STOP_CODON: (CDS:spike protein) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:4049,M:3983]; seq-coords:21024..21026:+; mdl-coords:21089..21100:+; mdl:NC_010438;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike protein) possible frameshift in CDS (frame restored before end) [cause:delete,S:20941,M:20964..20979(16); restore:delete,S:20961,M:21000..21013(14); frame:1(3)13213132323231323; length:8:(20):10:389:11:5:1115:12:48:36:126:16:41:19:42:16:841:20:1367;]; seq-coords:20942..20961:+; mdl-coords:20964..21013:+; mdl:NC_010438;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike protein) possible frameshift in CDS (frame restored before end) [cause:delete,S:20971,M:21024..21036(13); restore:delete,S:21371,M:21435(1); frame:131(32)13132323231323; length:8:20:10:(389:11):5:1115:12:48:36:126:16:41:19:42:16:841:20:1367; intermediate:delete,S:21360,M:21423(1);]; seq-coords:20972..21371:+; mdl-coords:21024..21435:+; mdl:NC_010438;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike protein) possible frameshift in CDS (frame restored before end) [cause:delete,S:21376,M:21441(1); restore:insert,S:22491(1),M:22522; frame:131321(3)132323231323; length:8:20:10:389:11:5:(1115):12:48:36:126:16:41:19:42:16:841:20:1367;]; seq-coords:21377..22491:+; mdl-coords:21441..22522:+; mdl:NC_010438;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike protein) possible frameshift in CDS (frame restored before end) [cause:insert,S:22504..22505(2),M:22534; restore:insert,S:22831(1),M:22868; frame:13132131(3232323)1323; length:8:20:10:389:11:5:1115:12:(48:36:126:16:41:19:42):16:841:20:1367; intermediate:delete,S:22551,M:22581(1);delete,S:22587,M:22621..22625(5);delete,S:22713,M:22749..22752(4);delete,S:22729,M:22769..22770(2);insert,S:22771..22772(2),M:22811;insert,S:22790(1),M:22828;]; seq-coords:22504..22831:+; mdl-coords:22535..22868:+; mdl:NC_010438;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike protein) possible frameshift in CDS (frame not restored before end) [cause:insert,S:22848..22849(2),M:22884; frame:1313213132323231(323); length:8:20:10:389:11:5:1115:12:48:36:126:16:41:19:42:16:(841:20:1367); intermediate:insert,S:23689..23693(5),M:23708;insert,S:23709(1),M:23723;]; seq-coords:22848..25075:+; mdl-coords:22885..25083:+; mdl:NC_010438;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:spike protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [89>5]; seq-coords:20934..21022:+; mdl-coords:20956..20956:+; mdl:NC_010438;
+ERROR: MUTATION_AT_START: (CDS:spike protein) expected start codon could not be identified [ATA]; seq-coords:20934..20936:+; mdl-coords:20956..20958:+; mdl:NC_010438;
+ERROR: UNEXPECTED_LENGTH: (CDS:spike protein) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [4142]; seq-coords:20934..25075:+; mdl-coords:20956..25083:+; mdl:NC_010438;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:membrane protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:25961..25969:+; mdl-coords:25966..25966:+; mdl:NC_010438;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:hypothetical protein) possible frameshift in CDS (frame restored before end) [cause:insert,S:28064..28065(2),M:28065; restore:insert,S:28088(1),M:28087; frame:1(3)1; length:278:(25):444;]; seq-coords:28064..28088:+; mdl-coords:28066..28087:+; mdl:NC_010438;

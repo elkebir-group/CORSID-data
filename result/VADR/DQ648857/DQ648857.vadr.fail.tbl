@@ -1,0 +1,166 @@
+>Feature DQ648857.1
+264	21502	gene
+			gene	orf1ab
+264	13415	CDS
+13415	21502
+			product	orf1ab polyprotein [pp1ab]
+			exception	ribosomal slippage
+			protein_id	DQ648857.1_1
+264	13430	CDS
+			product	orf1a polyprotein [pp1a]
+			protein_id	DQ648857.1_2
+264	803	mat_peptide
+			product	leader protein
+			product	nsp1-pp1a/pp1ab
+			protein_id	DQ648857.1_1
+804	2717	mat_peptide
+			product	counterpart of MHV p65
+			product	nsp2-pp1a/pp1ab
+			protein_id	DQ648857.1_1
+2718	8501	mat_peptide
+			product	nsp3-pp1a/pp1ab
+			protein_id	DQ648857.1_1
+8502	10001	mat_peptide
+			product	nsp4-pp1a/pp1ab
+			protein_id	DQ648857.1_1
+10002	10919	mat_peptide
+			product	3C-like proteinase
+			product	main proteinase [Mpro]
+			product	nsp5-pp1a/pp1ab [3CL-PRO]
+			protein_id	DQ648857.1_1
+10920	11789	mat_peptide
+			product	nsp6-pp1a/pp1ab [TM3]
+			product	putative transmembrane domain
+			protein_id	DQ648857.1_1
+11790	12038	mat_peptide
+			product	nsp7-pp1a/pp1ab
+			protein_id	DQ648857.1_1
+12039	12632	mat_peptide
+			product	nsp8-pp1a/pp1ab
+			protein_id	DQ648857.1_1
+12633	12971	mat_peptide
+			product	nsp9-pp1a/pp1ab
+			product	ssRNA-binding protein
+			protein_id	DQ648857.1_1
+12972	13388	mat_peptide
+			product	formerly known as growth-factor-like protein [GFL]
+			product	nsp10-pp1a/pp1ab
+			protein_id	DQ648857.1_1
+13389	13415	mat_peptide
+13415	16183
+			product	RNA-dependent RNA polymerase
+			product	nsp12-pp1ab [RdRp]
+			protein_id	DQ648857.1_1
+13389	13427	mat_peptide
+			product	nsp11-pp1a
+			protein_id	DQ648857.1_2
+16184	17986	mat_peptide
+			product	nsp13-pp1ab [ZD, NTPase/HEL; RNA 5'-triphosphatase]
+			protein_id	DQ648857.1_1
+17987	19567	mat_peptide
+			product	3'-to-5' exonuclease
+			product	nsp14-pp1ab [nuclease ExoN homolog]
+			protein_id	DQ648857.1_1
+19568	20605	mat_peptide
+			product	endoRNAse
+			product	nsp15-pp1ab
+			product	uridylate-specific endoribonuclease NendoU
+			protein_id	DQ648857.1_1
+20606	21499	mat_peptide
+			product	2'-O-ribose methyltransferase [2'-o-MT]
+			product	nsp16-pp1ab
+			protein_id	DQ648857.1_1
+21509	25234	gene
+			gene	S
+21509	25234	CDS
+			product	E2 glycoprotein precursor
+			product	spike glycoprotein
+			protein_id	DQ648857.1_3
+25244	26068	gene
+25244	26068	CDS
+			product	hypothetical protein sars3a
+			protein_id	DQ648857.1_4
+25665	26129	gene
+25665	26129	CDS
+			product	hypothetical protein sars3b
+			protein_id	DQ648857.1_5
+26093	26323	gene
+			gene	E
+26093	26323	CDS
+			product	protein E
+			product	protein sM
+			product	small envelope protein
+			protein_id	DQ648857.1_6
+26374	27039	gene
+			gene	M
+26374	27039	CDS
+			product	matrix protein
+			protein_id	DQ648857.1_7
+26889	27241	gene
+27050	27241	CDS
+			product	hypothetical protein sars6
+			protein_id	DQ648857.1_8
+27249	27617	gene
+27249	27617	CDS
+			product	hypothetical protein sars7a
+			protein_id	DQ648857.1_9
+27614	27748	gene
+27614	27748	CDS
+			product	hypothetical protein sars7b
+			protein_id	DQ648857.1_10
+27755	27880	gene
+27755	27880	CDS
+			product	hypothetical protein sars8a
+			protein_id	DQ648857.1_11
+27846	28133	gene
+27846	28133	CDS
+			product	hypothetical protein sars8b
+			protein_id	DQ648857.1_12
+28135	29397	gene
+			gene	N
+28135	29397	CDS
+			product	nucleocapsid protein
+			protein_id	DQ648857.1_13
+28145	28438	gene
+28145	28438	CDS
+			product	hypothetical protein sars9b
+			protein_id	DQ648857.1_14
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:orf1ab polyprotein [pp1ab]) possible frameshift in CDS (frame restored before end) [cause:insert,S:3226(1),M:3223; restore:delete,S:3231,M:3229..3238(10); frame:1(2)131; length:2962:(6):597:36:17639;]; seq-coords:3226..3231:+; mdl-coords:3224..3238:+; mdl:NC_004718;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:orf1ab polyprotein [pp1ab]) possible frameshift in CDS (frame restored before end) [cause:insert,S:3829..3842(14),M:3820; restore:insert,S:3864(1),M:3841; frame:121(3)1; length:2962:6:597:(36):17639;]; seq-coords:3829..3864:+; mdl-coords:3821..3841:+; mdl:NC_004718;
+ERROR: INSERTION_OF_NT: (CDS:orf1ab polyprotein [pp1ab]) too large of an insertion in protein-based alignment [30>27]; seq-coords:3803..3832:+; mdl-coords:3810..3810:+; mdl:NC_004718;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:orf1a polyprotein [pp1a]) possible frameshift in CDS (frame restored before end) [cause:insert,S:3226(1),M:3223; restore:delete,S:3231,M:3229..3238(10); frame:1(2)131; length:2962:(6):597:36:9566;]; seq-coords:3226..3231:+; mdl-coords:3224..3238:+; mdl:NC_004718;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:orf1a polyprotein [pp1a]) possible frameshift in CDS (frame restored before end) [cause:insert,S:3829..3842(14),M:3820; restore:insert,S:3864(1),M:3841; frame:121(3)1; length:2962:6:597:(36):9566;]; seq-coords:3829..3864:+; mdl-coords:3821..3841:+; mdl:NC_004718;
+ERROR: INSERTION_OF_NT: (CDS:orf1a polyprotein [pp1a]) too large of an insertion in protein-based alignment [30>27]; seq-coords:3803..3832:+; mdl-coords:3810..3810:+; mdl:NC_004718;
+ERROR: DELETION_OF_NT: (CDS:E2 glycoprotein precursor:GBSEP:spike glycoprotein) too large of a deletion in protein-based alignment [39>27]; seq-coords:22882..22882:+; mdl-coords:22869..22907:+; mdl:NC_004718;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:E2 glycoprotein precursor:GBSEP:spike glycoprotein) possible frameshift in CDS (frame restored before end) [cause:delete,S:22236,M:22208(1); restore:delete,S:22266,M:22237(1); frame:1(32)131; length:728:(12:18):529:21:2418; intermediate:insert,S:22249..22250(2),M:22220;]; seq-coords:22237..22266:+; mdl-coords:22208..22237:+; mdl:NC_004718;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:E2 glycoprotein precursor:GBSEP:spike glycoprotein) possible frameshift in CDS (frame restored before end) [cause:delete,S:22795,M:22767(1); restore:delete,S:22816,M:22789..22802(14); frame:1321(3)1; length:728:12:18:529:(21):2418;]; seq-coords:22796..22816:+; mdl-coords:22767..22802:+; mdl:NC_004718;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:E2 glycoprotein precursor:GBSEP:spike glycoprotein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [6>5]; seq-coords:21509..21514:+; mdl-coords:21492..21492:+; mdl:NC_004718;
+ERROR: CDS_HAS_STOP_CODON: (CDS:hypothetical protein sars3b) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAA, shifted S:294,M:294]; seq-coords:25833..25835:+; mdl-coords:25857..25859:+; mdl:NC_004718;
+ERROR: CDS_HAS_STOP_CODON: (CDS:hypothetical protein sars3b) stop codon in protein-based alignment [-]; seq-coords:25833..25835:+; mdl-coords:25857..25859:+; mdl:NC_004718;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:hypothetical protein sars8a) possible frameshift in CDS (frame restored before end) [cause:insert,S:27775..27776(2),M:27798; restore:insert,S:27781(1),M:27802; frame:1(3)121; length:20:(7):18:19:62;]; seq-coords:27775..27781:+; mdl-coords:27799..27802:+; mdl:NC_004718;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:hypothetical protein sars8a) possible frameshift in CDS (frame restored before end) [cause:insert,S:27800(1),M:27820; restore:insert,S:27817..27818(2),M:27836; frame:131(2)1; length:20:7:18:(19):62;]; seq-coords:27800..27818:+; mdl-coords:27821..27836:+; mdl:NC_004718;
+ERROR: MUTATION_AT_END: (CDS:hypothetical protein sars8a) expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAA]; seq-coords:28118..28120:+; mdl-coords:28103..28105:+; mdl:NC_004718;
+ERROR: CDS_HAS_STOP_CODON: (CDS:hypothetical protein sars8b) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAA, shifted S:237,M:211]; seq-coords:27894..27896:+; mdl-coords:27905..27907:+; mdl:NC_004718;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:hypothetical protein sars8b) possible frameshift in CDS (frame restored before end) [cause:insert,S:27881..27887(7),M:27898; restore:insert,S:27994(1),M:27985; frame:1(23)131; length:35:(24:90):13:104:22; intermediate:insert,S:27905..27914(10),M:27915;]; seq-coords:27881..27994:+; mdl-coords:27899..27985:+; mdl:NC_004718;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:hypothetical protein sars8b) possible frameshift in CDS (frame restored before end) [cause:insert,S:28008..28015(8),M:27998; restore:delete,S:28111,M:28095..28096(2); frame:1231(3)1; length:35:24:90:13:(104):22;]; seq-coords:28008..28111:+; mdl-coords:27999..28096:+; mdl:NC_004718;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:hypothetical protein sars8b) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [22>8, valid stop codon in nucleotide-based prediction]; seq-coords:28112..28133:+; mdl-coords:28118..28118:+; mdl:NC_004718;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:hypothetical protein sars8b) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [104>5]; seq-coords:27846..27949:+; mdl-coords:27864..27864:+; mdl:NC_004718;
+ERROR: MUTATION_AT_START: (CDS:hypothetical protein sars8b) expected start codon could not be identified [ACC]; seq-coords:27846..27848:+; mdl-coords:27864..27866:+; mdl:NC_004718;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:leader protein:GBSEP:nsp1-pp1a/pp1ab) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_004718;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:counterpart of MHV p65:GBSEP:nsp2-pp1a/pp1ab) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_004718;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:nsp3-pp1a/pp1ab) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_004718;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:nsp4-pp1a/pp1ab) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_004718;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:3C-like proteinase:GBSEP:main proteinase [Mpro]:GBSEP:nsp5-pp1a/pp1ab [3CL-PRO]) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_004718;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:nsp6-pp1a/pp1ab [TM3]:GBSEP:putative transmembrane domain) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_004718;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:nsp7-pp1a/pp1ab) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_004718;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:nsp8-pp1a/pp1ab) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_004718;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:nsp9-pp1a/pp1ab:GBSEP:ssRNA-binding protein) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_004718;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:formerly known as growth-factor-like protein [GFL]:GBSEP:nsp10-pp1a/pp1ab) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_004718;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:RNA-dependent RNA polymerase:GBSEP:nsp12-pp1ab [RdRp]) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_004718;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:nsp13-pp1ab [ZD, NTPase/HEL; RNA 5'-triphosphatase]) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_004718;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:3'-to-5' exonuclease:GBSEP:nsp14-pp1ab [nuclease ExoN homolog]) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_004718;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:endoRNAse:GBSEP:nsp15-pp1ab:GBSEP:uridylate-specific endoribonuclease NendoU) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_004718;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:2'-O-ribose methyltransferase [2'-o-MT]:GBSEP:nsp16-pp1ab) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_004718;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:nsp11-pp1a) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_004718;

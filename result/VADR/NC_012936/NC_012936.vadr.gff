@@ -1,0 +1,11 @@
+##gff-version 3
+NC_012936	vadr	region	13556	21700	.	+	.	ID=ftr-4;Name=orf1ab polyprotein;Gene=orf1ab polyprotein;Alias=NC_012936.1_1;
+NC_012936	vadr	CDS	183	13577	.	+	.	ID=ftr-5;Name=orf1a polyprotein;Gene=orf1a polyprotein;Alias=NC_012936.1_2;
+NC_012936	vadr	CDS	21714	22511	.	+	.	ID=ftr-7;Name=32 kD non-structural protein;Gene=32 kD non-structural protein;Alias=NC_012936.1_3;
+NC_012936	vadr	CDS	22557	23876	.	+	.	ID=ftr-9;Name=hemagglutinin-esterase;Gene=hemagglutinin-esterase;Alias=NC_012936.1_4;
+NC_012936	vadr	CDS	23891	27973	.	+	.	ID=ftr-11;Name=spike protein;Gene=spike protein;Alias=NC_012936.1_5;
+NC_012936	vadr	CDS	28064	28465	.	+	.	ID=ftr-13;Name=15 kD non-structural protein;Gene=15 kD non-structural protein;Alias=NC_012936.1_6;
+NC_012936	vadr	CDS	28639	28905	.	+	.	ID=ftr-15;Name=envelope protein;Gene=envelope protein;Alias=NC_012936.1_7;
+NC_012936	vadr	CDS	28902	29588	.	+	.	ID=ftr-17;Name=membrane protein;Gene=membrane protein;Alias=NC_012936.1_8;
+NC_012936	vadr	CDS	29603	30967	.	+	.	ID=ftr-19;Name=nucleocapsid protein;Gene=nucleocapsid protein;Alias=NC_012936.1_9;
+NC_012936	vadr	CDS	29667	30290	.	+	.	ID=ftr-21;Name=internal protein;Gene=internal protein;Alias=NC_012936.1_10;

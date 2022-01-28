@@ -1,0 +1,20 @@
+##gff-version 3
+JN547228	vadr	region	12613	20634	.	+	.	ID=ftr-3;Name=Pol1;Gene=Pol1;Alias=JN547228.1_1;
+JN547228	vadr	mat_peptide	293	622	.	+	.	ID=ftr-4;Name=putative leader protein;Gene=putative leader protein;Alias=JN547228.1_1;
+JN547228	vadr	mat_peptide	2978	7843	.	+	.	ID=ftr-5;Name=putative coronavirus nsp1;Gene=putative coronavirus nsp1;Alias=JN547228.1_1;
+JN547228	vadr	mat_peptide	9284	10189	.	+	.	ID=ftr-6;Name=putative coronavirus nsp2 [3CL-PRO];Gene=putative coronavirus nsp2 [3CL-PRO];Alias=JN547228.1_1;
+JN547228	vadr	mat_peptide	10190	11026	.	+	.	ID=ftr-7;Name=putative coronavirus nsp3 [HD2];Gene=putative coronavirus nsp3 [HD2];Alias=JN547228.1_1;
+JN547228	vadr	mat_peptide	11027	11275	.	+	.	ID=ftr-8;Name=putative coronavirus nsp4;Gene=putative coronavirus nsp4;Alias=JN547228.1_1;
+JN547228	vadr	mat_peptide	11276	11860	.	+	.	ID=ftr-9;Name=putative coronavirus nsp5;Gene=putative coronavirus nsp5;Alias=JN547228.1_1;
+JN547228	vadr	mat_peptide	11861	12184	.	+	.	ID=ftr-10;Name=putative coronavirus nsp6;Gene=putative coronavirus nsp6;Alias=JN547228.1_1;
+JN547228	vadr	mat_peptide	12185	12589	.	+	.	ID=ftr-11;Name=putative coronavirus nsp7;Gene=putative coronavirus nsp7;Alias=JN547228.1_1;
+JN547228	vadr	region	12613	15369	.	+	.	ID=ftr-13;Name=putative coronavirus nsp9 [RdRp];Gene=putative coronavirus nsp9 [RdRp];Alias=JN547228.1_1;
+JN547228	vadr	mat_peptide	15370	17160	.	+	.	ID=ftr-14;Name=putative coronavirus nsp10 [MB, NTPase/HEL];Gene=putative coronavirus nsp10 [MB, NTPase/HEL];Alias=JN547228.1_1;
+JN547228	vadr	mat_peptide	17161	18711	.	+	.	ID=ftr-15;Name=putative coronavirus nsp11;Gene=putative coronavirus nsp11;Alias=JN547228.1_1;
+JN547228	vadr	mat_peptide	18712	19728	.	+	.	ID=ftr-16;Name=putative coronavirus nsp12;Gene=putative coronavirus nsp12;Alias=JN547228.1_1;
+JN547228	vadr	mat_peptide	19729	20631	.	+	.	ID=ftr-17;Name=putative coronavirus nsp13;Gene=putative coronavirus nsp13;Alias=JN547228.1_1;
+JN547228	vadr	CDS	20631	24782	.	+	.	ID=ftr-19;Name=spike protein;Gene=spike protein;Alias=JN547228.1_2;
+JN547228	vadr	CDS	24782	25456	.	+	.	ID=ftr-21;Name=hypothetical protein;Gene=hypothetical protein;Alias=JN547228.1_3;
+JN547228	vadr	CDS	25437	25667	.	+	.	ID=ftr-23;Name=envelope protein;Gene=envelope protein;Alias=JN547228.1_4;
+JN547228	vadr	CDS	25675	26355	.	+	.	ID=ftr-25;Name=membrane protein;Gene=membrane protein;Alias=JN547228.1_5;
+JN547228	vadr	CDS	26367	27692	.	+	.	ID=ftr-27;Name=nucleocapsid protein;Gene=nucleocapsid protein;Alias=JN547228.1_6;

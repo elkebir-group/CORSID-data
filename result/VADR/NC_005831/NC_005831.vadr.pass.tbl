@@ -1,0 +1,27 @@
+>Feature NC_005831.2
+287	20475	gene
+287	12439	CDS
+12439	20475
+			product	replicase polyprotein 1ab
+			exception	ribosomal slippage
+			protein_id	NC_005831.2_1
+20472	24542	gene
+20472	24542	CDS
+			product	spike protein
+			protein_id	NC_005831.2_2
+24542	25219	gene
+24542	25219	CDS
+			product	protein 3
+			protein_id	NC_005831.2_3
+25200	25433	gene
+25200	25433	CDS
+			product	envelope protein
+			protein_id	NC_005831.2_4
+25442	26122	gene
+25442	26122	CDS
+			product	membrane protein
+			protein_id	NC_005831.2_5
+26133	27266	gene
+26133	27266	CDS
+			product	nucleocapsid protein
+			protein_id	NC_005831.2_6

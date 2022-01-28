@@ -1,0 +1,5 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+KP662631.1	NC_001451	CDS	spike protein	DELETION_OF_NT	20486..20486:+	20715..20756:+	too large of a deletion in nucleotide-based alignment of CDS feature [42>27]
+KP662631.1	NC_001451	CDS	spike protein	DELETION_OF_NT	20487..20487:+	20716..20757:+	too large of a deletion in protein-based alignment [42>27]
+KP662631.1	NC_001451	CDS	spike protein	POSSIBLE_FRAMESHIFT	20409..20417:+	20625..20633:+	possible frameshift in CDS (frame restored before end) [cause:delete,S:20408,M:20625(1); restore:insert,S:20417(1),M:20633; frame:1(3)1; length:260:(9):3169;]
+KP662631.1	NC_001451	CDS	spike protein	INDEFINITE_ANNOTATION_START	20149..20247:+	20368..20368:+	protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [99>5]

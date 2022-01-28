@@ -1,0 +1,15 @@
+##gff-version 3
+NC_010646	vadr	region	12388	20514	.	+	.	ID=ftr-4;Name=ORF 1ab polyprotein;Gene=ORF 1ab polyprotein;Alias=NC_010646.1_1;
+NC_010646	vadr	CDS	524	12418	.	+	.	ID=ftr-5;Name=ORF 1a polyprotein;Gene=ORF 1a polyprotein;Alias=NC_010646.1_2;
+NC_010646	vadr	CDS	20450	24868	.	+	.	ID=ftr-7;Name=spike protein;Gene=spike protein;Alias=NC_010646.1_3;
+NC_010646	vadr	CDS	24874	25161	.	+	.	ID=ftr-9;Name=small membrane protein;Gene=small membrane protein;Alias=NC_010646.1_4;
+NC_010646	vadr	CDS	25145	25927	.	+	.	ID=ftr-11;Name=matrix glycoprotein;Gene=matrix glycoprotein;Alias=NC_010646.1_5;
+NC_010646	vadr	CDS	25930	26346	.	+	.	ID=ftr-13;Name=ORF 5a;Gene=ORF 5a;Alias=NC_010646.1_6;
+NC_010646	vadr	CDS	26339	26857	.	+	.	ID=ftr-15;Name=ORF 5b;Gene=ORF 5b;Alias=NC_010646.1_7;
+NC_010646	vadr	CDS	26847	27374	.	+	.	ID=ftr-17;Name=ORF 5c;Gene=ORF 5c;Alias=NC_010646.1_8;
+NC_010646	vadr	CDS	27378	28064	.	+	.	ID=ftr-19;Name=ORF 6;Gene=ORF 6;Alias=NC_010646.1_9;
+NC_010646	vadr	CDS	28067	28552	.	+	.	ID=ftr-21;Name=ORF 7;Gene=ORF 7;Alias=NC_010646.1_10;
+NC_010646	vadr	CDS	28705	28884	.	+	.	ID=ftr-23;Name=ORF 8;Gene=ORF 8;Alias=NC_010646.1_11;
+NC_010646	vadr	CDS	28941	29399	.	+	.	ID=ftr-25;Name=ORF 9;Gene=ORF 9;Alias=NC_010646.1_12;
+NC_010646	vadr	CDS	29402	30034	.	+	.	ID=ftr-27;Name=ORF 10;Gene=ORF 10;Alias=NC_010646.1_13;
+NC_010646	vadr	CDS	30146	31285	.	+	.	ID=ftr-29;Name=nucleocapsid protein;Gene=nucleocapsid protein;Alias=NC_010646.1_14;

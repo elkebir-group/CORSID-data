@@ -1,0 +1,18 @@
+# esl-seqstat -a output for input fasta file saved in:                             KF530123.vadr.seqstat
+# 5 column feature table output for passing sequences saved in:                    KF530123.vadr.pass.tbl
+# 5 column feature table output for failing sequences saved in:                    KF530123.vadr.fail.tbl
+# list of passing sequences saved in:                                              KF530123.vadr.pass.list
+# list of failing sequences saved in:                                              KF530123.vadr.fail.list
+# list of alerts in the feature tables saved in:                                   KF530123.vadr.alt.list
+# fasta file with passing sequences saved in:                                      KF530123.vadr.pass.fa
+# fasta file with failing sequences saved in:                                      KF530123.vadr.fail.fa
+# per-sequence tabular annotation summary file saved in:                           KF530123.vadr.sqa
+# per-sequence tabular classification summary file saved in:                       KF530123.vadr.sqc
+# per-feature tabular summary file saved in:                                       KF530123.vadr.ftr
+# per-model-segment tabular summary file saved in:                                 KF530123.vadr.sgm
+# per-alert tabular summary file saved in:                                         KF530123.vadr.alt
+# alert count tabular summary file saved in:                                       KF530123.vadr.alc
+# per-model tabular summary file saved in:                                         KF530123.vadr.mdl
+# alignment doctoring tabular summary file saved in:                               KF530123.vadr.dcr
+# seed alignment summary file (-s) saved in:                                       KF530123.vadr.sda
+# replaced stretches of Ns summary file (-r) saved in:                             KF530123.vadr.rpn

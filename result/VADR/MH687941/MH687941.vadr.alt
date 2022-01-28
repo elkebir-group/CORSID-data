@@ -1,0 +1,7 @@
+#      seq                    ftr   ftr             ftr  alert           alert                                   seq  seq             mdl  mdl  alert 
+#idx   name        model      type  name            idx  code      fail  description                          coords  len          coords  len  detail
+#----  ----------  ---------  ----  --------------  ---  --------  ----  ---------------------------  --------------  ---  --------------  ---  ------
+1.1.1  MH687941.1  NC_009657  -     -                 -  lowsimis  yes   LOW_SIMILARITY               27614..27743:+  130  27667..27694:+   28  internal region without significant similarity [low similarity region of length 130]
+1.2.1  MH687941.1  NC_009657  CDS   ORF1              2  deletinp  yes   DELETION_OF_NT               20189..20189:+    1  20219..20248:+   30  too large of a deletion in protein-based alignment [30>27]
+1.2.2  MH687941.1  NC_009657  CDS   ORF1              2  deletinn  yes   DELETION_OF_NT               20189..20189:+    1  20219..20248:+   30  too large of a deletion in nucleotide-based alignment of CDS feature [30>27]
+1.3.1  MH687941.1  NC_009657  CDS   matrix_protein   10  indf5pst  yes   INDEFINITE_ANNOTATION_START  25622..25627:+    6  25678..25678:+    1  protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [6>5]

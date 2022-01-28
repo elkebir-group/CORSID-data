@@ -1,0 +1,16 @@
+##gff-version 3
+MN611518	vadr	gene	257	20946	.	+	.	ID=ftr-1;Name=ORF1ab;Gene=ORF1ab;
+MN611518	vadr	region	12922	20946	.	+	.	ID=ftr-3;Name=ORF1ab polyprotein;Gene=ORF1ab polyprotein;Parent=ftr-1;Alias=MN611518.1_1;
+MN611518	vadr	CDS	257	12952	.	+	.	ID=ftr-4;Name=ORF1a polyprotein;Gene=ORF1a polyprotein;Parent=ftr-1;Alias=MN611518.1_2;
+MN611518	vadr	gene	20943	25072	.	+	.	ID=ftr-5;Name=S;Gene=S;
+MN611518	vadr	CDS	20943	25072	.	+	.	ID=ftr-6;Name=spike protein;Gene=spike protein;Parent=ftr-5;Alias=MN611518.1_3;
+MN611518	vadr	gene	25072	25740	.	+	.	ID=ftr-7;Name=ORF3;Gene=ORF3;
+MN611518	vadr	CDS	25072	25740	.	+	.	ID=ftr-8;Name=ORF3 protein;Gene=ORF3 protein;Parent=ftr-7;Alias=MN611518.1_4;
+MN611518	vadr	gene	25724	25948	.	+	.	ID=ftr-9;Name=E;Gene=E;
+MN611518	vadr	CDS	25724	25948	.	+	.	ID=ftr-10;Name=envelope protein;Gene=envelope protein;Parent=ftr-9;Alias=MN611518.1_5;
+MN611518	vadr	gene	25958	26716	.	+	.	ID=ftr-11;Name=M;Gene=M;
+MN611518	vadr	CDS	25958	26716	.	+	.	ID=ftr-12;Name=membrane protein;Gene=membrane protein;Parent=ftr-11;Alias=MN611518.1_6;
+MN611518	vadr	gene	26765	28033	.	+	.	ID=ftr-13;Name=N;Gene=N;
+MN611518	vadr	CDS	26765	28033	.	+	.	ID=ftr-14;Name=nucleocapsid protein;Gene=nucleocapsid protein;Parent=ftr-13;Alias=MN611518.1_7;
+MN611518	vadr	gene	27783	28532	.	+	.	ID=ftr-15;Name=ORF7;Gene=ORF7;
+MN611518	vadr	CDS	27783	28532	.	+	.	ID=ftr-16;Name=hypothetical protein;Gene=hypothetical protein;Parent=ftr-15;Alias=MN611518.1_8;

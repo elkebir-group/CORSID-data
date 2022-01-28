@@ -1,0 +1,127 @@
+>Feature NC_004718.3
+265	21485	gene
+			gene	orf1ab
+265	13398	CDS
+13398	21485
+			product	orf1ab polyprotein [pp1ab]
+			exception	ribosomal slippage
+			protein_id	NC_004718.3_1
+265	13413	CDS
+			product	orf1a polyprotein [pp1a]
+			protein_id	NC_004718.3_2
+265	804	mat_peptide
+			product	leader protein
+			product	nsp1-pp1a/pp1ab
+			protein_id	NC_004718.3_1
+805	2718	mat_peptide
+			product	counterpart of MHV p65
+			product	nsp2-pp1a/pp1ab
+			protein_id	NC_004718.3_1
+2719	8484	mat_peptide
+			product	nsp3-pp1a/pp1ab
+			protein_id	NC_004718.3_1
+8485	9984	mat_peptide
+			product	nsp4-pp1a/pp1ab
+			protein_id	NC_004718.3_1
+9985	10902	mat_peptide
+			product	3C-like proteinase
+			product	main proteinase [Mpro]
+			product	nsp5-pp1a/pp1ab [3CL-PRO]
+			protein_id	NC_004718.3_1
+10903	11772	mat_peptide
+			product	nsp6-pp1a/pp1ab [TM3]
+			product	putative transmembrane domain
+			protein_id	NC_004718.3_1
+11773	12021	mat_peptide
+			product	nsp7-pp1a/pp1ab
+			protein_id	NC_004718.3_1
+12022	12615	mat_peptide
+			product	nsp8-pp1a/pp1ab
+			protein_id	NC_004718.3_1
+12616	12954	mat_peptide
+			product	nsp9-pp1a/pp1ab
+			product	ssRNA-binding protein
+			protein_id	NC_004718.3_1
+12955	13371	mat_peptide
+			product	formerly known as growth-factor-like protein [GFL]
+			product	nsp10-pp1a/pp1ab
+			protein_id	NC_004718.3_1
+13372	13398	mat_peptide
+13398	16166
+			product	RNA-dependent RNA polymerase
+			product	nsp12-pp1ab [RdRp]
+			protein_id	NC_004718.3_1
+13372	13410	mat_peptide
+			product	nsp11-pp1a
+			protein_id	NC_004718.3_2
+16167	17969	mat_peptide
+			product	nsp13-pp1ab [ZD, NTPase/HEL; RNA 5'-triphosphatase]
+			protein_id	NC_004718.3_1
+17970	19550	mat_peptide
+			product	3'-to-5' exonuclease
+			product	nsp14-pp1ab [nuclease ExoN homolog]
+			protein_id	NC_004718.3_1
+19551	20588	mat_peptide
+			product	endoRNAse
+			product	nsp15-pp1ab
+			product	uridylate-specific endoribonuclease NendoU
+			protein_id	NC_004718.3_1
+20589	21482	mat_peptide
+			product	2'-O-ribose methyltransferase [2'-o-MT]
+			product	nsp16-pp1ab
+			protein_id	NC_004718.3_1
+21492	25259	gene
+			gene	S
+21492	25259	CDS
+			product	E2 glycoprotein precursor
+			product	spike glycoprotein
+			protein_id	NC_004718.3_3
+25268	26092	gene
+25268	26092	CDS
+			product	hypothetical protein sars3a
+			protein_id	NC_004718.3_4
+25689	26153	gene
+25689	26153	CDS
+			product	hypothetical protein sars3b
+			protein_id	NC_004718.3_5
+26117	26347	gene
+			gene	E
+26117	26347	CDS
+			product	protein E
+			product	protein sM
+			product	small envelope protein
+			protein_id	NC_004718.3_6
+26398	27063	gene
+			gene	M
+26398	27063	CDS
+			product	matrix protein
+			protein_id	NC_004718.3_7
+26913	27265	gene
+27074	27265	CDS
+			product	hypothetical protein sars6
+			protein_id	NC_004718.3_8
+27273	27641	gene
+27273	27641	CDS
+			product	hypothetical protein sars7a
+			protein_id	NC_004718.3_9
+27638	27772	gene
+27638	27772	CDS
+			product	hypothetical protein sars7b
+			protein_id	NC_004718.3_10
+27779	27898	gene
+27779	27898	CDS
+			product	hypothetical protein sars8a
+			protein_id	NC_004718.3_11
+27864	28118	gene
+27864	28118	CDS
+			product	hypothetical protein sars8b
+			protein_id	NC_004718.3_12
+28120	29388	gene
+			gene	N
+28120	29388	CDS
+			product	nucleocapsid protein
+			protein_id	NC_004718.3_13
+28130	28426	gene
+28130	28426	CDS
+			product	hypothetical protein sars9b
+			protein_id	NC_004718.3_14

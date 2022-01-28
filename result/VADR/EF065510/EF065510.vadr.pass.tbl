@@ -1,0 +1,48 @@
+>Feature EF065510.1
+260	21798	gene
+			gene	orf1ab
+260	13681	CDS
+13681	21798
+			product	orf1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	EF065510.1_1
+21725	25798	gene
+			gene	S
+21725	25798	CDS
+			product	spike glycoprotein
+			protein_id	EF065510.1_2
+25761	26126	gene
+			gene	NS3a
+25761	26126	CDS
+			product	hypothetical protein
+			protein_id	EF065510.1_3
+26139	26498	gene
+			gene	NS3b
+26139	26498	CDS
+			product	hypothetical protein
+			protein_id	EF065510.1_4
+26380	27150	gene
+			gene	NS3c
+26380	27150	CDS
+			product	hypothetical protein
+			protein_id	EF065510.1_5
+27160	27831	gene
+			gene	NS3d
+27160	27831	CDS
+			product	hypothetical protein
+			protein_id	EF065510.1_6
+27909	28157	gene
+			gene	E
+27909	28157	CDS
+			product	small membrane protein
+			protein_id	EF065510.1_7
+28172	28834	gene
+			gene	M
+28172	28834	CDS
+			product	membrane glycoprotein
+			protein_id	EF065510.1_8
+28884	30167	gene
+			gene	N
+28884	30167	CDS
+			product	nucleocapsid phosphoprotein
+			protein_id	EF065510.1_9

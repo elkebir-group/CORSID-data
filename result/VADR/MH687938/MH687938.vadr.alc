@@ -1,0 +1,7 @@
+#     alert     causes   short                    per    num   num  long       
+#idx  code      failure  description             type  cases  seqs  description
+#---  --------  -------  ------------------  --------  -----  ----  -----------
+1     indfstrn  yes      INDEFINITE_STRAND   sequence      1     1  significant similarity detected on both strands
+2     lowsim3s  yes      LOW_SIMILARITY_END  sequence      1     1  significant similarity not detected at 3' end of the sequence
+3     lowsimis  yes      LOW_SIMILARITY      sequence      1     1  internal region without significant similarity
+#---  --------  -------  ------------------  --------  -----  ----  -----------

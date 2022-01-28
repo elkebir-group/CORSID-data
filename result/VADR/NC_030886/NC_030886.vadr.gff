@@ -1,0 +1,21 @@
+##gff-version 3
+NC_030886	vadr	gene	235	21155	.	+	.	ID=ftr-1;Name=ORF1ab;Gene=ORF1ab;
+NC_030886	vadr	region	13083	21155	.	+	.	ID=ftr-3;Name=ORF1ab protein;Gene=ORF1ab protein;Parent=ftr-1;Alias=NC_030886.1_1;
+NC_030886	vadr	gene	21121	24993	.	+	.	ID=ftr-4;Name=Spike;Gene=Spike;
+NC_030886	vadr	CDS	21121	24993	.	+	.	ID=ftr-5;Name=spike protein;Gene=spike protein;Parent=ftr-4;Alias=NC_030886.1_2;
+NC_030886	vadr	gene	24990	25676	.	+	.	ID=ftr-6;Name=NS3;Gene=NS3;
+NC_030886	vadr	CDS	24990	25676	.	+	.	ID=ftr-7;Name=NS3 protein;Gene=NS3 protein;Parent=ftr-6;Alias=NC_030886.1_3;
+NC_030886	vadr	gene	25676	25906	.	+	.	ID=ftr-8;Name=E;Gene=E;
+NC_030886	vadr	CDS	25676	25906	.	+	.	ID=ftr-9;Name=small envelope protein;Gene=small envelope protein;Parent=ftr-8;Alias=NC_030886.1_4;
+NC_030886	vadr	gene	25914	26579	.	+	.	ID=ftr-10;Name=M;Gene=M;
+NC_030886	vadr	CDS	25914	26579	.	+	.	ID=ftr-11;Name=membrane protein;Gene=membrane protein;Parent=ftr-10;Alias=NC_030886.1_5;
+NC_030886	vadr	gene	26627	27958	.	+	.	ID=ftr-12;Name=N;Gene=N;
+NC_030886	vadr	CDS	26627	27958	.	+	.	ID=ftr-13;Name=nucleocapsid protein;Gene=nucleocapsid protein;Parent=ftr-12;Alias=NC_030886.1_6;
+NC_030886	vadr	gene	27994	28269	.	+	.	ID=ftr-14;Name=p10;Gene=p10;
+NC_030886	vadr	CDS	27994	28269	.	+	.	ID=ftr-15;Name=putative p10 protein;Gene=putative p10 protein;Parent=ftr-14;Alias=NC_030886.1_7;
+NC_030886	vadr	gene	28287	28850	.	+	.	ID=ftr-16;Name=NS7a;Gene=NS7a;
+NC_030886	vadr	CDS	28287	28850	.	+	.	ID=ftr-17;Name=putative NS7a protein;Gene=putative NS7a protein;Parent=ftr-16;Alias=NC_030886.1_8;
+NC_030886	vadr	gene	28863	29444	.	+	.	ID=ftr-18;Name=NS7b;Gene=NS7b;
+NC_030886	vadr	CDS	28863	29444	.	+	.	ID=ftr-19;Name=putative NS7b protein;Gene=putative NS7b protein;Parent=ftr-18;Alias=NC_030886.1_9;
+NC_030886	vadr	gene	29444	29893	.	+	.	ID=ftr-20;Name=NS7c;Gene=NS7c;
+NC_030886	vadr	CDS	29444	29893	.	+	.	ID=ftr-21;Name=putative NS7c protein;Gene=putative NS7c protein;Parent=ftr-20;Alias=NC_030886.1_10;

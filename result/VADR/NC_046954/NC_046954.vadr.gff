@@ -1,0 +1,22 @@
+##gff-version 3
+NC_046954	vadr	region	13446	21596	.	+	.	ID=ftr-3;Name=polyprotein;Gene=polyprotein;Alias=NC_046954.1_1;
+NC_046954	vadr	gene	21606	21737	.	+	.	ID=ftr-4;Name=NS2a1;Gene=NS2a1;
+NC_046954	vadr	CDS	21606	21737	.	+	.	ID=ftr-5;Name=NS2a1 protein;Gene=NS2a1 protein;Parent=ftr-4;Alias=NC_046954.1_2;
+NC_046954	vadr	gene	21762	21952	.	+	.	ID=ftr-6;Name=NS2a2;Gene=NS2a2;
+NC_046954	vadr	CDS	21762	21952	.	+	.	ID=ftr-7;Name=NS2a2 protein;Gene=NS2a2 protein;Parent=ftr-6;Alias=NC_046954.1_3;
+NC_046954	vadr	gene	22059	22207	.	+	.	ID=ftr-8;Name=NS2a3;Gene=NS2a3;
+NC_046954	vadr	CDS	22059	22207	.	+	.	ID=ftr-9;Name=NS2a3 protein;Gene=NS2a3 protein;Parent=ftr-8;Alias=NC_046954.1_4;
+NC_046954	vadr	gene	22230	22448	.	+	.	ID=ftr-10;Name=NS2a4;Gene=NS2a4;
+NC_046954	vadr	CDS	22230	22448	.	+	.	ID=ftr-11;Name=NS2a4 protein;Gene=NS2a4 protein;Parent=ftr-10;Alias=NC_046954.1_5;
+NC_046954	vadr	gene	22460	23742	.	+	.	ID=ftr-12;Name=HE;Gene=HE;
+NC_046954	vadr	CDS	22460	23742	.	+	.	ID=ftr-13;Name=hemagglutinin-esterase protein;Gene=hemagglutinin-esterase protein;Parent=ftr-12;Alias=NC_046954.1_6;
+NC_046954	vadr	gene	23757	27842	.	+	.	ID=ftr-14;Name=S;Gene=S;
+NC_046954	vadr	CDS	23757	27842	.	+	.	ID=ftr-15;Name=spike protein;Gene=spike protein;Parent=ftr-14;Alias=NC_046954.1_7;
+NC_046954	vadr	gene	28452	28775	.	+	.	ID=ftr-16;Name=NS5a;Gene=NS5a;
+NC_046954	vadr	CDS	28452	28775	.	+	.	ID=ftr-17;Name=NS5a protein;Gene=NS5a protein;Parent=ftr-16;Alias=NC_046954.1_8;
+NC_046954	vadr	gene	28762	29035	.	+	.	ID=ftr-18;Name=E;Gene=E;
+NC_046954	vadr	CDS	28762	29035	.	+	.	ID=ftr-19;Name=envelope protein;Gene=envelope protein;Parent=ftr-18;Alias=NC_046954.1_9;
+NC_046954	vadr	gene	29032	29727	.	+	.	ID=ftr-20;Name=M;Gene=M;
+NC_046954	vadr	CDS	29032	29727	.	+	.	ID=ftr-21;Name=membrane protein;Gene=membrane protein;Parent=ftr-20;Alias=NC_046954.1_10;
+NC_046954	vadr	gene	29738	31093	.	+	.	ID=ftr-22;Name=N;Gene=N;
+NC_046954	vadr	CDS	29738	31093	.	+	.	ID=ftr-23;Name=nucleocapsid protein;Gene=nucleocapsid protein;Parent=ftr-22;Alias=NC_046954.1_11;

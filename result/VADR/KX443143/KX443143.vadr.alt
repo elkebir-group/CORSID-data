@@ -1,0 +1,5 @@
+#      seq                    ftr   ftr                    ftr  alert           alert                          seq  seq           mdl  mdl  alert 
+#idx   name        model      type  name                   idx  code      fail  description                 coords  len        coords  len  detail
+#----  ----------  ---------  ----  ---------------------  ---  --------  ----  --------------------  ------------  ---  ------------  ---  ------
+1.1.1  KX443143.2  NC_039208  -     -                        -  lowsim5s  yes   LOW_SIMILARITY_START        1..7:+    7        0..0:+    1  significant similarity not detected at 5' end of the sequence [low similarity region of length 7]
+1.2.1  KX443143.2  NC_039208  CDS   replicase_polyprotein    2  fstukcfi  yes   POSSIBLE_FRAMESHIFT   7983..7995:+   13  7991..8003:+   13  possible frameshift in CDS (frame restored before end) [cause:insert,S:7983(1),M:7990; restore:delete,S:7995,M:8003(1); frame:1(2)1; length:7443:(13):11333;]

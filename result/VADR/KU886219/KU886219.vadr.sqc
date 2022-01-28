@@ -1,0 +1,4 @@
+#seq  seq           seq                              sub                     seq    mdl         num                        sub    score  diff/  seq   
+#idx  name          len  p/f   ant  model1     grp1  grp1    score  sc/nt    cov    cov  bias  hits  str  model2     grp2  grp2    diff     nt  alerts
+#---  ----------  -----  ----  ---  ---------  ----  ----  -------  -----  -----  -----  ----  ----  ---  ---------  ----  ----  ------  -----  ------
+1     KU886219.1  30975  FAIL  yes  NC_003045  -     -     55542.0  1.793  1.000  0.998     0     1    +  NC_006213  -     -     4878.7  0.142  -     

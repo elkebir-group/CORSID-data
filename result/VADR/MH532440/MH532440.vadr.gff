@@ -1,0 +1,15 @@
+##gff-version 3
+MH532440	vadr	gene	496	19277	.	+	.	ID=ftr-1;Name=orf1ab;Gene=orf1ab;
+MH532440	vadr	region	11355	19277	.	+	.	ID=ftr-3;Name=replicase polyprotein;Gene=replicase polyprotein;Parent=ftr-1;Alias=MH532440.1_1;
+MH532440	vadr	gene	19259	22789	.	+	.	ID=ftr-4;Name=S;Gene=S;
+MH532440	vadr	CDS	19259	22789	.	+	.	ID=ftr-5;Name=spike glycoprotein;Gene=spike glycoprotein;Parent=ftr-4;Alias=MH532440.1_2;
+MH532440	vadr	gene	22783	23034	.	+	.	ID=ftr-6;Name=E;Gene=E;
+MH532440	vadr	CDS	22783	23034	.	+	.	ID=ftr-7;Name=envelope protein;Gene=envelope protein;Parent=ftr-6;Alias=MH532440.1_3;
+MH532440	vadr	gene	23027	23680	.	+	.	ID=ftr-8;Name=M;Gene=M;
+MH532440	vadr	CDS	23027	23680	.	+	.	ID=ftr-9;Name=membrane protein;Gene=membrane protein;Parent=ftr-8;Alias=MH532440.1_4;
+MH532440	vadr	gene	23680	23965	.	+	.	ID=ftr-10;Name=NS6;Gene=NS6;
+MH532440	vadr	CDS	23680	23965	.	+	.	ID=ftr-11;Name=NS6 protein;Gene=NS6 protein;Parent=ftr-10;Alias=MH532440.1_5;
+MH532440	vadr	gene	23986	25011	.	+	.	ID=ftr-12;Name=N;Gene=N;
+MH532440	vadr	CDS	23986	25011	.	+	.	ID=ftr-13;Name=nucleocapsid protein;Gene=nucleocapsid protein;Parent=ftr-12;Alias=MH532440.1_6;
+MH532440	vadr	gene	24080	24682	.	+	.	ID=ftr-14;Name=NS7;Gene=NS7;
+MH532440	vadr	CDS	24080	24682	.	+	.	ID=ftr-15;Name=NS7 protein;Gene=NS7 protein;Parent=ftr-14;Alias=MH532440.1_7;

@@ -1,0 +1,4 @@
+#seq  seq           seq             best            sub                             seq   
+#idx  name          len  p/f   ant  model      grp  grp  nfa  nfn  nf5  nf3  nfalt  alerts
+#---  ----------  -----  ----  ---  ---------  ---  ---  ---  ---  ---  ---  -----  ------
+1     KF906249.1  31052  FAIL  yes  NC_003045  -    -     37    0    0    0     10  LOW_SIMILARITY_END(lowsim3s)

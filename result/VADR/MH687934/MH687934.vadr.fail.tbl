@@ -1,0 +1,31 @@
+>Feature MH687934.1
+248	20628	gene
+248	12604	CDS
+12604	20628
+			product	ORF1
+			protein_id	MH687934.1_1
+20625	24743	gene
+20625	24743	CDS
+			product	spike protein
+			protein_id	MH687934.1_2
+24743	25417	gene
+24743	25417	CDS
+			product	putative ORF3
+			protein_id	MH687934.1_3
+25398	25628	gene
+25398	25628	CDS
+			product	envelope protein
+			protein_id	MH687934.1_4
+25634	26320	gene
+25634	26320	CDS
+			product	matrix protein
+			protein_id	MH687934.1_5
+26331	27515	gene
+26331	27515	CDS
+			product	nucleocapsid protein
+			protein_id	MH687934.1_6
+
+Additional note(s) to submitter:
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 11]; seq-coords:28239..28249:+; mdl-coords:28179..28189:+; mdl:NC_009657;
+ERROR: LOW_SIMILARITY: (*sequence*) internal region without significant similarity [low similarity region of length 130]; seq-coords:27626..27755:+; mdl-coords:27667..27694:+; mdl:NC_009657;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:matrix protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [6>5]; seq-coords:25634..25639:+; mdl-coords:25678..25678:+; mdl:NC_009657;

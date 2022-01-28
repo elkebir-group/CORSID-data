@@ -1,0 +1,16 @@
+#       seq           seq                   ftr   ftr                        ftr  num  sgm    seq    seq    mdl    mdl    sgm            5'  3'  5'   3' 
+#idx    name          len  p/f   model      type  name                       idx  sgm  idx   from     to   from     to    len  str  trc  pp  pp  gap  gap
+#-----  ----------  -----  ----  ---------  ----  -------------------------  ---  ---  ---  -----  -----  -----  -----  -----  ---  ---  --  --  ---  ---
+1.1.1   KY770851.1  28096  FAIL  NC_028811  gene  gene.1                       1    1    1    298  20390    299  20286  20093    +  no    ?   ?  no   no 
+1.2.1   KY770851.1  28096  FAIL  NC_028811  CDS   ORF1ab_polyprotein           2    2    1    298  12345    299  12238  12048    +  no    ?   ?  no   no 
+1.2.2   KY770851.1  28096  FAIL  NC_028811  CDS   ORF1ab_polyprotein           2    2    2  12345  20390  12238  20286   8046    +  no    ?   ?  no   no 
+1.3.1   KY770851.1  28096  FAIL  NC_028811  gene  gene.2                       3    1    1  20392  24579  20288  24451   4188    +  no    ?   ?  no   no 
+1.4.1   KY770851.1  28096  FAIL  NC_028811  CDS   spike_glycoprotein           4    1    1  20392  24579  20288  24451   4188    +  no    ?   ?  no   no 
+1.5.1   KY770851.1  28096  FAIL  NC_028811  gene  gene.3                       5    1    1  24576  25235  24448  25107    660    +  no    ?   ?  no   no 
+1.6.1   KY770851.1  28096  FAIL  NC_028811  CDS   hypothetical_protein_ORF3    6    1    1  24576  25235  24448  25107    660    +  no    ?   ?  no   no 
+1.7.1   KY770851.1  28096  FAIL  NC_028811  gene  gene.4                       7    1    1  25242  25472  25109  25339    231    +  no    ?   ?  no   no 
+1.8.1   KY770851.1  28096  FAIL  NC_028811  CDS   small_envelope_protein       8    1    1  25242  25472  25109  25339    231    +  no    ?   ?  no   no 
+1.9.1   KY770851.1  28096  FAIL  NC_028811  gene  gene.5                       9    1    1  25482  26168  25349  26032    687    +  no    ?   ?  no   no 
+1.10.1  KY770851.1  28096  FAIL  NC_028811  CDS   membrane_glycoprotein       10    1    1  25482  26168  25349  26032    687    +  no    ?   ?  no   no 
+1.11.1  KY770851.1  28096  FAIL  NC_028811  gene  gene.6                      11    1    1  26177  27478  26041  27330   1302    +  no    ?   ?  no   no 
+1.12.1  KY770851.1  28096  FAIL  NC_028811  CDS   nucleocapsid_protein        12    1    1  26177  27478  26041  27330   1302    +  no    ?   ?  no   no 

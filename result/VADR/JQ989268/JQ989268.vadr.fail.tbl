@@ -1,0 +1,51 @@
+>Feature JQ989268.1
+303	20647	gene
+303	12620	CDS
+12620	20647
+			product	orf1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	JQ989268.1_1
+20644	24699	gene
+20644	24699	CDS
+			product	spike glycoprotein
+			protein_id	JQ989268.1_2
+24699	25355	gene
+24699	25355	CDS
+			product	non-structural protein NS3
+			protein_id	JQ989268.1_3
+25384	25611	gene
+25384	25611	CDS
+			product	envelope protein
+			protein_id	JQ989268.1_4
+25617	26297	gene
+25617	26297	CDS
+			product	membrane protein
+			protein_id	JQ989268.1_5
+26309	27508	gene
+26309	27508	CDS
+			product	nucleocapsid protein
+			protein_id	JQ989268.1_6
+27524	27766	gene
+27524	27766	CDS
+			product	non-structural protein NS7a
+			protein_id	JQ989268.1_7
+27776	28237	gene
+27776	28237	CDS
+			product	non-structural protein NS7b
+			protein_id	JQ989268.1_8
+27975	28205	gene
+27975	28205	CDS
+			product	non-structural protein NS7c
+			protein_id	JQ989268.1_9
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike glycoprotein) possible frameshift in CDS (frame restored before end) [cause:insert,S:20725..20729(5),M:20721; restore:insert,S:20748(1),M:20739; frame:1(3)131312131213121; length:81:(24):86:12:49:11:102:32:170:12:946:42:178:29:395:11:1876;]; seq-coords:20725..20748:+; mdl-coords:20722..20739:+; mdl:NC_018871;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike glycoprotein) possible frameshift in CDS (frame restored before end) [cause:delete,S:20834,M:20835(1); restore:insert,S:20846(1),M:20846; frame:131(3)1312131213121; length:81:24:86:(12):49:11:102:32:170:12:946:42:178:29:395:11:1876;]; seq-coords:20835..20846:+; mdl-coords:20835..20846:+; mdl:NC_018871;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike glycoprotein) possible frameshift in CDS (frame restored before end) [cause:delete,S:20895,M:20896(1); restore:insert,S:20906(1),M:20906; frame:13131(3)12131213121; length:81:24:86:12:49:(11):102:32:170:12:946:42:178:29:395:11:1876;]; seq-coords:20896..20906:+; mdl-coords:20896..20906:+; mdl:NC_018871;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike glycoprotein) possible frameshift in CDS (frame restored before end) [cause:delete,S:21008,M:21009..21013(5); restore:delete,S:21040,M:21046(1); frame:1313131(2)131213121; length:81:24:86:12:49:11:102:(32):170:12:946:42:178:29:395:11:1876;]; seq-coords:21009..21040:+; mdl-coords:21009..21046:+; mdl:NC_018871;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike glycoprotein) possible frameshift in CDS (frame restored before end) [cause:delete,S:21210,M:21217(1); restore:insert,S:21222(1),M:21228; frame:131313121(3)1213121; length:81:24:86:12:49:11:102:32:170:(12):946:42:178:29:395:11:1876;]; seq-coords:21211..21222:+; mdl-coords:21217..21228:+; mdl:NC_018871;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike glycoprotein) possible frameshift in CDS (frame restored before end) [cause:insert,S:22169..22172(4),M:22174; restore:insert,S:22209..22210(2),M:22210; frame:13131312131(2)13121; length:81:24:86:12:49:11:102:32:170:12:946:(42):178:29:395:11:1876;]; seq-coords:22169..22210:+; mdl-coords:22175..22210:+; mdl:NC_018871;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike glycoprotein) possible frameshift in CDS (frame restored before end) [cause:delete,S:22388,M:22395(1); restore:insert,S:22417(1),M:22423; frame:1313131213121(3)121; length:81:24:86:12:49:11:102:32:170:12:946:42:178:(29):395:11:1876;]; seq-coords:22389..22417:+; mdl-coords:22395..22423:+; mdl:NC_018871;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike glycoprotein) possible frameshift in CDS (frame restored before end) [cause:insert,S:22813..22819(7),M:22818; restore:delete,S:22823,M:22823(1); frame:131313121312131(2)1; length:81:24:86:12:49:11:102:32:170:12:946:42:178:29:395:(11):1876;]; seq-coords:22813..22823:+; mdl-coords:22819..22823:+; mdl:NC_018871;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:membrane protein) possible frameshift in CDS (frame restored before end) [cause:delete,S:25627,M:25619(1); restore:delete,S:25645,M:25638..25645(8); frame:1(3)1; length:11:(18):652;]; seq-coords:25628..25645:+; mdl-coords:25619..25645:+; mdl:NC_018871;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:membrane protein) protein-based alignment extends past nucleotide-based alignment at 5' end [-]; seq-coords:25608..25616:+; mdl-coords:25608..25608:+; mdl:NC_018871;

@@ -1,0 +1,4 @@
+#seq  seq           seq                              sub                     seq    mdl         num                        sub    score  diff/  seq   
+#idx  name          len  p/f   ant  model1     grp1  grp1    score  sc/nt    cov    cov  bias  hits  str  model2     grp2  grp2    diff     nt  alerts
+#---  ----------  -----  ----  ---  ---------  ----  ----  -------  -----  -----  -----  ----  ----  ---  ---------  ----  ----  ------  -----  ------
+1     KR270796.1  27765  FAIL  yes  NC_028806  -     -     38169.1  1.552  0.886  0.875     0     4    +  NC_002306  -     -     9084.5  0.490  UNJOINABLE_SUBSEQ_ALIGNMENTS(unjoinbl),LOW_COVERAGE(lowcovrg),LOW_SIMILARITY_START(lowsim5s)

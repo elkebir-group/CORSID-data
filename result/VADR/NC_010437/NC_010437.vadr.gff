@@ -1,0 +1,14 @@
+##gff-version 3
+NC_010437	vadr	gene	272	21069	.	+	.	ID=ftr-1;Name=ORF1ab;Gene=ORF1ab;
+NC_010437	vadr	region	13048	21069	.	+	.	ID=ftr-3;Name=ORF1ab polyprotein;Gene=ORF1ab polyprotein;Parent=ftr-1;Alias=NC_010437.1_1;
+NC_010437	vadr	CDS	272	13078	.	+	.	ID=ftr-4;Name=ORF1a polyprotein;Gene=ORF1a polyprotein;Parent=ftr-1;Alias=NC_010437.1_2;
+NC_010437	vadr	gene	21071	25198	.	+	.	ID=ftr-5;Name=S;Gene=S;
+NC_010437	vadr	CDS	21071	25198	.	+	.	ID=ftr-6;Name=spike protein;Gene=spike protein;Parent=ftr-5;Alias=NC_010437.1_3;
+NC_010437	vadr	gene	25198	25857	.	+	.	ID=ftr-7;Name=ORF3;Gene=ORF3;
+NC_010437	vadr	CDS	25198	25857	.	+	.	ID=ftr-8;Name=ORF3 protein;Gene=ORF3 protein;Parent=ftr-7;Alias=NC_010437.1_4;
+NC_010437	vadr	gene	25851	26075	.	+	.	ID=ftr-9;Name=E;Gene=E;
+NC_010437	vadr	CDS	25851	26075	.	+	.	ID=ftr-10;Name=envelope protein;Gene=envelope protein;Parent=ftr-9;Alias=NC_010437.1_5;
+NC_010437	vadr	gene	26082	26849	.	+	.	ID=ftr-11;Name=M;Gene=M;
+NC_010437	vadr	CDS	26082	26849	.	+	.	ID=ftr-12;Name=membrane protein;Gene=membrane protein;Parent=ftr-11;Alias=NC_010437.1_6;
+NC_010437	vadr	gene	26870	28039	.	+	.	ID=ftr-13;Name=N;Gene=N;
+NC_010437	vadr	CDS	26870	28039	.	+	.	ID=ftr-14;Name=nucleocapsid protein;Gene=nucleocapsid protein;Parent=ftr-13;Alias=NC_010437.1_7;

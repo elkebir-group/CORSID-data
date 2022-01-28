@@ -1,0 +1,43 @@
+>Feature NC_026011.1
+213	21637	gene
+213	13484	CDS
+13484	21637
+			product	replicase polyprotein
+			exception	ribosomal slippage
+			protein_id	NC_026011.1_1
+21639	22469	gene
+21639	22469	CDS
+			product	non-structural protein NS2a
+			protein_id	NC_026011.1_2
+22484	23761	gene
+22484	23761	CDS
+			product	hemagglutinin-esterase protein
+			protein_id	NC_026011.1_3
+23777	27853	gene
+23777	27853	CDS
+			product	spike glycoprotein
+			protein_id	NC_026011.1_4
+27946	28356	gene
+27946	28356	CDS
+			product	non-structural protein NS4
+			protein_id	NC_026011.1_5
+28338	28652	gene
+28338	28652	CDS
+			product	non-structural protein NS5
+			protein_id	NC_026011.1_6
+28645	28893	gene
+28645	28893	CDS
+			product	envelope protein
+			protein_id	NC_026011.1_7
+28908	29603	gene
+28908	29603	CDS
+			product	membrane protein
+			protein_id	NC_026011.1_8
+29596	30288	gene
+29596	30288	CDS
+			product	internal protein
+			protein_id	NC_026011.1_9
+29613	30944	gene
+29613	30944	CDS
+			product	nucleocapsid protein
+			protein_id	NC_026011.1_10

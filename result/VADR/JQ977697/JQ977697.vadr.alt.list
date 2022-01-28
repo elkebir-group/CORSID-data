@@ -1,0 +1,5 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+JQ977697.1	NC_001451	CDS	spike protein	POSSIBLE_FRAMESHIFT	20556..20565:+	20550..20559:+	possible frameshift in CDS (frame restored before end) [cause:delete,S:20555,M:20550..20551(2); restore:insert,S:20564..20565(2),M:20559; frame:1(2)131; length:182:(10):195:10:3113;]
+JQ977697.1	NC_001451	CDS	spike protein	POSSIBLE_FRAMESHIFT	20761..20770:+	20749..20758:+	possible frameshift in CDS (frame restored before end) [cause:delete,S:20760,M:20749(1); restore:insert,S:20770(1),M:20758; frame:121(3)1; length:182:10:195:(10):3113;]
+JQ977697.1	NC_001451	CDS	spike protein	INDEFINITE_ANNOTATION_START	20374..20418:+	20368..20368:+	protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [45>5]
+JQ977697.1	NC_001451	CDS	membrane protein	INDEFINITE_ANNOTATION_START	24532..24546:+	24505..24505:+	protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [15>5]

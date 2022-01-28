@@ -1,0 +1,4 @@
+#seq  seq           seq             best            sub                             seq   
+#idx  name          len  p/f   ant  model      grp  grp  nfa  nfn  nf5  nf3  nfalt  alerts
+#---  ----------  -----  ----  ---  ---------  ---  ---  ---  ---  ---  ---  -----  ------
+1     MK472068.1  27435  FAIL  yes  NC_028833  -    -     12    0    0    0     32  LOW_COVERAGE(lowcovrg),LOW_SIMILARITY_START(lowsim5s),LOW_SIMILARITY_END(lowsim3s)

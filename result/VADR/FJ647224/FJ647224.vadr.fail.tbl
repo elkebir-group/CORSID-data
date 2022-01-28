@@ -1,0 +1,128 @@
+>Feature FJ647224.1
+187	21689	gene
+			gene	orf1ab
+187	13545	CDS
+13545	21689
+			product	orf1ab
+			exception	ribosomal slippage
+			protein_id	FJ647224.1_1
+187	13566	CDS
+			product	pp1a polyprotein
+			protein_id	FJ647224.1_2
+187	927	mat_peptide
+			product	nsp1 or p28
+			protein_id	FJ647224.1_2
+928	2682	mat_peptide
+			product	nsp2 or p65
+			protein_id	FJ647224.1_2
+2683	8664	mat_peptide
+			product	nsp3 or p210
+			protein_id	FJ647224.1_2
+8665	10152	mat_peptide
+			product	nsp4 or p44
+			protein_id	FJ647224.1_2
+10153	11061	mat_peptide
+			product	nsp5 or 3CLpro
+			protein_id	FJ647224.1_2
+11062	11922	mat_peptide
+			product	nsp6
+			protein_id	FJ647224.1_2
+11923	12198	mat_peptide
+			product	nsp7
+			protein_id	FJ647224.1_2
+12199	12780	mat_peptide
+			product	nsp8
+			protein_id	FJ647224.1_2
+12781	13110	mat_peptide
+			product	nsp9; ssRNA-binding protein
+			protein_id	FJ647224.1_2
+13111	13521	mat_peptide
+			product	nsp10
+			protein_id	FJ647224.1_2
+13522	13545	mat_peptide
+13545	16304
+			product	nsp12; RNA-dependent RNA polymerase
+			protein_id	FJ647224.1_1
+13522	13563	mat_peptide
+			product	nsp11
+			protein_id	FJ647224.1_2
+16305	18104	mat_peptide
+			product	nsp13; zinc-binding domain and helicase
+			protein_id	FJ647224.1_1
+18105	19667	mat_peptide
+			product	nsp14; exoribonuclease
+			protein_id	FJ647224.1_1
+19668	20789	mat_peptide
+			product	nsp15; endoribonuclease
+			protein_id	FJ647224.1_1
+20790	21686	mat_peptide
+			product	nsp16; 2'-0-ribose methyltransferase
+			protein_id	FJ647224.1_1
+21703	22500	gene
+21703	22500	CDS
+			product	p30 accessory protein
+			protein_id	FJ647224.1_3
+22546	23875	gene
+22546	23875	CDS
+			product	hemagglutinin-esterase glycoprotein [HE]
+			protein_id	FJ647224.1_4
+23883	28016	gene
+23883	28016	CDS
+			product	spike glycoprotein [S]
+			protein_id	FJ647224.1_5
+28110	28529	gene
+28110	28529	CDS
+			product	accessory protein 4
+			protein_id	FJ647224.1_6
+28511	28834	gene
+28511	28834	CDS
+			product	accessory protein 5a
+			protein_id	FJ647224.1_7
+28827	29093	gene
+28827	29093	CDS
+			product	envelop protein [E]
+			protein_id	FJ647224.1_8
+29090	29776	gene
+29090	29776	CDS
+			product	membrane protein [M]
+			protein_id	FJ647224.1_9
+29791	31164	gene
+29791	31164	CDS
+			product	nucleocapsid protein [N]
+			protein_id	FJ647224.1_10
+30068	30478	gene
+30068	30478	CDS
+			product	putative internal [I] ORF
+			protein_id	FJ647224.1_11
+
+Additional note(s) to submitter:
+ERROR: DELETION_OF_NT: (CDS:orf1ab) too large of a deletion in protein-based alignment [30>27]; seq-coords:6474..6474:+; mdl-coords:6512..6541:+; mdl:AC_000192;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:orf1ab) possible frameshift in CDS (frame restored before end) [cause:insert,S:5399(1),M:5423; restore:delete,S:5412,M:5437(1); frame:1(2)12131; length:5212:(14):1039:10:11688:30:3511;]; seq-coords:5399..5412:+; mdl-coords:5424..5437:+; mdl:AC_000192;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:orf1ab) possible frameshift in CDS (frame restored before end) [cause:delete,S:6451,M:6495..6508(14); restore:delete,S:6461,M:6519..6525(7); frame:121(2)131; length:5212:14:1039:(10):11688:30:3511;]; seq-coords:6452..6461:+; mdl-coords:6495..6525:+; mdl:AC_000192;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:orf1ab) possible frameshift in CDS (frame restored before end) [cause:delete,S:18148,M:18222(1); restore:insert,S:18178(1),M:18245; frame:12121(3)1; length:5212:14:1039:10:11688:(30):3511;]; seq-coords:18149..18178:+; mdl-coords:18222..18245:+; mdl:AC_000192;
+ERROR: DELETION_OF_NT: (CDS:pp1a polyprotein) too large of a deletion in protein-based alignment [30>27]; seq-coords:6474..6474:+; mdl-coords:6512..6541:+; mdl:AC_000192;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:pp1a polyprotein) possible frameshift in CDS (frame restored before end) [cause:insert,S:5399(1),M:5423; restore:delete,S:5412,M:5437(1); frame:1(2)121; length:5212:(14):1039:10:7105;]; seq-coords:5399..5412:+; mdl-coords:5424..5437:+; mdl:AC_000192;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:pp1a polyprotein) possible frameshift in CDS (frame restored before end) [cause:delete,S:6451,M:6495..6508(14); restore:delete,S:6461,M:6519..6525(7); frame:121(2)1; length:5212:14:1039:(10):7105;]; seq-coords:6452..6461:+; mdl-coords:6495..6525:+; mdl:AC_000192;
+ERROR: CDS_HAS_STOP_CODON: (CDS:hemagglutinin-esterase glycoprotein [HE]) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAA, shifted S:1231,M:1232]; seq-coords:22642..22644:+; mdl-coords:22698..22700:+; mdl:AC_000192;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:hemagglutinin-esterase glycoprotein [HE]) possible frameshift in CDS (frame not restored before end) [cause:insert,S:22548..22552(5),M:22614; frame:1(3232); length:2:(57:14:288:969); intermediate:delete,S:22604,M:22661(1);insert,S:22619(1),M:22675;delete,S:22906,M:22963(1);]; seq-coords:22548..23875:+; mdl-coords:22615..23932:+; mdl:AC_000192;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:hemagglutinin-esterase glycoprotein [HE]) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [361>5]; seq-coords:22546..22906:+; mdl-coords:22613..22613:+; mdl:AC_000192;
+ERROR: MUTATION_AT_START: (CDS:hemagglutinin-esterase glycoprotein [HE]) expected start codon could not be identified [ATA]; seq-coords:22546..22548:+; mdl-coords:22613..22614:+; mdl:AC_000192;
+ERROR: UNEXPECTED_LENGTH: (CDS:hemagglutinin-esterase glycoprotein [HE]) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [1330]; seq-coords:22546..23875:+; mdl-coords:22613..23932:+; mdl:AC_000192;
+ERROR: CDS_HAS_STOP_CODON: (CDS:accessory protein 4) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAA, shifted S:315,M:315]; seq-coords:28212..28214:+; mdl-coords:28264..28266:+; mdl:AC_000192;
+ERROR: CDS_HAS_STOP_CODON: (CDS:accessory protein 4) stop codon in protein-based alignment [-]; seq-coords:28212..28214:+; mdl-coords:28264..28266:+; mdl:AC_000192;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:nsp12; RNA-dependent RNA polymerase) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:AC_000192;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:nsp13; zinc-binding domain and helicase) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:AC_000192;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:nsp14; exoribonuclease) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:AC_000192;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:nsp15; endoribonuclease) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:AC_000192;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:nsp16; 2'-0-ribose methyltransferase) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:AC_000192;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:nsp1 or p28) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:AC_000192;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:nsp2 or p65) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:AC_000192;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:nsp3 or p210) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:AC_000192;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:nsp4 or p44) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:AC_000192;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:nsp5 or 3CLpro) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:AC_000192;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:nsp6) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:AC_000192;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:nsp7) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:AC_000192;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:nsp8) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:AC_000192;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:nsp9; ssRNA-binding protein) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:AC_000192;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:nsp10) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:AC_000192;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:nsp11) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:AC_000192;

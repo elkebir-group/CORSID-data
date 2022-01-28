@@ -1,0 +1,31 @@
+>Feature MK211370.1
+260	20640	gene
+260	12616	CDS
+12616	20640
+			product	ORF1
+			protein_id	MK211370.1_1
+20637	24755	gene
+20637	24755	CDS
+			product	spike protein
+			protein_id	MK211370.1_2
+24755	25429	gene
+24755	25429	CDS
+			product	putative ORF3
+			protein_id	MK211370.1_3
+25410	25640	gene
+25410	25640	CDS
+			product	envelope protein
+			protein_id	MK211370.1_4
+25647	26333	gene
+25647	26333	CDS
+			product	matrix protein
+			protein_id	MK211370.1_5
+26344	27528	gene
+26344	27528	CDS
+			product	nucleocapsid protein
+			protein_id	MK211370.1_6
+
+Additional note(s) to submitter:
+ERROR: LOW_SIMILARITY: (*sequence*) internal region without significant similarity [low similarity region of length 133]; seq-coords:27639..27771:+; mdl-coords:27667..27695:+; mdl:NC_009657;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:ORF1) possible frameshift in CDS (frame restored before end) [cause:insert,S:16167(1),M:16200; restore:delete,S:16177,M:16211(1); frame:1(2)1; length:15908:(11):4463;]; seq-coords:16167..16177:+; mdl-coords:16201..16211:+; mdl:NC_009657;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:matrix protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [6>5]; seq-coords:25647..25652:+; mdl-coords:25678..25678:+; mdl:NC_009657;

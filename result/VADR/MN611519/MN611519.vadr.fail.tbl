@@ -1,0 +1,52 @@
+>Feature MN611519.1
+259	21647	gene
+			gene	orf1ab
+259	13575	CDS
+13575	21647
+			product	orf1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	MN611519.1_1
+21592	25650	gene
+			gene	S
+21592	25650	CDS
+			product	spike glycoprotein
+			protein_id	MN611519.1_2
+25677	25952	gene
+			gene	NS3a
+25677	25952	CDS
+			product	hypothetical protein
+			protein_id	MN611519.1_3
+25970	26329	gene
+			gene	NS3b
+25970	26329	CDS
+			product	hypothetical protein
+			protein_id	MN611519.1_4
+26133	26990	gene
+			gene	NS3c
+26133	26990	CDS
+			product	hypothetical protein
+			protein_id	MN611519.1_5
+27006	27689	gene
+			gene	NS3d
+27006	27689	CDS
+			product	hypothetical protein
+			protein_id	MN611519.1_6
+27759	28007	gene
+			gene	E
+27759	28007	CDS
+			product	small membrane protein
+			protein_id	MN611519.1_7
+28022	28681	gene
+			gene	M
+28022	28681	CDS
+			product	membrane glycoprotein
+			protein_id	MN611519.1_8
+28719	29990	gene
+			gene	N
+28719	29990	CDS
+			product	nucleocapsid phosphoprotein
+			protein_id	MN611519.1_9
+
+Additional note(s) to submitter:
+ERROR: INSERTION_OF_NT: (CDS:orf1ab polyprotein) too large of an insertion in nucleotide-based alignment of CDS feature [30>27]; seq-coords:3325..3354:+; mdl-coords:3332..3332:+; mdl:NC_009019;
+ERROR: INSERTION_OF_NT: (CDS:orf1ab polyprotein) too large of an insertion in protein-based alignment [30>27]; seq-coords:3327..3356:+; mdl-coords:3335..3335:+; mdl:NC_009019;

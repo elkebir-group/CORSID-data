@@ -1,0 +1,119 @@
+>Feature MN514966.1
+201	21484	gene
+			gene	orf1ab
+201	13331	CDS
+13331	21484
+			product	orf1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	MN514966.1_1
+201	13352	CDS
+			product	orf1a polyprotein
+			protein_id	MN514966.1_2
+201	938	mat_peptide
+			product	Leader protein
+			protein_id	MN514966.1_1
+939	2753	mat_peptide
+			product	MHV p65-like protein
+			protein_id	MN514966.1_1
+2754	8450	mat_peptide
+			product	coronavirus nsp1 [PL1-PRO, PL2-PRO, HD]
+			protein_id	MN514966.1_1
+8451	9938	mat_peptide
+			product	transmembrane domain 2
+			protein_id	MN514966.1_1
+9939	10847	mat_peptide
+			product	coronavirus nsp2 [3CL-PRO]
+			protein_id	MN514966.1_1
+10848	11708	mat_peptide
+			product	coronavirus nsp3 [HD2]
+			product	hydrophobic domain
+			protein_id	MN514966.1_1
+11709	11975	mat_peptide
+			product	coronavirus nsp4
+			protein_id	MN514966.1_1
+11976	12566	mat_peptide
+			product	coronavirus nsp5
+			protein_id	MN514966.1_1
+12567	12896	mat_peptide
+			product	coronavirus nsp6
+			protein_id	MN514966.1_1
+12897	13307	mat_peptide
+			product	coronavirus nsp7 [GFL]
+			product	growth-factor-like protein
+			protein_id	MN514966.1_1
+13308	13331	mat_peptide
+13331	16090
+			product	RNA-dependent RNA polymerase
+			product	coronavirus nsp9 [RdRp]
+			protein_id	MN514966.1_1
+16091	17899	mat_peptide
+			product	coronavirus nsp10 [MB, NTPase/HEL]
+			product	metal-binding domain, NTPase/helicase domain
+			protein_id	MN514966.1_1
+17900	19462	mat_peptide
+			product	coronavirus nsp11
+			protein_id	MN514966.1_1
+19463	20584	mat_peptide
+			product	coronavirus nsp12
+			protein_id	MN514966.1_1
+20585	21481	mat_peptide
+			product	coronavirus nsp13
+			protein_id	MN514966.1_1
+21494	22330	gene
+			gene	NS
+21494	22330	CDS
+			product	32 kDa non-structural protein
+			protein_id	MN514966.1_3
+22342	23616	gene
+			gene	HE
+22342	23616	CDS
+			product	hemmaglutinin-esterase
+			protein_id	MN514966.1_4
+23631	27731	gene
+			gene	S
+23631	27731	CDS
+			product	spike structural protein
+			protein_id	MN514966.1_5
+27721	27822	gene
+27721	27822	CDS
+			product	4.9 kDa non-structural protein
+			protein_id	MN514966.1_6
+27909	28054	gene
+27909	28054	CDS
+			product	4.8 kDa non-structural protein
+			protein_id	MN514966.1_7
+28155	28484	gene
+28155	28484	CDS
+			product	12.7 kDa non-structural protein
+			protein_id	MN514966.1_8
+28471	28725	gene
+			gene	E
+28471	28725	CDS
+			product	small membrane protein
+			protein_id	MN514966.1_9
+28739	29431	gene
+			gene	M
+28739	29431	CDS
+			product	matrix protein
+			protein_id	MN514966.1_10
+29441	30787	gene
+			gene	N
+29441	30787	CDS
+			product	nucleocapsid protein
+			protein_id	MN514966.1_11
+29502	30125	CDS
+			product	hypothetical protein
+			protein_id	MN514966.1_12
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:4.9 kDa non-structural protein) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [30>5, no valid stop codon in nucleotide-based prediction]; seq-coords:27793..27822:+; mdl-coords:27811..27811:+; mdl:NC_003045;
+ERROR: MUTATION_AT_END: (CDS:4.9 kDa non-structural protein) expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAG]; seq-coords:27946..27948:+; mdl-coords:27924..27926:+; mdl:NC_003045;
+ERROR: CDS_HAS_STOP_CODON: (CDS:4.8 kDa non-structural protein) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:74,M:73]; seq-coords:27978..27980:+; mdl-coords:27951..27953:+; mdl:NC_003045;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:4.8 kDa non-structural protein) possible frameshift in CDS (frame restored before end) [cause:delete,S:27912,M:27893..27894(2); restore:insert,S:27930..27934(5),M:27911; frame:1(2)13213; length:4:(22):7:31:44:18:20;]; seq-coords:27913..27934:+; mdl-coords:27893..27911:+; mdl:NC_003045;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:4.8 kDa non-structural protein) possible frameshift in CDS (frame restored before end) [cause:delete,S:27941,M:27919(1); restore:insert,S:28015..28016(2),M:27987; frame:121(32)13; length:4:22:7:(31:44):18:20; intermediate:insert,S:27973..27977(5),M:27950;]; seq-coords:27942..28016:+; mdl-coords:27919..27987:+; mdl:NC_003045;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:4.8 kDa non-structural protein) possible frameshift in CDS (frame not restored before end) [cause:delete,S:28034,M:28006(1); frame:121321(3); length:4:22:7:31:44:18:(20);]; seq-coords:28035..28054:+; mdl-coords:28006..28026:+; mdl:NC_003045;
+ERROR: INDEFINITE_ANNOTATION: (CDS:4.8 kDa non-structural protein) nucleotide-based search identifies CDS not identified in protein-based search [-]; seq-coords:27909..28054:+; mdl-coords:27889..28026:+; mdl:NC_003045;
+ERROR: UNEXPECTED_LENGTH: (CDS:4.8 kDa non-structural protein) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [146]; seq-coords:27909..28054:+; mdl-coords:27889..28026:+; mdl:NC_003045;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:small membrane protein) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [6>5, no valid stop codon in nucleotide-based prediction]; seq-coords:28720..28725:+; mdl-coords:28676..28676:+; mdl:NC_003045;
+ERROR: MUTATION_AT_END: (CDS:small membrane protein) expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAA]; seq-coords:28726..28728:+; mdl-coords:28677..28680:+; mdl:NC_003045;
+ERROR: MUTATION_AT_START: (CDS:small membrane protein) expected start codon could not be identified [ATC]; seq-coords:28471..28473:+; mdl-coords:28422..28424:+; mdl:NC_003045;

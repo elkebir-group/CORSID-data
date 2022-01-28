@@ -1,0 +1,4 @@
+#seq  seq           seq             best            sub                             seq   
+#idx  name          len  p/f   ant  model      grp  grp  nfa  nfn  nf5  nf3  nfalt  alerts
+#---  ----------  -----  ----  ---  ---------  ---  ---  ---  ---  ---  ---  -----  ------
+1     EU714029.1  27660  FAIL  yes  NC_001451  -    -     30    0    0    0     19  INDEFINITE_CLASSIFICATION(indfclas),LOW_SIMILARITY_END(lowsim3s)

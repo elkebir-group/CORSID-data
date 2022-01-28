@@ -1,0 +1,3 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+MH002342.1	NC_009020	CDS	orf1ab polyprotein	INSERTION_OF_NT	10676..10732:+	10675..10675:+	too large of an insertion in nucleotide-based alignment of CDS feature [57>27]
+MH002342.1	NC_009020	CDS	orf1ab polyprotein	INSERTION_OF_NT	10689..10745:+	10667..10667:+	too large of an insertion in protein-based alignment [57>27]

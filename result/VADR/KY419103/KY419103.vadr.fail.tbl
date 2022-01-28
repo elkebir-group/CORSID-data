@@ -1,0 +1,120 @@
+>Feature KY419103.1
+172	21458	gene
+			gene	orf1ab
+172	13302	CDS
+13302	21458
+			product	orf1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	KY419103.1_1
+172	13323	CDS
+			product	orf1a polyprotein
+			protein_id	KY419103.1_2
+172	909	mat_peptide
+			product	Leader protein
+			protein_id	KY419103.1_1
+910	2724	mat_peptide
+			product	MHV p65-like protein
+			protein_id	KY419103.1_1
+2725	8421	mat_peptide
+			product	coronavirus nsp1 [PL1-PRO, PL2-PRO, HD]
+			protein_id	KY419103.1_1
+8422	9909	mat_peptide
+			product	transmembrane domain 2
+			protein_id	KY419103.1_1
+9910	10818	mat_peptide
+			product	coronavirus nsp2 [3CL-PRO]
+			protein_id	KY419103.1_1
+10819	11679	mat_peptide
+			product	coronavirus nsp3 [HD2]
+			product	hydrophobic domain
+			protein_id	KY419103.1_1
+11680	11946	mat_peptide
+			product	coronavirus nsp4
+			protein_id	KY419103.1_1
+11947	12537	mat_peptide
+			product	coronavirus nsp5
+			protein_id	KY419103.1_1
+12538	12867	mat_peptide
+			product	coronavirus nsp6
+			protein_id	KY419103.1_1
+12868	13278	mat_peptide
+			product	coronavirus nsp7 [GFL]
+			product	growth-factor-like protein
+			protein_id	KY419103.1_1
+13279	13302	mat_peptide
+13302	16061
+			product	RNA-dependent RNA polymerase
+			product	coronavirus nsp9 [RdRp]
+			protein_id	KY419103.1_1
+16062	17870	mat_peptide
+			product	coronavirus nsp10 [MB, NTPase/HEL]
+			product	metal-binding domain, NTPase/helicase domain
+			protein_id	KY419103.1_1
+17871	19433	mat_peptide
+			product	coronavirus nsp11
+			protein_id	KY419103.1_1
+19434	20558	mat_peptide
+			product	coronavirus nsp12
+			protein_id	KY419103.1_1
+20559	21455	mat_peptide
+			product	coronavirus nsp13
+			protein_id	KY419103.1_1
+21467	22292	gene
+			gene	NS
+21467	22292	CDS
+			product	32 kDa non-structural protein
+			protein_id	KY419103.1_3
+22304	23578	gene
+			gene	HE
+22304	23578	CDS
+			product	hemmaglutinin-esterase
+			protein_id	KY419103.1_4
+23593	27642	gene
+			gene	S
+23593	27642	CDS
+			product	spike structural protein
+			protein_id	KY419103.1_5
+27632	27668	gene
+27632	27668	CDS
+			product	4.9 kDa non-structural protein
+			protein_id	KY419103.1_6
+27710	28039	gene
+27710	28039	CDS
+			product	12.7 kDa non-structural protein
+			protein_id	KY419103.1_7
+28026	28280	gene
+			gene	E
+28026	28280	CDS
+			product	small membrane protein
+			protein_id	KY419103.1_8
+28295	28987	gene
+			gene	M
+28295	28987	CDS
+			product	matrix protein
+			protein_id	KY419103.1_9
+28997	30346	gene
+			gene	N
+28997	30346	CDS
+			product	nucleocapsid protein
+			protein_id	KY419103.1_10
+29058	29681	CDS
+			product	hypothetical protein
+			protein_id	KY419103.1_11
+
+Additional note(s) to submitter:
+ERROR: DELETION_OF_FEATURE: (*sequence*) internal deletion of a complete feature [gene feature number 6: gene.6]; seq-coords:-; mdl-coords:27889..28026:+; mdl:NC_003045;
+ERROR: DELETION_OF_FEATURE: (*sequence*) internal deletion of a complete feature [CDS feature number 7: 4.8 kDa non-structural protein]; seq-coords:-; mdl-coords:27889..28026:+; mdl:NC_003045;
+ERROR: CDS_HAS_STOP_CODON: (CDS:32 kDa non-structural protein) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAA, shifted S:238,M:249]; seq-coords:22052..22054:+; mdl-coords:22089..22091:+; mdl:NC_003045;
+ERROR: CDS_HAS_STOP_CODON: (CDS:32 kDa non-structural protein) stop codon in protein-based alignment [-]; seq-coords:22052..22054:+; mdl-coords:22098..22100:+; mdl:NC_003045;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:32 kDa non-structural protein) possible frameshift in CDS (frame restored before end) [cause:delete,S:22055,M:22093..22094(2); restore:delete,S:22084,M:22124..22130(7); frame:1(2)132; length:589:(29):107:25:76;]; seq-coords:22056..22084:+; mdl-coords:22093..22130:+; mdl:NC_003045;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:32 kDa non-structural protein) possible frameshift in CDS (frame not restored before end) [cause:delete,S:22191,M:22238(1); frame:121(32); length:589:29:107:(25:76); intermediate:delete,S:22216,M:22264(1);]; seq-coords:22192..22292:+; mdl-coords:22238..22340:+; mdl:NC_003045;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:32 kDa non-structural protein) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [97>8]; seq-coords:22196..22292:+; mdl-coords:22340..22340:+; mdl:NC_003045;
+ERROR: UNEXPECTED_LENGTH: (CDS:32 kDa non-structural protein) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [826]; seq-coords:21467..22292:+; mdl-coords:21504..22340:+; mdl:NC_003045;
+ERROR: DELETION_OF_NT: (CDS:spike structural protein) too large of a deletion in protein-based alignment [30>27]; seq-coords:25065..25065:+; mdl-coords:25138..25167:+; mdl:NC_003045;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike structural protein) possible frameshift in CDS (frame restored before end) [cause:delete,S:24955,M:25004..25007(4); restore:delete,S:24973,M:25026..25030(5); frame:1(3)13121; length:1363:(18):71:15:41:12:2530;]; seq-coords:24956..24973:+; mdl-coords:25004..25030:+; mdl:NC_003045;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike structural protein) possible frameshift in CDS (frame restored before end) [cause:delete,S:25044,M:25111..25114(4); restore:insert,S:25059(1),M:25128; frame:131(3)121; length:1363:18:71:(15):41:12:2530;]; seq-coords:25045..25059:+; mdl-coords:25111..25128:+; mdl:NC_003045;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike structural protein) possible frameshift in CDS (frame restored before end) [cause:delete,S:25100,M:25170..25171(2); restore:delete,S:25112,M:25184(1); frame:13131(2)1; length:1363:18:71:15:41:(12):2530;]; seq-coords:25101..25112:+; mdl-coords:25170..25184:+; mdl:NC_003045;
+ERROR: DELETION_OF_NT: (CDS:4.9 kDa non-structural protein) too large of a deletion in nucleotide-based alignment of CDS feature [41>27]; seq-coords:27667..27667:+; mdl-coords:27770..27810:+; mdl:NC_003045;
+ERROR: INDEFINITE_ANNOTATION: (CDS:4.9 kDa non-structural protein) nucleotide-based search identifies CDS not identified in protein-based search [-]; seq-coords:27632..27668:+; mdl-coords:27722..27811:+; mdl:NC_003045;
+ERROR: MUTATION_AT_END: (CDS:4.9 kDa non-structural protein) expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAA]; seq-coords:27692..27694:+; mdl-coords:28088..28090:+; mdl:NC_003045;
+ERROR: UNEXPECTED_LENGTH: (CDS:4.9 kDa non-structural protein) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [37]; seq-coords:27632..27668:+; mdl-coords:27722..27811:+; mdl:NC_003045;

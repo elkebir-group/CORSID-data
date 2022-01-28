@@ -1,0 +1,4 @@
+#seq  seq           seq             best            sub                             seq   
+#idx  name          len  p/f   ant  model      grp  grp  nfa  nfn  nf5  nf3  nfalt  alerts
+#---  ----------  -----  ----  ---  ---------  ---  ---  ---  ---  ---  ---  -----  ------
+1     KY073748.1  27636  FAIL  yes  NC_028752  -    -     14    0    0    0     11  INDEFINITE_CLASSIFICATION(indfclas),UNJOINABLE_SUBSEQ_ALIGNMENTS(unjoinbl)

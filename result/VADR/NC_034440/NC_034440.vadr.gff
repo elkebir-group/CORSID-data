@@ -1,0 +1,21 @@
+##gff-version 3
+NC_034440	vadr	gene	61	13227	.	+	.	ID=ftr-1;Name=ORF1a;Gene=ORF1a;
+NC_034440	vadr	CDS	61	13227	.	+	.	ID=ftr-2;Name=ORF1a protein;Gene=ORF1a protein;Parent=ftr-1;Alias=NC_034440.1_1;
+NC_034440	vadr	gene	13416	21290	.	+	.	ID=ftr-3;Name=ORF1b;Gene=ORF1b;
+NC_034440	vadr	CDS	13416	21290	.	+	.	ID=ftr-4;Name=ORF1b protein;Gene=ORF1b protein;Parent=ftr-3;Alias=NC_034440.1_2;
+NC_034440	vadr	gene	21232	25269	.	+	.	ID=ftr-5;Name=S;Gene=S;
+NC_034440	vadr	CDS	21232	25269	.	+	.	ID=ftr-6;Name=spike glycoprotein;Gene=spike glycoprotein;Parent=ftr-5;Alias=NC_034440.1_3;
+NC_034440	vadr	gene	25284	25589	.	+	.	ID=ftr-7;Name=ORF3;Gene=ORF3;
+NC_034440	vadr	CDS	25284	25589	.	+	.	ID=ftr-8;Name=ORF3 protein;Gene=ORF3 protein;Parent=ftr-7;Alias=NC_034440.1_4;
+NC_034440	vadr	gene	25598	25927	.	+	.	ID=ftr-9;Name=ORF4a;Gene=ORF4a;
+NC_034440	vadr	CDS	25598	25927	.	+	.	ID=ftr-10;Name=ORF4a protein;Gene=ORF4a protein;Parent=ftr-9;Alias=NC_034440.1_5;
+NC_034440	vadr	gene	25803	26579	.	+	.	ID=ftr-11;Name=ORF4b;Gene=ORF4b;
+NC_034440	vadr	CDS	25803	26579	.	+	.	ID=ftr-12;Name=ORF4b protein;Gene=ORF4b protein;Parent=ftr-11;Alias=NC_034440.1_6;
+NC_034440	vadr	gene	26586	27263	.	+	.	ID=ftr-13;Name=ORF5;Gene=ORF5;
+NC_034440	vadr	CDS	26586	27263	.	+	.	ID=ftr-14;Name=ORF5 protein;Gene=ORF5 protein;Parent=ftr-13;Alias=NC_034440.1_7;
+NC_034440	vadr	gene	27342	27590	.	+	.	ID=ftr-15;Name=E;Gene=E;
+NC_034440	vadr	CDS	27342	27590	.	+	.	ID=ftr-16;Name=small envelope protein;Gene=small envelope protein;Parent=ftr-15;Alias=NC_034440.1_8;
+NC_034440	vadr	gene	27605	28264	.	+	.	ID=ftr-17;Name=M;Gene=M;
+NC_034440	vadr	CDS	27605	28264	.	+	.	ID=ftr-18;Name=membrane glycoprotein;Gene=membrane glycoprotein;Parent=ftr-17;Alias=NC_034440.1_9;
+NC_034440	vadr	gene	28311	29558	.	+	.	ID=ftr-19;Name=N;Gene=N;
+NC_034440	vadr	CDS	28311	29558	.	+	.	ID=ftr-20;Name=nucleocapsid phosphoprotein;Gene=nucleocapsid phosphoprotein;Parent=ftr-19;Alias=NC_034440.1_10;

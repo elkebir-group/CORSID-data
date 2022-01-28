@@ -1,0 +1,20 @@
+##gff-version 3
+JN183882	vadr	gene	269	20364	.	+	.	ID=ftr-1;Name=ORF 1a/1b;Gene=ORF 1a/1b;
+JN183882	vadr	region	12334	20364	.	+	.	ID=ftr-3;Name=polyprotein ab;Gene=polyprotein ab;Parent=ftr-1;Alias=JN183882.1_1;
+JN183882	vadr	gene	20361	24770	.	+	.	ID=ftr-4;Name=S;Gene=S;
+JN183882	vadr	CDS	20361	24770	.	+	.	ID=ftr-5;Name=spike protein;Gene=spike protein;Parent=ftr-4;Alias=JN183882.1_2;
+JN183882	vadr	gene	24782	24994	.	+	.	ID=ftr-6;Name=nsp 3a;Gene=nsp 3a;
+JN183882	vadr	CDS	24782	24994	.	+	.	ID=ftr-7;Name=putative 3a protein;Gene=putative 3a protein;Parent=ftr-6;Alias=JN183882.1_3;
+JN183882	vadr	gene	24942	25163	.	+	.	ID=ftr-8;Name=nsp 3b;Gene=nsp 3b;
+JN183882	vadr	CDS	24942	25163	.	+	.	ID=ftr-9;Name=putative 3b protein;Gene=putative 3b protein;Parent=ftr-8;Alias=JN183882.1_4;
+JN183882	vadr	gene	25160	25870	.	+	.	ID=ftr-10;Name=nsp 3c;Gene=nsp 3c;
+JN183882	vadr	gene	25857	26105	.	+	.	ID=ftr-11;Name=E;Gene=E;
+JN183882	vadr	CDS	25857	26105	.	+	.	ID=ftr-12;Name=E protein;Gene=E protein;Parent=ftr-11;Alias=JN183882.1_5;
+JN183882	vadr	gene	26116	26907	.	+	.	ID=ftr-13;Name=M;Gene=M;
+JN183882	vadr	CDS	26116	26907	.	+	.	ID=ftr-14;Name=matrix protein;Gene=matrix protein;Parent=ftr-13;Alias=JN183882.1_6;
+JN183882	vadr	gene	26920	28053	.	+	.	ID=ftr-15;Name=N;Gene=N;
+JN183882	vadr	CDS	26920	28053	.	+	.	ID=ftr-16;Name=nucleocapsid protein;Gene=nucleocapsid protein;Parent=ftr-15;Alias=JN183882.1_7;
+JN183882	vadr	gene	28058	28363	.	+	.	ID=ftr-17;Name=nsp 7a;Gene=nsp 7a;
+JN183882	vadr	CDS	28058	28363	.	+	.	ID=ftr-18;Name=non-structural protein 7a;Gene=non-structural protein 7a;Parent=ftr-17;Alias=JN183882.1_8;
+JN183882	vadr	gene	28368	28988	.	+	.	ID=ftr-19;Name=nsp 7b;Gene=nsp 7b;
+JN183882	vadr	CDS	28368	28988	.	+	.	ID=ftr-20;Name=non-structural protein 7b;Gene=non-structural protein 7b;Parent=ftr-19;Alias=JN183882.1_9;

@@ -1,0 +1,7 @@
+##gff-version 3
+NC_009657	vadr	region	12650	20674	.	+	.	ID=ftr-3;Name=ORF1;Gene=ORF1;Alias=NC_009657.1_1;
+NC_009657	vadr	CDS	20671	24786	.	+	.	ID=ftr-5;Name=spike protein;Gene=spike protein;Alias=NC_009657.1_2;
+NC_009657	vadr	CDS	24786	25460	.	+	.	ID=ftr-7;Name=putative ORF3;Gene=putative ORF3;Alias=NC_009657.1_3;
+NC_009657	vadr	CDS	25441	25671	.	+	.	ID=ftr-9;Name=envelope protein;Gene=envelope protein;Alias=NC_009657.1_4;
+NC_009657	vadr	CDS	25678	26361	.	+	.	ID=ftr-11;Name=matrix protein;Gene=matrix protein;Alias=NC_009657.1_5;
+NC_009657	vadr	CDS	26372	27556	.	+	.	ID=ftr-13;Name=nucleocapsid protein;Gene=nucleocapsid protein;Alias=NC_009657.1_6;

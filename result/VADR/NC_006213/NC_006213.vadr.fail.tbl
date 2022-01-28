@@ -1,0 +1,87 @@
+>Feature NC_006213.1
+210	21496	gene
+			gene	orf1ab
+210	13340	CDS
+13340	21496
+			product	Orf1ab
+			exception	ribosomal slippage
+			protein_id	NC_006213.1_1
+210	947	mat_peptide
+			product	leader protein
+			protein_id	NC_006213.1_1
+948	2762	mat_peptide
+			product	MHV p65-like protein
+			protein_id	NC_006213.1_1
+2763	8459	mat_peptide
+			product	nsp1
+			protein_id	NC_006213.1_1
+8460	9947	mat_peptide
+			product	transmembrane domain 2
+			protein_id	NC_006213.1_1
+9948	10856	mat_peptide
+			product	nsp2
+			protein_id	NC_006213.1_1
+10857	11717	mat_peptide
+			product	nsp3
+			protein_id	NC_006213.1_1
+11718	11984	mat_peptide
+			product	nsp4
+			protein_id	NC_006213.1_1
+11985	12575	mat_peptide
+			product	nsp5
+			protein_id	NC_006213.1_1
+12576	12905	mat_peptide
+			product	nsp6
+			protein_id	NC_006213.1_1
+12906	13316	mat_peptide
+			product	nsp7
+			protein_id	NC_006213.1_1
+13317	13340	mat_peptide
+13340	16099
+			product	nsp9
+			protein_id	NC_006213.1_1
+16100	17908	mat_peptide
+			product	nsp10
+			protein_id	NC_006213.1_1
+17909	19471	mat_peptide
+			product	nsp11
+			protein_id	NC_006213.1_1
+19472	20596	mat_peptide
+			product	nsp12
+			protein_id	NC_006213.1_1
+20597	21493	mat_peptide
+			product	nsp13
+			protein_id	NC_006213.1_1
+21506	22342	gene
+			gene	ns2
+21506	22342	CDS
+			product	ns2
+			protein_id	NC_006213.1_2
+22354	23628	gene
+22354	23628	CDS
+			product	hemagglutinin-esterase
+			protein_id	NC_006213.1_3
+23643	27704	gene
+23643	27704	CDS
+			product	spike surface glycoprotein
+			protein_id	NC_006213.1_4
+27792	28121	gene
+			gene	ns12.9
+27792	28121	CDS
+			product	ns12.9
+			protein_id	NC_006213.1_5
+28108	28362	gene
+28108	28362	CDS
+			product	envelope protein
+			protein_id	NC_006213.1_6
+28377	29069	gene
+28377	29069	CDS
+			product	membrane protein
+			protein_id	NC_006213.1_7
+29079	30425	gene
+29079	30425	CDS
+			product	nucleocapsid protein
+			protein_id	NC_006213.1_8
+
+Additional note(s) to submitter:
+ERROR: DISCONTINUOUS_SIMILARITY: (*sequence*) not all hits are in the same order in the sequence and the homology model [seq order: 1,2,3, mdl order: 1,3,2]; seq-coords:1..30741:+,34..66:+,27724..27756:+; mdl-coords:1..30741:+,27724..27756:+,34..66:+; mdl:NC_006213;

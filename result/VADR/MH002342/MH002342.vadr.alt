@@ -1,0 +1,6 @@
+#      seq                    ftr   ftr                 ftr  alert           alert                                    seq  seq             mdl  mdl  alert 
+#idx   name        model      type  name                idx  code      fail  description                           coords  len          coords  len  detail
+#----  ----------  ---------  ----  ------------------  ---  --------  ----  ----------------------------  --------------  ---  --------------  ---  ------
+1.1.1  MH002342.1  NC_009020  -     -                     -  unjoinbl  no    UNJOINABLE_SUBSEQ_ALIGNMENTS               -    -               -    -  inconsistent alignment of overlapping region between seed and flanking region [5' aligned region (mdl:1..10816:+, seq:1..10809:+) unjoinable with seed (mdl:10653..21814, seq:10710..21862)]
+1.2.1  MH002342.1  NC_009020  CDS   orf1ab_polyprotein    2  insertnp  yes   INSERTION_OF_NT               10689..10745:+   57  10667..10667:+    1  too large of an insertion in protein-based alignment [57>27]
+1.2.2  MH002342.1  NC_009020  CDS   orf1ab_polyprotein    2  insertnn  yes   INSERTION_OF_NT               10676..10732:+   57  10675..10675:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [57>27]

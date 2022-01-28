@@ -1,0 +1,73 @@
+>Feature KX981440.1
+284	20628	gene
+284	12607	CDS
+12607	20628
+			product	Pol1
+			exception	ribosomal slippage
+			protein_id	KX981440.1_1
+284	613	mat_peptide
+			product	putative leader protein
+			protein_id	KX981440.1_1
+2969	7834	mat_peptide
+			product	putative coronavirus nsp1
+			protein_id	KX981440.1_1
+9275	10180	mat_peptide
+			product	putative coronavirus nsp2 [3CL-PRO]
+			protein_id	KX981440.1_1
+10181	11020	mat_peptide
+			product	putative coronavirus nsp3 [HD2]
+			protein_id	KX981440.1_1
+11021	11269	mat_peptide
+			product	putative coronavirus nsp4
+			protein_id	KX981440.1_1
+11270	11854	mat_peptide
+			product	putative coronavirus nsp5
+			protein_id	KX981440.1_1
+11855	12178	mat_peptide
+			product	putative coronavirus nsp6
+			protein_id	KX981440.1_1
+12179	12583	mat_peptide
+			product	formerly known as growth-factor-like protein
+			product	putative coronavirus nsp7
+			protein_id	KX981440.1_1
+12584	12607	mat_peptide
+12607	15363
+			product	RNA-dependent RNA polymerase
+			product	putative coronavirus nsp9 [RdRp]
+			protein_id	KX981440.1_1
+15364	17154	mat_peptide
+			product	putative coronavirus nsp10 [MB, NTPase/HEL]
+			protein_id	KX981440.1_1
+17155	18705	mat_peptide
+			product	putative coronavirus nsp11
+			protein_id	KX981440.1_1
+18706	19722	mat_peptide
+			product	putative coronavirus nsp12
+			protein_id	KX981440.1_1
+19723	20625	mat_peptide
+			product	putative coronavirus nsp13
+			protein_id	KX981440.1_1
+20625	24779	gene
+20625	24779	CDS
+			product	spike protein
+			protein_id	KX981440.1_2
+24779	25453	gene
+24779	25453	CDS
+			product	hypothetical protein
+			protein_id	KX981440.1_3
+25434	25664	gene
+25434	25664	CDS
+			product	envelope protein
+			protein_id	KX981440.1_4
+25672	26352	gene
+25672	26352	CDS
+			product	membrane protein
+			protein_id	KX981440.1_5
+26364	27689	gene
+26364	27689	CDS
+			product	nucleocapsid protein
+			protein_id	KX981440.1_6
+
+Additional note(s) to submitter:
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 101]; seq-coords:28024..28124:+; mdl-coords:28033..28033:+; mdl:NC_003436;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike protein) possible frameshift in CDS (frame restored before end) [cause:insert,S:20791(1),M:20803; restore:insert,S:20799..20803(5),M:20810; frame:1(2)1; length:166:(13):3976;]; seq-coords:20791..20803:+; mdl-coords:20804..20810:+; mdl:NC_003436;

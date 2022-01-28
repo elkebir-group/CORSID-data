@@ -1,0 +1,17 @@
+##gff-version 3
+MK492263	vadr	gene	227	20817	.	+	.	ID=ftr-1;Name=orf1ab;Gene=orf1ab;
+MK492263	vadr	region	12745	20817	.	+	.	ID=ftr-3;Name=orf1ab polyprotein;Gene=orf1ab polyprotein;Parent=ftr-1;Alias=MK492263.1_1;
+MK492263	vadr	gene	20777	24601	.	+	.	ID=ftr-4;Name=S;Gene=S;
+MK492263	vadr	CDS	20777	24601	.	+	.	ID=ftr-5;Name=spike glycoprotein;Gene=spike glycoprotein;Parent=ftr-4;Alias=MK492263.1_2;
+MK492263	vadr	gene	24598	25290	.	+	.	ID=ftr-6;Name=NS3;Gene=NS3;
+MK492263	vadr	CDS	24598	25290	.	+	.	ID=ftr-7;Name=hypothetical protein;Gene=hypothetical protein;Parent=ftr-6;Alias=MK492263.1_3;
+MK492263	vadr	gene	25290	25530	.	+	.	ID=ftr-8;Name=E;Gene=E;
+MK492263	vadr	CDS	25290	25530	.	+	.	ID=ftr-9;Name=small membrane protein;Gene=small membrane protein;Parent=ftr-8;Alias=MK492263.1_4;
+MK492263	vadr	gene	25523	26188	.	+	.	ID=ftr-10;Name=M;Gene=M;
+MK492263	vadr	CDS	25523	26188	.	+	.	ID=ftr-11;Name=membrane glycoprotein;Gene=membrane glycoprotein;Parent=ftr-10;Alias=MK492263.1_5;
+MK492263	vadr	gene	26243	27634	.	+	.	ID=ftr-12;Name=N;Gene=N;
+MK492263	vadr	CDS	26243	27634	.	+	.	ID=ftr-13;Name=nucleocapsid phosphoprotein;Gene=nucleocapsid phosphoprotein;Parent=ftr-12;Alias=MK492263.1_6;
+MK492263	vadr	gene	27680	28594	.	+	.	ID=ftr-14;Name=NS7a;Gene=NS7a;
+MK492263	vadr	CDS	27680	28594	.	+	.	ID=ftr-15;Name=hypothetical protein;Gene=hypothetical protein;Parent=ftr-14;Alias=MK492263.1_7;
+MK492263	vadr	gene	28609	29327	.	+	.	ID=ftr-16;Name=NS7b;Gene=NS7b;
+MK492263	vadr	CDS	28609	29327	.	+	.	ID=ftr-17;Name=hypothetical protein;Gene=hypothetical protein;Parent=ftr-16;Alias=MK492263.1_8;

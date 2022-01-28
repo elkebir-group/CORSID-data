@@ -1,0 +1,107 @@
+>Feature FJ904715.1
+526	20384	gene
+			gene	1ab
+526	12321	CDS
+12321	20384
+			product	ORF1ab polyprotein
+			product	frameshift product
+			protein_id	FJ904715.1_1
+526	12351	CDS
+			product	ORF1a polyprotein
+			protein_id	FJ904715.1_2
+526	2544	mat_peptide
+			product	leader protein p87
+			protein_id	FJ904715.1_1
+2545	8832	mat_peptide
+			product	coronavirus nsp1 [HD1]
+			product	hydrophobic domain 1
+			protein_id	FJ904715.1_1
+8833	9753	mat_peptide
+			product	coronavirus nsp2 [3CL-Pro]
+			protein_id	FJ904715.1_1
+9754	10632	mat_peptide
+			product	coronavirus nsp3 [HD2]
+			product	hydrophobic domain 2
+			protein_id	FJ904715.1_1
+10633	10881	mat_peptide
+			product	coronavirus nsp4
+			protein_id	FJ904715.1_1
+10882	11511	mat_peptide
+			product	coronavirus nsp5
+			protein_id	FJ904715.1_1
+11512	11844	mat_peptide
+			product	coronavirus nsp6
+			protein_id	FJ904715.1_1
+11845	12279	mat_peptide
+			product	coronavirus nsp7 [GLF]
+			product	growth factor-like protein
+			protein_id	FJ904715.1_1
+12280	12321	mat_peptide
+12321	15098
+			product	RNA-dependent RNA polymerase
+			product	coronavirus nsp9 [RdRp]
+			protein_id	FJ904715.1_1
+12280	12348	mat_peptide
+			product	coronavirus nsp8
+			protein_id	FJ904715.1_2
+15099	16898	mat_peptide
+			product	coronavirus nsp10
+			product	metal-binding NTPase/helicase
+			protein_id	FJ904715.1_1
+16899	18461	mat_peptide
+			product	coronavirus nsp11
+			protein_id	FJ904715.1_1
+18462	19475	mat_peptide
+			product	coronavirus nsp12
+			protein_id	FJ904715.1_1
+19476	20381	mat_peptide
+			product	coronavirus nsp13
+			protein_id	FJ904715.1_1
+20335	23853	gene
+			gene	2
+20335	23853	CDS
+			product	spike protein
+			protein_id	FJ904715.1_3
+23853	24521	gene
+			gene	3
+23853	24026	CDS
+			product	3a protein
+			protein_id	FJ904715.1_4
+24026	24220	CDS
+			product	3b protein
+			protein_id	FJ904715.1_5
+24204	24501	CDS
+			product	small virion-associated protein
+			protein_id	FJ904715.1_6
+24477	25150	gene
+			gene	M
+24477	25150	CDS
+			product	membrane protein
+			protein_id	FJ904715.1_7
+25505	25947	gene
+			gene	5
+25505	25702	CDS
+			product	5a protein
+			protein_id	FJ904715.1_8
+25699	25947	CDS
+			product	5b protein
+			protein_id	FJ904715.1_9
+25890	27119	gene
+			gene	N
+25890	27119	CDS
+			product	nucleocapsid protein
+			protein_id	FJ904715.1_10
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:spike protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [45>5]; seq-coords:20335..20379:+; mdl-coords:20368..20368:+; mdl:NC_001451;
+ERROR: CDS_HAS_STOP_CODON: (CDS:small virion-associated protein) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:19,M:18]; seq-coords:24480..24482:+; mdl-coords:24513..24515:+; mdl:NC_001451;
+ERROR: DELETION_OF_NT: (CDS:small virion-associated protein) too large of a deletion in nucleotide-based alignment of CDS feature [30>27]; seq-coords:24476..24476:+; mdl-coords:24480..24509:+; mdl:NC_001451;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:small virion-associated protein) possible frameshift in CDS (frame not restored before end) [cause:insert,S:24487(1),M:24519; frame:1(2); length:283:(15);]; seq-coords:24487..24501:+; mdl-coords:24520..24533:+; mdl:NC_001451;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:small virion-associated protein) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [28>8]; seq-coords:24474..24501:+; mdl-coords:24533..24533:+; mdl:NC_001451;
+ERROR: UNEXPECTED_LENGTH: (CDS:small virion-associated protein) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [298]; seq-coords:24204..24501:+; mdl-coords:24207..24533:+; mdl:NC_001451;
+ERROR: INDEFINITE_ANNOTATION_START: (gene:M) alignment to homology model is a gap at 5' boundary [-]; seq-coords:24477..24477:+; mdl-coords:24505..24505:+; mdl:NC_001451;
+ERROR: CDS_HAS_STOP_CODON: (CDS:membrane protein) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAA, shifted S:649,M:649]; seq-coords:24499..24501:+; mdl-coords:24531..24533:+; mdl:NC_001451;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:membrane protein) possible frameshift in CDS (frame not restored before end) [cause:insert,S:24487(1),M:24519; frame:2(3); length:10:(664);]; seq-coords:24487..25150:+; mdl-coords:24520..25182:+; mdl:NC_001451;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:membrane protein) alignment to homology model is a gap at 5' boundary [-]; seq-coords:24477..24477:+; mdl-coords:24505..24505:+; mdl:NC_001451;
+ERROR: MUTATION_AT_START: (CDS:membrane protein) expected start codon could not be identified [CAA]; seq-coords:24477..24479:+; mdl-coords:24510..24512:+; mdl:NC_001451;
+ERROR: UNEXPECTED_LENGTH: (CDS:membrane protein) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [674]; seq-coords:24477..25150:+; mdl-coords:24510..25182:+; mdl:NC_001451;

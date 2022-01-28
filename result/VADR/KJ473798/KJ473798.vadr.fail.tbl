@@ -1,0 +1,46 @@
+>Feature KJ473798.1
+270	20938	gene
+			gene	ORF1ab
+270	12914	CDS
+12914	20938
+			product	ORF1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	KJ473798.1_1
+270	12944	CDS
+			product	ORF1a polyprotein
+			protein_id	KJ473798.1_2
+20935	25059	gene
+			gene	S
+20935	25059	CDS
+			product	spike protein
+			protein_id	KJ473798.1_3
+25059	25727	gene
+			gene	ORF3
+25059	25727	CDS
+			product	ORF3 protein
+			protein_id	KJ473798.1_4
+25711	25935	gene
+			gene	E
+25711	25935	CDS
+			product	envelope protein
+			protein_id	KJ473798.1_5
+25942	26709	gene
+			gene	M
+25942	26709	CDS
+			product	membrane protein
+			protein_id	KJ473798.1_6
+26758	28026	gene
+			gene	N
+26758	28026	CDS
+			product	nucleocapsid protein
+			protein_id	KJ473798.1_7
+27776	28522	gene
+			gene	ORF7
+27776	28522	CDS
+			product	hypothetical protein
+			protein_id	KJ473798.1_8
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:spike protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [54>5]; seq-coords:20935..20988:+; mdl-coords:20956..20956:+; mdl:NC_010438;
+ERROR: MUTATION_AT_START: (CDS:membrane protein) expected start codon could not be identified [AAA]; seq-coords:25942..25944:+; mdl-coords:25966..25968:+; mdl:NC_010438;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:hypothetical protein) possible frameshift in CDS (frame restored before end) [cause:insert,S:28055..28056(2),M:28066; restore:insert,S:28078(1),M:28087; frame:1(3)1; length:279:(24):444;]; seq-coords:28055..28078:+; mdl-coords:28067..28087:+; mdl:NC_010438;

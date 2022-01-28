@@ -1,0 +1,5 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+KP765609.1	NC_003436	-	*sequence*	LOW_SIMILARITY_END	28045..28056:+	28033..28033:+	significant similarity not detected at 3' end of the sequence [low similarity region of length 12]
+KP765609.1	NC_003436	CDS	spike protein	CDS_HAS_STOP_CODON	24768..24770:+	24766..24766:+	in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:30,M:23]
+KP765609.1	NC_003436	CDS	spike protein	CDS_HAS_STOP_CODON	24768..24770:+	24766..24768:+	stop codon in protein-based alignment [-]
+KP765609.1	NC_003436	CDS	spike protein	POSSIBLE_FRAMESHIFT	20800..20818:+	20804..20810:+	possible frameshift in CDS (frame restored before end) [cause:insert,S:20800(1),M:20803; restore:insert,S:20808..20818(11),M:20810; frame:1(2)1; length:166:(19):3982;]

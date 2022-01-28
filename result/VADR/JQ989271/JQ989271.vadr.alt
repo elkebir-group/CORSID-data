@@ -1,0 +1,4 @@
+#      seq                    ftr   ftr               ftr  alert           alert                           seq  seq             mdl  mdl  alert 
+#idx   name        model      type  name              idx  code      fail  description                  coords  len          coords  len  detail
+#----  ----------  ---------  ----  ----------------  ---  --------  ----  -------------------  --------------  ---  --------------  ---  ------
+1.1.1  JQ989271.1  NC_018871  CDS   membrane_protein   10  fstukcfi  yes   POSSIBLE_FRAMESHIFT  25622..25639:+   18  25619..25645:+   27  possible frameshift in CDS (frame restored before end) [cause:delete,S:25621,M:25619(1); restore:delete,S:25639,M:25638..25645(8); frame:1(3)1; length:11:(18):652;]

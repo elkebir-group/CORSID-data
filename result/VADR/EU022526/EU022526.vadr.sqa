@@ -1,0 +1,4 @@
+#seq  seq           seq             best            sub                             seq   
+#idx  name          len  p/f   ant  model      grp  grp  nfa  nfn  nf5  nf3  nfalt  alerts
+#---  ----------  -----  ----  ---  ---------  ---  ---  ---  ---  ---  ---  -----  ------
+1     EU022526.1  27854  FAIL  yes  NC_010800  -    -     37    0    0    0     35  LOW_SIMILARITY_END(lowsim3s)

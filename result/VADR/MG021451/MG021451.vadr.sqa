@@ -1,0 +1,4 @@
+#seq  seq           seq             best            sub                             seq   
+#idx  name          len  p/f   ant  model      grp  grp  nfa  nfn  nf5  nf3  nfalt  alerts
+#---  ----------  -----  ----  ---  ---------  ---  ---  ---  ---  ---  ---  -----  ------
+1     MG021451.1  30113  FAIL  yes  NC_019843  -    -     47    0    0    0     68  INDEFINITE_CLASSIFICATION(indfclas),LOW_COVERAGE(lowcovrg)

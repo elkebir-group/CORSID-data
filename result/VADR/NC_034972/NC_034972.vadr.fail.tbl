@@ -1,0 +1,37 @@
+>Feature NC_034972.1
+437	12361	gene
+437	12361	CDS
+			product	orf1a polyprotein
+			protein_id	NC_034972.1_1
+12361	20376	gene
+20376	23756	gene
+20376	23756	CDS
+			product	spike protein
+			protein_id	NC_034972.1_2
+23753	24397	gene
+23753	24397	CDS
+			product	ORF3
+			protein_id	NC_034972.1_3
+24397	24633	gene
+24397	24633	CDS
+			product	envelope protein
+			protein_id	NC_034972.1_4
+24643	25389	gene
+24643	25389	CDS
+			product	membrane protein
+			protein_id	NC_034972.1_5
+25401	25901	gene
+25401	25901	CDS
+			product	ORF6
+			protein_id	NC_034972.1_6
+25903	27072	gene
+25903	27072	CDS
+			product	nucleocapsid protein
+			protein_id	NC_034972.1_7
+27074	27391	gene
+27074	27391	CDS
+			product	ORF8
+			protein_id	NC_034972.1_8
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_STRAND: (*sequence*) significant similarity detected on both strands [score:216.0>25.0]; seq-coords:1879..1761:-; mdl-coords:1..119:+; mdl:NC_034972;

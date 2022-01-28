@@ -1,0 +1,42 @@
+>Feature KX443143.2
+540	19327	gene
+			gene	orf1ab
+540	11399	CDS
+11399	19327
+			product	replicase polyprotein
+			exception	ribosomal slippage
+			protein_id	KX443143.2_1
+19309	22788	gene
+			gene	S
+19309	22788	CDS
+			product	spike glycoprotein
+			protein_id	KX443143.2_2
+22782	23033	gene
+			gene	E
+22782	23033	CDS
+			product	envelope protein
+			protein_id	KX443143.2_3
+23026	23679	gene
+			gene	M
+23026	23679	CDS
+			product	membrane protein
+			protein_id	KX443143.2_4
+23679	23963	gene
+			gene	NS6
+23679	23963	CDS
+			product	NS6 protein
+			protein_id	KX443143.2_5
+23984	25012	gene
+			gene	N
+23984	25012	CDS
+			product	nucleocapsid protein
+			protein_id	KX443143.2_6
+24078	24680	gene
+			gene	NS7
+24078	24680	CDS
+			product	NS7 protein
+			protein_id	KX443143.2_7
+
+Additional note(s) to submitter:
+ERROR: LOW_SIMILARITY_START: (*sequence*) significant similarity not detected at 5' end of the sequence [low similarity region of length 7]; seq-coords:1..7:+; mdl-coords:0..0:+; mdl:NC_039208;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:replicase polyprotein) possible frameshift in CDS (frame restored before end) [cause:insert,S:7983(1),M:7990; restore:delete,S:7995,M:8003(1); frame:1(2)1; length:7443:(13):11333;]; seq-coords:7983..7995:+; mdl-coords:7991..8003:+; mdl:NC_039208;

@@ -1,0 +1,5 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+MH687941.1	NC_009657	-	*sequence*	LOW_SIMILARITY	27614..27743:+	27667..27694:+	internal region without significant similarity [low similarity region of length 130]
+MH687941.1	NC_009657	CDS	ORF1	DELETION_OF_NT	20189..20189:+	20219..20248:+	too large of a deletion in nucleotide-based alignment of CDS feature [30>27]
+MH687941.1	NC_009657	CDS	ORF1	DELETION_OF_NT	20189..20189:+	20219..20248:+	too large of a deletion in protein-based alignment [30>27]
+MH687941.1	NC_009657	CDS	matrix protein	INDEFINITE_ANNOTATION_START	25622..25627:+	25678..25678:+	protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [6>5]

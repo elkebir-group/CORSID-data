@@ -1,0 +1,18 @@
+#       seq           seq                   ftr   ftr                        ftr  num  sgm    seq    seq    mdl    mdl    sgm            5'  3'  5'   3' 
+#idx    name          len  p/f   model      type  name                       idx  sgm  idx   from     to   from     to    len  str  trc  pp  pp  gap  gap
+#-----  ----------  -----  ----  ---------  ----  -------------------------  ---  ---  ---  -----  -----  -----  -----  -----  ---  ---  --  --  ---  ---
+1.1.1   MK211373.1  29109  FAIL  NC_028814  gene  gene.1                       1    1    1    325  20462     42  20224  20138    +  no    ?   ?  no   no 
+1.2.1   MK211373.1  29109  FAIL  NC_028814  CDS   ORF1ab_polyprotein           2    2    1    325  12441     42  12203  12117    +  no    ?   ?  no   no 
+1.2.2   MK211373.1  29109  FAIL  NC_028814  CDS   ORF1ab_polyprotein           2    2    2  12441  20462  12203  20224   8022    +  no    ?   ?  no   no 
+1.3.1   MK211373.1  29109  FAIL  NC_028814  gene  gene.2                       3    1    1  20464  24516  20226  24338   4053    +  no    ?   ?  no   no 
+1.4.1   MK211373.1  29109  FAIL  NC_028814  CDS   spike_glycoprotein           4    1    1  20464  24516  20226  24338   4053    +  no    ?   ?  no   no 
+1.5.1   MK211373.1  29109  FAIL  NC_028814  gene  gene.3                       5    1    1  24516  25995  24338  25027   1480    +  no    ?   ?  no   no 
+1.6.1   MK211373.1  29109  FAIL  NC_028814  CDS   hypothetical_protein_ORF3    6    1    1  24516  25995  24338  25027   1480    +  no    ?   ?  no   no 
+1.7.1   MK211373.1  29109  FAIL  NC_028814  gene  gene.4                       7    1    1  26003  26200  25035  25232    198    +  no    ?   ?  no   no 
+1.8.1   MK211373.1  29109  FAIL  NC_028814  CDS   small_envelope_protein       8    1    1  26003  26200  25035  25232    198    +  no    ?   ?  no   no 
+1.9.1   MK211373.1  29109  FAIL  NC_028814  gene  gene.5                       9    1    1  26212  26895  25242  25925    684    +  no    ?   ?  no   no 
+1.10.1  MK211373.1  29109  FAIL  NC_028814  CDS   membrane_glycoprotein       10    1    1  26212  26895  25242  25925    684    +  no    ?   ?  no   no 
+1.11.1  MK211373.1  29109  FAIL  NC_028814  gene  gene.6                      11    1    1  26906  28117  25937  27088   1212    +  no    ?   ?  no   no 
+1.12.1  MK211373.1  29109  FAIL  NC_028814  CDS   nucleocapsid_protein        12    1    1  26906  28117  25937  27088   1212    +  no    ?   ?  no   no 
+1.13.1  MK211373.1  29109  FAIL  NC_028814  gene  gene.7                      13    1    1  28140  28754  27111  27359    615    +  no    ?   ?  no   no 
+1.14.1  MK211373.1  29109  FAIL  NC_028814  CDS   hypothetical_protein_ORF7   14    1    1  28140  28754  27111  27359    615    +  no    ?   ?  no   no 

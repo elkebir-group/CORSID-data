@@ -1,0 +1,7 @@
+#      seq                    ftr   ftr                             ftr  alert           alert                          seq  seq             mdl  mdl  alert 
+#idx   name        model      type  name                            idx  code      fail  description                 coords  len          coords  len  detail
+#----  ----------  ---------  ----  ------------------------------  ---  --------  ----  ------------------  --------------  ---  --------------  ---  ------
+1.1.1  MH810163.1  NC_003045  CDS   32_kDa_non-structural_protein     5  cdsstopn  yes   CDS_HAS_STOP_CODON  22089..22091:+    3  22089..22091:+    3  in-frame stop codon exists 5' of stop position predicted by homology to reference [TAG, shifted S:249,M:249]
+1.1.2  MH810163.1  NC_003045  CDS   32_kDa_non-structural_protein     5  cdsstopp  yes   CDS_HAS_STOP_CODON  22089..22091:+    3  22089..22091:+    3  stop codon in protein-based alignment [-]
+1.2.1  MH810163.1  NC_003045  CDS   4.9_kDa_non-structural_protein   11  mutendcd  yes   MUTATION_AT_END     27809..27811:+    3  27809..27811:+    3  expected stop codon could not be identified, predicted CDS stop by homology is invalid [GAG]
+1.2.2  MH810163.1  NC_003045  CDS   4.9_kDa_non-structural_protein   11  mutendex  yes   MUTATION_AT_END     27851..27853:+    3  27851..27853:+    3  expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAG]

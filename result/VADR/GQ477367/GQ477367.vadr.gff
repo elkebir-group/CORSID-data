@@ -1,0 +1,9 @@
+##gff-version 3
+GQ477367	vadr	CDS	314	12364	.	+	.	ID=ftr-2;Name=replicase polyprotein 1a;Gene=replicase polyprotein 1a;Alias=GQ477367.1_1;
+GQ477367	vadr	CDS	20365	24734	.	+	.	ID=ftr-5;Name=spike protein;Gene=spike protein;Alias=GQ477367.1_2;
+GQ477367	vadr	CDS	24724	25103	.	+	.	ID=ftr-7;Name=non-structural protein 3a;Gene=non-structural protein 3a;Alias=GQ477367.1_3;
+GQ477367	vadr	CDS	25188	25922	.	+	.	ID=ftr-9;Name=non-structural protein 3b;Gene=non-structural protein 3b;Alias=GQ477367.1_4;
+GQ477367	vadr	CDS	25909	26157	.	+	.	ID=ftr-11;Name=envelope protein;Gene=envelope protein;Alias=GQ477367.1_5;
+GQ477367	vadr	CDS	26168	26971	.	+	.	ID=ftr-13;Name=membrane protein;Gene=membrane protein;Alias=GQ477367.1_6;
+GQ477367	vadr	CDS	26984	28132	.	+	.	ID=ftr-15;Name=nucleoprotein;Gene=nucleoprotein;Alias=GQ477367.1_7;
+GQ477367	vadr	CDS	28137	29088	.	+	.	ID=ftr-17;Name=non-structural protein 7;Gene=non-structural protein 7;Alias=GQ477367.1_8;

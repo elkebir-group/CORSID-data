@@ -1,0 +1,35 @@
+>Feature MH687949.1
+248	20562	gene
+248	12538	CDS
+12538	20562
+			product	ORF1
+			protein_id	MH687949.1_1
+20559	24674	gene
+20559	24674	CDS
+			product	spike protein
+			protein_id	MH687949.1_2
+24674	25348	gene
+24674	25348	CDS
+			product	putative ORF3
+			protein_id	MH687949.1_3
+25329	25559	gene
+25329	25559	CDS
+			product	envelope protein
+			protein_id	MH687949.1_4
+25566	26249	gene
+25566	26249	CDS
+			product	matrix protein
+			protein_id	MH687949.1_5
+26260	27444	gene
+26260	27444	CDS
+			product	nucleocapsid protein
+			protein_id	MH687949.1_6
+
+Additional note(s) to submitter:
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 14]; seq-coords:28172..28185:+; mdl-coords:28179..28192:+; mdl:NC_009657;
+ERROR: LOW_SIMILARITY: (*sequence*) internal region without significant similarity [low similarity region of length 212]; seq-coords:27533..27744:+; mdl-coords:27645..27751:+; mdl:NC_009657;
+ERROR: DELETION_OF_NT: (CDS:ORF1) too large of a deletion in protein-based alignment [45>27]; seq-coords:3355..3355:+; mdl-coords:3411..3455:+; mdl:NC_009657;
+ERROR: DELETION_OF_NT: (CDS:ORF1) too large of a deletion in protein-based alignment [33>27]; seq-coords:4585..4585:+; mdl-coords:4665..4697:+; mdl:NC_009657;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:ORF1) possible frameshift in CDS (frame restored before end) [cause:insert,S:4103..4109(7),M:4187; restore:delete,S:4119,M:4198(1); frame:1(2)12131; length:3855:(17):527:7:5601:13:10296;]; seq-coords:4103..4119:+; mdl-coords:4188..4198:+; mdl:NC_009657;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:ORF1) possible frameshift in CDS (frame restored before end) [cause:delete,S:4646,M:4753..4757(5); restore:delete,S:4653,M:4765(1); frame:121(2)131; length:3855:17:527:(7):5601:13:10296;]; seq-coords:4647..4653:+; mdl-coords:4753..4765:+; mdl:NC_009657;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:ORF1) possible frameshift in CDS (frame restored before end) [cause:delete,S:10254,M:10367(1); restore:insert,S:10267(1),M:10379; frame:12121(3)1; length:3855:17:527:7:5601:(13):10296;]; seq-coords:10255..10267:+; mdl-coords:10367..10379:+; mdl:NC_009657;

@@ -1,0 +1,7 @@
+##gff-version 3
+MN611521	vadr	region	12643	20667	.	+	.	ID=ftr-3;Name=ORF1;Gene=ORF1;Alias=MN611521.1_1;
+MN611521	vadr	CDS	20664	24686	.	+	.	ID=ftr-5;Name=spike protein;Gene=spike protein;Alias=MN611521.1_2;
+MN611521	vadr	CDS	24686	25360	.	+	.	ID=ftr-7;Name=putative ORF3;Gene=putative ORF3;Alias=MN611521.1_3;
+MN611521	vadr	CDS	25341	25571	.	+	.	ID=ftr-9;Name=envelope protein;Gene=envelope protein;Alias=MN611521.1_4;
+MN611521	vadr	CDS	25577	26260	.	+	.	ID=ftr-11;Name=matrix protein;Gene=matrix protein;Alias=MN611521.1_5;
+MN611521	vadr	CDS	26271	27361	.	+	.	ID=ftr-13;Name=nucleocapsid protein;Gene=nucleocapsid protein;Alias=MN611521.1_6;

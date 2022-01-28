@@ -1,0 +1,6 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+MK679660.1	NC_039207	CDS	orf1ab	POSSIBLE_FRAMESHIFT	3756..3771:+	3750..3753:+	possible frameshift in CDS (frame restored before end) [cause:insert,S:3756..3765(10),M:3749; restore:insert,S:3770..3771(2),M:3753; frame:1(2)1; length:3515:(16):17940;]
+MK679660.1	NC_039207	CDS	ORF 1a	POSSIBLE_FRAMESHIFT	3756..3771:+	3750..3753:+	possible frameshift in CDS (frame restored before end) [cause:insert,S:3756..3765(10),M:3749; restore:insert,S:3770..3771(2),M:3753; frame:1(2)1; length:3515:(16):9852;]
+MK679660.1	NC_039207	CDS	S	POSSIBLE_FRAMESHIFT	22493..22501:+	22475..22486:+	possible frameshift in CDS (frame restored before end) [cause:delete,S:22492,M:22475(1); restore:delete,S:22501,M:22485..22486(2); frame:1(3)1; length:865:(9):3113;]
+MK679660.1	NC_039207	CDS	orf4b	MUTATION_AT_START	26135..26137:+	26123..26125:+	expected start codon could not be identified [ATC]
+MK679660.1	NC_039207	CDS	orf5	POSSIBLE_FRAMESHIFT	26879..26890:+	26858..26872:+	possible frameshift in CDS (frame restored before end) [cause:delete,S:26878,M:26858..26861(4); restore:insert,S:26890(1),M:26872; frame:1(3)1; length:54:(12):636;]

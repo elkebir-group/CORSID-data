@@ -1,0 +1,19 @@
+##gff-version 3
+KU182965	vadr	gene	267	21664	.	+	.	ID=ftr-1;Name=orf1ab;Gene=orf1ab;
+KU182965	vadr	region	13589	21664	.	+	.	ID=ftr-3;Name=orf1ab polyprotein;Gene=orf1ab polyprotein;Parent=ftr-1;Alias=KU182965.1_1;
+KU182965	vadr	gene	21609	25667	.	+	.	ID=ftr-4;Name=S;Gene=S;
+KU182965	vadr	CDS	21609	25667	.	+	.	ID=ftr-5;Name=spike glycoprotein;Gene=spike glycoprotein;Parent=ftr-4;Alias=KU182965.1_2;
+KU182965	vadr	gene	25694	25969	.	+	.	ID=ftr-6;Name=NS3a;Gene=NS3a;
+KU182965	vadr	CDS	25694	25969	.	+	.	ID=ftr-7;Name=hypothetical protein;Gene=hypothetical protein;Parent=ftr-6;Alias=KU182965.1_3;
+KU182965	vadr	gene	25987	26346	.	+	.	ID=ftr-8;Name=NS3b;Gene=NS3b;
+KU182965	vadr	CDS	25987	26346	.	+	.	ID=ftr-9;Name=hypothetical protein;Gene=hypothetical protein;Parent=ftr-8;Alias=KU182965.1_4;
+KU182965	vadr	gene	26150	27007	.	+	.	ID=ftr-10;Name=NS3c;Gene=NS3c;
+KU182965	vadr	CDS	26150	27007	.	+	.	ID=ftr-11;Name=hypothetical protein;Gene=hypothetical protein;Parent=ftr-10;Alias=KU182965.1_5;
+KU182965	vadr	gene	27023	27706	.	+	.	ID=ftr-12;Name=NS3d;Gene=NS3d;
+KU182965	vadr	CDS	27023	27706	.	+	.	ID=ftr-13;Name=hypothetical protein;Gene=hypothetical protein;Parent=ftr-12;Alias=KU182965.1_6;
+KU182965	vadr	gene	27776	28024	.	+	.	ID=ftr-14;Name=E;Gene=E;
+KU182965	vadr	CDS	27776	28024	.	+	.	ID=ftr-15;Name=small membrane protein;Gene=small membrane protein;Parent=ftr-14;Alias=KU182965.1_7;
+KU182965	vadr	gene	28039	28698	.	+	.	ID=ftr-16;Name=M;Gene=M;
+KU182965	vadr	CDS	28039	28698	.	+	.	ID=ftr-17;Name=membrane glycoprotein;Gene=membrane glycoprotein;Parent=ftr-16;Alias=KU182965.1_8;
+KU182965	vadr	gene	28736	30007	.	+	.	ID=ftr-18;Name=N;Gene=N;
+KU182965	vadr	CDS	28736	30007	.	+	.	ID=ftr-19;Name=nucleocapsid phosphoprotein;Gene=nucleocapsid phosphoprotein;Parent=ftr-18;Alias=KU182965.1_9;

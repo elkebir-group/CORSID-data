@@ -1,0 +1,51 @@
+>Feature MH002340.1
+261	21811	gene
+			gene	orf1ab
+261	13688	CDS
+13688	21811
+			product	orf1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	MH002340.1_1
+21738	25817	gene
+			gene	S
+21738	25817	CDS
+			product	spike glycoprotein
+			protein_id	MH002340.1_2
+25780	26145	gene
+			gene	NS3a
+25780	26145	CDS
+			product	hypothetical protein
+			protein_id	MH002340.1_3
+26158	26517	gene
+			gene	NS3b
+26158	26517	CDS
+			product	hypothetical protein
+			protein_id	MH002340.1_4
+26399	27169	gene
+			gene	NS3c
+26399	27169	CDS
+			product	hypothetical protein
+			protein_id	MH002340.1_5
+27179	27850	gene
+			gene	NS3d
+27179	27850	CDS
+			product	hypothetical protein
+			protein_id	MH002340.1_6
+27928	28176	gene
+			gene	E
+27928	28176	CDS
+			product	small membrane protein
+			protein_id	MH002340.1_7
+28191	28853	gene
+			gene	M
+28191	28853	CDS
+			product	membrane glycoprotein
+			protein_id	MH002340.1_8
+28903	30186	gene
+			gene	N
+28903	30186	CDS
+			product	nucleocapsid phosphoprotein
+			protein_id	MH002340.1_9
+
+Additional note(s) to submitter:
+ERROR: MUTATION_AT_START: (CDS:hypothetical protein) expected start codon could not be identified [ACG]; seq-coords:26399..26401:+; mdl-coords:26375..26377:+; mdl:NC_009020;

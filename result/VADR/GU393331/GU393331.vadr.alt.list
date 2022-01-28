@@ -1,0 +1,11 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+GU393331.1	NC_001451	CDS	spike protein	INDEFINITE_ANNOTATION_START	20373..20417:+	20368..20368:+	protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [45>5]
+GU393331.1	NC_001451	CDS	small virion-associated protein	CDS_HAS_STOP_CODON	24500..24502:+	24506..24508:+	in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:25,M:25]
+GU393331.1	NC_001451	CDS	small virion-associated protein	POSSIBLE_FRAMESHIFT	24499..24527:+	24482..24533:+	possible frameshift in CDS (frame not restored before end) [cause:delete,S:24498,M:24482..24504(23); frame:1(2); length:275:(29);]
+GU393331.1	NC_001451	CDS	small virion-associated protein	INDEFINITE_ANNOTATION_END	24494..24527:+	24533..24533:+	protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [34>8]
+GU393331.1	NC_001451	CDS	small virion-associated protein	MUTATION_AT_START	24224..24226:+	24207..24209:+	expected start codon could not be identified [ACG]
+GU393331.1	NC_001451	CDS	small virion-associated protein	UNEXPECTED_LENGTH	24224..24527:+	24207..24533:+	length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [304]
+GU393331.1	NC_001451	CDS	membrane protein	CDS_HAS_STOP_CODON	24592..24594:+	24599..24601:+	in-frame stop codon exists 5' of stop position predicted by homology to reference [TAA, shifted S:581,M:581]
+GU393331.1	NC_001451	CDS	membrane protein	POSSIBLE_FRAMESHIFT	24590..25175:+	24596..25182:+	possible frameshift in CDS (frame not restored before end) [cause:delete,S:24589,M:24596(1); frame:1(3); length:91:(586);]
+GU393331.1	NC_001451	CDS	membrane protein	INDEFINITE_ANNOTATION_START	24499..24566:+	24505..24505:+	protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [68>5]
+GU393331.1	NC_001451	CDS	membrane protein	UNEXPECTED_LENGTH	24499..25175:+	24505..25182:+	length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [677]

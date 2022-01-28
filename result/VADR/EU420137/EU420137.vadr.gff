@@ -1,0 +1,14 @@
+##gff-version 3
+EU420137	vadr	gene	273	21238	.	+	.	ID=ftr-1;Name=ORF1ab;Gene=ORF1ab;
+EU420137	vadr	region	13217	21238	.	+	.	ID=ftr-3;Name=ORF1ab polyprotein;Gene=ORF1ab polyprotein;Parent=ftr-1;Alias=EU420137.1_1;
+EU420137	vadr	CDS	273	13247	.	+	.	ID=ftr-4;Name=ORF1a polyprotein;Gene=ORF1a polyprotein;Parent=ftr-1;Alias=EU420137.1_2;
+EU420137	vadr	gene	21240	25366	.	+	.	ID=ftr-5;Name=S;Gene=S;
+EU420137	vadr	CDS	21240	25366	.	+	.	ID=ftr-6;Name=spike protein;Gene=spike protein;Parent=ftr-5;Alias=EU420137.1_3;
+EU420137	vadr	gene	25366	26025	.	+	.	ID=ftr-7;Name=ORF3;Gene=ORF3;
+EU420137	vadr	CDS	25366	26025	.	+	.	ID=ftr-8;Name=ORF3 protein;Gene=ORF3 protein;Parent=ftr-7;Alias=EU420137.1_4;
+EU420137	vadr	gene	26019	26243	.	+	.	ID=ftr-9;Name=E;Gene=E;
+EU420137	vadr	CDS	26019	26243	.	+	.	ID=ftr-10;Name=envelope protein;Gene=envelope protein;Parent=ftr-9;Alias=EU420137.1_5;
+EU420137	vadr	gene	26250	27017	.	+	.	ID=ftr-11;Name=M;Gene=M;
+EU420137	vadr	CDS	26250	27017	.	+	.	ID=ftr-12;Name=membrane protein;Gene=membrane protein;Parent=ftr-11;Alias=EU420137.1_6;
+EU420137	vadr	gene	27038	28189	.	+	.	ID=ftr-13;Name=N;Gene=N;
+EU420137	vadr	CDS	27038	28189	.	+	.	ID=ftr-14;Name=nucleocapsid protein;Gene=nucleocapsid protein;Parent=ftr-13;Alias=EU420137.1_7;

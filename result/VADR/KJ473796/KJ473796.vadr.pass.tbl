@@ -1,0 +1,36 @@
+>Feature KJ473796.1
+274	21068	gene
+			gene	ORF1ab
+274	13047	CDS
+13047	21068
+			product	ORF1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	KJ473796.1_1
+274	13077	CDS
+			product	ORF1a polyprotein
+			protein_id	KJ473796.1_2
+21070	25200	gene
+			gene	S
+21070	25200	CDS
+			product	spike protein
+			protein_id	KJ473796.1_3
+25200	25859	gene
+			gene	ORF3
+25200	25859	CDS
+			product	ORF3 protein
+			protein_id	KJ473796.1_4
+25853	26077	gene
+			gene	E
+25853	26077	CDS
+			product	envelope protein
+			protein_id	KJ473796.1_5
+26084	26842	gene
+			gene	M
+26084	26842	CDS
+			product	membrane protein
+			protein_id	KJ473796.1_6
+26863	28032	gene
+			gene	N
+26863	28032	CDS
+			product	nucleocapsid protein
+			protein_id	KJ473796.1_7

@@ -1,0 +1,16 @@
+##gff-version 3
+KJ473799	vadr	gene	269	20937	.	+	.	ID=ftr-1;Name=ORF1ab;Gene=ORF1ab;
+KJ473799	vadr	region	12913	20937	.	+	.	ID=ftr-3;Name=ORF1ab polyprotein;Gene=ORF1ab polyprotein;Parent=ftr-1;Alias=KJ473799.1_1;
+KJ473799	vadr	CDS	269	12943	.	+	.	ID=ftr-4;Name=ORF1a polyprotein;Gene=ORF1a polyprotein;Parent=ftr-1;Alias=KJ473799.1_2;
+KJ473799	vadr	gene	20934	25075	.	+	.	ID=ftr-5;Name=S;Gene=S;
+KJ473799	vadr	CDS	20934	25075	.	+	.	ID=ftr-6;Name=spike protein;Gene=spike protein;Parent=ftr-5;Alias=KJ473799.1_3;
+KJ473799	vadr	gene	25075	25743	.	+	.	ID=ftr-7;Name=ORF3;Gene=ORF3;
+KJ473799	vadr	CDS	25075	25743	.	+	.	ID=ftr-8;Name=ORF3 protein;Gene=ORF3 protein;Parent=ftr-7;Alias=KJ473799.1_4;
+KJ473799	vadr	gene	25727	25951	.	+	.	ID=ftr-9;Name=E;Gene=E;
+KJ473799	vadr	CDS	25727	25951	.	+	.	ID=ftr-10;Name=envelope protein;Gene=envelope protein;Parent=ftr-9;Alias=KJ473799.1_5;
+KJ473799	vadr	gene	25961	26719	.	+	.	ID=ftr-11;Name=M;Gene=M;
+KJ473799	vadr	CDS	25961	26719	.	+	.	ID=ftr-12;Name=membrane protein;Gene=membrane protein;Parent=ftr-11;Alias=KJ473799.1_6;
+KJ473799	vadr	gene	26768	28036	.	+	.	ID=ftr-13;Name=N;Gene=N;
+KJ473799	vadr	CDS	26768	28036	.	+	.	ID=ftr-14;Name=nucleocapsid protein;Gene=nucleocapsid protein;Parent=ftr-13;Alias=KJ473799.1_7;
+KJ473799	vadr	gene	27786	28532	.	+	.	ID=ftr-15;Name=ORF7;Gene=ORF7;
+KJ473799	vadr	CDS	27786	28532	.	+	.	ID=ftr-16;Name=hypothetical protein;Gene=hypothetical protein;Parent=ftr-15;Alias=KJ473799.1_8;

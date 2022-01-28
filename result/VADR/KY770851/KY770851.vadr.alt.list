@@ -1,0 +1,10 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+KY770851.1	NC_028811	CDS	ORF1ab polyprotein	POSSIBLE_FRAMESHIFT	2959..3023:+	2951..2973:+	possible frameshift in CDS (frame restored before end) [cause:insert,S:2959..2966(8),M:2950; restore:insert,S:2990..3023(34),M:2973; frame:1(3)12131; length:2661:(65):1427:5:76:27:15833;]
+KY770851.1	NC_028811	CDS	ORF1ab polyprotein	POSSIBLE_FRAMESHIFT	4532..4558:+	4428..4454:+	possible frameshift in CDS (frame restored before end) [cause:delete,S:4531,M:4428(1); restore:insert,S:4558(1),M:4454; frame:13121(3)1; length:2661:65:1427:5:76:(27):15833;]
+KY770851.1	NC_028811	CDS	ORF1ab polyprotein	INSERTION_OF_NT	2990..3023:+	2973..2973:+	too large of an insertion in nucleotide-based alignment of CDS feature [34>27]
+KY770851.1	NC_028811	CDS	ORF1ab polyprotein	INSERTION_OF_NT	3039..3104:+	2988..2988:+	too large of an insertion in nucleotide-based alignment of CDS feature [66>27]
+KY770851.1	NC_028811	CDS	ORF1ab polyprotein	INSERTION_OF_NT	3003..3104:+	2989..2989:+	too large of an insertion in protein-based alignment [102>27]
+KY770851.1	NC_028811	CDS	spike glycoprotein	POSSIBLE_FRAMESHIFT	22036..22044:+	21911..21913:+	possible frameshift in CDS (frame restored before end) [cause:insert,S:22036..22040(5),M:21910; restore:insert,S:22044(1),M:21913; frame:1(3)1; length:1644:(9):2535;]
+KY770851.1	NC_028811	CDS	spike glycoprotein	INDEFINITE_ANNOTATION_START	20392..20454:+	20288..20288:+	protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [63>5]
+KY770851.1	NC_028811	CDS	hypothetical protein ORF3	POSSIBLE_FRAMESHIFT	24625..24641:+	24497..24513:+	possible frameshift in CDS (frame restored before end) [cause:insert,S:24625..24626(2),M:24496; restore:delete,S:24641,M:24512..24513(2); frame:1(3)1; length:49:(17):594;]
+KY770851.1	NC_028811	CDS	membrane glycoprotein	INDEFINITE_ANNOTATION_START	25482..25490:+	25349..25349:+	protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]

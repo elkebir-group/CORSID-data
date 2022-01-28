@@ -1,0 +1,4 @@
+#seq  seq           seq                            seed           seed      seed    5'unaln     5'unaln   5'unaln         3'unaln         3'unaln   3'unaln
+#idx  name          len  model      p/f             seq            mdl  fraction        seq         mdl  fraction             seq             mdl  fraction
+#---  ----------  -----  ---------  ----  -------------  -------------  --------  ---------  ----------  --------  --------------  --------------  --------
+1     KF530123.1  29123  NC_002306  FAIL  5561..10593:+  5746..10778:+     0.173  1..5660:+  82..5845:+     0.194  10494..29123:+  10679..29336:+     0.640

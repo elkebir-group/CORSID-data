@@ -1,0 +1,23 @@
+#       seq           seq                   ftr   ftr            ftr  num  sgm    seq    seq    mdl    mdl    sgm            5'  3'  5'   3' 
+#idx    name          len  p/f   model      type  name           idx  sgm  idx   from     to   from     to    len  str  trc  pp  pp  gap  gap
+#-----  ----------  -----  ----  ---------  ----  -------------  ---  ---  ---  -----  -----  -----  -----  -----  ---  ---  --  --  ---  ---
+1.1.1   MG987421.1  30483  FAIL  NC_038294  gene  orf1ab           1    1    1    238  21869    278  21513  21632    +  no    ?   ?  no   no 
+1.2.1   MG987421.1  30483  FAIL  NC_038294  CDS   ORF1b_protein    2    2    1    238  13787    278  13431  13550    +  no    ?   ?  no   no 
+1.2.2   MG987421.1  30483  FAIL  NC_038294  CDS   ORF1b_protein    2    2    2  13787  21869  13431  21513   8083    +  no    ?   ?  no   no 
+1.3.1   MG987421.1  30483  FAIL  NC_038294  CDS   ORF1a_protein    3    1    1    238  13809    278  13453  13572    +  no    ?   ?  no   no 
+1.4.1   MG987421.1  30483  FAIL  NC_038294  gene  S                4    1    1  21811  25854  21455  25516   4044    +  no    ?   ?  no   no 
+1.5.1   MG987421.1  30483  FAIL  NC_038294  CDS   S_protein        5    1    1  21811  25854  21455  25516   4044    +  no    ?   ?  no   no 
+1.6.1   MG987421.1  30483  FAIL  NC_038294  gene  ns3a             6    1    1  25866  26177  25531  25842    312    +  no    ?   ?  no   no 
+1.7.1   MG987421.1  30483  FAIL  NC_038294  CDS   NS3A_protein     7    1    1  25866  26177  25531  25842    312    +  no    ?   ?  no   no 
+1.8.1   MG987421.1  30483  FAIL  NC_038294  gene  ns3b             8    1    1  26186  26506  25851  26180    321    +  no    ?   ?  no   no 
+1.9.1   MG987421.1  30483  FAIL  NC_038294  CDS   NS3B_protein     9    1    1  26186  26506  25851  26180    321    +  no    ?   ?  no   no 
+1.10.1  MG987421.1  30483  FAIL  NC_038294  gene  ns3c            10    1    1  26427  27143  26092  26832    717    +  no    ?   ?  no   no 
+1.11.1  MG987421.1  30483  FAIL  NC_038294  CDS   NS3C_protein    11    1    1  26427  27143  26092  26832    717    +  no    ?   ?  no   no 
+1.12.1  MG987421.1  30483  FAIL  NC_038294  gene  ns3d            12    1    1  27150  27839  26839  27513    690    +  no    ?   ?  no   no 
+1.13.1  MG987421.1  30483  FAIL  NC_038294  CDS   NS3D_protein    13    1    1  27150  27839  26839  27513    690    +  no    ?   ?  no   no 
+1.14.1  MG987421.1  30483  FAIL  NC_038294  gene  E               14    1    1  27916  28164  27589  27837    249    +  no    ?   ?  no   no 
+1.15.1  MG987421.1  30483  FAIL  NC_038294  CDS   E_protein       15    1    1  27916  28164  27589  27837    249    +  no    ?   ?  no   no 
+1.16.1  MG987421.1  30483  FAIL  NC_038294  gene  M               16    1    1  28180  28836  27852  28511    657    +  no    ?   ?  no   no 
+1.17.1  MG987421.1  30483  FAIL  NC_038294  CDS   M_protein       17    1    1  28180  28836  27852  28511    657    +  no    ?   ?  no   no 
+1.18.1  MG987421.1  30483  FAIL  NC_038294  gene  N               18    1    1  28892  30181  28565  29800   1290    +  no    ?   ?  no   no 
+1.19.1  MG987421.1  30483  FAIL  NC_038294  CDS   N_protein       19    1    1  28892  30181  28565  29800   1290    +  no    ?   ?  no   no 

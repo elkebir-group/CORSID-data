@@ -1,0 +1,13 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+MN514967.1	NC_003045	gene	gene.5	INDEFINITE_ANNOTATION_END	27804..27804:+	27811..27811:+	alignment to homology model is a gap at 3' boundary [-]
+MN514967.1	NC_003045	CDS	4.9 kDa non-structural protein	INDEFINITE_ANNOTATION_END	27804..27804:+	27811..27811:+	alignment to homology model is a gap at 3' boundary [-]
+MN514967.1	NC_003045	CDS	4.9 kDa non-structural protein	MUTATION_AT_END	27822..27824:+	27961..27963:+	expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAA]
+MN514967.1	NC_003045	CDS	4.9 kDa non-structural protein	UNEXPECTED_LENGTH	27729..27804:+	27722..27797:+	length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [76]
+MN514967.1	NC_003045	gene	gene.6	INDEFINITE_ANNOTATION_END	27834..27834:+	28026..28026:+	alignment to homology model is a gap at 3' boundary [-]
+MN514967.1	NC_003045	gene	gene.6	INDEFINITE_ANNOTATION_START	27805..27805:+	27889..27889:+	alignment to homology model is a gap at 5' boundary [-]
+MN514967.1	NC_003045	CDS	4.8 kDa non-structural protein	CDS_HAS_STOP_CODON	27822..27824:+	27961..27963:+	in-frame stop codon exists 5' of stop position predicted by homology to reference [TAA, shifted S:10,M:10]
+MN514967.1	NC_003045	CDS	4.8 kDa non-structural protein	INDEFINITE_ANNOTATION_END	27834..27834:+	28026..28026:+	alignment to homology model is a gap at 3' boundary [-]
+MN514967.1	NC_003045	CDS	4.8 kDa non-structural protein	INDEFINITE_ANNOTATION_START	27805..27805:+	27889..27889:+	alignment to homology model is a gap at 5' boundary [-]
+MN514967.1	NC_003045	CDS	4.8 kDa non-structural protein	INDEFINITE_ANNOTATION	27805..27834:+	27944..27973:+	nucleotide-based search identifies CDS not identified in protein-based search [-]
+MN514967.1	NC_003045	CDS	small membrane protein	MUTATION_AT_END	28457..28459:+	28677..28680:+	expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAA]
+MN514967.1	NC_003045	CDS	small membrane protein	MUTATION_AT_START	28202..28204:+	28422..28424:+	expected start codon could not be identified [ATC]

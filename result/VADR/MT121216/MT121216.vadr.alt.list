@@ -1,0 +1,6 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+MT121216.1	NC_045512	CDS	surface glycoprotein	CDS_HAS_STOP_CODON	21452..21454:+	21591..21593:+	in-frame stop codon exists 5' of stop position predicted by homology to reference [TAG, shifted S:3764,M:3791]
+MT121216.1	NC_045512	CDS	surface glycoprotein	POSSIBLE_FRAMESHIFT	21424..21960:+	21565..22104:+	possible frameshift in CDS (frame restored before end) [cause:delete,S:21423,M:21565..21566(2); restore:insert,S:21960(1),M:22104; frame:1(23)13; length:2:(16:521):22:3236; intermediate:insert,S:21440..21443(4),M:21582;]
+MT121216.1	NC_045512	CDS	surface glycoprotein	POSSIBLE_FRAMESHIFT	21983..25218:+	22127..25384:+	possible frameshift in CDS (frame not restored before end) [cause:delete,S:21982,M:22127(1); frame:1231(3); length:2:16:521:22:(3236);]
+MT121216.1	NC_045512	CDS	surface glycoprotein	MUTATION_AT_START	21422..21424:+	21563..21567:+	expected start codon could not be identified [TGT]
+MT121216.1	NC_045512	CDS	surface glycoprotein	UNEXPECTED_LENGTH	21422..25218:+	21563..25384:+	length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [3797]

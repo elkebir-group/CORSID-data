@@ -1,0 +1,9 @@
+##gff-version 3
+NC_038861	vadr	CDS	315	12368	.	+	.	ID=ftr-2;Name=replicase polyprotein 1a;Gene=replicase polyprotein 1a;Alias=NC_038861.1_1;
+NC_038861	vadr	CDS	20369	24708	.	+	.	ID=ftr-5;Name=spike protein;Gene=spike protein;Alias=NC_038861.1_2;
+NC_038861	vadr	CDS	24698	25051	.	+	.	ID=ftr-7;Name=non-structural protein 3a;Gene=non-structural protein 3a;Alias=NC_038861.1_3;
+NC_038861	vadr	CDS	25136	25870	.	+	.	ID=ftr-9;Name=non-structural protein 3b;Gene=non-structural protein 3b;Alias=NC_038861.1_4;
+NC_038861	vadr	CDS	25857	26105	.	+	.	ID=ftr-11;Name=envelope protein;Gene=envelope protein;Alias=NC_038861.1_5;
+NC_038861	vadr	CDS	26116	26904	.	+	.	ID=ftr-13;Name=membrane protein;Gene=membrane protein;Alias=NC_038861.1_6;
+NC_038861	vadr	CDS	26917	28065	.	+	.	ID=ftr-15;Name=nucleoprotein;Gene=nucleoprotein;Alias=NC_038861.1_7;
+NC_038861	vadr	CDS	28071	28307	.	+	.	ID=ftr-17;Name=non-structural protein 7;Gene=non-structural protein 7;Alias=NC_038861.1_8;

@@ -1,0 +1,53 @@
+>Feature MH532440.1
+496	19277	gene
+			gene	orf1ab
+496	11355	CDS
+11355	19277
+			product	replicase polyprotein
+			exception	ribosomal slippage
+			protein_id	MH532440.1_1
+19259	22789	gene
+			gene	S
+19259	22789	CDS
+			product	spike glycoprotein
+			protein_id	MH532440.1_2
+22783	23034	gene
+			gene	E
+22783	23034	CDS
+			product	envelope protein
+			protein_id	MH532440.1_3
+23027	23680	gene
+			gene	M
+23027	23680	CDS
+			product	membrane protein
+			protein_id	MH532440.1_4
+23680	23965	gene
+			gene	NS6
+23680	23965	CDS
+			product	NS6 protein
+			protein_id	MH532440.1_5
+23986	25011	gene
+			gene	N
+23986	25011	CDS
+			product	nucleocapsid protein
+			protein_id	MH532440.1_6
+24080	24682	gene
+			gene	NS7
+24080	24682	CDS
+			product	NS7 protein
+			protein_id	MH532440.1_7
+
+Additional note(s) to submitter:
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 6]; seq-coords:25876..25881:+; mdl-coords:25405..25409:+; mdl:NC_039208;
+ERROR: LOW_SIMILARITY_START: (*sequence*) significant similarity not detected at 5' end of the sequence [low similarity region of length 8]; seq-coords:1..8:+; mdl-coords:37..44:+; mdl:NC_039208;
+ERROR: LOW_SIMILARITY: (*sequence*) internal region without significant similarity [low similarity region of length 483]; seq-coords:25076..25558:+; mdl-coords:25081..25088:+; mdl:NC_039208;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:replicase polyprotein) possible frameshift in CDS (frame restored before end) [cause:delete,S:2769,M:2801(1); restore:delete,S:2784,M:2817..2824(8); frame:1(3)1; length:2274:(15):16494;]; seq-coords:2770..2784:+; mdl-coords:2801..2824:+; mdl:NC_039208;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike glycoprotein) possible frameshift in CDS (frame restored before end) [cause:insert,S:19513..19520(8),M:19579; restore:insert,S:19553..19556(4),M:19611; frame:1(3)1213121231; length:254:(44):487:12:234:19:149:29:341:10:11:1941;]; seq-coords:19513..19556:+; mdl-coords:19580..19611:+; mdl:NC_039208;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike glycoprotein) possible frameshift in CDS (frame restored before end) [cause:insert,S:20044(1),M:20098; restore:delete,S:20055,M:20110(1); frame:131(2)13121231; length:254:44:487:(12):234:19:149:29:341:10:11:1941;]; seq-coords:20044..20055:+; mdl-coords:20099..20110:+; mdl:NC_039208;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike glycoprotein) possible frameshift in CDS (frame restored before end) [cause:delete,S:20289,M:20339(1); restore:insert,S:20308(1),M:20357; frame:13121(3)121231; length:254:44:487:12:234:(19):149:29:341:10:11:1941;]; seq-coords:20290..20308:+; mdl-coords:20339..20357:+; mdl:NC_039208;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike glycoprotein) possible frameshift in CDS (frame restored before end) [cause:insert,S:20458(1),M:20470; restore:insert,S:20482..20486(5),M:20493; frame:1312131(2)1231; length:254:44:487:12:234:19:149:(29):341:10:11:1941;]; seq-coords:20458..20486:+; mdl-coords:20471..20493:+; mdl:NC_039208;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike glycoprotein) possible frameshift in CDS (frame restored before end) [cause:delete,S:20827,M:20829..20830(2); restore:insert,S:20848(1),M:20852; frame:131213121(23)1; length:254:44:487:12:234:19:149:29:341:(10:11):1941; intermediate:delete,S:20837,M:20841..20842(2);]; seq-coords:20828..20848:+; mdl-coords:20829..20852:+; mdl:NC_039208;
+ERROR: CDS_HAS_STOP_CODON: (CDS:NS6 protein) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAA, shifted S:4,M:4]; seq-coords:23959..23961:+; mdl-coords:23965..23967:+; mdl:NC_039208;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:NS6 protein) possible frameshift in CDS (frame not restored before end) [cause:insert,S:23959(1),M:23965; frame:1(2); length:279:(7);]; seq-coords:23959..23965:+; mdl-coords:23966..23971:+; mdl:NC_039208;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:NS6 protein) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [10>8]; seq-coords:23956..23965:+; mdl-coords:23971..23971:+; mdl:NC_039208;
+ERROR: UNEXPECTED_LENGTH: (CDS:NS6 protein) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [286]; seq-coords:23680..23965:+; mdl-coords:23687..23971:+; mdl:NC_039208;

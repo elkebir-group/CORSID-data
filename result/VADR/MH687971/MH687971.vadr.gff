@@ -1,0 +1,11 @@
+##gff-version 3
+MH687971	vadr	region	13421	21574	.	+	.	ID=ftr-3;Name=replicase polyprotein;Gene=replicase polyprotein;Alias=MH687971.1_1;
+MH687971	vadr	CDS	21576	22406	.	+	.	ID=ftr-5;Name=non-structural protein NS2a;Gene=non-structural protein NS2a;Alias=MH687971.1_2;
+MH687971	vadr	CDS	22421	23698	.	+	.	ID=ftr-7;Name=hemagglutinin-esterase protein;Gene=hemagglutinin-esterase protein;Alias=MH687971.1_3;
+MH687971	vadr	CDS	23714	27790	.	+	.	ID=ftr-9;Name=spike glycoprotein;Gene=spike glycoprotein;Alias=MH687971.1_4;
+MH687971	vadr	CDS	27883	28296	.	+	.	ID=ftr-11;Name=non-structural protein NS4;Gene=non-structural protein NS4;Alias=MH687971.1_5;
+MH687971	vadr	CDS	28278	28592	.	+	.	ID=ftr-13;Name=non-structural protein NS5;Gene=non-structural protein NS5;Alias=MH687971.1_6;
+MH687971	vadr	CDS	28585	28833	.	+	.	ID=ftr-15;Name=envelope protein;Gene=envelope protein;Alias=MH687971.1_7;
+MH687971	vadr	CDS	28848	29543	.	+	.	ID=ftr-17;Name=membrane protein;Gene=membrane protein;Alias=MH687971.1_8;
+MH687971	vadr	CDS	29536	30228	.	+	.	ID=ftr-19;Name=internal protein;Gene=internal protein;Alias=MH687971.1_9;
+MH687971	vadr	CDS	29553	30884	.	+	.	ID=ftr-21;Name=nucleocapsid protein;Gene=nucleocapsid protein;Alias=MH687971.1_10;

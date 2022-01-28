@@ -1,0 +1,9 @@
+#      seq                    ftr   ftr         ftr  alert           alert                           seq  seq             mdl  mdl  alert 
+#idx   name        model      type  name        idx  code      fail  description                  coords  len          coords  len  detail
+#----  ----------  ---------  ----  ----------  ---  --------  ----  -------------------  --------------  ---  --------------  ---  ------
+1.1.1  MF542265.1  NC_002645  CDS   4a_protein    7  mutendex  yes   MUTATION_AT_END      24759..24761:+    3  24746..24748:+    3  expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAA]
+1.1.2  MF542265.1  NC_002645  CDS   4a_protein    7  unexleng  yes   UNEXPECTED_LENGTH    24102..24505:+  404  24091..24492:+  402  length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [404]
+1.1.3  MF542265.1  NC_002645  CDS   4a_protein    7  fstukcft  yes   POSSIBLE_FRAMESHIFT  24496..24505:+   10  24485..24492:+    8  possible frameshift in CDS (frame not restored before end) [cause:insert,S:24496..24497(2),M:24484; frame:1(3); length:394:(10);]
+1.2.1  MF542265.1  NC_002645  CDS   4b_protein    9  unexleng  yes   UNEXPECTED_LENGTH    24493..24761:+  269  24482..24748:+  267  length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [269]
+1.2.2  MF542265.1  NC_002645  CDS   4b_protein    9  cdsstopn  yes   CDS_HAS_STOP_CODON   24532..24534:+    3  24519..24521:+    3  in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:227,M:227]
+1.2.3  MF542265.1  NC_002645  CDS   4b_protein    9  fstukcft  yes   POSSIBLE_FRAMESHIFT  24496..24761:+  266  24485..24748:+  264  possible frameshift in CDS (frame not restored before end) [cause:insert,S:24496..24497(2),M:24484; frame:1(3); length:3:(266);]

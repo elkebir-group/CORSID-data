@@ -1,0 +1,8 @@
+#      seq                    ftr   ftr                   ftr  alert           alert                                   seq  seq             mdl  mdl  alert 
+#idx   name        model      type  name                  idx  code      fail  description                          coords  len          coords  len  detail
+#----  ----------  ---------  ----  --------------------  ---  --------  ----  ---------------------------  --------------  ---  --------------  ---  ------
+1.1.1  MH002338.1  NC_009019  -     -                       -  lowsimis  yes   LOW_SIMILARITY                     30..30:+    1        30..30:+    1  internal region without significant similarity [low similarity region of length 1]
+1.2.1  MH002338.1  NC_009019  CDS   orf1ab_polyprotein      2  insertnp  yes   INSERTION_OF_NT                3300..3329:+   30    3335..3335:+    1  too large of an insertion in protein-based alignment [30>27]
+1.2.2  MH002338.1  NC_009019  CDS   orf1ab_polyprotein      2  insertnn  yes   INSERTION_OF_NT                3302..3331:+   30    3336..3336:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [30>27]
+1.3.1  MH002338.1  NC_009019  CDS   spike_glycoprotein      4  indf5pst  yes   INDEFINITE_ANNOTATION_START  21562..21597:+   36  21570..21570:+    1  protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [36>5]
+1.4.1  MH002338.1  NC_009019  CDS   hypothetical_protein    6  indf5plg  yes   INDEFINITE_ANNOTATION_START  25644..25646:+    3  25655..25655:+    1  protein-based alignment extends past nucleotide-based alignment at 5' end [-]

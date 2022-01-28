@@ -1,0 +1,3 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+KJ473820.1	NC_009020	CDS	hypothetical protein	INDEFINITE_ANNOTATION_START	26377..26406:+	26375..26375:+	protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [30>5]
+KJ473820.1	NC_009020	CDS	hypothetical protein	MUTATION_AT_START	26377..26379:+	26375..26377:+	expected start codon could not be identified [ACG]

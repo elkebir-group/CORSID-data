@@ -1,0 +1,69 @@
+>Feature JN547228.1
+293	20634	gene
+293	12613	CDS
+12613	20634
+			product	Pol1
+			exception	ribosomal slippage
+			protein_id	JN547228.1_1
+293	622	mat_peptide
+			product	putative leader protein
+			protein_id	JN547228.1_1
+2978	7843	mat_peptide
+			product	putative coronavirus nsp1
+			protein_id	JN547228.1_1
+9284	10189	mat_peptide
+			product	putative coronavirus nsp2 [3CL-PRO]
+			protein_id	JN547228.1_1
+10190	11026	mat_peptide
+			product	putative coronavirus nsp3 [HD2]
+			protein_id	JN547228.1_1
+11027	11275	mat_peptide
+			product	putative coronavirus nsp4
+			protein_id	JN547228.1_1
+11276	11860	mat_peptide
+			product	putative coronavirus nsp5
+			protein_id	JN547228.1_1
+11861	12184	mat_peptide
+			product	putative coronavirus nsp6
+			protein_id	JN547228.1_1
+12185	12589	mat_peptide
+			product	formerly known as growth-factor-like protein
+			product	putative coronavirus nsp7
+			protein_id	JN547228.1_1
+12590	12613	mat_peptide
+12613	15369
+			product	RNA-dependent RNA polymerase
+			product	putative coronavirus nsp9 [RdRp]
+			protein_id	JN547228.1_1
+15370	17160	mat_peptide
+			product	putative coronavirus nsp10 [MB, NTPase/HEL]
+			protein_id	JN547228.1_1
+17161	18711	mat_peptide
+			product	putative coronavirus nsp11
+			protein_id	JN547228.1_1
+18712	19728	mat_peptide
+			product	putative coronavirus nsp12
+			protein_id	JN547228.1_1
+19729	20631	mat_peptide
+			product	putative coronavirus nsp13
+			protein_id	JN547228.1_1
+20631	24782	gene
+20631	24782	CDS
+			product	spike protein
+			protein_id	JN547228.1_2
+24782	25456	gene
+24782	25456	CDS
+			product	hypothetical protein
+			protein_id	JN547228.1_3
+25437	25667	gene
+25437	25667	CDS
+			product	envelope protein
+			protein_id	JN547228.1_4
+25675	26355	gene
+25675	26355	CDS
+			product	membrane protein
+			protein_id	JN547228.1_5
+26367	27692	gene
+26367	27692	CDS
+			product	nucleocapsid protein
+			protein_id	JN547228.1_6

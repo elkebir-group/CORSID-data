@@ -1,0 +1,19 @@
+##gff-version 3
+NC_009019	vadr	gene	267	21625	.	+	.	ID=ftr-1;Name=orf1ab;Gene=orf1ab;
+NC_009019	vadr	region	13550	21625	.	+	.	ID=ftr-3;Name=orf1ab polyprotein;Gene=orf1ab polyprotein;Parent=ftr-1;Alias=NC_009019.1_1;
+NC_009019	vadr	gene	21570	25628	.	+	.	ID=ftr-4;Name=S;Gene=S;
+NC_009019	vadr	CDS	21570	25628	.	+	.	ID=ftr-5;Name=spike glycoprotein;Gene=spike glycoprotein;Parent=ftr-4;Alias=NC_009019.1_2;
+NC_009019	vadr	gene	25655	25930	.	+	.	ID=ftr-6;Name=NS3a;Gene=NS3a;
+NC_009019	vadr	CDS	25655	25930	.	+	.	ID=ftr-7;Name=hypothetical protein;Gene=hypothetical protein;Parent=ftr-6;Alias=NC_009019.1_3;
+NC_009019	vadr	gene	25948	26307	.	+	.	ID=ftr-8;Name=NS3b;Gene=NS3b;
+NC_009019	vadr	CDS	25948	26307	.	+	.	ID=ftr-9;Name=hypothetical protein;Gene=hypothetical protein;Parent=ftr-8;Alias=NC_009019.1_4;
+NC_009019	vadr	gene	26111	26968	.	+	.	ID=ftr-10;Name=NS3c;Gene=NS3c;
+NC_009019	vadr	CDS	26111	26968	.	+	.	ID=ftr-11;Name=hypothetical protein;Gene=hypothetical protein;Parent=ftr-10;Alias=NC_009019.1_5;
+NC_009019	vadr	gene	26984	27667	.	+	.	ID=ftr-12;Name=NS3d;Gene=NS3d;
+NC_009019	vadr	CDS	26984	27667	.	+	.	ID=ftr-13;Name=hypothetical protein;Gene=hypothetical protein;Parent=ftr-12;Alias=NC_009019.1_6;
+NC_009019	vadr	gene	27737	27985	.	+	.	ID=ftr-14;Name=E;Gene=E;
+NC_009019	vadr	CDS	27737	27985	.	+	.	ID=ftr-15;Name=small membrane protein;Gene=small membrane protein;Parent=ftr-14;Alias=NC_009019.1_7;
+NC_009019	vadr	gene	28000	28659	.	+	.	ID=ftr-16;Name=M;Gene=M;
+NC_009019	vadr	CDS	28000	28659	.	+	.	ID=ftr-17;Name=membrane glycoprotein;Gene=membrane glycoprotein;Parent=ftr-16;Alias=NC_009019.1_8;
+NC_009019	vadr	gene	28697	29968	.	+	.	ID=ftr-18;Name=N;Gene=N;
+NC_009019	vadr	CDS	28697	29968	.	+	.	ID=ftr-19;Name=nucleocapsid phosphoprotein;Gene=nucleocapsid phosphoprotein;Parent=ftr-18;Alias=NC_009019.1_9;

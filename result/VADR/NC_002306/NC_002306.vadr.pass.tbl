@@ -1,0 +1,50 @@
+>Feature NC_002306.3
+311	20439	gene
+			gene	ORF 1a/1b
+311	12409	CDS
+12409	20439
+			product	polyprotein ab
+			exception	ribosomal slippage
+			protein_id	NC_002306.3_1
+20436	24794	gene
+			gene	S
+20436	24794	CDS
+			product	spike protein
+			protein_id	NC_002306.3_2
+24861	25076	gene
+			gene	nsp 3a
+24861	25076	CDS
+			product	putative 3a protein
+			protein_id	NC_002306.3_3
+25021	25236	gene
+			gene	nsp 3b
+25021	25236	CDS
+			product	putative 3b protein
+			protein_id	NC_002306.3_4
+25233	25967	gene
+			gene	nsp 3c
+25954	26202	gene
+			gene	E
+25954	26202	CDS
+			product	E protein
+			protein_id	NC_002306.3_5
+26213	27001	gene
+			gene	M
+26213	27001	CDS
+			product	matrix protein
+			protein_id	NC_002306.3_6
+27014	28147	gene
+			gene	N
+27014	28147	CDS
+			product	nucleocapsid protein
+			protein_id	NC_002306.3_7
+28152	28457	gene
+			gene	nsp 7a
+28152	28457	CDS
+			product	non-structural protein 7a
+			protein_id	NC_002306.3_8
+28462	29082	gene
+			gene	nsp 7b
+28462	29082	CDS
+			product	non-structural protein 7b
+			protein_id	NC_002306.3_9

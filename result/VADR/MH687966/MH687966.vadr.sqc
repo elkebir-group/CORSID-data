@@ -1,0 +1,4 @@
+#seq  seq           seq                              sub                     seq    mdl         num                        sub     score  diff/  seq   
+#idx  name          len  p/f   ant  model1     grp1  grp1    score  sc/nt    cov    cov  bias  hits  str  model2     grp2  grp2     diff     nt  alerts
+#---  ----------  -----  ----  ---  ---------  ----  ----  -------  -----  -----  -----  ----  ----  ---  ---------  ----  ----  -------  -----  ------
+1     MH687966.1  28389  FAIL  yes  NC_009657  -     -     38998.0  1.505  0.913  0.919     0     4    +  NC_003436  -     -     30769.7  1.054  DUPLICATE_REGIONS(dupregin),LOW_SIMILARITY(lowsimis)

@@ -1,0 +1,2 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+NC_006213.1	NC_006213	-	*sequence*	DISCONTINUOUS_SIMILARITY	1..30741:+,34..66:+,27724..27756:+	1..30741:+,27724..27756:+,34..66:+	not all hits are in the same order in the sequence and the homology model [seq order: 1,2,3, mdl order: 1,3,2]

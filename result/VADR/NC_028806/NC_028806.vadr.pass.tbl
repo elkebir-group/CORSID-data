@@ -1,0 +1,34 @@
+>Feature NC_028806.1
+307	12354	gene
+307	12354	CDS
+			product	replicase polyprotein 1a
+			protein_id	NC_028806.1_1
+12312	20354	gene
+20355	24503	gene
+20355	24503	CDS
+			product	spike protein
+			protein_id	NC_028806.1_2
+24493	24585	gene
+24493	24585	CDS
+			product	non-structural protein 3a
+			protein_id	NC_028806.1_3
+24666	25400	gene
+24666	25400	CDS
+			product	non-structural protein 3b
+			protein_id	NC_028806.1_4
+25387	25635	gene
+25387	25635	CDS
+			product	envelope protein
+			protein_id	NC_028806.1_5
+25646	26434	gene
+25646	26434	CDS
+			product	membrane protein
+			protein_id	NC_028806.1_6
+26447	27595	gene
+26447	27595	CDS
+			product	nucleoprotein
+			protein_id	NC_028806.1_7
+27601	27837	gene
+27601	27837	CDS
+			product	non-structural protein 7
+			protein_id	NC_028806.1_8

@@ -1,0 +1,7 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+FJ904714.1	NC_001451	CDS	spike protein	INDEFINITE_ANNOTATION_START	20374..20418:+	20368..20368:+	protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [45>5]
+FJ904714.1	NC_001451	CDS	small virion-associated protein	CDS_HAS_STOP_CODON	24501..24503:+	24506..24508:+	in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:25,M:25]
+FJ904714.1	NC_001451	CDS	small virion-associated protein	POSSIBLE_FRAMESHIFT	24500..24528:+	24482..24533:+	possible frameshift in CDS (frame not restored before end) [cause:delete,S:24499,M:24482..24504(23); frame:1(2); length:275:(29);]
+FJ904714.1	NC_001451	CDS	small virion-associated protein	INDEFINITE_ANNOTATION_END	24501..24528:+	24533..24533:+	protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [28>8]
+FJ904714.1	NC_001451	CDS	small virion-associated protein	MUTATION_AT_START	24225..24227:+	24207..24209:+	expected start codon could not be identified [ACG]
+FJ904714.1	NC_001451	CDS	small virion-associated protein	UNEXPECTED_LENGTH	24225..24528:+	24207..24533:+	length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [304]

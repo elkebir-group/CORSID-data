@@ -1,0 +1,6 @@
+#      seq                    ftr   ftr             ftr  alert           alert                                   seq  seq             mdl  mdl  alert 
+#idx   name        model      type  name            idx  code      fail  description                          coords  len          coords  len  detail
+#----  ----------  ---------  ----  --------------  ---  --------  ----  ---------------------------  --------------  ---  --------------  ---  ------
+1.1.1  MH687948.1  NC_009657  -     -                 -  lowsim3s  yes   LOW_SIMILARITY_END           28244..28255:+   12  28179..28190:+   12  significant similarity not detected at 3' end of the sequence [low similarity region of length 12]
+1.1.2  MH687948.1  NC_009657  -     -                 -  lowsimis  yes   LOW_SIMILARITY               27617..27767:+  151  27657..27702:+   46  internal region without significant similarity [low similarity region of length 151]
+1.2.1  MH687948.1  NC_009657  CDS   matrix_protein   10  indf5pst  yes   INDEFINITE_ANNOTATION_START  25635..25640:+    6  25678..25678:+    1  protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [6>5]

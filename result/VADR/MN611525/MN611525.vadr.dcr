@@ -1,0 +1,7 @@
+#     seq         mdl        ftr   ftr                          ftr  dcr     model  indel       orig        new  codon           codon   orig    new   dcr  did  
+#idx  name        name       type  name                         idx  type      pos   apos  seq-uapos  seq-uapos  type           coords  codon  codon  iter  swap?
+#---  ----------  ---------  ----  ---------------------------  ---  ------  -----  -----  ---------  ---------  -----  --------------  -----  -----  ----  -----
+1.1   MN611525.1  NC_018871  CDS   membrane_protein               9  insert  25608  25657      25408      25409  start  25409..25411:+    AAT    ATG     1  yes  
+1.2   MN611525.1  NC_018871  CDS   non-structural_protein_NS7c   17  delete  28216  28268      27932      27933  stop   27931..27933:+    TAG    AGT     1  no   
+1.3   MN611525.1  NC_018871  CDS   non-structural_protein_NS7c   17  delete  28216  28268      27932      27933  stop   27931..27933:+    TAG    AGT     2  no   
+#---  ----------  ---------  ----  ---------------------------  ---  ------  -----  -----  ---------  ---------  -----  --------------  -----  -----  ----  -----

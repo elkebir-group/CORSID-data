@@ -1,0 +1,7 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+MK581203.1	NC_001451	CDS	spike protein	INDEFINITE_ANNOTATION_START	20348..20392:+	20368..20368:+	protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [45>5]
+MK581203.1	NC_001451	CDS	small virion-associated protein	CDS_HAS_STOP_CODON	24487..24489:+	24507..24509:+	in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:24,M:24]
+MK581203.1	NC_001451	CDS	small virion-associated protein	INDEFINITE_ANNOTATION_END	24484..24513:+	24533..24533:+	protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [30>5, no valid stop codon in nucleotide-based prediction]
+MK581203.1	NC_001451	CDS	small virion-associated protein	MUTATION_AT_START	24208..24210:+	24207..24209:+	expected start codon could not be identified [ACG]
+MK581203.1	NC_001451	CDS	membrane protein	INDEFINITE_ANNOTATION_START	24485..24490:+	24505..24505:+	protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [6>5]
+MK581203.1	NC_001451	CDS	membrane protein	MUTATION_AT_START	24485..24487:+	24505..24507:+	expected start codon could not be identified [GGT]

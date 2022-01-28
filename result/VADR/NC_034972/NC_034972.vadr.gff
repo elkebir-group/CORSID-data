@@ -1,0 +1,9 @@
+##gff-version 3
+NC_034972	vadr	CDS	437	12361	.	+	.	ID=ftr-2;Name=orf1a polyprotein;Gene=orf1a polyprotein;Alias=NC_034972.1_1;
+NC_034972	vadr	CDS	20376	23756	.	+	.	ID=ftr-5;Name=spike protein;Gene=spike protein;Alias=NC_034972.1_2;
+NC_034972	vadr	CDS	23753	24397	.	+	.	ID=ftr-7;Name=ORF3;Gene=ORF3;Alias=NC_034972.1_3;
+NC_034972	vadr	CDS	24397	24633	.	+	.	ID=ftr-9;Name=envelope protein;Gene=envelope protein;Alias=NC_034972.1_4;
+NC_034972	vadr	CDS	24643	25389	.	+	.	ID=ftr-11;Name=membrane protein;Gene=membrane protein;Alias=NC_034972.1_5;
+NC_034972	vadr	CDS	25401	25901	.	+	.	ID=ftr-13;Name=ORF6;Gene=ORF6;Alias=NC_034972.1_6;
+NC_034972	vadr	CDS	25903	27072	.	+	.	ID=ftr-15;Name=nucleocapsid protein;Gene=nucleocapsid protein;Alias=NC_034972.1_7;
+NC_034972	vadr	CDS	27074	27391	.	+	.	ID=ftr-17;Name=ORF8;Gene=ORF8;Alias=NC_034972.1_8;

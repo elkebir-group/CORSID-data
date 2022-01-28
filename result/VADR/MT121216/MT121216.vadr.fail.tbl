@@ -1,0 +1,156 @@
+>Feature MT121216.1
+146	21414	gene
+			gene	ORF1ab
+146	13327	CDS
+13327	21414
+			product	ORF1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	MT121216.1_1
+146	13342	CDS
+			product	ORF1a polyprotein
+			protein_id	MT121216.1_2
+146	685	mat_peptide
+			product	leader protein
+			protein_id	MT121216.1_1
+146	685	mat_peptide
+			product	leader protein
+			protein_id	MT121216.1_2
+686	2599	mat_peptide
+			product	nsp2
+			protein_id	MT121216.1_1
+686	2599	mat_peptide
+			product	nsp2
+			protein_id	MT121216.1_2
+2600	8413	mat_peptide
+			product	nsp3
+			protein_id	MT121216.1_1
+2600	8413	mat_peptide
+			product	nsp3
+			protein_id	MT121216.1_2
+8414	9913	mat_peptide
+			product	nsp4
+			protein_id	MT121216.1_1
+8414	9913	mat_peptide
+			product	nsp4
+			protein_id	MT121216.1_2
+9914	10831	mat_peptide
+			product	3C-like proteinase
+			protein_id	MT121216.1_1
+9914	10831	mat_peptide
+			product	3C-like proteinase
+			protein_id	MT121216.1_2
+10832	11701	mat_peptide
+			product	nsp6
+			protein_id	MT121216.1_1
+10832	11701	mat_peptide
+			product	nsp6
+			protein_id	MT121216.1_2
+11702	11950	mat_peptide
+			product	nsp7
+			protein_id	MT121216.1_1
+11702	11950	mat_peptide
+			product	nsp7
+			protein_id	MT121216.1_2
+11951	12544	mat_peptide
+			product	nsp8
+			protein_id	MT121216.1_1
+11951	12544	mat_peptide
+			product	nsp8
+			protein_id	MT121216.1_2
+12545	12883	mat_peptide
+			product	nsp9
+			protein_id	MT121216.1_1
+12545	12883	mat_peptide
+			product	nsp9
+			protein_id	MT121216.1_2
+12884	13300	mat_peptide
+			product	nsp10
+			protein_id	MT121216.1_1
+12884	13300	mat_peptide
+			product	nsp10
+			protein_id	MT121216.1_2
+13301	13327	mat_peptide
+13327	16095
+			product	RNA-dependent RNA polymerase
+			protein_id	MT121216.1_1
+13301	13339	mat_peptide
+			product	nsp11
+			protein_id	MT121216.1_2
+13335	13362	stem_loop
+			note	Coronavirus frameshifting stimulation element stem-loop 1
+13347	13401	stem_loop
+			note	Coronavirus frameshifting stimulation element stem-loop 2
+16096	17898	mat_peptide
+			product	helicase
+			protein_id	MT121216.1_1
+17899	19479	mat_peptide
+			product	3'-to-5' exonuclease
+			protein_id	MT121216.1_1
+19480	20517	mat_peptide
+			product	endoRNAse
+			protein_id	MT121216.1_1
+20518	21411	mat_peptide
+			product	2'-O-ribose methyltransferase
+			protein_id	MT121216.1_1
+21422	25218	gene
+			gene	S
+21422	25218	CDS
+			product	surface glycoprotein
+			protein_id	MT121216.1_3
+25227	26054	gene
+			gene	ORF3a
+25227	26054	CDS
+			product	ORF3a protein
+			protein_id	MT121216.1_4
+26079	26306	gene
+			gene	E
+26079	26306	CDS
+			product	envelope protein
+			protein_id	MT121216.1_5
+26357	27025	gene
+			gene	M
+26357	27025	CDS
+			product	membrane glycoprotein
+			protein_id	MT121216.1_6
+27036	27221	gene
+			gene	ORF6
+27036	27221	CDS
+			product	ORF6 protein
+			protein_id	MT121216.1_7
+27228	27593	gene
+			gene	ORF7a
+27228	27593	CDS
+			product	ORF7a protein
+			protein_id	MT121216.1_8
+27590	27721	gene
+			gene	ORF7b
+27590	27721	CDS
+			product	ORF7b
+			protein_id	MT121216.1_9
+27728	28045	gene
+			gene	ORF8
+27728	28045	misc_feature
+			note	similar to ORF8 protein
+28060	29319	gene
+			gene	N
+28060	29319	CDS
+			product	nucleocapsid phosphoprotein
+			protein_id	MT121216.1_10
+29344	29460	gene
+			gene	ORF10
+29344	29460	CDS
+			product	ORF10 protein
+			protein_id	MT121216.1_11
+29395	29430	stem_loop
+			note	Coronavirus 3' UTR pseudoknot stem-loop 1
+29415	29443	stem_loop
+			note	Coronavirus 3' UTR pseudoknot stem-loop 2
+29514	>29521	stem_loop
+			note	Coronavirus 3' stem-loop II-like motif (s2m)
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:surface glycoprotein) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAG, shifted S:3764,M:3791]; seq-coords:21452..21454:+; mdl-coords:21591..21593:+; mdl:NC_045512;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:surface glycoprotein) possible frameshift in CDS (frame restored before end) [cause:delete,S:21423,M:21565..21566(2); restore:insert,S:21960(1),M:22104; frame:1(23)13; length:2:(16:521):22:3236; intermediate:insert,S:21440..21443(4),M:21582;]; seq-coords:21424..21960:+; mdl-coords:21565..22104:+; mdl:NC_045512;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:surface glycoprotein) possible frameshift in CDS (frame not restored before end) [cause:delete,S:21982,M:22127(1); frame:1231(3); length:2:16:521:22:(3236);]; seq-coords:21983..25218:+; mdl-coords:22127..25384:+; mdl:NC_045512;
+ERROR: MUTATION_AT_START: (CDS:surface glycoprotein) expected start codon could not be identified [TGT]; seq-coords:21422..21424:+; mdl-coords:21563..21567:+; mdl:NC_045512;
+ERROR: UNEXPECTED_LENGTH: (CDS:surface glycoprotein) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [3797]; seq-coords:21422..25218:+; mdl-coords:21563..25384:+; mdl:NC_045512;

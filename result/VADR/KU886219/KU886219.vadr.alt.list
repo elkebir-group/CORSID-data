@@ -1,0 +1,6 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+KU886219.1	NC_003045	CDS	4.8 kDa non-structural protein	CDS_HAS_STOP_CODON	27977..27979:+	28003..28006:+	in-frame stop codon exists 5' of stop position predicted by homology to reference [TAA, shifted S:20,M:20]
+KU886219.1	NC_003045	CDS	4.8 kDa non-structural protein	POSSIBLE_FRAMESHIFT	27979..27999:+	28005..28026:+	possible frameshift in CDS (frame not restored before end) [cause:delete,S:27978,M:28005(1); frame:1(3); length:116:(21);]
+KU886219.1	NC_003045	CDS	4.8 kDa non-structural protein	INDEFINITE_ANNOTATION_END	27977..27999:+	28026..28026:+	protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [23>8]
+KU886219.1	NC_003045	CDS	4.8 kDa non-structural protein	MUTATION_AT_START	27863..27865:+	27889..27891:+	expected start codon could not be identified [ATT]
+KU886219.1	NC_003045	CDS	4.8 kDa non-structural protein	UNEXPECTED_LENGTH	27863..27999:+	27889..28026:+	length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [137]

@@ -1,0 +1,5 @@
+#      seq                    ftr   ftr                 ftr  alert           alert                     seq  seq           mdl  mdl  alert 
+#idx   name        model      type  name                idx  code      fail  description            coords  len        coords  len  detail
+#----  ----------  ---------  ----  ------------------  ---  --------  ----  ---------------  ------------  ---  ------------  ---  ------
+1.1.1  MN611519.1  NC_009019  CDS   orf1ab_polyprotein    2  insertnp  yes   INSERTION_OF_NT  3327..3356:+   30  3335..3335:+    1  too large of an insertion in protein-based alignment [30>27]
+1.1.2  MN611519.1  NC_009019  CDS   orf1ab_polyprotein    2  insertnn  yes   INSERTION_OF_NT  3325..3354:+   30  3332..3332:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [30>27]

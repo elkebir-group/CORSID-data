@@ -1,0 +1,11 @@
+#     alert     causes   short                             per    num   num  long       
+#idx  code      failure  description                      type  cases  seqs  description
+#---  --------  -------  ---------------------------  --------  -----  ----  -----------
+1     lowsimic  no       LOW_FEATURE_SIMILARITY        feature      6     1  region within annotated feature that is or matches a CDS lacks significant similarity
+#---  --------  -------  ---------------------------  --------  -----  ----  -----------
+2     lowcovrg  yes      LOW_COVERAGE                 sequence      1     1  low sequence fraction with significant similarity to homology model
+3     fstukcfi  yes*     POSSIBLE_FRAMESHIFT           feature     19     1  possible frameshift in CDS (frame restored before end)
+4     indf5pst  yes*     INDEFINITE_ANNOTATION_START   feature      2     1  protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint
+5     insertnp  yes      INSERTION_OF_NT               feature      1     1  too large of an insertion in protein-based alignment
+6     deletinp  yes*     DELETION_OF_NT                feature      1     1  too large of a deletion in protein-based alignment
+#---  --------  -------  ---------------------------  --------  -----  ----  -----------

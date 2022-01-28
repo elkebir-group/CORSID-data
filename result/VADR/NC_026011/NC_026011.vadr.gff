@@ -1,0 +1,11 @@
+##gff-version 3
+NC_026011	vadr	region	13484	21637	.	+	.	ID=ftr-3;Name=replicase polyprotein;Gene=replicase polyprotein;Alias=NC_026011.1_1;
+NC_026011	vadr	CDS	21639	22469	.	+	.	ID=ftr-5;Name=non-structural protein NS2a;Gene=non-structural protein NS2a;Alias=NC_026011.1_2;
+NC_026011	vadr	CDS	22484	23761	.	+	.	ID=ftr-7;Name=hemagglutinin-esterase protein;Gene=hemagglutinin-esterase protein;Alias=NC_026011.1_3;
+NC_026011	vadr	CDS	23777	27853	.	+	.	ID=ftr-9;Name=spike glycoprotein;Gene=spike glycoprotein;Alias=NC_026011.1_4;
+NC_026011	vadr	CDS	27946	28356	.	+	.	ID=ftr-11;Name=non-structural protein NS4;Gene=non-structural protein NS4;Alias=NC_026011.1_5;
+NC_026011	vadr	CDS	28338	28652	.	+	.	ID=ftr-13;Name=non-structural protein NS5;Gene=non-structural protein NS5;Alias=NC_026011.1_6;
+NC_026011	vadr	CDS	28645	28893	.	+	.	ID=ftr-15;Name=envelope protein;Gene=envelope protein;Alias=NC_026011.1_7;
+NC_026011	vadr	CDS	28908	29603	.	+	.	ID=ftr-17;Name=membrane protein;Gene=membrane protein;Alias=NC_026011.1_8;
+NC_026011	vadr	CDS	29596	30288	.	+	.	ID=ftr-19;Name=internal protein;Gene=internal protein;Alias=NC_026011.1_9;
+NC_026011	vadr	CDS	29613	30944	.	+	.	ID=ftr-21;Name=nucleocapsid protein;Gene=nucleocapsid protein;Alias=NC_026011.1_10;

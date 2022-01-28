@@ -1,0 +1,20 @@
+#       seq           seq                   ftr   ftr                          ftr  num  sgm    seq    seq    mdl    mdl    sgm            5'  3'  5'   3' 
+#idx    name          len  p/f   model      type  name                         idx  sgm  idx   from     to   from     to    len  str  trc  pp  pp  gap  gap
+#-----  ----------  -----  ----  ---------  ----  ---------------------------  ---  ---  ---  -----  -----  -----  -----  -----  ---  ---  --  --  ---  ---
+1.1.1   MF094688.1  27177  FAIL  NC_009988  gene  gene.1                         1    1    1    304  20489    297  20479  20186    +  no    ?   ?  no   no 
+1.2.1   MF094688.1  27177  FAIL  NC_009988  CDS   orf1ab_polyprotein             2    2    1    304  12456    297  12446  12153    +  no    ?   ?  no   no 
+1.2.2   MF094688.1  27177  FAIL  NC_009988  CDS   orf1ab_polyprotein             2    2    2  12456  20489  12446  20479   8034    +  no    ?   ?  no   no 
+1.3.1   MF094688.1  27177  FAIL  NC_009988  gene  gene.2                         3    1    1    304  12486    297  12476  12183    +  no    ?   ?  no   no 
+1.4.1   MF094688.1  27177  FAIL  NC_009988  CDS   orf1a_polyprotein              4    1    1    304  12486    297  12476  12183    +  no    ?   ?  no   no 
+1.5.1   MF094688.1  27177  FAIL  NC_009988  gene  S                              5    1    1  20486  23881  20476  23862   3396    +  no    ?   ?  no   no 
+1.6.1   MF094688.1  27177  FAIL  NC_009988  CDS   spike_glycoprotein             6    1    1  20486  23881  20476  23862   3396    +  no    ?   ?  no   no 
+1.7.1   MF094688.1  27177  FAIL  NC_009988  gene  NS3                            7    1    1  23881  24570  23862  24551    690    +  no    ?   ?  no   no 
+1.8.1   MF094688.1  27177  FAIL  NC_009988  CDS   hypothetical_protein           8    1    1  23881  24570  23862  24551    690    +  no    ?   ?  no   no 
+1.9.1   MF094688.1  27177  FAIL  NC_009988  gene  E                              9    1    1  24551  24778  24532  24759    228    +  no    ?   ?  no   no 
+1.10.1  MF094688.1  27177  FAIL  NC_009988  CDS   small_membrane_protein        10    1    1  24551  24778  24532  24759    228    +  no    ?   ?  no   no 
+1.11.1  MF094688.1  27177  FAIL  NC_009988  gene  M                             11    1    1  24787  25476  24768  25457    690    +  no    ?   ?  no   no 
+1.12.1  MF094688.1  27177  FAIL  NC_009988  CDS   membrane_glycoprotein         12    1    1  24787  25476  24768  25457    690    +  no    ?   ?  no   no 
+1.13.1  MF094688.1  27177  FAIL  NC_009988  gene  N                             13    1    1  25488  26615  25469  26596   1128    +  no    ?   ?  no   no 
+1.14.1  MF094688.1  27177  FAIL  NC_009988  CDS   nucleocapsid_phosphoprotein   14    1    1  25488  26615  25469  26596   1128    +  no    ?   ?  no   no 
+1.15.1  MF094688.1  27177  FAIL  NC_009988  gene  NS7a                          15    1    1  26627  26926  26608  26907    300    +  no    ?   ?  no   no 
+1.16.1  MF094688.1  27177  FAIL  NC_009988  CDS   hypothetical_protein          16    1    1  26627  26926  26608  26907    300    +  no    ?   ?  no   no 

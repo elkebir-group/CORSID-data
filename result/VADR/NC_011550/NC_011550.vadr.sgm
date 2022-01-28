@@ -1,0 +1,22 @@
+#       seq            seq                   ftr   ftr                          ftr  num  sgm    seq    seq    mdl    mdl    sgm            5'  3'  5'   3' 
+#idx    name           len  p/f   model      type  name                         idx  sgm  idx   from     to   from     to    len  str  trc  pp  pp  gap  gap
+#-----  -----------  -----  ----  ---------  ----  ---------------------------  ---  ---  ---  -----  -----  -----  -----  -----  ---  ---  --  --  ---  ---
+1.1.1   NC_011550.1  26552  FAIL  NC_011550  gene  orf1ab                         1    1    1    595  19517    595  19517  18923    +  no    ?   ?  no   no 
+1.2.1   NC_011550.1  26552  FAIL  NC_011550  CDS   orf1ab_polyprotein             2    2    1    595  11592    595  11592  10998    +  no    ?   ?  no   no 
+1.2.2   NC_011550.1  26552  FAIL  NC_011550  CDS   orf1ab_polyprotein             2    2    2  11592  19517  11592  19517   7926    +  no    ?   ?  no   no 
+1.3.1   NC_011550.1  26552  FAIL  NC_011550  gene  S                              3    1    1  19499  22969  19499  22969   3471    +  no    ?   ?  no   no 
+1.4.1   NC_011550.1  26552  FAIL  NC_011550  CDS   spike_glycoprotein             4    1    1  19499  22969  19499  22969   3471    +  no    ?   ?  no   no 
+1.5.1   NC_011550.1  26552  FAIL  NC_011550  gene  E                              5    1    1  22963  23211  22963  23211    249    +  no    ?   ?  no   no 
+1.6.1   NC_011550.1  26552  FAIL  NC_011550  CDS   small_membrane_protein         6    1    1  22963  23211  22963  23211    249    +  no    ?   ?  no   no 
+1.7.1   NC_011550.1  26552  FAIL  NC_011550  gene  M                              7    1    1  23204  23860  23204  23860    657    +  no    ?   ?  no   no 
+1.8.1   NC_011550.1  26552  FAIL  NC_011550  CDS   membrane_protein               8    1    1  23204  23860  23204  23860    657    +  no    ?   ?  no   no 
+1.9.1   NC_011550.1  26552  FAIL  NC_011550  gene  NS6                            9    1    1  23860  24186  23860  24186    327    +  no    ?   ?  no   no 
+1.10.1  NC_011550.1  26552  FAIL  NC_011550  CDS   nonstructural_protein         10    1    1  23860  24186  23860  24186    327    +  no    ?   ?  no   no 
+1.11.1  NC_011550.1  26552  FAIL  NC_011550  gene  N                             11    1    1  24326  25384  24326  25384   1059    +  no    ?   ?  no   no 
+1.12.1  NC_011550.1  26552  FAIL  NC_011550  CDS   nucleocapsid_phosphoprotein   12    1    1  24326  25384  24326  25384   1059    +  no    ?   ?  no   no 
+1.13.1  NC_011550.1  26552  FAIL  NC_011550  gene  NS7a                          13    1    1  25417  25788  25417  25788    372    +  no    ?   ?  no   no 
+1.14.1  NC_011550.1  26552  FAIL  NC_011550  CDS   nonstructural_protein         14    1    1  25417  25788  25417  25788    372    +  no    ?   ?  no   no 
+1.15.1  NC_011550.1  26552  FAIL  NC_011550  gene  NS7b                          15    1    1  25794  26051  25794  26051    258    +  no    ?   ?  no   no 
+1.16.1  NC_011550.1  26552  FAIL  NC_011550  CDS   nonstructural_protein         16    1    1  25794  26051  25794  26051    258    +  no    ?   ?  no   no 
+1.17.1  NC_011550.1  26552  FAIL  NC_011550  gene  NS7c                          17    1    1  26048  26329  26048  26329    282    +  no    ?   ?  no   no 
+1.18.1  NC_011550.1  26552  FAIL  NC_011550  CDS   nonstructural_protein         18    1    1  26048  26329  26048  26329    282    +  no    ?   ?  no   no 

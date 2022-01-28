@@ -1,0 +1,135 @@
+>Feature NC_019843.3
+279	21514	gene
+			gene	orf1ab
+279	13433	CDS
+13433	21514
+			product	1AB polyprotein
+			exception	ribosomal slippage
+			protein_id	NC_019843.3_1
+279	13454	CDS
+			product	1A polyprotein
+			protein_id	NC_019843.3_2
+279	857	mat_peptide
+			product	nsp1 protein
+			protein_id	NC_019843.3_1
+279	857	mat_peptide
+			product	nsp1 protein
+			protein_id	NC_019843.3_2
+858	2837	mat_peptide
+			product	nsp2 protein
+			protein_id	NC_019843.3_1
+858	2837	mat_peptide
+			product	nsp2 protein
+			protein_id	NC_019843.3_2
+2838	8498	mat_peptide
+			product	nsp3 protein
+			protein_id	NC_019843.3_1
+2838	8498	mat_peptide
+			product	nsp3 protein
+			protein_id	NC_019843.3_2
+8499	10019	mat_peptide
+			product	nsp4 protein
+			protein_id	NC_019843.3_1
+8499	10019	mat_peptide
+			product	nsp4 protein
+			protein_id	NC_019843.3_2
+10020	10937	mat_peptide
+			product	nsp5 protein
+			protein_id	NC_019843.3_1
+10020	10937	mat_peptide
+			product	nsp5 protein
+			protein_id	NC_019843.3_2
+10938	11813	mat_peptide
+			product	nsp6 protein
+			protein_id	NC_019843.3_1
+10938	11813	mat_peptide
+			product	nsp6 protein
+			protein_id	NC_019843.3_2
+11814	12062	mat_peptide
+			product	nsp7 protein
+			protein_id	NC_019843.3_1
+11814	12062	mat_peptide
+			product	nsp7 protein
+			protein_id	NC_019843.3_2
+12063	12659	mat_peptide
+			product	nsp8 protein
+			protein_id	NC_019843.3_1
+12063	12659	mat_peptide
+			product	nsp8 protein
+			protein_id	NC_019843.3_2
+12660	12989	mat_peptide
+			product	nsp9 protein
+			protein_id	NC_019843.3_1
+12660	12989	mat_peptide
+			product	nsp9 protein
+			protein_id	NC_019843.3_2
+12990	13409	mat_peptide
+			product	nsp10 protein
+			protein_id	NC_019843.3_1
+12990	13409	mat_peptide
+			product	nsp10 protein
+			protein_id	NC_019843.3_2
+13410	13433	mat_peptide
+13433	16207
+			product	nsp12 protein
+			protein_id	NC_019843.3_1
+13410	13451	mat_peptide
+			product	nsp11 protein
+			protein_id	NC_019843.3_2
+16208	18001	mat_peptide
+			product	nsp13 protein
+			protein_id	NC_019843.3_1
+18002	19573	mat_peptide
+			product	nsp14 protein
+			protein_id	NC_019843.3_1
+19574	20602	mat_peptide
+			product	nsp15 protein
+			protein_id	NC_019843.3_1
+20603	21511	mat_peptide
+			product	nsp16 protein
+			protein_id	NC_019843.3_1
+21456	25517	gene
+			gene	S
+21456	25517	CDS
+			product	spike glycoprotein
+			protein_id	NC_019843.3_3
+25532	25843	gene
+			gene	orf3
+25532	25843	CDS
+			product	NS3 protein
+			protein_id	NC_019843.3_4
+25852	26181	gene
+			gene	orf4a
+25852	26181	CDS
+			product	NS4A protein
+			protein_id	NC_019843.3_5
+26093	26833	gene
+			gene	orf4b
+26093	26833	CDS
+			product	NS4B protein
+			protein_id	NC_019843.3_6
+26840	27514	gene
+			gene	orf5
+26840	27514	CDS
+			product	NS5 protein
+			protein_id	NC_019843.3_7
+27590	27838	gene
+			gene	E
+27590	27838	CDS
+			product	envelope protein
+			protein_id	NC_019843.3_8
+27853	28512	gene
+			gene	M
+27853	28512	CDS
+			product	membrane protein
+			protein_id	NC_019843.3_9
+28566	29807	gene
+			gene	N
+28566	29807	CDS
+			product	nucleoprotein
+			protein_id	NC_019843.3_10
+28762	29100	gene
+			gene	orf8b
+28762	29100	CDS
+			product	ORF8b protein
+			protein_id	NC_019843.3_11

@@ -1,0 +1,1 @@
+/scratch/software/vadr-install-dir/vadr/v-annotate.pl --lowsim5seq 6 -f --glsearch --mkey corona -r -s --mdir /scratch/data/covid19-2/find_core/vadr/vadr-models-corona-1.3-3 --lowsim3seq 6 --nomisc --alt_fail lowscore,insertnn,deletinn --sidx 1 result/vadr/NC_039207/NC_039207.vadr.in.fa result/vadr/NC_039207/NC_039207.1 > result/vadr/NC_039207/NC_039207.1.out

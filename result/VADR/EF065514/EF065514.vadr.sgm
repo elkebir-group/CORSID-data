@@ -1,0 +1,20 @@
+#       seq           seq                   ftr   ftr                          ftr  num  sgm    seq    seq    mdl    mdl    sgm            5'  3'  5'   3' 
+#idx    name          len  p/f   model      type  name                         idx  sgm  idx   from     to   from     to    len  str  trc  pp  pp  gap  gap
+#-----  ----------  -----  ----  ---------  ----  ---------------------------  ---  ---  ---  -----  -----  -----  -----  -----  ---  ---  --  --  ---  ---
+1.1.1   EF065514.1  29107  FAIL  NC_009021  gene  orf1ab                         1    1    1    228  20938    229  21020  20711    +  no    ?   ?  no   no 
+1.2.1   EF065514.1  29107  FAIL  NC_009021  CDS   orf1ab_polyprotein             2    2    1    228  12875    229  12951  12648    +  no    ?   ?  no   no 
+1.2.2   EF065514.1  29107  FAIL  NC_009021  CDS   orf1ab_polyprotein             2    2    2  12875  20938  12951  21020   8064    +  no    ?   ?  no   no 
+1.3.1   EF065514.1  29107  FAIL  NC_009021  gene  S                              3    1    1  20898  24725  20974  24798   3828    +  no    ?   ?  no   no 
+1.4.1   EF065514.1  29107  FAIL  NC_009021  CDS   spike_glycoprotein             4    1    1  20898  24725  20974  24798   3828    +  no    ?   ?  no   no 
+1.5.1   EF065514.1  29107  FAIL  NC_009021  gene  NS3                            5    1    1  24722  25414  24795  25457    693    +  no    ?   ?  no   no 
+1.6.1   EF065514.1  29107  FAIL  NC_009021  CDS   hypothetical_protein           6    1    1  24722  25414  24795  25457    693    +  no    ?   ?  no   no 
+1.7.1   EF065514.1  29107  FAIL  NC_009021  gene  E                              7    1    1  25414  25653  25457  25696    240    +  no    ?   ?  no   no 
+1.8.1   EF065514.1  29107  FAIL  NC_009021  CDS   small_membrane_protein         8    1    1  25414  25653  25457  25696    240    +  no    ?   ?  no   no 
+1.9.1   EF065514.1  29107  FAIL  NC_009021  gene  M                              9    1    1  25646  26315  25689  26357    670    +  no    ?   ?  no   no 
+1.10.1  EF065514.1  29107  FAIL  NC_009021  CDS   membrane_glycoprotein         10    1    1  25646  26315  25689  26357    670    +  no    ?   ?  no   no 
+1.11.1  EF065514.1  29107  FAIL  NC_009021  gene  N                             11    1    1  26378  27790  26419  27825   1413    +  no    ?   ?  no   no 
+1.12.1  EF065514.1  29107  FAIL  NC_009021  CDS   nucleocapsid_phosphoprotein   12    1    1  26378  27790  26419  27825   1413    +  no    ?   ?  no   no 
+1.13.1  EF065514.1  29107  FAIL  NC_009021  gene  NS7a                          13    1    1  27831  28415  27869  28423    585    +  no    ?   -  no   yes
+1.14.1  EF065514.1  29107  FAIL  NC_009021  CDS   hypothetical_protein          14    1    1  27831  28415  27869  28423    585    +  no    ?   -  no   yes
+1.15.1  EF065514.1  29107  FAIL  NC_009021  gene  NS7b                          15    1    1  28421  28877  28433  28882    457    +  no    ?   ?  no   no 
+1.16.1  EF065514.1  29107  FAIL  NC_009021  CDS   hypothetical_protein          16    1    1  28421  28877  28433  28882    457    +  no    ?   ?  no   no 

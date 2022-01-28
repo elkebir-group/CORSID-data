@@ -1,0 +1,36 @@
+>Feature MN611524.1
+259	21059	gene
+			gene	ORF1ab
+259	13038	CDS
+13038	21059
+			product	ORF1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	MN611524.1_1
+259	13068	CDS
+			product	ORF1a polyprotein
+			protein_id	MN611524.1_2
+21061	25191	gene
+			gene	S
+21061	25191	CDS
+			product	spike protein
+			protein_id	MN611524.1_3
+25191	25850	gene
+			gene	ORF3
+25191	25850	CDS
+			product	ORF3 protein
+			protein_id	MN611524.1_4
+25844	26068	gene
+			gene	E
+25844	26068	CDS
+			product	envelope protein
+			protein_id	MN611524.1_5
+26075	26842	gene
+			gene	M
+26075	26842	CDS
+			product	membrane protein
+			protein_id	MN611524.1_6
+26863	28032	gene
+			gene	N
+26863	28032	CDS
+			product	nucleocapsid protein
+			protein_id	MN611524.1_7

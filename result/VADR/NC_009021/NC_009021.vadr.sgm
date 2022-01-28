@@ -1,0 +1,20 @@
+#       seq            seq                   ftr   ftr                          ftr  num  sgm    seq    seq    mdl    mdl    sgm            5'  3'  5'   3' 
+#idx    name           len  p/f   model      type  name                         idx  sgm  idx   from     to   from     to    len  str  trc  pp  pp  gap  gap
+#-----  -----------  -----  ----  ---------  ----  ---------------------------  ---  ---  ---  -----  -----  -----  -----  -----  ---  ---  --  --  ---  ---
+1.1.1   NC_009021.1  29114  PASS  NC_009021  gene  orf1ab                         1    1    1    229  21020    229  21020  20792    +  no    ?   ?  no   no 
+1.2.1   NC_009021.1  29114  PASS  NC_009021  CDS   orf1ab_polyprotein             2    2    1    229  12951    229  12951  12723    +  no    ?   ?  no   no 
+1.2.2   NC_009021.1  29114  PASS  NC_009021  CDS   orf1ab_polyprotein             2    2    2  12951  21020  12951  21020   8070    +  no    ?   ?  no   no 
+1.3.1   NC_009021.1  29114  PASS  NC_009021  gene  S                              3    1    1  20974  24798  20974  24798   3825    +  no    ?   ?  no   no 
+1.4.1   NC_009021.1  29114  PASS  NC_009021  CDS   spike_glycoprotein             4    1    1  20974  24798  20974  24798   3825    +  no    ?   ?  no   no 
+1.5.1   NC_009021.1  29114  PASS  NC_009021  gene  NS3                            5    1    1  24795  25457  24795  25457    663    +  no    ?   ?  no   no 
+1.6.1   NC_009021.1  29114  PASS  NC_009021  CDS   hypothetical_protein           6    1    1  24795  25457  24795  25457    663    +  no    ?   ?  no   no 
+1.7.1   NC_009021.1  29114  PASS  NC_009021  gene  E                              7    1    1  25457  25696  25457  25696    240    +  no    ?   ?  no   no 
+1.8.1   NC_009021.1  29114  PASS  NC_009021  CDS   small_membrane_protein         8    1    1  25457  25696  25457  25696    240    +  no    ?   ?  no   no 
+1.9.1   NC_009021.1  29114  PASS  NC_009021  gene  M                              9    1    1  25689  26357  25689  26357    669    +  no    ?   ?  no   no 
+1.10.1  NC_009021.1  29114  PASS  NC_009021  CDS   membrane_glycoprotein         10    1    1  25689  26357  25689  26357    669    +  no    ?   ?  no   no 
+1.11.1  NC_009021.1  29114  PASS  NC_009021  gene  N                             11    1    1  26419  27825  26419  27825   1407    +  no    ?   ?  no   no 
+1.12.1  NC_009021.1  29114  PASS  NC_009021  CDS   nucleocapsid_phosphoprotein   12    1    1  26419  27825  26419  27825   1407    +  no    ?   ?  no   no 
+1.13.1  NC_009021.1  29114  PASS  NC_009021  gene  NS7a                          13    1    1  27869  28426  27869  28426    558    +  no    ?   ?  no   no 
+1.14.1  NC_009021.1  29114  PASS  NC_009021  CDS   hypothetical_protein          14    1    1  27869  28426  27869  28426    558    +  no    ?   ?  no   no 
+1.15.1  NC_009021.1  29114  PASS  NC_009021  gene  NS7b                          15    1    1  28433  28882  28433  28882    450    +  no    ?   ?  no   no 
+1.16.1  NC_009021.1  29114  PASS  NC_009021  CDS   hypothetical_protein          16    1    1  28433  28882  28433  28882    450    +  no    ?   ?  no   no 

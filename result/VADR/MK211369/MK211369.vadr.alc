@@ -1,0 +1,6 @@
+#     alert     causes   short                             per    num   num  long       
+#idx  code      failure  description                      type  cases  seqs  description
+#---  --------  -------  ---------------------------  --------  -----  ----  -----------
+1     lowsimis  yes      LOW_SIMILARITY               sequence      1     1  internal region without significant similarity
+2     indf5pst  yes*     INDEFINITE_ANNOTATION_START   feature      1     1  protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint
+#---  --------  -------  ---------------------------  --------  -----  ----  -----------

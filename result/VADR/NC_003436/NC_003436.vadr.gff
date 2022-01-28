@@ -1,0 +1,20 @@
+##gff-version 3
+NC_003436	vadr	region	12620	20641	.	+	.	ID=ftr-3;Name=Pol1;Gene=Pol1;Alias=NC_003436.1_1;
+NC_003436	vadr	mat_peptide	297	626	.	+	.	ID=ftr-4;Name=putative leader protein;Gene=putative leader protein;Alias=NC_003436.1_1;
+NC_003436	vadr	mat_peptide	2982	7847	.	+	.	ID=ftr-5;Name=putative coronavirus nsp1;Gene=putative coronavirus nsp1;Alias=NC_003436.1_1;
+NC_003436	vadr	mat_peptide	9288	10193	.	+	.	ID=ftr-6;Name=putative coronavirus nsp2 [3CL-PRO];Gene=putative coronavirus nsp2 [3CL-PRO];Alias=NC_003436.1_1;
+NC_003436	vadr	mat_peptide	10194	11033	.	+	.	ID=ftr-7;Name=putative coronavirus nsp3 [HD2];Gene=putative coronavirus nsp3 [HD2];Alias=NC_003436.1_1;
+NC_003436	vadr	mat_peptide	11034	11282	.	+	.	ID=ftr-8;Name=putative coronavirus nsp4;Gene=putative coronavirus nsp4;Alias=NC_003436.1_1;
+NC_003436	vadr	mat_peptide	11283	11867	.	+	.	ID=ftr-9;Name=putative coronavirus nsp5;Gene=putative coronavirus nsp5;Alias=NC_003436.1_1;
+NC_003436	vadr	mat_peptide	11868	12191	.	+	.	ID=ftr-10;Name=putative coronavirus nsp6;Gene=putative coronavirus nsp6;Alias=NC_003436.1_1;
+NC_003436	vadr	mat_peptide	12192	12596	.	+	.	ID=ftr-11;Name=putative coronavirus nsp7;Gene=putative coronavirus nsp7;Alias=NC_003436.1_1;
+NC_003436	vadr	region	12620	15376	.	+	.	ID=ftr-13;Name=putative coronavirus nsp9 [RdRp];Gene=putative coronavirus nsp9 [RdRp];Alias=NC_003436.1_1;
+NC_003436	vadr	mat_peptide	15377	17167	.	+	.	ID=ftr-14;Name=putative coronavirus nsp10 [MB, NTPase/HEL];Gene=putative coronavirus nsp10 [MB, NTPase/HEL];Alias=NC_003436.1_1;
+NC_003436	vadr	mat_peptide	17168	18718	.	+	.	ID=ftr-15;Name=putative coronavirus nsp11;Gene=putative coronavirus nsp11;Alias=NC_003436.1_1;
+NC_003436	vadr	mat_peptide	18719	19735	.	+	.	ID=ftr-16;Name=putative coronavirus nsp12;Gene=putative coronavirus nsp12;Alias=NC_003436.1_1;
+NC_003436	vadr	mat_peptide	19736	20638	.	+	.	ID=ftr-17;Name=putative coronavirus nsp13;Gene=putative coronavirus nsp13;Alias=NC_003436.1_1;
+NC_003436	vadr	CDS	20638	24789	.	+	.	ID=ftr-19;Name=spike protein;Gene=spike protein;Alias=NC_003436.1_2;
+NC_003436	vadr	CDS	24789	25463	.	+	.	ID=ftr-21;Name=hypothetical protein;Gene=hypothetical protein;Alias=NC_003436.1_3;
+NC_003436	vadr	CDS	25444	25674	.	+	.	ID=ftr-23;Name=envelope protein;Gene=envelope protein;Alias=NC_003436.1_4;
+NC_003436	vadr	CDS	25682	26362	.	+	.	ID=ftr-25;Name=membrane protein;Gene=membrane protein;Alias=NC_003436.1_5;
+NC_003436	vadr	CDS	26374	27699	.	+	.	ID=ftr-27;Name=nucleocapsid protein;Gene=nucleocapsid protein;Alias=NC_003436.1_6;

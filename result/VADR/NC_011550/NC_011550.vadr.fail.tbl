@@ -1,0 +1,51 @@
+>Feature NC_011550.1
+595	19517	gene
+			gene	orf1ab
+595	11592	CDS
+11592	19517
+			product	orf1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	NC_011550.1_1
+19499	22969	gene
+			gene	S
+19499	22969	CDS
+			product	spike glycoprotein
+			protein_id	NC_011550.1_2
+22963	23211	gene
+			gene	E
+22963	23211	CDS
+			product	small membrane protein
+			protein_id	NC_011550.1_3
+23204	23860	gene
+			gene	M
+23204	23860	CDS
+			product	membrane protein
+			protein_id	NC_011550.1_4
+23860	24186	gene
+			gene	NS6
+23860	24186	CDS
+			product	nonstructural protein
+			protein_id	NC_011550.1_5
+24326	25384	gene
+			gene	N
+24326	25384	CDS
+			product	nucleocapsid phosphoprotein
+			protein_id	NC_011550.1_6
+25417	25788	gene
+			gene	NS7a
+25417	25788	CDS
+			product	nonstructural protein
+			protein_id	NC_011550.1_7
+25794	26051	gene
+			gene	NS7b
+25794	26051	CDS
+			product	nonstructural protein
+			protein_id	NC_011550.1_8
+26048	26329	gene
+			gene	NS7c
+26048	26329	CDS
+			product	nonstructural protein
+			protein_id	NC_011550.1_9
+
+Additional note(s) to submitter:
+ERROR: DISCONTINUOUS_SIMILARITY: (*sequence*) not all hits are in the same order in the sequence and the homology model [seq order: 1,3,2, mdl order: 1,2,3]; seq-coords:1..26552:+,3374..3442:+,3251..3319:+; mdl-coords:1..26552:+,3251..3319:+,3374..3442:+; mdl:NC_011550;

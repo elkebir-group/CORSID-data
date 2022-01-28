@@ -1,0 +1,16 @@
+##gff-version 3
+KY073745	vadr	gene	246	20593	.	+	.	ID=ftr-1;Name=orf1ab;Gene=orf1ab;
+KY073745	vadr	region	12557	20593	.	+	.	ID=ftr-3;Name=ORF1ab protein;Gene=ORF1ab protein;Parent=ftr-1;Alias=KY073745.1_1;
+KY073745	vadr	CDS	246	12587	.	+	.	ID=ftr-4;Name=ORF1a protein;Gene=ORF1a protein;Parent=ftr-1;Alias=KY073745.1_2;
+KY073745	vadr	gene	20590	24711	.	+	.	ID=ftr-5;Name=S;Gene=S;
+KY073745	vadr	CDS	20590	24711	.	+	.	ID=ftr-6;Name=S protein;Gene=S protein;Parent=ftr-5;Alias=KY073745.1_3;
+KY073745	vadr	gene	24711	25394	.	+	.	ID=ftr-7;Name=ORF3;Gene=ORF3;
+KY073745	vadr	CDS	24711	25394	.	+	.	ID=ftr-8;Name=ORF3 protein;Gene=ORF3 protein;Parent=ftr-7;Alias=KY073745.1_4;
+KY073745	vadr	gene	25375	25608	.	+	.	ID=ftr-9;Name=E;Gene=E;
+KY073745	vadr	CDS	25375	25608	.	+	.	ID=ftr-10;Name=E protein;Gene=E protein;Parent=ftr-9;Alias=KY073745.1_5;
+KY073745	vadr	gene	25617	26300	.	+	.	ID=ftr-11;Name=M;Gene=M;
+KY073745	vadr	CDS	25617	26300	.	+	.	ID=ftr-12;Name=M protein;Gene=M protein;Parent=ftr-11;Alias=KY073745.1_6;
+KY073745	vadr	gene	26312	27613	.	+	.	ID=ftr-13;Name=N;Gene=N;
+KY073745	vadr	CDS	26312	27613	.	+	.	ID=ftr-14;Name=N protein;Gene=N protein;Parent=ftr-13;Alias=KY073745.1_7;
+KY073745	vadr	gene	28196	28486	.	+	.	ID=ftr-15;Name=ORFx;Gene=ORFx;
+KY073745	vadr	CDS	28196	28486	.	+	.	ID=ftr-16;Name=ORFx protein;Gene=ORFx protein;Parent=ftr-15;Alias=KY073745.1_8;

@@ -1,0 +1,7 @@
+#     alert     causes   short                            per    num   num  long       
+#idx  code      failure  description                     type  cases  seqs  description
+#---  --------  -------  ---------------------------  -------  -----  ----  -----------
+1     fstukcfi  yes*     POSSIBLE_FRAMESHIFT          feature      1     1  possible frameshift in CDS (frame restored before end)
+2     indf5pst  yes*     INDEFINITE_ANNOTATION_START  feature      2     1  protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint
+3     lowsimin  yes      LOW_FEATURE_SIMILARITY       feature      1     1  region within annotated feature that does not match a CDS lacks significant similarity
+#---  --------  -------  ---------------------------  -------  -----  ----  -----------

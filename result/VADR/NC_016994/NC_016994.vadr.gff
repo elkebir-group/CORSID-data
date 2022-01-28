@@ -1,0 +1,17 @@
+##gff-version 3
+NC_016994	vadr	gene	482	19323	.	+	.	ID=ftr-1;Name=orf1ab;Gene=orf1ab;
+NC_016994	vadr	region	11311	19323	.	+	.	ID=ftr-3;Name=replicase polyprotein;Gene=replicase polyprotein;Parent=ftr-1;Alias=NC_016994.1_1;
+NC_016994	vadr	gene	19305	23069	.	+	.	ID=ftr-4;Name=S;Gene=S;
+NC_016994	vadr	CDS	19305	23069	.	+	.	ID=ftr-5;Name=spike glycoprotein;Gene=spike glycoprotein;Parent=ftr-4;Alias=NC_016994.1_2;
+NC_016994	vadr	gene	23069	23317	.	+	.	ID=ftr-6;Name=E;Gene=E;
+NC_016994	vadr	CDS	23069	23317	.	+	.	ID=ftr-7;Name=envelope protein;Gene=envelope protein;Parent=ftr-6;Alias=NC_016994.1_3;
+NC_016994	vadr	gene	23310	23960	.	+	.	ID=ftr-8;Name=M;Gene=M;
+NC_016994	vadr	CDS	23310	23960	.	+	.	ID=ftr-9;Name=membrane protein;Gene=membrane protein;Parent=ftr-8;Alias=NC_016994.1_4;
+NC_016994	vadr	gene	23960	24238	.	+	.	ID=ftr-10;Name=NS6;Gene=NS6;
+NC_016994	vadr	CDS	23960	24238	.	+	.	ID=ftr-11;Name=NS6 protein;Gene=NS6 protein;Parent=ftr-10;Alias=NC_016994.1_5;
+NC_016994	vadr	gene	24248	25276	.	+	.	ID=ftr-12;Name=N;Gene=N;
+NC_016994	vadr	CDS	24248	25276	.	+	.	ID=ftr-13;Name=nucleocapsid protein;Gene=nucleocapsid protein;Parent=ftr-12;Alias=NC_016994.1_6;
+NC_016994	vadr	gene	25277	25573	.	+	.	ID=ftr-14;Name=NS7a;Gene=NS7a;
+NC_016994	vadr	CDS	25277	25573	.	+	.	ID=ftr-15;Name=NS7a protein;Gene=NS7a protein;Parent=ftr-14;Alias=NC_016994.1_7;
+NC_016994	vadr	gene	25583	25876	.	+	.	ID=ftr-16;Name=NS7b;Gene=NS7b;
+NC_016994	vadr	CDS	25583	25876	.	+	.	ID=ftr-17;Name=NS7b protein;Gene=NS7b protein;Parent=ftr-16;Alias=NC_016994.1_8;

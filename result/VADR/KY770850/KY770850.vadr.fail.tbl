@@ -1,0 +1,41 @@
+>Feature KY770850.1
+<1	19190	gene
+<1	11145	CDS
+11145	19190
+			product	ORF1ab polyprotein
+			exception	ribosomal slippage
+			codon_start	1
+			protein_id	KY770850.1_1
+19192	23367	gene
+19192	23367	CDS
+			product	spike glycoprotein
+			protein_id	KY770850.1_2
+23364	24023	gene
+23364	24023	CDS
+			product	hypothetical protein ORF3
+			protein_id	KY770850.1_3
+24030	24260	gene
+24030	24260	CDS
+			product	small envelope protein
+			protein_id	KY770850.1_4
+24270	24956	gene
+24270	24956	CDS
+			product	membrane glycoprotein
+			protein_id	KY770850.1_5
+24965	26266	gene
+24965	26266	CDS
+			product	nucleocapsid protein
+			protein_id	KY770850.1_6
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:ORF1ab polyprotein) possible frameshift in CDS (frame restored before end) [cause:delete,S:877,M:2079(1); restore:delete,S:896,M:2096..2097(2); frame:<1(3)1313121; length:<877:(19):854:68:20:68:1435:17:15833;]; seq-coords:878..896:+; mdl-coords:2079..2097:+; mdl:NC_028811;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:ORF1ab polyprotein) possible frameshift in CDS (frame restored before end) [cause:insert,S:1751..1758(8),M:2942; restore:insert,S:1782..1818(37),M:2965; frame:<131(3)13121; length:<877:19:854:(68):20:68:1435:17:15833;]; seq-coords:1751..1818:+; mdl-coords:2943..2965:+; mdl:NC_028811;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:ORF1ab polyprotein) possible frameshift in CDS (frame restored before end) [cause:insert,S:1839..1864(26),M:2985; restore:insert,S:1870..1906(37),M:2990; frame:<13131(3)121; length:<877:19:854:68:20:(68):1435:17:15833;]; seq-coords:1839..1906:+; mdl-coords:2986..2990:+; mdl:NC_028811;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:ORF1ab polyprotein) possible frameshift in CDS (frame restored before end) [cause:insert,S:3342(1),M:4437; restore:delete,S:3358,M:4454(1); frame:<1313131(2)1; length:<877:19:854:68:20:68:1435:(17):15833;]; seq-coords:3342..3358:+; mdl-coords:4438..4454:+; mdl:NC_028811;
+ERROR: INSERTION_OF_NT: (CDS:ORF1ab polyprotein) too large of an insertion in nucleotide-based alignment of CDS feature [37>27]; seq-coords:1782..1818:+; mdl-coords:2965..2965:+; mdl:NC_028811;
+ERROR: INSERTION_OF_NT: (CDS:ORF1ab polyprotein) too large of an insertion in nucleotide-based alignment of CDS feature [37>27]; seq-coords:1870..1906:+; mdl-coords:2990..2990:+; mdl:NC_028811;
+ERROR: INSERTION_OF_NT: (CDS:ORF1ab polyprotein) too large of an insertion in protein-based alignment [39>27]; seq-coords:1794..1832:+; mdl-coords:2968..2968:+; mdl:NC_028811;
+ERROR: INSERTION_OF_NT: (CDS:ORF1ab polyprotein) too large of an insertion in protein-based alignment [63>27]; seq-coords:1848..1910:+; mdl-coords:2995..2995:+; mdl:NC_028811;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike glycoprotein) possible frameshift in CDS (frame restored before end) [cause:insert,S:19205..19212(8),M:20300; restore:insert,S:19221(1),M:20308; frame:1(3)1; length:13:(17):4146;]; seq-coords:19205..19221:+; mdl-coords:20301..20308:+; mdl:NC_028811;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:spike glycoprotein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [63>5]; seq-coords:19192..19254:+; mdl-coords:20288..20288:+; mdl:NC_028811;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:membrane glycoprotein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:24270..24278:+; mdl-coords:25349..25349:+; mdl:NC_028811;

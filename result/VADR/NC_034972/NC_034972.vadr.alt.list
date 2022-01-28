@@ -1,0 +1,2 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+NC_034972.1	NC_034972	-	*sequence*	INDEFINITE_STRAND	1879..1761:-	1..119:+	significant similarity detected on both strands [score:216.0>25.0]

@@ -1,0 +1,9 @@
+##gff-version 3
+JQ404409	vadr	CDS	314	12367	.	+	.	ID=ftr-2;Name=replicase polyprotein 1a;Gene=replicase polyprotein 1a;Alias=JQ404409.1_1;
+JQ404409	vadr	CDS	20368	24725	.	+	.	ID=ftr-5;Name=spike protein;Gene=spike protein;Alias=JQ404409.1_2;
+JQ404409	vadr	CDS	24715	25201	.	+	.	ID=ftr-7;Name=non-structural protein 3a;Gene=non-structural protein 3a;Alias=JQ404409.1_3;
+JQ404409	vadr	CDS	25286	26020	.	+	.	ID=ftr-9;Name=non-structural protein 3b;Gene=non-structural protein 3b;Alias=JQ404409.1_4;
+JQ404409	vadr	CDS	26007	26255	.	+	.	ID=ftr-11;Name=envelope protein;Gene=envelope protein;Alias=JQ404409.1_5;
+JQ404409	vadr	CDS	26266	27054	.	+	.	ID=ftr-13;Name=membrane protein;Gene=membrane protein;Alias=JQ404409.1_6;
+JQ404409	vadr	CDS	27067	28215	.	+	.	ID=ftr-15;Name=nucleoprotein;Gene=nucleoprotein;Alias=JQ404409.1_7;
+JQ404409	vadr	CDS	28220	29171	.	+	.	ID=ftr-17;Name=non-structural protein 7;Gene=non-structural protein 7;Alias=JQ404409.1_8;

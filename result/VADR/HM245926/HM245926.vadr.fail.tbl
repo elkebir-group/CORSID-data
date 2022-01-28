@@ -1,0 +1,58 @@
+>Feature HM245926.1
+273	20284	gene
+273	12293	gene
+273	12251	CDS
+12251	20284
+			product	orf1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	HM245926.1_1
+273	12293	CDS
+			product	orf1a polyprotein
+			protein_id	HM245926.1_2
+20286	24566	gene
+20286	24566	CDS
+			product	spike protein
+			protein_id	HM245926.1_3
+24584	25330	gene
+24584	25330	CDS
+			product	non-structural protein 3c
+			protein_id	HM245926.1_4
+25299	25547	gene
+25299	25547	CDS
+			product	envelope protein
+			protein_id	HM245926.1_5
+25564	26370	gene
+25564	26370	CDS
+			product	membrane protein
+			protein_id	HM245926.1_6
+26385	27515	gene
+26385	27515	CDS
+			product	nucleocapsid protein
+			protein_id	HM245926.1_7
+27520	27816	gene
+27520	27816	CDS
+			product	non-structural protein 7a
+			protein_id	HM245926.1_8
+27801	28022	gene
+27801	28022	CDS
+			product	hypothetical protein
+			protein_id	HM245926.1_9
+27964	28578	gene
+27964	28578	CDS
+			product	hypothetical protein orf7b
+			protein_id	HM245926.1_10
+
+Additional note(s) to submitter:
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 43]; seq-coords:28873..28915:+; mdl-coords:28941..28941:+; mdl:NC_023760;
+ERROR: DELETION_OF_NT: (CDS:orf1ab polyprotein) too large of a deletion in nucleotide-based alignment of CDS feature [48>27]; seq-coords:4156..4156:+; mdl-coords:4151..4198:+; mdl:NC_023760;
+ERROR: DELETION_OF_NT: (CDS:orf1ab polyprotein) too large of a deletion in protein-based alignment [48>27]; seq-coords:4154..4154:+; mdl-coords:4149..4196:+; mdl:NC_023760;
+ERROR: DELETION_OF_NT: (CDS:orf1a polyprotein) too large of a deletion in nucleotide-based alignment of CDS feature [48>27]; seq-coords:4156..4156:+; mdl-coords:4151..4198:+; mdl:NC_023760;
+ERROR: DELETION_OF_NT: (CDS:orf1a polyprotein) too large of a deletion in protein-based alignment [48>27]; seq-coords:4154..4154:+; mdl-coords:4149..4196:+; mdl:NC_023760;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike protein) possible frameshift in CDS (frame restored before end) [cause:delete,S:20331,M:20368..20369(2); restore:delete,S:20359,M:20398..20422(25); frame:1(2)12131; length:46:(28):249:38:229:41:3650;]; seq-coords:20332..20359:+; mdl-coords:20368..20422:+; mdl:NC_023760;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike protein) possible frameshift in CDS (frame restored before end) [cause:delete,S:20608,M:20681..20682(2); restore:delete,S:20646,M:20721(1); frame:121(2)131; length:46:28:249:(38):229:41:3650;]; seq-coords:20609..20646:+; mdl-coords:20681..20721:+; mdl:NC_023760;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike protein) possible frameshift in CDS (frame restored before end) [cause:delete,S:20875,M:20948(1); restore:delete,S:20916,M:20990..20991(2); frame:12121(3)1; length:46:28:249:38:229:(41):3650;]; seq-coords:20876..20916:+; mdl-coords:20948..20991:+; mdl:NC_023760;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:spike protein) protein-based alignment extends past nucleotide-based alignment at 5' end [-]; seq-coords:20283..20285:+; mdl-coords:20322..20322:+; mdl:NC_023760;
+ERROR: CDS_HAS_STOP_CODON: (CDS:non-structural protein 3c) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAG, shifted S:537,M:535]; seq-coords:24791..24793:+; mdl-coords:24862..24864:+; mdl:NC_023760;
+ERROR: CDS_HAS_STOP_CODON: (CDS:non-structural protein 3c) stop codon in protein-based alignment [-]; seq-coords:24791..24793:+; mdl-coords:24857..24859:+; mdl:NC_023760;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:non-structural protein 3c) possible frameshift in CDS (frame restored before end) [cause:insert,S:24778(1),M:24849; restore:insert,S:24813(1),M:24882; frame:1(23)1; length:194:(21:15):517; intermediate:insert,S:24799(1),M:24869;]; seq-coords:24778..24813:+; mdl-coords:24850..24882:+; mdl:NC_023760;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:non-structural protein 7a) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [54>5]; seq-coords:27520..27573:+; mdl-coords:27589..27589:+; mdl:NC_023760;

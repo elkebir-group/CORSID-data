@@ -1,0 +1,13 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+FJ904715.1	NC_001451	CDS	spike protein	INDEFINITE_ANNOTATION_START	20335..20379:+	20368..20368:+	protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [45>5]
+FJ904715.1	NC_001451	CDS	small virion-associated protein	CDS_HAS_STOP_CODON	24480..24482:+	24513..24515:+	in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:19,M:18]
+FJ904715.1	NC_001451	CDS	small virion-associated protein	DELETION_OF_NT	24476..24476:+	24480..24509:+	too large of a deletion in nucleotide-based alignment of CDS feature [30>27]
+FJ904715.1	NC_001451	CDS	small virion-associated protein	POSSIBLE_FRAMESHIFT	24487..24501:+	24520..24533:+	possible frameshift in CDS (frame not restored before end) [cause:insert,S:24487(1),M:24519; frame:1(2); length:283:(15);]
+FJ904715.1	NC_001451	CDS	small virion-associated protein	INDEFINITE_ANNOTATION_END	24474..24501:+	24533..24533:+	protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [28>8]
+FJ904715.1	NC_001451	CDS	small virion-associated protein	UNEXPECTED_LENGTH	24204..24501:+	24207..24533:+	length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [298]
+FJ904715.1	NC_001451	gene	M	INDEFINITE_ANNOTATION_START	24477..24477:+	24505..24505:+	alignment to homology model is a gap at 5' boundary [-]
+FJ904715.1	NC_001451	CDS	membrane protein	CDS_HAS_STOP_CODON	24499..24501:+	24531..24533:+	in-frame stop codon exists 5' of stop position predicted by homology to reference [TAA, shifted S:649,M:649]
+FJ904715.1	NC_001451	CDS	membrane protein	POSSIBLE_FRAMESHIFT	24487..25150:+	24520..25182:+	possible frameshift in CDS (frame not restored before end) [cause:insert,S:24487(1),M:24519; frame:2(3); length:10:(664);]
+FJ904715.1	NC_001451	CDS	membrane protein	INDEFINITE_ANNOTATION_START	24477..24477:+	24505..24505:+	alignment to homology model is a gap at 5' boundary [-]
+FJ904715.1	NC_001451	CDS	membrane protein	MUTATION_AT_START	24477..24479:+	24510..24512:+	expected start codon could not be identified [CAA]
+FJ904715.1	NC_001451	CDS	membrane protein	UNEXPECTED_LENGTH	24477..25150:+	24510..25182:+	length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [674]

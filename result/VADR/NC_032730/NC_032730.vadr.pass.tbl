@@ -1,0 +1,23 @@
+>Feature NC_032730.1
+332	20580	gene
+332	12538	CDS
+12538	20580
+			product	orf1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	NC_032730.1_1
+21412	24816	gene
+21412	24816	CDS
+			product	spike glycoprotein
+			protein_id	NC_032730.1_2
+25457	25693	gene
+25457	25693	CDS
+			product	envelope protein
+			protein_id	NC_032730.1_3
+25703	26449	gene
+25703	26449	CDS
+			product	membrane protein
+			protein_id	NC_032730.1_4
+26974	28149	gene
+26974	28149	CDS
+			product	nucleocapsid protein
+			protein_id	NC_032730.1_5

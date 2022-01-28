@@ -1,0 +1,19 @@
+##gff-version 3
+MH002342	vadr	gene	261	21856	.	+	.	ID=ftr-1;Name=orf1ab;Gene=orf1ab;
+MH002342	vadr	region	13742	21856	.	+	.	ID=ftr-3;Name=orf1ab polyprotein;Gene=orf1ab polyprotein;Parent=ftr-1;Alias=MH002342.1_1;
+MH002342	vadr	gene	21783	25850	.	+	.	ID=ftr-4;Name=S;Gene=S;
+MH002342	vadr	CDS	21783	25850	.	+	.	ID=ftr-5;Name=spike glycoprotein;Gene=spike glycoprotein;Parent=ftr-4;Alias=MH002342.1_2;
+MH002342	vadr	gene	25813	26178	.	+	.	ID=ftr-6;Name=NS3a;Gene=NS3a;
+MH002342	vadr	CDS	25813	26178	.	+	.	ID=ftr-7;Name=hypothetical protein;Gene=hypothetical protein;Parent=ftr-6;Alias=MH002342.1_3;
+MH002342	vadr	gene	26191	26550	.	+	.	ID=ftr-8;Name=NS3b;Gene=NS3b;
+MH002342	vadr	CDS	26191	26550	.	+	.	ID=ftr-9;Name=hypothetical protein;Gene=hypothetical protein;Parent=ftr-8;Alias=MH002342.1_4;
+MH002342	vadr	gene	26432	27202	.	+	.	ID=ftr-10;Name=NS3c;Gene=NS3c;
+MH002342	vadr	CDS	26432	27202	.	+	.	ID=ftr-11;Name=hypothetical protein;Gene=hypothetical protein;Parent=ftr-10;Alias=MH002342.1_5;
+MH002342	vadr	gene	27212	27883	.	+	.	ID=ftr-12;Name=NS3d;Gene=NS3d;
+MH002342	vadr	CDS	27212	27883	.	+	.	ID=ftr-13;Name=hypothetical protein;Gene=hypothetical protein;Parent=ftr-12;Alias=MH002342.1_6;
+MH002342	vadr	gene	27961	28209	.	+	.	ID=ftr-14;Name=E;Gene=E;
+MH002342	vadr	CDS	27961	28209	.	+	.	ID=ftr-15;Name=small membrane protein;Gene=small membrane protein;Parent=ftr-14;Alias=MH002342.1_7;
+MH002342	vadr	gene	28224	28886	.	+	.	ID=ftr-16;Name=M;Gene=M;
+MH002342	vadr	CDS	28224	28886	.	+	.	ID=ftr-17;Name=membrane glycoprotein;Gene=membrane glycoprotein;Parent=ftr-16;Alias=MH002342.1_8;
+MH002342	vadr	gene	28936	30219	.	+	.	ID=ftr-18;Name=N;Gene=N;
+MH002342	vadr	CDS	28936	30219	.	+	.	ID=ftr-19;Name=nucleocapsid phosphoprotein;Gene=nucleocapsid phosphoprotein;Parent=ftr-18;Alias=MH002342.1_9;

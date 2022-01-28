@@ -1,0 +1,20 @@
+##gff-version 3
+MG987421	vadr	gene	238	21869	.	+	.	ID=ftr-1;Name=orf1ab;Gene=orf1ab;
+MG987421	vadr	region	13787	21869	.	+	.	ID=ftr-3;Name=ORF1b protein;Gene=ORF1b protein;Parent=ftr-1;Alias=MG987421.1_1;
+MG987421	vadr	CDS	238	13809	.	+	.	ID=ftr-4;Name=ORF1a protein;Gene=ORF1a protein;Parent=ftr-1;Alias=MG987421.1_2;
+MG987421	vadr	gene	21811	25854	.	+	.	ID=ftr-5;Name=S;Gene=S;
+MG987421	vadr	CDS	21811	25854	.	+	.	ID=ftr-6;Name=S protein;Gene=S protein;Parent=ftr-5;Alias=MG987421.1_3;
+MG987421	vadr	gene	25866	26177	.	+	.	ID=ftr-7;Name=ns3a;Gene=ns3a;
+MG987421	vadr	CDS	25866	26177	.	+	.	ID=ftr-8;Name=NS3A protein;Gene=NS3A protein;Parent=ftr-7;Alias=MG987421.1_4;
+MG987421	vadr	gene	26186	26506	.	+	.	ID=ftr-9;Name=ns3b;Gene=ns3b;
+MG987421	vadr	CDS	26186	26506	.	+	.	ID=ftr-10;Name=NS3B protein;Gene=NS3B protein;Parent=ftr-9;Alias=MG987421.1_5;
+MG987421	vadr	gene	26427	27143	.	+	.	ID=ftr-11;Name=ns3c;Gene=ns3c;
+MG987421	vadr	CDS	26427	27143	.	+	.	ID=ftr-12;Name=NS3C protein;Gene=NS3C protein;Parent=ftr-11;Alias=MG987421.1_6;
+MG987421	vadr	gene	27150	27839	.	+	.	ID=ftr-13;Name=ns3d;Gene=ns3d;
+MG987421	vadr	CDS	27150	27839	.	+	.	ID=ftr-14;Name=NS3D protein;Gene=NS3D protein;Parent=ftr-13;Alias=MG987421.1_7;
+MG987421	vadr	gene	27916	28164	.	+	.	ID=ftr-15;Name=E;Gene=E;
+MG987421	vadr	CDS	27916	28164	.	+	.	ID=ftr-16;Name=E protein;Gene=E protein;Parent=ftr-15;Alias=MG987421.1_8;
+MG987421	vadr	gene	28180	28836	.	+	.	ID=ftr-17;Name=M;Gene=M;
+MG987421	vadr	CDS	28180	28836	.	+	.	ID=ftr-18;Name=M protein;Gene=M protein;Parent=ftr-17;Alias=MG987421.1_9;
+MG987421	vadr	gene	28892	30181	.	+	.	ID=ftr-19;Name=N;Gene=N;
+MG987421	vadr	CDS	28892	30181	.	+	.	ID=ftr-20;Name=N protein;Gene=N protein;Parent=ftr-19;Alias=MG987421.1_10;

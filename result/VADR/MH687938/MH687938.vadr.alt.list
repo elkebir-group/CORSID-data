@@ -1,0 +1,4 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+MH687938.1	NC_009657	-	*sequence*	INDEFINITE_STRAND	28347..28248:-	27950..28049:+	significant similarity detected on both strands [score:181.0>25.0]
+MH687938.1	NC_009657	-	*sequence*	LOW_SIMILARITY_END	28250..28349:+	28179..28203:+	significant similarity not detected at 3' end of the sequence [low similarity region of length 100]
+MH687938.1	NC_009657	-	*sequence*	LOW_SIMILARITY	27623..27773:+	27657..27702:+	internal region without significant similarity [low similarity region of length 151]

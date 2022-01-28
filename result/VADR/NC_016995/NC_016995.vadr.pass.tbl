@@ -1,0 +1,53 @@
+>Feature NC_016995.1
+219	18838	gene
+			gene	orf1ab
+219	10922	CDS
+10922	18838
+			product	replicase polyprotein
+			exception	ribosomal slippage
+			protein_id	NC_016995.1_1
+18817	22455	gene
+			gene	S
+18817	22455	CDS
+			product	spike glycoprotein
+			protein_id	NC_016995.1_2
+22455	22715	gene
+			gene	E
+22455	22715	CDS
+			product	envelope protein
+			protein_id	NC_016995.1_3
+22708	23358	gene
+			gene	M
+22708	23358	CDS
+			product	membrane protein
+			protein_id	NC_016995.1_4
+23358	23630	gene
+			gene	NS6
+23358	23630	CDS
+			product	NS6 protein
+			protein_id	NC_016995.1_5
+23646	24698	gene
+			gene	N
+23646	24698	CDS
+			product	nucleocapsid protein
+			protein_id	NC_016995.1_6
+24695	24928	gene
+			gene	NS7a
+24695	24928	CDS
+			product	NS7a protein
+			protein_id	NC_016995.1_7
+25218	25466	gene
+			gene	NS7b
+25218	25466	CDS
+			product	NS7b protein
+			protein_id	NC_016995.1_8
+25450	25716	gene
+			gene	NS7c
+25450	25716	CDS
+			product	NS7c protein
+			protein_id	NC_016995.1_9
+25752	25952	gene
+			gene	NS7d
+25752	25952	CDS
+			product	NS7d protein
+			protein_id	NC_016995.1_10

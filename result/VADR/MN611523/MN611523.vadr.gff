@@ -1,0 +1,10 @@
+##gff-version 3
+MN611523	vadr	region	12629	20656	.	+	.	ID=ftr-3;Name=orf1ab polyprotein;Gene=orf1ab polyprotein;Alias=MN611523.1_1;
+MN611523	vadr	CDS	20653	24714	.	+	.	ID=ftr-5;Name=spike glycoprotein;Gene=spike glycoprotein;Alias=MN611523.1_2;
+MN611523	vadr	CDS	24714	25370	.	+	.	ID=ftr-7;Name=non-structural protein NS3;Gene=non-structural protein NS3;Alias=MN611523.1_3;
+MN611523	vadr	CDS	25399	25626	.	+	.	ID=ftr-9;Name=envelope protein;Gene=envelope protein;Alias=MN611523.1_4;
+MN611523	vadr	CDS	25632	26318	.	+	.	ID=ftr-11;Name=membrane protein;Gene=membrane protein;Alias=MN611523.1_5;
+MN611523	vadr	CDS	26330	27538	.	+	.	ID=ftr-13;Name=nucleocapsid protein;Gene=nucleocapsid protein;Alias=MN611523.1_6;
+MN611523	vadr	CDS	27554	27796	.	+	.	ID=ftr-15;Name=non-structural protein NS7a;Gene=non-structural protein NS7a;Alias=MN611523.1_7;
+MN611523	vadr	CDS	27806	28267	.	+	.	ID=ftr-17;Name=non-structural protein NS7b;Gene=non-structural protein NS7b;Alias=MN611523.1_8;
+MN611523	vadr	CDS	28005	28235	.	+	.	ID=ftr-19;Name=non-structural protein NS7c;Gene=non-structural protein NS7c;Alias=MN611523.1_9;

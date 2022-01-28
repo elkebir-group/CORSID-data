@@ -1,0 +1,2 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+FJ415324.1	NC_003045	CDS	4.9 kDa non-structural protein	MUTATION_AT_END	27851..27853:+	27851..27853:+	expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAG]

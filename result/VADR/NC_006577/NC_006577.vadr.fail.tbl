@@ -1,0 +1,93 @@
+>Feature NC_006577.2
+206	21753	gene
+			gene	orf1ab
+206	13600	CDS
+13600	21753
+			product	orf1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	NC_006577.2_1
+206	871	mat_peptide
+			product	Leader protein
+			product	nsp1
+			protein_id	NC_006577.2_1
+872	2632	mat_peptide
+			product	nsp2
+			protein_id	NC_006577.2_1
+2633	8719	mat_peptide
+			product	nsp3
+			protein_id	NC_006577.2_1
+8720	10207	mat_peptide
+			product	nsp4 [TM2]
+			protein_id	NC_006577.2_1
+10208	11116	mat_peptide
+			product	nsp5
+			protein_id	NC_006577.2_1
+11117	11977	mat_peptide
+			product	nsp6 [hydrophobic domain]
+			protein_id	NC_006577.2_1
+11978	12253	mat_peptide
+			product	nsp7
+			protein_id	NC_006577.2_1
+12254	12835	mat_peptide
+			product	nsp8
+			protein_id	NC_006577.2_1
+12836	13165	mat_peptide
+			product	nsp9
+			protein_id	NC_006577.2_1
+13166	13576	mat_peptide
+			product	nsp10
+			protein_id	NC_006577.2_1
+13577	13600	mat_peptide
+13600	16359
+			product	nsp12
+			protein_id	NC_006577.2_1
+16360	18168	mat_peptide
+			product	nsp13
+			protein_id	NC_006577.2_1
+18169	19731	mat_peptide
+			product	nsp14
+			protein_id	NC_006577.2_1
+19732	20853	mat_peptide
+			product	nsp15
+			protein_id	NC_006577.2_1
+20854	21750	mat_peptide
+			product	nsp16
+			protein_id	NC_006577.2_1
+21773	22933	gene
+			gene	HE
+21773	22933	CDS
+			product	hemagglutinin-esterase glycoprotein
+			protein_id	NC_006577.2_2
+22942	27012	gene
+			gene	S
+22942	27012	CDS
+			product	spike glycoprotein
+			protein_id	NC_006577.2_3
+27051	27380	gene
+			gene	orf4
+27051	27380	CDS
+			product	non-structural protein
+			protein_id	NC_006577.2_4
+27373	27621	gene
+			gene	E
+27373	27621	CDS
+			product	small membrane protein
+			protein_id	NC_006577.2_5
+27633	28304	gene
+			gene	M
+27633	28304	CDS
+			product	membrane glycoprotein
+			protein_id	NC_006577.2_6
+28320	29645	gene
+			gene	N
+28320	29645	CDS
+			product	nucleocapsid phosphoprotein
+			protein_id	NC_006577.2_7
+28342	28959	gene
+			gene	N2
+28342	28959	CDS
+			product	nucleocapsid phosphoprotein 2
+			protein_id	NC_006577.2_8
+
+Additional note(s) to submitter:
+ERROR: DISCONTINUOUS_SIMILARITY: (*sequence*) not all hits are in the same order in the sequence and the homology model [seq order: 1,26,25,23,21,19,17,15,13,11,9,7,5,3,2,4,6,8,10,12,14,16,18,20,22,24,29,28,27, mdl order: 1,27,24,22,20,18,16,14,12,10,8,6,4,2,3,5,7,9,11,13,15,17,19,21,23,25,28,29,26]; seq-coords:1..29926:+,3128..3516:+,3038..3426:+,3158..3516:+,3038..3396:+,3188..3516:+,3038..3366:+,3218..3516:+,3038..3336:+,3248..3516:+,3038..3306:+,3278..3516:+,3038..3276:+,3308..3516:+,3038..3246:+,3338..3516:+,3038..3216:+,3368..3516:+,3038..3186:+,3398..3516:+,3038..3156:+,3428..3516:+,3038..3126:+,3458..3516:+,3038..3096:+,42..74:+,27014..27046:+,22924..22964:+,21754..21794:+; mdl-coords:1..29926:+,3038..3426:+,3128..3516:+,3038..3396:+,3158..3516:+,3038..3366:+,3188..3516:+,3038..3336:+,3218..3516:+,3038..3306:+,3248..3516:+,3038..3276:+,3278..3516:+,3038..3246:+,3308..3516:+,3038..3216:+,3338..3516:+,3038..3186:+,3368..3516:+,3038..3156:+,3398..3516:+,3038..3126:+,3428..3516:+,3038..3096:+,3458..3516:+,27014..27046:+,42..74:+,21754..21794:+,22924..22964:+; mdl:NC_006577;

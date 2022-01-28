@@ -1,0 +1,4 @@
+#seq  seq           seq                              sub                     seq    mdl         num                        sub     score  diff/  seq   
+#idx  name          len  p/f   ant  model1     grp1  grp1    score  sc/nt    cov    cov  bias  hits  str  model2     grp2  grp2     diff     nt  alerts
+#---  ----------  -----  ----  ---  ---------  ----  ----  -------  -----  -----  -----  ----  ----  ---  ---------  ----  ----  -------  -----  ------
+1     FJ938056.1  29253  FAIL  yes  NC_002306  -     -     33296.0  1.292  0.881  0.882     0     3    +  NC_028806  -     -     11732.4  0.402  LOW_COVERAGE(lowcovrg)

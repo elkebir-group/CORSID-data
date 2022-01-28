@@ -1,0 +1,15 @@
+##gff-version 3
+NC_002645	vadr	region	12520	20568	.	+	.	ID=ftr-3;Name=replicase polyprotein 1ab;Gene=replicase polyprotein 1ab;Alias=NC_002645.1_1;
+NC_002645	vadr	CDS	293	12550	.	+	.	ID=ftr-4;Name=replicase polyprotein 1a;Gene=replicase polyprotein 1a;Alias=NC_002645.1_2;
+NC_002645	vadr	gene	20570	24091	.	+	.	ID=ftr-5;Name=S;Gene=S;
+NC_002645	vadr	CDS	20570	24091	.	+	.	ID=ftr-6;Name=surface glycoprotein;Gene=surface glycoprotein;Parent=ftr-5;Alias=NC_002645.1_3;
+NC_002645	vadr	gene	24091	24492	.	+	.	ID=ftr-7;Name=4a;Gene=4a;
+NC_002645	vadr	CDS	24091	24492	.	+	.	ID=ftr-8;Name=4a protein;Gene=4a protein;Parent=ftr-7;Alias=NC_002645.1_4;
+NC_002645	vadr	gene	24482	24748	.	+	.	ID=ftr-9;Name=4b;Gene=4b;
+NC_002645	vadr	CDS	24482	24748	.	+	.	ID=ftr-10;Name=4b protein;Gene=4b protein;Parent=ftr-9;Alias=NC_002645.1_5;
+NC_002645	vadr	gene	24750	24983	.	+	.	ID=ftr-11;Name=E;Gene=E;
+NC_002645	vadr	CDS	24750	24983	.	+	.	ID=ftr-12;Name=envelope protein;Gene=envelope protein;Parent=ftr-11;Alias=NC_002645.1_6;
+NC_002645	vadr	gene	24995	25672	.	+	.	ID=ftr-13;Name=M;Gene=M;
+NC_002645	vadr	CDS	24995	25672	.	+	.	ID=ftr-14;Name=membrane protein;Gene=membrane protein;Parent=ftr-13;Alias=NC_002645.1_7;
+NC_002645	vadr	gene	25686	26855	.	+	.	ID=ftr-15;Name=N;Gene=N;
+NC_002645	vadr	CDS	25686	26855	.	+	.	ID=ftr-16;Name=nucleocapsid protein;Gene=nucleocapsid protein;Parent=ftr-15;Alias=NC_002645.1_8;

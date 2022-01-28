@@ -1,0 +1,15 @@
+##gff-version 3
+MN690608	vadr	region	12388	20514	.	+	.	ID=ftr-4;Name=ORF 1ab polyprotein;Gene=ORF 1ab polyprotein;Alias=MN690608.1_1;
+MN690608	vadr	CDS	524	12418	.	+	.	ID=ftr-5;Name=ORF 1a polyprotein;Gene=ORF 1a polyprotein;Alias=MN690608.1_2;
+MN690608	vadr	CDS	20450	24898	.	+	.	ID=ftr-7;Name=spike protein;Gene=spike protein;Alias=MN690608.1_3;
+MN690608	vadr	CDS	24904	25191	.	+	.	ID=ftr-9;Name=small membrane protein;Gene=small membrane protein;Alias=MN690608.1_4;
+MN690608	vadr	CDS	25175	26002	.	+	.	ID=ftr-11;Name=matrix glycoprotein;Gene=matrix glycoprotein;Alias=MN690608.1_5;
+MN690608	vadr	CDS	26005	26421	.	+	.	ID=ftr-13;Name=ORF 5a;Gene=ORF 5a;Alias=MN690608.1_6;
+MN690608	vadr	CDS	26414	26932	.	+	.	ID=ftr-15;Name=ORF 5b;Gene=ORF 5b;Alias=MN690608.1_7;
+MN690608	vadr	CDS	26922	27449	.	+	.	ID=ftr-17;Name=ORF 5c;Gene=ORF 5c;Alias=MN690608.1_8;
+MN690608	vadr	CDS	27453	28139	.	+	.	ID=ftr-19;Name=ORF 6;Gene=ORF 6;Alias=MN690608.1_9;
+MN690608	vadr	CDS	28142	28627	.	+	.	ID=ftr-21;Name=ORF 7;Gene=ORF 7;Alias=MN690608.1_10;
+MN690608	vadr	CDS	28778	28957	.	+	.	ID=ftr-23;Name=ORF 8;Gene=ORF 8;Alias=MN690608.1_11;
+MN690608	vadr	CDS	29014	29472	.	+	.	ID=ftr-25;Name=ORF 9;Gene=ORF 9;Alias=MN690608.1_12;
+MN690608	vadr	CDS	29475	30107	.	+	.	ID=ftr-27;Name=ORF 10;Gene=ORF 10;Alias=MN690608.1_13;
+MN690608	vadr	CDS	30219	31358	.	+	.	ID=ftr-29;Name=nucleocapsid protein;Gene=nucleocapsid protein;Alias=MN690608.1_14;

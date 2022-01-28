@@ -1,0 +1,41 @@
+>Feature NC_032107.1
+242	20517	gene
+			gene	orf1ab
+242	12472	CDS
+12472	20517
+			product	ORF1ab protein
+			exception	ribosomal slippage
+			protein_id	NC_032107.1_1
+242	12502	CDS
+			product	ORF1a protein
+			protein_id	NC_032107.1_2
+20514	24632	gene
+			gene	S
+20514	24632	CDS
+			product	S protein
+			protein_id	NC_032107.1_3
+24632	25315	gene
+			gene	ORF3
+24632	25315	CDS
+			product	ORF3 protein
+			protein_id	NC_032107.1_4
+25296	25529	gene
+			gene	E
+25296	25529	CDS
+			product	E protein
+			protein_id	NC_032107.1_5
+25538	26230	gene
+			gene	M
+25538	26230	CDS
+			product	M protein
+			protein_id	NC_032107.1_6
+26241	27464	gene
+			gene	N
+26241	27464	CDS
+			product	N protein
+			protein_id	NC_032107.1_7
+27927	28214	gene
+			gene	ORFx
+27927	28214	CDS
+			product	ORFx protein
+			protein_id	NC_032107.1_8

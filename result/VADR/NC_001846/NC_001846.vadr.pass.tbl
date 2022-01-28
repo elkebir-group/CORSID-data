@@ -1,0 +1,25 @@
+>Feature NC_001846.1
+210	21745	gene
+			gene	1
+210	13622	CDS
+			product	RNA-directed RNA polymerase
+			protein_id	NC_001846.1_1
+13544	21745	CDS
+			product	RNA-directed RNA polymerase
+			protein_id	NC_001846.1_2
+23929	27903	gene
+			gene	S
+23929	27903	CDS
+			product	E2 glycoprotein precursor
+			protein_id	NC_001846.1_3
+28968	29654	gene
+			gene	M
+28968	29654	CDS
+			product	E1 glycoprotein
+			product	matrix glycoprotein
+			protein_id	NC_001846.1_4
+29669	31033	gene
+			gene	N
+29669	31033	CDS
+			product	nucleocapsid protein
+			protein_id	NC_001846.1_5

@@ -1,0 +1,5 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+MH687945.1	NC_009657	-	*sequence*	DUPLICATE_REGIONS	1..28139:+,28144..28215:+	43..28178:+,27737..27808:+	similarity to a model region occurs more than once [27737..27808:+ (len 72>=20) hits 1 (44793.0 bits) and 2 (123.0 bits)]
+MH687945.1	NC_009657	-	*sequence*	LOW_SIMILARITY_END	28216..28235:+	28191..28203:+	significant similarity not detected at 3' end of the sequence [low similarity region of length 20]
+MH687945.1	NC_009657	-	*sequence*	LOW_SIMILARITY	28140..28143:+	28179..28180:+	internal region without significant similarity [low similarity region of length 4]
+MH687945.1	NC_009657	CDS	matrix protein	INDEFINITE_ANNOTATION_START	25636..25641:+	25678..25678:+	protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [6>5]

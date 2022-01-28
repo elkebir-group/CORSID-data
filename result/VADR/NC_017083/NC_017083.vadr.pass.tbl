@@ -1,0 +1,57 @@
+>Feature NC_017083.1
+209	21663	gene
+209	13519	CDS
+13519	21663
+			product	polyprotein
+			exception	ribosomal slippage
+			protein_id	NC_017083.1_1
+21673	21804	gene
+			gene	NS2a1
+21673	21804	CDS
+			product	NS2a1 protein
+			protein_id	NC_017083.1_2
+21829	22020	gene
+			gene	NS2a2
+21829	22020	CDS
+			product	NS2a2 protein
+			protein_id	NC_017083.1_3
+22126	22254	gene
+			gene	NS2a3
+22126	22254	CDS
+			product	NS2a3 protein
+			protein_id	NC_017083.1_4
+22277	22492	gene
+			gene	NS2a4
+22277	22492	CDS
+			product	NS2a4 protein
+			protein_id	NC_017083.1_5
+22504	23778	gene
+			gene	HE
+22504	23778	CDS
+			product	hemagglutinin-esterase protein
+			protein_id	NC_017083.1_6
+23793	27881	gene
+			gene	S
+23793	27881	CDS
+			product	spike protein
+			protein_id	NC_017083.1_7
+28178	28507	gene
+			gene	NS5a
+28178	28507	CDS
+			product	NS5a protein
+			protein_id	NC_017083.1_8
+28494	28763	gene
+			gene	E
+28494	28763	CDS
+			product	envelope protein
+			protein_id	NC_017083.1_9
+28760	29452	gene
+			gene	M
+28760	29452	CDS
+			product	membrane protein
+			protein_id	NC_017083.1_10
+29462	30796	gene
+			gene	N
+29462	30796	CDS
+			product	nucleocapsid protein
+			protein_id	NC_017083.1_11

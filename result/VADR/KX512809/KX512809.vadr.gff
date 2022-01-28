@@ -1,0 +1,18 @@
+##gff-version 3
+KX512809	vadr	gene	19866	<1	.	-	.	ID=ftr-1;Name=orf1ab;Gene=orf1ab;
+KX512809	vadr	region	11844	19866	.	+	.	ID=ftr-3;Name=ORF1ab;Gene=ORF1ab;Parent=ftr-1;Alias=KX512809.1_1;
+KX512809	vadr	CDS	11874	<1	.	-	.	ID=ftr-4;Name=ORF1a;Gene=ORF1a;Parent=ftr-1;Alias=KX512809.1_2;
+KX512809	vadr	gene	19859	24223	.	+	.	ID=ftr-5;Name=S;Gene=S;
+KX512809	vadr	CDS	19859	24223	.	+	.	ID=ftr-6;Name=spike protein;Gene=spike protein;Parent=ftr-5;Alias=KX512809.1_3;
+KX512809	vadr	gene	24244	24987	.	+	.	ID=ftr-7;Name=nsp;Gene=nsp;
+KX512809	vadr	CDS	24244	24987	.	+	.	ID=ftr-8;Name=non-structural protein 3c;Gene=non-structural protein 3c;Parent=ftr-7;Alias=KX512809.1_4;
+KX512809	vadr	gene	24956	25204	.	+	.	ID=ftr-9;Name=E;Gene=E;
+KX512809	vadr	CDS	24956	25204	.	+	.	ID=ftr-10;Name=envelope protein;Gene=envelope protein;Parent=ftr-9;Alias=KX512809.1_5;
+KX512809	vadr	gene	25219	26001	.	+	.	ID=ftr-11;Name=M;Gene=M;
+KX512809	vadr	CDS	25219	26001	.	+	.	ID=ftr-12;Name=membrane protein;Gene=membrane protein;Parent=ftr-11;Alias=KX512809.1_6;
+KX512809	vadr	gene	26018	27142	.	+	.	ID=ftr-13;Name=N;Gene=N;
+KX512809	vadr	CDS	26018	27142	.	+	.	ID=ftr-14;Name=nucleocapsid protein;Gene=nucleocapsid protein;Parent=ftr-13;Alias=KX512809.1_7;
+KX512809	vadr	gene	27151	27423	.	+	.	ID=ftr-15;Name=3x-like;Gene=3x-like;
+KX512809	vadr	CDS	27151	27423	.	+	.	ID=ftr-16;Name=hypothetical protein;Gene=hypothetical protein;Parent=ftr-15;Alias=KX512809.1_8;
+KX512809	vadr	gene	27314	27928	.	+	.	ID=ftr-17;Name=orf7b;Gene=orf7b;
+KX512809	vadr	CDS	27314	27928	.	+	.	ID=ftr-18;Name=nsp 7b protein;Gene=nsp 7b protein;Parent=ftr-17;Alias=KX512809.1_9;

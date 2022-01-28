@@ -1,0 +1,13 @@
+#     alert     causes   short                             per    num   num  long       
+#idx  code      failure  description                      type  cases  seqs  description
+#---  --------  -------  ---------------------------  --------  -----  ----  -----------
+1     indfclas  no       INDEFINITE_CLASSIFICATION    sequence      1     1  low score difference between best overall model and second best model (not in best model's subgroup)
+#---  --------  -------  ---------------------------  --------  -----  ----  -----------
+2     lowsim5s  yes      LOW_SIMILARITY_START         sequence      1     1  significant similarity not detected at 5' end of the sequence
+3     lowsim3s  yes      LOW_SIMILARITY_END           sequence      1     1  significant similarity not detected at 3' end of the sequence
+4     mutstart  yes*     MUTATION_AT_START             feature      1     1  expected start codon could not be identified
+5     cdsstopn  yes*     CDS_HAS_STOP_CODON            feature      1     1  in-frame stop codon exists 5' of stop position predicted by homology to reference
+6     indf5plg  yes*     INDEFINITE_ANNOTATION_START   feature      1     1  protein-based alignment extends past nucleotide-based alignment at 5' end
+7     indf5pst  yes*     INDEFINITE_ANNOTATION_START   feature      1     1  protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint
+8     indf3pst  yes*     INDEFINITE_ANNOTATION_END     feature      1     1  protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint
+#---  --------  -------  ---------------------------  --------  -----  ----  -----------

@@ -1,0 +1,20 @@
+##gff-version 3
+MG893511	vadr	gene	312	20416	.	+	.	ID=ftr-1;Name=ORF 1a/1b;Gene=ORF 1a/1b;
+MG893511	vadr	region	12386	20416	.	+	.	ID=ftr-3;Name=polyprotein ab;Gene=polyprotein ab;Parent=ftr-1;Alias=MG893511.1_1;
+MG893511	vadr	gene	20413	24810	.	+	.	ID=ftr-4;Name=S;Gene=S;
+MG893511	vadr	CDS	20413	24810	.	+	.	ID=ftr-5;Name=spike protein;Gene=spike protein;Parent=ftr-4;Alias=MG893511.1_2;
+MG893511	vadr	gene	24822	25034	.	+	.	ID=ftr-6;Name=nsp 3a;Gene=nsp 3a;
+MG893511	vadr	CDS	24822	25034	.	+	.	ID=ftr-7;Name=putative 3a protein;Gene=putative 3a protein;Parent=ftr-6;Alias=MG893511.1_3;
+MG893511	vadr	gene	24982	25200	.	+	.	ID=ftr-8;Name=nsp 3b;Gene=nsp 3b;
+MG893511	vadr	CDS	24982	25200	.	+	.	ID=ftr-9;Name=putative 3b protein;Gene=putative 3b protein;Parent=ftr-8;Alias=MG893511.1_4;
+MG893511	vadr	gene	25197	25910	.	+	.	ID=ftr-10;Name=nsp 3c;Gene=nsp 3c;
+MG893511	vadr	gene	25897	26145	.	+	.	ID=ftr-11;Name=E;Gene=E;
+MG893511	vadr	CDS	25897	26145	.	+	.	ID=ftr-12;Name=E protein;Gene=E protein;Parent=ftr-11;Alias=MG893511.1_5;
+MG893511	vadr	gene	26156	26947	.	+	.	ID=ftr-13;Name=M;Gene=M;
+MG893511	vadr	CDS	26156	26947	.	+	.	ID=ftr-14;Name=matrix protein;Gene=matrix protein;Parent=ftr-13;Alias=MG893511.1_6;
+MG893511	vadr	gene	26960	28087	.	+	.	ID=ftr-15;Name=N;Gene=N;
+MG893511	vadr	CDS	26960	28087	.	+	.	ID=ftr-16;Name=nucleocapsid protein;Gene=nucleocapsid protein;Parent=ftr-15;Alias=MG893511.1_7;
+MG893511	vadr	gene	28092	28397	.	+	.	ID=ftr-17;Name=nsp 7a;Gene=nsp 7a;
+MG893511	vadr	CDS	28092	28397	.	+	.	ID=ftr-18;Name=non-structural protein 7a;Gene=non-structural protein 7a;Parent=ftr-17;Alias=MG893511.1_8;
+MG893511	vadr	gene	28402	29022	.	+	.	ID=ftr-19;Name=nsp 7b;Gene=nsp 7b;
+MG893511	vadr	CDS	28402	29022	.	+	.	ID=ftr-20;Name=non-structural protein 7b;Gene=non-structural protein 7b;Parent=ftr-19;Alias=MG893511.1_9;

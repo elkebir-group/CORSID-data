@@ -1,0 +1,5 @@
+#      seq                    ftr   ftr                   ftr  alert           alert                                   seq  seq             mdl  mdl  alert 
+#idx   name        model      type  name                  idx  code      fail  description                          coords  len          coords  len  detail
+#----  ----------  ---------  ----  --------------------  ---  --------  ----  ---------------------------  --------------  ---  --------------  ---  ------
+1.1.1  KJ473820.1  NC_009020  CDS   hypothetical_protein   10  mutstart  yes   MUTATION_AT_START            26377..26379:+    3  26375..26377:+    3  expected start codon could not be identified [ACG]
+1.1.2  KJ473820.1  NC_009020  CDS   hypothetical_protein   10  indf5pst  yes   INDEFINITE_ANNOTATION_START  26377..26406:+   30  26375..26375:+    1  protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [30>5]

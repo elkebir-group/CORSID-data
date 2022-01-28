@@ -1,0 +1,10 @@
+##gff-version 3
+NC_001846	vadr	gene	210	21745	.	+	.	ID=ftr-1;Name=1;Gene=1;
+NC_001846	vadr	CDS	210	13622	.	+	.	ID=ftr-2;Name=RNA-directed RNA polymerase;Gene=RNA-directed RNA polymerase;Parent=ftr-1;Alias=NC_001846.1_1;
+NC_001846	vadr	CDS	13544	21745	.	+	.	ID=ftr-3;Name=RNA-directed RNA polymerase;Gene=RNA-directed RNA polymerase;Parent=ftr-1;Alias=NC_001846.1_2;
+NC_001846	vadr	gene	23929	27903	.	+	.	ID=ftr-4;Name=S;Gene=S;
+NC_001846	vadr	CDS	23929	27903	.	+	.	ID=ftr-5;Name=E2 glycoprotein precursor;Gene=E2 glycoprotein precursor;Parent=ftr-4;Alias=NC_001846.1_3;
+NC_001846	vadr	gene	28968	29654	.	+	.	ID=ftr-6;Name=M;Gene=M;
+NC_001846	vadr	CDS	28968	29654	.	+	.	ID=ftr-7;Name=matrix glycoprotein;Gene=matrix glycoprotein;Parent=ftr-6;Alias=NC_001846.1_4;
+NC_001846	vadr	gene	29669	31033	.	+	.	ID=ftr-8;Name=N;Gene=N;
+NC_001846	vadr	CDS	29669	31033	.	+	.	ID=ftr-9;Name=nucleocapsid protein;Gene=nucleocapsid protein;Parent=ftr-8;Alias=NC_001846.1_5;

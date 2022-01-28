@@ -1,0 +1,20 @@
+##gff-version 3
+MF577027	vadr	region	12615	20636	.	+	.	ID=ftr-3;Name=Pol1;Gene=Pol1;Alias=MF577027.1_1;
+MF577027	vadr	mat_peptide	292	621	.	+	.	ID=ftr-4;Name=putative leader protein;Gene=putative leader protein;Alias=MF577027.1_1;
+MF577027	vadr	mat_peptide	2977	7842	.	+	.	ID=ftr-5;Name=putative coronavirus nsp1;Gene=putative coronavirus nsp1;Alias=MF577027.1_1;
+MF577027	vadr	mat_peptide	9283	10188	.	+	.	ID=ftr-6;Name=putative coronavirus nsp2 [3CL-PRO];Gene=putative coronavirus nsp2 [3CL-PRO];Alias=MF577027.1_1;
+MF577027	vadr	mat_peptide	10189	11028	.	+	.	ID=ftr-7;Name=putative coronavirus nsp3 [HD2];Gene=putative coronavirus nsp3 [HD2];Alias=MF577027.1_1;
+MF577027	vadr	mat_peptide	11029	11277	.	+	.	ID=ftr-8;Name=putative coronavirus nsp4;Gene=putative coronavirus nsp4;Alias=MF577027.1_1;
+MF577027	vadr	mat_peptide	11278	11862	.	+	.	ID=ftr-9;Name=putative coronavirus nsp5;Gene=putative coronavirus nsp5;Alias=MF577027.1_1;
+MF577027	vadr	mat_peptide	11863	12186	.	+	.	ID=ftr-10;Name=putative coronavirus nsp6;Gene=putative coronavirus nsp6;Alias=MF577027.1_1;
+MF577027	vadr	mat_peptide	12187	12591	.	+	.	ID=ftr-11;Name=putative coronavirus nsp7;Gene=putative coronavirus nsp7;Alias=MF577027.1_1;
+MF577027	vadr	region	12615	15371	.	+	.	ID=ftr-13;Name=putative coronavirus nsp9 [RdRp];Gene=putative coronavirus nsp9 [RdRp];Alias=MF577027.1_1;
+MF577027	vadr	mat_peptide	15372	17162	.	+	.	ID=ftr-14;Name=putative coronavirus nsp10 [MB, NTPase/HEL];Gene=putative coronavirus nsp10 [MB, NTPase/HEL];Alias=MF577027.1_1;
+MF577027	vadr	mat_peptide	17163	18713	.	+	.	ID=ftr-15;Name=putative coronavirus nsp11;Gene=putative coronavirus nsp11;Alias=MF577027.1_1;
+MF577027	vadr	mat_peptide	18714	19730	.	+	.	ID=ftr-16;Name=putative coronavirus nsp12;Gene=putative coronavirus nsp12;Alias=MF577027.1_1;
+MF577027	vadr	mat_peptide	19731	20633	.	+	.	ID=ftr-17;Name=putative coronavirus nsp13;Gene=putative coronavirus nsp13;Alias=MF577027.1_1;
+MF577027	vadr	CDS	20633	24751	.	+	.	ID=ftr-19;Name=spike protein;Gene=spike protein;Alias=MF577027.1_2;
+MF577027	vadr	CDS	24751	25425	.	+	.	ID=ftr-21;Name=hypothetical protein;Gene=hypothetical protein;Alias=MF577027.1_3;
+MF577027	vadr	CDS	25406	25636	.	+	.	ID=ftr-23;Name=envelope protein;Gene=envelope protein;Alias=MF577027.1_4;
+MF577027	vadr	CDS	25644	26324	.	+	.	ID=ftr-25;Name=membrane protein;Gene=membrane protein;Alias=MF577027.1_5;
+MF577027	vadr	CDS	26336	27640	.	+	.	ID=ftr-27;Name=nucleocapsid protein;Gene=nucleocapsid protein;Alias=MF577027.1_6;

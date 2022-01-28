@@ -1,0 +1,4 @@
+#seq  seq           seq                   num_Ns  num_Ns  fract_Ns  nregs  nregs  nregs    nregs    nregs      nnt      nnt  detail_on_regions[S:seq,M:mdl,D:lendiff,N:#Ns,                
+#idx  name          len  model      p/f      tot      rp        rp    tot    int     rp  rp-full  rp-part  rp-full  rp-part  E:#non_N_match_expected,F:flush_direction,R:region_replaced?];
+#---  ----------  -----  ---------  ----  ------  ------  --------  -----  -----  -----  -------  -------  -------  -------  --------------------------------------------------------------
+1     GQ504723.1  27620  NC_010800  FAIL       0       0         -      3      2      0        0        0        0        0  [S:20381..23627,M:20367..23763,D:-150!,N:0/3247,E:?/?,F:-,R:N];[S:27138..27324,M:27277..27306,D:157!,N:0/187,E:?/?,F:-,R:N];[S:27615..27620,M:27599..27604,D:0,N:0/6,E:?/?,F:-,R:N];

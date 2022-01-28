@@ -1,0 +1,20 @@
+##gff-version 3
+KC869678	vadr	gene	281	21528	.	+	.	ID=ftr-1;Name=orf1ab;Gene=orf1ab;
+KC869678	vadr	region	13443	21528	.	+	.	ID=ftr-3;Name=ORF1b protein;Gene=ORF1b protein;Parent=ftr-1;Alias=KC869678.4_1;
+KC869678	vadr	CDS	281	13465	.	+	.	ID=ftr-4;Name=ORF1a protein;Gene=ORF1a protein;Parent=ftr-1;Alias=KC869678.4_2;
+KC869678	vadr	gene	21470	25504	.	+	.	ID=ftr-5;Name=S;Gene=S;
+KC869678	vadr	CDS	21470	25504	.	+	.	ID=ftr-6;Name=S protein;Gene=S protein;Parent=ftr-5;Alias=KC869678.4_3;
+KC869678	vadr	gene	25519	25830	.	+	.	ID=ftr-7;Name=ns3a;Gene=ns3a;
+KC869678	vadr	CDS	25519	25830	.	+	.	ID=ftr-8;Name=NS3A protein;Gene=NS3A protein;Parent=ftr-7;Alias=KC869678.4_4;
+KC869678	vadr	gene	25839	26168	.	+	.	ID=ftr-9;Name=ns3b;Gene=ns3b;
+KC869678	vadr	CDS	25839	26168	.	+	.	ID=ftr-10;Name=NS3B protein;Gene=NS3B protein;Parent=ftr-9;Alias=KC869678.4_5;
+KC869678	vadr	gene	26080	26820	.	+	.	ID=ftr-11;Name=ns3c;Gene=ns3c;
+KC869678	vadr	CDS	26080	26820	.	+	.	ID=ftr-12;Name=NS3C protein;Gene=NS3C protein;Parent=ftr-11;Alias=KC869678.4_6;
+KC869678	vadr	gene	26827	27501	.	+	.	ID=ftr-13;Name=ns3d;Gene=ns3d;
+KC869678	vadr	CDS	26827	27501	.	+	.	ID=ftr-14;Name=NS3D protein;Gene=NS3D protein;Parent=ftr-13;Alias=KC869678.4_7;
+KC869678	vadr	gene	27577	27825	.	+	.	ID=ftr-15;Name=E;Gene=E;
+KC869678	vadr	CDS	27577	27825	.	+	.	ID=ftr-16;Name=E protein;Gene=E protein;Parent=ftr-15;Alias=KC869678.4_8;
+KC869678	vadr	gene	27840	28499	.	+	.	ID=ftr-17;Name=M;Gene=M;
+KC869678	vadr	CDS	27840	28499	.	+	.	ID=ftr-18;Name=M protein;Gene=M protein;Parent=ftr-17;Alias=KC869678.4_9;
+KC869678	vadr	gene	28557	29801	.	+	.	ID=ftr-19;Name=N;Gene=N;
+KC869678	vadr	CDS	28557	29801	.	+	.	ID=ftr-20;Name=N protein;Gene=N protein;Parent=ftr-19;Alias=KC869678.4_10;

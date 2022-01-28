@@ -1,0 +1,4 @@
+#seq  seq           seq             best                     sub                                    seq   
+#idx  name          len  p/f   ant  model      grp           grp         nfa  nfn  nf5  nf3  nfalt  alerts
+#---  ----------  -----  ----  ---  ---------  ------------  ----------  ---  ---  ---  ---  -----  ------
+1     MT040335.1  29806  FAIL  yes  NC_045512  Sarbecovirus  SARS-CoV-2   54    0    0    0     29  LOW_SIMILARITY_START(lowsim5s)

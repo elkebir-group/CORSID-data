@@ -1,0 +1,31 @@
+>Feature MH687938.1
+257	20637	gene
+257	12613	CDS
+12613	20637
+			product	ORF1
+			protein_id	MH687938.1_1
+20634	24752	gene
+20634	24752	CDS
+			product	spike protein
+			protein_id	MH687938.1_2
+24752	25426	gene
+24752	25426	CDS
+			product	putative ORF3
+			protein_id	MH687938.1_3
+25407	25637	gene
+25407	25637	CDS
+			product	envelope protein
+			protein_id	MH687938.1_4
+25644	26327	gene
+25644	26327	CDS
+			product	matrix protein
+			protein_id	MH687938.1_5
+26338	27522	gene
+26338	27522	CDS
+			product	nucleocapsid protein
+			protein_id	MH687938.1_6
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_STRAND: (*sequence*) significant similarity detected on both strands [score:181.0>25.0]; seq-coords:28347..28248:-; mdl-coords:27950..28049:+; mdl:NC_009657;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 100]; seq-coords:28250..28349:+; mdl-coords:28179..28203:+; mdl:NC_009657;
+ERROR: LOW_SIMILARITY: (*sequence*) internal region without significant similarity [low similarity region of length 151]; seq-coords:27623..27773:+; mdl-coords:27657..27702:+; mdl:NC_009657;

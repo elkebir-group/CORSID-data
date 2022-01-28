@@ -1,0 +1,6 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+MH002338.1	NC_009019	-	*sequence*	LOW_SIMILARITY	30..30:+	30..30:+	internal region without significant similarity [low similarity region of length 1]
+MH002338.1	NC_009019	CDS	orf1ab polyprotein	INSERTION_OF_NT	3302..3331:+	3336..3336:+	too large of an insertion in nucleotide-based alignment of CDS feature [30>27]
+MH002338.1	NC_009019	CDS	orf1ab polyprotein	INSERTION_OF_NT	3300..3329:+	3335..3335:+	too large of an insertion in protein-based alignment [30>27]
+MH002338.1	NC_009019	CDS	spike glycoprotein	INDEFINITE_ANNOTATION_START	21562..21597:+	21570..21570:+	protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [36>5]
+MH002338.1	NC_009019	CDS	hypothetical protein	INDEFINITE_ANNOTATION_START	25644..25646:+	25655..25655:+	protein-based alignment extends past nucleotide-based alignment at 5' end [-]

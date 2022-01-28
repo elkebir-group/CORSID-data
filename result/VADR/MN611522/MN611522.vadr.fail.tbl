@@ -1,0 +1,47 @@
+>Feature MN611522.1
+132	20317	gene
+132	12314	gene
+132	12284	CDS
+12284	20317
+			product	orf1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	MN611522.1_1
+132	12314	CDS
+			product	orf1a polyprotein
+			protein_id	MN611522.1_2
+20314	23673	gene
+			gene	S
+20314	23673	CDS
+			product	spike glycoprotein
+			protein_id	MN611522.1_3
+23673	24362	gene
+			gene	NS3
+23673	24362	CDS
+			product	hypothetical protein
+			protein_id	MN611522.1_4
+24343	24570	gene
+			gene	E
+24343	24570	CDS
+			product	small membrane protein
+			protein_id	MN611522.1_5
+24579	25265	gene
+			gene	M
+24579	25265	CDS
+			product	membrane glycoprotein
+			protein_id	MN611522.1_6
+25277	26407	gene
+			gene	N
+25277	26407	CDS
+			product	nucleocapsid phosphoprotein
+			protein_id	MN611522.1_7
+26419	26718	gene
+			gene	NS7a
+26419	26718	CDS
+			product	hypothetical protein
+			protein_id	MN611522.1_8
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike glycoprotein) possible frameshift in CDS (frame restored before end) [cause:insert,S:20330(1),M:20491; restore:delete,S:20337,M:20499..20502(4); frame:1(2)1213131; length:16:(8):214:10:669:17:1033:9:1384;]; seq-coords:20330..20337:+; mdl-coords:20492..20502:+; mdl:NC_009988;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike glycoprotein) possible frameshift in CDS (frame restored before end) [cause:delete,S:20551,M:20717..20718(2); restore:delete,S:20561,M:20729..20735(7); frame:121(2)13131; length:16:8:214:(10):669:17:1033:9:1384;]; seq-coords:20552..20561:+; mdl-coords:20717..20735:+; mdl:NC_009988;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike glycoprotein) possible frameshift in CDS (frame restored before end) [cause:insert,S:21231..21232(2),M:21404; restore:insert,S:21244..21247(4),M:21415; frame:12121(3)131; length:16:8:214:10:669:(17):1033:9:1384;]; seq-coords:21231..21247:+; mdl-coords:21405..21415:+; mdl:NC_009988;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike glycoprotein) possible frameshift in CDS (frame restored before end) [cause:delete,S:22280,M:22452..22470(19); restore:insert,S:22289(1),M:22478; frame:1212131(3)1; length:16:8:214:10:669:17:1033:(9):1384;]; seq-coords:22281..22289:+; mdl-coords:22452..22478:+; mdl:NC_009988;

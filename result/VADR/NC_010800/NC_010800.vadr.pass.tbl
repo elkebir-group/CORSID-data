@@ -1,0 +1,113 @@
+>Feature NC_010800.1
+529	20336	gene
+			gene	1ab
+529	12384	gene
+			gene	1a
+529	12354	CDS
+12354	20336
+			product	ORF1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	NC_010800.1_1
+529	12384	CDS
+			product	ORF1a
+			protein_id	NC_010800.1_2
+529	2547	mat_peptide
+			product	NSP1/2
+			protein_id	NC_010800.1_1
+2548	7323	mat_peptide
+			product	NSP3
+			product	putative papain-like protease
+			protein_id	NC_010800.1_1
+7324	8865	mat_peptide
+			product	NSP4
+			protein_id	NC_010800.1_1
+8866	9786	mat_peptide
+			product	NSP5
+			product	putative 3C-like proteinase
+			protein_id	NC_010800.1_1
+9787	10665	mat_peptide
+			product	NSP6
+			protein_id	NC_010800.1_1
+10666	10914	mat_peptide
+			product	NSP7
+			protein_id	NC_010800.1_1
+10915	11544	mat_peptide
+			product	NSP8
+			protein_id	NC_010800.1_1
+11545	11877	mat_peptide
+			product	NSP9
+			protein_id	NC_010800.1_1
+11878	12312	mat_peptide
+			product	NSP10
+			product	growth-factor domain-containing mature protein
+			protein_id	NC_010800.1_1
+12313	12354	mat_peptide
+12354	15134
+			product	NSP12
+			product	putative RNA-dependend RNA polymerase
+			protein_id	NC_010800.1_1
+12313	12354	mat_peptide
+12354	12377
+			product	NSP11
+			protein_id	NC_010800.1_1
+15135	16934	mat_peptide
+			product	NSP13
+			product	putative helicase
+			protein_id	NC_010800.1_1
+16935	18488	mat_peptide
+			product	NSP14
+			product	putative exoribonuclease
+			protein_id	NC_010800.1_1
+18489	19502	mat_peptide
+			product	NSP15
+			product	putative uridylate-specific endoribonuclease
+			protein_id	NC_010800.1_1
+19503	20333	mat_peptide
+			product	NSP16
+			product	putative 2'-O-ribose methyltransferase
+			protein_id	NC_010800.1_1
+20360	24040	gene
+			gene	S
+20360	24040	CDS
+			product	spike protein
+			protein_id	NC_010800.1_3
+23988	24161	gene
+			gene	3a
+23988	24161	CDS
+			product	3a protein
+			protein_id	NC_010800.1_4
+24161	24355	gene
+			gene	3b
+24161	24355	CDS
+			product	3b protein
+			protein_id	NC_010800.1_5
+24336	24635	gene
+			gene	3c
+24336	24635	CDS
+			product	envelope protein
+			protein_id	NC_010800.1_6
+24637	25308	gene
+			gene	M
+24637	25308	CDS
+			product	membrane protein
+			protein_id	NC_010800.1_7
+25309	25593	gene
+			gene	ORFX
+25309	25593	CDS
+			product	hypothetical protein
+			protein_id	NC_010800.1_8
+25669	25866	gene
+			gene	5a
+25669	25866	CDS
+			product	5a protein
+			protein_id	NC_010800.1_9
+25863	26111	gene
+			gene	5b
+25863	26111	CDS
+			product	5b protein
+			protein_id	NC_010800.1_10
+26054	27283	gene
+			gene	N
+26054	27283	CDS
+			product	nucleocapsid protein
+			protein_id	NC_010800.1_11

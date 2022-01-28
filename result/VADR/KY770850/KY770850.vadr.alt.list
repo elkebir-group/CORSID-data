@@ -1,0 +1,12 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+KY770850.1	NC_028811	CDS	ORF1ab polyprotein	POSSIBLE_FRAMESHIFT	878..896:+	2079..2097:+	possible frameshift in CDS (frame restored before end) [cause:delete,S:877,M:2079(1); restore:delete,S:896,M:2096..2097(2); frame:<1(3)1313121; length:<877:(19):854:68:20:68:1435:17:15833;]
+KY770850.1	NC_028811	CDS	ORF1ab polyprotein	POSSIBLE_FRAMESHIFT	1751..1818:+	2943..2965:+	possible frameshift in CDS (frame restored before end) [cause:insert,S:1751..1758(8),M:2942; restore:insert,S:1782..1818(37),M:2965; frame:<131(3)13121; length:<877:19:854:(68):20:68:1435:17:15833;]
+KY770850.1	NC_028811	CDS	ORF1ab polyprotein	POSSIBLE_FRAMESHIFT	1839..1906:+	2986..2990:+	possible frameshift in CDS (frame restored before end) [cause:insert,S:1839..1864(26),M:2985; restore:insert,S:1870..1906(37),M:2990; frame:<13131(3)121; length:<877:19:854:68:20:(68):1435:17:15833;]
+KY770850.1	NC_028811	CDS	ORF1ab polyprotein	POSSIBLE_FRAMESHIFT	3342..3358:+	4438..4454:+	possible frameshift in CDS (frame restored before end) [cause:insert,S:3342(1),M:4437; restore:delete,S:3358,M:4454(1); frame:<1313131(2)1; length:<877:19:854:68:20:68:1435:(17):15833;]
+KY770850.1	NC_028811	CDS	ORF1ab polyprotein	INSERTION_OF_NT	1782..1818:+	2965..2965:+	too large of an insertion in nucleotide-based alignment of CDS feature [37>27]
+KY770850.1	NC_028811	CDS	ORF1ab polyprotein	INSERTION_OF_NT	1870..1906:+	2990..2990:+	too large of an insertion in nucleotide-based alignment of CDS feature [37>27]
+KY770850.1	NC_028811	CDS	ORF1ab polyprotein	INSERTION_OF_NT	1794..1832:+	2968..2968:+	too large of an insertion in protein-based alignment [39>27]
+KY770850.1	NC_028811	CDS	ORF1ab polyprotein	INSERTION_OF_NT	1848..1910:+	2995..2995:+	too large of an insertion in protein-based alignment [63>27]
+KY770850.1	NC_028811	CDS	spike glycoprotein	POSSIBLE_FRAMESHIFT	19205..19221:+	20301..20308:+	possible frameshift in CDS (frame restored before end) [cause:insert,S:19205..19212(8),M:20300; restore:insert,S:19221(1),M:20308; frame:1(3)1; length:13:(17):4146;]
+KY770850.1	NC_028811	CDS	spike glycoprotein	INDEFINITE_ANNOTATION_START	19192..19254:+	20288..20288:+	protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [63>5]
+KY770850.1	NC_028811	CDS	membrane glycoprotein	INDEFINITE_ANNOTATION_START	24270..24278:+	25349..25349:+	protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]

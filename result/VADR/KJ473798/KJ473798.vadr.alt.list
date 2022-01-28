@@ -1,0 +1,4 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+KJ473798.1	NC_010438	CDS	spike protein	INDEFINITE_ANNOTATION_START	20935..20988:+	20956..20956:+	protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [54>5]
+KJ473798.1	NC_010438	CDS	membrane protein	MUTATION_AT_START	25942..25944:+	25966..25968:+	expected start codon could not be identified [AAA]
+KJ473798.1	NC_010438	CDS	hypothetical protein	POSSIBLE_FRAMESHIFT	28055..28078:+	28067..28087:+	possible frameshift in CDS (frame restored before end) [cause:insert,S:28055..28056(2),M:28066; restore:insert,S:28078(1),M:28087; frame:1(3)1; length:279:(24):444;]

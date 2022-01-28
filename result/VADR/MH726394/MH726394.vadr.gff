@@ -1,0 +1,20 @@
+##gff-version 3
+MH726394	vadr	region	12616	20637	.	+	.	ID=ftr-3;Name=Pol1;Gene=Pol1;Alias=MH726394.1_1;
+MH726394	vadr	mat_peptide	293	622	.	+	.	ID=ftr-4;Name=putative leader protein;Gene=putative leader protein;Alias=MH726394.1_1;
+MH726394	vadr	mat_peptide	2978	7843	.	+	.	ID=ftr-5;Name=putative coronavirus nsp1;Gene=putative coronavirus nsp1;Alias=MH726394.1_1;
+MH726394	vadr	mat_peptide	9284	10189	.	+	.	ID=ftr-6;Name=putative coronavirus nsp2 [3CL-PRO];Gene=putative coronavirus nsp2 [3CL-PRO];Alias=MH726394.1_1;
+MH726394	vadr	mat_peptide	10190	11029	.	+	.	ID=ftr-7;Name=putative coronavirus nsp3 [HD2];Gene=putative coronavirus nsp3 [HD2];Alias=MH726394.1_1;
+MH726394	vadr	mat_peptide	11030	11278	.	+	.	ID=ftr-8;Name=putative coronavirus nsp4;Gene=putative coronavirus nsp4;Alias=MH726394.1_1;
+MH726394	vadr	mat_peptide	11279	11863	.	+	.	ID=ftr-9;Name=putative coronavirus nsp5;Gene=putative coronavirus nsp5;Alias=MH726394.1_1;
+MH726394	vadr	mat_peptide	11864	12187	.	+	.	ID=ftr-10;Name=putative coronavirus nsp6;Gene=putative coronavirus nsp6;Alias=MH726394.1_1;
+MH726394	vadr	mat_peptide	12188	12592	.	+	.	ID=ftr-11;Name=putative coronavirus nsp7;Gene=putative coronavirus nsp7;Alias=MH726394.1_1;
+MH726394	vadr	region	12616	15372	.	+	.	ID=ftr-13;Name=putative coronavirus nsp9 [RdRp];Gene=putative coronavirus nsp9 [RdRp];Alias=MH726394.1_1;
+MH726394	vadr	mat_peptide	15373	17163	.	+	.	ID=ftr-14;Name=putative coronavirus nsp10 [MB, NTPase/HEL];Gene=putative coronavirus nsp10 [MB, NTPase/HEL];Alias=MH726394.1_1;
+MH726394	vadr	mat_peptide	17164	18714	.	+	.	ID=ftr-15;Name=putative coronavirus nsp11;Gene=putative coronavirus nsp11;Alias=MH726394.1_1;
+MH726394	vadr	mat_peptide	18715	19731	.	+	.	ID=ftr-16;Name=putative coronavirus nsp12;Gene=putative coronavirus nsp12;Alias=MH726394.1_1;
+MH726394	vadr	mat_peptide	19732	20634	.	+	.	ID=ftr-17;Name=putative coronavirus nsp13;Gene=putative coronavirus nsp13;Alias=MH726394.1_1;
+MH726394	vadr	CDS	20634	24794	.	+	.	ID=ftr-19;Name=spike protein;Gene=spike protein;Alias=MH726394.1_2;
+MH726394	vadr	CDS	24794	25468	.	+	.	ID=ftr-21;Name=hypothetical protein;Gene=hypothetical protein;Alias=MH726394.1_3;
+MH726394	vadr	CDS	25449	25679	.	+	.	ID=ftr-23;Name=envelope protein;Gene=envelope protein;Alias=MH726394.1_4;
+MH726394	vadr	CDS	25687	26367	.	+	.	ID=ftr-25;Name=membrane protein;Gene=membrane protein;Alias=MH726394.1_5;
+MH726394	vadr	CDS	26379	27704	.	+	.	ID=ftr-27;Name=nucleocapsid protein;Gene=nucleocapsid protein;Alias=MH726394.1_6;

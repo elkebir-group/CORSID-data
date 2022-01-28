@@ -1,0 +1,48 @@
+>Feature FJ376620.1
+607	19394	gene
+			gene	orf1ab
+607	11346	CDS
+11346	19394
+			product	orf1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	FJ376620.1_1
+19376	22867	gene
+			gene	S
+19376	22867	CDS
+			product	spike glycoprotein
+			protein_id	FJ376620.1_2
+22861	23109	gene
+			gene	E
+22861	23109	CDS
+			product	small membrane protein
+			protein_id	FJ376620.1_3
+23106	23807	gene
+			gene	M
+23106	23807	CDS
+			product	membrane protein
+			protein_id	FJ376620.1_4
+23807	24094	gene
+			gene	NS6
+23807	24094	CDS
+			product	nonstructural protein
+			protein_id	FJ376620.1_5
+24115	25164	gene
+			gene	N
+24115	25164	CDS
+			product	nucleocapsid phosphoprotein
+			protein_id	FJ376620.1_6
+25343	25714	gene
+			gene	NS7a
+25343	25714	CDS
+			product	nonstructural protein
+			protein_id	FJ376620.1_7
+25720	25974	gene
+			gene	NS7b
+25720	25974	CDS
+			product	nonstructural protein
+			protein_id	FJ376620.1_8
+25971	26255	gene
+			gene	NS7c
+25971	26255	CDS
+			product	nonstructural protein
+			protein_id	FJ376620.1_9

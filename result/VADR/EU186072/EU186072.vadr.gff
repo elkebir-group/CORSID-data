@@ -1,0 +1,20 @@
+##gff-version 3
+EU186072	vadr	gene	312	20407	.	+	.	ID=ftr-1;Name=ORF 1a/1b;Gene=ORF 1a/1b;
+EU186072	vadr	region	12377	20407	.	+	.	ID=ftr-3;Name=polyprotein ab;Gene=polyprotein ab;Parent=ftr-1;Alias=EU186072.1_1;
+EU186072	vadr	gene	20404	24798	.	+	.	ID=ftr-4;Name=S;Gene=S;
+EU186072	vadr	CDS	20404	24798	.	+	.	ID=ftr-5;Name=spike protein;Gene=spike protein;Parent=ftr-4;Alias=EU186072.1_2;
+EU186072	vadr	gene	24810	25022	.	+	.	ID=ftr-6;Name=nsp 3a;Gene=nsp 3a;
+EU186072	vadr	CDS	24810	25022	.	+	.	ID=ftr-7;Name=putative 3a protein;Gene=putative 3a protein;Parent=ftr-6;Alias=EU186072.1_3;
+EU186072	vadr	gene	24970	25141	.	+	.	ID=ftr-8;Name=nsp 3b;Gene=nsp 3b;
+EU186072	vadr	CDS	24970	25141	.	+	.	ID=ftr-9;Name=putative 3b protein;Gene=putative 3b protein;Parent=ftr-8;Alias=EU186072.1_4;
+EU186072	vadr	gene	25142	25839	.	+	.	ID=ftr-10;Name=nsp 3c;Gene=nsp 3c;
+EU186072	vadr	gene	25826	26074	.	+	.	ID=ftr-11;Name=E;Gene=E;
+EU186072	vadr	CDS	25826	26074	.	+	.	ID=ftr-12;Name=E protein;Gene=E protein;Parent=ftr-11;Alias=EU186072.1_5;
+EU186072	vadr	gene	26085	26876	.	+	.	ID=ftr-13;Name=M;Gene=M;
+EU186072	vadr	CDS	26085	26876	.	+	.	ID=ftr-14;Name=matrix protein;Gene=matrix protein;Parent=ftr-13;Alias=EU186072.1_6;
+EU186072	vadr	gene	26889	28022	.	+	.	ID=ftr-15;Name=N;Gene=N;
+EU186072	vadr	CDS	26889	28022	.	+	.	ID=ftr-16;Name=nucleocapsid protein;Gene=nucleocapsid protein;Parent=ftr-15;Alias=EU186072.1_7;
+EU186072	vadr	gene	28027	28332	.	+	.	ID=ftr-17;Name=nsp 7a;Gene=nsp 7a;
+EU186072	vadr	CDS	28027	28332	.	+	.	ID=ftr-18;Name=non-structural protein 7a;Gene=non-structural protein 7a;Parent=ftr-17;Alias=EU186072.1_8;
+EU186072	vadr	gene	28337	28954	.	+	.	ID=ftr-19;Name=nsp 7b;Gene=nsp 7b;
+EU186072	vadr	CDS	28337	28954	.	+	.	ID=ftr-20;Name=non-structural protein 7b;Gene=non-structural protein 7b;Parent=ftr-19;Alias=EU186072.1_9;

@@ -1,0 +1,11 @@
+##gff-version 3
+MH687970	vadr	region	13345	21494	.	+	.	ID=ftr-4;Name=orf1ab polyprotein;Gene=orf1ab polyprotein;Alias=MH687970.1_1;
+MH687970	vadr	CDS	209	13366	.	+	.	ID=ftr-5;Name=orf1a polyprotein;Gene=orf1a polyprotein;Alias=MH687970.1_2;
+MH687970	vadr	CDS	21508	22296	.	+	.	ID=ftr-7;Name=32 kD non-structural protein;Gene=32 kD non-structural protein;Alias=MH687970.1_3;
+MH687970	vadr	CDS	22343	23593	.	+	.	ID=ftr-9;Name=hemagglutinin-esterase;Gene=hemagglutinin-esterase;Alias=MH687970.1_4;
+MH687970	vadr	CDS	23606	27643	.	+	.	ID=ftr-11;Name=spike protein;Gene=spike protein;Alias=MH687970.1_5;
+MH687970	vadr	CDS	27726	28256	.	+	.	ID=ftr-13;Name=15 kD non-structural protein;Gene=15 kD non-structural protein;Alias=MH687970.1_6;
+MH687970	vadr	CDS	28436	28704	.	+	.	ID=ftr-15;Name=envelope protein;Gene=envelope protein;Alias=MH687970.1_7;
+MH687970	vadr	CDS	28701	29388	.	+	.	ID=ftr-17;Name=membrane protein;Gene=membrane protein;Alias=MH687970.1_8;
+MH687970	vadr	CDS	29403	30755	.	+	.	ID=ftr-19;Name=nucleocapsid protein;Gene=nucleocapsid protein;Alias=MH687970.1_9;
+MH687970	vadr	CDS	29467	30090	.	+	.	ID=ftr-21;Name=internal protein;Gene=internal protein;Alias=MH687970.1_10;

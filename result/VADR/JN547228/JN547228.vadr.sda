@@ -1,0 +1,4 @@
+#seq  seq           seq                             seed            seed      seed     5'unaln     5'unaln   5'unaln  3'unaln  3'unaln   3'unaln
+#idx  name          len  model      p/f              seq             mdl  fraction         seq         mdl  fraction      seq      mdl  fraction
+#---  ----------  -----  ---------  ----  --------------  --------------  --------  ----------  ----------  --------  -------  -------  --------
+1     JN547228.1  28026  NC_003436  PASS  16504..28026:+  16511..28033:+     0.411  1..16603:+  1..16610:+     0.592        -        -         -

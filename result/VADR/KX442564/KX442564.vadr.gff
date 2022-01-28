@@ -1,0 +1,20 @@
+##gff-version 3
+KX442564	vadr	gene	238	21875	.	+	.	ID=ftr-1;Name=orf1ab;Gene=orf1ab;
+KX442564	vadr	region	13793	21875	.	+	.	ID=ftr-3;Name=ORF1b protein;Gene=ORF1b protein;Parent=ftr-1;Alias=KX442564.1_1;
+KX442564	vadr	CDS	238	13815	.	+	.	ID=ftr-4;Name=ORF1a protein;Gene=ORF1a protein;Parent=ftr-1;Alias=KX442564.1_2;
+KX442564	vadr	gene	21817	25853	.	+	.	ID=ftr-5;Name=S;Gene=S;
+KX442564	vadr	CDS	21817	25853	.	+	.	ID=ftr-6;Name=S protein;Gene=S protein;Parent=ftr-5;Alias=KX442564.1_3;
+KX442564	vadr	gene	25869	26180	.	+	.	ID=ftr-7;Name=ns3a;Gene=ns3a;
+KX442564	vadr	CDS	25869	26180	.	+	.	ID=ftr-8;Name=NS3A protein;Gene=NS3A protein;Parent=ftr-7;Alias=KX442564.1_4;
+KX442564	vadr	gene	26189	26509	.	+	.	ID=ftr-9;Name=ns3b;Gene=ns3b;
+KX442564	vadr	CDS	26189	26509	.	+	.	ID=ftr-10;Name=NS3B protein;Gene=NS3B protein;Parent=ftr-9;Alias=KX442564.1_5;
+KX442564	vadr	gene	26430	27146	.	+	.	ID=ftr-11;Name=ns3c;Gene=ns3c;
+KX442564	vadr	CDS	26430	27146	.	+	.	ID=ftr-12;Name=NS3C protein;Gene=NS3C protein;Parent=ftr-11;Alias=KX442564.1_6;
+KX442564	vadr	gene	27153	27842	.	+	.	ID=ftr-13;Name=ns3d;Gene=ns3d;
+KX442564	vadr	CDS	27153	27842	.	+	.	ID=ftr-14;Name=NS3D protein;Gene=NS3D protein;Parent=ftr-13;Alias=KX442564.1_7;
+KX442564	vadr	gene	27919	28167	.	+	.	ID=ftr-15;Name=E;Gene=E;
+KX442564	vadr	CDS	27919	28167	.	+	.	ID=ftr-16;Name=E protein;Gene=E protein;Parent=ftr-15;Alias=KX442564.1_8;
+KX442564	vadr	gene	28182	28838	.	+	.	ID=ftr-17;Name=M;Gene=M;
+KX442564	vadr	CDS	28182	28838	.	+	.	ID=ftr-18;Name=M protein;Gene=M protein;Parent=ftr-17;Alias=KX442564.1_9;
+KX442564	vadr	gene	28894	30183	.	+	.	ID=ftr-19;Name=N;Gene=N;
+KX442564	vadr	CDS	28894	30183	.	+	.	ID=ftr-20;Name=N protein;Gene=N protein;Parent=ftr-19;Alias=KX442564.1_10;

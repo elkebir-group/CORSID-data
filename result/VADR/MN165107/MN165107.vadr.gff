@@ -1,0 +1,20 @@
+##gff-version 3
+MN165107	vadr	gene	310	20372	.	+	.	ID=ftr-1;Name=ORF 1a/1b;Gene=ORF 1a/1b;
+MN165107	vadr	region	12342	20372	.	+	.	ID=ftr-3;Name=polyprotein ab;Gene=polyprotein ab;Parent=ftr-1;Alias=MN165107.1_1;
+MN165107	vadr	gene	20369	24766	.	+	.	ID=ftr-4;Name=S;Gene=S;
+MN165107	vadr	CDS	20369	24766	.	+	.	ID=ftr-5;Name=spike protein;Gene=spike protein;Parent=ftr-4;Alias=MN165107.1_2;
+MN165107	vadr	gene	24778	24990	.	+	.	ID=ftr-6;Name=nsp 3a;Gene=nsp 3a;
+MN165107	vadr	CDS	24778	24990	.	+	.	ID=ftr-7;Name=putative 3a protein;Gene=putative 3a protein;Parent=ftr-6;Alias=MN165107.1_3;
+MN165107	vadr	gene	24938	25159	.	+	.	ID=ftr-8;Name=nsp 3b;Gene=nsp 3b;
+MN165107	vadr	CDS	24938	25159	.	+	.	ID=ftr-9;Name=putative 3b protein;Gene=putative 3b protein;Parent=ftr-8;Alias=MN165107.1_4;
+MN165107	vadr	gene	25156	25868	.	+	.	ID=ftr-10;Name=nsp 3c;Gene=nsp 3c;
+MN165107	vadr	gene	25855	26103	.	+	.	ID=ftr-11;Name=E;Gene=E;
+MN165107	vadr	CDS	25855	26103	.	+	.	ID=ftr-12;Name=E protein;Gene=E protein;Parent=ftr-11;Alias=MN165107.1_5;
+MN165107	vadr	gene	26114	26905	.	+	.	ID=ftr-13;Name=M;Gene=M;
+MN165107	vadr	CDS	26114	26905	.	+	.	ID=ftr-14;Name=matrix protein;Gene=matrix protein;Parent=ftr-13;Alias=MN165107.1_6;
+MN165107	vadr	gene	26918	28051	.	+	.	ID=ftr-15;Name=N;Gene=N;
+MN165107	vadr	CDS	26918	28051	.	+	.	ID=ftr-16;Name=nucleocapsid protein;Gene=nucleocapsid protein;Parent=ftr-15;Alias=MN165107.1_7;
+MN165107	vadr	gene	28056	28361	.	+	.	ID=ftr-17;Name=nsp 7a;Gene=nsp 7a;
+MN165107	vadr	CDS	28056	28361	.	+	.	ID=ftr-18;Name=non-structural protein 7a;Gene=non-structural protein 7a;Parent=ftr-17;Alias=MN165107.1_8;
+MN165107	vadr	gene	28366	28986	.	+	.	ID=ftr-19;Name=nsp 7b;Gene=nsp 7b;
+MN165107	vadr	CDS	28366	28986	.	+	.	ID=ftr-20;Name=non-structural protein 7b;Gene=non-structural protein 7b;Parent=ftr-19;Alias=MN165107.1_9;

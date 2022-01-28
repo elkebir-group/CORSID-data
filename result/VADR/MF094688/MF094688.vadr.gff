@@ -1,0 +1,15 @@
+##gff-version 3
+MF094688	vadr	region	12456	20489	.	+	.	ID=ftr-4;Name=orf1ab polyprotein;Gene=orf1ab polyprotein;Alias=MF094688.1_1;
+MF094688	vadr	CDS	304	12486	.	+	.	ID=ftr-5;Name=orf1a polyprotein;Gene=orf1a polyprotein;Alias=MF094688.1_2;
+MF094688	vadr	gene	20486	23881	.	+	.	ID=ftr-6;Name=S;Gene=S;
+MF094688	vadr	CDS	20486	23881	.	+	.	ID=ftr-7;Name=spike glycoprotein;Gene=spike glycoprotein;Parent=ftr-6;Alias=MF094688.1_3;
+MF094688	vadr	gene	23881	24570	.	+	.	ID=ftr-8;Name=NS3;Gene=NS3;
+MF094688	vadr	CDS	23881	24570	.	+	.	ID=ftr-9;Name=hypothetical protein;Gene=hypothetical protein;Parent=ftr-8;Alias=MF094688.1_4;
+MF094688	vadr	gene	24551	24778	.	+	.	ID=ftr-10;Name=E;Gene=E;
+MF094688	vadr	CDS	24551	24778	.	+	.	ID=ftr-11;Name=small membrane protein;Gene=small membrane protein;Parent=ftr-10;Alias=MF094688.1_5;
+MF094688	vadr	gene	24787	25476	.	+	.	ID=ftr-12;Name=M;Gene=M;
+MF094688	vadr	CDS	24787	25476	.	+	.	ID=ftr-13;Name=membrane glycoprotein;Gene=membrane glycoprotein;Parent=ftr-12;Alias=MF094688.1_6;
+MF094688	vadr	gene	25488	26615	.	+	.	ID=ftr-14;Name=N;Gene=N;
+MF094688	vadr	CDS	25488	26615	.	+	.	ID=ftr-15;Name=nucleocapsid phosphoprotein;Gene=nucleocapsid phosphoprotein;Parent=ftr-14;Alias=MF094688.1_7;
+MF094688	vadr	gene	26627	26926	.	+	.	ID=ftr-16;Name=NS7a;Gene=NS7a;
+MF094688	vadr	CDS	26627	26926	.	+	.	ID=ftr-17;Name=hypothetical protein;Gene=hypothetical protein;Parent=ftr-16;Alias=MF094688.1_8;

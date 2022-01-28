@@ -1,0 +1,20 @@
+##gff-version 3
+KX722529	vadr	gene	298	20354	.	+	.	ID=ftr-1;Name=ORF 1a/1b;Gene=ORF 1a/1b;
+KX722529	vadr	region	12324	20354	.	+	.	ID=ftr-3;Name=polyprotein ab;Gene=polyprotein ab;Parent=ftr-1;Alias=KX722529.1_1;
+KX722529	vadr	gene	20351	24754	.	+	.	ID=ftr-4;Name=S;Gene=S;
+KX722529	vadr	CDS	20351	24754	.	+	.	ID=ftr-5;Name=spike protein;Gene=spike protein;Parent=ftr-4;Alias=KX722529.1_2;
+KX722529	vadr	gene	24766	24978	.	+	.	ID=ftr-6;Name=nsp 3a;Gene=nsp 3a;
+KX722529	vadr	CDS	24766	24978	.	+	.	ID=ftr-7;Name=putative 3a protein;Gene=putative 3a protein;Parent=ftr-6;Alias=KX722529.1_3;
+KX722529	vadr	gene	24926	25147	.	+	.	ID=ftr-8;Name=nsp 3b;Gene=nsp 3b;
+KX722529	vadr	CDS	24926	25147	.	+	.	ID=ftr-9;Name=putative 3b protein;Gene=putative 3b protein;Parent=ftr-8;Alias=KX722529.1_4;
+KX722529	vadr	gene	25144	25857	.	+	.	ID=ftr-10;Name=nsp 3c;Gene=nsp 3c;
+KX722529	vadr	gene	25844	26092	.	+	.	ID=ftr-11;Name=E;Gene=E;
+KX722529	vadr	CDS	25844	26092	.	+	.	ID=ftr-12;Name=E protein;Gene=E protein;Parent=ftr-11;Alias=KX722529.1_5;
+KX722529	vadr	gene	26103	26894	.	+	.	ID=ftr-13;Name=M;Gene=M;
+KX722529	vadr	CDS	26103	26894	.	+	.	ID=ftr-14;Name=matrix protein;Gene=matrix protein;Parent=ftr-13;Alias=KX722529.1_6;
+KX722529	vadr	gene	26907	28040	.	+	.	ID=ftr-15;Name=N;Gene=N;
+KX722529	vadr	CDS	26907	28040	.	+	.	ID=ftr-16;Name=nucleocapsid protein;Gene=nucleocapsid protein;Parent=ftr-15;Alias=KX722529.1_7;
+KX722529	vadr	gene	28045	28350	.	+	.	ID=ftr-17;Name=nsp 7a;Gene=nsp 7a;
+KX722529	vadr	CDS	28045	28350	.	+	.	ID=ftr-18;Name=non-structural protein 7a;Gene=non-structural protein 7a;Parent=ftr-17;Alias=KX722529.1_8;
+KX722529	vadr	gene	28355	28975	.	+	.	ID=ftr-19;Name=nsp 7b;Gene=nsp 7b;
+KX722529	vadr	CDS	28355	28975	.	+	.	ID=ftr-20;Name=non-structural protein 7b;Gene=non-structural protein 7b;Parent=ftr-19;Alias=KX722529.1_9;

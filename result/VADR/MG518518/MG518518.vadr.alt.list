@@ -1,0 +1,8 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+MG518518.1	NC_003045	-	*sequence*	LOW_SIMILARITY_END	31018..31034:+	31028..31028:+	significant similarity not detected at 3' end of the sequence [low similarity region of length 17]
+MG518518.1	NC_003045	CDS	spike structural protein	POSSIBLE_FRAMESHIFT	27267..27276:+	27267..27273:+	possible frameshift in CDS (frame restored before end) [cause:insert,S:27267(1),M:27266; restore:insert,S:27275..27276(2),M:27273; frame:1(2)1; length:3626:(10):459;]
+MG518518.1	NC_003045	CDS	4.9 kDa non-structural protein	MUTATION_AT_END	27854..27856:+	27851..27853:+	expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAG]
+MG518518.1	NC_003045	CDS	4.8 kDa non-structural protein	POSSIBLE_FRAMESHIFT	28005..28016:+	28008..28026:+	possible frameshift in CDS (frame not restored before end) [cause:delete,S:28004,M:28008..28014(7); frame:1(3); length:113:(12);]
+MG518518.1	NC_003045	CDS	4.8 kDa non-structural protein	INDEFINITE_ANNOTATION_END	28006..28016:+	28026..28026:+	protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [11>8]
+MG518518.1	NC_003045	CDS	4.8 kDa non-structural protein	MUTATION_AT_END	28090..28092:+	28101..28103:+	expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAG]
+MG518518.1	NC_003045	CDS	4.8 kDa non-structural protein	UNEXPECTED_LENGTH	27892..28016:+	27889..28026:+	length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [125]

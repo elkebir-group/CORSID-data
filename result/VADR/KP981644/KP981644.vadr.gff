@@ -1,0 +1,9 @@
+##gff-version 3
+KP981644	vadr	CDS	314	12358	.	+	.	ID=ftr-2;Name=replicase polyprotein 1a;Gene=replicase polyprotein 1a;Alias=KP981644.1_1;
+KP981644	vadr	CDS	20359	24776	.	+	.	ID=ftr-5;Name=spike protein;Gene=spike protein;Alias=KP981644.1_2;
+KP981644	vadr	CDS	24709	25021	.	+	.	ID=ftr-7;Name=non-structural protein 3a;Gene=non-structural protein 3a;Alias=KP981644.1_3;
+KP981644	vadr	CDS	25106	25840	.	+	.	ID=ftr-9;Name=non-structural protein 3b;Gene=non-structural protein 3b;Alias=KP981644.1_4;
+KP981644	vadr	CDS	25827	26075	.	+	.	ID=ftr-11;Name=envelope protein;Gene=envelope protein;Alias=KP981644.1_5;
+KP981644	vadr	CDS	26086	26874	.	+	.	ID=ftr-13;Name=membrane protein;Gene=membrane protein;Alias=KP981644.1_6;
+KP981644	vadr	CDS	26887	28035	.	+	.	ID=ftr-15;Name=nucleoprotein;Gene=nucleoprotein;Alias=KP981644.1_7;
+KP981644	vadr	CDS	28040	28991	.	+	.	ID=ftr-17;Name=non-structural protein 7;Gene=non-structural protein 7;Alias=KP981644.1_8;

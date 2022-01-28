@@ -1,0 +1,26 @@
+>Feature NC_009657.1
+294	20674	gene
+294	12650	CDS
+12650	20674
+			product	ORF1
+			protein_id	NC_009657.1_1
+20671	24786	gene
+20671	24786	CDS
+			product	spike protein
+			protein_id	NC_009657.1_2
+24786	25460	gene
+24786	25460	CDS
+			product	putative ORF3
+			protein_id	NC_009657.1_3
+25441	25671	gene
+25441	25671	CDS
+			product	envelope protein
+			protein_id	NC_009657.1_4
+25678	26361	gene
+25678	26361	CDS
+			product	matrix protein
+			protein_id	NC_009657.1_5
+26372	27556	gene
+26372	27556	CDS
+			product	nucleocapsid protein
+			protein_id	NC_009657.1_6

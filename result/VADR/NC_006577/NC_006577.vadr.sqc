@@ -1,0 +1,4 @@
+#seq  seq            seq                              sub                     seq    mdl         num                        sub     score  diff/  seq   
+#idx  name           len  p/f   ant  model1     grp1  grp1    score  sc/nt    cov    cov  bias  hits  str  model2     grp2  grp2     diff     nt  alerts
+#---  -----------  -----  ----  ---  ---------  ----  ----  -------  -----  -----  -----  ----  ----  ---  ---------  ----  ----  -------  -----  ------
+1     NC_006577.2  29926  FAIL  yes  NC_006577  -     -     64870.4  1.830  1.185  1.185     0    29    +  NC_017083  -     -     51411.4  1.280  DISCONTINUOUS_SIMILARITY(discontn)

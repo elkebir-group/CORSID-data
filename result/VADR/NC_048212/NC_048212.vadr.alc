@@ -1,0 +1,26 @@
+#     alert     causes   short                             per    num   num  long       
+#idx  code      failure  description                      type  cases  seqs  description
+#---  --------  -------  ---------------------------  --------  -----  ----  -----------
+1     indfclas  no       INDEFINITE_CLASSIFICATION    sequence      1     1  low score difference between best overall model and second best model (not in best model's subgroup)
+2     lowsimic  no       LOW_FEATURE_SIMILARITY        feature     38     1  region within annotated feature that is or matches a CDS lacks significant similarity
+#---  --------  -------  ---------------------------  --------  -----  ----  -----------
+3     lowcovrg  yes      LOW_COVERAGE                 sequence      1     1  low sequence fraction with significant similarity to homology model
+4     lowsim5s  yes      LOW_SIMILARITY_START         sequence      1     1  significant similarity not detected at 5' end of the sequence
+5     mutstart  yes*     MUTATION_AT_START             feature      3     1  expected start codon could not be identified
+6     mutendcd  yes*     MUTATION_AT_END               feature      4     1  expected stop codon could not be identified, predicted CDS stop by homology is invalid
+7     mutendex  yes*     MUTATION_AT_END               feature      2     1  expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position
+8     unexleng  yes*     UNEXPECTED_LENGTH             feature      4     1  length of complete coding (CDS or mat_peptide) feature is not a multiple of 3
+9     cdsstopn  yes*     CDS_HAS_STOP_CODON            feature      4     1  in-frame stop codon exists 5' of stop position predicted by homology to reference
+10    fstukcft  yes*     POSSIBLE_FRAMESHIFT           feature      2     1  possible frameshift in CDS (frame not restored before end)
+11    fstukcfi  yes*     POSSIBLE_FRAMESHIFT           feature     41     1  possible frameshift in CDS (frame restored before end)
+12    indfantp  yes      INDEFINITE_ANNOTATION         feature      1     1  protein-based search identifies CDS not identified in nucleotide-based search
+13    indfantn  yes      INDEFINITE_ANNOTATION         feature      1     1  nucleotide-based search identifies CDS not identified in protein-based search
+14    indf5gap  yes*     INDEFINITE_ANNOTATION_START   feature      2     1  alignment to homology model is a gap at 5' boundary
+15    indf5plg  yes*     INDEFINITE_ANNOTATION_START   feature      2     1  protein-based alignment extends past nucleotide-based alignment at 5' end
+16    indf5pst  yes*     INDEFINITE_ANNOTATION_START   feature      2     1  protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint
+17    indf3gap  yes*     INDEFINITE_ANNOTATION_END     feature      2     1  alignment to homology model is a gap at 3' boundary
+18    indf3pst  yes*     INDEFINITE_ANNOTATION_END     feature      4     1  protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint
+19    insertnp  yes      INSERTION_OF_NT               feature      1     1  too large of an insertion in protein-based alignment
+20    deletinp  yes*     DELETION_OF_NT                feature      2     1  too large of a deletion in protein-based alignment
+21    deletinn  yes*     DELETION_OF_NT                feature      2     1  too large of a deletion in nucleotide-based alignment of CDS feature
+#---  --------  -------  ---------------------------  --------  -----  ----  -----------

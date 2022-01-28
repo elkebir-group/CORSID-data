@@ -1,0 +1,9 @@
+#     alert     causes   short                        per    num   num  long       
+#idx  code      failure  description                 type  cases  seqs  description
+#---  --------  -------  ----------------------  --------  -----  ----  -----------
+1     lowsimic  no       LOW_FEATURE_SIMILARITY   feature      4     1  region within annotated feature that is or matches a CDS lacks significant similarity
+#---  --------  -------  ----------------------  --------  -----  ----  -----------
+2     lowsimis  yes      LOW_SIMILARITY          sequence      1     1  internal region without significant similarity
+3     fstukcfi  yes*     POSSIBLE_FRAMESHIFT      feature      5     1  possible frameshift in CDS (frame restored before end)
+4     deletinp  yes*     DELETION_OF_NT           feature      2     1  too large of a deletion in protein-based alignment
+#---  --------  -------  ----------------------  --------  -----  ----  -----------

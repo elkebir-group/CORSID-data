@@ -1,0 +1,4 @@
+#seq  seq           seq                              sub                     seq    mdl         num                        sub     score  diff/  seq   
+#idx  name          len  p/f   ant  model1     grp1  grp1    score  sc/nt    cov    cov  bias  hits  str  model2     grp2  grp2     diff     nt  alerts
+#---  ----------  -----  ----  ---  ---------  ----  ----  -------  -----  -----  -----  ----  ----  ---  ---------  ----  ----  -------  -----  ------
+1     KX512810.1  27987  FAIL  yes  NC_030292  -     -     33752.0  1.277  0.945  0.927     0     3    +  NC_023760  -     -     20005.0  0.713  INDEFINITE_STRAND(indfstrn)

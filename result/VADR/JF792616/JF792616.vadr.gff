@@ -1,0 +1,11 @@
+##gff-version 3
+JF792616	vadr	region	13568	21712	.	+	.	ID=ftr-4;Name=orf1ab polyprotein;Gene=orf1ab polyprotein;Alias=JF792616.1_1;
+JF792616	vadr	CDS	183	13589	.	+	.	ID=ftr-5;Name=orf1a polyprotein;Gene=orf1a polyprotein;Alias=JF792616.1_2;
+JF792616	vadr	CDS	21726	22523	.	+	.	ID=ftr-7;Name=32 kD non-structural protein;Gene=32 kD non-structural protein;Alias=JF792616.1_3;
+JF792616	vadr	CDS	22569	23882	.	+	.	ID=ftr-9;Name=hemagglutinin-esterase;Gene=hemagglutinin-esterase;Alias=JF792616.1_4;
+JF792616	vadr	CDS	23897	27979	.	+	.	ID=ftr-11;Name=spike protein;Gene=spike protein;Alias=JF792616.1_5;
+JF792616	vadr	CDS	28070	28471	.	+	.	ID=ftr-13;Name=15 kD non-structural protein;Gene=15 kD non-structural protein;Alias=JF792616.1_6;
+JF792616	vadr	CDS	28645	28911	.	+	.	ID=ftr-15;Name=envelope protein;Gene=envelope protein;Alias=JF792616.1_7;
+JF792616	vadr	CDS	28908	29594	.	+	.	ID=ftr-17;Name=membrane protein;Gene=membrane protein;Alias=JF792616.1_8;
+JF792616	vadr	CDS	29609	30973	.	+	.	ID=ftr-19;Name=nucleocapsid protein;Gene=nucleocapsid protein;Alias=JF792616.1_9;
+JF792616	vadr	CDS	29673	30296	.	+	.	ID=ftr-21;Name=internal protein;Gene=internal protein;Alias=JF792616.1_10;

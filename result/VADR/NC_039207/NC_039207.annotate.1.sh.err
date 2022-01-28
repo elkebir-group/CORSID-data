@@ -1,0 +1,5 @@
+ERROR in findSubjectGaps(), subject is minus strand, NOT YET IMPLEMENTED (use --splus to skip alignment parsing for such hits) at /scratch/software/vadr-install-dir/vadr/parse_blast.pl line 1144, <INPUT> line 20804.
+
+ERROR in utl_RunCommand(), the following command failed:
+/scratch/software/vadr-install-dir/vadr/parse_blast.pl --program n --input result/vadr/NC_039207/NC_039207.1/NC_039207.1.vadr.rpn.cls.blastn.out --splus > result/vadr/NC_039207/NC_039207.1/NC_039207.1.vadr.rpn.cls.blastn.summary.txt
+

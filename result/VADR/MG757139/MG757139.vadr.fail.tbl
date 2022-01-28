@@ -1,0 +1,110 @@
+>Feature MG757139.1
+197	21480	gene
+			gene	orf1ab
+197	13327	CDS
+13327	21480
+			product	orf1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	MG757139.1_1
+197	13348	CDS
+			product	orf1a polyprotein
+			protein_id	MG757139.1_2
+197	934	mat_peptide
+			product	Leader protein
+			protein_id	MG757139.1_1
+935	2749	mat_peptide
+			product	MHV p65-like protein
+			protein_id	MG757139.1_1
+2750	8446	mat_peptide
+			product	coronavirus nsp1 [PL1-PRO, PL2-PRO, HD]
+			protein_id	MG757139.1_1
+8447	9934	mat_peptide
+			product	transmembrane domain 2
+			protein_id	MG757139.1_1
+9935	10843	mat_peptide
+			product	coronavirus nsp2 [3CL-PRO]
+			protein_id	MG757139.1_1
+10844	11704	mat_peptide
+			product	coronavirus nsp3 [HD2]
+			product	hydrophobic domain
+			protein_id	MG757139.1_1
+11705	11971	mat_peptide
+			product	coronavirus nsp4
+			protein_id	MG757139.1_1
+11972	12562	mat_peptide
+			product	coronavirus nsp5
+			protein_id	MG757139.1_1
+12563	12892	mat_peptide
+			product	coronavirus nsp6
+			protein_id	MG757139.1_1
+12893	13303	mat_peptide
+			product	coronavirus nsp7 [GFL]
+			product	growth-factor-like protein
+			protein_id	MG757139.1_1
+13304	13327	mat_peptide
+13327	16086
+			product	RNA-dependent RNA polymerase
+			product	coronavirus nsp9 [RdRp]
+			protein_id	MG757139.1_1
+16087	17895	mat_peptide
+			product	coronavirus nsp10 [MB, NTPase/HEL]
+			product	metal-binding domain, NTPase/helicase domain
+			protein_id	MG757139.1_1
+17896	19458	mat_peptide
+			product	coronavirus nsp11
+			protein_id	MG757139.1_1
+19459	20580	mat_peptide
+			product	coronavirus nsp12
+			protein_id	MG757139.1_1
+20581	21477	mat_peptide
+			product	coronavirus nsp13
+			protein_id	MG757139.1_1
+21490	22326	gene
+			gene	NS
+21490	22326	CDS
+			product	32 kDa non-structural protein
+			protein_id	MG757139.1_3
+22338	23612	gene
+			gene	HE
+22338	23612	CDS
+			product	hemmaglutinin-esterase
+			protein_id	MG757139.1_4
+23627	27721	gene
+			gene	S
+23627	27721	CDS
+			product	spike structural protein
+			protein_id	MG757139.1_5
+27711	27800	gene
+27711	27800	CDS
+			product	4.9 kDa non-structural protein
+			protein_id	MG757139.1_6
+27878	28009	gene
+27878	28009	CDS
+			product	4.8 kDa non-structural protein
+			protein_id	MG757139.1_7
+28090	28419	gene
+28090	28419	CDS
+			product	12.7 kDa non-structural protein
+			protein_id	MG757139.1_8
+28406	28660	gene
+			gene	E
+28406	28660	CDS
+			product	small membrane protein
+			protein_id	MG757139.1_9
+28675	29367	gene
+			gene	M
+28675	29367	CDS
+			product	matrix protein
+			protein_id	MG757139.1_10
+29377	30723	gene
+			gene	N
+29377	30723	CDS
+			product	nucleocapsid protein
+			protein_id	MG757139.1_11
+29438	30061	CDS
+			product	hypothetical protein
+			protein_id	MG757139.1_12
+
+Additional note(s) to submitter:
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 16]; seq-coords:31013..31028:+; mdl-coords:31028..31028:+; mdl:NC_003045;
+ERROR: MUTATION_AT_END: (CDS:4.9 kDa non-structural protein) expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAG]; seq-coords:27840..27842:+; mdl-coords:27851..27853:+; mdl:NC_003045;

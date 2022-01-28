@@ -1,0 +1,148 @@
+>Feature EU022526.1
+529	20368	gene
+			gene	1ab
+529	12402	gene
+			gene	1a
+529	12372	CDS
+12372	20368
+			product	ORF1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	EU022526.1_1
+529	12402	CDS
+			product	ORF1a
+			protein_id	EU022526.1_2
+529	2547	mat_peptide
+			product	NSP1/2
+			protein_id	EU022526.1_1
+2548	7329	mat_peptide
+			product	NSP3
+			product	putative papain-like protease
+			protein_id	EU022526.1_1
+7330	8871	mat_peptide
+			product	NSP4
+			protein_id	EU022526.1_1
+8872	9792	mat_peptide
+			product	NSP5
+			product	putative 3C-like proteinase
+			protein_id	EU022526.1_1
+9793	10683	mat_peptide
+			product	NSP6
+			protein_id	EU022526.1_1
+10684	10932	mat_peptide
+			product	NSP7
+			protein_id	EU022526.1_1
+10933	11562	mat_peptide
+			product	NSP8
+			protein_id	EU022526.1_1
+11563	11895	mat_peptide
+			product	NSP9
+			protein_id	EU022526.1_1
+11896	12330	mat_peptide
+			product	NSP10
+			product	growth-factor domain-containing mature protein
+			protein_id	EU022526.1_1
+12331	12372	mat_peptide
+12372	15155
+			product	NSP12
+			product	putative RNA-dependend RNA polymerase
+			protein_id	EU022526.1_1
+12331	12372	mat_peptide
+12372	12395
+			product	NSP11
+			protein_id	EU022526.1_1
+15156	16958	mat_peptide
+			product	NSP13
+			product	putative helicase
+			protein_id	EU022526.1_1
+16959	18521	mat_peptide
+			product	NSP14
+			product	putative exoribonuclease
+			protein_id	EU022526.1_1
+18522	19535	mat_peptide
+			product	NSP15
+			product	putative uridylate-specific endoribonuclease
+			protein_id	EU022526.1_1
+19536	20365	mat_peptide
+			product	NSP16
+			product	putative 2'-O-ribose methyltransferase
+			protein_id	EU022526.1_1
+20392	24055	gene
+			gene	S
+20392	24055	CDS
+			product	spike protein
+			protein_id	EU022526.1_3
+24003	24176	gene
+			gene	3a
+24003	24176	CDS
+			product	3a protein
+			protein_id	EU022526.1_4
+24176	24370	gene
+			gene	3b
+24176	24370	CDS
+			product	3b protein
+			protein_id	EU022526.1_5
+24351	24650	gene
+			gene	3c
+24351	24650	CDS
+			product	envelope protein
+			protein_id	EU022526.1_6
+24652	25323	gene
+			gene	M
+24652	25323	CDS
+			product	membrane protein
+			protein_id	EU022526.1_7
+25324	25608	gene
+			gene	ORFX
+25324	25608	CDS
+			product	hypothetical protein
+			protein_id	EU022526.1_8
+25684	25881	gene
+			gene	5a
+25684	25881	CDS
+			product	5a protein
+			protein_id	EU022526.1_9
+25878	26126	gene
+			gene	5b
+25878	26126	CDS
+			product	5b protein
+			protein_id	EU022526.1_10
+26069	27437	gene
+			gene	N
+26069	27437	CDS
+			product	nucleocapsid protein
+			protein_id	EU022526.1_11
+
+Additional note(s) to submitter:
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 46]; seq-coords:27809..27854:+; mdl-coords:27636..27657:+; mdl:NC_010800;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:ORF1ab polyprotein) possible frameshift in CDS (frame restored before end) [cause:insert,S:15807(1),M:15785; restore:insert,S:15815..15816(2),M:15792; frame:1(2)1313; length:15279:(10):1570:28:2928:26;]; seq-coords:15807..15816:+; mdl-coords:15786..15792:+; mdl:NC_010800;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:ORF1ab polyprotein) possible frameshift in CDS (frame restored before end) [cause:insert,S:17387..17391(5),M:17362; restore:insert,S:17411..17414(4),M:17381; frame:121(3)13; length:15279:10:1570:(28):2928:26;]; seq-coords:17387..17414:+; mdl-coords:17363..17381:+; mdl:NC_010800;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:ORF1ab polyprotein) possible frameshift in CDS (frame not restored before end) [cause:delete,S:20342,M:20310(1); frame:12131(3); length:15279:10:1570:28:2928:(26);]; seq-coords:20343..20368:+; mdl-coords:20310..20336:+; mdl:NC_010800;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:ORF1ab polyprotein) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [11>8]; seq-coords:20358..20368:+; mdl-coords:20336..20336:+; mdl:NC_010800;
+ERROR: MUTATION_AT_END: (CDS:ORF1ab polyprotein) expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAA]; seq-coords:20439..20441:+; mdl-coords:20407..20409:+; mdl:NC_010800;
+ERROR: UNEXPECTED_LENGTH: (CDS:ORF1ab polyprotein) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [19841]; seq-coords:529..12372:+,12372..20368:+; mdl-coords:529..12354:+,12354..20336:+; mdl:NC_010800;
+ERROR: CDS_HAS_STOP_CODON: (CDS:spike protein) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAA, shifted S:52,M:52]; seq-coords:24001..24003:+; mdl-coords:23986..23988:+; mdl:NC_010800;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike protein) possible frameshift in CDS (frame not restored before end) [cause:insert,S:23974(1),M:23959; frame:1(2); length:3582:(82);]; seq-coords:23974..24055:+; mdl-coords:23960..24040:+; mdl:NC_010800;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:spike protein) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [64>8]; seq-coords:23992..24055:+; mdl-coords:24040..24040:+; mdl:NC_010800;
+ERROR: UNEXPECTED_LENGTH: (CDS:spike protein) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [3664]; seq-coords:20392..24055:+; mdl-coords:20360..24040:+; mdl:NC_010800;
+ERROR: MUTATION_AT_END: (CDS:envelope protein) expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAA]; seq-coords:24660..24662:+; mdl-coords:24645..24647:+; mdl:NC_010800;
+ERROR: CDS_HAS_STOP_CODON: (CDS:nucleocapsid protein) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:139,M:7]; seq-coords:27296..27298:+; mdl-coords:27276..27276:+; mdl:NC_010800;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:nucleocapsid protein) possible frameshift in CDS (frame not restored before end) [cause:insert,S:27292..27430(139),M:27276; frame:1(2); length:1223:(146);]; seq-coords:27292..27437:+; mdl-coords:27277..27283:+; mdl:NC_010800;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:nucleocapsid protein) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [142>5]; seq-coords:27296..27437:+; mdl-coords:27283..27283:+; mdl:NC_010800;
+ERROR: INSERTION_OF_NT: (CDS:nucleocapsid protein) too large of an insertion in nucleotide-based alignment of CDS feature [139>27]; seq-coords:27292..27430:+; mdl-coords:27276..27276:+; mdl:NC_010800;
+ERROR: UNEXPECTED_LENGTH: (CDS:nucleocapsid protein) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [1369]; seq-coords:26069..27437:+; mdl-coords:26054..27283:+; mdl:NC_010800;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:NSP1/2) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_010800;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:NSP3:GBSEP:putative papain-like protease) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_010800;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:NSP4) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_010800;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:NSP5:GBSEP:putative 3C-like proteinase) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_010800;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:NSP6) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_010800;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:NSP7) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_010800;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:NSP8) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_010800;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:NSP9) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_010800;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:NSP10:GBSEP:growth-factor domain-containing mature protein) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_010800;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:NSP12:GBSEP:putative RNA-dependend RNA polymerase) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_010800;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:NSP11) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_010800;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:NSP13:GBSEP:putative helicase) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_010800;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:NSP14:GBSEP:putative exoribonuclease) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_010800;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:NSP15:GBSEP:putative uridylate-specific endoribonuclease) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_010800;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:NSP16:GBSEP:putative 2'-O-ribose methyltransferase) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:NC_010800;
+ERROR: UNEXPECTED_LENGTH: (mat_peptide:NSP16:GBSEP:putative 2'-O-ribose methyltransferase) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [830]; seq-coords:19536..20365:+; mdl-coords:19503..20333:+; mdl:NC_010800;

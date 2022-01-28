@@ -1,0 +1,20 @@
+##gff-version 3
+MN065811	vadr	region	12491	20515	.	+	.	ID=ftr-3;Name=Pol1;Gene=Pol1;Alias=MN065811.1_1;
+MN065811	vadr	mat_peptide	285	614	.	+	.	ID=ftr-4;Name=putative leader protein;Gene=putative leader protein;Alias=MN065811.1_1;
+MN065811	vadr	mat_peptide	2958	7721	.	+	.	ID=ftr-5;Name=putative coronavirus nsp1;Gene=putative coronavirus nsp1;Alias=MN065811.1_1;
+MN065811	vadr	mat_peptide	9165	10070	.	+	.	ID=ftr-6;Name=putative coronavirus nsp2 [3CL-PRO];Gene=putative coronavirus nsp2 [3CL-PRO];Alias=MN065811.1_1;
+MN065811	vadr	mat_peptide	10071	10901	.	+	.	ID=ftr-7;Name=putative coronavirus nsp3 [HD2];Gene=putative coronavirus nsp3 [HD2];Alias=MN065811.1_1;
+MN065811	vadr	mat_peptide	10902	11150	.	+	.	ID=ftr-8;Name=putative coronavirus nsp4;Gene=putative coronavirus nsp4;Alias=MN065811.1_1;
+MN065811	vadr	mat_peptide	11151	11735	.	+	.	ID=ftr-9;Name=putative coronavirus nsp5;Gene=putative coronavirus nsp5;Alias=MN065811.1_1;
+MN065811	vadr	mat_peptide	11736	12059	.	+	.	ID=ftr-10;Name=putative coronavirus nsp6;Gene=putative coronavirus nsp6;Alias=MN065811.1_1;
+MN065811	vadr	mat_peptide	12060	12464	.	+	.	ID=ftr-11;Name=putative coronavirus nsp7;Gene=putative coronavirus nsp7;Alias=MN065811.1_1;
+MN065811	vadr	region	12491	15247	.	+	.	ID=ftr-13;Name=putative coronavirus nsp9 [RdRp];Gene=putative coronavirus nsp9 [RdRp];Alias=MN065811.1_1;
+MN065811	vadr	mat_peptide	15248	17038	.	+	.	ID=ftr-14;Name=putative coronavirus nsp10 [MB, NTPase/HEL];Gene=putative coronavirus nsp10 [MB, NTPase/HEL];Alias=MN065811.1_1;
+MN065811	vadr	mat_peptide	17039	18592	.	+	.	ID=ftr-15;Name=putative coronavirus nsp11;Gene=putative coronavirus nsp11;Alias=MN065811.1_1;
+MN065811	vadr	mat_peptide	18593	19609	.	+	.	ID=ftr-16;Name=putative coronavirus nsp12;Gene=putative coronavirus nsp12;Alias=MN065811.1_1;
+MN065811	vadr	mat_peptide	19610	20512	.	+	.	ID=ftr-17;Name=putative coronavirus nsp13;Gene=putative coronavirus nsp13;Alias=MN065811.1_1;
+MN065811	vadr	CDS	20512	24606	.	+	.	ID=ftr-19;Name=spike protein;Gene=spike protein;Alias=MN065811.1_2;
+MN065811	vadr	CDS	24606	25280	.	+	.	ID=ftr-21;Name=hypothetical protein;Gene=hypothetical protein;Alias=MN065811.1_3;
+MN065811	vadr	CDS	25261	25491	.	+	.	ID=ftr-23;Name=envelope protein;Gene=envelope protein;Alias=MN065811.1_4;
+MN065811	vadr	CDS	25499	26183	.	+	.	ID=ftr-25;Name=membrane protein;Gene=membrane protein;Alias=MN065811.1_5;
+MN065811	vadr	CDS	26192	27650	.	+	.	ID=ftr-27;Name=nucleocapsid protein;Gene=nucleocapsid protein;Alias=MN065811.1_6;

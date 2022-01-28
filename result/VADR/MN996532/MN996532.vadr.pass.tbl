@@ -1,0 +1,150 @@
+>Feature MN996532.1
+251	21537	gene
+			gene	ORF1ab
+251	13450	CDS
+13450	21537
+			product	ORF1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	MN996532.1_1
+251	13465	CDS
+			product	ORF1a polyprotein
+			protein_id	MN996532.1_2
+251	790	mat_peptide
+			product	leader protein
+			protein_id	MN996532.1_1
+251	790	mat_peptide
+			product	leader protein
+			protein_id	MN996532.1_2
+791	2704	mat_peptide
+			product	nsp2
+			protein_id	MN996532.1_1
+791	2704	mat_peptide
+			product	nsp2
+			protein_id	MN996532.1_2
+2705	8536	mat_peptide
+			product	nsp3
+			protein_id	MN996532.1_1
+2705	8536	mat_peptide
+			product	nsp3
+			protein_id	MN996532.1_2
+8537	10036	mat_peptide
+			product	nsp4
+			protein_id	MN996532.1_1
+8537	10036	mat_peptide
+			product	nsp4
+			protein_id	MN996532.1_2
+10037	10954	mat_peptide
+			product	3C-like proteinase
+			protein_id	MN996532.1_1
+10037	10954	mat_peptide
+			product	3C-like proteinase
+			protein_id	MN996532.1_2
+10955	11824	mat_peptide
+			product	nsp6
+			protein_id	MN996532.1_1
+10955	11824	mat_peptide
+			product	nsp6
+			protein_id	MN996532.1_2
+11825	12073	mat_peptide
+			product	nsp7
+			protein_id	MN996532.1_1
+11825	12073	mat_peptide
+			product	nsp7
+			protein_id	MN996532.1_2
+12074	12667	mat_peptide
+			product	nsp8
+			protein_id	MN996532.1_1
+12074	12667	mat_peptide
+			product	nsp8
+			protein_id	MN996532.1_2
+12668	13006	mat_peptide
+			product	nsp9
+			protein_id	MN996532.1_1
+12668	13006	mat_peptide
+			product	nsp9
+			protein_id	MN996532.1_2
+13007	13423	mat_peptide
+			product	nsp10
+			protein_id	MN996532.1_1
+13007	13423	mat_peptide
+			product	nsp10
+			protein_id	MN996532.1_2
+13424	13450	mat_peptide
+13450	16218
+			product	RNA-dependent RNA polymerase
+			protein_id	MN996532.1_1
+13424	13462	mat_peptide
+			product	nsp11
+			protein_id	MN996532.1_2
+13458	13485	stem_loop
+			note	Coronavirus frameshifting stimulation element stem-loop 1
+13470	13524	stem_loop
+			note	Coronavirus frameshifting stimulation element stem-loop 2
+16219	18021	mat_peptide
+			product	helicase
+			protein_id	MN996532.1_1
+18022	19602	mat_peptide
+			product	3'-to-5' exonuclease
+			protein_id	MN996532.1_1
+19603	20640	mat_peptide
+			product	endoRNAse
+			protein_id	MN996532.1_1
+20641	21534	mat_peptide
+			product	2'-O-ribose methyltransferase
+			protein_id	MN996532.1_1
+21545	25354	gene
+			gene	S
+21545	25354	CDS
+			product	surface glycoprotein
+			protein_id	MN996532.1_3
+25363	26190	gene
+			gene	ORF3a
+25363	26190	CDS
+			product	ORF3a protein
+			protein_id	MN996532.1_4
+26215	26442	gene
+			gene	E
+26215	26442	CDS
+			product	envelope protein
+			protein_id	MN996532.1_5
+26493	27158	gene
+			gene	M
+26493	27158	CDS
+			product	membrane glycoprotein
+			protein_id	MN996532.1_6
+27169	27354	gene
+			gene	ORF6
+27169	27354	CDS
+			product	ORF6 protein
+			protein_id	MN996532.1_7
+27360	27725	gene
+			gene	ORF7a
+27360	27725	CDS
+			product	ORF7a protein
+			protein_id	MN996532.1_8
+27722	27853	gene
+			gene	ORF7b
+27722	27853	CDS
+			product	ORF7b
+			protein_id	MN996532.1_9
+27860	28225	gene
+			gene	ORF8
+27860	28225	CDS
+			product	ORF8 protein
+			protein_id	MN996532.1_10
+28240	29499	gene
+			gene	N
+28240	29499	CDS
+			product	nucleocapsid phosphoprotein
+			protein_id	MN996532.1_11
+29524	29640	gene
+			gene	ORF10
+29524	29640	CDS
+			product	ORF10 protein
+			protein_id	MN996532.1_12
+29575	29610	stem_loop
+			note	Coronavirus 3' UTR pseudoknot stem-loop 1
+29595	29623	stem_loop
+			note	Coronavirus 3' UTR pseudoknot stem-loop 2
+29694	29734	stem_loop
+			note	Coronavirus 3' stem-loop II-like motif (s2m)

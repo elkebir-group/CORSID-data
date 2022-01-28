@@ -1,0 +1,4 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+MK211370.1	NC_009657	-	*sequence*	LOW_SIMILARITY	27639..27771:+	27667..27695:+	internal region without significant similarity [low similarity region of length 133]
+MK211370.1	NC_009657	CDS	ORF1	POSSIBLE_FRAMESHIFT	16167..16177:+	16201..16211:+	possible frameshift in CDS (frame restored before end) [cause:insert,S:16167(1),M:16200; restore:delete,S:16177,M:16211(1); frame:1(2)1; length:15908:(11):4463;]
+MK211370.1	NC_009657	CDS	matrix protein	INDEFINITE_ANNOTATION_START	25647..25652:+	25678..25678:+	protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [6>5]

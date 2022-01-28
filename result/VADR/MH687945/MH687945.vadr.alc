@@ -1,0 +1,8 @@
+#     alert     causes   short                             per    num   num  long       
+#idx  code      failure  description                      type  cases  seqs  description
+#---  --------  -------  ---------------------------  --------  -----  ----  -----------
+1     dupregin  yes      DUPLICATE_REGIONS            sequence      1     1  similarity to a model region occurs more than once
+2     lowsim3s  yes      LOW_SIMILARITY_END           sequence      1     1  significant similarity not detected at 3' end of the sequence
+3     lowsimis  yes      LOW_SIMILARITY               sequence      1     1  internal region without significant similarity
+4     indf5pst  yes*     INDEFINITE_ANNOTATION_START   feature      1     1  protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint
+#---  --------  -------  ---------------------------  --------  -----  ----  -----------

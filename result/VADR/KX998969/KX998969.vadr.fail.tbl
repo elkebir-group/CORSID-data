@@ -1,0 +1,43 @@
+>Feature KX998969.1
+540	19327	gene
+			gene	orf1ab
+540	11399	CDS
+11399	19327
+			product	replicase polyprotein
+			exception	ribosomal slippage
+			protein_id	KX998969.1_1
+19309	22791	gene
+			gene	S
+19309	22791	CDS
+			product	spike glycoprotein
+			protein_id	KX998969.1_2
+22785	23036	gene
+			gene	E
+22785	23036	CDS
+			product	envelope protein
+			protein_id	KX998969.1_3
+23029	23682	gene
+			gene	M
+23029	23682	CDS
+			product	membrane protein
+			protein_id	KX998969.1_4
+23682	23966	gene
+			gene	NS6
+23682	23966	CDS
+			product	NS6 protein
+			protein_id	KX998969.1_5
+23987	25015	gene
+			gene	N
+23987	25015	CDS
+			product	nucleocapsid protein
+			protein_id	KX998969.1_6
+24081	24683	gene
+			gene	NS7
+24081	24683	CDS
+			product	NS7 protein
+			protein_id	KX998969.1_7
+
+Additional note(s) to submitter:
+ERROR: LOW_SIMILARITY_START: (*sequence*) significant similarity not detected at 5' end of the sequence [low similarity region of length 7]; seq-coords:1..7:+; mdl-coords:0..0:+; mdl:NC_039208;
+ERROR: CDS_HAS_STOP_CODON: (CDS:replicase polyprotein) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAA, shifted S:14198,M:14198]; seq-coords:5127..5129:+; mdl-coords:5135..5137:+; mdl:NC_039208;
+ERROR: CDS_HAS_STOP_CODON: (CDS:replicase polyprotein) stop codon in protein-based alignment [-]; seq-coords:5127..5129:+; mdl-coords:5135..5137:+; mdl:NC_039208;

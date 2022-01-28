@@ -1,0 +1,39 @@
+>Feature NC_025217.1
+303	22045	gene
+303	13931	CDS
+13931	22045
+			product	non-structural polyprotein
+			exception	ribosomal slippage
+			protein_id	NC_025217.1_1
+22058	23413	gene
+22058	23413	CDS
+			product	hypothetical protein
+			protein_id	NC_025217.1_2
+23563	27516	gene
+23563	27516	CDS
+			product	spike protein
+			protein_id	NC_025217.1_3
+27523	28260	gene
+27523	28260	CDS
+			product	hypothetical protein
+			protein_id	NC_025217.1_4
+28315	28554	gene
+28315	28554	CDS
+			product	envelope protein
+			protein_id	NC_025217.1_5
+28610	29281	gene
+28610	29281	CDS
+			product	membrane protein
+			protein_id	NC_025217.1_6
+29297	29515	gene
+29297	29515	CDS
+			product	hypothetical protein
+			protein_id	NC_025217.1_7
+29534	29857	gene
+29534	29857	CDS
+			product	hypothetical protein
+			protein_id	NC_025217.1_8
+29917	31173	gene
+29917	31173	CDS
+			product	nucleocapsid protein
+			protein_id	NC_025217.1_9

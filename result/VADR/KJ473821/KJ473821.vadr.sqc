@@ -1,0 +1,4 @@
+#seq  seq           seq                              sub                     seq    mdl         num                        sub   score  diff/  seq   
+#idx  name          len  p/f   ant  model1     grp1  grp1    score  sc/nt    cov    cov  bias  hits  str  model2     grp2  grp2   diff     nt  alerts
+#---  ----------  -----  ----  ---  ---------  ----  ----  -------  -----  -----  -----  ----  ----  ---  ---------  ----  ----  -----  -----  ------
+1     KJ473821.1  30423  FAIL  yes  NC_038294  -     -     17709.8  0.667  0.873  0.882     0    10    +  NC_019843  -     -      57.0  0.002  INDEFINITE_CLASSIFICATION(indfclas),LOW_COVERAGE(lowcovrg)

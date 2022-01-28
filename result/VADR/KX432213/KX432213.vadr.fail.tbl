@@ -1,0 +1,114 @@
+>Feature KX432213.1
+144	21427	gene
+			gene	orf1ab
+144	13274	CDS
+13274	21427
+			product	orf1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	KX432213.1_1
+144	13295	CDS
+			product	orf1a polyprotein
+			protein_id	KX432213.1_2
+144	881	mat_peptide
+			product	Leader protein
+			protein_id	KX432213.1_1
+882	2696	mat_peptide
+			product	MHV p65-like protein
+			protein_id	KX432213.1_1
+2697	8393	mat_peptide
+			product	coronavirus nsp1 [PL1-PRO, PL2-PRO, HD]
+			protein_id	KX432213.1_1
+8394	9881	mat_peptide
+			product	transmembrane domain 2
+			protein_id	KX432213.1_1
+9882	10790	mat_peptide
+			product	coronavirus nsp2 [3CL-PRO]
+			protein_id	KX432213.1_1
+10791	11651	mat_peptide
+			product	coronavirus nsp3 [HD2]
+			product	hydrophobic domain
+			protein_id	KX432213.1_1
+11652	11918	mat_peptide
+			product	coronavirus nsp4
+			protein_id	KX432213.1_1
+11919	12509	mat_peptide
+			product	coronavirus nsp5
+			protein_id	KX432213.1_1
+12510	12839	mat_peptide
+			product	coronavirus nsp6
+			protein_id	KX432213.1_1
+12840	13250	mat_peptide
+			product	coronavirus nsp7 [GFL]
+			product	growth-factor-like protein
+			protein_id	KX432213.1_1
+13251	13274	mat_peptide
+13274	16033
+			product	RNA-dependent RNA polymerase
+			product	coronavirus nsp9 [RdRp]
+			protein_id	KX432213.1_1
+16034	17842	mat_peptide
+			product	coronavirus nsp10 [MB, NTPase/HEL]
+			product	metal-binding domain, NTPase/helicase domain
+			protein_id	KX432213.1_1
+17843	19405	mat_peptide
+			product	coronavirus nsp11
+			protein_id	KX432213.1_1
+19406	20527	mat_peptide
+			product	coronavirus nsp12
+			protein_id	KX432213.1_1
+20528	21424	mat_peptide
+			product	coronavirus nsp13
+			protein_id	KX432213.1_1
+21437	22273	gene
+			gene	NS
+21437	22273	CDS
+			product	32 kDa non-structural protein
+			protein_id	KX432213.1_3
+22285	23559	gene
+			gene	HE
+22285	23559	CDS
+			product	hemmaglutinin-esterase
+			protein_id	KX432213.1_4
+23574	27665	gene
+			gene	S
+23574	27665	CDS
+			product	spike structural protein
+			protein_id	KX432213.1_5
+27655	27747	gene
+27655	27747	CDS
+			product	4.9 kDa non-structural protein
+			protein_id	KX432213.1_6
+27825	27957	gene
+27825	27957	CDS
+			product	4.8 kDa non-structural protein
+			protein_id	KX432213.1_7
+28039	28368	gene
+28039	28368	CDS
+			product	12.7 kDa non-structural protein
+			protein_id	KX432213.1_8
+28355	28609	gene
+			gene	E
+28355	28609	CDS
+			product	small membrane protein
+			protein_id	KX432213.1_9
+28624	29316	gene
+			gene	M
+28624	29316	CDS
+			product	matrix protein
+			protein_id	KX432213.1_10
+29326	30672	gene
+			gene	N
+29326	30672	CDS
+			product	nucleocapsid protein
+			protein_id	KX432213.1_11
+29387	30010	CDS
+			product	hypothetical protein
+			protein_id	KX432213.1_12
+
+Additional note(s) to submitter:
+ERROR: MUTATION_AT_END: (CDS:4.9 kDa non-structural protein) expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAG]; seq-coords:27787..27789:+; mdl-coords:27851..27853:+; mdl:NC_003045;
+ERROR: CDS_HAS_STOP_CODON: (CDS:4.8 kDa non-structural protein) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAA, shifted S:55,M:60]; seq-coords:27900..27902:+; mdl-coords:27964..27966:+; mdl:NC_003045;
+ERROR: CDS_HAS_STOP_CODON: (CDS:4.8 kDa non-structural protein) stop codon in protein-based alignment [-]; seq-coords:27900..27902:+; mdl-coords:27964..27966:+; mdl:NC_003045;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:4.8 kDa non-structural protein) possible frameshift in CDS (frame not restored before end) [cause:delete,S:27941,M:28006..28010(5); frame:1(2); length:117:(16);]; seq-coords:27942..27957:+; mdl-coords:28006..28026:+; mdl:NC_003045;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:4.8 kDa non-structural protein) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [16>8]; seq-coords:27942..27957:+; mdl-coords:28026..28026:+; mdl:NC_003045;
+ERROR: UNEXPECTED_LENGTH: (CDS:4.8 kDa non-structural protein) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [133]; seq-coords:27825..27957:+; mdl-coords:27889..28026:+; mdl:NC_003045;

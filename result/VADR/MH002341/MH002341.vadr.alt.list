@@ -1,0 +1,2 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+MH002341.1	NC_009020	CDS	hypothetical protein	MUTATION_AT_START	26377..26379:+	26375..26377:+	expected start codon could not be identified [ACG]

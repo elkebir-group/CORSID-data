@@ -1,0 +1,34 @@
+>Feature JQ173883.1
+211	21749	gene
+			gene	1
+211	13626	CDS
+			product	RNA-directed RNA polymerase
+			protein_id	JQ173883.1_1
+13548	21749	CDS
+			product	RNA-directed RNA polymerase
+			protein_id	JQ173883.1_2
+23933	28018	gene
+			gene	S
+23933	28018	CDS
+			product	E2 glycoprotein precursor
+			protein_id	JQ173883.1_3
+28780	29466	gene
+			gene	M
+28780	29466	CDS
+			product	E1 glycoprotein
+			product	matrix glycoprotein
+			protein_id	JQ173883.1_4
+29481	30845	gene
+			gene	N
+29481	30845	CDS
+			product	nucleocapsid protein
+			protein_id	JQ173883.1_5
+
+Additional note(s) to submitter:
+ERROR: LOW_SIMILARITY: (*sequence*) internal region without significant similarity [low similarity region of length 5]; seq-coords:28468..28472:+; mdl-coords:28351..28355:+; mdl:NC_001846;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:E2 glycoprotein precursor) possible frameshift in CDS (frame restored before end) [cause:insert,S:25409..25436(28),M:25404; restore:insert,S:25440..25444(5),M:25407; frame:1(2)13121; length:1476:(36):18:108:46:12:2390;]; seq-coords:25409..25444:+; mdl-coords:25405..25407:+; mdl:NC_001846;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:E2 glycoprotein precursor) possible frameshift in CDS (frame restored before end) [cause:insert,S:25463..25482(20),M:25425; restore:insert,S:25495..25570(76),M:25437; frame:121(3)121; length:1476:36:18:(108):46:12:2390;]; seq-coords:25463..25570:+; mdl-coords:25426..25437:+; mdl:NC_001846;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:E2 glycoprotein precursor) possible frameshift in CDS (frame restored before end) [cause:delete,S:25616,M:25484..25485(2); restore:delete,S:25628,M:25498..25504(7); frame:12131(2)1; length:1476:36:18:108:46:(12):2390;]; seq-coords:25617..25628:+; mdl-coords:25484..25504:+; mdl:NC_001846;
+ERROR: INSERTION_OF_NT: (CDS:E2 glycoprotein precursor) too large of an insertion in nucleotide-based alignment of CDS feature [28>27]; seq-coords:25409..25436:+; mdl-coords:25404..25404:+; mdl:NC_001846;
+ERROR: INSERTION_OF_NT: (CDS:E2 glycoprotein precursor) too large of an insertion in nucleotide-based alignment of CDS feature [76>27]; seq-coords:25495..25570:+; mdl-coords:25437..25437:+; mdl:NC_001846;
+ERROR: INSERTION_OF_NT: (CDS:E2 glycoprotein precursor) too large of an insertion in protein-based alignment [132>27]; seq-coords:25508..25639:+; mdl-coords:25425..25425:+; mdl:NC_001846;

@@ -1,0 +1,80 @@
+>Feature EF065515.1
+229	20999	gene
+			gene	orf1ab
+229	12936	CDS
+12936	20999
+			product	orf1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	EF065515.1_1
+20959	24768	gene
+			gene	S
+20959	24768	CDS
+			product	spike glycoprotein
+			protein_id	EF065515.1_2
+24765	25457	gene
+			gene	NS3
+24765	25457	CDS
+			product	hypothetical protein
+			protein_id	EF065515.1_3
+25457	25696	gene
+			gene	E
+25457	25696	CDS
+			product	small membrane protein
+			protein_id	EF065515.1_4
+25689	26355	gene
+			gene	M
+25689	26355	CDS
+			product	membrane glycoprotein
+			protein_id	EF065515.1_5
+26418	27824	gene
+			gene	N
+26418	27824	CDS
+			product	nucleocapsid phosphoprotein
+			protein_id	EF065515.1_6
+27864	28444	gene
+			gene	NS7a
+27864	28444	CDS
+			product	hypothetical protein
+			protein_id	EF065515.1_7
+28459	28905	gene
+			gene	NS7b
+28459	28905	CDS
+			product	hypothetical protein
+			protein_id	EF065515.1_8
+
+Additional note(s) to submitter:
+ERROR: LOW_COVERAGE: (*sequence*) low sequence fraction with significant similarity to homology model [0.856<0.900]; seq-coords:1474..1926:+,2974..3107:+,3555..3862:+,20974..21421:+,21545..21864:+,21948..22845:+,23217..23424:+,24776..25130:+,27855..28917:+; mdl-coords:-; mdl:NC_009021;
+ERROR: DELETION_OF_NT: (CDS:orf1ab polyprotein) too large of a deletion in nucleotide-based alignment of CDS feature [43>27]; seq-coords:3660..3660:+; mdl-coords:3628..3670:+; mdl:NC_009021;
+ERROR: DELETION_OF_NT: (CDS:orf1ab polyprotein) too large of a deletion in protein-based alignment [63>27]; seq-coords:3693..3693:+; mdl-coords:3655..3717:+; mdl:NC_009021;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:orf1ab polyprotein) possible frameshift in CDS (frame restored before end) [cause:delete,S:3594,M:3544..3545(2); restore:delete,S:3606,M:3558(1); frame:1(2)13213131; length:3366:(12):54:9:5:161:19:16131:11:1004;]; seq-coords:3595..3606:+; mdl-coords:3544..3558:+; mdl:NC_009021;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:orf1ab polyprotein) possible frameshift in CDS (frame restored before end) [cause:delete,S:3660,M:3628..3670(43); restore:delete,S:3674,M:3686..3689(4); frame:121(32)13131; length:3366:12:54:(9:5):161:19:16131:11:1004; intermediate:delete,S:3669,M:3680(1);]; seq-coords:3661..3674:+; mdl-coords:3628..3689:+; mdl:NC_009021;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:orf1ab polyprotein) possible frameshift in CDS (frame restored before end) [cause:insert,S:3836..3840(5),M:3859; restore:insert,S:3848..3854(7),M:3866; frame:121321(3)131; length:3366:12:54:9:5:161:(19):16131:11:1004;]; seq-coords:3836..3854:+; mdl-coords:3860..3866:+; mdl:NC_009021;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:orf1ab polyprotein) possible frameshift in CDS (frame restored before end) [cause:delete,S:19984,M:20000(1); restore:insert,S:19995(1),M:20010; frame:12132131(3)1; length:3366:12:54:9:5:161:19:16131:(11):1004;]; seq-coords:19985..19995:+; mdl-coords:20000..20010:+; mdl:NC_009021;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:orf1ab polyprotein) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [24>8, valid stop codon in nucleotide-based prediction]; seq-coords:20976..20999:+; mdl-coords:21020..21020:+; mdl:NC_009021;
+ERROR: INSERTION_OF_NT: (CDS:orf1ab polyprotein) too large of an insertion in protein-based alignment [42>27]; seq-coords:3009..3050:+; mdl-coords:2997..2997:+; mdl:NC_009021;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike glycoprotein) possible frameshift in CDS (frame restored before end) [cause:insert,S:21022..21023(2),M:21042; restore:insert,S:21035(1),M:21053; frame:1(3)1313121; length:63:(14):165:6:442:14:1615:33:1458;]; seq-coords:21022..21035:+; mdl-coords:21043..21053:+; mdl:NC_009021;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike glycoprotein) possible frameshift in CDS (frame restored before end) [cause:delete,S:21200,M:21225(1); restore:delete,S:21206,M:21232..21233(2); frame:131(3)13121; length:63:14:165:(6):442:14:1615:33:1458;]; seq-coords:21201..21206:+; mdl-coords:21225..21233:+; mdl:NC_009021;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike glycoprotein) possible frameshift in CDS (frame restored before end) [cause:delete,S:21648,M:21679(1); restore:delete,S:21662,M:21694..21701(8); frame:13131(3)121; length:63:14:165:6:442:(14):1615:33:1458;]; seq-coords:21649..21662:+; mdl-coords:21679..21701:+; mdl:NC_009021;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike glycoprotein) possible frameshift in CDS (frame restored before end) [cause:delete,S:23277,M:23296..23297(2); restore:delete,S:23310,M:23331(1); frame:1313131(2)1; length:63:14:165:6:442:14:1615:(33):1458;]; seq-coords:23278..23310:+; mdl-coords:23296..23331:+; mdl:NC_009021;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:spike glycoprotein) protein-based alignment extends past nucleotide-based alignment at 5' end [-]; seq-coords:20956..20958:+; mdl-coords:20974..20974:+; mdl:NC_009021;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:hypothetical protein) possible frameshift in CDS (frame restored before end) [cause:insert,S:24824..24833(10),M:24847; restore:insert,S:24840..24853(14),M:24853; frame:1(2)131; length:59:(30):12:25:567;]; seq-coords:24824..24853:+; mdl-coords:24848..24853:+; mdl:NC_009021;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:hypothetical protein) possible frameshift in CDS (frame restored before end) [cause:insert,S:24866..24867(2),M:24865; restore:delete,S:24890,M:24889..24890(2); frame:121(3)1; length:59:30:12:(25):567;]; seq-coords:24866..24890:+; mdl-coords:24866..24890:+; mdl:NC_009021;
+ERROR: INSERTION_OF_NT: (CDS:hypothetical protein) too large of an insertion in protein-based alignment [33>27]; seq-coords:24845..24877:+; mdl-coords:24878..24878:+; mdl:NC_009021;
+ERROR: CDS_HAS_STOP_CODON: (CDS:small membrane protein) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAG, shifted S:9,M:9]; seq-coords:25685..25687:+; mdl-coords:25685..25687:+; mdl:NC_009021;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:small membrane protein) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [15>5, no valid stop codon in nucleotide-based prediction]; seq-coords:25682..25696:+; mdl-coords:25696..25696:+; mdl:NC_009021;
+ERROR: CDS_HAS_STOP_CODON: (CDS:membrane glycoprotein) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:631,M:631]; seq-coords:25722..25724:+; mdl-coords:25724..25726:+; mdl:NC_009021;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:membrane glycoprotein) possible frameshift in CDS (frame not restored before end) [cause:delete,S:25698,M:25699(1); frame:1(32); length:10:(8:649); intermediate:delete,S:25706,M:25708(1);]; seq-coords:25699..26355:+; mdl-coords:25699..26357:+; mdl:NC_009021;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:membrane glycoprotein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [19>5]; seq-coords:25689..25707:+; mdl-coords:25689..25689:+; mdl:NC_009021;
+ERROR: MUTATION_AT_START: (CDS:membrane glycoprotein) expected start codon could not be identified [CAG]; seq-coords:25689..25691:+; mdl-coords:25689..25691:+; mdl:NC_009021;
+ERROR: UNEXPECTED_LENGTH: (CDS:membrane glycoprotein) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [667]; seq-coords:25689..26355:+; mdl-coords:25689..26357:+; mdl:NC_009021;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:hypothetical protein) possible frameshift in CDS (frame restored before end) [cause:insert,S:27879(1),M:27883; restore:delete,S:27921,M:27929(1); frame:1(2)131321321213; length:15:(43):28:28:127:10:36:7:55:48:45:53:75:11;]; seq-coords:27879..27921:+; mdl-coords:27884..27929:+; mdl:NC_009021;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:hypothetical protein) possible frameshift in CDS (frame restored before end) [cause:insert,S:27950..27954(5),M:27957; restore:insert,S:27977(1),M:27979; frame:121(3)1321321213; length:15:43:28:(28):127:10:36:7:55:48:45:53:75:11;]; seq-coords:27950..27977:+; mdl-coords:27958..27979:+; mdl:NC_009021;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:hypothetical protein) possible frameshift in CDS (frame restored before end) [cause:delete,S:28104,M:28107(1); restore:delete,S:28150,M:28152(1); frame:12131(32)1321213; length:15:43:28:28:127:(10:36):7:55:48:45:53:75:11; intermediate:insert,S:28115..28119(5),M:28117;]; seq-coords:28105..28150:+; mdl-coords:28107..28152:+; mdl:NC_009021;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:hypothetical protein) possible frameshift in CDS (frame restored before end) [cause:delete,S:28157,M:28160(1); restore:insert,S:28244..28260(17),M:28244; frame:12131321(32)1213; length:15:43:28:28:127:10:36:7:(55:48):45:53:75:11; intermediate:insert,S:28213..28214(2),M:28215;]; seq-coords:28158..28260:+; mdl-coords:28160..28244:+; mdl:NC_009021;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:hypothetical protein) possible frameshift in CDS (frame restored before end) [cause:insert,S:28306..28309(4),M:28289; restore:delete,S:28358,M:28339(1); frame:12131321321(2)13; length:15:43:28:28:127:10:36:7:55:48:45:(53):75:11;]; seq-coords:28306..28358:+; mdl-coords:28290..28339:+; mdl:NC_009021;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:hypothetical protein) possible frameshift in CDS (frame not restored before end) [cause:delete,S:28433,M:28415(1); frame:1213132132121(3); length:15:43:28:28:127:10:36:7:55:48:45:53:75:(11);]; seq-coords:28434..28444:+; mdl-coords:28415..28426:+; mdl:NC_009021;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:hypothetical protein) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [347>8]; seq-coords:28098..28444:+; mdl-coords:28426..28426:+; mdl:NC_009021;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:hypothetical protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [147>5]; seq-coords:27864..28010:+; mdl-coords:27869..27869:+; mdl:NC_009021;
+ERROR: MUTATION_AT_END: (CDS:hypothetical protein) expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAA]; seq-coords:28455..28457:+; mdl-coords:28429..28431:+; mdl:NC_009021;
+ERROR: MUTATION_AT_START: (CDS:hypothetical protein) expected start codon could not be identified [TTT]; seq-coords:27864..27866:+; mdl-coords:27869..27871:+; mdl:NC_009021;
+ERROR: UNEXPECTED_LENGTH: (CDS:hypothetical protein) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [581]; seq-coords:27864..28444:+; mdl-coords:27869..28426:+; mdl:NC_009021;

@@ -1,0 +1,4 @@
+#seq  seq           seq             best            sub                             seq   
+#idx  name          len  p/f   ant  model      grp  grp  nfa  nfn  nf5  nf3  nfalt  alerts
+#---  ----------  -----  ----  ---  ---------  ---  ---  ---  ---  ---  ---  -----  ------
+1     DQ811787.1  27550  FAIL  yes  NC_028806  -    -     17    0    0    0     23  UNJOINABLE_SUBSEQ_ALIGNMENTS(unjoinbl),LOW_COVERAGE(lowcovrg)

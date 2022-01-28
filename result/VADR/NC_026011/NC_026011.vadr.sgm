@@ -1,0 +1,24 @@
+#       seq            seq                   ftr   ftr                             ftr  num  sgm    seq    seq    mdl    mdl    sgm            5'  3'  5'   3' 
+#idx    name           len  p/f   model      type  name                            idx  sgm  idx   from     to   from     to    len  str  trc  pp  pp  gap  gap
+#-----  -----------  -----  ----  ---------  ----  ------------------------------  ---  ---  ---  -----  -----  -----  -----  -----  ---  ---  --  --  ---  ---
+1.1.1   NC_026011.1  31249  PASS  NC_026011  gene  gene.1                            1    1    1    213  21637    213  21637  21425    +  no    ?   ?  no   no 
+1.2.1   NC_026011.1  31249  PASS  NC_026011  CDS   replicase_polyprotein             2    2    1    213  13484    213  13484  13272    +  no    ?   ?  no   no 
+1.2.2   NC_026011.1  31249  PASS  NC_026011  CDS   replicase_polyprotein             2    2    2  13484  21637  13484  21637   8154    +  no    ?   ?  no   no 
+1.3.1   NC_026011.1  31249  PASS  NC_026011  gene  gene.2                            3    1    1  21639  22469  21639  22469    831    +  no    ?   ?  no   no 
+1.4.1   NC_026011.1  31249  PASS  NC_026011  CDS   non-structural_protein_NS2a       4    1    1  21639  22469  21639  22469    831    +  no    ?   ?  no   no 
+1.5.1   NC_026011.1  31249  PASS  NC_026011  gene  gene.3                            5    1    1  22484  23761  22484  23761   1278    +  no    ?   ?  no   no 
+1.6.1   NC_026011.1  31249  PASS  NC_026011  CDS   hemagglutinin-esterase_protein    6    1    1  22484  23761  22484  23761   1278    +  no    ?   ?  no   no 
+1.7.1   NC_026011.1  31249  PASS  NC_026011  gene  gene.4                            7    1    1  23777  27853  23777  27853   4077    +  no    ?   ?  no   no 
+1.8.1   NC_026011.1  31249  PASS  NC_026011  CDS   spike_glycoprotein                8    1    1  23777  27853  23777  27853   4077    +  no    ?   ?  no   no 
+1.9.1   NC_026011.1  31249  PASS  NC_026011  gene  gene.5                            9    1    1  27946  28356  27946  28356    411    +  no    ?   ?  no   no 
+1.10.1  NC_026011.1  31249  PASS  NC_026011  CDS   non-structural_protein_NS4       10    1    1  27946  28356  27946  28356    411    +  no    ?   ?  no   no 
+1.11.1  NC_026011.1  31249  PASS  NC_026011  gene  gene.6                           11    1    1  28338  28652  28338  28652    315    +  no    ?   ?  no   no 
+1.12.1  NC_026011.1  31249  PASS  NC_026011  CDS   non-structural_protein_NS5       12    1    1  28338  28652  28338  28652    315    +  no    ?   ?  no   no 
+1.13.1  NC_026011.1  31249  PASS  NC_026011  gene  gene.7                           13    1    1  28645  28893  28645  28893    249    +  no    ?   ?  no   no 
+1.14.1  NC_026011.1  31249  PASS  NC_026011  CDS   envelope_protein                 14    1    1  28645  28893  28645  28893    249    +  no    ?   ?  no   no 
+1.15.1  NC_026011.1  31249  PASS  NC_026011  gene  gene.8                           15    1    1  28908  29603  28908  29603    696    +  no    ?   ?  no   no 
+1.16.1  NC_026011.1  31249  PASS  NC_026011  CDS   membrane_protein                 16    1    1  28908  29603  28908  29603    696    +  no    ?   ?  no   no 
+1.17.1  NC_026011.1  31249  PASS  NC_026011  gene  gene.9                           17    1    1  29596  30288  29596  30288    693    +  no    ?   ?  no   no 
+1.18.1  NC_026011.1  31249  PASS  NC_026011  CDS   internal_protein                 18    1    1  29596  30288  29596  30288    693    +  no    ?   ?  no   no 
+1.19.1  NC_026011.1  31249  PASS  NC_026011  gene  gene.10                          19    1    1  29613  30944  29613  30944   1332    +  no    ?   ?  no   no 
+1.20.1  NC_026011.1  31249  PASS  NC_026011  CDS   nucleocapsid_protein             20    1    1  29613  30944  29613  30944   1332    +  no    ?   ?  no   no 

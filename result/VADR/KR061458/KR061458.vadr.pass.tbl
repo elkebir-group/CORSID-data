@@ -1,0 +1,69 @@
+>Feature KR061458.1
+264	20608	gene
+264	12587	CDS
+12587	20608
+			product	Pol1
+			exception	ribosomal slippage
+			protein_id	KR061458.1_1
+264	593	mat_peptide
+			product	putative leader protein
+			protein_id	KR061458.1_1
+2949	7814	mat_peptide
+			product	putative coronavirus nsp1
+			protein_id	KR061458.1_1
+9255	10160	mat_peptide
+			product	putative coronavirus nsp2 [3CL-PRO]
+			protein_id	KR061458.1_1
+10161	11000	mat_peptide
+			product	putative coronavirus nsp3 [HD2]
+			protein_id	KR061458.1_1
+11001	11249	mat_peptide
+			product	putative coronavirus nsp4
+			protein_id	KR061458.1_1
+11250	11834	mat_peptide
+			product	putative coronavirus nsp5
+			protein_id	KR061458.1_1
+11835	12158	mat_peptide
+			product	putative coronavirus nsp6
+			protein_id	KR061458.1_1
+12159	12563	mat_peptide
+			product	formerly known as growth-factor-like protein
+			product	putative coronavirus nsp7
+			protein_id	KR061458.1_1
+12564	12587	mat_peptide
+12587	15343
+			product	RNA-dependent RNA polymerase
+			product	putative coronavirus nsp9 [RdRp]
+			protein_id	KR061458.1_1
+15344	17134	mat_peptide
+			product	putative coronavirus nsp10 [MB, NTPase/HEL]
+			protein_id	KR061458.1_1
+17135	18685	mat_peptide
+			product	putative coronavirus nsp11
+			protein_id	KR061458.1_1
+18686	19702	mat_peptide
+			product	putative coronavirus nsp12
+			protein_id	KR061458.1_1
+19703	20605	mat_peptide
+			product	putative coronavirus nsp13
+			protein_id	KR061458.1_1
+20605	24756	gene
+20605	24756	CDS
+			product	spike protein
+			protein_id	KR061458.1_2
+24756	25430	gene
+24756	25430	CDS
+			product	hypothetical protein
+			protein_id	KR061458.1_3
+25411	25641	gene
+25411	25641	CDS
+			product	envelope protein
+			protein_id	KR061458.1_4
+25649	26329	gene
+25649	26329	CDS
+			product	membrane protein
+			protein_id	KR061458.1_5
+26341	27666	gene
+26341	27666	CDS
+			product	nucleocapsid protein
+			protein_id	KR061458.1_6

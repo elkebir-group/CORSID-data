@@ -1,0 +1,20 @@
+##gff-version 3
+MG596803	vadr	gene	208	21449	.	+	.	ID=ftr-1;Name=orf1ab;Gene=orf1ab;
+MG596803	vadr	region	13355	21449	.	+	.	ID=ftr-3;Name=ORF1b protein;Gene=ORF1b protein;Parent=ftr-1;Alias=MG596803.1_1;
+MG596803	vadr	CDS	208	13377	.	+	.	ID=ftr-4;Name=ORF1a protein;Gene=ORF1a protein;Parent=ftr-1;Alias=MG596803.1_2;
+MG596803	vadr	gene	21379	25416	.	+	.	ID=ftr-5;Name=S;Gene=S;
+MG596803	vadr	CDS	21379	25416	.	+	.	ID=ftr-6;Name=S protein;Gene=S protein;Parent=ftr-5;Alias=MG596803.1_3;
+MG596803	vadr	gene	25429	25740	.	+	.	ID=ftr-7;Name=ns3a;Gene=ns3a;
+MG596803	vadr	CDS	25429	25740	.	+	.	ID=ftr-8;Name=NS3A protein;Gene=NS3A protein;Parent=ftr-7;Alias=MG596803.1_4;
+MG596803	vadr	gene	25749	26060	.	+	.	ID=ftr-9;Name=ns3b;Gene=ns3b;
+MG596803	vadr	CDS	25749	26060	.	+	.	ID=ftr-10;Name=NS3B protein;Gene=NS3B protein;Parent=ftr-9;Alias=MG596803.1_5;
+MG596803	vadr	gene	25990	26715	.	+	.	ID=ftr-11;Name=ns3c;Gene=ns3c;
+MG596803	vadr	CDS	25990	26715	.	+	.	ID=ftr-12;Name=NS3C protein;Gene=NS3C protein;Parent=ftr-11;Alias=MG596803.1_6;
+MG596803	vadr	gene	26722	27405	.	+	.	ID=ftr-13;Name=ns3d;Gene=ns3d;
+MG596803	vadr	CDS	26722	27405	.	+	.	ID=ftr-14;Name=NS3D protein;Gene=NS3D protein;Parent=ftr-13;Alias=MG596803.1_7;
+MG596803	vadr	gene	27484	27732	.	+	.	ID=ftr-15;Name=E;Gene=E;
+MG596803	vadr	CDS	27484	27732	.	+	.	ID=ftr-16;Name=E protein;Gene=E protein;Parent=ftr-15;Alias=MG596803.1_8;
+MG596803	vadr	gene	27747	28403	.	+	.	ID=ftr-17;Name=M;Gene=M;
+MG596803	vadr	CDS	27747	28403	.	+	.	ID=ftr-18;Name=M protein;Gene=M protein;Parent=ftr-17;Alias=MG596803.1_9;
+MG596803	vadr	gene	28451	29731	.	+	.	ID=ftr-19;Name=N;Gene=N;
+MG596803	vadr	CDS	28451	29731	.	+	.	ID=ftr-20;Name=N protein;Gene=N protein;Parent=ftr-19;Alias=MG596803.1_10;

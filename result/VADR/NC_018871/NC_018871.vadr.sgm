@@ -1,0 +1,22 @@
+#       seq            seq                   ftr   ftr                          ftr  num  sgm    seq    seq    mdl    mdl    sgm            5'  3'  5'   3' 
+#idx    name           len  p/f   model      type  name                         idx  sgm  idx   from     to   from     to    len  str  trc  pp  pp  gap  gap
+#-----  -----------  -----  ----  ---------  ----  ---------------------------  ---  ---  ---  -----  -----  -----  -----  -----  ---  ---  --  --  ---  ---
+1.1.1   NC_018871.1  28494  PASS  NC_018871  gene  gene.1                         1    1    1    303  20644    303  20644  20342    +  no    ?   ?  no   no 
+1.2.1   NC_018871.1  28494  PASS  NC_018871  CDS   orf1ab_polyprotein             2    2    1    303  12617    303  12617  12315    +  no    ?   ?  no   no 
+1.2.2   NC_018871.1  28494  PASS  NC_018871  CDS   orf1ab_polyprotein             2    2    2  12617  20644  12617  20644   8028    +  no    ?   ?  no   no 
+1.3.1   NC_018871.1  28494  PASS  NC_018871  gene  gene.2                         3    1    1  20641  24690  20641  24690   4050    +  no    ?   ?  no   no 
+1.4.1   NC_018871.1  28494  PASS  NC_018871  CDS   spike_glycoprotein             4    1    1  20641  24690  20641  24690   4050    +  no    ?   ?  no   no 
+1.5.1   NC_018871.1  28494  PASS  NC_018871  gene  gene.3                         5    1    1  24690  25346  24690  25346    657    +  no    ?   ?  no   no 
+1.6.1   NC_018871.1  28494  PASS  NC_018871  CDS   non-structural_protein_NS3     6    1    1  24690  25346  24690  25346    657    +  no    ?   ?  no   no 
+1.7.1   NC_018871.1  28494  PASS  NC_018871  gene  gene.4                         7    1    1  25375  25602  25375  25602    228    +  no    ?   ?  no   no 
+1.8.1   NC_018871.1  28494  PASS  NC_018871  CDS   envelope_protein               8    1    1  25375  25602  25375  25602    228    +  no    ?   ?  no   no 
+1.9.1   NC_018871.1  28494  PASS  NC_018871  gene  gene.5                         9    1    1  25608  26297  25608  26297    690    +  no    ?   ?  no   no 
+1.10.1  NC_018871.1  28494  PASS  NC_018871  CDS   membrane_protein              10    1    1  25608  26297  25608  26297    690    +  no    ?   ?  no   no 
+1.11.1  NC_018871.1  28494  PASS  NC_018871  gene  gene.6                        11    1    1  26308  27516  26308  27516   1209    +  no    ?   ?  no   no 
+1.12.1  NC_018871.1  28494  PASS  NC_018871  CDS   nucleocapsid_protein          12    1    1  26308  27516  26308  27516   1209    +  no    ?   ?  no   no 
+1.13.1  NC_018871.1  28494  PASS  NC_018871  gene  gene.7                        13    1    1  27532  27777  27532  27777    246    +  no    ?   ?  no   no 
+1.14.1  NC_018871.1  28494  PASS  NC_018871  CDS   non-structural_protein_NS7a   14    1    1  27532  27777  27532  27777    246    +  no    ?   ?  no   no 
+1.15.1  NC_018871.1  28494  PASS  NC_018871  gene  gene.8                        15    1    1  27787  28248  27787  28248    462    +  no    ?   ?  no   no 
+1.16.1  NC_018871.1  28494  PASS  NC_018871  CDS   non-structural_protein_NS7b   16    1    1  27787  28248  27787  28248    462    +  no    ?   ?  no   no 
+1.17.1  NC_018871.1  28494  PASS  NC_018871  gene  gene.9                        17    1    1  27986  28216  27986  28216    231    +  no    ?   ?  no   no 
+1.18.1  NC_018871.1  28494  PASS  NC_018871  CDS   non-structural_protein_NS7c   18    1    1  27986  28216  27986  28216    231    +  no    ?   ?  no   no 

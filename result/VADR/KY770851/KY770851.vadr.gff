@@ -1,0 +1,7 @@
+##gff-version 3
+KY770851	vadr	region	12345	20390	.	+	.	ID=ftr-3;Name=ORF1ab polyprotein;Gene=ORF1ab polyprotein;Alias=KY770851.1_1;
+KY770851	vadr	CDS	20392	24579	.	+	.	ID=ftr-5;Name=spike glycoprotein;Gene=spike glycoprotein;Alias=KY770851.1_2;
+KY770851	vadr	CDS	24576	25235	.	+	.	ID=ftr-7;Name=hypothetical protein ORF3;Gene=hypothetical protein ORF3;Alias=KY770851.1_3;
+KY770851	vadr	CDS	25242	25472	.	+	.	ID=ftr-9;Name=small envelope protein;Gene=small envelope protein;Alias=KY770851.1_4;
+KY770851	vadr	CDS	25482	26168	.	+	.	ID=ftr-11;Name=membrane glycoprotein;Gene=membrane glycoprotein;Alias=KY770851.1_5;
+KY770851	vadr	CDS	26177	27478	.	+	.	ID=ftr-13;Name=nucleocapsid protein;Gene=nucleocapsid protein;Alias=KY770851.1_6;

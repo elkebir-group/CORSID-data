@@ -1,0 +1,5 @@
+#     seq         mdl        ftr   ftr                 ftr  dcr     model  indel       orig        new  codon           codon   orig    new   dcr  did  
+#idx  name        name       type  name                idx  type      pos   apos  seq-uapos  seq-uapos  type           coords  codon  codon  iter  swap?
+#---  ----------  ---------  ----  ------------------  ---  ------  -----  -----  ---------  ---------  -----  --------------  -----  -----  ----  -----
+1.1   MK472068.1  NC_028833  CDS   ORF1ab_polyprotein    1  delete  20009  20374      19815      19816  stop   19814..19816:+    TGT    GTT     1  no   
+#---  ----------  ---------  ----  ------------------  ---  ------  -----  -----  ---------  ---------  -----  --------------  -----  -----  ----  -----

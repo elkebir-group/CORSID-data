@@ -1,0 +1,9 @@
+##gff-version 3
+KY063618	vadr	CDS	231	12287	.	+	.	ID=ftr-2;Name=replicase polyprotein 1a;Gene=replicase polyprotein 1a;Alias=KY063618.2_1;
+KY063618	vadr	CDS	20288	24648	.	+	.	ID=ftr-5;Name=spike protein;Gene=spike protein;Alias=KY063618.2_2;
+KY063618	vadr	CDS	24638	24707	.	+	.	ID=ftr-7;Name=non-structural protein 3a;Gene=non-structural protein 3a;Alias=KY063618.2_3;
+KY063618	vadr	CDS	24767	25489	.	+	.	ID=ftr-9;Name=non-structural protein 3b;Gene=non-structural protein 3b;Alias=KY063618.2_4;
+KY063618	vadr	CDS	25476	25724	.	+	.	ID=ftr-11;Name=envelope protein;Gene=envelope protein;Alias=KY063618.2_5;
+KY063618	vadr	CDS	25735	26526	.	+	.	ID=ftr-13;Name=membrane protein;Gene=membrane protein;Alias=KY063618.2_6;
+KY063618	vadr	CDS	26539	27687	.	+	.	ID=ftr-15;Name=nucleoprotein;Gene=nucleoprotein;Alias=KY063618.2_7;
+KY063618	vadr	CDS	27692	28643	.	+	.	ID=ftr-17;Name=non-structural protein 7;Gene=non-structural protein 7;Alias=KY063618.2_8;

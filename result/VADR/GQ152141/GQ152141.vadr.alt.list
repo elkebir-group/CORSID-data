@@ -1,0 +1,5 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+GQ152141.1	NC_002306	CDS	spike protein	POSSIBLE_FRAMESHIFT	20429..20447:+	20451..20472:+	possible frameshift in CDS (frame restored before end) [cause:delete,S:20428,M:20451..20452(2); restore:delete,S:20447,M:20472(1); frame:1(2)1; length:15:(19):4328;]
+GQ152141.1	NC_002306	CDS	spike protein	INDEFINITE_ANNOTATION_START	20414..20446:+	20436..20436:+	protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [33>5]
+GQ152141.1	NC_002306	gene	nsp 3c	LOW_FEATURE_SIMILARITY	25405..25408:+	25405..25850:+	region within annotated feature that does not match a CDS lacks significant similarity [4 nt overlap b/t low similarity region of length 4 (25405..25408) and annotated feature (25233..25525)]
+GQ152141.1	NC_002306	CDS	matrix protein	INDEFINITE_ANNOTATION_START	25771..25776:+	26213..26213:+	protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [6>5]

@@ -1,0 +1,20 @@
+##gff-version 3
+KJ473821	vadr	gene	241	21779	.	+	.	ID=ftr-1;Name=orf1ab;Gene=orf1ab;
+KJ473821	vadr	region	13697	21779	.	+	.	ID=ftr-3;Name=ORF1b protein;Gene=ORF1b protein;Parent=ftr-1;Alias=KJ473821.1_1;
+KJ473821	vadr	CDS	241	13719	.	+	.	ID=ftr-4;Name=ORF1a protein;Gene=ORF1a protein;Parent=ftr-1;Alias=KJ473821.1_2;
+KJ473821	vadr	gene	21721	25775	.	+	.	ID=ftr-5;Name=S;Gene=S;
+KJ473821	vadr	CDS	21721	25775	.	+	.	ID=ftr-6;Name=S protein;Gene=S protein;Parent=ftr-5;Alias=KJ473821.1_3;
+KJ473821	vadr	gene	25791	26102	.	+	.	ID=ftr-7;Name=ns3a;Gene=ns3a;
+KJ473821	vadr	CDS	25791	26102	.	+	.	ID=ftr-8;Name=NS3A protein;Gene=NS3A protein;Parent=ftr-7;Alias=KJ473821.1_4;
+KJ473821	vadr	gene	26111	26422	.	+	.	ID=ftr-9;Name=ns3b;Gene=ns3b;
+KJ473821	vadr	CDS	26111	26422	.	+	.	ID=ftr-10;Name=NS3B protein;Gene=NS3B protein;Parent=ftr-9;Alias=KJ473821.1_5;
+KJ473821	vadr	gene	26352	27065	.	+	.	ID=ftr-11;Name=ns3c;Gene=ns3c;
+KJ473821	vadr	CDS	26352	27065	.	+	.	ID=ftr-12;Name=NS3C protein;Gene=NS3C protein;Parent=ftr-11;Alias=KJ473821.1_6;
+KJ473821	vadr	gene	27072	27767	.	+	.	ID=ftr-13;Name=ns3d;Gene=ns3d;
+KJ473821	vadr	CDS	27072	27767	.	+	.	ID=ftr-14;Name=NS3D protein;Gene=NS3D protein;Parent=ftr-13;Alias=KJ473821.1_7;
+KJ473821	vadr	gene	27844	28092	.	+	.	ID=ftr-15;Name=E;Gene=E;
+KJ473821	vadr	CDS	27844	28092	.	+	.	ID=ftr-16;Name=E protein;Gene=E protein;Parent=ftr-15;Alias=KJ473821.1_8;
+KJ473821	vadr	gene	28107	28763	.	+	.	ID=ftr-17;Name=M;Gene=M;
+KJ473821	vadr	CDS	28107	28763	.	+	.	ID=ftr-18;Name=M protein;Gene=M protein;Parent=ftr-17;Alias=KJ473821.1_9;
+KJ473821	vadr	gene	28819	30114	.	+	.	ID=ftr-19;Name=N;Gene=N;
+KJ473821	vadr	CDS	28819	30114	.	+	.	ID=ftr-20;Name=N protein;Gene=N protein;Parent=ftr-19;Alias=KJ473821.1_10;

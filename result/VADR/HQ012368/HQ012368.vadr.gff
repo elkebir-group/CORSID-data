@@ -1,0 +1,20 @@
+##gff-version 3
+HQ012368	vadr	gene	292	20375	.	+	.	ID=ftr-1;Name=ORF 1a/1b;Gene=ORF 1a/1b;
+HQ012368	vadr	region	12345	20375	.	+	.	ID=ftr-3;Name=polyprotein ab;Gene=polyprotein ab;Parent=ftr-1;Alias=HQ012368.1_1;
+HQ012368	vadr	gene	20372	24775	.	+	.	ID=ftr-4;Name=S;Gene=S;
+HQ012368	vadr	CDS	20372	24775	.	+	.	ID=ftr-5;Name=spike protein;Gene=spike protein;Parent=ftr-4;Alias=HQ012368.1_2;
+HQ012368	vadr	gene	24787	24999	.	+	.	ID=ftr-6;Name=nsp 3a;Gene=nsp 3a;
+HQ012368	vadr	CDS	24787	24999	.	+	.	ID=ftr-7;Name=putative 3a protein;Gene=putative 3a protein;Parent=ftr-6;Alias=HQ012368.1_3;
+HQ012368	vadr	gene	24947	25168	.	+	.	ID=ftr-8;Name=nsp 3b;Gene=nsp 3b;
+HQ012368	vadr	CDS	24947	25168	.	+	.	ID=ftr-9;Name=putative 3b protein;Gene=putative 3b protein;Parent=ftr-8;Alias=HQ012368.1_4;
+HQ012368	vadr	gene	25165	25878	.	+	.	ID=ftr-10;Name=nsp 3c;Gene=nsp 3c;
+HQ012368	vadr	gene	25865	26113	.	+	.	ID=ftr-11;Name=E;Gene=E;
+HQ012368	vadr	CDS	25865	26113	.	+	.	ID=ftr-12;Name=E protein;Gene=E protein;Parent=ftr-11;Alias=HQ012368.1_5;
+HQ012368	vadr	gene	26124	26915	.	+	.	ID=ftr-13;Name=M;Gene=M;
+HQ012368	vadr	CDS	26124	26915	.	+	.	ID=ftr-14;Name=matrix protein;Gene=matrix protein;Parent=ftr-13;Alias=HQ012368.1_6;
+HQ012368	vadr	gene	26928	28061	.	+	.	ID=ftr-15;Name=N;Gene=N;
+HQ012368	vadr	CDS	26928	28061	.	+	.	ID=ftr-16;Name=nucleocapsid protein;Gene=nucleocapsid protein;Parent=ftr-15;Alias=HQ012368.1_7;
+HQ012368	vadr	gene	28066	28371	.	+	.	ID=ftr-17;Name=nsp 7a;Gene=nsp 7a;
+HQ012368	vadr	CDS	28066	28371	.	+	.	ID=ftr-18;Name=non-structural protein 7a;Gene=non-structural protein 7a;Parent=ftr-17;Alias=HQ012368.1_8;
+HQ012368	vadr	gene	28376	28996	.	+	.	ID=ftr-19;Name=nsp 7b;Gene=nsp 7b;
+HQ012368	vadr	CDS	28376	28996	.	+	.	ID=ftr-20;Name=non-structural protein 7b;Gene=non-structural protein 7b;Parent=ftr-19;Alias=HQ012368.1_9;

@@ -1,0 +1,41 @@
+>Feature NC_009988.1
+297	20479	gene
+297	12476	gene
+297	12446	CDS
+12446	20479
+			product	orf1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	NC_009988.1_1
+297	12476	CDS
+			product	orf1a polyprotein
+			protein_id	NC_009988.1_2
+20476	23862	gene
+			gene	S
+20476	23862	CDS
+			product	spike glycoprotein
+			protein_id	NC_009988.1_3
+23862	24551	gene
+			gene	NS3
+23862	24551	CDS
+			product	hypothetical protein
+			protein_id	NC_009988.1_4
+24532	24759	gene
+			gene	E
+24532	24759	CDS
+			product	small membrane protein
+			protein_id	NC_009988.1_5
+24768	25457	gene
+			gene	M
+24768	25457	CDS
+			product	membrane glycoprotein
+			protein_id	NC_009988.1_6
+25469	26596	gene
+			gene	N
+25469	26596	CDS
+			product	nucleocapsid phosphoprotein
+			protein_id	NC_009988.1_7
+26608	26907	gene
+			gene	NS7a
+26608	26907	CDS
+			product	hypothetical protein
+			protein_id	NC_009988.1_8

@@ -1,0 +1,4 @@
+#seq  seq           seq                   num_Ns  num_Ns  fract_Ns  nregs  nregs  nregs    nregs    nregs      nnt      nnt  detail_on_regions[S:seq,M:mdl,D:lendiff,N:#Ns,                
+#idx  name          len  model      p/f      tot      rp        rp    tot    int     rp  rp-full  rp-part  rp-full  rp-part  E:#non_N_match_expected,F:flush_direction,R:region_replaced?];
+#---  ----------  -----  ---------  ----  ------  ------  --------  -----  -----  -----  -------  -------  -------  -------  --------------------------------------------------------------
+1     MG772934.1  29732  NC_045512  FAIL       0       0         -      3      2      0        0        0        0        0  [S:1..5,M:1..5,D:0,N:0/5,E:?/?,F:-,R:N];[S:3219..3270,M:3220..3352,D:-81!,N:0/52,E:?/?,F:-,R:N];[S:22778..22952,M:22873..23104,D:-57!,N:0/175,E:?/?,F:-,R:N];

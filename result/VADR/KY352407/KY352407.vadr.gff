@@ -1,0 +1,19 @@
+##gff-version 3
+KY352407	vadr	gene	260	21411	.	+	.	ID=ftr-1;Name=ORF1ab;Gene=ORF1ab;
+KY352407	vadr	region	13324	21411	.	+	.	ID=ftr-3;Name=ORF1ab polyprotein;Gene=ORF1ab polyprotein;Parent=ftr-1;Alias=KY352407.1_1;
+KY352407	vadr	gene	21418	25191	.	+	.	ID=ftr-4;Name=S;Gene=S;
+KY352407	vadr	CDS	21418	25191	.	+	.	ID=ftr-5;Name=spike protein;Gene=spike protein;Parent=ftr-4;Alias=KY352407.1_2;
+KY352407	vadr	gene	25200	26006	.	+	.	ID=ftr-6;Name=ORF3;Gene=ORF3;
+KY352407	vadr	CDS	25200	26006	.	+	.	ID=ftr-7;Name=ORF3 protein;Gene=ORF3 protein;Parent=ftr-6;Alias=KY352407.1_3;
+KY352407	vadr	gene	26030	26260	.	+	.	ID=ftr-8;Name=E;Gene=E;
+KY352407	vadr	CDS	26030	26260	.	+	.	ID=ftr-9;Name=envelope protein;Gene=envelope protein;Parent=ftr-8;Alias=KY352407.1_4;
+KY352407	vadr	gene	26308	26973	.	+	.	ID=ftr-10;Name=M;Gene=M;
+KY352407	vadr	CDS	26308	26973	.	+	.	ID=ftr-11;Name=membrane protein;Gene=membrane protein;Parent=ftr-10;Alias=KY352407.1_5;
+KY352407	vadr	gene	26984	27175	.	+	.	ID=ftr-12;Name=ORF6;Gene=ORF6;
+KY352407	vadr	CDS	26984	27175	.	+	.	ID=ftr-13;Name=ORF6 protein;Gene=ORF6 protein;Parent=ftr-12;Alias=KY352407.1_6;
+KY352407	vadr	gene	27182	27544	.	+	.	ID=ftr-14;Name=ORF7a;Gene=ORF7a;
+KY352407	vadr	CDS	27182	27544	.	+	.	ID=ftr-15;Name=ORF7a protein;Gene=ORF7a protein;Parent=ftr-14;Alias=KY352407.1_7;
+KY352407	vadr	gene	27541	27663	.	+	.	ID=ftr-16;Name=ORF7b;Gene=ORF7b;
+KY352407	vadr	CDS	27541	27663	.	+	.	ID=ftr-17;Name=ORF7b protein;Gene=ORF7b protein;Parent=ftr-16;Alias=KY352407.1_8;
+KY352407	vadr	gene	27665	28924	.	+	.	ID=ftr-18;Name=N;Gene=N;
+KY352407	vadr	CDS	27665	28924	.	+	.	ID=ftr-19;Name=nucleocapsid;Gene=nucleocapsid;Parent=ftr-18;Alias=KY352407.1_9;

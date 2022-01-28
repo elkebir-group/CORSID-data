@@ -1,0 +1,88 @@
+# v-annotate.pl :: classify and annotate sequences using a model library
+# VADR 1.4 (Dec 2021)
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# date:              Mon Jan  3 11:09:11 2022
+# $VADRBIOEASELDIR:  /scratch/software/vadr-install-dir/Bio-Easel
+# $VADRBLASTDIR:     /scratch/software/vadr-install-dir/ncbi-blast/bin
+# $VADREASELDIR:     /scratch/software/vadr-install-dir/infernal/binaries
+# $VADRFASTADIR:     /scratch/software/vadr-install-dir/fasta/bin
+# $VADRINFERNALDIR:  /scratch/software/vadr-install-dir/infernal/binaries
+# $VADRMODELDIR:     /scratch/software/vadr-install-dir/vadr-models-calici
+# $VADRSCRIPTSDIR:   /scratch/software/vadr-install-dir/vadr
+#
+# sequence file:                                                                  ../genbank/KX348115.fasta
+# output directory:                                                               result/vadr/KX348115
+# force directory overwrite:                                                      yes [-f]
+# specify that alert codes in <s> cause FAILure:                                  lowscore,insertnn,deletinn [--alt_fail]
+# .cm, .minfo, blastn .fa files in $VADRMODELDIR start with key <s>, not 'vadr':  corona [--mkey]
+# model files are in directory <s>, not in $VADRMODELDIR:                         /scratch/data/covid19-2/find_core/vadr/vadr-models-corona-1.3-3 [--mdir]
+# in feature table for failed seqs, never change feature type to misc_feature:    yes [--nomisc]
+# lowsim5s/LOW_SIMILARITY_START minimum length is <n>:                            6 [--lowsim5seq]
+# lowsim3s/LOW_SIMILARITY_END minimum length is <n>:                              6 [--lowsim3seq]
+# align with glsearch from the FASTA package, not to a cm with cmalign:           yes [--glsearch]
+# use top-scoring HSP from blastn to seed the alignment:                          yes [-s]
+# replace stretches of Ns with expected nts, where possible:                      yes [-r]
+# split input file into chunks, run each chunk separately:                        yes [--split]
+# parallelize across <n> CPU workers (requires --split or --glsearch):            8 [--cpu]
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# Validating input                                                                                          ... done. [    0.1 seconds]
+# Splitting sequence file into chunks to run independently in parallel on 8 processors                      ... done. [    0.0 seconds]
+# Executing 1 script to process 1 partition(s) of all 1 sequence(s)                                         ... done. [   18.2 seconds]
+# Merging and finalizing output                                                                             ... done. [    0.1 seconds]
+#
+# Summary of classified sequences:
+#
+#                                  num   num   num
+#idx  model      group  subgroup  seqs  pass  fail
+#---  ---------  -----  --------  ----  ----  ----
+1     NC_001451  -      -            1     0     1
+#---  ---------  -----  --------  ----  ----  ----
+-     *all*      -      -            1     0     1
+-     *none*     -      -            0     0     0
+#---  ---------  -----  --------  ----  ----  ----
+#
+# Summary of reported alerts:
+#
+#     alert     causes   short                             per    num   num  long
+#idx  code      failure  description                      type  cases  seqs  description
+#---  --------  -------  ---------------------------  --------  -----  ----  -----------
+1     indfclas  no       INDEFINITE_CLASSIFICATION    sequence      1     1  low score difference between best overall model and second best model (not in best model's subgroup)
+#---  --------  -------  ---------------------------  --------  -----  ----  -----------
+2     lowsim3s  yes      LOW_SIMILARITY_END           sequence      1     1  significant similarity not detected at 3' end of the sequence
+3     mutstart  yes*     MUTATION_AT_START             feature      1     1  expected start codon could not be identified
+4     cdsstopn  yes*     CDS_HAS_STOP_CODON            feature      1     1  in-frame stop codon exists 5' of stop position predicted by homology to reference
+5     fstukcfi  yes*     POSSIBLE_FRAMESHIFT           feature      2     1  possible frameshift in CDS (frame restored before end)
+6     peptrans  yes*     PEPTIDE_TRANSLATION_PROBLEM   feature     14     1  mat_peptide may not be translated because its parent CDS has a problem
+7     indf5plg  yes*     INDEFINITE_ANNOTATION_START   feature      1     1  protein-based alignment extends past nucleotide-based alignment at 5' end
+8     indf5pst  yes*     INDEFINITE_ANNOTATION_START   feature      1     1  protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint
+9     indf3pst  yes*     INDEFINITE_ANNOTATION_END     feature      1     1  protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint
+#---  --------  -------  ---------------------------  --------  -----  ----  -----------
+#
+# Output printed to screen saved in:                              KX348115.vadr.log
+# List of executed commands saved in:                             KX348115.vadr.cmd
+# List and description of all output files saved in:              KX348115.vadr.filelist
+# esl-seqstat -a output for input fasta file saved in:            KX348115.vadr.seqstat
+# 5 column feature table output for passing sequences saved in:   KX348115.vadr.pass.tbl
+# 5 column feature table output for failing sequences saved in:   KX348115.vadr.fail.tbl
+# list of passing sequences saved in:                             KX348115.vadr.pass.list
+# list of failing sequences saved in:                             KX348115.vadr.fail.list
+# list of alerts in the feature tables saved in:                  KX348115.vadr.alt.list
+# fasta file with passing sequences saved in:                     KX348115.vadr.pass.fa
+# fasta file with failing sequences saved in:                     KX348115.vadr.fail.fa
+# per-sequence tabular annotation summary file saved in:          KX348115.vadr.sqa
+# per-sequence tabular classification summary file saved in:      KX348115.vadr.sqc
+# per-feature tabular summary file saved in:                      KX348115.vadr.ftr
+# per-model-segment tabular summary file saved in:                KX348115.vadr.sgm
+# per-alert tabular summary file saved in:                        KX348115.vadr.alt
+# alert count tabular summary file saved in:                      KX348115.vadr.alc
+# per-model tabular summary file saved in:                        KX348115.vadr.mdl
+# alignment doctoring tabular summary file saved in:              KX348115.vadr.dcr
+# seed alignment summary file (-s) saved in:                      KX348115.vadr.sda
+# replaced stretches of Ns summary file (-r) saved in:            KX348115.vadr.rpn
+#
+# All output files created in directory ./result/vadr/KX348115/
+#
+# Elapsed time:  00:00:18.42
+#                hh:mm:ss
+# 
+[ok]

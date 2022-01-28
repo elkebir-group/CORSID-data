@@ -1,0 +1,43 @@
+>Feature NC_012936.1
+183	21700	gene
+183	13577	gene
+183	13556	CDS
+13556	21700
+			product	orf1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	NC_012936.1_1
+183	13577	CDS
+			product	orf1a polyprotein
+			protein_id	NC_012936.1_2
+21714	22511	gene
+21714	22511	CDS
+			product	32 kD non-structural protein
+			protein_id	NC_012936.1_3
+22557	23876	gene
+22557	23876	CDS
+			product	hemagglutinin-esterase
+			protein_id	NC_012936.1_4
+23891	27973	gene
+23891	27973	CDS
+			product	spike protein
+			protein_id	NC_012936.1_5
+28064	28465	gene
+28064	28465	CDS
+			product	15 kD non-structural protein
+			protein_id	NC_012936.1_6
+28639	28905	gene
+28639	28905	CDS
+			product	envelope protein
+			protein_id	NC_012936.1_7
+28902	29588	gene
+28902	29588	CDS
+			product	membrane protein
+			protein_id	NC_012936.1_8
+29603	30967	gene
+29603	30967	CDS
+			product	nucleocapsid protein
+			protein_id	NC_012936.1_9
+29667	30290	gene
+29667	30290	CDS
+			product	internal protein
+			protein_id	NC_012936.1_10

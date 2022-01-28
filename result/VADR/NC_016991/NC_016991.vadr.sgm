@@ -1,0 +1,20 @@
+#       seq            seq                   ftr   ftr                    ftr  num  sgm    seq    seq    mdl    mdl    sgm            5'  3'  5'   3' 
+#idx    name           len  p/f   model      type  name                   idx  sgm  idx   from     to   from     to    len  str  trc  pp  pp  gap  gap
+#-----  -----------  -----  ----  ---------  ----  ---------------------  ---  ---  ---  -----  -----  -----  -----  -----  ---  ---  --  --  ---  ---
+1.1.1   NC_016991.1  26041  PASS  NC_016991  gene  orf1ab                   1    1    1    511  19397    511  19397  18887    +  no    ?   ?  no   no 
+1.2.1   NC_016991.1  26041  PASS  NC_016991  CDS   replicase_polyprotein    2    2    1    511  11349    511  11349  10839    +  no    ?   ?  no   no 
+1.2.2   NC_016991.1  26041  PASS  NC_016991  CDS   replicase_polyprotein    2    2    2  11349  19397  11349  19397   8049    +  no    ?   ?  no   no 
+1.3.1   NC_016991.1  26041  PASS  NC_016991  gene  S                        3    1    1  19379  22918  19379  22918   3540    +  no    ?   ?  no   no 
+1.4.1   NC_016991.1  26041  PASS  NC_016991  CDS   spike_glycoprotein       4    1    1  19379  22918  19379  22918   3540    +  no    ?   ?  no   no 
+1.5.1   NC_016991.1  26041  PASS  NC_016991  gene  E                        5    1    1  22912  23160  22912  23160    249    +  no    ?   ?  no   no 
+1.6.1   NC_016991.1  26041  PASS  NC_016991  CDS   envelope_protein         6    1    1  22912  23160  22912  23160    249    +  no    ?   ?  no   no 
+1.7.1   NC_016991.1  26041  PASS  NC_016991  gene  M                        7    1    1  23153  23809  23153  23809    657    +  no    ?   ?  no   no 
+1.8.1   NC_016991.1  26041  PASS  NC_016991  CDS   membrane_protein         8    1    1  23153  23809  23153  23809    657    +  no    ?   ?  no   no 
+1.9.1   NC_016991.1  26041  PASS  NC_016991  gene  NS6                      9    1    1  23809  24090  23809  24090    282    +  no    ?   ?  no   no 
+1.10.1  NC_016991.1  26041  PASS  NC_016991  CDS   NS6_protein             10    1    1  23809  24090  23809  24090    282    +  no    ?   ?  no   no 
+1.11.1  NC_016991.1  26041  PASS  NC_016991  gene  N                       11    1    1  24115  25158  24115  25158   1044    +  no    ?   ?  no   no 
+1.12.1  NC_016991.1  26041  PASS  NC_016991  CDS   nucleocapsid_protein    12    1    1  24115  25158  24115  25158   1044    +  no    ?   ?  no   no 
+1.13.1  NC_016991.1  26041  PASS  NC_016991  gene  NS7a                    13    1    1  24143  24811  24143  24811    669    +  no    ?   ?  no   no 
+1.14.1  NC_016991.1  26041  PASS  NC_016991  CDS   NS7a_protein            14    1    1  24143  24811  24143  24811    669    +  no    ?   ?  no   no 
+1.15.1  NC_016991.1  26041  PASS  NC_016991  gene  NS7b                    15    1    1  25139  25270  25139  25270    132    +  no    ?   ?  no   no 
+1.16.1  NC_016991.1  26041  PASS  NC_016991  CDS   NS7b_protein            16    1    1  25139  25270  25139  25270    132    +  no    ?   ?  no   no 

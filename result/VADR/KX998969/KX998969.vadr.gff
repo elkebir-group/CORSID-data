@@ -1,0 +1,15 @@
+##gff-version 3
+KX998969	vadr	gene	540	19327	.	+	.	ID=ftr-1;Name=orf1ab;Gene=orf1ab;
+KX998969	vadr	region	11399	19327	.	+	.	ID=ftr-3;Name=replicase polyprotein;Gene=replicase polyprotein;Parent=ftr-1;Alias=KX998969.1_1;
+KX998969	vadr	gene	19309	22791	.	+	.	ID=ftr-4;Name=S;Gene=S;
+KX998969	vadr	CDS	19309	22791	.	+	.	ID=ftr-5;Name=spike glycoprotein;Gene=spike glycoprotein;Parent=ftr-4;Alias=KX998969.1_2;
+KX998969	vadr	gene	22785	23036	.	+	.	ID=ftr-6;Name=E;Gene=E;
+KX998969	vadr	CDS	22785	23036	.	+	.	ID=ftr-7;Name=envelope protein;Gene=envelope protein;Parent=ftr-6;Alias=KX998969.1_3;
+KX998969	vadr	gene	23029	23682	.	+	.	ID=ftr-8;Name=M;Gene=M;
+KX998969	vadr	CDS	23029	23682	.	+	.	ID=ftr-9;Name=membrane protein;Gene=membrane protein;Parent=ftr-8;Alias=KX998969.1_4;
+KX998969	vadr	gene	23682	23966	.	+	.	ID=ftr-10;Name=NS6;Gene=NS6;
+KX998969	vadr	CDS	23682	23966	.	+	.	ID=ftr-11;Name=NS6 protein;Gene=NS6 protein;Parent=ftr-10;Alias=KX998969.1_5;
+KX998969	vadr	gene	23987	25015	.	+	.	ID=ftr-12;Name=N;Gene=N;
+KX998969	vadr	CDS	23987	25015	.	+	.	ID=ftr-13;Name=nucleocapsid protein;Gene=nucleocapsid protein;Parent=ftr-12;Alias=KX998969.1_6;
+KX998969	vadr	gene	24081	24683	.	+	.	ID=ftr-14;Name=NS7;Gene=NS7;
+KX998969	vadr	CDS	24081	24683	.	+	.	ID=ftr-15;Name=NS7 protein;Gene=NS7 protein;Parent=ftr-14;Alias=KX998969.1_7;

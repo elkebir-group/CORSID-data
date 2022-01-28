@@ -1,0 +1,7 @@
+##gff-version 3
+NC_028811	vadr	region	12238	20286	.	+	.	ID=ftr-3;Name=ORF1ab polyprotein;Gene=ORF1ab polyprotein;Alias=NC_028811.1_1;
+NC_028811	vadr	CDS	20288	24451	.	+	.	ID=ftr-5;Name=spike glycoprotein;Gene=spike glycoprotein;Alias=NC_028811.1_2;
+NC_028811	vadr	CDS	24448	25107	.	+	.	ID=ftr-7;Name=hypothetical protein ORF3;Gene=hypothetical protein ORF3;Alias=NC_028811.1_3;
+NC_028811	vadr	CDS	25109	25339	.	+	.	ID=ftr-9;Name=small envelope protein;Gene=small envelope protein;Alias=NC_028811.1_4;
+NC_028811	vadr	CDS	25349	26032	.	+	.	ID=ftr-11;Name=membrane glycoprotein;Gene=membrane glycoprotein;Alias=NC_028811.1_5;
+NC_028811	vadr	CDS	26041	27330	.	+	.	ID=ftr-13;Name=nucleocapsid protein;Gene=nucleocapsid protein;Alias=NC_028811.1_6;

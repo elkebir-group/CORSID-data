@@ -1,0 +1,4 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+MH687971.1	NC_026011	CDS	replicase polyprotein	DELETION_OF_NT	3303..3303:+	3319..3357:+	too large of a deletion in nucleotide-based alignment of CDS feature [39>27]
+MH687971.1	NC_026011	CDS	replicase polyprotein	DELETION_OF_NT	3299..3299:+	3315..3353:+	too large of a deletion in protein-based alignment [39>27]
+MH687971.1	NC_026011	CDS	non-structural protein NS4	INDEFINITE_ANNOTATION_START	27883..27888:+	27946..27946:+	protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [6>5]

@@ -1,0 +1,16 @@
+#       seq           seq                   ftr   ftr                        ftr  num  sgm    seq    seq    mdl    mdl    sgm            5'  3'  5'   3' 
+#idx    name          len  p/f   model      type  name                       idx  sgm  idx   from     to   from     to    len  str  trc  pp  pp  gap  gap
+#-----  ----------  -----  ----  ---------  ----  -------------------------  ---  ---  ---  -----  -----  -----  -----  -----  ---  ---  --  --  ---  ---
+1.1.1   MK720944.1  27636  FAIL  NC_028833  gene  gene.1                       1    1    1    278  20057    214  20009  19780    +  no    ?   ?  no   no 
+1.2.1   MK720944.1  27636  FAIL  NC_028833  CDS   ORF1ab_polyprotein           2    2    1    278  12058    214  11985  11781    +  no    ?   ?  no   no 
+1.2.2   MK720944.1  27636  FAIL  NC_028833  CDS   ORF1ab_polyprotein           2    2    2  12058  20057  11985  20009   8000    +  no    ?   ?  no   no 
+1.3.1   MK720944.1  27636  FAIL  NC_028833  gene  gene.2                       3    1    1  20131  24150  20083  24114   4020    +  no    ?   ?  no   no 
+1.4.1   MK720944.1  27636  FAIL  NC_028833  CDS   spike_glycoprotein           4    1    1  20131  24150  20083  24114   4020    +  no    ?   ?  no   no 
+1.5.1   MK720944.1  27636  FAIL  NC_028833  gene  gene.3                       5    1    1  24150  24753  24114  24737    604    +  no    ?   ?  no   no 
+1.6.1   MK720944.1  27636  FAIL  NC_028833  CDS   hypothetical_protein_ORF3    6    1    1  24150  24753  24114  24737    604    +  no    ?   ?  no   no 
+1.7.1   MK720944.1  27636  FAIL  NC_028833  gene  gene.4                       7    1    1  24777  25004  24762  24989    228    +  no    ?   ?  no   no 
+1.8.1   MK720944.1  27636  FAIL  NC_028833  CDS   small_envelope_protein       8    1    1  24777  25004  24762  24989    228    +  no    ?   ?  no   no 
+1.9.1   MK720944.1  27636  FAIL  NC_028833  gene  gene.5                       9    1    1  25011  25697  24996  25682    687    +  no    ?   ?  no   no 
+1.10.1  MK720944.1  27636  FAIL  NC_028833  CDS   membrane_glycoprotein       10    1    1  25011  25697  24996  25682    687    +  no    ?   ?  no   no 
+1.11.1  MK720944.1  27636  FAIL  NC_028833  gene  gene.6                      11    1    1  25706  26977  25691  26986   1272    +  no    ?   ?  no   no 
+1.12.1  MK720944.1  27636  FAIL  NC_028833  CDS   nucleocapsid_protein        12    1    1  25706  26977  25691  26986   1272    +  no    ?   ?  no   no 

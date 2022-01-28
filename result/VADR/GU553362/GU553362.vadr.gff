@@ -1,0 +1,20 @@
+##gff-version 3
+GU553362	vadr	gene	293	20379	.	+	.	ID=ftr-1;Name=ORF 1a/1b;Gene=ORF 1a/1b;
+GU553362	vadr	region	12349	20379	.	+	.	ID=ftr-3;Name=polyprotein ab;Gene=polyprotein ab;Parent=ftr-1;Alias=GU553362.1_1;
+GU553362	vadr	gene	20376	24776	.	+	.	ID=ftr-4;Name=S;Gene=S;
+GU553362	vadr	CDS	20376	24776	.	+	.	ID=ftr-5;Name=spike protein;Gene=spike protein;Parent=ftr-4;Alias=GU553362.1_2;
+GU553362	vadr	gene	24788	25000	.	+	.	ID=ftr-6;Name=nsp 3a;Gene=nsp 3a;
+GU553362	vadr	CDS	24788	25000	.	+	.	ID=ftr-7;Name=putative 3a protein;Gene=putative 3a protein;Parent=ftr-6;Alias=GU553362.1_3;
+GU553362	vadr	gene	24948	25169	.	+	.	ID=ftr-8;Name=nsp 3b;Gene=nsp 3b;
+GU553362	vadr	CDS	24948	25169	.	+	.	ID=ftr-9;Name=putative 3b protein;Gene=putative 3b protein;Parent=ftr-8;Alias=GU553362.1_4;
+GU553362	vadr	gene	25166	25879	.	+	.	ID=ftr-10;Name=nsp 3c;Gene=nsp 3c;
+GU553362	vadr	gene	25866	26114	.	+	.	ID=ftr-11;Name=E;Gene=E;
+GU553362	vadr	CDS	25866	26114	.	+	.	ID=ftr-12;Name=E protein;Gene=E protein;Parent=ftr-11;Alias=GU553362.1_5;
+GU553362	vadr	gene	26125	26919	.	+	.	ID=ftr-13;Name=M;Gene=M;
+GU553362	vadr	CDS	26125	26919	.	+	.	ID=ftr-14;Name=matrix protein;Gene=matrix protein;Parent=ftr-13;Alias=GU553362.1_6;
+GU553362	vadr	gene	26932	28065	.	+	.	ID=ftr-15;Name=N;Gene=N;
+GU553362	vadr	CDS	26932	28065	.	+	.	ID=ftr-16;Name=nucleocapsid protein;Gene=nucleocapsid protein;Parent=ftr-15;Alias=GU553362.1_7;
+GU553362	vadr	gene	28070	28375	.	+	.	ID=ftr-17;Name=nsp 7a;Gene=nsp 7a;
+GU553362	vadr	CDS	28070	28375	.	+	.	ID=ftr-18;Name=non-structural protein 7a;Gene=non-structural protein 7a;Parent=ftr-17;Alias=GU553362.1_8;
+GU553362	vadr	gene	28380	29000	.	+	.	ID=ftr-19;Name=nsp 7b;Gene=nsp 7b;
+GU553362	vadr	CDS	28380	29000	.	+	.	ID=ftr-20;Name=non-structural protein 7b;Gene=non-structural protein 7b;Parent=ftr-19;Alias=GU553362.1_9;

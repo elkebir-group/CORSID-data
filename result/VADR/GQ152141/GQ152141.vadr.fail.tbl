@@ -1,0 +1,56 @@
+>Feature GQ152141.1
+313	20417	gene
+			gene	ORF 1a/1b
+313	12387	CDS
+12387	20417
+			product	polyprotein ab
+			exception	ribosomal slippage
+			protein_id	GQ152141.1_1
+20414	24775	gene
+			gene	S
+20414	24775	CDS
+			product	spike protein
+			protein_id	GQ152141.1_2
+24861	25076	gene
+			gene	nsp 3a
+24861	25076	CDS
+			product	putative 3a protein
+			protein_id	GQ152141.1_3
+25021	25236	gene
+			gene	nsp 3b
+25021	25236	CDS
+			product	putative 3b protein
+			protein_id	GQ152141.1_4
+25233	25525	gene
+			gene	nsp 3c
+25512	25760	gene
+			gene	E
+25512	25760	CDS
+			product	E protein
+			protein_id	GQ152141.1_5
+25771	26556	gene
+			gene	M
+25771	26556	CDS
+			product	matrix protein
+			protein_id	GQ152141.1_6
+26569	27687	gene
+			gene	N
+26569	27687	CDS
+			product	nucleocapsid protein
+			protein_id	GQ152141.1_7
+27692	27997	gene
+			gene	nsp 7a
+27692	27997	CDS
+			product	non-structural protein 7a
+			protein_id	GQ152141.1_8
+28002	28622	gene
+			gene	nsp 7b
+28002	28622	CDS
+			product	non-structural protein 7b
+			protein_id	GQ152141.1_9
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:spike protein) possible frameshift in CDS (frame restored before end) [cause:delete,S:20428,M:20451..20452(2); restore:delete,S:20447,M:20472(1); frame:1(2)1; length:15:(19):4328;]; seq-coords:20429..20447:+; mdl-coords:20451..20472:+; mdl:NC_002306;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:spike protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [33>5]; seq-coords:20414..20446:+; mdl-coords:20436..20436:+; mdl:NC_002306;
+ERROR: LOW_FEATURE_SIMILARITY: (gene:nsp 3c) region within annotated feature that does not match a CDS lacks significant similarity [4 nt overlap b/t low similarity region of length 4 (25405..25408) and annotated feature (25233..25525)]; seq-coords:25405..25408:+; mdl-coords:25405..25850:+; mdl:NC_002306;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:matrix protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [6>5]; seq-coords:25771..25776:+; mdl-coords:26213..26213:+; mdl:NC_002306;

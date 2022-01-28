@@ -1,0 +1,41 @@
+>Feature NC_010438.1
+270	20959	gene
+			gene	ORF1ab
+270	12935	CDS
+12935	20959
+			product	ORF1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	NC_010438.1_1
+270	12965	CDS
+			product	ORF1a polyprotein
+			protein_id	NC_010438.1_2
+20956	25083	gene
+			gene	S
+20956	25083	CDS
+			product	spike protein
+			protein_id	NC_010438.1_3
+25083	25751	gene
+			gene	ORF3
+25083	25751	CDS
+			product	ORF3 protein
+			protein_id	NC_010438.1_4
+25735	25959	gene
+			gene	E
+25735	25959	CDS
+			product	envelope protein
+			protein_id	NC_010438.1_5
+25966	26721	gene
+			gene	M
+25966	26721	CDS
+			product	membrane protein
+			protein_id	NC_010438.1_6
+26770	28038	gene
+			gene	N
+26770	28038	CDS
+			product	nucleocapsid protein
+			protein_id	NC_010438.1_7
+27788	28534	gene
+			gene	ORF7
+27788	28534	CDS
+			product	hypothetical protein
+			protein_id	NC_010438.1_8

@@ -1,0 +1,6 @@
+#      seq                    ftr   ftr            ftr  alert           alert                          seq  seq             mdl  mdl  alert 
+#idx   name        model      type  name           idx  code      fail  description                 coords  len          coords  len  detail
+#----  ----------  ---------  ----  -------------  ---  --------  ----  ------------------  --------------  ---  --------------  ---  ------
+1.1.1  MK937830.1  NC_001451  -     -                -  lowsim3s  yes   LOW_SIMILARITY_END  27475..27485:+   11  27608..27608:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 11]
+1.2.1  MK937830.1  NC_001451  CDS   spike_protein    5  cdsstopn  yes   CDS_HAS_STOP_CODON  23833..23835:+    3  23827..23829:+    3  in-frame stop codon exists 5' of stop position predicted by homology to reference [TAA, shifted S:27,M:27]
+1.2.2  MK937830.1  NC_001451  CDS   spike_protein    5  cdsstopp  yes   CDS_HAS_STOP_CODON  23833..23835:+    3  23827..23829:+    3  stop codon in protein-based alignment [-]

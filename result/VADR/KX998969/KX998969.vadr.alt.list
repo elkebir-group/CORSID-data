@@ -1,0 +1,4 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+KX998969.1	NC_039208	-	*sequence*	LOW_SIMILARITY_START	1..7:+	0..0:+	significant similarity not detected at 5' end of the sequence [low similarity region of length 7]
+KX998969.1	NC_039208	CDS	replicase polyprotein	CDS_HAS_STOP_CODON	5127..5129:+	5135..5137:+	in-frame stop codon exists 5' of stop position predicted by homology to reference [TAA, shifted S:14198,M:14198]
+KX998969.1	NC_039208	CDS	replicase polyprotein	CDS_HAS_STOP_CODON	5127..5129:+	5135..5137:+	stop codon in protein-based alignment [-]

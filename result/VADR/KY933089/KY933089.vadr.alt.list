@@ -1,0 +1,3 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+KY933089.1	NC_001451	CDS	spike protein	POSSIBLE_FRAMESHIFT	20528..20536:+	20625..20633:+	possible frameshift in CDS (frame restored before end) [cause:delete,S:20527,M:20625(1); restore:insert,S:20536(1),M:20633; frame:1(3)1; length:260:(9):3229;]
+KY933089.1	NC_001451	CDS	spike protein	INDEFINITE_ANNOTATION_START	20268..20366:+	20368..20368:+	protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [99>5]

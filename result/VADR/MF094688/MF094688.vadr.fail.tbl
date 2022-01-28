@@ -1,0 +1,44 @@
+>Feature MF094688.1
+304	20489	gene
+304	12486	gene
+304	12456	CDS
+12456	20489
+			product	orf1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	MF094688.1_1
+304	12486	CDS
+			product	orf1a polyprotein
+			protein_id	MF094688.1_2
+20486	23881	gene
+			gene	S
+20486	23881	CDS
+			product	spike glycoprotein
+			protein_id	MF094688.1_3
+23881	24570	gene
+			gene	NS3
+23881	24570	CDS
+			product	hypothetical protein
+			protein_id	MF094688.1_4
+24551	24778	gene
+			gene	E
+24551	24778	CDS
+			product	small membrane protein
+			protein_id	MF094688.1_5
+24787	25476	gene
+			gene	M
+24787	25476	CDS
+			product	membrane glycoprotein
+			protein_id	MF094688.1_6
+25488	26615	gene
+			gene	N
+25488	26615	CDS
+			product	nucleocapsid phosphoprotein
+			protein_id	MF094688.1_7
+26627	26926	gene
+			gene	NS7a
+26627	26926	CDS
+			product	hypothetical protein
+			protein_id	MF094688.1_8
+
+Additional note(s) to submitter:
+ERROR: LOW_SIMILARITY_START: (*sequence*) significant similarity not detected at 5' end of the sequence [low similarity region of length 7]; seq-coords:1..7:+; mdl-coords:0..0:+; mdl:NC_009988;

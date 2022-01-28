@@ -1,0 +1,15 @@
+##gff-version 3
+KP757890	vadr	gene	540	19342	.	+	.	ID=ftr-1;Name=orf1ab;Gene=orf1ab;
+KP757890	vadr	region	11414	19342	.	+	.	ID=ftr-3;Name=replicase polyprotein;Gene=replicase polyprotein;Parent=ftr-1;Alias=KP757890.1_1;
+KP757890	vadr	gene	19324	22806	.	+	.	ID=ftr-4;Name=S;Gene=S;
+KP757890	vadr	CDS	19324	22806	.	+	.	ID=ftr-5;Name=spike glycoprotein;Gene=spike glycoprotein;Parent=ftr-4;Alias=KP757890.1_2;
+KP757890	vadr	gene	22800	23051	.	+	.	ID=ftr-6;Name=E;Gene=E;
+KP757890	vadr	CDS	22800	23051	.	+	.	ID=ftr-7;Name=envelope protein;Gene=envelope protein;Parent=ftr-6;Alias=KP757890.1_3;
+KP757890	vadr	gene	23044	23697	.	+	.	ID=ftr-8;Name=M;Gene=M;
+KP757890	vadr	CDS	23044	23697	.	+	.	ID=ftr-9;Name=membrane protein;Gene=membrane protein;Parent=ftr-8;Alias=KP757890.1_4;
+KP757890	vadr	gene	23697	23981	.	+	.	ID=ftr-10;Name=NS6;Gene=NS6;
+KP757890	vadr	CDS	23697	23981	.	+	.	ID=ftr-11;Name=NS6 protein;Gene=NS6 protein;Parent=ftr-10;Alias=KP757890.1_5;
+KP757890	vadr	gene	24002	25030	.	+	.	ID=ftr-12;Name=N;Gene=N;
+KP757890	vadr	CDS	24002	25030	.	+	.	ID=ftr-13;Name=nucleocapsid protein;Gene=nucleocapsid protein;Parent=ftr-12;Alias=KP757890.1_6;
+KP757890	vadr	gene	24096	24698	.	+	.	ID=ftr-14;Name=NS7;Gene=NS7;
+KP757890	vadr	CDS	24096	24698	.	+	.	ID=ftr-15;Name=NS7 protein;Gene=NS7 protein;Parent=ftr-14;Alias=KP757890.1_7;

@@ -1,0 +1,36 @@
+>Feature MH687951.1
+257	20571	gene
+257	12547	CDS
+12547	20571
+			product	ORF1
+			protein_id	MH687951.1_1
+20568	24686	gene
+20568	24686	CDS
+			product	spike protein
+			protein_id	MH687951.1_2
+24686	25360	gene
+24686	25360	CDS
+			product	putative ORF3
+			protein_id	MH687951.1_3
+25341	25571	gene
+25341	25571	CDS
+			product	envelope protein
+			protein_id	MH687951.1_4
+25578	26261	gene
+25578	26261	CDS
+			product	matrix protein
+			protein_id	MH687951.1_5
+26272	27456	gene
+26272	27456	CDS
+			product	nucleocapsid protein
+			protein_id	MH687951.1_6
+
+Additional note(s) to submitter:
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 102]; seq-coords:28212..28313:+; mdl-coords:28179..28203:+; mdl:NC_009657;
+ERROR: LOW_SIMILARITY: (*sequence*) internal region without significant similarity [low similarity region of length 213]; seq-coords:27547..27759:+; mdl-coords:27647..27751:+; mdl:NC_009657;
+ERROR: DELETION_OF_NT: (CDS:ORF1) too large of a deletion in protein-based alignment [45>27]; seq-coords:3364..3364:+; mdl-coords:3411..3455:+; mdl:NC_009657;
+ERROR: DELETION_OF_NT: (CDS:ORF1) too large of a deletion in protein-based alignment [33>27]; seq-coords:4594..4594:+; mdl-coords:4665..4697:+; mdl:NC_009657;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:ORF1) possible frameshift in CDS (frame restored before end) [cause:delete,S:3253,M:3291..3295(5); restore:delete,S:3261,M:3304..3313(10); frame:1(2)1213121; length:2997:(8):1394:7:5601:13:402:21:9873;]; seq-coords:3254..3261:+; mdl-coords:3291..3313:+; mdl:NC_009657;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:ORF1) possible frameshift in CDS (frame restored before end) [cause:delete,S:4655,M:4753..4757(5); restore:delete,S:4662,M:4765(1); frame:121(2)13121; length:2997:8:1394:(7):5601:13:402:21:9873;]; seq-coords:4656..4662:+; mdl-coords:4753..4765:+; mdl:NC_009657;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:ORF1) possible frameshift in CDS (frame restored before end) [cause:delete,S:10263,M:10367(1); restore:insert,S:10276(1),M:10379; frame:12121(3)121; length:2997:8:1394:7:5601:(13):402:21:9873;]; seq-coords:10264..10276:+; mdl-coords:10367..10379:+; mdl:NC_009657;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:ORF1) possible frameshift in CDS (frame restored before end) [cause:delete,S:10678,M:10782..10783(2); restore:insert,S:10698..10699(2),M:10802; frame:1212131(2)1; length:2997:8:1394:7:5601:13:402:(21):9873;]; seq-coords:10679..10699:+; mdl-coords:10782..10802:+; mdl:NC_009657;

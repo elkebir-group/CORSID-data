@@ -1,0 +1,4 @@
+#seq  seq            seq             best            sub                             seq   
+#idx  name           len  p/f   ant  model      grp  grp  nfa  nfn  nf5  nf3  nfalt  alerts
+#---  -----------  -----  ----  ---  ---------  ---  ---  ---  ---  ---  ---  -----  ------
+1     NC_003045.1  31028  PASS  yes  NC_003045  -    -     37    0    0    0      0  -     

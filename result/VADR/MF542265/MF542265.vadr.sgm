@@ -1,0 +1,19 @@
+#       seq           seq                   ftr   ftr                        ftr  num  sgm    seq    seq    mdl    mdl    sgm            5'  3'  5'   3' 
+#idx    name          len  p/f   model      type  name                       idx  sgm  idx   from     to   from     to    len  str  trc  pp  pp  gap  gap
+#-----  ----------  -----  ----  ---------  ----  -------------------------  ---  ---  ---  -----  -----  -----  -----  -----  ---  ---  --  --  ---  ---
+1.1.1   MF542265.1  27271  FAIL  NC_002645  gene  gene.1                       1    1    1    295  20585    293  20568  20291    +  no    ?   ?  no   no 
+1.2.1   MF542265.1  27271  FAIL  NC_002645  CDS   replicase_polyprotein_1ab    2    2    1    295  12537    293  12520  12243    +  no    ?   ?  no   no 
+1.2.2   MF542265.1  27271  FAIL  NC_002645  CDS   replicase_polyprotein_1ab    2    2    2  12537  20585  12520  20568   8049    +  no    ?   ?  no   no 
+1.3.1   MF542265.1  27271  FAIL  NC_002645  CDS   replicase_polyprotein_1a     3    1    1    295  12567    293  12550  12273    +  no    ?   ?  no   no 
+1.4.1   MF542265.1  27271  FAIL  NC_002645  gene  S                            4    1    1  20587  24102  20570  24091   3516    +  no    ?   ?  no   no 
+1.5.1   MF542265.1  27271  FAIL  NC_002645  CDS   surface_glycoprotein         5    1    1  20587  24102  20570  24091   3516    +  no    ?   ?  no   no 
+1.6.1   MF542265.1  27271  FAIL  NC_002645  gene  4a                           6    1    1  24102  24505  24091  24492    404    +  no    ?   ?  no   no 
+1.7.1   MF542265.1  27271  FAIL  NC_002645  CDS   4a_protein                   7    1    1  24102  24505  24091  24492    404    +  no    ?   ?  no   no 
+1.8.1   MF542265.1  27271  FAIL  NC_002645  gene  4b                           8    1    1  24493  24761  24482  24748    269    +  no    ?   ?  no   no 
+1.9.1   MF542265.1  27271  FAIL  NC_002645  CDS   4b_protein                   9    1    1  24493  24761  24482  24748    269    +  no    ?   ?  no   no 
+1.10.1  MF542265.1  27271  FAIL  NC_002645  gene  E                           10    1    1  24763  24996  24750  24983    234    +  no    ?   ?  no   no 
+1.11.1  MF542265.1  27271  FAIL  NC_002645  CDS   envelope_protein            11    1    1  24763  24996  24750  24983    234    +  no    ?   ?  no   no 
+1.12.1  MF542265.1  27271  FAIL  NC_002645  gene  M                           12    1    1  25008  25685  24995  25672    678    +  no    ?   ?  no   no 
+1.13.1  MF542265.1  27271  FAIL  NC_002645  CDS   membrane_protein            13    1    1  25008  25685  24995  25672    678    +  no    ?   ?  no   no 
+1.14.1  MF542265.1  27271  FAIL  NC_002645  gene  N                           14    1    1  25699  26868  25686  26855   1170    +  no    ?   ?  no   no 
+1.15.1  MF542265.1  27271  FAIL  NC_002645  CDS   nucleocapsid_protein        15    1    1  25699  26868  25686  26855   1170    +  no    ?   ?  no   no 

@@ -1,0 +1,60 @@
+>Feature KY352407.1
+260	21411	gene
+			gene	ORF1ab
+260	13324	CDS
+13324	21411
+			product	ORF1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	KY352407.1_1
+21418	25191	gene
+			gene	S
+21418	25191	CDS
+			product	spike protein
+			protein_id	KY352407.1_2
+25200	26006	gene
+			gene	ORF3
+25200	26006	CDS
+			product	ORF3 protein
+			protein_id	KY352407.1_3
+26030	26260	gene
+			gene	E
+26030	26260	CDS
+			product	envelope protein
+			protein_id	KY352407.1_4
+26308	26973	gene
+			gene	M
+26308	26973	CDS
+			product	membrane protein
+			protein_id	KY352407.1_5
+26984	27175	gene
+			gene	ORF6
+26984	27175	CDS
+			product	ORF6 protein
+			protein_id	KY352407.1_6
+27182	27544	gene
+			gene	ORF7a
+27182	27544	CDS
+			product	ORF7a protein
+			protein_id	KY352407.1_7
+27541	27663	gene
+			gene	ORF7b
+27541	27663	CDS
+			product	ORF7b protein
+			protein_id	KY352407.1_8
+27665	28924	gene
+			gene	N
+27665	28924	CDS
+			product	nucleocapsid
+			protein_id	KY352407.1_9
+
+Additional note(s) to submitter:
+ERROR: LOW_SIMILARITY_START: (*sequence*) significant similarity not detected at 5' end of the sequence [low similarity region of length 70]; seq-coords:1..70:+; mdl-coords:1..1:+; mdl:NC_014470;
+ERROR: DELETION_OF_NT: (CDS:ORF1ab polyprotein) too large of a deletion in protein-based alignment [54>27]; seq-coords:3796..3796:+; mdl-coords:3716..3769:+; mdl:NC_014470;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:ORF1ab polyprotein) possible frameshift in CDS (frame restored before end) [cause:delete,S:2337,M:2269(1); restore:insert,S:2344(1),M:2275; frame:1(3)1312131; length:2078:(7):784:30:610:9:6:18:17611;]; seq-coords:2338..2344:+; mdl-coords:2269..2275:+; mdl:NC_014470;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:ORF1ab polyprotein) possible frameshift in CDS (frame restored before end) [cause:insert,S:3129..3136(8),M:3071; restore:insert,S:3146..3158(13),M:3080; frame:131(3)12131; length:2078:7:784:(30):610:9:6:18:17611;]; seq-coords:3129..3158:+; mdl-coords:3072..3080:+; mdl:NC_014470;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:ORF1ab polyprotein) possible frameshift in CDS (frame restored before end) [cause:delete,S:3768,M:3700..3701(2); restore:delete,S:3777,M:3711..3717(7); frame:13131(2)131; length:2078:7:784:30:610:(9):6:18:17611;]; seq-coords:3769..3777:+; mdl-coords:3700..3717:+; mdl:NC_014470;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:ORF1ab polyprotein) possible frameshift in CDS (frame restored before end) [cause:delete,S:3783,M:3724..3745(22); restore:delete,S:3801,M:3764..3774(11); frame:1313121(3)1; length:2078:7:784:30:610:9:6:(18):17611;]; seq-coords:3784..3801:+; mdl-coords:3724..3774:+; mdl:NC_014470;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:membrane protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [6>5]; seq-coords:26308..26313:+; mdl-coords:26299..26299:+; mdl:NC_014470;
+ERROR: CDS_HAS_STOP_CODON: (CDS:ORF7a protein) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:3,M:3]; seq-coords:27539..27541:+; mdl-coords:27539..27541:+; mdl:NC_014470;
+ERROR: POSSIBLE_FRAMESHIFT: (CDS:ORF7a protein) possible frameshift in CDS (frame restored before end) [cause:insert,S:27446..27450(5),M:27451; restore:insert,S:27458(1),M:27458; frame:1(3)1; length:264:(13):86;]; seq-coords:27446..27458:+; mdl-coords:27452..27458:+; mdl:NC_014470;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:ORF7a protein) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [21>5, no valid stop codon in nucleotide-based prediction]; seq-coords:27524..27544:+; mdl-coords:27544..27544:+; mdl:NC_014470;

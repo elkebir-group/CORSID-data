@@ -1,0 +1,13 @@
+#sequence	model	feature-type	feature-name	error	seq-coords	mdl-coords	error-description
+MH687962.1	NC_009657	-	*sequence*	DUPLICATE_REGIONS	27132..27558:+,27560..27751:+	27752..28178:+,27987..28178:+	similarity to a model region occurs more than once [27987..28178:+ (len 192>=20) hits 4 (542.0 bits) and 6 (239.0 bits)]
+MH687962.1	NC_009657	-	*sequence*	LOW_SIMILARITY	26920..27131:+	27645..27751:+	internal region without significant similarity [low similarity region of length 212]
+MH687962.1	NC_009657	-	*sequence*	LOW_SIMILARITY	27559..27559:+	28178..28178:+	internal region without significant similarity [low similarity region of length 1]
+MH687962.1	NC_009657	CDS	ORF1	DELETION_OF_NT	10165..10165:+	10408..10522:+	too large of a deletion in nucleotide-based alignment of CDS feature [115>27]
+MH687962.1	NC_009657	CDS	ORF1	DELETION_OF_NT	10172..10172:+	10530..10572:+	too large of a deletion in nucleotide-based alignment of CDS feature [43>27]
+MH687962.1	NC_009657	CDS	ORF1	DELETION_OF_NT	10195..10195:+	10600..10920:+	too large of a deletion in nucleotide-based alignment of CDS feature [321>27]
+MH687962.1	NC_009657	CDS	ORF1	POSSIBLE_FRAMESHIFT	3139..3146:+	3291..3313:+	possible frameshift in CDS (frame restored before end) [cause:delete,S:3138,M:3291..3295(5); restore:delete,S:3146,M:3304..3313(10); frame:1(2)1212121321; length:2997:(8):38:26:786:17:518:16:5618:7:11:9767;]
+MH687962.1	NC_009657	CDS	ORF1	POSSIBLE_FRAMESHIFT	3185..3210:+	3352..3395:+	possible frameshift in CDS (frame restored before end) [cause:delete,S:3184,M:3352..3353(2); restore:delete,S:3210,M:3380..3395(16); frame:121(2)12121321; length:2997:8:38:(26):786:17:518:16:5618:7:11:9767;]
+MH687962.1	NC_009657	CDS	ORF1	POSSIBLE_FRAMESHIFT	3997..4013:+	4188..4198:+	possible frameshift in CDS (frame restored before end) [cause:insert,S:3997..4003(7),M:4187; restore:delete,S:4013,M:4198(1); frame:12121(2)121321; length:2997:8:38:26:786:(17):518:16:5618:7:11:9767;]
+MH687962.1	NC_009657	CDS	ORF1	POSSIBLE_FRAMESHIFT	4532..4547:+	4741..4765:+	possible frameshift in CDS (frame restored before end) [cause:delete,S:4531,M:4741..4748(8); restore:delete,S:4547,M:4765(1); frame:1212121(2)1321; length:2997:8:38:26:786:17:518:(16):5618:7:11:9767;]
+MH687962.1	NC_009657	CDS	ORF1	POSSIBLE_FRAMESHIFT	10166..10183:+	10408..10587:+	possible frameshift in CDS (frame restored before end) [cause:delete,S:10165,M:10408..10522(115); restore:delete,S:10183,M:10584..10587(4); frame:121212121(32)1; length:2997:8:38:26:786:17:518:16:5618:(7:11):9767; intermediate:delete,S:10172,M:10530..10572(43);]
+MH687962.1	NC_009657	CDS	ORF1	INDEFINITE_ANNOTATION_START	142..10107:+	294..294:+	protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9966>5]
