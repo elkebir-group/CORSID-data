@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region EU022526 1 27854
+EU022526	.	gene	529	20441	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+EU022526	.	CDS	529	12400	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+EU022526	.	CDS	12400	20441	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+EU022526	.	gene	20392	24003	.	+	.	ID=gene-S;gene_biotype=protein_coding
+EU022526	.	CDS	20392	24003	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+EU022526	.	gene	24003	24176	.	+	.	ID=gene-3;gene_biotype=protein_coding
+EU022526	.	CDS	24003	24176	.	+	0	ID=cds-3;Parent=gene-3;Name=3;gene=3
+EU022526	.	gene	24176	24370	.	+	.	ID=gene-3#;gene_biotype=protein_coding
+EU022526	.	CDS	24176	24370	.	+	0	ID=cds-4;Parent=gene-3#;Name=3#;gene=3#
+EU022526	.	gene	24351	24662	.	+	.	ID=gene-3##;gene_biotype=protein_coding
+EU022526	.	CDS	24351	24662	.	+	0	ID=cds-5;Parent=gene-3##;Name=3##;gene=3##
+EU022526	.	gene	24652	25323	.	+	.	ID=gene-4;gene_biotype=protein_coding
+EU022526	.	CDS	24652	25323	.	+	0	ID=cds-6;Parent=gene-4;Name=4;gene=4
+EU022526	.	gene	25324	25608	.	+	.	ID=gene-4#;gene_biotype=protein_coding
+EU022526	.	CDS	25324	25608	.	+	0	ID=cds-7;Parent=gene-4#;Name=4#;gene=4#
+EU022526	.	gene	25684	25881	.	+	.	ID=gene-5;gene_biotype=protein_coding
+EU022526	.	CDS	25684	25881	.	+	0	ID=cds-8;Parent=gene-5;Name=5;gene=5
+EU022526	.	gene	25878	26126	.	+	.	ID=gene-5#;gene_biotype=protein_coding
+EU022526	.	CDS	25878	26126	.	+	0	ID=cds-9;Parent=gene-5#;Name=5#;gene=5#
+EU022526	.	gene	26069	27298	.	+	.	ID=gene-6;gene_biotype=protein_coding
+EU022526	.	CDS	26069	27298	.	+	0	ID=cds-10;Parent=gene-6;Name=6;gene=6
+EU022526	.	gene	27307	27531	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+EU022526	.	CDS	27307	27531	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11

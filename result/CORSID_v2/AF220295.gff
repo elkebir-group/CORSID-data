@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region AF220295 1 31100
+AF220295	.	gene	211	21389	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+AF220295	.	CDS	211	13360	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+AF220295	.	CDS	13360	21389	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+AF220295	.	gene	21521	22354	.	+	.	ID=gene-ns2;gene_biotype=protein_coding
+AF220295	.	CDS	21521	22354	.	+	0	ID=cds-2;Parent=gene-ns2;Name=ns2;gene=ns2
+AF220295	.	gene	22366	23640	.	+	.	ID=gene-he;gene_biotype=protein_coding
+AF220295	.	CDS	22366	23640	.	+	0	ID=cds-3;Parent=gene-he;Name=he;gene=he
+AF220295	.	gene	23655	27746	.	+	.	ID=gene-S;gene_biotype=protein_coding
+AF220295	.	CDS	23655	27746	.	+	0	ID=cds-4;Parent=gene-S;Name=S;gene=S
+AF220295	.	gene	27736	27867	.	+	.	ID=gene-4.9 kda nonstructural;gene_biotype=protein_coding
+AF220295	.	CDS	27736	27867	.	+	0	ID=cds-5;Parent=gene-4.9 kda nonstructural;Name=4.9 kda nonstructural;gene=4.9 kda nonstructural
+AF220295	.	gene	27908	28039	.	+	.	ID=gene-4.7 kda nonstructural;gene_biotype=protein_coding
+AF220295	.	CDS	27908	28039	.	+	0	ID=cds-6;Parent=gene-4.7 kda nonstructural;Name=4.7 kda nonstructural;gene=4.7 kda nonstructural
+AF220295	.	gene	28123	28386	.	+	.	ID=gene-10.1 kda nonstructural;gene_biotype=protein_coding
+AF220295	.	CDS	28123	28386	.	+	0	ID=cds-7;Parent=gene-10.1 kda nonstructural;Name=10.1 kda nonstructural;gene=10.1 kda nonstructural
+AF220295	.	gene	28438	28692	.	+	.	ID=gene-sm;gene_biotype=protein_coding
+AF220295	.	CDS	28438	28692	.	+	0	ID=cds-8;Parent=gene-sm;Name=sm;gene=sm
+AF220295	.	gene	28707	29399	.	+	.	ID=gene-M;gene_biotype=protein_coding
+AF220295	.	CDS	28707	29399	.	+	0	ID=cds-9;Parent=gene-M;Name=M;gene=M
+AF220295	.	gene	29409	30755	.	+	.	ID=gene-N;gene_biotype=protein_coding
+AF220295	.	CDS	29409	30755	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N
+AF220295	.	gene	30721	30849	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+AF220295	.	CDS	30721	30849	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11

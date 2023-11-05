@@ -1,0 +1,17 @@
+##gff-version 3.1.26
+##sequence-region DQ811787 1 27550
+DQ811787	.	gene	304	20348	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+DQ811787	.	CDS	304	12346	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+DQ811787	.	CDS	12346	20348	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+DQ811787	.	gene	20345	24013	.	+	.	ID=gene-S;gene_biotype=protein_coding
+DQ811787	.	CDS	20345	24013	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+DQ811787	.	gene	24220	24837	.	+	.	ID=gene-ns3b;gene_biotype=protein_coding
+DQ811787	.	CDS	24220	24837	.	+	0	ID=cds-3;Parent=gene-ns3b;Name=ns3b;gene=ns3b
+DQ811787	.	gene	24824	25072	.	+	.	ID=gene-E;gene_biotype=protein_coding
+DQ811787	.	CDS	24824	25072	.	+	0	ID=cds-4;Parent=gene-E;Name=E;gene=E
+DQ811787	.	gene	25083	25868	.	+	.	ID=gene-M;gene_biotype=protein_coding
+DQ811787	.	CDS	25083	25868	.	+	0	ID=cds-5;Parent=gene-M;Name=M;gene=M
+DQ811787	.	gene	25881	27029	.	+	.	ID=gene-N;gene_biotype=protein_coding
+DQ811787	.	CDS	25881	27029	.	+	0	ID=cds-6;Parent=gene-N;Name=N;gene=N
+DQ811787	.	gene	27035	27271	.	+	.	ID=gene-ns7;gene_biotype=protein_coding
+DQ811787	.	CDS	27035	27271	.	+	0	ID=cds-7;Parent=gene-ns7;Name=ns7;gene=ns7

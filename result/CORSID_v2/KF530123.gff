@@ -1,0 +1,21 @@
+##gff-version 3.1.26
+##sequence-region KF530123 1 29123
+KF530123	.	gene	231	20254	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KF530123	.	CDS	231	12252	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KF530123	.	CDS	12252	20254	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KF530123	.	gene	20251	24654	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KF530123	.	CDS	20251	24654	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KF530123	.	gene	24666	24878	.	+	.	ID=gene-ns3a;gene_biotype=protein_coding
+KF530123	.	CDS	24666	24878	.	+	0	ID=cds-3;Parent=gene-ns3a;Name=ns3a;gene=ns3a
+KF530123	.	gene	25044	25757	.	+	.	ID=gene-ns3c;gene_biotype=protein_coding
+KF530123	.	CDS	25044	25757	.	+	0	ID=cds-4;Parent=gene-ns3c;Name=ns3c;gene=ns3c
+KF530123	.	gene	25744	25992	.	+	.	ID=gene-E;gene_biotype=protein_coding
+KF530123	.	CDS	25744	25992	.	+	0	ID=cds-5;Parent=gene-E;Name=E;gene=E
+KF530123	.	gene	26003	26794	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KF530123	.	CDS	26003	26794	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+KF530123	.	gene	26807	27940	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KF530123	.	CDS	26807	27940	.	+	0	ID=cds-7;Parent=gene-N;Name=N;gene=N
+KF530123	.	gene	27945	28250	.	+	.	ID=gene-ns7a;gene_biotype=protein_coding
+KF530123	.	CDS	27945	28250	.	+	0	ID=cds-8;Parent=gene-ns7a;Name=ns7a;gene=ns7a
+KF530123	.	gene	28255	28869	.	+	.	ID=gene-ns7b;gene_biotype=protein_coding
+KF530123	.	CDS	28255	28869	.	+	0	ID=cds-9;Parent=gene-ns7b;Name=ns7b;gene=ns7b

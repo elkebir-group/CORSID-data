@@ -1,0 +1,27 @@
+##gff-version 3.1.26
+##sequence-region KY620116 1 27685
+KY620116	.	gene	526	14258	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KY620116	.	CDS	526	12382	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KY620116	.	CDS	12382	14258	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KY620116	.	gene	14486	14602	.	+	.	ID=putative-gene-2;gene_biotype=protein_coding
+KY620116	.	CDS	14486	14602	.	+	0	ID=cds-2;Parent=putative-gene-2;Name=protein-2;gene=ORF2
+KY620116	.	gene	14581	20418	.	+	.	ID=putative-gene-3;gene_biotype=protein_coding
+KY620116	.	CDS	14581	20418	.	+	0	ID=cds-3;Parent=putative-gene-3;Name=protein-3;gene=ORF3
+KY620116	.	gene	20369	23869	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KY620116	.	CDS	20369	23869	.	+	0	ID=cds-4;Parent=gene-S;Name=S;gene=S
+KY620116	.	gene	24042	24230	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+KY620116	.	CDS	24042	24230	.	+	0	ID=cds-5;Parent=gene-3b;Name=3b;gene=3b
+KY620116	.	gene	24217	24543	.	+	.	ID=gene-3c;gene_biotype=protein_coding
+KY620116	.	CDS	24217	24543	.	+	0	ID=cds-6;Parent=gene-3c;Name=3c;gene=3c
+KY620116	.	gene	24515	25192	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KY620116	.	CDS	24515	25192	.	+	0	ID=cds-7;Parent=gene-M;Name=M;gene=M
+KY620116	.	gene	25398	25559	.	+	.	ID=putative-gene-8;gene_biotype=protein_coding
+KY620116	.	CDS	25398	25559	.	+	0	ID=cds-8;Parent=putative-gene-8;Name=protein-8;gene=ORF8
+KY620116	.	gene	25556	25753	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+KY620116	.	CDS	25556	25753	.	+	0	ID=cds-9;Parent=gene-5a;Name=5a;gene=5a
+KY620116	.	gene	25750	25998	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+KY620116	.	CDS	25750	25998	.	+	0	ID=cds-10;Parent=gene-5b;Name=5b;gene=5b
+KY620116	.	gene	25941	27170	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KY620116	.	CDS	25941	27170	.	+	0	ID=cds-11;Parent=gene-N;Name=N;gene=N
+KY620116	.	gene	27179	27382	.	+	.	ID=putative-gene-12;gene_biotype=protein_coding
+KY620116	.	CDS	27179	27382	.	+	0	ID=cds-12;Parent=putative-gene-12;Name=protein-12;gene=ORF12

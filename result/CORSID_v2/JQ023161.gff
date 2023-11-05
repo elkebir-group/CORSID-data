@@ -1,0 +1,17 @@
+##gff-version 3.1.26
+##sequence-region JQ023161 1 28029
+JQ023161	.	gene	293	20637	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+JQ023161	.	CDS	293	12644	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+JQ023161	.	CDS	12644	20637	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+JQ023161	.	gene	20634	24785	.	+	.	ID=gene-S;gene_biotype=protein_coding
+JQ023161	.	CDS	20634	24785	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+JQ023161	.	gene	24785	25459	.	+	.	ID=gene-?;gene_biotype=protein_coding
+JQ023161	.	CDS	24785	25459	.	+	0	ID=cds-3;Parent=gene-?;Name=?;gene=?
+JQ023161	.	gene	25440	25670	.	+	.	ID=gene-E;gene_biotype=protein_coding
+JQ023161	.	CDS	25440	25670	.	+	0	ID=cds-4;Parent=gene-E;Name=E;gene=E
+JQ023161	.	gene	25678	26358	.	+	.	ID=gene-M;gene_biotype=protein_coding
+JQ023161	.	CDS	25678	26358	.	+	0	ID=cds-5;Parent=gene-M;Name=M;gene=M
+JQ023161	.	gene	26370	27695	.	+	.	ID=gene-N;gene_biotype=protein_coding
+JQ023161	.	CDS	26370	27695	.	+	0	ID=cds-6;Parent=gene-N;Name=N;gene=N
+JQ023161	.	gene	27699	27806	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+JQ023161	.	CDS	27699	27806	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7

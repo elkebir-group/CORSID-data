@@ -1,0 +1,27 @@
+##gff-version 3.1.26
+##sequence-region MF113046 1 28924
+MF113046	.	gene	275	20295	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MF113046	.	CDS	275	12302	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MF113046	.	CDS	12302	20295	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MF113046	.	gene	20684	24577	.	+	.	ID=putative-gene-2;gene_biotype=protein_coding
+MF113046	.	CDS	20684	24577	.	+	0	ID=cds-2;Parent=putative-gene-2;Name=protein-2;gene=ORF2
+MF113046	.	gene	24595	24804	.	+	.	ID=putative-gene-3;gene_biotype=protein_coding
+MF113046	.	CDS	24595	24804	.	+	0	ID=cds-3;Parent=putative-gene-3;Name=protein-3;gene=ORF3
+MF113046	.	gene	24794	25339	.	+	.	ID=putative-gene-4;gene_biotype=protein_coding
+MF113046	.	CDS	24794	25339	.	+	0	ID=cds-4;Parent=putative-gene-4;Name=protein-4;gene=ORF4
+MF113046	.	gene	25308	25556	.	+	.	ID=gene-E;gene_biotype=protein_coding
+MF113046	.	CDS	25308	25556	.	+	0	ID=cds-5;Parent=gene-E;Name=E;gene=E
+MF113046	.	gene	25573	26379	.	+	.	ID=gene-M;gene_biotype=protein_coding
+MF113046	.	CDS	25573	26379	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+MF113046	.	gene	26394	27524	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MF113046	.	CDS	26394	27524	.	+	0	ID=cds-7;Parent=gene-N;Name=N;gene=N
+MF113046	.	gene	27529	27825	.	+	.	ID=gene-ns7a;gene_biotype=protein_coding
+MF113046	.	CDS	27529	27825	.	+	0	ID=cds-8;Parent=gene-ns7a;Name=ns7a;gene=ns7a
+MF113046	.	gene	27810	28031	.	+	.	ID=gene-?;gene_biotype=protein_coding
+MF113046	.	CDS	27810	28031	.	+	0	ID=cds-9;Parent=gene-?;Name=?;gene=?
+MF113046	.	gene	28069	28587	.	+	.	ID=putative-gene-10;gene_biotype=protein_coding
+MF113046	.	CDS	28069	28587	.	+	0	ID=cds-10;Parent=putative-gene-10;Name=protein-10;gene=ORF10
+MF113046	.	gene	28556	28660	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+MF113046	.	CDS	28556	28660	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11
+MF113046	.	gene	28805	28926	.	+	.	ID=putative-gene-12;gene_biotype=protein_coding
+MF113046	.	CDS	28805	28926	.	+	0	ID=cds-12;Parent=putative-gene-12;Name=protein-12;gene=ORF12

@@ -1,0 +1,23 @@
+##gff-version 3.1.26
+##sequence-region JX993988 1 29452
+JX993988	.	gene	161	21384	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+JX993988	.	CDS	161	13310	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+JX993988	.	CDS	13310	21384	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+JX993988	.	gene	21391	25116	.	+	.	ID=gene-S;gene_biotype=protein_coding
+JX993988	.	CDS	21391	25116	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+JX993988	.	gene	25190	25312	.	+	.	ID=putative-gene-3;gene_biotype=protein_coding
+JX993988	.	CDS	25190	25312	.	+	0	ID=cds-3;Parent=putative-gene-3;Name=protein-3;gene=ORF3
+JX993988	.	gene	25426	25950	.	+	.	ID=putative-gene-4;gene_biotype=protein_coding
+JX993988	.	CDS	25426	25950	.	+	0	ID=cds-4;Parent=putative-gene-4;Name=protein-4;gene=ORF4
+JX993988	.	gene	26256	26921	.	+	.	ID=gene-M;gene_biotype=protein_coding
+JX993988	.	CDS	26256	26921	.	+	0	ID=cds-5;Parent=gene-M;Name=M;gene=M
+JX993988	.	gene	26986	27123	.	+	.	ID=putative-gene-6;gene_biotype=protein_coding
+JX993988	.	CDS	26986	27123	.	+	0	ID=cds-6;Parent=putative-gene-6;Name=protein-6;gene=ORF6
+JX993988	.	gene	27496	27630	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+JX993988	.	CDS	27496	27630	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7
+JX993988	.	gene	27637	28002	.	+	.	ID=putative-gene-8;gene_biotype=protein_coding
+JX993988	.	CDS	27637	28002	.	+	0	ID=cds-8;Parent=putative-gene-8;Name=protein-8;gene=ORF8
+JX993988	.	gene	28105	28323	.	+	.	ID=putative-gene-9;gene_biotype=protein_coding
+JX993988	.	CDS	28105	28323	.	+	0	ID=cds-9;Parent=putative-gene-9;Name=protein-9;gene=ORF9
+JX993988	.	gene	28320	29285	.	+	.	ID=putative-gene-10;gene_biotype=protein_coding
+JX993988	.	CDS	28320	29285	.	+	0	ID=cds-10;Parent=putative-gene-10;Name=protein-10;gene=ORF10

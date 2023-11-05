@@ -1,0 +1,23 @@
+##gff-version 3.1.26
+##sequence-region KU973692 1 29722
+KU973692	.	gene	265	21485	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KU973692	.	CDS	265	13411	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KU973692	.	CDS	13411	21485	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KU973692	.	gene	21492	25202	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KU973692	.	CDS	21492	25202	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KU973692	.	gene	25211	26035	.	+	.	ID=gene-3;gene_biotype=protein_coding
+KU973692	.	CDS	25211	26035	.	+	0	ID=cds-3;Parent=gene-3;Name=3;gene=3
+KU973692	.	gene	26060	26290	.	+	.	ID=gene-E;gene_biotype=protein_coding
+KU973692	.	CDS	26060	26290	.	+	0	ID=cds-4;Parent=gene-E;Name=E;gene=E
+KU973692	.	gene	26341	27006	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KU973692	.	CDS	26341	27006	.	+	0	ID=cds-5;Parent=gene-M;Name=M;gene=M
+KU973692	.	gene	27017	27208	.	+	.	ID=gene-7;gene_biotype=protein_coding
+KU973692	.	CDS	27017	27208	.	+	0	ID=cds-6;Parent=gene-7;Name=7;gene=7
+KU973692	.	gene	27216	27584	.	+	.	ID=gene-8;gene_biotype=protein_coding
+KU973692	.	CDS	27216	27584	.	+	0	ID=cds-7;Parent=gene-8;Name=8;gene=8
+KU973692	.	gene	27581	27715	.	+	.	ID=gene-9;gene_biotype=protein_coding
+KU973692	.	CDS	27581	27715	.	+	0	ID=cds-8;Parent=gene-9;Name=9;gene=9
+KU973692	.	gene	27722	28090	.	+	.	ID=gene-10;gene_biotype=protein_coding
+KU973692	.	CDS	27722	28090	.	+	0	ID=cds-9;Parent=gene-10;Name=10;gene=10
+KU973692	.	gene	28092	29360	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KU973692	.	CDS	28092	29360	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N

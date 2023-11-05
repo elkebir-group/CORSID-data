@@ -1,0 +1,19 @@
+##gff-version 3.1.26
+##sequence-region DQ415899 1 29905
+DQ415899	.	gene	200	21747	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+DQ415899	.	CDS	200	13613	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+DQ415899	.	CDS	13613	21747	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+DQ415899	.	gene	21780	22937	.	+	.	ID=gene-he;gene_biotype=protein_coding
+DQ415899	.	CDS	21780	22937	.	+	0	ID=cds-2;Parent=gene-he;Name=he;gene=he
+DQ415899	.	gene	22952	27007	.	+	.	ID=gene-S;gene_biotype=protein_coding
+DQ415899	.	CDS	22952	27007	.	+	0	ID=cds-3;Parent=gene-S;Name=S;gene=S
+DQ415899	.	gene	26819	27007	.	+	.	ID=putative-gene-4;gene_biotype=protein_coding
+DQ415899	.	CDS	26819	27007	.	+	0	ID=cds-4;Parent=putative-gene-4;Name=protein-4;gene=ORF4
+DQ415899	.	gene	27030	27359	.	+	.	ID=gene-4;gene_biotype=protein_coding
+DQ415899	.	CDS	27030	27359	.	+	0	ID=cds-5;Parent=gene-4;Name=4;gene=4
+DQ415899	.	gene	27352	27600	.	+	.	ID=gene-E;gene_biotype=protein_coding
+DQ415899	.	CDS	27352	27600	.	+	0	ID=cds-6;Parent=gene-E;Name=E;gene=E
+DQ415899	.	gene	27612	28283	.	+	.	ID=gene-M;gene_biotype=protein_coding
+DQ415899	.	CDS	27612	28283	.	+	0	ID=cds-7;Parent=gene-M;Name=M;gene=M
+DQ415899	.	gene	28299	29624	.	+	.	ID=gene-N;gene_biotype=protein_coding
+DQ415899	.	CDS	28299	29624	.	+	0	ID=cds-8;Parent=gene-N;Name=N;gene=N

@@ -1,0 +1,15 @@
+##gff-version 3.1.26
+##sequence-region KP757890 1 25420
+KP757890	.	gene	540	19342	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KP757890	.	CDS	540	11418	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KP757890	.	CDS	11418	19342	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KP757890	.	gene	19324	22806	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KP757890	.	CDS	19324	22806	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KP757890	.	gene	22800	23051	.	+	.	ID=gene-E;gene_biotype=protein_coding
+KP757890	.	CDS	22800	23051	.	+	0	ID=cds-3;Parent=gene-E;Name=E;gene=E
+KP757890	.	gene	23044	23697	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KP757890	.	CDS	23044	23697	.	+	0	ID=cds-4;Parent=gene-M;Name=M;gene=M
+KP757890	.	gene	23697	23981	.	+	.	ID=gene-ns6;gene_biotype=protein_coding
+KP757890	.	CDS	23697	23981	.	+	0	ID=cds-5;Parent=gene-ns6;Name=ns6;gene=ns6
+KP757890	.	gene	24002	25030	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KP757890	.	CDS	24002	25030	.	+	0	ID=cds-6;Parent=gene-N;Name=N;gene=N

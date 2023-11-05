@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region KT886454 1 27418
+KT886454	.	gene	517	20375	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KT886454	.	CDS	517	12340	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KT886454	.	CDS	12340	20375	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KT886454	.	gene	20326	23823	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KT886454	.	CDS	20326	23823	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KT886454	.	gene	23823	23996	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+KT886454	.	CDS	23823	23996	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+KT886454	.	gene	23996	24187	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+KT886454	.	CDS	23996	24187	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+KT886454	.	gene	24168	24500	.	+	.	ID=gene-E;gene_biotype=protein_coding
+KT886454	.	CDS	24168	24500	.	+	0	ID=cds-5;Parent=gene-E;Name=E;gene=E
+KT886454	.	gene	24469	25149	.	+	.	ID=putative-gene-6;gene_biotype=protein_coding
+KT886454	.	CDS	24469	25149	.	+	0	ID=cds-6;Parent=putative-gene-6;Name=protein-6;gene=ORF6
+KT886454	.	gene	25150	25434	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+KT886454	.	CDS	25150	25434	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7
+KT886454	.	gene	25509	25706	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+KT886454	.	CDS	25509	25706	.	+	0	ID=cds-8;Parent=gene-5a;Name=5a;gene=5a
+KT886454	.	gene	25703	25951	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+KT886454	.	CDS	25703	25951	.	+	0	ID=cds-9;Parent=gene-5b;Name=5b;gene=5b
+KT886454	.	gene	25894	27123	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KT886454	.	CDS	25894	27123	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N
+KT886454	.	gene	27132	27353	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+KT886454	.	CDS	27132	27353	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11

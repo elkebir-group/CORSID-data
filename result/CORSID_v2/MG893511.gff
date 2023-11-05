@@ -1,0 +1,21 @@
+##gff-version 3.1.26
+##sequence-region MG893511 1 29298
+MG893511	.	gene	312	20416	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MG893511	.	CDS	312	12414	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MG893511	.	CDS	12414	20416	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MG893511	.	gene	20413	24810	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MG893511	.	CDS	20413	24810	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MG893511	.	gene	24822	25034	.	+	.	ID=putative-gene-3;gene_biotype=protein_coding
+MG893511	.	CDS	24822	25034	.	+	0	ID=cds-3;Parent=putative-gene-3;Name=protein-3;gene=ORF3
+MG893511	.	gene	25197	25910	.	+	.	ID=putative-gene-4;gene_biotype=protein_coding
+MG893511	.	CDS	25197	25910	.	+	0	ID=cds-4;Parent=putative-gene-4;Name=protein-4;gene=ORF4
+MG893511	.	gene	25897	26145	.	+	.	ID=gene-small E;gene_biotype=protein_coding
+MG893511	.	CDS	25897	26145	.	+	0	ID=cds-5;Parent=gene-small E;Name=small E;gene=small E
+MG893511	.	gene	26156	26947	.	+	.	ID=gene-M;gene_biotype=protein_coding
+MG893511	.	CDS	26156	26947	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+MG893511	.	gene	26960	28087	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MG893511	.	CDS	26960	28087	.	+	0	ID=cds-7;Parent=gene-N;Name=N;gene=N
+MG893511	.	gene	28092	28397	.	+	.	ID=putative-gene-8;gene_biotype=protein_coding
+MG893511	.	CDS	28092	28397	.	+	0	ID=cds-8;Parent=putative-gene-8;Name=protein-8;gene=ORF8
+MG893511	.	gene	28402	29022	.	+	.	ID=putative-gene-9;gene_biotype=protein_coding
+MG893511	.	CDS	28402	29022	.	+	0	ID=cds-9;Parent=putative-gene-9;Name=protein-9;gene=ORF9

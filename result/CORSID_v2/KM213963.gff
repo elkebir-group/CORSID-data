@@ -1,0 +1,27 @@
+##gff-version 3.1.26
+##sequence-region KM213963 1 27714
+KM213963	.	gene	530	20454	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KM213963	.	CDS	530	12446	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KM213963	.	CDS	12446	20454	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KM213963	.	gene	20405	23914	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KM213963	.	CDS	20405	23914	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KM213963	.	gene	23914	24087	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+KM213963	.	CDS	23914	24087	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+KM213963	.	gene	24087	24275	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+KM213963	.	CDS	24087	24275	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+KM213963	.	gene	24259	24567	.	+	.	ID=gene-E;gene_biotype=protein_coding
+KM213963	.	CDS	24259	24567	.	+	0	ID=cds-5;Parent=gene-E;Name=E;gene=E
+KM213963	.	gene	24557	25234	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KM213963	.	CDS	24557	25234	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+KM213963	.	gene	25234	25425	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+KM213963	.	CDS	25234	25425	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7
+KM213963	.	gene	25441	25614	.	+	.	ID=putative-gene-8;gene_biotype=protein_coding
+KM213963	.	CDS	25441	25614	.	+	0	ID=cds-8;Parent=putative-gene-8;Name=protein-8;gene=ORF8
+KM213963	.	gene	25598	25795	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+KM213963	.	CDS	25598	25795	.	+	0	ID=cds-9;Parent=gene-5a;Name=5a;gene=5a
+KM213963	.	gene	25792	26040	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+KM213963	.	CDS	25792	26040	.	+	0	ID=cds-10;Parent=gene-5b;Name=5b;gene=5b
+KM213963	.	gene	25983	27206	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KM213963	.	CDS	25983	27206	.	+	0	ID=cds-11;Parent=gene-N;Name=N;gene=N
+KM213963	.	gene	27215	27436	.	+	.	ID=putative-gene-12;gene_biotype=protein_coding
+KM213963	.	CDS	27215	27436	.	+	0	ID=cds-12;Parent=putative-gene-12;Name=protein-12;gene=ORF12

@@ -1,0 +1,19 @@
+##gff-version 3.1.26
+##sequence-region MG812378 1 25685
+MG812378	.	gene	520	19295	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MG812378	.	CDS	520	11371	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MG812378	.	CDS	11371	19295	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MG812378	.	gene	19277	22756	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MG812378	.	CDS	19277	22756	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MG812378	.	gene	22750	23001	.	+	.	ID=gene-E;gene_biotype=protein_coding
+MG812378	.	CDS	22750	23001	.	+	0	ID=cds-3;Parent=gene-E;Name=E;gene=E
+MG812378	.	gene	22994	23647	.	+	.	ID=gene-M;gene_biotype=protein_coding
+MG812378	.	CDS	22994	23647	.	+	0	ID=cds-4;Parent=gene-M;Name=M;gene=M
+MG812378	.	gene	23647	23928	.	+	.	ID=gene-ns6;gene_biotype=protein_coding
+MG812378	.	CDS	23647	23928	.	+	0	ID=cds-5;Parent=gene-ns6;Name=ns6;gene=ns6
+MG812378	.	gene	23953	24978	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MG812378	.	CDS	23953	24978	.	+	0	ID=cds-6;Parent=gene-N;Name=N;gene=N
+MG812378	.	gene	24989	25423	.	+	.	ID=gene-ns7b;gene_biotype=protein_coding
+MG812378	.	CDS	24989	25423	.	+	0	ID=cds-7;Parent=gene-ns7b;Name=ns7b;gene=ns7b
+MG812378	.	gene	25470	25589	.	+	.	ID=putative-gene-8;gene_biotype=protein_coding
+MG812378	.	CDS	25470	25589	.	+	0	ID=cds-8;Parent=putative-gene-8;Name=protein-8;gene=ORF8

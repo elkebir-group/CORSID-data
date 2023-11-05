@@ -1,0 +1,19 @@
+##gff-version 3.1.26
+##sequence-region NC_012936 1 31250
+NC_012936	.	gene	183	21700	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+NC_012936	.	CDS	183	13575	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+NC_012936	.	CDS	13575	21700	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+NC_012936	.	gene	21714	22511	.	+	.	ID=gene-32 kd non-structural;gene_biotype=protein_coding
+NC_012936	.	CDS	21714	22511	.	+	0	ID=cds-2;Parent=gene-32 kd non-structural;Name=32 kd non-structural;gene=32 kd non-structural
+NC_012936	.	gene	22557	23876	.	+	.	ID=gene-HE;gene_biotype=protein_coding
+NC_012936	.	CDS	22557	23876	.	+	0	ID=cds-3;Parent=gene-HE;Name=HE;gene=HE
+NC_012936	.	gene	23891	27973	.	+	.	ID=gene-S;gene_biotype=protein_coding
+NC_012936	.	CDS	23891	27973	.	+	0	ID=cds-4;Parent=gene-S;Name=S;gene=S
+NC_012936	.	gene	28064	28465	.	+	.	ID=gene-15 kd non-structural;gene_biotype=protein_coding
+NC_012936	.	CDS	28064	28465	.	+	0	ID=cds-5;Parent=gene-15 kd non-structural;Name=15 kd non-structural;gene=15 kd non-structural
+NC_012936	.	gene	28639	28905	.	+	.	ID=gene-E;gene_biotype=protein_coding
+NC_012936	.	CDS	28639	28905	.	+	0	ID=cds-6;Parent=gene-E;Name=E;gene=E
+NC_012936	.	gene	28902	29588	.	+	.	ID=gene-M;gene_biotype=protein_coding
+NC_012936	.	CDS	28902	29588	.	+	0	ID=cds-7;Parent=gene-M;Name=M;gene=M
+NC_012936	.	gene	29603	30967	.	+	.	ID=gene-N;gene_biotype=protein_coding
+NC_012936	.	CDS	29603	30967	.	+	0	ID=cds-8;Parent=gene-N;Name=N;gene=N

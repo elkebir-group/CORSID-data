@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region JQ088078 1 27664
+JQ088078	.	gene	497	20391	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+JQ088078	.	CDS	497	12356	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+JQ088078	.	CDS	12356	20391	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+JQ088078	.	gene	20342	23839	.	+	.	ID=gene-s;gene_biotype=protein_coding
+JQ088078	.	CDS	20342	23839	.	+	0	ID=cds-2;Parent=gene-s;Name=s;gene=s
+JQ088078	.	gene	23839	24012	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+JQ088078	.	CDS	23839	24012	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+JQ088078	.	gene	24012	24203	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+JQ088078	.	CDS	24012	24203	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+JQ088078	.	gene	24184	24516	.	+	.	ID=gene-e;gene_biotype=protein_coding
+JQ088078	.	CDS	24184	24516	.	+	0	ID=cds-5;Parent=gene-e;Name=e;gene=e
+JQ088078	.	gene	24485	25198	.	+	.	ID=gene-m;gene_biotype=protein_coding
+JQ088078	.	CDS	24485	25198	.	+	0	ID=cds-6;Parent=gene-m;Name=m;gene=m
+JQ088078	.	gene	25199	25483	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+JQ088078	.	CDS	25199	25483	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7
+JQ088078	.	gene	25549	25746	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+JQ088078	.	CDS	25549	25746	.	+	0	ID=cds-8;Parent=gene-5a;Name=5a;gene=5a
+JQ088078	.	gene	25743	25991	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+JQ088078	.	CDS	25743	25991	.	+	0	ID=cds-9;Parent=gene-5b;Name=5b;gene=5b
+JQ088078	.	gene	25934	27163	.	+	.	ID=gene-n;gene_biotype=protein_coding
+JQ088078	.	CDS	25934	27163	.	+	0	ID=cds-10;Parent=gene-n;Name=n;gene=n
+JQ088078	.	gene	27172	27396	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+JQ088078	.	CDS	27172	27396	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11

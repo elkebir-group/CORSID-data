@@ -1,0 +1,23 @@
+##gff-version 3.1.26
+##sequence-region MK423877 1 27652
+MK423877	.	gene	530	20421	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MK423877	.	CDS	530	12386	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MK423877	.	CDS	12386	20421	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MK423877	.	gene	20372	23869	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MK423877	.	CDS	20372	23869	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MK423877	.	gene	23869	24042	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+MK423877	.	CDS	23869	24042	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+MK423877	.	gene	24042	24236	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+MK423877	.	CDS	24042	24236	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+MK423877	.	gene	24217	24546	.	+	.	ID=gene-3c;gene_biotype=protein_coding
+MK423877	.	CDS	24217	24546	.	+	0	ID=cds-5;Parent=gene-3c;Name=3c;gene=3c
+MK423877	.	gene	24518	25195	.	+	.	ID=gene-M;gene_biotype=protein_coding
+MK423877	.	CDS	24518	25195	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+MK423877	.	gene	25401	25562	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+MK423877	.	CDS	25401	25562	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7
+MK423877	.	gene	25559	25756	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+MK423877	.	CDS	25559	25756	.	+	0	ID=cds-8;Parent=gene-5a;Name=5a;gene=5a
+MK423877	.	gene	25849	26091	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+MK423877	.	CDS	25849	26091	.	+	0	ID=cds-9;Parent=gene-5b;Name=5b;gene=5b
+MK423877	.	gene	26034	27260	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MK423877	.	CDS	26034	27260	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N

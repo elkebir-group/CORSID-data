@@ -1,0 +1,23 @@
+##gff-version 3.1.26
+##sequence-region KF569996 1 29805
+KF569996	.	gene	272	21492	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KF569996	.	CDS	272	13418	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KF569996	.	CDS	13418	21492	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KF569996	.	gene	21499	25278	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KF569996	.	CDS	21499	25278	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KF569996	.	gene	25287	26111	.	+	.	ID=gene-3;gene_biotype=protein_coding
+KF569996	.	CDS	25287	26111	.	+	0	ID=cds-3;Parent=gene-3;Name=3;gene=3
+KF569996	.	gene	26136	26366	.	+	.	ID=gene-E;gene_biotype=protein_coding
+KF569996	.	CDS	26136	26366	.	+	0	ID=cds-4;Parent=gene-E;Name=E;gene=E
+KF569996	.	gene	26417	27082	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KF569996	.	CDS	26417	27082	.	+	0	ID=cds-5;Parent=gene-M;Name=M;gene=M
+KF569996	.	gene	27093	27284	.	+	.	ID=gene-7;gene_biotype=protein_coding
+KF569996	.	CDS	27093	27284	.	+	0	ID=cds-6;Parent=gene-7;Name=7;gene=7
+KF569996	.	gene	27292	27660	.	+	.	ID=gene-8;gene_biotype=protein_coding
+KF569996	.	CDS	27292	27660	.	+	0	ID=cds-7;Parent=gene-8;Name=8;gene=8
+KF569996	.	gene	27657	27791	.	+	.	ID=gene-9;gene_biotype=protein_coding
+KF569996	.	CDS	27657	27791	.	+	0	ID=cds-8;Parent=gene-9;Name=9;gene=9
+KF569996	.	gene	27798	28163	.	+	.	ID=gene-10b;gene_biotype=protein_coding
+KF569996	.	CDS	27798	28163	.	+	0	ID=cds-9;Parent=gene-10b;Name=10b;gene=10b
+KF569996	.	gene	28178	29446	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KF569996	.	CDS	28178	29446	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N

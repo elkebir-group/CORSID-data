@@ -1,0 +1,23 @@
+##gff-version 3.1.26
+##sequence-region DQ071615 1 29736
+DQ071615	.	gene	265	21479	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+DQ071615	.	CDS	265	13405	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+DQ071615	.	CDS	13405	21479	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+DQ071615	.	gene	21486	25211	.	+	.	ID=gene-S;gene_biotype=protein_coding
+DQ071615	.	CDS	21486	25211	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+DQ071615	.	gene	25221	26045	.	+	.	ID=gene-3;gene_biotype=protein_coding
+DQ071615	.	CDS	25221	26045	.	+	0	ID=cds-3;Parent=gene-3;Name=3;gene=3
+DQ071615	.	gene	26070	26300	.	+	.	ID=gene-small envelope e;gene_biotype=protein_coding
+DQ071615	.	CDS	26070	26300	.	+	0	ID=cds-4;Parent=gene-small envelope e;Name=small envelope e;gene=small envelope e
+DQ071615	.	gene	26351	27016	.	+	.	ID=gene-membrane glycoprotein m;gene_biotype=protein_coding
+DQ071615	.	CDS	26351	27016	.	+	0	ID=cds-5;Parent=gene-membrane glycoprotein m;Name=membrane glycoprotein m;gene=membrane glycoprotein m
+DQ071615	.	gene	27027	27218	.	+	.	ID=gene-7;gene_biotype=protein_coding
+DQ071615	.	CDS	27027	27218	.	+	0	ID=cds-6;Parent=gene-7;Name=7;gene=7
+DQ071615	.	gene	27226	27594	.	+	.	ID=gene-8;gene_biotype=protein_coding
+DQ071615	.	CDS	27226	27594	.	+	0	ID=cds-7;Parent=gene-8;Name=8;gene=8
+DQ071615	.	gene	27591	27725	.	+	.	ID=gene-9;gene_biotype=protein_coding
+DQ071615	.	CDS	27591	27725	.	+	0	ID=cds-8;Parent=gene-9;Name=9;gene=9
+DQ071615	.	gene	27732	28097	.	+	.	ID=gene-10';gene_biotype=protein_coding
+DQ071615	.	CDS	27732	28097	.	+	0	ID=cds-9;Parent=gene-10';Name=10';gene=10'
+DQ071615	.	gene	28112	29377	.	+	.	ID=gene-N;gene_biotype=protein_coding
+DQ071615	.	CDS	28112	29377	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N

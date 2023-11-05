@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region KX302867 1 27701
+KX302867	.	gene	530	20433	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KX302867	.	CDS	530	12398	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KX302867	.	CDS	12398	20433	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KX302867	.	gene	20384	23881	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KX302867	.	CDS	20384	23881	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KX302867	.	gene	23881	24054	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+KX302867	.	CDS	23881	24054	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+KX302867	.	gene	24054	24242	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+KX302867	.	CDS	24054	24242	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+KX302867	.	gene	24229	24555	.	+	.	ID=gene-3c;gene_biotype=protein_coding
+KX302867	.	CDS	24229	24555	.	+	0	ID=cds-5;Parent=gene-3c;Name=3c;gene=3c
+KX302867	.	gene	24527	25204	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KX302867	.	CDS	24527	25204	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+KX302867	.	gene	25205	25489	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+KX302867	.	CDS	25205	25489	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7
+KX302867	.	gene	25568	25765	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+KX302867	.	CDS	25568	25765	.	+	0	ID=cds-8;Parent=gene-5a;Name=5a;gene=5a
+KX302867	.	gene	25762	26010	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+KX302867	.	CDS	25762	26010	.	+	0	ID=cds-9;Parent=gene-5b;Name=5b;gene=5b
+KX302867	.	gene	25953	27182	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KX302867	.	CDS	25953	27182	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N
+KX302867	.	gene	27191	27415	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+KX302867	.	CDS	27191	27415	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11

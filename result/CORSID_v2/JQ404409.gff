@@ -1,0 +1,21 @@
+##gff-version 3.1.26
+##sequence-region JQ404409 1 29462
+JQ404409	.	gene	314	20367	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+JQ404409	.	CDS	314	12365	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+JQ404409	.	CDS	12365	20367	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+JQ404409	.	gene	20364	24725	.	+	.	ID=gene-S;gene_biotype=protein_coding
+JQ404409	.	CDS	20364	24725	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+JQ404409	.	gene	24893	25129	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+JQ404409	.	CDS	24893	25129	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+JQ404409	.	gene	25286	26020	.	+	.	ID=gene-3c;gene_biotype=protein_coding
+JQ404409	.	CDS	25286	26020	.	+	0	ID=cds-4;Parent=gene-3c;Name=3c;gene=3c
+JQ404409	.	gene	26007	26255	.	+	.	ID=gene-E;gene_biotype=protein_coding
+JQ404409	.	CDS	26007	26255	.	+	0	ID=cds-5;Parent=gene-E;Name=E;gene=E
+JQ404409	.	gene	26266	27054	.	+	.	ID=putative-gene-6;gene_biotype=protein_coding
+JQ404409	.	CDS	26266	27054	.	+	0	ID=cds-6;Parent=putative-gene-6;Name=protein-6;gene=ORF6
+JQ404409	.	gene	27067	28215	.	+	.	ID=gene-N;gene_biotype=protein_coding
+JQ404409	.	CDS	27067	28215	.	+	0	ID=cds-7;Parent=gene-N;Name=N;gene=N
+JQ404409	.	gene	28220	28525	.	+	.	ID=gene-7a;gene_biotype=protein_coding
+JQ404409	.	CDS	28220	28525	.	+	0	ID=cds-8;Parent=gene-7a;Name=7a;gene=7a
+JQ404409	.	gene	28530	29171	.	+	.	ID=gene-7b;gene_biotype=protein_coding
+JQ404409	.	CDS	28530	29171	.	+	0	ID=cds-9;Parent=gene-7b;Name=7b;gene=7b

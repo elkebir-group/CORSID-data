@@ -1,0 +1,21 @@
+##gff-version 3.1.26
+##sequence-region MH002342 1 30529
+MH002342	.	gene	261	21856	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MH002342	.	CDS	261	13761	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MH002342	.	CDS	13761	21856	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MH002342	.	gene	21783	25850	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MH002342	.	CDS	21783	25850	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MH002342	.	gene	25867	26178	.	+	.	ID=gene-3;gene_biotype=protein_coding
+MH002342	.	CDS	25867	26178	.	+	0	ID=cds-3;Parent=gene-3;Name=3;gene=3
+MH002342	.	gene	26191	26550	.	+	.	ID=gene-4a;gene_biotype=protein_coding
+MH002342	.	CDS	26191	26550	.	+	0	ID=cds-4;Parent=gene-4a;Name=4a;gene=4a
+MH002342	.	gene	26603	27202	.	+	.	ID=putative-gene-5;gene_biotype=protein_coding
+MH002342	.	CDS	26603	27202	.	+	0	ID=cds-5;Parent=putative-gene-5;Name=protein-5;gene=ORF5
+MH002342	.	gene	27212	27883	.	+	.	ID=gene-5;gene_biotype=protein_coding
+MH002342	.	CDS	27212	27883	.	+	0	ID=cds-6;Parent=gene-5;Name=5;gene=5
+MH002342	.	gene	27961	28209	.	+	.	ID=gene-E;gene_biotype=protein_coding
+MH002342	.	CDS	27961	28209	.	+	0	ID=cds-7;Parent=gene-E;Name=E;gene=E
+MH002342	.	gene	28224	28886	.	+	.	ID=gene-M;gene_biotype=protein_coding
+MH002342	.	CDS	28224	28886	.	+	0	ID=cds-8;Parent=gene-M;Name=M;gene=M
+MH002342	.	gene	28936	30219	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MH002342	.	CDS	28936	30219	.	+	0	ID=cds-9;Parent=gene-N;Name=N;gene=N

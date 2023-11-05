@@ -1,0 +1,27 @@
+##gff-version 3.1.26
+##sequence-region KX432213 1 30868
+KX432213	.	gene	144	21427	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KX432213	.	CDS	144	13293	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KX432213	.	CDS	13293	21427	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KX432213	.	gene	22049	22273	.	+	.	ID=putative-gene-2;gene_biotype=protein_coding
+KX432213	.	CDS	22049	22273	.	+	0	ID=cds-2;Parent=putative-gene-2;Name=protein-2;gene=ORF2
+KX432213	.	gene	22456	23559	.	+	.	ID=putative-gene-3;gene_biotype=protein_coding
+KX432213	.	CDS	22456	23559	.	+	0	ID=cds-3;Parent=putative-gene-3;Name=protein-3;gene=ORF3
+KX432213	.	gene	23574	27665	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KX432213	.	CDS	23574	27665	.	+	0	ID=cds-4;Parent=gene-S;Name=S;gene=S
+KX432213	.	gene	27534	27665	.	+	.	ID=putative-gene-5;gene_biotype=protein_coding
+KX432213	.	CDS	27534	27665	.	+	0	ID=cds-5;Parent=putative-gene-5;Name=protein-5;gene=ORF5
+KX432213	.	gene	27655	27789	.	+	.	ID=gene-4.9 kda non-structural;gene_biotype=protein_coding
+KX432213	.	CDS	27655	27789	.	+	0	ID=cds-6;Parent=gene-4.9 kda non-structural;Name=4.9 kda non-structural;gene=4.9 kda non-structural
+KX432213	.	gene	27798	27902	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+KX432213	.	CDS	27798	27902	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7
+KX432213	.	gene	28039	28368	.	+	.	ID=gene-12.8 kda non-structural;gene_biotype=protein_coding
+KX432213	.	CDS	28039	28368	.	+	0	ID=cds-8;Parent=gene-12.8 kda non-structural;Name=12.8 kda non-structural;gene=12.8 kda non-structural
+KX432213	.	gene	28355	28609	.	+	.	ID=gene-E;gene_biotype=protein_coding
+KX432213	.	CDS	28355	28609	.	+	0	ID=cds-9;Parent=gene-E;Name=E;gene=E
+KX432213	.	gene	28768	29316	.	+	.	ID=putative-gene-10;gene_biotype=protein_coding
+KX432213	.	CDS	28768	29316	.	+	0	ID=cds-10;Parent=putative-gene-10;Name=protein-10;gene=ORF10
+KX432213	.	gene	29663	30010	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+KX432213	.	CDS	29663	30010	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11
+KX432213	.	gene	30019	30672	.	+	.	ID=putative-gene-12;gene_biotype=protein_coding
+KX432213	.	CDS	30019	30672	.	+	0	ID=cds-12;Parent=putative-gene-12;Name=protein-12;gene=ORF12

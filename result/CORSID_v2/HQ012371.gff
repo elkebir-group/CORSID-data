@@ -1,0 +1,21 @@
+##gff-version 3.1.26
+##sequence-region HQ012371 1 29274
+HQ012371	.	gene	293	20382	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+HQ012371	.	CDS	293	12380	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+HQ012371	.	CDS	12380	20382	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+HQ012371	.	gene	20379	24785	.	+	.	ID=gene-S;gene_biotype=protein_coding
+HQ012371	.	CDS	20379	24785	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+HQ012371	.	gene	24797	25009	.	+	.	ID=gene-ns3a;gene_biotype=protein_coding
+HQ012371	.	CDS	24797	25009	.	+	0	ID=cds-3;Parent=gene-ns3a;Name=ns3a;gene=ns3a
+HQ012371	.	gene	25175	25888	.	+	.	ID=gene-ns3c;gene_biotype=protein_coding
+HQ012371	.	CDS	25175	25888	.	+	0	ID=cds-4;Parent=gene-ns3c;Name=ns3c;gene=ns3c
+HQ012371	.	gene	25875	26123	.	+	.	ID=gene-E;gene_biotype=protein_coding
+HQ012371	.	CDS	25875	26123	.	+	0	ID=cds-5;Parent=gene-E;Name=E;gene=E
+HQ012371	.	gene	26134	26925	.	+	.	ID=gene-M;gene_biotype=protein_coding
+HQ012371	.	CDS	26134	26925	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+HQ012371	.	gene	26938	28071	.	+	.	ID=gene-N;gene_biotype=protein_coding
+HQ012371	.	CDS	26938	28071	.	+	0	ID=cds-7;Parent=gene-N;Name=N;gene=N
+HQ012371	.	gene	28076	28381	.	+	.	ID=gene-ns7a;gene_biotype=protein_coding
+HQ012371	.	CDS	28076	28381	.	+	0	ID=cds-8;Parent=gene-ns7a;Name=ns7a;gene=ns7a
+HQ012371	.	gene	28386	29006	.	+	.	ID=gene-ns7b;gene_biotype=protein_coding
+HQ012371	.	CDS	28386	29006	.	+	0	ID=cds-9;Parent=gene-ns7b;Name=ns7b;gene=ns7b

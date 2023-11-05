@@ -1,0 +1,17 @@
+##gff-version 3.1.26
+##sequence-region KU051641 1 25405
+KU051641	.	gene	536	19323	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KU051641	.	CDS	536	11399	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KU051641	.	CDS	11399	19323	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KU051641	.	gene	19305	22787	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KU051641	.	CDS	19305	22787	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KU051641	.	gene	22781	23032	.	+	.	ID=gene-E;gene_biotype=protein_coding
+KU051641	.	CDS	22781	23032	.	+	0	ID=cds-3;Parent=gene-E;Name=E;gene=E
+KU051641	.	gene	23025	23678	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KU051641	.	CDS	23025	23678	.	+	0	ID=cds-4;Parent=gene-M;Name=M;gene=M
+KU051641	.	gene	23678	23962	.	+	.	ID=gene-ns6;gene_biotype=protein_coding
+KU051641	.	CDS	23678	23962	.	+	0	ID=cds-5;Parent=gene-ns6;Name=ns6;gene=ns6
+KU051641	.	gene	23983	25011	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KU051641	.	CDS	23983	25011	.	+	0	ID=cds-6;Parent=gene-N;Name=N;gene=N
+KU051641	.	gene	25022	25126	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+KU051641	.	CDS	25022	25126	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7

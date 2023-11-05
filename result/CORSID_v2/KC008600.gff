@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region KC008600 1 27701
+KC008600	.	gene	527	20412	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KC008600	.	CDS	527	12377	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KC008600	.	CDS	12377	20412	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KC008600	.	gene	20363	23866	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KC008600	.	CDS	20363	23866	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KC008600	.	gene	23866	24039	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+KC008600	.	CDS	23866	24039	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+KC008600	.	gene	24039	24257	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+KC008600	.	CDS	24039	24257	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+KC008600	.	gene	24241	24567	.	+	.	ID=gene-E;gene_biotype=protein_coding
+KC008600	.	CDS	24241	24567	.	+	0	ID=cds-5;Parent=gene-E;Name=E;gene=E
+KC008600	.	gene	24539	25216	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KC008600	.	CDS	24539	25216	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+KC008600	.	gene	25217	25501	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+KC008600	.	CDS	25217	25501	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7
+KC008600	.	gene	25570	25767	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+KC008600	.	CDS	25570	25767	.	+	0	ID=cds-8;Parent=gene-5a;Name=5a;gene=5a
+KC008600	.	gene	25764	26009	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+KC008600	.	CDS	25764	26009	.	+	0	ID=cds-9;Parent=gene-5b;Name=5b;gene=5b
+KC008600	.	gene	25952	27181	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KC008600	.	CDS	25952	27181	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N
+KC008600	.	gene	27190	27372	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+KC008600	.	CDS	27190	27372	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11

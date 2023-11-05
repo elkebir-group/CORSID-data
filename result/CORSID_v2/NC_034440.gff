@@ -1,0 +1,27 @@
+##gff-version 3.1.26
+##sequence-region NC_034440 1 29642
+NC_034440	.	gene	61	21290	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+NC_034440	.	CDS	61	13225	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+NC_034440	.	CDS	13225	21290	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+NC_034440	.	gene	21497	21604	.	+	.	ID=putative-gene-2;gene_biotype=protein_coding
+NC_034440	.	CDS	21497	21604	.	+	0	ID=cds-2;Parent=putative-gene-2;Name=protein-2;gene=ORF2
+NC_034440	.	gene	21682	25269	.	+	.	ID=putative-gene-3;gene_biotype=protein_coding
+NC_034440	.	CDS	21682	25269	.	+	0	ID=cds-3;Parent=putative-gene-3;Name=protein-3;gene=ORF3
+NC_034440	.	gene	25398	25589	.	+	.	ID=putative-gene-4;gene_biotype=protein_coding
+NC_034440	.	CDS	25398	25589	.	+	0	ID=cds-4;Parent=putative-gene-4;Name=protein-4;gene=ORF4
+NC_034440	.	gene	25803	26579	.	+	.	ID=gene-4b;gene_biotype=protein_coding
+NC_034440	.	CDS	25803	26579	.	+	0	ID=cds-5;Parent=gene-4b;Name=4b;gene=4b
+NC_034440	.	gene	26534	26641	.	+	.	ID=putative-gene-6;gene_biotype=protein_coding
+NC_034440	.	CDS	26534	26641	.	+	0	ID=cds-6;Parent=putative-gene-6;Name=protein-6;gene=ORF6
+NC_034440	.	gene	26725	26832	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+NC_034440	.	CDS	26725	26832	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7
+NC_034440	.	gene	26901	27263	.	+	.	ID=putative-gene-8;gene_biotype=protein_coding
+NC_034440	.	CDS	26901	27263	.	+	0	ID=cds-8;Parent=putative-gene-8;Name=protein-8;gene=ORF8
+NC_034440	.	gene	27342	27590	.	+	.	ID=gene-E;gene_biotype=protein_coding
+NC_034440	.	CDS	27342	27590	.	+	0	ID=cds-9;Parent=gene-E;Name=E;gene=E
+NC_034440	.	gene	28052	28264	.	+	.	ID=putative-gene-10;gene_biotype=protein_coding
+NC_034440	.	CDS	28052	28264	.	+	0	ID=cds-10;Parent=putative-gene-10;Name=protein-10;gene=ORF10
+NC_034440	.	gene	28357	28938	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+NC_034440	.	CDS	28357	28938	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11
+NC_034440	.	gene	28947	29558	.	+	.	ID=putative-gene-12;gene_biotype=protein_coding
+NC_034440	.	CDS	28947	29558	.	+	0	ID=cds-12;Parent=putative-gene-12;Name=protein-12;gene=ORF12

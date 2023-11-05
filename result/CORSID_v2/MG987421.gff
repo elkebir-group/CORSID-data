@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region MG987421 1 30483
+MG987421	.	gene	238	21869	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MG987421	.	CDS	238	13807	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MG987421	.	CDS	13807	21869	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MG987421	.	gene	21811	25854	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MG987421	.	CDS	21811	25854	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MG987421	.	gene	25866	26171	.	+	.	ID=gene-3;gene_biotype=protein_coding
+MG987421	.	CDS	25866	26171	.	+	0	ID=cds-3;Parent=gene-3;Name=3;gene=3
+MG987421	.	gene	26186	26479	.	+	.	ID=gene-4a;gene_biotype=protein_coding
+MG987421	.	CDS	26186	26479	.	+	0	ID=cds-4;Parent=gene-4a;Name=4a;gene=4a
+MG987421	.	gene	26502	27143	.	+	.	ID=putative-gene-5;gene_biotype=protein_coding
+MG987421	.	CDS	26502	27143	.	+	0	ID=cds-5;Parent=putative-gene-5;Name=protein-5;gene=ORF5
+MG987421	.	gene	27150	27839	.	+	.	ID=gene-5;gene_biotype=protein_coding
+MG987421	.	CDS	27150	27839	.	+	0	ID=cds-6;Parent=gene-5;Name=5;gene=5
+MG987421	.	gene	27916	28164	.	+	.	ID=gene-E;gene_biotype=protein_coding
+MG987421	.	CDS	27916	28164	.	+	0	ID=cds-7;Parent=gene-E;Name=E;gene=E
+MG987421	.	gene	28180	28836	.	+	.	ID=gene-M;gene_biotype=protein_coding
+MG987421	.	CDS	28180	28836	.	+	0	ID=cds-8;Parent=gene-M;Name=M;gene=M
+MG987421	.	gene	28892	30190	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MG987421	.	CDS	28892	30190	.	+	0	ID=cds-9;Parent=gene-N;Name=N;gene=N
+MG987421	.	gene	30174	30281	.	+	.	ID=putative-gene-10;gene_biotype=protein_coding
+MG987421	.	CDS	30174	30281	.	+	0	ID=cds-10;Parent=putative-gene-10;Name=protein-10;gene=ORF10
+MG987421	.	gene	30325	30432	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+MG987421	.	CDS	30325	30432	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11

@@ -1,0 +1,27 @@
+##gff-version 3.1.26
+##sequence-region NC_017083 1 31100
+NC_017083	.	gene	209	21663	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+NC_017083	.	CDS	209	13538	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+NC_017083	.	CDS	13538	21663	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+NC_017083	.	gene	21673	21804	.	+	.	ID=gene-ns2a1;gene_biotype=protein_coding
+NC_017083	.	CDS	21673	21804	.	+	0	ID=cds-2;Parent=gene-ns2a1;Name=ns2a1;gene=ns2a1
+NC_017083	.	gene	21829	22020	.	+	.	ID=gene-ns2a2;gene_biotype=protein_coding
+NC_017083	.	CDS	21829	22020	.	+	0	ID=cds-3;Parent=gene-ns2a2;Name=ns2a2;gene=ns2a2
+NC_017083	.	gene	22126	22254	.	+	.	ID=gene-ns2a3;gene_biotype=protein_coding
+NC_017083	.	CDS	22126	22254	.	+	0	ID=cds-4;Parent=gene-ns2a3;Name=ns2a3;gene=ns2a3
+NC_017083	.	gene	22277	22492	.	+	.	ID=gene-ns2a4;gene_biotype=protein_coding
+NC_017083	.	CDS	22277	22492	.	+	0	ID=cds-5;Parent=gene-ns2a4;Name=ns2a4;gene=ns2a4
+NC_017083	.	gene	22504	23778	.	+	.	ID=gene-he;gene_biotype=protein_coding
+NC_017083	.	CDS	22504	23778	.	+	0	ID=cds-6;Parent=gene-he;Name=he;gene=he
+NC_017083	.	gene	23793	27881	.	+	.	ID=gene-S;gene_biotype=protein_coding
+NC_017083	.	CDS	23793	27881	.	+	0	ID=cds-7;Parent=gene-S;Name=S;gene=S
+NC_017083	.	gene	28178	28507	.	+	.	ID=gene-ns5a;gene_biotype=protein_coding
+NC_017083	.	CDS	28178	28507	.	+	0	ID=cds-8;Parent=gene-ns5a;Name=ns5a;gene=ns5a
+NC_017083	.	gene	28494	28763	.	+	.	ID=gene-E;gene_biotype=protein_coding
+NC_017083	.	CDS	28494	28763	.	+	0	ID=cds-9;Parent=gene-E;Name=E;gene=E
+NC_017083	.	gene	28760	29452	.	+	.	ID=gene-M;gene_biotype=protein_coding
+NC_017083	.	CDS	28760	29452	.	+	0	ID=cds-10;Parent=gene-M;Name=M;gene=M
+NC_017083	.	gene	29462	30796	.	+	.	ID=gene-N;gene_biotype=protein_coding
+NC_017083	.	CDS	29462	30796	.	+	0	ID=cds-11;Parent=gene-N;Name=N;gene=N
+NC_017083	.	gene	30762	30890	.	+	.	ID=putative-gene-12;gene_biotype=protein_coding
+NC_017083	.	CDS	30762	30890	.	+	0	ID=cds-12;Parent=putative-gene-12;Name=protein-12;gene=ORF12

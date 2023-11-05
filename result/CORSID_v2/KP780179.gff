@@ -1,0 +1,23 @@
+##gff-version 3.1.26
+##sequence-region KP780179 1 27403
+KP780179	.	gene	434	23777	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KP780179	.	CDS	434	20324	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KP780179	.	CDS	20324	23777	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KP780179	.	gene	23777	23950	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+KP780179	.	CDS	23777	23950	.	+	0	ID=cds-2;Parent=gene-3a;Name=3a;gene=3a
+KP780179	.	gene	23950	24144	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+KP780179	.	CDS	23950	24144	.	+	0	ID=cds-3;Parent=gene-3b;Name=3b;gene=3b
+KP780179	.	gene	24125	24433	.	+	.	ID=gene-3c;gene_biotype=protein_coding
+KP780179	.	CDS	24125	24433	.	+	0	ID=cds-4;Parent=gene-3c;Name=3c;gene=3c
+KP780179	.	gene	24426	25106	.	+	.	ID=gene-m;gene_biotype=protein_coding
+KP780179	.	CDS	24426	25106	.	+	0	ID=cds-5;Parent=gene-m;Name=m;gene=m
+KP780179	.	gene	25312	25473	.	+	.	ID=putative-gene-6;gene_biotype=protein_coding
+KP780179	.	CDS	25312	25473	.	+	0	ID=cds-6;Parent=putative-gene-6;Name=protein-6;gene=ORF6
+KP780179	.	gene	25457	25654	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+KP780179	.	CDS	25457	25654	.	+	0	ID=cds-7;Parent=gene-5a;Name=5a;gene=5a
+KP780179	.	gene	25651	25899	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+KP780179	.	CDS	25651	25899	.	+	0	ID=cds-8;Parent=gene-5b;Name=5b;gene=5b
+KP780179	.	gene	25842	27071	.	+	.	ID=gene-n;gene_biotype=protein_coding
+KP780179	.	CDS	25842	27071	.	+	0	ID=cds-9;Parent=gene-n;Name=n;gene=n
+KP780179	.	gene	27061	27225	.	+	.	ID=putative-gene-10;gene_biotype=protein_coding
+KP780179	.	CDS	27061	27225	.	+	0	ID=cds-10;Parent=putative-gene-10;Name=protein-10;gene=ORF10

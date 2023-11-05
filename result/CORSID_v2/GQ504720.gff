@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region GQ504720 1 27652
+GQ504720	.	gene	529	20390	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+GQ504720	.	CDS	529	12355	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+GQ504720	.	CDS	12355	20390	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+GQ504720	.	gene	20341	23850	.	+	.	ID=gene-S;gene_biotype=protein_coding
+GQ504720	.	CDS	20341	23850	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+GQ504720	.	gene	23850	24023	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+GQ504720	.	CDS	23850	24023	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+GQ504720	.	gene	24023	24217	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+GQ504720	.	CDS	24023	24217	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+GQ504720	.	gene	24198	24521	.	+	.	ID=gene-E;gene_biotype=protein_coding
+GQ504720	.	CDS	24198	24521	.	+	0	ID=cds-5;Parent=gene-E;Name=E;gene=E
+GQ504720	.	gene	24499	25170	.	+	.	ID=gene-M;gene_biotype=protein_coding
+GQ504720	.	CDS	24499	25170	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+GQ504720	.	gene	25171	25455	.	+	.	ID=gene-4b;gene_biotype=protein_coding
+GQ504720	.	CDS	25171	25455	.	+	0	ID=cds-7;Parent=gene-4b;Name=4b;gene=4b
+GQ504720	.	gene	25530	25727	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+GQ504720	.	CDS	25530	25727	.	+	0	ID=cds-8;Parent=gene-5a;Name=5a;gene=5a
+GQ504720	.	gene	25724	25972	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+GQ504720	.	CDS	25724	25972	.	+	0	ID=cds-9;Parent=gene-5b;Name=5b;gene=5b
+GQ504720	.	gene	25915	27144	.	+	.	ID=gene-N;gene_biotype=protein_coding
+GQ504720	.	CDS	25915	27144	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N
+GQ504720	.	gene	27153	27377	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+GQ504720	.	CDS	27153	27377	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11

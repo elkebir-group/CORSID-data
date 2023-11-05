@@ -1,0 +1,21 @@
+##gff-version 3.1.26
+##sequence-region FJ938052 1 29306
+FJ938052	.	gene	300	20407	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+FJ938052	.	CDS	300	12405	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+FJ938052	.	CDS	12405	20407	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+FJ938052	.	gene	20404	24810	.	+	.	ID=gene-S;gene_biotype=protein_coding
+FJ938052	.	CDS	20404	24810	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+FJ938052	.	gene	24822	25034	.	+	.	ID=gene-ns3a;gene_biotype=protein_coding
+FJ938052	.	CDS	24822	25034	.	+	0	ID=cds-3;Parent=gene-ns3a;Name=ns3a;gene=ns3a
+FJ938052	.	gene	25200	25913	.	+	.	ID=gene-ns3c;gene_biotype=protein_coding
+FJ938052	.	CDS	25200	25913	.	+	0	ID=cds-4;Parent=gene-ns3c;Name=ns3c;gene=ns3c
+FJ938052	.	gene	25900	26148	.	+	.	ID=gene-E;gene_biotype=protein_coding
+FJ938052	.	CDS	25900	26148	.	+	0	ID=cds-5;Parent=gene-E;Name=E;gene=E
+FJ938052	.	gene	26159	26950	.	+	.	ID=gene-M;gene_biotype=protein_coding
+FJ938052	.	CDS	26159	26950	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+FJ938052	.	gene	26963	28096	.	+	.	ID=gene-N;gene_biotype=protein_coding
+FJ938052	.	CDS	26963	28096	.	+	0	ID=cds-7;Parent=gene-N;Name=N;gene=N
+FJ938052	.	gene	28101	28406	.	+	.	ID=gene-ns7a;gene_biotype=protein_coding
+FJ938052	.	CDS	28101	28406	.	+	0	ID=cds-8;Parent=gene-ns7a;Name=ns7a;gene=ns7a
+FJ938052	.	gene	28411	29031	.	+	.	ID=gene-ns7b;gene_biotype=protein_coding
+FJ938052	.	CDS	28411	29031	.	+	0	ID=cds-9;Parent=gene-ns7b;Name=ns7b;gene=ns7b

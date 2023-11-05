@@ -1,0 +1,21 @@
+##gff-version 3.1.26
+##sequence-region KY352407 1 29274
+KY352407	.	gene	260	21411	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KY352407	.	CDS	260	13337	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KY352407	.	CDS	13337	21411	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KY352407	.	gene	21418	25191	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KY352407	.	CDS	21418	25191	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KY352407	.	gene	25200	26006	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+KY352407	.	CDS	25200	26006	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+KY352407	.	gene	26030	26260	.	+	.	ID=gene-E;gene_biotype=protein_coding
+KY352407	.	CDS	26030	26260	.	+	0	ID=cds-4;Parent=gene-E;Name=E;gene=E
+KY352407	.	gene	26308	26973	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KY352407	.	CDS	26308	26973	.	+	0	ID=cds-5;Parent=gene-M;Name=M;gene=M
+KY352407	.	gene	26984	27175	.	+	.	ID=gene-6;gene_biotype=protein_coding
+KY352407	.	CDS	26984	27175	.	+	0	ID=cds-6;Parent=gene-6;Name=6;gene=6
+KY352407	.	gene	27182	27541	.	+	.	ID=gene-7a;gene_biotype=protein_coding
+KY352407	.	CDS	27182	27541	.	+	0	ID=cds-7;Parent=gene-7a;Name=7a;gene=7a
+KY352407	.	gene	27541	27663	.	+	.	ID=gene-7b;gene_biotype=protein_coding
+KY352407	.	CDS	27541	27663	.	+	0	ID=cds-8;Parent=gene-7b;Name=7b;gene=7b
+KY352407	.	gene	27665	28924	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KY352407	.	CDS	27665	28924	.	+	0	ID=cds-9;Parent=gene-N;Name=N;gene=N

@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region MF421319 1 27647
+MF421319	.	gene	532	20387	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MF421319	.	CDS	532	12352	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MF421319	.	CDS	12352	20387	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MF421319	.	gene	20338	23811	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MF421319	.	CDS	20338	23811	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MF421319	.	gene	23838	24011	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+MF421319	.	CDS	23838	24011	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+MF421319	.	gene	24011	24205	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+MF421319	.	CDS	24011	24205	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+MF421319	.	gene	24186	24494	.	+	.	ID=gene-E;gene_biotype=protein_coding
+MF421319	.	CDS	24186	24494	.	+	0	ID=cds-5;Parent=gene-E;Name=E;gene=E
+MF421319	.	gene	24487	25167	.	+	.	ID=gene-M;gene_biotype=protein_coding
+MF421319	.	CDS	24487	25167	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+MF421319	.	gene	25168	25452	.	+	.	ID=gene-4b;gene_biotype=protein_coding
+MF421319	.	CDS	25168	25452	.	+	0	ID=cds-7;Parent=gene-4b;Name=4b;gene=4b
+MF421319	.	gene	25518	25715	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+MF421319	.	CDS	25518	25715	.	+	0	ID=cds-8;Parent=gene-5a;Name=5a;gene=5a
+MF421319	.	gene	25712	25960	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+MF421319	.	CDS	25712	25960	.	+	0	ID=cds-9;Parent=gene-5b;Name=5b;gene=5b
+MF421319	.	gene	25903	27132	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MF421319	.	CDS	25903	27132	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N
+MF421319	.	gene	27141	27365	.	+	.	ID=gene-6b;gene_biotype=protein_coding
+MF421319	.	CDS	27141	27365	.	+	0	ID=cds-11;Parent=gene-6b;Name=6b;gene=6b

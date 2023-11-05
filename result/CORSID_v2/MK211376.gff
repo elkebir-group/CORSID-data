@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region MK211376 1 30256
+MK211376	.	gene	264	21484	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MK211376	.	CDS	264	13410	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MK211376	.	CDS	13410	21484	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MK211376	.	gene	21491	25261	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MK211376	.	CDS	21491	25261	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MK211376	.	gene	25270	26094	.	+	.	ID=putative-gene-3;gene_biotype=protein_coding
+MK211376	.	CDS	25270	26094	.	+	0	ID=cds-3;Parent=putative-gene-3;Name=protein-3;gene=ORF3
+MK211376	.	gene	26119	26349	.	+	.	ID=gene-small E;gene_biotype=protein_coding
+MK211376	.	CDS	26119	26349	.	+	0	ID=cds-4;Parent=gene-small E;Name=small E;gene=small E
+MK211376	.	gene	26400	27065	.	+	.	ID=gene-matrix;gene_biotype=protein_coding
+MK211376	.	CDS	26400	27065	.	+	0	ID=cds-5;Parent=gene-matrix;Name=matrix;gene=matrix
+MK211376	.	gene	27076	27267	.	+	.	ID=putative-gene-6;gene_biotype=protein_coding
+MK211376	.	CDS	27076	27267	.	+	0	ID=cds-6;Parent=putative-gene-6;Name=protein-6;gene=ORF6
+MK211376	.	gene	27281	27790	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+MK211376	.	CDS	27281	27790	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7
+MK211376	.	gene	27797	28165	.	+	.	ID=putative-gene-8;gene_biotype=protein_coding
+MK211376	.	CDS	27797	28165	.	+	0	ID=cds-8;Parent=putative-gene-8;Name=protein-8;gene=ORF8
+MK211376	.	gene	28162	28296	.	+	.	ID=putative-gene-9;gene_biotype=protein_coding
+MK211376	.	CDS	28162	28296	.	+	0	ID=cds-9;Parent=putative-gene-9;Name=protein-9;gene=ORF9
+MK211376	.	gene	28303	28668	.	+	.	ID=putative-gene-10;gene_biotype=protein_coding
+MK211376	.	CDS	28303	28668	.	+	0	ID=cds-10;Parent=putative-gene-10;Name=protein-10;gene=ORF10
+MK211376	.	gene	28683	29951	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MK211376	.	CDS	28683	29951	.	+	0	ID=cds-11;Parent=gene-N;Name=N;gene=N

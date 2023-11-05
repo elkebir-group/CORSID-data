@@ -1,0 +1,31 @@
+##gff-version 3.1.26
+##sequence-region NC_046965 1 28539
+NC_046965	.	gene	554	20085	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+NC_046965	.	CDS	554	12029	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+NC_046965	.	CDS	12029	20085	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+NC_046965	.	gene	20069	23623	.	+	.	ID=gene-S;gene_biotype=protein_coding
+NC_046965	.	CDS	20069	23623	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+NC_046965	.	gene	23616	23777	.	+	.	ID=gene-3;gene_biotype=protein_coding
+NC_046965	.	CDS	23616	23777	.	+	0	ID=cds-3;Parent=gene-3;Name=3;gene=3
+NC_046965	.	gene	23786	23953	.	+	.	ID=gene-4a;gene_biotype=protein_coding
+NC_046965	.	CDS	23786	23953	.	+	0	ID=cds-4;Parent=gene-4a;Name=4a;gene=4a
+NC_046965	.	gene	23947	24198	.	+	.	ID=putative-gene-5;gene_biotype=protein_coding
+NC_046965	.	CDS	23947	24198	.	+	0	ID=cds-5;Parent=putative-gene-5;Name=protein-5;gene=ORF5
+NC_046965	.	gene	24212	24892	.	+	.	ID=gene-M;gene_biotype=protein_coding
+NC_046965	.	CDS	24212	24892	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+NC_046965	.	gene	24892	25158	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+NC_046965	.	CDS	24892	25158	.	+	0	ID=cds-7;Parent=gene-5b;Name=5b;gene=5b
+NC_046965	.	gene	25155	25346	.	+	.	ID=gene-6;gene_biotype=protein_coding
+NC_046965	.	CDS	25155	25346	.	+	0	ID=cds-8;Parent=gene-6;Name=6;gene=6
+NC_046965	.	gene	25354	25632	.	+	.	ID=gene-7a;gene_biotype=protein_coding
+NC_046965	.	CDS	25354	25632	.	+	0	ID=cds-9;Parent=gene-7a;Name=7a;gene=7a
+NC_046965	.	gene	25767	25967	.	+	.	ID=gene-8a;gene_biotype=protein_coding
+NC_046965	.	CDS	25767	25967	.	+	0	ID=cds-10;Parent=gene-8a;Name=8a;gene=8a
+NC_046965	.	gene	25964	26221	.	+	.	ID=gene-8b;gene_biotype=protein_coding
+NC_046965	.	CDS	25964	26221	.	+	0	ID=cds-11;Parent=gene-8b;Name=8b;gene=8b
+NC_046965	.	gene	26149	27393	.	+	.	ID=gene-N;gene_biotype=protein_coding
+NC_046965	.	CDS	26149	27393	.	+	0	ID=cds-12;Parent=gene-N;Name=N;gene=N
+NC_046965	.	gene	27404	27691	.	+	.	ID=putative-gene-13;gene_biotype=protein_coding
+NC_046965	.	CDS	27404	27691	.	+	0	ID=cds-13;Parent=putative-gene-13;Name=protein-13;gene=ORF13
+NC_046965	.	gene	27702	28211	.	+	.	ID=putative-gene-14;gene_biotype=protein_coding
+NC_046965	.	CDS	27702	28211	.	+	0	ID=cds-14;Parent=putative-gene-14;Name=protein-14;gene=ORF14

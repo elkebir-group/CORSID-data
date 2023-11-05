@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region MK309398 1 27686
+MK309398	.	gene	526	20420	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MK309398	.	CDS	526	12385	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MK309398	.	CDS	12385	20420	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MK309398	.	gene	20371	23883	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MK309398	.	CDS	20371	23883	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MK309398	.	gene	23883	24056	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+MK309398	.	CDS	23883	24056	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+MK309398	.	gene	24056	24244	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+MK309398	.	CDS	24056	24244	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+MK309398	.	gene	24225	24536	.	+	.	ID=gene-E;gene_biotype=protein_coding
+MK309398	.	CDS	24225	24536	.	+	0	ID=cds-5;Parent=gene-E;Name=E;gene=E
+MK309398	.	gene	24526	25206	.	+	.	ID=gene-M;gene_biotype=protein_coding
+MK309398	.	CDS	24526	25206	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+MK309398	.	gene	25207	25491	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+MK309398	.	CDS	25207	25491	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7
+MK309398	.	gene	25570	25767	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+MK309398	.	CDS	25570	25767	.	+	0	ID=cds-8;Parent=gene-5a;Name=5a;gene=5a
+MK309398	.	gene	25764	26012	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+MK309398	.	CDS	25764	26012	.	+	0	ID=cds-9;Parent=gene-5b;Name=5b;gene=5b
+MK309398	.	gene	25955	27181	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MK309398	.	CDS	25955	27181	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N
+MK309398	.	gene	27190	27411	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+MK309398	.	CDS	27190	27411	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11

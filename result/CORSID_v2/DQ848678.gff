@@ -1,0 +1,21 @@
+##gff-version 3.1.26
+##sequence-region DQ848678 1 29277
+DQ848678	.	gene	311	20391	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+DQ848678	.	CDS	311	12389	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+DQ848678	.	CDS	12389	20391	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+DQ848678	.	gene	20388	24791	.	+	.	ID=gene-S;gene_biotype=protein_coding
+DQ848678	.	CDS	20388	24791	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+DQ848678	.	gene	24803	25015	.	+	.	ID=putative-gene-3;gene_biotype=protein_coding
+DQ848678	.	CDS	24803	25015	.	+	0	ID=cds-3;Parent=putative-gene-3;Name=protein-3;gene=ORF3
+DQ848678	.	gene	25391	25705	.	+	.	ID=putative-gene-4;gene_biotype=protein_coding
+DQ848678	.	CDS	25391	25705	.	+	0	ID=cds-4;Parent=putative-gene-4;Name=protein-4;gene=ORF4
+DQ848678	.	gene	25846	26100	.	+	.	ID=putative-gene-5;gene_biotype=protein_coding
+DQ848678	.	CDS	25846	26100	.	+	0	ID=cds-5;Parent=putative-gene-5;Name=protein-5;gene=ORF5
+DQ848678	.	gene	26111	26902	.	+	.	ID=gene-M;gene_biotype=protein_coding
+DQ848678	.	CDS	26111	26902	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+DQ848678	.	gene	26915	28045	.	+	.	ID=gene-N;gene_biotype=protein_coding
+DQ848678	.	CDS	26915	28045	.	+	0	ID=cds-7;Parent=gene-N;Name=N;gene=N
+DQ848678	.	gene	28050	28355	.	+	.	ID=putative-gene-8;gene_biotype=protein_coding
+DQ848678	.	CDS	28050	28355	.	+	0	ID=cds-8;Parent=putative-gene-8;Name=protein-8;gene=ORF8
+DQ848678	.	gene	28360	28980	.	+	.	ID=putative-gene-9;gene_biotype=protein_coding
+DQ848678	.	CDS	28360	28980	.	+	0	ID=cds-9;Parent=putative-gene-9;Name=protein-9;gene=ORF9

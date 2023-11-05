@@ -1,0 +1,23 @@
+##gff-version 3.1.26
+##sequence-region MK142676 1 27718
+MK142676	.	gene	514	20408	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MK142676	.	CDS	514	12373	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MK142676	.	CDS	12373	20408	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MK142676	.	gene	20359	23976	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MK142676	.	CDS	20359	23976	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MK142676	.	gene	23976	24119	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+MK142676	.	CDS	23976	24119	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+MK142676	.	gene	24266	24547	.	+	.	ID=gene-3c;gene_biotype=protein_coding
+MK142676	.	CDS	24266	24547	.	+	0	ID=cds-4;Parent=gene-3c;Name=3c;gene=3c
+MK142676	.	gene	24544	25212	.	+	.	ID=gene-M;gene_biotype=protein_coding
+MK142676	.	CDS	24544	25212	.	+	0	ID=cds-5;Parent=gene-M;Name=M;gene=M
+MK142676	.	gene	25213	25497	.	+	.	ID=gene-4b;gene_biotype=protein_coding
+MK142676	.	CDS	25213	25497	.	+	0	ID=cds-6;Parent=gene-4b;Name=4b;gene=4b
+MK142676	.	gene	25576	25773	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+MK142676	.	CDS	25576	25773	.	+	0	ID=cds-7;Parent=gene-5a;Name=5a;gene=5a
+MK142676	.	gene	25770	26018	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+MK142676	.	CDS	25770	26018	.	+	0	ID=cds-8;Parent=gene-5b;Name=5b;gene=5b
+MK142676	.	gene	25961	27190	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MK142676	.	CDS	25961	27190	.	+	0	ID=cds-9;Parent=gene-N;Name=N;gene=N
+MK142676	.	gene	27199	27420	.	+	.	ID=gene-6b;gene_biotype=protein_coding
+MK142676	.	CDS	27199	27420	.	+	0	ID=cds-10;Parent=gene-6b;Name=6b;gene=6b

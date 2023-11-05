@@ -1,0 +1,27 @@
+##gff-version 3.1.26
+##sequence-region MH810163 1 31032
+MH810163	.	gene	211	21494	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MH810163	.	CDS	211	13360	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MH810163	.	CDS	13360	21494	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MH810163	.	gene	21504	22091	.	+	.	ID=putative-gene-2;gene_biotype=protein_coding
+MH810163	.	CDS	21504	22091	.	+	0	ID=cds-2;Parent=putative-gene-2;Name=protein-2;gene=ORF2
+MH810163	.	gene	22183	22293	.	+	.	ID=putative-gene-3;gene_biotype=protein_coding
+MH810163	.	CDS	22183	22293	.	+	0	ID=cds-3;Parent=putative-gene-3;Name=protein-3;gene=ORF3
+MH810163	.	gene	22352	23626	.	+	.	ID=gene-he;gene_biotype=protein_coding
+MH810163	.	CDS	22352	23626	.	+	0	ID=cds-4;Parent=gene-he;Name=he;gene=he
+MH810163	.	gene	23641	27732	.	+	.	ID=gene-s;gene_biotype=protein_coding
+MH810163	.	CDS	23641	27732	.	+	0	ID=cds-5;Parent=gene-s;Name=s;gene=s
+MH810163	.	gene	27722	27853	.	+	.	ID=putative-gene-6;gene_biotype=protein_coding
+MH810163	.	CDS	27722	27853	.	+	0	ID=cds-6;Parent=putative-gene-6;Name=protein-6;gene=ORF6
+MH810163	.	gene	27889	28026	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+MH810163	.	CDS	27889	28026	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7
+MH810163	.	gene	28110	28439	.	+	.	ID=putative-gene-8;gene_biotype=protein_coding
+MH810163	.	CDS	28110	28439	.	+	0	ID=cds-8;Parent=putative-gene-8;Name=protein-8;gene=ORF8
+MH810163	.	gene	28426	28680	.	+	.	ID=gene-e;gene_biotype=protein_coding
+MH810163	.	CDS	28426	28680	.	+	0	ID=cds-9;Parent=gene-e;Name=e;gene=e
+MH810163	.	gene	28695	29387	.	+	.	ID=gene-m;gene_biotype=protein_coding
+MH810163	.	CDS	28695	29387	.	+	0	ID=cds-10;Parent=gene-m;Name=m;gene=m
+MH810163	.	gene	29397	30743	.	+	.	ID=gene-n;gene_biotype=protein_coding
+MH810163	.	CDS	29397	30743	.	+	0	ID=cds-11;Parent=gene-n;Name=n;gene=n
+MH810163	.	gene	30895	30999	.	+	.	ID=putative-gene-12;gene_biotype=protein_coding
+MH810163	.	CDS	30895	30999	.	+	0	ID=cds-12;Parent=putative-gene-12;Name=protein-12;gene=ORF12

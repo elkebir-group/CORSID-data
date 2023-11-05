@@ -1,0 +1,17 @@
+##gff-version 3.1.26
+##sequence-region KJ473797 1 28758
+KJ473797	.	gene	271	20960	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KJ473797	.	CDS	271	12964	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KJ473797	.	CDS	12964	20960	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KJ473797	.	gene	20962	25098	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KJ473797	.	CDS	20962	25098	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KJ473797	.	gene	25098	25766	.	+	.	ID=gene-3?;gene_biotype=protein_coding
+KJ473797	.	CDS	25098	25766	.	+	0	ID=cds-3;Parent=gene-3?;Name=3?;gene=3?
+KJ473797	.	gene	25750	25974	.	+	.	ID=gene-small E;gene_biotype=protein_coding
+KJ473797	.	CDS	25750	25974	.	+	0	ID=cds-4;Parent=gene-small E;Name=small E;gene=small E
+KJ473797	.	gene	25984	26742	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KJ473797	.	CDS	25984	26742	.	+	0	ID=cds-5;Parent=gene-M;Name=M;gene=M
+KJ473797	.	gene	26791	28059	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KJ473797	.	CDS	26791	28059	.	+	0	ID=cds-6;Parent=gene-N;Name=N;gene=N
+KJ473797	.	gene	28079	28528	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+KJ473797	.	CDS	28079	28528	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7

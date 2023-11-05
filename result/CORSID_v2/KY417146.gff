@@ -1,0 +1,23 @@
+##gff-version 3.1.26
+##sequence-region KY417146 1 29782
+KY417146	.	gene	265	21485	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KY417146	.	CDS	265	13411	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KY417146	.	CDS	13411	21485	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KY417146	.	gene	21493	25260	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KY417146	.	CDS	21493	25260	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KY417146	.	gene	25269	26093	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+KY417146	.	CDS	25269	26093	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+KY417146	.	gene	26118	26348	.	+	.	ID=gene-small E;gene_biotype=protein_coding
+KY417146	.	CDS	26118	26348	.	+	0	ID=cds-4;Parent=gene-small E;Name=small E;gene=small E
+KY417146	.	gene	26399	27064	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KY417146	.	CDS	26399	27064	.	+	0	ID=cds-5;Parent=gene-M;Name=M;gene=M
+KY417146	.	gene	27075	27266	.	+	.	ID=gene-6;gene_biotype=protein_coding
+KY417146	.	CDS	27075	27266	.	+	0	ID=cds-6;Parent=gene-6;Name=6;gene=6
+KY417146	.	gene	27274	27642	.	+	.	ID=gene-7a;gene_biotype=protein_coding
+KY417146	.	CDS	27274	27642	.	+	0	ID=cds-7;Parent=gene-7a;Name=7a;gene=7a
+KY417146	.	gene	27639	27773	.	+	.	ID=gene-7b;gene_biotype=protein_coding
+KY417146	.	CDS	27639	27773	.	+	0	ID=cds-8;Parent=gene-7b;Name=7b;gene=7b
+KY417146	.	gene	27780	28145	.	+	.	ID=gene-8;gene_biotype=protein_coding
+KY417146	.	CDS	27780	28145	.	+	0	ID=cds-9;Parent=gene-8;Name=8;gene=8
+KY417146	.	gene	28160	29428	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KY417146	.	CDS	28160	29428	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N

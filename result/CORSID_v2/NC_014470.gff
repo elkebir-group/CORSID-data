@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region NC_014470 1 29276
+NC_014470	.	gene	191	21384	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+NC_014470	.	CDS	191	13310	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+NC_014470	.	CDS	13310	21384	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+NC_014470	.	gene	21440	21604	.	+	.	ID=putative-gene-2;gene_biotype=protein_coding
+NC_014470	.	CDS	21440	21604	.	+	0	ID=cds-2;Parent=putative-gene-2;Name=protein-2;gene=ORF2
+NC_014470	.	gene	21922	25170	.	+	.	ID=putative-gene-3;gene_biotype=protein_coding
+NC_014470	.	CDS	21922	25170	.	+	0	ID=cds-3;Parent=putative-gene-3;Name=protein-3;gene=ORF3
+NC_014470	.	gene	25179	25994	.	+	.	ID=gene-3;gene_biotype=protein_coding
+NC_014470	.	CDS	25179	25994	.	+	0	ID=cds-4;Parent=gene-3;Name=3;gene=3
+NC_014470	.	gene	26018	26248	.	+	.	ID=gene-E;gene_biotype=protein_coding
+NC_014470	.	CDS	26018	26248	.	+	0	ID=cds-5;Parent=gene-E;Name=E;gene=E
+NC_014470	.	gene	26299	26982	.	+	.	ID=gene-M;gene_biotype=protein_coding
+NC_014470	.	CDS	26299	26982	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+NC_014470	.	gene	26993	27181	.	+	.	ID=gene-6;gene_biotype=protein_coding
+NC_014470	.	CDS	26993	27181	.	+	0	ID=cds-7;Parent=gene-6;Name=6;gene=6
+NC_014470	.	gene	27188	27544	.	+	.	ID=gene-7a;gene_biotype=protein_coding
+NC_014470	.	CDS	27188	27544	.	+	0	ID=cds-8;Parent=gene-7a;Name=7a;gene=7a
+NC_014470	.	gene	27541	27663	.	+	.	ID=gene-7b;gene_biotype=protein_coding
+NC_014470	.	CDS	27541	27663	.	+	0	ID=cds-9;Parent=gene-7b;Name=7b;gene=7b
+NC_014470	.	gene	27837	27965	.	+	.	ID=putative-gene-10;gene_biotype=protein_coding
+NC_014470	.	CDS	27837	27965	.	+	0	ID=cds-10;Parent=putative-gene-10;Name=protein-10;gene=ORF10
+NC_014470	.	gene	27962	28918	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+NC_014470	.	CDS	27962	28918	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11

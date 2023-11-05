@@ -1,0 +1,21 @@
+##gff-version 3.1.26
+##sequence-region KC869678 1 30111
+KC869678	.	gene	281	21528	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KC869678	.	CDS	281	13463	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KC869678	.	CDS	13463	21528	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KC869678	.	gene	21470	25504	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KC869678	.	CDS	21470	25504	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KC869678	.	gene	25519	25830	.	+	.	ID=gene-3;gene_biotype=protein_coding
+KC869678	.	CDS	25519	25830	.	+	0	ID=cds-3;Parent=gene-3;Name=3;gene=3
+KC869678	.	gene	25839	26168	.	+	.	ID=gene-4a;gene_biotype=protein_coding
+KC869678	.	CDS	25839	26168	.	+	0	ID=cds-4;Parent=gene-4a;Name=4a;gene=4a
+KC869678	.	gene	26275	26820	.	+	.	ID=putative-gene-5;gene_biotype=protein_coding
+KC869678	.	CDS	26275	26820	.	+	0	ID=cds-5;Parent=putative-gene-5;Name=protein-5;gene=ORF5
+KC869678	.	gene	26827	27501	.	+	.	ID=gene-5;gene_biotype=protein_coding
+KC869678	.	CDS	26827	27501	.	+	0	ID=cds-6;Parent=gene-5;Name=5;gene=5
+KC869678	.	gene	27577	27825	.	+	.	ID=gene-E;gene_biotype=protein_coding
+KC869678	.	CDS	27577	27825	.	+	0	ID=cds-7;Parent=gene-E;Name=E;gene=E
+KC869678	.	gene	27840	28499	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KC869678	.	CDS	27840	28499	.	+	0	ID=cds-8;Parent=gene-M;Name=M;gene=M
+KC869678	.	gene	28557	29801	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KC869678	.	CDS	28557	29801	.	+	0	ID=cds-9;Parent=gene-N;Name=N;gene=N

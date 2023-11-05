@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region MN996532 1 29855
+MN996532	.	gene	251	21537	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MN996532	.	CDS	251	13463	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MN996532	.	CDS	13463	21537	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MN996532	.	gene	21545	25354	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MN996532	.	CDS	21545	25354	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MN996532	.	gene	25363	26190	.	+	.	ID=gene-ns3;gene_biotype=protein_coding
+MN996532	.	CDS	25363	26190	.	+	0	ID=cds-3;Parent=gene-ns3;Name=ns3;gene=ns3
+MN996532	.	gene	26215	26442	.	+	.	ID=gene-E;gene_biotype=protein_coding
+MN996532	.	CDS	26215	26442	.	+	0	ID=cds-4;Parent=gene-E;Name=E;gene=E
+MN996532	.	gene	26493	27158	.	+	.	ID=gene-M;gene_biotype=protein_coding
+MN996532	.	CDS	26493	27158	.	+	0	ID=cds-5;Parent=gene-M;Name=M;gene=M
+MN996532	.	gene	27169	27354	.	+	.	ID=gene-ns6;gene_biotype=protein_coding
+MN996532	.	CDS	27169	27354	.	+	0	ID=cds-6;Parent=gene-ns6;Name=ns6;gene=ns6
+MN996532	.	gene	27360	27725	.	+	.	ID=gene-ns7a;gene_biotype=protein_coding
+MN996532	.	CDS	27360	27725	.	+	0	ID=cds-7;Parent=gene-ns7a;Name=ns7a;gene=ns7a
+MN996532	.	gene	27722	27853	.	+	.	ID=gene-ns7b;gene_biotype=protein_coding
+MN996532	.	CDS	27722	27853	.	+	0	ID=cds-8;Parent=gene-ns7b;Name=ns7b;gene=ns7b
+MN996532	.	gene	27860	28225	.	+	.	ID=gene-ns8;gene_biotype=protein_coding
+MN996532	.	CDS	27860	28225	.	+	0	ID=cds-9;Parent=gene-ns8;Name=ns8;gene=ns8
+MN996532	.	gene	28240	29499	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MN996532	.	CDS	28240	29499	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N
+MN996532	.	gene	29524	29640	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+MN996532	.	CDS	29524	29640	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11

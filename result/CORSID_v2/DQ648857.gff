@@ -1,0 +1,23 @@
+##gff-version 3.1.26
+##sequence-region DQ648857 1 29741
+DQ648857	.	gene	264	21502	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+DQ648857	.	CDS	264	13428	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+DQ648857	.	CDS	13428	21502	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+DQ648857	.	gene	21509	25234	.	+	.	ID=gene-S;gene_biotype=protein_coding
+DQ648857	.	CDS	21509	25234	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+DQ648857	.	gene	25244	26068	.	+	.	ID=gene-3??;gene_biotype=protein_coding
+DQ648857	.	CDS	25244	26068	.	+	0	ID=cds-3;Parent=gene-3??;Name=3??;gene=3??
+DQ648857	.	gene	26093	26323	.	+	.	ID=gene-E;gene_biotype=protein_coding
+DQ648857	.	CDS	26093	26323	.	+	0	ID=cds-4;Parent=gene-E;Name=E;gene=E
+DQ648857	.	gene	26374	27039	.	+	.	ID=gene-matrix;gene_biotype=protein_coding
+DQ648857	.	CDS	26374	27039	.	+	0	ID=cds-5;Parent=gene-matrix;Name=matrix;gene=matrix
+DQ648857	.	gene	27050	27241	.	+	.	ID=gene-6??;gene_biotype=protein_coding
+DQ648857	.	CDS	27050	27241	.	+	0	ID=cds-6;Parent=gene-6??;Name=6??;gene=6??
+DQ648857	.	gene	27249	27617	.	+	.	ID=gene-7??;gene_biotype=protein_coding
+DQ648857	.	CDS	27249	27617	.	+	0	ID=cds-7;Parent=gene-7??;Name=7??;gene=7??
+DQ648857	.	gene	27614	27748	.	+	.	ID=putative-gene-8;gene_biotype=protein_coding
+DQ648857	.	CDS	27614	27748	.	+	0	ID=cds-8;Parent=putative-gene-8;Name=protein-8;gene=ORF8
+DQ648857	.	gene	27755	28120	.	+	.	ID=gene-8??;gene_biotype=protein_coding
+DQ648857	.	CDS	27755	28120	.	+	0	ID=cds-9;Parent=gene-8??;Name=8??;gene=8??
+DQ648857	.	gene	28135	29397	.	+	.	ID=gene-N;gene_biotype=protein_coding
+DQ648857	.	CDS	28135	29397	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N

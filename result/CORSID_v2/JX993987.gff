@@ -1,0 +1,31 @@
+##gff-version 3.1.26
+##sequence-region JX993987 1 29484
+JX993987	.	gene	191	21387	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+JX993987	.	CDS	191	13313	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+JX993987	.	CDS	13313	21387	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+JX993987	.	gene	21394	25116	.	+	.	ID=gene-S;gene_biotype=protein_coding
+JX993987	.	CDS	21394	25116	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+JX993987	.	gene	25190	25312	.	+	.	ID=putative-gene-3;gene_biotype=protein_coding
+JX993987	.	CDS	25190	25312	.	+	0	ID=cds-3;Parent=putative-gene-3;Name=protein-3;gene=ORF3
+JX993987	.	gene	25547	25729	.	+	.	ID=putative-gene-4;gene_biotype=protein_coding
+JX993987	.	CDS	25547	25729	.	+	0	ID=cds-4;Parent=putative-gene-4;Name=protein-4;gene=ORF4
+JX993987	.	gene	25736	25846	.	+	.	ID=putative-gene-5;gene_biotype=protein_coding
+JX993987	.	CDS	25736	25846	.	+	0	ID=cds-5;Parent=putative-gene-5;Name=protein-5;gene=ORF5
+JX993987	.	gene	25975	26205	.	+	.	ID=gene-E;gene_biotype=protein_coding
+JX993987	.	CDS	25975	26205	.	+	0	ID=cds-6;Parent=gene-E;Name=E;gene=E
+JX993987	.	gene	26256	26921	.	+	.	ID=gene-M;gene_biotype=protein_coding
+JX993987	.	CDS	26256	26921	.	+	0	ID=cds-7;Parent=gene-M;Name=M;gene=M
+JX993987	.	gene	26932	27123	.	+	.	ID=putative-gene-8;gene_biotype=protein_coding
+JX993987	.	CDS	26932	27123	.	+	0	ID=cds-8;Parent=putative-gene-8;Name=protein-8;gene=ORF8
+JX993987	.	gene	27131	27499	.	+	.	ID=putative-gene-9;gene_biotype=protein_coding
+JX993987	.	CDS	27131	27499	.	+	0	ID=cds-9;Parent=putative-gene-9;Name=protein-9;gene=ORF9
+JX993987	.	gene	27496	27630	.	+	.	ID=putative-gene-10;gene_biotype=protein_coding
+JX993987	.	CDS	27496	27630	.	+	0	ID=cds-10;Parent=putative-gene-10;Name=protein-10;gene=ORF10
+JX993987	.	gene	27637	28002	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+JX993987	.	CDS	27637	28002	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11
+JX993987	.	gene	28102	28320	.	+	.	ID=putative-gene-12;gene_biotype=protein_coding
+JX993987	.	CDS	28102	28320	.	+	0	ID=cds-12;Parent=putative-gene-12;Name=protein-12;gene=ORF12
+JX993987	.	gene	28477	28689	.	+	.	ID=putative-gene-13;gene_biotype=protein_coding
+JX993987	.	CDS	28477	28689	.	+	0	ID=cds-13;Parent=putative-gene-13;Name=protein-13;gene=ORF13
+JX993987	.	gene	28965	29279	.	+	.	ID=putative-gene-14;gene_biotype=protein_coding
+JX993987	.	CDS	28965	29279	.	+	0	ID=cds-14;Parent=putative-gene-14;Name=protein-14;gene=ORF14

@@ -1,0 +1,21 @@
+##gff-version 3.1.26
+##sequence-region JN183882 1 29243
+JN183882	.	gene	269	20364	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+JN183882	.	CDS	269	12362	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+JN183882	.	CDS	12362	20364	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+JN183882	.	gene	20361	24770	.	+	.	ID=gene-S;gene_biotype=protein_coding
+JN183882	.	CDS	20361	24770	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+JN183882	.	gene	24782	24994	.	+	.	ID=gene-ns3a;gene_biotype=protein_coding
+JN183882	.	CDS	24782	24994	.	+	0	ID=cds-3;Parent=gene-ns3a;Name=ns3a;gene=ns3a
+JN183882	.	gene	25160	25771	.	+	.	ID=putative-gene-4;gene_biotype=protein_coding
+JN183882	.	CDS	25160	25771	.	+	0	ID=cds-4;Parent=putative-gene-4;Name=protein-4;gene=ORF4
+JN183882	.	gene	25857	26105	.	+	.	ID=gene-E;gene_biotype=protein_coding
+JN183882	.	CDS	25857	26105	.	+	0	ID=cds-5;Parent=gene-E;Name=E;gene=E
+JN183882	.	gene	26116	26907	.	+	.	ID=gene-M;gene_biotype=protein_coding
+JN183882	.	CDS	26116	26907	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+JN183882	.	gene	26920	28053	.	+	.	ID=gene-N;gene_biotype=protein_coding
+JN183882	.	CDS	26920	28053	.	+	0	ID=cds-7;Parent=gene-N;Name=N;gene=N
+JN183882	.	gene	28058	28363	.	+	.	ID=gene-ns7a;gene_biotype=protein_coding
+JN183882	.	CDS	28058	28363	.	+	0	ID=cds-8;Parent=gene-ns7a;Name=ns7a;gene=ns7a
+JN183882	.	gene	28368	28988	.	+	.	ID=gene-ns7b;gene_biotype=protein_coding
+JN183882	.	CDS	28368	28988	.	+	0	ID=cds-9;Parent=gene-ns7b;Name=ns7b;gene=ns7b

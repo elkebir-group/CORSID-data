@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region KY421672 1 27679
+KY421672	.	gene	527	20421	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KY421672	.	CDS	527	12386	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KY421672	.	CDS	12386	20421	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KY421672	.	gene	20372	23869	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KY421672	.	CDS	20372	23869	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KY421672	.	gene	23869	24042	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+KY421672	.	CDS	23869	24042	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+KY421672	.	gene	24042	24230	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+KY421672	.	CDS	24042	24230	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+KY421672	.	gene	24217	24543	.	+	.	ID=gene-E;gene_biotype=protein_coding
+KY421672	.	CDS	24217	24543	.	+	0	ID=cds-5;Parent=gene-E;Name=E;gene=E
+KY421672	.	gene	24515	25192	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KY421672	.	CDS	24515	25192	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+KY421672	.	gene	25193	25477	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+KY421672	.	CDS	25193	25477	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7
+KY421672	.	gene	25556	25753	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+KY421672	.	CDS	25556	25753	.	+	0	ID=cds-8;Parent=gene-5a;Name=5a;gene=5a
+KY421672	.	gene	25750	25998	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+KY421672	.	CDS	25750	25998	.	+	0	ID=cds-9;Parent=gene-5b;Name=5b;gene=5b
+KY421672	.	gene	25941	27170	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KY421672	.	CDS	25941	27170	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N
+KY421672	.	gene	27179	27400	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+KY421672	.	CDS	27179	27400	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11

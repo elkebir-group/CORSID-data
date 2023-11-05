@@ -1,0 +1,15 @@
+##gff-version 3.1.26
+##sequence-region KX443143 1 25404
+KX443143	.	gene	540	19327	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KX443143	.	CDS	540	11403	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KX443143	.	CDS	11403	19327	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KX443143	.	gene	19309	22788	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KX443143	.	CDS	19309	22788	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KX443143	.	gene	22782	23033	.	+	.	ID=gene-E;gene_biotype=protein_coding
+KX443143	.	CDS	22782	23033	.	+	0	ID=cds-3;Parent=gene-E;Name=E;gene=E
+KX443143	.	gene	23026	23679	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KX443143	.	CDS	23026	23679	.	+	0	ID=cds-4;Parent=gene-M;Name=M;gene=M
+KX443143	.	gene	23679	23963	.	+	.	ID=gene-ns6;gene_biotype=protein_coding
+KX443143	.	CDS	23679	23963	.	+	0	ID=cds-5;Parent=gene-ns6;Name=ns6;gene=ns6
+KX443143	.	gene	23984	25012	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KX443143	.	CDS	23984	25012	.	+	0	ID=cds-6;Parent=gene-N;Name=N;gene=N

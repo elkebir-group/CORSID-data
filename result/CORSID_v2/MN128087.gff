@@ -1,0 +1,23 @@
+##gff-version 3.1.26
+##sequence-region MN128087 1 27755
+MN128087	.	gene	528	20488	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MN128087	.	CDS	528	12453	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MN128087	.	CDS	12453	20488	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MN128087	.	gene	20439	23936	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MN128087	.	CDS	20439	23936	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MN128087	.	gene	23936	24109	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+MN128087	.	CDS	23936	24109	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+MN128087	.	gene	24109	24303	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+MN128087	.	CDS	24109	24303	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+MN128087	.	gene	24534	25262	.	+	.	ID=putative-gene-5;gene_biotype=protein_coding
+MN128087	.	CDS	24534	25262	.	+	0	ID=cds-5;Parent=putative-gene-5;Name=protein-5;gene=ORF5
+MN128087	.	gene	25263	25547	.	+	.	ID=putative-gene-6;gene_biotype=protein_coding
+MN128087	.	CDS	25263	25547	.	+	0	ID=cds-6;Parent=putative-gene-6;Name=protein-6;gene=ORF6
+MN128087	.	gene	25622	25819	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+MN128087	.	CDS	25622	25819	.	+	0	ID=cds-7;Parent=gene-5a;Name=5a;gene=5a
+MN128087	.	gene	25816	26064	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+MN128087	.	CDS	25816	26064	.	+	0	ID=cds-8;Parent=gene-5b;Name=5b;gene=5b
+MN128087	.	gene	26007	27236	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MN128087	.	CDS	26007	27236	.	+	0	ID=cds-9;Parent=gene-N;Name=N;gene=N
+MN128087	.	gene	27245	27466	.	+	.	ID=putative-gene-10;gene_biotype=protein_coding
+MN128087	.	CDS	27245	27466	.	+	0	ID=cds-10;Parent=putative-gene-10;Name=protein-10;gene=ORF10

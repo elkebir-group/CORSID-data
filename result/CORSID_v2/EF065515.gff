@@ -1,0 +1,19 @@
+##gff-version 3.1.26
+##sequence-region EF065515 1 29136
+EF065515	.	gene	229	20999	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+EF065515	.	CDS	229	12958	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+EF065515	.	CDS	12958	20999	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+EF065515	.	gene	20959	24768	.	+	.	ID=gene-S;gene_biotype=protein_coding
+EF065515	.	CDS	20959	24768	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+EF065515	.	gene	24765	25457	.	+	.	ID=gene-ns3;gene_biotype=protein_coding
+EF065515	.	CDS	24765	25457	.	+	0	ID=cds-3;Parent=gene-ns3;Name=ns3;gene=ns3
+EF065515	.	gene	25457	25687	.	+	.	ID=gene-E;gene_biotype=protein_coding
+EF065515	.	CDS	25457	25687	.	+	0	ID=cds-4;Parent=gene-E;Name=E;gene=E
+EF065515	.	gene	25693	26355	.	+	.	ID=gene-M;gene_biotype=protein_coding
+EF065515	.	CDS	25693	26355	.	+	0	ID=cds-5;Parent=gene-M;Name=M;gene=M
+EF065515	.	gene	26418	27824	.	+	.	ID=gene-N;gene_biotype=protein_coding
+EF065515	.	CDS	26418	27824	.	+	0	ID=cds-6;Parent=gene-N;Name=N;gene=N
+EF065515	.	gene	27861	28457	.	+	.	ID=gene-ns7a;gene_biotype=protein_coding
+EF065515	.	CDS	27861	28457	.	+	0	ID=cds-7;Parent=gene-ns7a;Name=ns7a;gene=ns7a
+EF065515	.	gene	28459	28905	.	+	.	ID=gene-ns7b;gene_biotype=protein_coding
+EF065515	.	CDS	28459	28905	.	+	0	ID=cds-8;Parent=gene-ns7b;Name=ns7b;gene=ns7b

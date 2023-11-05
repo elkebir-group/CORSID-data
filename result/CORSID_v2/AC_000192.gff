@@ -1,0 +1,21 @@
+##gff-version 3.1.26
+##sequence-region AC_000192 1 31526
+AC_000192	.	gene	215	21756	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+AC_000192	.	CDS	215	13637	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+AC_000192	.	CDS	13637	21756	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+AC_000192	.	gene	21770	22567	.	+	.	ID=gene-p30 accessory;gene_biotype=protein_coding
+AC_000192	.	CDS	21770	22567	.	+	0	ID=cds-2;Parent=gene-p30 accessory;Name=p30 accessory;gene=p30 accessory
+AC_000192	.	gene	22613	23932	.	+	.	ID=gene-hemagglutinin-esterase glycoprotein (he);gene_biotype=protein_coding
+AC_000192	.	CDS	22613	23932	.	+	0	ID=cds-3;Parent=gene-hemagglutinin-esterase glycoprotein (he);Name=hemagglutinin-esterase glycoprotein (he);gene=hemagglutinin-esterase glycoprotein (he)
+AC_000192	.	gene	23940	28070	.	+	.	ID=gene-spike glycoprotein (s);gene_biotype=protein_coding
+AC_000192	.	CDS	23940	28070	.	+	0	ID=cds-4;Parent=gene-spike glycoprotein (s);Name=spike glycoprotein (s);gene=spike glycoprotein (s)
+AC_000192	.	gene	28162	28581	.	+	.	ID=gene-accessory protein 4;gene_biotype=protein_coding
+AC_000192	.	CDS	28162	28581	.	+	0	ID=cds-5;Parent=gene-accessory protein 4;Name=accessory protein 4;gene=accessory protein 4
+AC_000192	.	gene	28563	28886	.	+	.	ID=gene-accessory protein 5a;gene_biotype=protein_coding
+AC_000192	.	CDS	28563	28886	.	+	0	ID=cds-6;Parent=gene-accessory protein 5a;Name=accessory protein 5a;gene=accessory protein 5a
+AC_000192	.	gene	28879	29145	.	+	.	ID=gene-envelop protein (e);gene_biotype=protein_coding
+AC_000192	.	CDS	28879	29145	.	+	0	ID=cds-7;Parent=gene-envelop protein (e);Name=envelop protein (e);gene=envelop protein (e)
+AC_000192	.	gene	29142	29828	.	+	.	ID=gene-membrane protein (m);gene_biotype=protein_coding
+AC_000192	.	CDS	29142	29828	.	+	0	ID=cds-8;Parent=gene-membrane protein (m);Name=membrane protein (m);gene=membrane protein (m)
+AC_000192	.	gene	29843	31210	.	+	.	ID=gene-nucleocapsid protein (n);gene_biotype=protein_coding
+AC_000192	.	CDS	29843	31210	.	+	0	ID=cds-9;Parent=gene-nucleocapsid protein (n);Name=nucleocapsid protein (n);gene=nucleocapsid protein (n)

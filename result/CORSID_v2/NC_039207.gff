@@ -1,0 +1,19 @@
+##gff-version 3.1.26
+##sequence-region NC_039207 1 30148
+NC_039207	.	gene	241	21692	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+NC_039207	.	CDS	241	13603	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+NC_039207	.	CDS	13603	21692	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+NC_039207	.	gene	21610	25602	.	+	.	ID=gene-S;gene_biotype=protein_coding
+NC_039207	.	CDS	21610	25602	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+NC_039207	.	gene	25891	26136	.	+	.	ID=gene-4a;gene_biotype=protein_coding
+NC_039207	.	CDS	25891	26136	.	+	0	ID=cds-3;Parent=gene-4a;Name=4a;gene=4a
+NC_039207	.	gene	26123	26794	.	+	.	ID=gene-4b;gene_biotype=protein_coding
+NC_039207	.	CDS	26123	26794	.	+	0	ID=cds-4;Parent=gene-4b;Name=4b;gene=4b
+NC_039207	.	gene	26804	27505	.	+	.	ID=gene-5;gene_biotype=protein_coding
+NC_039207	.	CDS	26804	27505	.	+	0	ID=cds-5;Parent=gene-5;Name=5;gene=5
+NC_039207	.	gene	27579	27827	.	+	.	ID=gene-E;gene_biotype=protein_coding
+NC_039207	.	CDS	27579	27827	.	+	0	ID=cds-6;Parent=gene-E;Name=E;gene=E
+NC_039207	.	gene	27842	28498	.	+	.	ID=gene-M;gene_biotype=protein_coding
+NC_039207	.	CDS	27842	28498	.	+	0	ID=cds-7;Parent=gene-M;Name=M;gene=M
+NC_039207	.	gene	28552	29826	.	+	.	ID=gene-N;gene_biotype=protein_coding
+NC_039207	.	CDS	28552	29826	.	+	0	ID=cds-8;Parent=gene-N;Name=N;gene=N

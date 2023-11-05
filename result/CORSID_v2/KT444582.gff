@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region KT444582 1 30290
+KT444582	.	gene	265	21485	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KT444582	.	CDS	265	13411	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KT444582	.	CDS	13411	21485	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KT444582	.	gene	21492	25259	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KT444582	.	CDS	21492	25259	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KT444582	.	gene	25268	26092	.	+	.	ID=gene-3a??;gene_biotype=protein_coding
+KT444582	.	CDS	25268	26092	.	+	0	ID=cds-3;Parent=gene-3a??;Name=3a??;gene=3a??
+KT444582	.	gene	26117	26347	.	+	.	ID=gene-E;gene_biotype=protein_coding
+KT444582	.	CDS	26117	26347	.	+	0	ID=cds-4;Parent=gene-E;Name=E;gene=E
+KT444582	.	gene	26398	27063	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KT444582	.	CDS	26398	27063	.	+	0	ID=cds-5;Parent=gene-M;Name=M;gene=M
+KT444582	.	gene	27074	27265	.	+	.	ID=gene-?;gene_biotype=protein_coding
+KT444582	.	CDS	27074	27265	.	+	0	ID=cds-6;Parent=gene-?;Name=?;gene=?
+KT444582	.	gene	27279	27572	.	+	.	ID=gene-?#;gene_biotype=protein_coding
+KT444582	.	CDS	27279	27572	.	+	0	ID=cds-7;Parent=gene-?#;Name=?#;gene=?#
+KT444582	.	gene	27797	28165	.	+	.	ID=gene-?##;gene_biotype=protein_coding
+KT444582	.	CDS	27797	28165	.	+	0	ID=cds-8;Parent=gene-?##;Name=?##;gene=?##
+KT444582	.	gene	28162	28296	.	+	.	ID=gene-?###;gene_biotype=protein_coding
+KT444582	.	CDS	28162	28296	.	+	0	ID=cds-9;Parent=gene-?###;Name=?###;gene=?###
+KT444582	.	gene	28303	28668	.	+	.	ID=gene-?####;gene_biotype=protein_coding
+KT444582	.	CDS	28303	28668	.	+	0	ID=cds-10;Parent=gene-?####;Name=?####;gene=?####
+KT444582	.	gene	28683	29951	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KT444582	.	CDS	28683	29951	.	+	0	ID=cds-11;Parent=gene-N;Name=N;gene=N

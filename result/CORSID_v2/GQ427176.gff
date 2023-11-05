@@ -1,0 +1,23 @@
+##gff-version 3.1.26
+##sequence-region GQ427176 1 27804
+GQ427176	.	gene	532	20339	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+GQ427176	.	CDS	532	12382	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+GQ427176	.	CDS	12382	20339	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+GQ427176	.	gene	20363	24034	.	+	.	ID=gene-S;gene_biotype=protein_coding
+GQ427176	.	CDS	20363	24034	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+GQ427176	.	gene	23982	24155	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+GQ427176	.	CDS	23982	24155	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+GQ427176	.	gene	24155	24349	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+GQ427176	.	CDS	24155	24349	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+GQ427176	.	gene	24330	24629	.	+	.	ID=gene-E;gene_biotype=protein_coding
+GQ427176	.	CDS	24330	24629	.	+	0	ID=cds-5;Parent=gene-E;Name=E;gene=E
+GQ427176	.	gene	24631	25302	.	+	.	ID=gene-M;gene_biotype=protein_coding
+GQ427176	.	CDS	24631	25302	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+GQ427176	.	gene	25303	25587	.	+	.	ID=gene-x;gene_biotype=protein_coding
+GQ427176	.	CDS	25303	25587	.	+	0	ID=cds-7;Parent=gene-x;Name=x;gene=x
+GQ427176	.	gene	25663	25860	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+GQ427176	.	CDS	25663	25860	.	+	0	ID=cds-8;Parent=gene-5a;Name=5a;gene=5a
+GQ427176	.	gene	25857	26105	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+GQ427176	.	CDS	25857	26105	.	+	0	ID=cds-9;Parent=gene-5b;Name=5b;gene=5b
+GQ427176	.	gene	26048	27277	.	+	.	ID=gene-N;gene_biotype=protein_coding
+GQ427176	.	CDS	26048	27277	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N

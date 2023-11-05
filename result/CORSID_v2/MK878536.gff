@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region MK878536 1 27672
+MK878536	.	gene	529	20420	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MK878536	.	CDS	529	12385	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MK878536	.	CDS	12385	20420	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MK878536	.	gene	20371	23871	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MK878536	.	CDS	20371	23871	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MK878536	.	gene	23871	24044	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+MK878536	.	CDS	23871	24044	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+MK878536	.	gene	24044	24238	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+MK878536	.	CDS	24044	24238	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+MK878536	.	gene	24219	24521	.	+	.	ID=gene-E;gene_biotype=protein_coding
+MK878536	.	CDS	24219	24521	.	+	0	ID=cds-5;Parent=gene-E;Name=E;gene=E
+MK878536	.	gene	24521	25189	.	+	.	ID=gene-M;gene_biotype=protein_coding
+MK878536	.	CDS	24521	25189	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+MK878536	.	gene	25190	25474	.	+	.	ID=gene-4b;gene_biotype=protein_coding
+MK878536	.	CDS	25190	25474	.	+	0	ID=cds-7;Parent=gene-4b;Name=4b;gene=4b
+MK878536	.	gene	25549	25746	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+MK878536	.	CDS	25549	25746	.	+	0	ID=cds-8;Parent=gene-5a;Name=5a;gene=5a
+MK878536	.	gene	25743	25991	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+MK878536	.	CDS	25743	25991	.	+	0	ID=cds-9;Parent=gene-5b;Name=5b;gene=5b
+MK878536	.	gene	25934	27163	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MK878536	.	CDS	25934	27163	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N
+MK878536	.	gene	27172	27396	.	+	.	ID=gene-6b;gene_biotype=protein_coding
+MK878536	.	CDS	27172	27396	.	+	0	ID=cds-11;Parent=gene-6b;Name=6b;gene=6b

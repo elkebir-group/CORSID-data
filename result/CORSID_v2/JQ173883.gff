@@ -1,0 +1,21 @@
+##gff-version 3.1.26
+##sequence-region JQ173883 1 31161
+JQ173883	.	gene	211	21749	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+JQ173883	.	CDS	211	13624	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+JQ173883	.	CDS	13624	21749	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+JQ173883	.	gene	21763	22560	.	+	.	ID=gene-ns2a;gene_biotype=protein_coding
+JQ173883	.	CDS	21763	22560	.	+	0	ID=cds-2;Parent=gene-ns2a;Name=ns2a;gene=ns2a
+JQ173883	.	gene	22606	23925	.	+	.	ID=gene-he;gene_biotype=protein_coding
+JQ173883	.	CDS	22606	23925	.	+	0	ID=cds-3;Parent=gene-he;Name=he;gene=he
+JQ173883	.	gene	23933	28018	.	+	.	ID=gene-S;gene_biotype=protein_coding
+JQ173883	.	CDS	23933	28018	.	+	0	ID=cds-4;Parent=gene-S;Name=S;gene=S
+JQ173883	.	gene	28008	28127	.	+	.	ID=putative-gene-5;gene_biotype=protein_coding
+JQ173883	.	CDS	28008	28127	.	+	0	ID=cds-5;Parent=putative-gene-5;Name=protein-5;gene=ORF5
+JQ173883	.	gene	28108	28482	.	+	.	ID=gene-ns4;gene_biotype=protein_coding
+JQ173883	.	CDS	28108	28482	.	+	0	ID=cds-6;Parent=gene-ns4;Name=ns4;gene=ns4
+JQ173883	.	gene	28517	28783	.	+	.	ID=gene-E;gene_biotype=protein_coding
+JQ173883	.	CDS	28517	28783	.	+	0	ID=cds-7;Parent=gene-E;Name=E;gene=E
+JQ173883	.	gene	28780	29466	.	+	.	ID=gene-M;gene_biotype=protein_coding
+JQ173883	.	CDS	28780	29466	.	+	0	ID=cds-8;Parent=gene-M;Name=M;gene=M
+JQ173883	.	gene	29481	30845	.	+	.	ID=gene-N;gene_biotype=protein_coding
+JQ173883	.	CDS	29481	30845	.	+	0	ID=cds-9;Parent=gene-N;Name=N;gene=N

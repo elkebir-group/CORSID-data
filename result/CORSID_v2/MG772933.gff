@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region MG772933 1 29802
+MG772933	.	gene	265	21542	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MG772933	.	CDS	265	13468	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MG772933	.	CDS	13468	21542	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MG772933	.	gene	21549	25289	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MG772933	.	CDS	21549	25289	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MG772933	.	gene	25298	26125	.	+	.	ID=gene-?;gene_biotype=protein_coding
+MG772933	.	CDS	25298	26125	.	+	0	ID=cds-3;Parent=gene-?;Name=?;gene=?
+MG772933	.	gene	26150	26377	.	+	.	ID=gene-E;gene_biotype=protein_coding
+MG772933	.	CDS	26150	26377	.	+	0	ID=cds-4;Parent=gene-E;Name=E;gene=E
+MG772933	.	gene	26428	27096	.	+	.	ID=gene-M;gene_biotype=protein_coding
+MG772933	.	CDS	26428	27096	.	+	0	ID=cds-5;Parent=gene-M;Name=M;gene=M
+MG772933	.	gene	27107	27292	.	+	.	ID=gene-?#;gene_biotype=protein_coding
+MG772933	.	CDS	27107	27292	.	+	0	ID=cds-6;Parent=gene-?#;Name=?#;gene=?#
+MG772933	.	gene	27299	27664	.	+	.	ID=gene-?##;gene_biotype=protein_coding
+MG772933	.	CDS	27299	27664	.	+	0	ID=cds-7;Parent=gene-?##;Name=?##;gene=?##
+MG772933	.	gene	27661	27792	.	+	.	ID=putative-gene-8;gene_biotype=protein_coding
+MG772933	.	CDS	27661	27792	.	+	0	ID=cds-8;Parent=putative-gene-8;Name=protein-8;gene=ORF8
+MG772933	.	gene	27799	28164	.	+	.	ID=gene-?###;gene_biotype=protein_coding
+MG772933	.	CDS	27799	28164	.	+	0	ID=cds-9;Parent=gene-?###;Name=?###;gene=?###
+MG772933	.	gene	28179	29438	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MG772933	.	CDS	28179	29438	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N
+MG772933	.	gene	29463	29579	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+MG772933	.	CDS	29463	29579	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11

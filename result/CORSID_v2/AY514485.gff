@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region AY514485 1 27693
+AY514485	.	gene	527	20421	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+AY514485	.	CDS	527	12386	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+AY514485	.	CDS	12386	20421	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+AY514485	.	gene	20372	23881	.	+	.	ID=gene-2;gene_biotype=protein_coding
+AY514485	.	CDS	20372	23881	.	+	0	ID=cds-2;Parent=gene-2;Name=2;gene=2
+AY514485	.	gene	23881	24054	.	+	.	ID=gene-3;gene_biotype=protein_coding
+AY514485	.	CDS	23881	24054	.	+	0	ID=cds-3;Parent=gene-3;Name=3;gene=3
+AY514485	.	gene	24054	24248	.	+	.	ID=gene-3#;gene_biotype=protein_coding
+AY514485	.	CDS	24054	24248	.	+	0	ID=cds-4;Parent=gene-3#;Name=3#;gene=3#
+AY514485	.	gene	24229	24558	.	+	.	ID=gene-3##;gene_biotype=protein_coding
+AY514485	.	CDS	24229	24558	.	+	0	ID=cds-5;Parent=gene-3##;Name=3##;gene=3##
+AY514485	.	gene	24530	25207	.	+	.	ID=gene-4;gene_biotype=protein_coding
+AY514485	.	CDS	24530	25207	.	+	0	ID=cds-6;Parent=gene-4;Name=4;gene=4
+AY514485	.	gene	25208	25492	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+AY514485	.	CDS	25208	25492	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7
+AY514485	.	gene	25567	25764	.	+	.	ID=gene-5;gene_biotype=protein_coding
+AY514485	.	CDS	25567	25764	.	+	0	ID=cds-8;Parent=gene-5;Name=5;gene=5
+AY514485	.	gene	25761	26009	.	+	.	ID=gene-5#;gene_biotype=protein_coding
+AY514485	.	CDS	25761	26009	.	+	0	ID=cds-9;Parent=gene-5#;Name=5#;gene=5#
+AY514485	.	gene	25952	27181	.	+	.	ID=gene-6;gene_biotype=protein_coding
+AY514485	.	CDS	25952	27181	.	+	0	ID=cds-10;Parent=gene-6;Name=6;gene=6
+AY514485	.	gene	27189	27419	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+AY514485	.	CDS	27189	27419	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11

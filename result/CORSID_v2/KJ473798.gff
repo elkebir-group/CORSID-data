@@ -1,0 +1,19 @@
+##gff-version 3.1.26
+##sequence-region KJ473798 1 28755
+KJ473798	.	gene	270	20938	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KJ473798	.	CDS	270	12942	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KJ473798	.	CDS	12942	20938	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KJ473798	.	gene	20868	21008	.	+	.	ID=putative-gene-2;gene_biotype=protein_coding
+KJ473798	.	CDS	20868	21008	.	+	0	ID=cds-2;Parent=putative-gene-2;Name=protein-2;gene=ORF2
+KJ473798	.	gene	20935	25059	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KJ473798	.	CDS	20935	25059	.	+	0	ID=cds-3;Parent=gene-S;Name=S;gene=S
+KJ473798	.	gene	25059	25727	.	+	.	ID=gene-3?;gene_biotype=protein_coding
+KJ473798	.	CDS	25059	25727	.	+	0	ID=cds-4;Parent=gene-3?;Name=3?;gene=3?
+KJ473798	.	gene	25711	25935	.	+	.	ID=gene-small E;gene_biotype=protein_coding
+KJ473798	.	CDS	25711	25935	.	+	0	ID=cds-5;Parent=gene-small E;Name=small E;gene=small E
+KJ473798	.	gene	25945	26709	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KJ473798	.	CDS	25945	26709	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+KJ473798	.	gene	26758	28026	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KJ473798	.	CDS	26758	28026	.	+	0	ID=cds-7;Parent=gene-N;Name=N;gene=N
+KJ473798	.	gene	27989	28522	.	+	.	ID=putative-gene-8;gene_biotype=protein_coding
+KJ473798	.	CDS	27989	28522	.	+	0	ID=cds-8;Parent=putative-gene-8;Name=protein-8;gene=ORF8

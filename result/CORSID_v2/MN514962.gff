@@ -1,0 +1,23 @@
+##gff-version 3.1.26
+##sequence-region MN514962 1 31021
+MN514962	.	gene	203	21486	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MN514962	.	CDS	203	13352	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MN514962	.	CDS	13352	21486	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MN514962	.	gene	21496	22332	.	+	.	ID=gene-ns2;gene_biotype=protein_coding
+MN514962	.	CDS	21496	22332	.	+	0	ID=cds-2;Parent=gene-ns2;Name=ns2;gene=ns2
+MN514962	.	gene	22344	23618	.	+	.	ID=gene-he;gene_biotype=protein_coding
+MN514962	.	CDS	22344	23618	.	+	0	ID=cds-3;Parent=gene-he;Name=he;gene=he
+MN514962	.	gene	23633	27733	.	+	.	ID=gene-s;gene_biotype=protein_coding
+MN514962	.	CDS	23633	27733	.	+	0	ID=cds-4;Parent=gene-s;Name=s;gene=s
+MN514962	.	gene	28101	28430	.	+	.	ID=gene-ns5;gene_biotype=protein_coding
+MN514962	.	CDS	28101	28430	.	+	0	ID=cds-5;Parent=gene-ns5;Name=ns5;gene=ns5
+MN514962	.	gene	28417	28671	.	+	.	ID=gene-e;gene_biotype=protein_coding
+MN514962	.	CDS	28417	28671	.	+	0	ID=cds-6;Parent=gene-e;Name=e;gene=e
+MN514962	.	gene	28686	29378	.	+	.	ID=gene-m;gene_biotype=protein_coding
+MN514962	.	CDS	28686	29378	.	+	0	ID=cds-7;Parent=gene-m;Name=m;gene=m
+MN514962	.	gene	29388	30734	.	+	.	ID=gene-n;gene_biotype=protein_coding
+MN514962	.	CDS	29388	30734	.	+	0	ID=cds-8;Parent=gene-n;Name=n;gene=n
+MN514962	.	gene	30700	30828	.	+	.	ID=putative-gene-9;gene_biotype=protein_coding
+MN514962	.	CDS	30700	30828	.	+	0	ID=cds-9;Parent=putative-gene-9;Name=protein-9;gene=ORF9
+MN514962	.	gene	30886	30990	.	+	.	ID=putative-gene-10;gene_biotype=protein_coding
+MN514962	.	CDS	30886	30990	.	+	0	ID=cds-10;Parent=putative-gene-10;Name=protein-10;gene=ORF10

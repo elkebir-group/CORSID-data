@@ -1,0 +1,21 @@
+##gff-version 3.1.26
+##sequence-region EU186072 1 29256
+EU186072	.	gene	312	20407	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+EU186072	.	CDS	312	12405	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+EU186072	.	CDS	12405	20407	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+EU186072	.	gene	20404	24798	.	+	.	ID=gene-S;gene_biotype=protein_coding
+EU186072	.	CDS	20404	24798	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+EU186072	.	gene	24810	25022	.	+	.	ID=putative-gene-3;gene_biotype=protein_coding
+EU186072	.	CDS	24810	25022	.	+	0	ID=cds-3;Parent=putative-gene-3;Name=protein-3;gene=ORF3
+EU186072	.	gene	24970	25839	.	+	.	ID=putative-gene-4;gene_biotype=protein_coding
+EU186072	.	CDS	24970	25839	.	+	0	ID=cds-4;Parent=putative-gene-4;Name=protein-4;gene=ORF4
+EU186072	.	gene	25826	26074	.	+	.	ID=gene-E;gene_biotype=protein_coding
+EU186072	.	CDS	25826	26074	.	+	0	ID=cds-5;Parent=gene-E;Name=E;gene=E
+EU186072	.	gene	26085	26876	.	+	.	ID=gene-M;gene_biotype=protein_coding
+EU186072	.	CDS	26085	26876	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+EU186072	.	gene	26889	28022	.	+	.	ID=gene-N;gene_biotype=protein_coding
+EU186072	.	CDS	26889	28022	.	+	0	ID=cds-7;Parent=gene-N;Name=N;gene=N
+EU186072	.	gene	28027	28332	.	+	.	ID=putative-gene-8;gene_biotype=protein_coding
+EU186072	.	CDS	28027	28332	.	+	0	ID=cds-8;Parent=putative-gene-8;Name=protein-8;gene=ORF8
+EU186072	.	gene	28337	28444	.	+	.	ID=putative-gene-9;gene_biotype=protein_coding
+EU186072	.	CDS	28337	28444	.	+	0	ID=cds-9;Parent=putative-gene-9;Name=protein-9;gene=ORF9

@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region KF367457 1 30309
+KF367457	.	gene	265	21485	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KF367457	.	CDS	265	13411	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KF367457	.	CDS	13411	21485	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KF367457	.	gene	21492	25262	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KF367457	.	CDS	21492	25262	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KF367457	.	gene	25271	26095	.	+	.	ID=gene-3a?;gene_biotype=protein_coding
+KF367457	.	CDS	25271	26095	.	+	0	ID=cds-3;Parent=gene-3a?;Name=3a?;gene=3a?
+KF367457	.	gene	26120	26350	.	+	.	ID=gene-E;gene_biotype=protein_coding
+KF367457	.	CDS	26120	26350	.	+	0	ID=cds-4;Parent=gene-E;Name=E;gene=E
+KF367457	.	gene	26401	27066	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KF367457	.	CDS	26401	27066	.	+	0	ID=cds-5;Parent=gene-M;Name=M;gene=M
+KF367457	.	gene	27077	27268	.	+	.	ID=gene-?;gene_biotype=protein_coding
+KF367457	.	CDS	27077	27268	.	+	0	ID=cds-6;Parent=gene-?;Name=?;gene=?
+KF367457	.	gene	27282	27575	.	+	.	ID=gene-?#;gene_biotype=protein_coding
+KF367457	.	CDS	27282	27575	.	+	0	ID=cds-7;Parent=gene-?#;Name=?#;gene=?#
+KF367457	.	gene	27800	28168	.	+	.	ID=gene-?##;gene_biotype=protein_coding
+KF367457	.	CDS	27800	28168	.	+	0	ID=cds-8;Parent=gene-?##;Name=?##;gene=?##
+KF367457	.	gene	28165	28299	.	+	.	ID=gene-?###;gene_biotype=protein_coding
+KF367457	.	CDS	28165	28299	.	+	0	ID=cds-9;Parent=gene-?###;Name=?###;gene=?###
+KF367457	.	gene	28306	28671	.	+	.	ID=gene-?####;gene_biotype=protein_coding
+KF367457	.	CDS	28306	28671	.	+	0	ID=cds-10;Parent=gene-?####;Name=?####;gene=?####
+KF367457	.	gene	28686	29954	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KF367457	.	CDS	28686	29954	.	+	0	ID=cds-11;Parent=gene-N;Name=N;gene=N

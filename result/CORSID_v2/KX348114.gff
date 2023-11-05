@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region KX348114 1 27687
+KX348114	.	gene	530	20421	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KX348114	.	CDS	530	12386	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KX348114	.	CDS	12386	20421	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KX348114	.	gene	20372	23869	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KX348114	.	CDS	20372	23869	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KX348114	.	gene	23869	24042	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+KX348114	.	CDS	23869	24042	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+KX348114	.	gene	24042	24233	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+KX348114	.	CDS	24042	24233	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+KX348114	.	gene	24214	24543	.	+	.	ID=gene-3c;gene_biotype=protein_coding
+KX348114	.	CDS	24214	24543	.	+	0	ID=cds-5;Parent=gene-3c;Name=3c;gene=3c
+KX348114	.	gene	24515	25192	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KX348114	.	CDS	24515	25192	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+KX348114	.	gene	25193	25477	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+KX348114	.	CDS	25193	25477	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7
+KX348114	.	gene	25556	25753	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+KX348114	.	CDS	25556	25753	.	+	0	ID=cds-8;Parent=gene-5a;Name=5a;gene=5a
+KX348114	.	gene	25750	25998	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+KX348114	.	CDS	25750	25998	.	+	0	ID=cds-9;Parent=gene-5b;Name=5b;gene=5b
+KX348114	.	gene	25941	27170	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KX348114	.	CDS	25941	27170	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N
+KX348114	.	gene	27180	27401	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+KX348114	.	CDS	27180	27401	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11

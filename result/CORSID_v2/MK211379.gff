@@ -1,0 +1,21 @@
+##gff-version 3.1.26
+##sequence-region MK211379 1 29752
+MK211379	.	gene	226	21032	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MK211379	.	CDS	226	12964	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MK211379	.	CDS	12964	21032	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MK211379	.	gene	20980	24813	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MK211379	.	CDS	20980	24813	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MK211379	.	gene	24810	25472	.	+	.	ID=putative-gene-3;gene_biotype=protein_coding
+MK211379	.	CDS	24810	25472	.	+	0	ID=cds-3;Parent=putative-gene-3;Name=protein-3;gene=ORF3
+MK211379	.	gene	25472	25717	.	+	.	ID=gene-small E;gene_biotype=protein_coding
+MK211379	.	CDS	25472	25717	.	+	0	ID=cds-4;Parent=gene-small E;Name=small E;gene=small E
+MK211379	.	gene	25704	26372	.	+	.	ID=gene-matrix;gene_biotype=protein_coding
+MK211379	.	CDS	25704	26372	.	+	0	ID=cds-5;Parent=gene-matrix;Name=matrix;gene=matrix
+MK211379	.	gene	26427	27818	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MK211379	.	CDS	26427	27818	.	+	0	ID=cds-6;Parent=gene-N;Name=N;gene=N
+MK211379	.	gene	27854	28456	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+MK211379	.	CDS	27854	28456	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7
+MK211379	.	gene	28480	29073	.	+	.	ID=putative-gene-8;gene_biotype=protein_coding
+MK211379	.	CDS	28480	29073	.	+	0	ID=cds-8;Parent=putative-gene-8;Name=protein-8;gene=ORF8
+MK211379	.	gene	29070	29510	.	+	.	ID=putative-gene-9;gene_biotype=protein_coding
+MK211379	.	CDS	29070	29510	.	+	0	ID=cds-9;Parent=putative-gene-9;Name=protein-9;gene=ORF9

@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region KF668605 1 27691
+KF668605	.	gene	526	20420	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KF668605	.	CDS	526	12385	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KF668605	.	CDS	12385	20420	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KF668605	.	gene	20350	23886	.	+	.	ID=putative-gene-2;gene_biotype=protein_coding
+KF668605	.	CDS	20350	23886	.	+	0	ID=cds-2;Parent=putative-gene-2;Name=protein-2;gene=ORF2
+KF668605	.	gene	23886	24059	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+KF668605	.	CDS	23886	24059	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+KF668605	.	gene	24059	24247	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+KF668605	.	CDS	24059	24247	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+KF668605	.	gene	24231	24539	.	+	.	ID=gene-3c;gene_biotype=protein_coding
+KF668605	.	CDS	24231	24539	.	+	0	ID=cds-5;Parent=gene-3c;Name=3c;gene=3c
+KF668605	.	gene	24529	25209	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KF668605	.	CDS	24529	25209	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+KF668605	.	gene	25210	25494	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+KF668605	.	CDS	25210	25494	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7
+KF668605	.	gene	25572	25769	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+KF668605	.	CDS	25572	25769	.	+	0	ID=cds-8;Parent=gene-5a;Name=5a;gene=5a
+KF668605	.	gene	25766	26014	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+KF668605	.	CDS	25766	26014	.	+	0	ID=cds-9;Parent=gene-5b;Name=5b;gene=5b
+KF668605	.	gene	25957	27186	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KF668605	.	CDS	25957	27186	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N
+KF668605	.	gene	27195	27416	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+KF668605	.	CDS	27195	27416	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11

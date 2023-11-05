@@ -1,0 +1,35 @@
+##gff-version 3.1.26
+##sequence-region EU526388 1 27715
+EU526388	.	gene	530	11484	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+EU526388	.	CDS	530	7094	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+EU526388	.	CDS	7094	11484	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+EU526388	.	gene	11367	12413	.	+	.	ID=putative-gene-2;gene_biotype=protein_coding
+EU526388	.	CDS	11367	12413	.	+	0	ID=cds-2;Parent=putative-gene-2;Name=protein-2;gene=ORF2
+EU526388	.	gene	12462	12638	.	+	.	ID=putative-gene-3;gene_biotype=protein_coding
+EU526388	.	CDS	12462	12638	.	+	0	ID=cds-3;Parent=putative-gene-3;Name=protein-3;gene=ORF3
+EU526388	.	gene	13170	13289	.	+	.	ID=putative-gene-4;gene_biotype=protein_coding
+EU526388	.	CDS	13170	13289	.	+	0	ID=cds-4;Parent=putative-gene-4;Name=protein-4;gene=ORF4
+EU526388	.	gene	13430	17269	.	+	.	ID=putative-gene-5;gene_biotype=protein_coding
+EU526388	.	CDS	13430	17269	.	+	0	ID=cds-5;Parent=putative-gene-5;Name=protein-5;gene=ORF5
+EU526388	.	gene	17781	19634	.	+	.	ID=putative-gene-6;gene_biotype=protein_coding
+EU526388	.	CDS	17781	19634	.	+	0	ID=cds-6;Parent=putative-gene-6;Name=protein-6;gene=ORF6
+EU526388	.	gene	19922	20446	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+EU526388	.	CDS	19922	20446	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7
+EU526388	.	gene	20397	23876	.	+	.	ID=putative-gene-8;gene_biotype=protein_coding
+EU526388	.	CDS	20397	23876	.	+	0	ID=cds-8;Parent=putative-gene-8;Name=protein-8;gene=ORF8
+EU526388	.	gene	24076	24267	.	+	.	ID=putative-gene-9;gene_biotype=protein_coding
+EU526388	.	CDS	24076	24267	.	+	0	ID=cds-9;Parent=putative-gene-9;Name=protein-9;gene=ORF9
+EU526388	.	gene	24248	24577	.	+	.	ID=putative-gene-10;gene_biotype=protein_coding
+EU526388	.	CDS	24248	24577	.	+	0	ID=cds-10;Parent=putative-gene-10;Name=protein-10;gene=ORF10
+EU526388	.	gene	24702	25226	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+EU526388	.	CDS	24702	25226	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11
+EU526388	.	gene	25432	25593	.	+	.	ID=putative-gene-12;gene_biotype=protein_coding
+EU526388	.	CDS	25432	25593	.	+	0	ID=cds-12;Parent=putative-gene-12;Name=protein-12;gene=ORF12
+EU526388	.	gene	25590	25787	.	+	.	ID=putative-gene-13;gene_biotype=protein_coding
+EU526388	.	CDS	25590	25787	.	+	0	ID=cds-13;Parent=putative-gene-13;Name=protein-13;gene=ORF13
+EU526388	.	gene	25784	26032	.	+	.	ID=putative-gene-14;gene_biotype=protein_coding
+EU526388	.	CDS	25784	26032	.	+	0	ID=cds-14;Parent=putative-gene-14;Name=protein-14;gene=ORF14
+EU526388	.	gene	25975	27204	.	+	.	ID=putative-gene-15;gene_biotype=protein_coding
+EU526388	.	CDS	25975	27204	.	+	0	ID=cds-15;Parent=putative-gene-15;Name=protein-15;gene=ORF15
+EU526388	.	gene	27293	27400	.	+	.	ID=putative-gene-16;gene_biotype=protein_coding
+EU526388	.	CDS	27293	27400	.	+	0	ID=cds-16;Parent=putative-gene-16;Name=protein-16;gene=ORF16

@@ -1,0 +1,17 @@
+##gff-version 3.1.26
+##sequence-region KX998969 1 25415
+KX998969	.	gene	5355	19327	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KX998969	.	CDS	5355	11403	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KX998969	.	CDS	11403	19327	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KX998969	.	gene	19309	22791	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KX998969	.	CDS	19309	22791	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KX998969	.	gene	22785	23036	.	+	.	ID=gene-E;gene_biotype=protein_coding
+KX998969	.	CDS	22785	23036	.	+	0	ID=cds-3;Parent=gene-E;Name=E;gene=E
+KX998969	.	gene	23029	23682	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KX998969	.	CDS	23029	23682	.	+	0	ID=cds-4;Parent=gene-M;Name=M;gene=M
+KX998969	.	gene	23682	23966	.	+	.	ID=putative-gene-5;gene_biotype=protein_coding
+KX998969	.	CDS	23682	23966	.	+	0	ID=cds-5;Parent=putative-gene-5;Name=protein-5;gene=ORF5
+KX998969	.	gene	23987	25015	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KX998969	.	CDS	23987	25015	.	+	0	ID=cds-6;Parent=gene-N;Name=N;gene=N
+KX998969	.	gene	25026	25130	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+KX998969	.	CDS	25026	25130	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7

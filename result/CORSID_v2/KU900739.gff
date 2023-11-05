@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region KU900739 1 27684
+KU900739	.	gene	529	20423	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KU900739	.	CDS	529	12388	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KU900739	.	CDS	12388	20423	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KU900739	.	gene	20374	23871	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KU900739	.	CDS	20374	23871	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KU900739	.	gene	23871	24044	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+KU900739	.	CDS	23871	24044	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+KU900739	.	gene	24044	24238	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+KU900739	.	CDS	24044	24238	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+KU900739	.	gene	24222	24551	.	+	.	ID=gene-E;gene_biotype=protein_coding
+KU900739	.	CDS	24222	24551	.	+	0	ID=cds-5;Parent=gene-E;Name=E;gene=E
+KU900739	.	gene	24520	25200	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KU900739	.	CDS	24520	25200	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+KU900739	.	gene	25201	25485	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+KU900739	.	CDS	25201	25485	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7
+KU900739	.	gene	25560	25757	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+KU900739	.	CDS	25560	25757	.	+	0	ID=cds-8;Parent=gene-5a;Name=5a;gene=5a
+KU900739	.	gene	25754	26002	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+KU900739	.	CDS	25754	26002	.	+	0	ID=cds-9;Parent=gene-5b;Name=5b;gene=5b
+KU900739	.	gene	25945	27174	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KU900739	.	CDS	25945	27174	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N
+KU900739	.	gene	27183	27404	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+KU900739	.	CDS	27183	27404	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11

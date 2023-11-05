@@ -1,0 +1,21 @@
+##gff-version 3.1.26
+##sequence-region JN634064 1 28984
+JN634064	.	gene	313	20168	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+JN634064	.	CDS	313	12166	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+JN634064	.	CDS	12166	20168	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+JN634064	.	gene	20165	24517	.	+	.	ID=gene-S;gene_biotype=protein_coding
+JN634064	.	CDS	20165	24517	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+JN634064	.	gene	24581	24817	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+JN634064	.	CDS	24581	24817	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+JN634064	.	gene	25194	25652	.	+	.	ID=gene-3c;gene_biotype=protein_coding
+JN634064	.	CDS	25194	25652	.	+	0	ID=cds-4;Parent=gene-3c;Name=3c;gene=3c
+JN634064	.	gene	25722	25928	.	+	.	ID=gene-E;gene_biotype=protein_coding
+JN634064	.	CDS	25722	25928	.	+	0	ID=cds-5;Parent=gene-E;Name=E;gene=E
+JN634064	.	gene	25939	26598	.	+	.	ID=putative-gene-6;gene_biotype=protein_coding
+JN634064	.	CDS	25939	26598	.	+	0	ID=cds-6;Parent=putative-gene-6;Name=protein-6;gene=ORF6
+JN634064	.	gene	26742	27872	.	+	.	ID=gene-N;gene_biotype=protein_coding
+JN634064	.	CDS	26742	27872	.	+	0	ID=cds-7;Parent=gene-N;Name=N;gene=N
+JN634064	.	gene	27877	28182	.	+	.	ID=gene-7a;gene_biotype=protein_coding
+JN634064	.	CDS	27877	28182	.	+	0	ID=cds-8;Parent=gene-7a;Name=7a;gene=7a
+JN634064	.	gene	28187	28612	.	+	.	ID=gene-7b;gene_biotype=protein_coding
+JN634064	.	CDS	28187	28612	.	+	0	ID=cds-9;Parent=gene-7b;Name=7b;gene=7b

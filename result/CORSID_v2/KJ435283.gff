@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region KJ435283 1 27666
+KJ435283	.	gene	526	20420	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KJ435283	.	CDS	526	12385	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KJ435283	.	CDS	12385	20420	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KJ435283	.	gene	20371	23859	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KJ435283	.	CDS	20371	23859	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KJ435283	.	gene	23859	24032	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+KJ435283	.	CDS	23859	24032	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+KJ435283	.	gene	24032	24220	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+KJ435283	.	CDS	24032	24220	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+KJ435283	.	gene	24207	24533	.	+	.	ID=gene-3c;gene_biotype=protein_coding
+KJ435283	.	CDS	24207	24533	.	+	0	ID=cds-5;Parent=gene-3c;Name=3c;gene=3c
+KJ435283	.	gene	24505	25182	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KJ435283	.	CDS	24505	25182	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+KJ435283	.	gene	25183	25467	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+KJ435283	.	CDS	25183	25467	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7
+KJ435283	.	gene	25536	25733	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+KJ435283	.	CDS	25536	25733	.	+	0	ID=cds-8;Parent=gene-5a;Name=5a;gene=5a
+KJ435283	.	gene	25730	25978	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+KJ435283	.	CDS	25730	25978	.	+	0	ID=cds-9;Parent=gene-5b;Name=5b;gene=5b
+KJ435283	.	gene	25921	27150	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KJ435283	.	CDS	25921	27150	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N
+KJ435283	.	gene	27159	27380	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+KJ435283	.	CDS	27159	27380	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11

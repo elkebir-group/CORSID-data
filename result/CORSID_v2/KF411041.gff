@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region KF411041 1 27655
+KF411041	.	gene	494	20388	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KF411041	.	CDS	494	12353	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KF411041	.	CDS	12353	20388	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KF411041	.	gene	20339	23842	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KF411041	.	CDS	20339	23842	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KF411041	.	gene	23842	24015	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+KF411041	.	CDS	23842	24015	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+KF411041	.	gene	24015	24203	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+KF411041	.	CDS	24015	24203	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+KF411041	.	gene	24190	24516	.	+	.	ID=gene-3c;gene_biotype=protein_coding
+KF411041	.	CDS	24190	24516	.	+	0	ID=cds-5;Parent=gene-3c;Name=3c;gene=3c
+KF411041	.	gene	24488	25162	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KF411041	.	CDS	24488	25162	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+KF411041	.	gene	25163	25447	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+KF411041	.	CDS	25163	25447	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7
+KF411041	.	gene	25526	25723	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+KF411041	.	CDS	25526	25723	.	+	0	ID=cds-8;Parent=gene-5a;Name=5a;gene=5a
+KF411041	.	gene	25720	25968	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+KF411041	.	CDS	25720	25968	.	+	0	ID=cds-9;Parent=gene-5b;Name=5b;gene=5b
+KF411041	.	gene	25911	27140	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KF411041	.	CDS	25911	27140	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N
+KF411041	.	gene	27149	27370	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+KF411041	.	CDS	27149	27370	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11

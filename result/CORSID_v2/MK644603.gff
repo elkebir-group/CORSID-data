@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region MK644603 1 28043
+MK644603	.	gene	293	20637	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MK644603	.	CDS	293	12644	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MK644603	.	CDS	12644	20637	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MK644603	.	gene	20698	21108	.	+	.	ID=putative-gene-2;gene_biotype=protein_coding
+MK644603	.	CDS	20698	21108	.	+	0	ID=cds-2;Parent=putative-gene-2;Name=protein-2;gene=ORF2
+MK644603	.	gene	21193	21327	.	+	.	ID=putative-gene-3;gene_biotype=protein_coding
+MK644603	.	CDS	21193	21327	.	+	0	ID=cds-3;Parent=putative-gene-3;Name=protein-3;gene=ORF3
+MK644603	.	gene	21343	21513	.	+	.	ID=putative-gene-4;gene_biotype=protein_coding
+MK644603	.	CDS	21343	21513	.	+	0	ID=cds-4;Parent=putative-gene-4;Name=protein-4;gene=ORF4
+MK644603	.	gene	21492	24791	.	+	.	ID=putative-gene-5;gene_biotype=protein_coding
+MK644603	.	CDS	21492	24791	.	+	0	ID=cds-5;Parent=putative-gene-5;Name=protein-5;gene=ORF5
+MK644603	.	gene	24791	25465	.	+	.	ID=gene-?;gene_biotype=protein_coding
+MK644603	.	CDS	24791	25465	.	+	0	ID=cds-6;Parent=gene-?;Name=?;gene=?
+MK644603	.	gene	25446	25676	.	+	.	ID=gene-E;gene_biotype=protein_coding
+MK644603	.	CDS	25446	25676	.	+	0	ID=cds-7;Parent=gene-E;Name=E;gene=E
+MK644603	.	gene	25817	25963	.	+	.	ID=putative-gene-8;gene_biotype=protein_coding
+MK644603	.	CDS	25817	25963	.	+	0	ID=cds-8;Parent=putative-gene-8;Name=protein-8;gene=ORF8
+MK644603	.	gene	26056	26364	.	+	.	ID=putative-gene-9;gene_biotype=protein_coding
+MK644603	.	CDS	26056	26364	.	+	0	ID=cds-9;Parent=putative-gene-9;Name=protein-9;gene=ORF9
+MK644603	.	gene	26376	27701	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MK644603	.	CDS	26376	27701	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N
+MK644603	.	gene	27705	27812	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+MK644603	.	CDS	27705	27812	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11

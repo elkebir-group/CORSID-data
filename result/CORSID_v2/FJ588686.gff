@@ -1,0 +1,23 @@
+##gff-version 3.1.26
+##sequence-region FJ588686 1 29059
+FJ588686	.	gene	246	20887	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+FJ588686	.	CDS	246	12813	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+FJ588686	.	CDS	12813	20887	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+FJ588686	.	gene	20894	24619	.	+	.	ID=gene-S;gene_biotype=protein_coding
+FJ588686	.	CDS	20894	24619	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+FJ588686	.	gene	24629	25453	.	+	.	ID=gene-?;gene_biotype=protein_coding
+FJ588686	.	CDS	24629	25453	.	+	0	ID=cds-3;Parent=gene-?;Name=?;gene=?
+FJ588686	.	gene	25478	25708	.	+	.	ID=gene-E;gene_biotype=protein_coding
+FJ588686	.	CDS	25478	25708	.	+	0	ID=cds-4;Parent=gene-E;Name=E;gene=E
+FJ588686	.	gene	25759	26424	.	+	.	ID=gene-M;gene_biotype=protein_coding
+FJ588686	.	CDS	25759	26424	.	+	0	ID=cds-5;Parent=gene-M;Name=M;gene=M
+FJ588686	.	gene	26435	26626	.	+	.	ID=gene-?#;gene_biotype=protein_coding
+FJ588686	.	CDS	26435	26626	.	+	0	ID=cds-6;Parent=gene-?#;Name=?#;gene=?#
+FJ588686	.	gene	26634	27002	.	+	.	ID=gene-?##;gene_biotype=protein_coding
+FJ588686	.	CDS	26634	27002	.	+	0	ID=cds-7;Parent=gene-?##;Name=?##;gene=?##
+FJ588686	.	gene	26999	27133	.	+	.	ID=gene-?###;gene_biotype=protein_coding
+FJ588686	.	CDS	26999	27133	.	+	0	ID=cds-8;Parent=gene-?###;Name=?###;gene=?###
+FJ588686	.	gene	27140	27505	.	+	.	ID=gene-?####;gene_biotype=protein_coding
+FJ588686	.	CDS	27140	27505	.	+	0	ID=cds-9;Parent=gene-?####;Name=?####;gene=?####
+FJ588686	.	gene	27520	28788	.	+	.	ID=gene-N;gene_biotype=protein_coding
+FJ588686	.	CDS	27520	28788	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N

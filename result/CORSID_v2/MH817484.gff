@@ -1,0 +1,21 @@
+##gff-version 3.1.26
+##sequence-region MH817484 1 29137
+MH817484	.	gene	254	20292	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MH817484	.	CDS	254	12290	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MH817484	.	CDS	12290	20292	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MH817484	.	gene	20289	24692	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MH817484	.	CDS	20289	24692	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MH817484	.	gene	24704	24916	.	+	.	ID=gene-ns3a;gene_biotype=protein_coding
+MH817484	.	CDS	24704	24916	.	+	0	ID=cds-3;Parent=gene-ns3a;Name=ns3a;gene=ns3a
+MH817484	.	gene	25082	25795	.	+	.	ID=gene-ns3c;gene_biotype=protein_coding
+MH817484	.	CDS	25082	25795	.	+	0	ID=cds-4;Parent=gene-ns3c;Name=ns3c;gene=ns3c
+MH817484	.	gene	25782	26030	.	+	.	ID=gene-E;gene_biotype=protein_coding
+MH817484	.	CDS	25782	26030	.	+	0	ID=cds-5;Parent=gene-E;Name=E;gene=E
+MH817484	.	gene	26041	26829	.	+	.	ID=gene-M;gene_biotype=protein_coding
+MH817484	.	CDS	26041	26829	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+MH817484	.	gene	26842	27960	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MH817484	.	CDS	26842	27960	.	+	0	ID=cds-7;Parent=gene-N;Name=N;gene=N
+MH817484	.	gene	27965	28270	.	+	.	ID=gene-ns7a;gene_biotype=protein_coding
+MH817484	.	CDS	27965	28270	.	+	0	ID=cds-8;Parent=gene-ns7a;Name=ns7a;gene=ns7a
+MH817484	.	gene	28275	28895	.	+	.	ID=gene-ns7b;gene_biotype=protein_coding
+MH817484	.	CDS	28275	28895	.	+	0	ID=cds-9;Parent=gene-ns7b;Name=ns7b;gene=ns7b

@@ -1,0 +1,17 @@
+##gff-version 3.1.26
+##sequence-region NC_003436 1 28033
+NC_003436	.	gene	297	20641	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+NC_003436	.	CDS	297	12648	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+NC_003436	.	CDS	12648	20641	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+NC_003436	.	gene	20638	24789	.	+	.	ID=gene-S;gene_biotype=protein_coding
+NC_003436	.	CDS	20638	24789	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+NC_003436	.	gene	24789	25463	.	+	.	ID=gene-?;gene_biotype=protein_coding
+NC_003436	.	CDS	24789	25463	.	+	0	ID=cds-3;Parent=gene-?;Name=?;gene=?
+NC_003436	.	gene	25444	25674	.	+	.	ID=gene-E;gene_biotype=protein_coding
+NC_003436	.	CDS	25444	25674	.	+	0	ID=cds-4;Parent=gene-E;Name=E;gene=E
+NC_003436	.	gene	25682	26362	.	+	.	ID=gene-M;gene_biotype=protein_coding
+NC_003436	.	CDS	25682	26362	.	+	0	ID=cds-5;Parent=gene-M;Name=M;gene=M
+NC_003436	.	gene	26374	27699	.	+	.	ID=gene-N;gene_biotype=protein_coding
+NC_003436	.	CDS	26374	27699	.	+	0	ID=cds-6;Parent=gene-N;Name=N;gene=N
+NC_003436	.	gene	27703	27810	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+NC_003436	.	CDS	27703	27810	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7

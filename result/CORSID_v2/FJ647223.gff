@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region FJ647223 1 31386
+FJ647223	.	gene	191	21690	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+FJ647223	.	CDS	191	13565	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+FJ647223	.	CDS	13565	21690	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+FJ647223	.	gene	21704	22501	.	+	.	ID=gene-nsns2;gene_biotype=protein_coding
+FJ647223	.	CDS	21704	22501	.	+	0	ID=cds-2;Parent=gene-nsns2;Name=nsns2;gene=nsns2
+FJ647223	.	gene	22547	23353	.	+	.	ID=putative-gene-3;gene_biotype=protein_coding
+FJ647223	.	CDS	22547	23353	.	+	0	ID=cds-3;Parent=putative-gene-3;Name=protein-3;gene=ORF3
+FJ647223	.	gene	23440	23553	.	+	.	ID=putative-gene-4;gene_biotype=protein_coding
+FJ647223	.	CDS	23440	23553	.	+	0	ID=cds-4;Parent=putative-gene-4;Name=protein-4;gene=ORF4
+FJ647223	.	gene	23570	23776	.	+	.	ID=putative-gene-5;gene_biotype=protein_coding
+FJ647223	.	CDS	23570	23776	.	+	0	ID=cds-5;Parent=putative-gene-5;Name=protein-5;gene=ORF5
+FJ647223	.	gene	23873	27964	.	+	.	ID=gene-S;gene_biotype=protein_coding
+FJ647223	.	CDS	23873	27964	.	+	0	ID=cds-6;Parent=gene-S;Name=S;gene=S
+FJ647223	.	gene	28058	28477	.	+	.	ID=gene-nsns4;gene_biotype=protein_coding
+FJ647223	.	CDS	28058	28477	.	+	0	ID=cds-7;Parent=gene-nsns4;Name=nsns4;gene=nsns4
+FJ647223	.	gene	28459	28782	.	+	.	ID=gene-nsns5;gene_biotype=protein_coding
+FJ647223	.	CDS	28459	28782	.	+	0	ID=cds-8;Parent=gene-nsns5;Name=nsns5;gene=nsns5
+FJ647223	.	gene	28775	29041	.	+	.	ID=gene-E;gene_biotype=protein_coding
+FJ647223	.	CDS	28775	29041	.	+	0	ID=cds-9;Parent=gene-E;Name=E;gene=E
+FJ647223	.	gene	29038	29724	.	+	.	ID=gene-M;gene_biotype=protein_coding
+FJ647223	.	CDS	29038	29724	.	+	0	ID=cds-10;Parent=gene-M;Name=M;gene=M
+FJ647223	.	gene	29739	31106	.	+	.	ID=gene-N;gene_biotype=protein_coding
+FJ647223	.	CDS	29739	31106	.	+	0	ID=cds-11;Parent=gene-N;Name=N;gene=N

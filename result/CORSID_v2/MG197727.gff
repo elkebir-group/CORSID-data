@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region MG197727 1 27696
+MG197727	.	gene	526	20420	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MG197727	.	CDS	526	12385	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MG197727	.	CDS	12385	20420	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MG197727	.	gene	20371	23865	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MG197727	.	CDS	20371	23865	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MG197727	.	gene	23865	24038	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+MG197727	.	CDS	23865	24038	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+MG197727	.	gene	24038	24226	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+MG197727	.	CDS	24038	24226	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+MG197727	.	gene	24213	24539	.	+	.	ID=gene-E;gene_biotype=protein_coding
+MG197727	.	CDS	24213	24539	.	+	0	ID=cds-5;Parent=gene-E;Name=E;gene=E
+MG197727	.	gene	24511	25188	.	+	.	ID=gene-M;gene_biotype=protein_coding
+MG197727	.	CDS	24511	25188	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+MG197727	.	gene	25189	25473	.	+	.	ID=gene-4b;gene_biotype=protein_coding
+MG197727	.	CDS	25189	25473	.	+	0	ID=cds-7;Parent=gene-4b;Name=4b;gene=4b
+MG197727	.	gene	25552	25749	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+MG197727	.	CDS	25552	25749	.	+	0	ID=cds-8;Parent=gene-5a;Name=5a;gene=5a
+MG197727	.	gene	25746	25994	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+MG197727	.	CDS	25746	25994	.	+	0	ID=cds-9;Parent=gene-5b;Name=5b;gene=5b
+MG197727	.	gene	25937	27166	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MG197727	.	CDS	25937	27166	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N
+MG197727	.	gene	27175	27396	.	+	.	ID=gene-6b;gene_biotype=protein_coding
+MG197727	.	CDS	27175	27396	.	+	0	ID=cds-11;Parent=gene-6b;Name=6b;gene=6b

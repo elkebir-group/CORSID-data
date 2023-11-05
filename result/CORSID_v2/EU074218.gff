@@ -1,0 +1,19 @@
+##gff-version 3.1.26
+##sequence-region EU074218 1 28569
+EU074218	.	gene	315	20368	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+EU074218	.	CDS	315	12366	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+EU074218	.	CDS	12366	20368	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+EU074218	.	gene	20365	24711	.	+	.	ID=gene-S;gene_biotype=protein_coding
+EU074218	.	CDS	20365	24711	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+EU074218	.	gene	24814	25032	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+EU074218	.	CDS	24814	25032	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+EU074218	.	gene	25094	25828	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+EU074218	.	CDS	25094	25828	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+EU074218	.	gene	25815	26063	.	+	.	ID=gene-sm;gene_biotype=protein_coding
+EU074218	.	CDS	25815	26063	.	+	0	ID=cds-5;Parent=gene-sm;Name=sm;gene=sm
+EU074218	.	gene	26074	26862	.	+	.	ID=gene-M;gene_biotype=protein_coding
+EU074218	.	CDS	26074	26862	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+EU074218	.	gene	26875	28023	.	+	.	ID=gene-N;gene_biotype=protein_coding
+EU074218	.	CDS	26875	28023	.	+	0	ID=cds-7;Parent=gene-N;Name=N;gene=N
+EU074218	.	gene	28029	28265	.	+	.	ID=gene-ns7;gene_biotype=protein_coding
+EU074218	.	CDS	28029	28265	.	+	0	ID=cds-8;Parent=gene-ns7;Name=ns7;gene=ns7

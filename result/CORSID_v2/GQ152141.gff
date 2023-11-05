@@ -1,0 +1,21 @@
+##gff-version 3.1.26
+##sequence-region GQ152141 1 28897
+GQ152141	.	gene	313	20417	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+GQ152141	.	CDS	313	12415	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+GQ152141	.	CDS	12415	20417	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+GQ152141	.	gene	20414	24775	.	+	.	ID=gene-S;gene_biotype=protein_coding
+GQ152141	.	CDS	20414	24775	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+GQ152141	.	gene	24840	25076	.	+	.	ID=putative-gene-3;gene_biotype=protein_coding
+GQ152141	.	CDS	24840	25076	.	+	0	ID=cds-3;Parent=putative-gene-3;Name=protein-3;gene=ORF3
+GQ152141	.	gene	25233	25433	.	+	.	ID=putative-gene-4;gene_biotype=protein_coding
+GQ152141	.	CDS	25233	25433	.	+	0	ID=cds-4;Parent=putative-gene-4;Name=protein-4;gene=ORF4
+GQ152141	.	gene	25512	25760	.	+	.	ID=gene-E;gene_biotype=protein_coding
+GQ152141	.	CDS	25512	25760	.	+	0	ID=cds-5;Parent=gene-E;Name=E;gene=E
+GQ152141	.	gene	25771	26556	.	+	.	ID=gene-M;gene_biotype=protein_coding
+GQ152141	.	CDS	25771	26556	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+GQ152141	.	gene	26569	27687	.	+	.	ID=gene-N;gene_biotype=protein_coding
+GQ152141	.	CDS	26569	27687	.	+	0	ID=cds-7;Parent=gene-N;Name=N;gene=N
+GQ152141	.	gene	27692	27997	.	+	.	ID=gene-unknown#;gene_biotype=protein_coding
+GQ152141	.	CDS	27692	27997	.	+	0	ID=cds-8;Parent=gene-unknown#;Name=unknown#;gene=unknown#
+GQ152141	.	gene	28002	28622	.	+	.	ID=gene-unknown##;gene_biotype=protein_coding
+GQ152141	.	CDS	28002	28622	.	+	0	ID=cds-9;Parent=gene-unknown##;Name=unknown##;gene=unknown##

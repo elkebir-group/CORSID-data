@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region MG913342 1 27618
+MG913342	.	gene	529	20363	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MG913342	.	CDS	529	12328	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MG913342	.	CDS	12328	20363	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MG913342	.	gene	20314	23823	.	+	.	ID=gene-spike s glyco;gene_biotype=protein_coding
+MG913342	.	CDS	20314	23823	.	+	0	ID=cds-2;Parent=gene-spike s glyco;Name=spike s glyco;gene=spike s glyco
+MG913342	.	gene	23823	23996	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+MG913342	.	CDS	23823	23996	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+MG913342	.	gene	23996	24187	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+MG913342	.	CDS	23996	24187	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+MG913342	.	gene	24171	24494	.	+	.	ID=gene-envelope e;gene_biotype=protein_coding
+MG913342	.	CDS	24171	24494	.	+	0	ID=cds-5;Parent=gene-envelope e;Name=envelope e;gene=envelope e
+MG913342	.	gene	24463	25143	.	+	.	ID=gene-membrane m;gene_biotype=protein_coding
+MG913342	.	CDS	24463	25143	.	+	0	ID=cds-6;Parent=gene-membrane m;Name=membrane m;gene=membrane m
+MG913342	.	gene	25144	25428	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+MG913342	.	CDS	25144	25428	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7
+MG913342	.	gene	25503	25700	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+MG913342	.	CDS	25503	25700	.	+	0	ID=cds-8;Parent=gene-5a;Name=5a;gene=5a
+MG913342	.	gene	25697	25945	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+MG913342	.	CDS	25697	25945	.	+	0	ID=cds-9;Parent=gene-5b;Name=5b;gene=5b
+MG913342	.	gene	25888	27114	.	+	.	ID=gene-nucleocapsid n;gene_biotype=protein_coding
+MG913342	.	CDS	25888	27114	.	+	0	ID=cds-10;Parent=gene-nucleocapsid n;Name=nucleocapsid n;gene=nucleocapsid n
+MG913342	.	gene	27123	27332	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+MG913342	.	CDS	27123	27332	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11

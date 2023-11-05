@@ -1,0 +1,15 @@
+##gff-version 3.1.26
+##sequence-region MF542265 1 27271
+MF542265	.	gene	295	20585	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MF542265	.	CDS	295	12565	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MF542265	.	CDS	12565	20585	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MF542265	.	gene	20587	24102	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MF542265	.	CDS	20587	24102	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MF542265	.	gene	24102	24761	.	+	.	ID=gene-accessory;gene_biotype=protein_coding
+MF542265	.	CDS	24102	24761	.	+	0	ID=cds-3;Parent=gene-accessory;Name=accessory;gene=accessory
+MF542265	.	gene	24763	24996	.	+	.	ID=gene-E;gene_biotype=protein_coding
+MF542265	.	CDS	24763	24996	.	+	0	ID=cds-4;Parent=gene-E;Name=E;gene=E
+MF542265	.	gene	25008	25685	.	+	.	ID=gene-M;gene_biotype=protein_coding
+MF542265	.	CDS	25008	25685	.	+	0	ID=cds-5;Parent=gene-M;Name=M;gene=M
+MF542265	.	gene	25699	26868	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MF542265	.	CDS	25699	26868	.	+	0	ID=cds-6;Parent=gene-N;Name=N;gene=N

@@ -1,0 +1,19 @@
+##gff-version 3.1.26
+##sequence-region MF577027 1 28315
+MF577027	.	gene	292	20636	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MF577027	.	CDS	292	12643	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MF577027	.	CDS	12643	20636	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MF577027	.	gene	20633	24751	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MF577027	.	CDS	20633	24751	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MF577027	.	gene	24751	25425	.	+	.	ID=gene-mp;gene_biotype=protein_coding
+MF577027	.	CDS	24751	25425	.	+	0	ID=cds-3;Parent=gene-mp;Name=mp;gene=mp
+MF577027	.	gene	25406	25636	.	+	.	ID=gene-E;gene_biotype=protein_coding
+MF577027	.	CDS	25406	25636	.	+	0	ID=cds-4;Parent=gene-E;Name=E;gene=E
+MF577027	.	gene	25644	26324	.	+	.	ID=gene-M;gene_biotype=protein_coding
+MF577027	.	CDS	25644	26324	.	+	0	ID=cds-5;Parent=gene-M;Name=M;gene=M
+MF577027	.	gene	26336	27640	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MF577027	.	CDS	26336	27640	.	+	0	ID=cds-6;Parent=gene-N;Name=N;gene=N
+MF577027	.	gene	27659	28045	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+MF577027	.	CDS	27659	28045	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7
+MF577027	.	gene	28088	28204	.	+	.	ID=putative-gene-8;gene_biotype=protein_coding
+MF577027	.	CDS	28088	28204	.	+	0	ID=cds-8;Parent=putative-gene-8;Name=protein-8;gene=ORF8

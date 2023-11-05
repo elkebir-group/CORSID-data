@@ -1,0 +1,23 @@
+##gff-version 3.1.26
+##sequence-region MG916902 1 29074
+MG916902	.	gene	298	20435	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MG916902	.	CDS	298	12442	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MG916902	.	CDS	12442	20435	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MG916902	.	gene	20437	24495	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MG916902	.	CDS	20437	24495	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MG916902	.	gene	24495	25154	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+MG916902	.	CDS	24495	25154	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+MG916902	.	gene	25164	25478	.	+	.	ID=gene-4a;gene_biotype=protein_coding
+MG916902	.	CDS	25164	25478	.	+	0	ID=cds-4;Parent=gene-4a;Name=4a;gene=4a
+MG916902	.	gene	25507	25953	.	+	.	ID=gene-4b;gene_biotype=protein_coding
+MG916902	.	CDS	25507	25953	.	+	0	ID=cds-5;Parent=gene-4b;Name=4b;gene=4b
+MG916902	.	gene	25934	26158	.	+	.	ID=gene-E;gene_biotype=protein_coding
+MG916902	.	CDS	25934	26158	.	+	0	ID=cds-6;Parent=gene-E;Name=E;gene=E
+MG916902	.	gene	26170	26859	.	+	.	ID=gene-M;gene_biotype=protein_coding
+MG916902	.	CDS	26170	26859	.	+	0	ID=cds-7;Parent=gene-M;Name=M;gene=M
+MG916902	.	gene	26870	28096	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MG916902	.	CDS	26870	28096	.	+	0	ID=cds-8;Parent=gene-N;Name=N;gene=N
+MG916902	.	gene	28077	28385	.	+	.	ID=putative-gene-9;gene_biotype=protein_coding
+MG916902	.	CDS	28077	28385	.	+	0	ID=cds-9;Parent=putative-gene-9;Name=protein-9;gene=ORF9
+MG916902	.	gene	28425	28790	.	+	.	ID=gene-9;gene_biotype=protein_coding
+MG916902	.	CDS	28425	28790	.	+	0	ID=cds-10;Parent=gene-9;Name=9;gene=9

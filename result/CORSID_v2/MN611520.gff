@@ -1,0 +1,21 @@
+##gff-version 3.1.26
+##sequence-region MN611520 1 30511
+MN611520	.	gene	278	21816	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MN611520	.	CDS	278	13718	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MN611520	.	CDS	13718	21816	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MN611520	.	gene	21743	25822	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MN611520	.	CDS	21743	25822	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MN611520	.	gene	25785	26150	.	+	.	ID=gene-ns3a;gene_biotype=protein_coding
+MN611520	.	CDS	25785	26150	.	+	0	ID=cds-3;Parent=gene-ns3a;Name=ns3a;gene=ns3a
+MN611520	.	gene	26163	26522	.	+	.	ID=gene-ns3b;gene_biotype=protein_coding
+MN611520	.	CDS	26163	26522	.	+	0	ID=cds-4;Parent=gene-ns3b;Name=ns3b;gene=ns3b
+MN611520	.	gene	26575	27174	.	+	.	ID=putative-gene-5;gene_biotype=protein_coding
+MN611520	.	CDS	26575	27174	.	+	0	ID=cds-5;Parent=putative-gene-5;Name=protein-5;gene=ORF5
+MN611520	.	gene	27184	27855	.	+	.	ID=gene-ns3d;gene_biotype=protein_coding
+MN611520	.	CDS	27184	27855	.	+	0	ID=cds-6;Parent=gene-ns3d;Name=ns3d;gene=ns3d
+MN611520	.	gene	27873	28181	.	+	.	ID=gene-E;gene_biotype=protein_coding
+MN611520	.	CDS	27873	28181	.	+	0	ID=cds-7;Parent=gene-E;Name=E;gene=E
+MN611520	.	gene	28196	28858	.	+	.	ID=gene-M;gene_biotype=protein_coding
+MN611520	.	CDS	28196	28858	.	+	0	ID=cds-8;Parent=gene-M;Name=M;gene=M
+MN611520	.	gene	28908	30191	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MN611520	.	CDS	28908	30191	.	+	0	ID=cds-9;Parent=gene-N;Name=N;gene=N

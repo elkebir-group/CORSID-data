@@ -1,0 +1,23 @@
+##gff-version 3.1.26
+##sequence-region KP868572 1 27452
+KP868572	.	gene	526	20162	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KP868572	.	CDS	526	12355	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KP868572	.	CDS	12355	20162	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KP868572	.	gene	20113	23613	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KP868572	.	CDS	20113	23613	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KP868572	.	gene	23783	24001	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+KP868572	.	CDS	23783	24001	.	+	0	ID=cds-3;Parent=gene-3b;Name=3b;gene=3b
+KP868572	.	gene	23985	24311	.	+	.	ID=gene-3c;gene_biotype=protein_coding
+KP868572	.	CDS	23985	24311	.	+	0	ID=cds-4;Parent=gene-3c;Name=3c;gene=3c
+KP868572	.	gene	24283	24960	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KP868572	.	CDS	24283	24960	.	+	0	ID=cds-5;Parent=gene-M;Name=M;gene=M
+KP868572	.	gene	24961	25245	.	+	.	ID=putative-gene-6;gene_biotype=protein_coding
+KP868572	.	CDS	24961	25245	.	+	0	ID=cds-6;Parent=putative-gene-6;Name=protein-6;gene=ORF6
+KP868572	.	gene	25324	25521	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+KP868572	.	CDS	25324	25521	.	+	0	ID=cds-7;Parent=gene-5a;Name=5a;gene=5a
+KP868572	.	gene	25518	25766	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+KP868572	.	CDS	25518	25766	.	+	0	ID=cds-8;Parent=gene-5b;Name=5b;gene=5b
+KP868572	.	gene	25709	26938	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KP868572	.	CDS	25709	26938	.	+	0	ID=cds-9;Parent=gene-N;Name=N;gene=N
+KP868572	.	gene	26947	27168	.	+	.	ID=putative-gene-10;gene_biotype=protein_coding
+KP868572	.	CDS	26947	27168	.	+	0	ID=cds-10;Parent=putative-gene-10;Name=protein-10;gene=ORF10

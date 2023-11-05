@@ -1,0 +1,19 @@
+##gff-version 3.1.26
+##sequence-region KY994645 1 30684
+KY994645	.	gene	211	21494	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KY994645	.	CDS	211	13357	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KY994645	.	CDS	13357	21494	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KY994645	.	gene	21504	22205	.	+	.	ID=gene-ns2;gene_biotype=protein_coding
+KY994645	.	CDS	21504	22205	.	+	0	ID=cds-2;Parent=gene-ns2;Name=ns2;gene=ns2
+KY994645	.	gene	22354	23628	.	+	.	ID=gene-he;gene_biotype=protein_coding
+KY994645	.	CDS	22354	23628	.	+	0	ID=cds-3;Parent=gene-he;Name=he;gene=he
+KY994645	.	gene	23643	27692	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KY994645	.	CDS	23643	27692	.	+	0	ID=cds-4;Parent=gene-S;Name=S;gene=S
+KY994645	.	gene	27760	28089	.	+	.	ID=gene-ns12.7;gene_biotype=protein_coding
+KY994645	.	CDS	27760	28089	.	+	0	ID=cds-5;Parent=gene-ns12.7;Name=ns12.7;gene=ns12.7
+KY994645	.	gene	28076	28330	.	+	.	ID=gene-E;gene_biotype=protein_coding
+KY994645	.	CDS	28076	28330	.	+	0	ID=cds-6;Parent=gene-E;Name=E;gene=E
+KY994645	.	gene	28345	29037	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KY994645	.	CDS	28345	29037	.	+	0	ID=cds-7;Parent=gene-M;Name=M;gene=M
+KY994645	.	gene	29047	30396	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KY994645	.	CDS	29047	30396	.	+	0	ID=cds-8;Parent=gene-N;Name=N;gene=N

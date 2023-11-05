@@ -1,0 +1,27 @@
+##gff-version 3.1.26
+##sequence-region MH020185 1 27688
+MH020185	.	gene	526	20420	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MH020185	.	CDS	526	12385	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MH020185	.	CDS	12385	20420	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MH020185	.	gene	20371	23868	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MH020185	.	CDS	20371	23868	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MH020185	.	gene	23868	24041	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+MH020185	.	CDS	23868	24041	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+MH020185	.	gene	24041	24229	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+MH020185	.	CDS	24041	24229	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+MH020185	.	gene	24216	24542	.	+	.	ID=gene-E;gene_biotype=protein_coding
+MH020185	.	CDS	24216	24542	.	+	0	ID=cds-5;Parent=gene-E;Name=E;gene=E
+MH020185	.	gene	24514	25191	.	+	.	ID=putative-gene-6;gene_biotype=protein_coding
+MH020185	.	CDS	24514	25191	.	+	0	ID=cds-6;Parent=putative-gene-6;Name=protein-6;gene=ORF6
+MH020185	.	gene	25192	25329	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+MH020185	.	CDS	25192	25329	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7
+MH020185	.	gene	25398	25559	.	+	.	ID=putative-gene-8;gene_biotype=protein_coding
+MH020185	.	CDS	25398	25559	.	+	0	ID=cds-8;Parent=putative-gene-8;Name=protein-8;gene=ORF8
+MH020185	.	gene	25556	25753	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+MH020185	.	CDS	25556	25753	.	+	0	ID=cds-9;Parent=gene-5a;Name=5a;gene=5a
+MH020185	.	gene	25750	25998	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+MH020185	.	CDS	25750	25998	.	+	0	ID=cds-10;Parent=gene-5b;Name=5b;gene=5b
+MH020185	.	gene	25941	27170	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MH020185	.	CDS	25941	27170	.	+	0	ID=cds-11;Parent=gene-N;Name=N;gene=N
+MH020185	.	gene	27179	27400	.	+	.	ID=putative-gene-12;gene_biotype=protein_coding
+MH020185	.	CDS	27179	27400	.	+	0	ID=cds-12;Parent=putative-gene-12;Name=protein-12;gene=ORF12

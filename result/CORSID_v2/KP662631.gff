@@ -1,0 +1,23 @@
+##gff-version 3.1.26
+##sequence-region KP662631 1 27388
+KP662631	.	gene	358	20198	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KP662631	.	CDS	358	12163	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KP662631	.	CDS	12163	20198	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KP662631	.	gene	20149	23586	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KP662631	.	CDS	20149	23586	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KP662631	.	gene	23759	23950	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+KP662631	.	CDS	23759	23950	.	+	0	ID=cds-3;Parent=gene-3b;Name=3b;gene=3b
+KP662631	.	gene	23931	24263	.	+	.	ID=gene-E;gene_biotype=protein_coding
+KP662631	.	CDS	23931	24263	.	+	0	ID=cds-4;Parent=gene-E;Name=E;gene=E
+KP662631	.	gene	24388	24912	.	+	.	ID=putative-gene-5;gene_biotype=protein_coding
+KP662631	.	CDS	24388	24912	.	+	0	ID=cds-5;Parent=putative-gene-5;Name=protein-5;gene=ORF5
+KP662631	.	gene	25118	25288	.	+	.	ID=gene-4c;gene_biotype=protein_coding
+KP662631	.	CDS	25118	25288	.	+	0	ID=cds-6;Parent=gene-4c;Name=4c;gene=4c
+KP662631	.	gene	25272	25469	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+KP662631	.	CDS	25272	25469	.	+	0	ID=cds-7;Parent=gene-5a;Name=5a;gene=5a
+KP662631	.	gene	25466	25714	.	+	.	ID=putative-gene-8;gene_biotype=protein_coding
+KP662631	.	CDS	25466	25714	.	+	0	ID=cds-8;Parent=putative-gene-8;Name=protein-8;gene=ORF8
+KP662631	.	gene	25657	26886	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KP662631	.	CDS	25657	26886	.	+	0	ID=cds-9;Parent=gene-N;Name=N;gene=N
+KP662631	.	gene	26895	27116	.	+	.	ID=gene-6b;gene_biotype=protein_coding
+KP662631	.	CDS	26895	27116	.	+	0	ID=cds-10;Parent=gene-6b;Name=6b;gene=6b

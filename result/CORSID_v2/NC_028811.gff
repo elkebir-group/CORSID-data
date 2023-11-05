@@ -1,0 +1,19 @@
+##gff-version 3.1.26
+##sequence-region NC_028811 1 27935
+NC_028811	.	gene	299	20286	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+NC_028811	.	CDS	299	12266	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+NC_028811	.	CDS	12266	20286	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+NC_028811	.	gene	20095	20286	.	+	.	ID=putative-gene-2;gene_biotype=protein_coding
+NC_028811	.	CDS	20095	20286	.	+	0	ID=cds-2;Parent=putative-gene-2;Name=protein-2;gene=ORF2
+NC_028811	.	gene	20288	24451	.	+	.	ID=gene-S;gene_biotype=protein_coding
+NC_028811	.	CDS	20288	24451	.	+	0	ID=cds-3;Parent=gene-S;Name=S;gene=S
+NC_028811	.	gene	24448	25107	.	+	.	ID=gene-3?;gene_biotype=protein_coding
+NC_028811	.	CDS	24448	25107	.	+	0	ID=cds-4;Parent=gene-3?;Name=3?;gene=3?
+NC_028811	.	gene	25109	25339	.	+	.	ID=gene-small E;gene_biotype=protein_coding
+NC_028811	.	CDS	25109	25339	.	+	0	ID=cds-5;Parent=gene-small E;Name=small E;gene=small E
+NC_028811	.	gene	25349	26032	.	+	.	ID=gene-M;gene_biotype=protein_coding
+NC_028811	.	CDS	25349	26032	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+NC_028811	.	gene	26041	27330	.	+	.	ID=gene-N;gene_biotype=protein_coding
+NC_028811	.	CDS	26041	27330	.	+	0	ID=cds-7;Parent=gene-N;Name=N;gene=N
+NC_028811	.	gene	27403	27741	.	+	.	ID=putative-gene-8;gene_biotype=protein_coding
+NC_028811	.	CDS	27403	27741	.	+	0	ID=cds-8;Parent=putative-gene-8;Name=protein-8;gene=ORF8

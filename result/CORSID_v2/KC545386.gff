@@ -1,0 +1,19 @@
+##gff-version 3.1.26
+##sequence-region KC545386 1 30175
+KC545386	.	gene	241	21719	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KC545386	.	CDS	241	13630	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KC545386	.	CDS	13630	21719	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KC545386	.	gene	21637	25629	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KC545386	.	CDS	21637	25629	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KC545386	.	gene	25918	26163	.	+	.	ID=gene-4a;gene_biotype=protein_coding
+KC545386	.	CDS	25918	26163	.	+	0	ID=cds-3;Parent=gene-4a;Name=4a;gene=4a
+KC545386	.	gene	26150	26821	.	+	.	ID=gene-4b;gene_biotype=protein_coding
+KC545386	.	CDS	26150	26821	.	+	0	ID=cds-4;Parent=gene-4b;Name=4b;gene=4b
+KC545386	.	gene	26831	27532	.	+	.	ID=gene-5;gene_biotype=protein_coding
+KC545386	.	CDS	26831	27532	.	+	0	ID=cds-5;Parent=gene-5;Name=5;gene=5
+KC545386	.	gene	27606	27854	.	+	.	ID=gene-E;gene_biotype=protein_coding
+KC545386	.	CDS	27606	27854	.	+	0	ID=cds-6;Parent=gene-E;Name=E;gene=E
+KC545386	.	gene	27869	28525	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KC545386	.	CDS	27869	28525	.	+	0	ID=cds-7;Parent=gene-M;Name=M;gene=M
+KC545386	.	gene	28580	29854	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KC545386	.	CDS	28580	29854	.	+	0	ID=cds-8;Parent=gene-N;Name=N;gene=N

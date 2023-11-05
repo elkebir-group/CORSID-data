@@ -1,0 +1,19 @@
+##gff-version 3.1.26
+##sequence-region KR270796 1 27765
+KR270796	.	gene	315	20356	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KR270796	.	CDS	315	12354	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KR270796	.	CDS	12354	20356	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KR270796	.	gene	20353	24051	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KR270796	.	CDS	20353	24051	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KR270796	.	gene	24020	24148	.	+	.	ID=putative-gene-3;gene_biotype=protein_coding
+KR270796	.	CDS	24020	24148	.	+	0	ID=cds-3;Parent=putative-gene-3;Name=protein-3;gene=ORF3
+KR270796	.	gene	24327	25082	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+KR270796	.	CDS	24327	25082	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+KR270796	.	gene	25048	25293	.	+	.	ID=gene-E;gene_biotype=protein_coding
+KR270796	.	CDS	25048	25293	.	+	0	ID=cds-5;Parent=gene-E;Name=E;gene=E
+KR270796	.	gene	25304	26089	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KR270796	.	CDS	25304	26089	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+KR270796	.	gene	26102	27250	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KR270796	.	CDS	26102	27250	.	+	0	ID=cds-7;Parent=gene-N;Name=N;gene=N
+KR270796	.	gene	27256	27492	.	+	.	ID=gene-7;gene_biotype=protein_coding
+KR270796	.	CDS	27256	27492	.	+	0	ID=cds-8;Parent=gene-7;Name=7;gene=7

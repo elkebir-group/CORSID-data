@@ -1,0 +1,17 @@
+##gff-version 3.1.26
+##sequence-region NC_030292 1 28434
+NC_030292	.	gene	276	20143	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+NC_030292	.	CDS	276	12150	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+NC_030292	.	CDS	12150	20143	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+NC_030292	.	gene	20136	24452	.	+	.	ID=gene-S;gene_biotype=protein_coding
+NC_030292	.	CDS	20136	24452	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+NC_030292	.	gene	24473	25216	.	+	.	ID=gene-nsp;gene_biotype=protein_coding
+NC_030292	.	CDS	24473	25216	.	+	0	ID=cds-3;Parent=gene-nsp;Name=nsp;gene=nsp
+NC_030292	.	gene	25185	25433	.	+	.	ID=gene-E;gene_biotype=protein_coding
+NC_030292	.	CDS	25185	25433	.	+	0	ID=cds-4;Parent=gene-E;Name=E;gene=E
+NC_030292	.	gene	25448	26245	.	+	.	ID=gene-M;gene_biotype=protein_coding
+NC_030292	.	CDS	25448	26245	.	+	0	ID=cds-5;Parent=gene-M;Name=M;gene=M
+NC_030292	.	gene	26262	27389	.	+	.	ID=gene-N;gene_biotype=protein_coding
+NC_030292	.	CDS	26262	27389	.	+	0	ID=cds-6;Parent=gene-N;Name=N;gene=N
+NC_030292	.	gene	27398	27670	.	+	.	ID=gene-3x-like;gene_biotype=protein_coding
+NC_030292	.	CDS	27398	27670	.	+	0	ID=cds-7;Parent=gene-3x-like;Name=3x-like;gene=3x-like

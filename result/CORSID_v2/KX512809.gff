@@ -1,0 +1,17 @@
+##gff-version 3.1.26
+##sequence-region KX512809 1 28151
+KX512809	.	gene	12097	24223	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KX512809	.	CDS	12097	19864	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KX512809	.	CDS	19864	24223	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KX512809	.	gene	24244	24987	.	+	.	ID=gene-3;gene_biotype=protein_coding
+KX512809	.	CDS	24244	24987	.	+	0	ID=cds-2;Parent=gene-3;Name=3;gene=3
+KX512809	.	gene	24956	25204	.	+	.	ID=gene-E;gene_biotype=protein_coding
+KX512809	.	CDS	24956	25204	.	+	0	ID=cds-3;Parent=gene-E;Name=E;gene=E
+KX512809	.	gene	25465	26001	.	+	.	ID=putative-gene-4;gene_biotype=protein_coding
+KX512809	.	CDS	25465	26001	.	+	0	ID=cds-4;Parent=putative-gene-4;Name=protein-4;gene=ORF4
+KX512809	.	gene	26018	27142	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KX512809	.	CDS	26018	27142	.	+	0	ID=cds-5;Parent=gene-N;Name=N;gene=N
+KX512809	.	gene	27314	27928	.	+	.	ID=gene-7b;gene_biotype=protein_coding
+KX512809	.	CDS	27314	27928	.	+	0	ID=cds-6;Parent=gene-7b;Name=7b;gene=7b
+KX512809	.	gene	27915	28040	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+KX512809	.	CDS	27915	28040	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7

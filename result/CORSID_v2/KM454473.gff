@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region KM454473 1 27754
+KM454473	.	gene	347	20364	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KM454473	.	CDS	347	12290	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KM454473	.	CDS	12290	20364	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KM454473	.	gene	20318	23893	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KM454473	.	CDS	20318	23893	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KM454473	.	gene	23893	24066	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+KM454473	.	CDS	23893	24066	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+KM454473	.	gene	24066	24257	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+KM454473	.	CDS	24066	24257	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+KM454473	.	gene	24238	24519	.	+	.	ID=gene-3c;gene_biotype=protein_coding
+KM454473	.	CDS	24238	24519	.	+	0	ID=cds-5;Parent=gene-3c;Name=3c;gene=3c
+KM454473	.	gene	24516	25223	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KM454473	.	CDS	24516	25223	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+KM454473	.	gene	25224	25508	.	+	.	ID=gene-x;gene_biotype=protein_coding
+KM454473	.	CDS	25224	25508	.	+	0	ID=cds-7;Parent=gene-x;Name=x;gene=x
+KM454473	.	gene	25587	25784	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+KM454473	.	CDS	25587	25784	.	+	0	ID=cds-8;Parent=gene-5a;Name=5a;gene=5a
+KM454473	.	gene	25781	26029	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+KM454473	.	CDS	25781	26029	.	+	0	ID=cds-9;Parent=gene-5b;Name=5b;gene=5b
+KM454473	.	gene	25972	27216	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KM454473	.	CDS	25972	27216	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N
+KM454473	.	gene	27246	27458	.	+	.	ID=gene-y;gene_biotype=protein_coding
+KM454473	.	CDS	27246	27458	.	+	0	ID=cds-11;Parent=gene-y;Name=y;gene=y

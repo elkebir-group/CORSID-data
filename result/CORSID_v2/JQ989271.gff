@@ -1,0 +1,19 @@
+##gff-version 3.1.26
+##sequence-region JQ989271 1 28489
+JQ989271	.	gene	303	20647	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+JQ989271	.	CDS	303	12648	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+JQ989271	.	CDS	12648	20647	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+JQ989271	.	gene	20644	24693	.	+	.	ID=gene-S;gene_biotype=protein_coding
+JQ989271	.	CDS	20644	24693	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+JQ989271	.	gene	24693	25349	.	+	.	ID=gene-nsns3;gene_biotype=protein_coding
+JQ989271	.	CDS	24693	25349	.	+	0	ID=cds-3;Parent=gene-nsns3;Name=nsns3;gene=nsns3
+JQ989271	.	gene	25378	25605	.	+	.	ID=gene-E;gene_biotype=protein_coding
+JQ989271	.	CDS	25378	25605	.	+	0	ID=cds-4;Parent=gene-E;Name=E;gene=E
+JQ989271	.	gene	25611	26291	.	+	.	ID=gene-M;gene_biotype=protein_coding
+JQ989271	.	CDS	25611	26291	.	+	0	ID=cds-5;Parent=gene-M;Name=M;gene=M
+JQ989271	.	gene	26303	27511	.	+	.	ID=gene-N;gene_biotype=protein_coding
+JQ989271	.	CDS	26303	27511	.	+	0	ID=cds-6;Parent=gene-N;Name=N;gene=N
+JQ989271	.	gene	27527	27772	.	+	.	ID=gene-nsns7a;gene_biotype=protein_coding
+JQ989271	.	CDS	27527	27772	.	+	0	ID=cds-7;Parent=gene-nsns7a;Name=nsns7a;gene=nsns7a
+JQ989271	.	gene	27782	28243	.	+	.	ID=gene-nsns7b;gene_biotype=protein_coding
+JQ989271	.	CDS	27782	28243	.	+	0	ID=cds-8;Parent=gene-nsns7b;Name=nsns7b;gene=nsns7b

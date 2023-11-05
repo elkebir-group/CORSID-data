@@ -1,0 +1,23 @@
+##gff-version 3.1.26
+##sequence-region KR902510 1 27464
+KR902510	.	gene	529	20423	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KR902510	.	CDS	529	12478	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KR902510	.	CDS	12478	20423	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KR902510	.	gene	20374	23835	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KR902510	.	CDS	20374	23835	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KR902510	.	gene	23862	24035	.	+	.	ID=gene-3;gene_biotype=protein_coding
+KR902510	.	CDS	23862	24035	.	+	0	ID=cds-3;Parent=gene-3;Name=3;gene=3
+KR902510	.	gene	24035	24229	.	+	.	ID=gene-3#;gene_biotype=protein_coding
+KR902510	.	CDS	24035	24229	.	+	0	ID=cds-4;Parent=gene-3#;Name=3#;gene=3#
+KR902510	.	gene	24210	24539	.	+	.	ID=gene-3##;gene_biotype=protein_coding
+KR902510	.	CDS	24210	24539	.	+	0	ID=cds-5;Parent=gene-3##;Name=3##;gene=3##
+KR902510	.	gene	24511	25188	.	+	.	ID=gene-4;gene_biotype=protein_coding
+KR902510	.	CDS	24511	25188	.	+	0	ID=cds-6;Parent=gene-4;Name=4;gene=4
+KR902510	.	gene	25189	25473	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+KR902510	.	CDS	25189	25473	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7
+KR902510	.	gene	25539	25736	.	+	.	ID=gene-5;gene_biotype=protein_coding
+KR902510	.	CDS	25539	25736	.	+	0	ID=cds-8;Parent=gene-5;Name=5;gene=5
+KR902510	.	gene	25733	25981	.	+	.	ID=gene-5#;gene_biotype=protein_coding
+KR902510	.	CDS	25733	25981	.	+	0	ID=cds-9;Parent=gene-5#;Name=5#;gene=5#
+KR902510	.	gene	25924	27153	.	+	.	ID=gene-6;gene_biotype=protein_coding
+KR902510	.	CDS	25924	27153	.	+	0	ID=cds-10;Parent=gene-6;Name=6;gene=6

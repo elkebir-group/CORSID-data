@@ -1,0 +1,23 @@
+##gff-version 3.1.26
+##sequence-region KF460437 1 27610
+KF460437	.	gene	517	20405	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KF460437	.	CDS	517	12370	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KF460437	.	CDS	12370	20405	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KF460437	.	gene	20356	23859	.	+	.	ID=gene-spike (s) glyco;gene_biotype=protein_coding
+KF460437	.	CDS	20356	23859	.	+	0	ID=cds-2;Parent=gene-spike (s) glyco;Name=spike (s) glyco;gene=spike (s) glyco
+KF460437	.	gene	23859	24032	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+KF460437	.	CDS	23859	24032	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+KF460437	.	gene	24032	24226	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+KF460437	.	CDS	24032	24226	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+KF460437	.	gene	24210	24530	.	+	.	ID=gene-E;gene_biotype=protein_coding
+KF460437	.	CDS	24210	24530	.	+	0	ID=cds-5;Parent=gene-E;Name=E;gene=E
+KF460437	.	gene	24508	25179	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KF460437	.	CDS	24508	25179	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+KF460437	.	gene	25180	25464	.	+	.	ID=gene-4b;gene_biotype=protein_coding
+KF460437	.	CDS	25180	25464	.	+	0	ID=cds-7;Parent=gene-4b;Name=4b;gene=4b
+KF460437	.	gene	25539	25736	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+KF460437	.	CDS	25539	25736	.	+	0	ID=cds-8;Parent=gene-5a;Name=5a;gene=5a
+KF460437	.	gene	25733	25981	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+KF460437	.	CDS	25733	25981	.	+	0	ID=cds-9;Parent=gene-5b;Name=5b;gene=5b
+KF460437	.	gene	25924	27153	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KF460437	.	CDS	25924	27153	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N

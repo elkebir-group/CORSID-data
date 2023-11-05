@@ -1,0 +1,23 @@
+##gff-version 3.1.26
+##sequence-region KY933089 1 27573
+KY933089	.	gene	435	20317	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KY933089	.	CDS	435	12282	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KY933089	.	CDS	12282	20317	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KY933089	.	gene	20268	23765	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KY933089	.	CDS	20268	23765	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KY933089	.	gene	23938	24129	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+KY933089	.	CDS	23938	24129	.	+	0	ID=cds-3;Parent=gene-3b;Name=3b;gene=3b
+KY933089	.	gene	24110	24442	.	+	.	ID=gene-E;gene_biotype=protein_coding
+KY933089	.	CDS	24110	24442	.	+	0	ID=cds-4;Parent=gene-E;Name=E;gene=E
+KY933089	.	gene	24411	25091	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KY933089	.	CDS	24411	25091	.	+	0	ID=cds-5;Parent=gene-M;Name=M;gene=M
+KY933089	.	gene	25200	25376	.	+	.	ID=putative-gene-6;gene_biotype=protein_coding
+KY933089	.	CDS	25200	25376	.	+	0	ID=cds-6;Parent=putative-gene-6;Name=protein-6;gene=ORF6
+KY933089	.	gene	25455	25652	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+KY933089	.	CDS	25455	25652	.	+	0	ID=cds-7;Parent=gene-5a;Name=5a;gene=5a
+KY933089	.	gene	25649	25897	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+KY933089	.	CDS	25649	25897	.	+	0	ID=cds-8;Parent=gene-5b;Name=5b;gene=5b
+KY933089	.	gene	25840	27069	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KY933089	.	CDS	25840	27069	.	+	0	ID=cds-9;Parent=gene-N;Name=N;gene=N
+KY933089	.	gene	27078	27299	.	+	.	ID=gene-6b;gene_biotype=protein_coding
+KY933089	.	CDS	27078	27299	.	+	0	ID=cds-10;Parent=gene-6b;Name=6b;gene=6b

@@ -1,0 +1,21 @@
+##gff-version 3.1.26
+##sequence-region DQ648794 1 30307
+DQ648794	.	gene	260	21639	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+DQ648794	.	CDS	260	13583	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+DQ648794	.	CDS	13583	21639	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+DQ648794	.	gene	21584	25636	.	+	.	ID=gene-S;gene_biotype=protein_coding
+DQ648794	.	CDS	21584	25636	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+DQ648794	.	gene	25663	25938	.	+	.	ID=gene-3a??;gene_biotype=protein_coding
+DQ648794	.	CDS	25663	25938	.	+	0	ID=cds-3;Parent=gene-3a??;Name=3a??;gene=3a??
+DQ648794	.	gene	25956	26315	.	+	.	ID=putative-gene-4;gene_biotype=protein_coding
+DQ648794	.	CDS	25956	26315	.	+	0	ID=cds-4;Parent=putative-gene-4;Name=protein-4;gene=ORF4
+DQ648794	.	gene	26275	26976	.	+	.	ID=putative-gene-5;gene_biotype=protein_coding
+DQ648794	.	CDS	26275	26976	.	+	0	ID=cds-5;Parent=putative-gene-5;Name=protein-5;gene=ORF5
+DQ648794	.	gene	26992	27675	.	+	.	ID=gene-3c??;gene_biotype=protein_coding
+DQ648794	.	CDS	26992	27675	.	+	0	ID=cds-6;Parent=gene-3c??;Name=3c??;gene=3c??
+DQ648794	.	gene	27745	27993	.	+	.	ID=gene-E;gene_biotype=protein_coding
+DQ648794	.	CDS	27745	27993	.	+	0	ID=cds-7;Parent=gene-E;Name=E;gene=E
+DQ648794	.	gene	28008	28667	.	+	.	ID=gene-matrix;gene_biotype=protein_coding
+DQ648794	.	CDS	28008	28667	.	+	0	ID=cds-8;Parent=gene-matrix;Name=matrix;gene=matrix
+DQ648794	.	gene	28705	29979	.	+	.	ID=gene-N;gene_biotype=protein_coding
+DQ648794	.	CDS	28705	29979	.	+	0	ID=cds-9;Parent=gene-N;Name=N;gene=N

@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region KX272465 1 27646
+KX272465	.	gene	453	20287	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KX272465	.	CDS	453	12252	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KX272465	.	CDS	12252	20287	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KX272465	.	gene	20238	23735	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KX272465	.	CDS	20238	23735	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KX272465	.	gene	23735	23908	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+KX272465	.	CDS	23735	23908	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+KX272465	.	gene	23908	24099	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+KX272465	.	CDS	23908	24099	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+KX272465	.	gene	24080	24412	.	+	.	ID=gene-small virion-associated;gene_biotype=protein_coding
+KX272465	.	CDS	24080	24412	.	+	0	ID=cds-5;Parent=gene-small virion-associated;Name=small virion-associated;gene=small virion-associated
+KX272465	.	gene	24381	25061	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KX272465	.	CDS	24381	25061	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+KX272465	.	gene	25267	25437	.	+	.	ID=gene-4c;gene_biotype=protein_coding
+KX272465	.	CDS	25267	25437	.	+	0	ID=cds-7;Parent=gene-4c;Name=4c;gene=4c
+KX272465	.	gene	25421	25618	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+KX272465	.	CDS	25421	25618	.	+	0	ID=cds-8;Parent=gene-5a;Name=5a;gene=5a
+KX272465	.	gene	25615	25863	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+KX272465	.	CDS	25615	25863	.	+	0	ID=cds-9;Parent=gene-5b;Name=5b;gene=5b
+KX272465	.	gene	25806	27035	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KX272465	.	CDS	25806	27035	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N
+KX272465	.	gene	27044	27268	.	+	.	ID=gene-6b;gene_biotype=protein_coding
+KX272465	.	CDS	27044	27268	.	+	0	ID=cds-11;Parent=gene-6b;Name=6b;gene=6b

@@ -1,0 +1,23 @@
+##gff-version 3.1.26
+##sequence-region MN165107 1 29286
+MN165107	.	gene	310	20372	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MN165107	.	CDS	310	12370	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MN165107	.	CDS	12370	20372	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MN165107	.	gene	20369	24766	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MN165107	.	CDS	20369	24766	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MN165107	.	gene	24778	24990	.	+	.	ID=gene-ns3a;gene_biotype=protein_coding
+MN165107	.	CDS	24778	24990	.	+	0	ID=cds-3;Parent=gene-ns3a;Name=ns3a;gene=ns3a
+MN165107	.	gene	25156	25329	.	+	.	ID=putative-gene-4;gene_biotype=protein_coding
+MN165107	.	CDS	25156	25329	.	+	0	ID=cds-4;Parent=putative-gene-4;Name=protein-4;gene=ORF4
+MN165107	.	gene	25374	25868	.	+	.	ID=putative-gene-5;gene_biotype=protein_coding
+MN165107	.	CDS	25374	25868	.	+	0	ID=cds-5;Parent=putative-gene-5;Name=protein-5;gene=ORF5
+MN165107	.	gene	25855	26103	.	+	.	ID=gene-small E;gene_biotype=protein_coding
+MN165107	.	CDS	25855	26103	.	+	0	ID=cds-6;Parent=gene-small E;Name=small E;gene=small E
+MN165107	.	gene	26114	26905	.	+	.	ID=gene-M;gene_biotype=protein_coding
+MN165107	.	CDS	26114	26905	.	+	0	ID=cds-7;Parent=gene-M;Name=M;gene=M
+MN165107	.	gene	26918	28051	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MN165107	.	CDS	26918	28051	.	+	0	ID=cds-8;Parent=gene-N;Name=N;gene=N
+MN165107	.	gene	28056	28361	.	+	.	ID=gene-ns7a;gene_biotype=protein_coding
+MN165107	.	CDS	28056	28361	.	+	0	ID=cds-9;Parent=gene-ns7a;Name=ns7a;gene=ns7a
+MN165107	.	gene	28366	28986	.	+	.	ID=gene-ns7b;gene_biotype=protein_coding
+MN165107	.	CDS	28366	28986	.	+	0	ID=cds-10;Parent=gene-ns7b;Name=ns7b;gene=ns7b

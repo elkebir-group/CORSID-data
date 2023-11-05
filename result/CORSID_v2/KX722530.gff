@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region KX722530 1 28595
+KX722530	.	gene	298	20357	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KX722530	.	CDS	298	12355	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KX722530	.	CDS	12355	20357	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KX722530	.	gene	20354	24088	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KX722530	.	CDS	20354	24088	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KX722530	.	gene	24100	24312	.	+	.	ID=gene-ns3a;gene_biotype=protein_coding
+KX722530	.	CDS	24100	24312	.	+	0	ID=cds-3;Parent=gene-ns3a;Name=ns3a;gene=ns3a
+KX722530	.	gene	24350	24481	.	+	.	ID=putative-gene-4;gene_biotype=protein_coding
+KX722530	.	CDS	24350	24481	.	+	0	ID=cds-4;Parent=putative-gene-4;Name=protein-4;gene=ORF4
+KX722530	.	gene	24478	25191	.	+	.	ID=gene-ns3c;gene_biotype=protein_coding
+KX722530	.	CDS	24478	25191	.	+	0	ID=cds-5;Parent=gene-ns3c;Name=ns3c;gene=ns3c
+KX722530	.	gene	25178	25426	.	+	.	ID=gene-E;gene_biotype=protein_coding
+KX722530	.	CDS	25178	25426	.	+	0	ID=cds-6;Parent=gene-E;Name=E;gene=E
+KX722530	.	gene	25437	26231	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KX722530	.	CDS	25437	26231	.	+	0	ID=cds-7;Parent=gene-M;Name=M;gene=M
+KX722530	.	gene	26244	27377	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KX722530	.	CDS	26244	27377	.	+	0	ID=cds-8;Parent=gene-N;Name=N;gene=N
+KX722530	.	gene	27382	27681	.	+	.	ID=gene-ns7a;gene_biotype=protein_coding
+KX722530	.	CDS	27382	27681	.	+	0	ID=cds-9;Parent=gene-ns7a;Name=ns7a;gene=ns7a
+KX722530	.	gene	27686	28306	.	+	.	ID=gene-ns7b;gene_biotype=protein_coding
+KX722530	.	CDS	27686	28306	.	+	0	ID=cds-10;Parent=gene-ns7b;Name=ns7b;gene=ns7b
+KX722530	.	gene	28296	28454	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+KX722530	.	CDS	28296	28454	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11

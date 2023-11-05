@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region HM245926 1 28915
+HM245926	.	gene	273	20284	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+HM245926	.	CDS	273	12291	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+HM245926	.	CDS	12291	20284	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+HM245926	.	gene	20277	24566	.	+	.	ID=gene-S;gene_biotype=protein_coding
+HM245926	.	CDS	20277	24566	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+HM245926	.	gene	24584	24793	.	+	.	ID=putative-gene-3;gene_biotype=protein_coding
+HM245926	.	CDS	24584	24793	.	+	0	ID=cds-3;Parent=putative-gene-3;Name=protein-3;gene=ORF3
+HM245926	.	gene	24998	25330	.	+	.	ID=putative-gene-4;gene_biotype=protein_coding
+HM245926	.	CDS	24998	25330	.	+	0	ID=cds-4;Parent=putative-gene-4;Name=protein-4;gene=ORF4
+HM245926	.	gene	25428	25547	.	+	.	ID=putative-gene-5;gene_biotype=protein_coding
+HM245926	.	CDS	25428	25547	.	+	0	ID=cds-5;Parent=putative-gene-5;Name=protein-5;gene=ORF5
+HM245926	.	gene	25564	26370	.	+	.	ID=gene-M;gene_biotype=protein_coding
+HM245926	.	CDS	25564	26370	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+HM245926	.	gene	26385	27515	.	+	.	ID=gene-N;gene_biotype=protein_coding
+HM245926	.	CDS	26385	27515	.	+	0	ID=cds-7;Parent=gene-N;Name=N;gene=N
+HM245926	.	gene	27520	27816	.	+	.	ID=gene-ns7a;gene_biotype=protein_coding
+HM245926	.	CDS	27520	27816	.	+	0	ID=cds-8;Parent=gene-ns7a;Name=ns7a;gene=ns7a
+HM245926	.	gene	27801	28022	.	+	.	ID=gene-?;gene_biotype=protein_coding
+HM245926	.	CDS	27801	28022	.	+	0	ID=cds-9;Parent=gene-?;Name=?;gene=?
+HM245926	.	gene	28231	28578	.	+	.	ID=putative-gene-10;gene_biotype=protein_coding
+HM245926	.	CDS	28231	28578	.	+	0	ID=cds-10;Parent=putative-gene-10;Name=protein-10;gene=ORF10
+HM245926	.	gene	28796	28917	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+HM245926	.	CDS	28796	28917	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11

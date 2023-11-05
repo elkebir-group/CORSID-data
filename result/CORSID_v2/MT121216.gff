@@ -1,0 +1,29 @@
+##gff-version 3.1.26
+##sequence-region MT121216 1 29521
+MT121216	.	gene	146	21414	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MT121216	.	CDS	146	13340	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MT121216	.	CDS	13340	21414	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MT121216	.	gene	21421	25218	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MT121216	.	CDS	21421	25218	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MT121216	.	gene	25227	26054	.	+	.	ID=gene-3;gene_biotype=protein_coding
+MT121216	.	CDS	25227	26054	.	+	0	ID=cds-3;Parent=gene-3;Name=3;gene=3
+MT121216	.	gene	26079	26306	.	+	.	ID=gene-E;gene_biotype=protein_coding
+MT121216	.	CDS	26079	26306	.	+	0	ID=cds-4;Parent=gene-E;Name=E;gene=E
+MT121216	.	gene	26357	27025	.	+	.	ID=gene-M;gene_biotype=protein_coding
+MT121216	.	CDS	26357	27025	.	+	0	ID=cds-5;Parent=gene-M;Name=M;gene=M
+MT121216	.	gene	27036	27221	.	+	.	ID=gene-6;gene_biotype=protein_coding
+MT121216	.	CDS	27036	27221	.	+	0	ID=cds-6;Parent=gene-6;Name=6;gene=6
+MT121216	.	gene	27228	27593	.	+	.	ID=gene-7a;gene_biotype=protein_coding
+MT121216	.	CDS	27228	27593	.	+	0	ID=cds-7;Parent=gene-7a;Name=7a;gene=7a
+MT121216	.	gene	27590	27721	.	+	.	ID=gene-7b;gene_biotype=protein_coding
+MT121216	.	CDS	27590	27721	.	+	0	ID=cds-8;Parent=gene-7b;Name=7b;gene=7b
+MT121216	.	gene	27728	28045	.	+	.	ID=gene-8;gene_biotype=protein_coding
+MT121216	.	CDS	27728	28045	.	+	0	ID=cds-9;Parent=gene-8;Name=8;gene=8
+MT121216	.	gene	28235	28363	.	+	.	ID=putative-gene-10;gene_biotype=protein_coding
+MT121216	.	CDS	28235	28363	.	+	0	ID=cds-10;Parent=putative-gene-10;Name=protein-10;gene=ORF10
+MT121216	.	gene	28520	28741	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+MT121216	.	CDS	28520	28741	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11
+MT121216	.	gene	29008	29319	.	+	.	ID=putative-gene-12;gene_biotype=protein_coding
+MT121216	.	CDS	29008	29319	.	+	0	ID=cds-12;Parent=putative-gene-12;Name=protein-12;gene=ORF12
+MT121216	.	gene	29344	29460	.	+	.	ID=gene-10;gene_biotype=protein_coding
+MT121216	.	CDS	29344	29460	.	+	0	ID=cds-13;Parent=gene-10;Name=10;gene=10

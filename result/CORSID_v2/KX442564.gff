@@ -1,0 +1,23 @@
+##gff-version 3.1.26
+##sequence-region KX442564 1 30498
+KX442564	.	gene	238	21875	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KX442564	.	CDS	238	13813	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KX442564	.	CDS	13813	21875	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KX442564	.	gene	21817	25857	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KX442564	.	CDS	21817	25857	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KX442564	.	gene	25869	26180	.	+	.	ID=gene-?;gene_biotype=protein_coding
+KX442564	.	CDS	25869	26180	.	+	0	ID=cds-3;Parent=gene-?;Name=?;gene=?
+KX442564	.	gene	26189	26482	.	+	.	ID=gene-?#;gene_biotype=protein_coding
+KX442564	.	CDS	26189	26482	.	+	0	ID=cds-4;Parent=gene-?#;Name=?#;gene=?#
+KX442564	.	gene	26505	27146	.	+	.	ID=putative-gene-5;gene_biotype=protein_coding
+KX442564	.	CDS	26505	27146	.	+	0	ID=cds-5;Parent=putative-gene-5;Name=protein-5;gene=ORF5
+KX442564	.	gene	27153	27842	.	+	.	ID=gene-?###;gene_biotype=protein_coding
+KX442564	.	CDS	27153	27842	.	+	0	ID=cds-6;Parent=gene-?###;Name=?###;gene=?###
+KX442564	.	gene	27919	28167	.	+	.	ID=gene-E;gene_biotype=protein_coding
+KX442564	.	CDS	27919	28167	.	+	0	ID=cds-7;Parent=gene-E;Name=E;gene=E
+KX442564	.	gene	28182	28838	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KX442564	.	CDS	28182	28838	.	+	0	ID=cds-8;Parent=gene-M;Name=M;gene=M
+KX442564	.	gene	28894	30192	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KX442564	.	CDS	28894	30192	.	+	0	ID=cds-9;Parent=gene-N;Name=N;gene=N
+KX442564	.	gene	30327	30434	.	+	.	ID=putative-gene-10;gene_biotype=protein_coding
+KX442564	.	CDS	30327	30434	.	+	0	ID=cds-10;Parent=putative-gene-10;Name=protein-10;gene=ORF10

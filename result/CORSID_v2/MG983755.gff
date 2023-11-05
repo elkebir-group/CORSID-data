@@ -1,0 +1,17 @@
+##gff-version 3.1.26
+##sequence-region MG983755 1 28067
+MG983755	.	gene	293	20637	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MG983755	.	CDS	293	12644	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MG983755	.	CDS	12644	20637	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MG983755	.	gene	20634	24791	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MG983755	.	CDS	20634	24791	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MG983755	.	gene	25001	25462	.	+	.	ID=putative-gene-3;gene_biotype=protein_coding
+MG983755	.	CDS	25001	25462	.	+	0	ID=cds-3;Parent=putative-gene-3;Name=protein-3;gene=ORF3
+MG983755	.	gene	25681	26361	.	+	.	ID=gene-m;gene_biotype=protein_coding
+MG983755	.	CDS	25681	26361	.	+	0	ID=cds-4;Parent=gene-m;Name=m;gene=m
+MG983755	.	gene	26373	27698	.	+	.	ID=gene-n;gene_biotype=protein_coding
+MG983755	.	CDS	26373	27698	.	+	0	ID=cds-5;Parent=gene-n;Name=n;gene=n
+MG983755	.	gene	27702	27809	.	+	.	ID=putative-gene-6;gene_biotype=protein_coding
+MG983755	.	CDS	27702	27809	.	+	0	ID=cds-6;Parent=putative-gene-6;Name=protein-6;gene=ORF6
+MG983755	.	gene	27958	28069	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+MG983755	.	CDS	27958	28069	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7

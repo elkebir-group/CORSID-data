@@ -1,0 +1,17 @@
+##gff-version 3.1.26
+##sequence-region KY770851 1 28096
+KY770851	.	gene	298	20390	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KY770851	.	CDS	298	12373	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KY770851	.	CDS	12373	20390	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KY770851	.	gene	20392	24579	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KY770851	.	CDS	20392	24579	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KY770851	.	gene	24576	25235	.	+	.	ID=putative-gene-3;gene_biotype=protein_coding
+KY770851	.	CDS	24576	25235	.	+	0	ID=cds-3;Parent=putative-gene-3;Name=protein-3;gene=ORF3
+KY770851	.	gene	25242	25472	.	+	.	ID=gene-E;gene_biotype=protein_coding
+KY770851	.	CDS	25242	25472	.	+	0	ID=cds-4;Parent=gene-E;Name=E;gene=E
+KY770851	.	gene	25482	26168	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KY770851	.	CDS	25482	26168	.	+	0	ID=cds-5;Parent=gene-M;Name=M;gene=M
+KY770851	.	gene	26177	27478	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KY770851	.	CDS	26177	27478	.	+	0	ID=cds-6;Parent=gene-N;Name=N;gene=N
+KY770851	.	gene	27549	27908	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+KY770851	.	CDS	27549	27908	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7

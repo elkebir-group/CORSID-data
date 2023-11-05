@@ -1,0 +1,27 @@
+##gff-version 3.1.26
+##sequence-region FJ415324 1 31029
+FJ415324	.	gene	211	21494	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+FJ415324	.	CDS	211	13360	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+FJ415324	.	CDS	13360	21494	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+FJ415324	.	gene	21504	22340	.	+	.	ID=gene-32 kda;gene_biotype=protein_coding
+FJ415324	.	CDS	21504	22340	.	+	0	ID=cds-2;Parent=gene-32 kda;Name=32 kda;gene=32 kda
+FJ415324	.	gene	22352	23626	.	+	.	ID=gene-he;gene_biotype=protein_coding
+FJ415324	.	CDS	22352	23626	.	+	0	ID=cds-3;Parent=gene-he;Name=he;gene=he
+FJ415324	.	gene	23641	27732	.	+	.	ID=gene-S;gene_biotype=protein_coding
+FJ415324	.	CDS	23641	27732	.	+	0	ID=cds-4;Parent=gene-S;Name=S;gene=S
+FJ415324	.	gene	27722	27853	.	+	.	ID=gene-4.9 kda;gene_biotype=protein_coding
+FJ415324	.	CDS	27722	27853	.	+	0	ID=cds-5;Parent=gene-4.9 kda;Name=4.9 kda;gene=4.9 kda
+FJ415324	.	gene	27889	28026	.	+	.	ID=gene-4.8 kda;gene_biotype=protein_coding
+FJ415324	.	CDS	27889	28026	.	+	0	ID=cds-6;Parent=gene-4.8 kda;Name=4.8 kda;gene=4.8 kda
+FJ415324	.	gene	28107	28436	.	+	.	ID=gene-12.7 kda;gene_biotype=protein_coding
+FJ415324	.	CDS	28107	28436	.	+	0	ID=cds-7;Parent=gene-12.7 kda;Name=12.7 kda;gene=12.7 kda
+FJ415324	.	gene	28423	28677	.	+	.	ID=gene-E;gene_biotype=protein_coding
+FJ415324	.	CDS	28423	28677	.	+	0	ID=cds-8;Parent=gene-E;Name=E;gene=E
+FJ415324	.	gene	28692	29384	.	+	.	ID=gene-M;gene_biotype=protein_coding
+FJ415324	.	CDS	28692	29384	.	+	0	ID=cds-9;Parent=gene-M;Name=M;gene=M
+FJ415324	.	gene	29394	30740	.	+	.	ID=gene-N;gene_biotype=protein_coding
+FJ415324	.	CDS	29394	30740	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N
+FJ415324	.	gene	30706	30834	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+FJ415324	.	CDS	30706	30834	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11
+FJ415324	.	gene	30892	30996	.	+	.	ID=putative-gene-12;gene_biotype=protein_coding
+FJ415324	.	CDS	30892	30996	.	+	0	ID=cds-12;Parent=putative-gene-12;Name=protein-12;gene=ORF12

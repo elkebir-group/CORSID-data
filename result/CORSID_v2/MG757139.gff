@@ -1,0 +1,27 @@
+##gff-version 3.1.26
+##sequence-region MG757139 1 31028
+MG757139	.	gene	197	21480	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MG757139	.	CDS	197	13346	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MG757139	.	CDS	13346	21480	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MG757139	.	gene	21490	22326	.	+	.	ID=gene-ns2;gene_biotype=protein_coding
+MG757139	.	CDS	21490	22326	.	+	0	ID=cds-2;Parent=gene-ns2;Name=ns2;gene=ns2
+MG757139	.	gene	22338	23612	.	+	.	ID=gene-he;gene_biotype=protein_coding
+MG757139	.	CDS	22338	23612	.	+	0	ID=cds-3;Parent=gene-he;Name=he;gene=he
+MG757139	.	gene	23627	27721	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MG757139	.	CDS	23627	27721	.	+	0	ID=cds-4;Parent=gene-S;Name=S;gene=S
+MG757139	.	gene	27711	27842	.	+	.	ID=gene-ns4.9;gene_biotype=protein_coding
+MG757139	.	CDS	27711	27842	.	+	0	ID=cds-5;Parent=gene-ns4.9;Name=ns4.9;gene=ns4.9
+MG757139	.	gene	27878	28009	.	+	.	ID=gene-ns4.8;gene_biotype=protein_coding
+MG757139	.	CDS	27878	28009	.	+	0	ID=cds-6;Parent=gene-ns4.8;Name=ns4.8;gene=ns4.8
+MG757139	.	gene	28090	28419	.	+	.	ID=gene-ns12.7;gene_biotype=protein_coding
+MG757139	.	CDS	28090	28419	.	+	0	ID=cds-7;Parent=gene-ns12.7;Name=ns12.7;gene=ns12.7
+MG757139	.	gene	28406	28660	.	+	.	ID=gene-E;gene_biotype=protein_coding
+MG757139	.	CDS	28406	28660	.	+	0	ID=cds-8;Parent=gene-E;Name=E;gene=E
+MG757139	.	gene	28675	29367	.	+	.	ID=gene-M;gene_biotype=protein_coding
+MG757139	.	CDS	28675	29367	.	+	0	ID=cds-9;Parent=gene-M;Name=M;gene=M
+MG757139	.	gene	29377	30723	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MG757139	.	CDS	29377	30723	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N
+MG757139	.	gene	30689	30817	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+MG757139	.	CDS	30689	30817	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11
+MG757139	.	gene	30875	30979	.	+	.	ID=putative-gene-12;gene_biotype=protein_coding
+MG757139	.	CDS	30875	30979	.	+	0	ID=cds-12;Parent=putative-gene-12;Name=protein-12;gene=ORF12

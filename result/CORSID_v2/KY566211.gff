@@ -1,0 +1,21 @@
+##gff-version 3.1.26
+##sequence-region KY566211 1 29337
+KY566211	.	gene	303	20392	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KY566211	.	CDS	303	12390	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KY566211	.	CDS	12390	20392	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KY566211	.	gene	20389	24798	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KY566211	.	CDS	20389	24798	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KY566211	.	gene	24810	25022	.	+	.	ID=gene-ns3a;gene_biotype=protein_coding
+KY566211	.	CDS	24810	25022	.	+	0	ID=cds-3;Parent=gene-ns3a;Name=ns3a;gene=ns3a
+KY566211	.	gene	25188	25901	.	+	.	ID=gene-ns3c;gene_biotype=protein_coding
+KY566211	.	CDS	25188	25901	.	+	0	ID=cds-4;Parent=gene-ns3c;Name=ns3c;gene=ns3c
+KY566211	.	gene	25888	26136	.	+	.	ID=gene-E;gene_biotype=protein_coding
+KY566211	.	CDS	25888	26136	.	+	0	ID=cds-5;Parent=gene-E;Name=E;gene=E
+KY566211	.	gene	26147	26935	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KY566211	.	CDS	26147	26935	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+KY566211	.	gene	26948	28081	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KY566211	.	CDS	26948	28081	.	+	0	ID=cds-7;Parent=gene-N;Name=N;gene=N
+KY566211	.	gene	28086	28391	.	+	.	ID=gene-ns7a;gene_biotype=protein_coding
+KY566211	.	CDS	28086	28391	.	+	0	ID=cds-8;Parent=gene-ns7a;Name=ns7a;gene=ns7a
+KY566211	.	gene	28396	29016	.	+	.	ID=gene-ns7b;gene_biotype=protein_coding
+KY566211	.	CDS	28396	29016	.	+	0	ID=cds-9;Parent=gene-ns7b;Name=ns7b;gene=ns7b

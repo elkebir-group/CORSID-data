@@ -1,0 +1,19 @@
+##gff-version 3.1.26
+##sequence-region MK167038 1 29921
+MK167038	.	gene	206	21750	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MK167038	.	CDS	206	13616	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MK167038	.	CDS	13616	21750	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MK167038	.	gene	21783	22943	.	+	.	ID=gene-HE;gene_biotype=protein_coding
+MK167038	.	CDS	21783	22943	.	+	0	ID=cds-2;Parent=gene-HE;Name=HE;gene=HE
+MK167038	.	gene	22952	27007	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MK167038	.	CDS	22952	27007	.	+	0	ID=cds-3;Parent=gene-S;Name=S;gene=S
+MK167038	.	gene	26819	27007	.	+	.	ID=putative-gene-4;gene_biotype=protein_coding
+MK167038	.	CDS	26819	27007	.	+	0	ID=cds-4;Parent=putative-gene-4;Name=protein-4;gene=ORF4
+MK167038	.	gene	27046	27375	.	+	.	ID=gene-?;gene_biotype=protein_coding
+MK167038	.	CDS	27046	27375	.	+	0	ID=cds-5;Parent=gene-?;Name=?;gene=?
+MK167038	.	gene	27368	27616	.	+	.	ID=gene-small M;gene_biotype=protein_coding
+MK167038	.	CDS	27368	27616	.	+	0	ID=cds-6;Parent=gene-small M;Name=small M;gene=small M
+MK167038	.	gene	27628	28299	.	+	.	ID=gene-M;gene_biotype=protein_coding
+MK167038	.	CDS	27628	28299	.	+	0	ID=cds-7;Parent=gene-M;Name=M;gene=M
+MK167038	.	gene	28315	29640	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MK167038	.	CDS	28315	29640	.	+	0	ID=cds-8;Parent=gene-N;Name=N;gene=N

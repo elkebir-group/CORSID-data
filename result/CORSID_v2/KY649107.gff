@@ -1,0 +1,23 @@
+##gff-version 3.1.26
+##sequence-region KY649107 1 28032
+KY649107	.	gene	293	20636	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KY649107	.	CDS	293	12611	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KY649107	.	CDS	12611	20636	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KY649107	.	gene	20633	24793	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KY649107	.	CDS	20633	24793	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KY649107	.	gene	24793	25467	.	+	.	ID=gene-3;gene_biotype=protein_coding
+KY649107	.	CDS	24793	25467	.	+	0	ID=cds-3;Parent=gene-3;Name=3;gene=3
+KY649107	.	gene	25448	25678	.	+	.	ID=gene-E;gene_biotype=protein_coding
+KY649107	.	CDS	25448	25678	.	+	0	ID=cds-4;Parent=gene-E;Name=E;gene=E
+KY649107	.	gene	25686	26366	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KY649107	.	CDS	25686	26366	.	+	0	ID=cds-5;Parent=gene-M;Name=M;gene=M
+KY649107	.	gene	26538	26771	.	+	.	ID=putative-gene-6;gene_biotype=protein_coding
+KY649107	.	CDS	26538	26771	.	+	0	ID=cds-6;Parent=putative-gene-6;Name=protein-6;gene=ORF6
+KY649107	.	gene	26838	27026	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+KY649107	.	CDS	26838	27026	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7
+KY649107	.	gene	27036	27251	.	+	.	ID=putative-gene-8;gene_biotype=protein_coding
+KY649107	.	CDS	27036	27251	.	+	0	ID=cds-8;Parent=putative-gene-8;Name=protein-8;gene=ORF8
+KY649107	.	gene	27440	27703	.	+	.	ID=putative-gene-9;gene_biotype=protein_coding
+KY649107	.	CDS	27440	27703	.	+	0	ID=cds-9;Parent=putative-gene-9;Name=protein-9;gene=ORF9
+KY649107	.	gene	27707	27814	.	+	.	ID=putative-gene-10;gene_biotype=protein_coding
+KY649107	.	CDS	27707	27814	.	+	0	ID=cds-10;Parent=putative-gene-10;Name=protein-10;gene=ORF10

@@ -1,0 +1,21 @@
+##gff-version 3.1.26
+##sequence-region KU215420 1 29262
+KU215420	.	gene	288	20377	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KU215420	.	CDS	288	12375	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KU215420	.	CDS	12375	20377	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KU215420	.	gene	20374	24777	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KU215420	.	CDS	20374	24777	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KU215420	.	gene	24789	25001	.	+	.	ID=gene-ns3a;gene_biotype=protein_coding
+KU215420	.	CDS	24789	25001	.	+	0	ID=cds-3;Parent=gene-ns3a;Name=ns3a;gene=ns3a
+KU215420	.	gene	25164	25877	.	+	.	ID=gene-ns3c;gene_biotype=protein_coding
+KU215420	.	CDS	25164	25877	.	+	0	ID=cds-4;Parent=gene-ns3c;Name=ns3c;gene=ns3c
+KU215420	.	gene	25864	26112	.	+	.	ID=gene-E;gene_biotype=protein_coding
+KU215420	.	CDS	25864	26112	.	+	0	ID=cds-5;Parent=gene-E;Name=E;gene=E
+KU215420	.	gene	26123	26911	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KU215420	.	CDS	26123	26911	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+KU215420	.	gene	26924	28057	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KU215420	.	CDS	26924	28057	.	+	0	ID=cds-7;Parent=gene-N;Name=N;gene=N
+KU215420	.	gene	28062	28367	.	+	.	ID=gene-ns7a;gene_biotype=protein_coding
+KU215420	.	CDS	28062	28367	.	+	0	ID=cds-8;Parent=gene-ns7a;Name=ns7a;gene=ns7a
+KU215420	.	gene	28372	28992	.	+	.	ID=gene-ns7b;gene_biotype=protein_coding
+KU215420	.	CDS	28372	28992	.	+	0	ID=cds-9;Parent=gene-ns7b;Name=ns7b;gene=ns7b

@@ -1,0 +1,19 @@
+##gff-version 3.1.26
+##sequence-region KX900395 1 28521
+KX900395	.	gene	315	20356	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KX900395	.	CDS	315	12354	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KX900395	.	CDS	12354	20356	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KX900395	.	gene	20353	24702	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KX900395	.	CDS	20353	24702	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KX900395	.	gene	24802	25020	.	+	.	ID=gene-nsp3a;gene_biotype=protein_coding
+KX900395	.	CDS	24802	25020	.	+	0	ID=cds-3;Parent=gene-nsp3a;Name=nsp3a;gene=nsp3a
+KX900395	.	gene	25078	25812	.	+	.	ID=gene-nsp3b;gene_biotype=protein_coding
+KX900395	.	CDS	25078	25812	.	+	0	ID=cds-4;Parent=gene-nsp3b;Name=nsp3b;gene=nsp3b
+KX900395	.	gene	25799	26047	.	+	.	ID=gene-E;gene_biotype=protein_coding
+KX900395	.	CDS	25799	26047	.	+	0	ID=cds-5;Parent=gene-E;Name=E;gene=E
+KX900395	.	gene	26058	26843	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KX900395	.	CDS	26058	26843	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+KX900395	.	gene	26856	28004	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KX900395	.	CDS	26856	28004	.	+	0	ID=cds-7;Parent=gene-N;Name=N;gene=N
+KX900395	.	gene	28010	28246	.	+	.	ID=gene-nsp7;gene_biotype=protein_coding
+KX900395	.	CDS	28010	28246	.	+	0	ID=cds-8;Parent=gene-nsp7;Name=nsp7;gene=nsp7

@@ -1,0 +1,15 @@
+##gff-version 3.1.26
+##sequence-region MK005882 1 25414
+MK005882	.	gene	540	19336	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MK005882	.	CDS	540	11412	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MK005882	.	CDS	11412	19336	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MK005882	.	gene	19318	22797	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MK005882	.	CDS	19318	22797	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MK005882	.	gene	22791	23042	.	+	.	ID=gene-E;gene_biotype=protein_coding
+MK005882	.	CDS	22791	23042	.	+	0	ID=cds-3;Parent=gene-E;Name=E;gene=E
+MK005882	.	gene	23035	23688	.	+	.	ID=gene-M;gene_biotype=protein_coding
+MK005882	.	CDS	23035	23688	.	+	0	ID=cds-4;Parent=gene-M;Name=M;gene=M
+MK005882	.	gene	23688	23972	.	+	.	ID=gene-non-structural 6;gene_biotype=protein_coding
+MK005882	.	CDS	23688	23972	.	+	0	ID=cds-5;Parent=gene-non-structural 6;Name=non-structural 6;gene=non-structural 6
+MK005882	.	gene	23993	25021	.	+	.	ID=gene-non-structural n;gene_biotype=protein_coding
+MK005882	.	CDS	23993	25021	.	+	0	ID=cds-6;Parent=gene-non-structural n;Name=non-structural n;gene=non-structural n

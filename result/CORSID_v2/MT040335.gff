@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region MT040335 1 29806
+MT040335	.	gene	267	21532	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MT040335	.	CDS	267	13458	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MT040335	.	CDS	13458	21532	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MT040335	.	gene	21540	25343	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MT040335	.	CDS	21540	25343	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MT040335	.	gene	25353	26180	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+MT040335	.	CDS	25353	26180	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+MT040335	.	gene	26205	26432	.	+	.	ID=gene-E;gene_biotype=protein_coding
+MT040335	.	CDS	26205	26432	.	+	0	ID=cds-4;Parent=gene-E;Name=E;gene=E
+MT040335	.	gene	26480	27148	.	+	.	ID=gene-M;gene_biotype=protein_coding
+MT040335	.	CDS	26480	27148	.	+	0	ID=cds-5;Parent=gene-M;Name=M;gene=M
+MT040335	.	gene	27159	27344	.	+	.	ID=gene-6;gene_biotype=protein_coding
+MT040335	.	CDS	27159	27344	.	+	0	ID=cds-6;Parent=gene-6;Name=6;gene=6
+MT040335	.	gene	27351	27716	.	+	.	ID=gene-7a;gene_biotype=protein_coding
+MT040335	.	CDS	27351	27716	.	+	0	ID=cds-7;Parent=gene-7a;Name=7a;gene=7a
+MT040335	.	gene	27713	27844	.	+	.	ID=putative-gene-8;gene_biotype=protein_coding
+MT040335	.	CDS	27713	27844	.	+	0	ID=cds-8;Parent=putative-gene-8;Name=protein-8;gene=ORF8
+MT040335	.	gene	27851	28216	.	+	.	ID=gene-8;gene_biotype=protein_coding
+MT040335	.	CDS	27851	28216	.	+	0	ID=cds-9;Parent=gene-8;Name=8;gene=8
+MT040335	.	gene	28230	29483	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MT040335	.	CDS	28230	29483	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N
+MT040335	.	gene	29508	29624	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+MT040335	.	CDS	29508	29624	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11

@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region KR231009 1 27654
+KR231009	.	gene	519	20401	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KR231009	.	CDS	519	12366	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KR231009	.	CDS	12366	20401	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KR231009	.	gene	20352	23852	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KR231009	.	CDS	20352	23852	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KR231009	.	gene	23852	24025	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+KR231009	.	CDS	23852	24025	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+KR231009	.	gene	24025	24219	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+KR231009	.	CDS	24025	24219	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+KR231009	.	gene	24200	24484	.	+	.	ID=gene-E;gene_biotype=protein_coding
+KR231009	.	CDS	24200	24484	.	+	0	ID=cds-5;Parent=gene-E;Name=E;gene=E
+KR231009	.	gene	24477	25154	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KR231009	.	CDS	24477	25154	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+KR231009	.	gene	25155	25439	.	+	.	ID=gene-4b;gene_biotype=protein_coding
+KR231009	.	CDS	25155	25439	.	+	0	ID=cds-7;Parent=gene-4b;Name=4b;gene=4b
+KR231009	.	gene	25514	25711	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+KR231009	.	CDS	25514	25711	.	+	0	ID=cds-8;Parent=gene-5a;Name=5a;gene=5a
+KR231009	.	gene	25708	25956	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+KR231009	.	CDS	25708	25956	.	+	0	ID=cds-9;Parent=gene-5b;Name=5b;gene=5b
+KR231009	.	gene	25899	27128	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KR231009	.	CDS	25899	27128	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N
+KR231009	.	gene	27137	27361	.	+	.	ID=gene-6b;gene_biotype=protein_coding
+KR231009	.	CDS	27137	27361	.	+	0	ID=cds-11;Parent=gene-6b;Name=6b;gene=6b

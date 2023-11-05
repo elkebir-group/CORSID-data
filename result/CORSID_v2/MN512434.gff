@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region MN512434 1 27710
+MN512434	.	gene	531	20452	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MN512434	.	CDS	531	12417	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MN512434	.	CDS	12417	20452	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MN512434	.	gene	20403	23903	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MN512434	.	CDS	20403	23903	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MN512434	.	gene	23903	24076	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+MN512434	.	CDS	23903	24076	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+MN512434	.	gene	24076	24270	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+MN512434	.	CDS	24076	24270	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+MN512434	.	gene	24251	24580	.	+	.	ID=gene-E;gene_biotype=protein_coding
+MN512434	.	CDS	24251	24580	.	+	0	ID=cds-5;Parent=gene-E;Name=E;gene=E
+MN512434	.	gene	24552	25229	.	+	.	ID=gene-M;gene_biotype=protein_coding
+MN512434	.	CDS	24552	25229	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+MN512434	.	gene	25230	25514	.	+	.	ID=gene-4b;gene_biotype=protein_coding
+MN512434	.	CDS	25230	25514	.	+	0	ID=cds-7;Parent=gene-4b;Name=4b;gene=4b
+MN512434	.	gene	25589	25786	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+MN512434	.	CDS	25589	25786	.	+	0	ID=cds-8;Parent=gene-5a;Name=5a;gene=5a
+MN512434	.	gene	25783	26031	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+MN512434	.	CDS	25783	26031	.	+	0	ID=cds-9;Parent=gene-5b;Name=5b;gene=5b
+MN512434	.	gene	25974	27203	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MN512434	.	CDS	25974	27203	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N
+MN512434	.	gene	27212	27436	.	+	.	ID=gene-6b;gene_biotype=protein_coding
+MN512434	.	CDS	27212	27436	.	+	0	ID=cds-11;Parent=gene-6b;Name=6b;gene=6b

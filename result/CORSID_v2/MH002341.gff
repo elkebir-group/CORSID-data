@@ -1,0 +1,21 @@
+##gff-version 3.1.26
+##sequence-region MH002341 1 30480
+MH002341	.	gene	260	21807	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MH002341	.	CDS	260	13703	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MH002341	.	CDS	13703	21807	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MH002341	.	gene	21734	25795	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MH002341	.	CDS	21734	25795	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MH002341	.	gene	25864	26127	.	+	.	ID=putative-gene-3;gene_biotype=protein_coding
+MH002341	.	CDS	25864	26127	.	+	0	ID=cds-3;Parent=putative-gene-3;Name=protein-3;gene=ORF3
+MH002341	.	gene	26136	26495	.	+	.	ID=gene-4a;gene_biotype=protein_coding
+MH002341	.	CDS	26136	26495	.	+	0	ID=cds-4;Parent=gene-4a;Name=4a;gene=4a
+MH002341	.	gene	26548	27147	.	+	.	ID=putative-gene-5;gene_biotype=protein_coding
+MH002341	.	CDS	26548	27147	.	+	0	ID=cds-5;Parent=putative-gene-5;Name=protein-5;gene=ORF5
+MH002341	.	gene	27157	27828	.	+	.	ID=gene-5;gene_biotype=protein_coding
+MH002341	.	CDS	27157	27828	.	+	0	ID=cds-6;Parent=gene-5;Name=5;gene=5
+MH002341	.	gene	27846	28154	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+MH002341	.	CDS	27846	28154	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7
+MH002341	.	gene	28169	28831	.	+	.	ID=gene-M;gene_biotype=protein_coding
+MH002341	.	CDS	28169	28831	.	+	0	ID=cds-8;Parent=gene-M;Name=M;gene=M
+MH002341	.	gene	28881	30164	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MH002341	.	CDS	28881	30164	.	+	0	ID=cds-9;Parent=gene-N;Name=N;gene=N

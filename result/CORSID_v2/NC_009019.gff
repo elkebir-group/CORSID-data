@@ -1,0 +1,21 @@
+##gff-version 3.1.26
+##sequence-region NC_009019 1 30286
+NC_009019	.	gene	267	21625	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+NC_009019	.	CDS	267	13569	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+NC_009019	.	CDS	13569	21625	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+NC_009019	.	gene	21570	25628	.	+	.	ID=gene-S;gene_biotype=protein_coding
+NC_009019	.	CDS	21570	25628	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+NC_009019	.	gene	25655	25930	.	+	.	ID=gene-ns3a;gene_biotype=protein_coding
+NC_009019	.	CDS	25655	25930	.	+	0	ID=cds-3;Parent=gene-ns3a;Name=ns3a;gene=ns3a
+NC_009019	.	gene	25948	26307	.	+	.	ID=gene-ns3b;gene_biotype=protein_coding
+NC_009019	.	CDS	25948	26307	.	+	0	ID=cds-4;Parent=gene-ns3b;Name=ns3b;gene=ns3b
+NC_009019	.	gene	26477	26968	.	+	.	ID=putative-gene-5;gene_biotype=protein_coding
+NC_009019	.	CDS	26477	26968	.	+	0	ID=cds-5;Parent=putative-gene-5;Name=protein-5;gene=ORF5
+NC_009019	.	gene	26984	27667	.	+	.	ID=gene-ns3d;gene_biotype=protein_coding
+NC_009019	.	CDS	26984	27667	.	+	0	ID=cds-6;Parent=gene-ns3d;Name=ns3d;gene=ns3d
+NC_009019	.	gene	27737	27985	.	+	.	ID=gene-E;gene_biotype=protein_coding
+NC_009019	.	CDS	27737	27985	.	+	0	ID=cds-7;Parent=gene-E;Name=E;gene=E
+NC_009019	.	gene	28000	28659	.	+	.	ID=gene-M;gene_biotype=protein_coding
+NC_009019	.	CDS	28000	28659	.	+	0	ID=cds-8;Parent=gene-M;Name=M;gene=M
+NC_009019	.	gene	28697	29968	.	+	.	ID=gene-N;gene_biotype=protein_coding
+NC_009019	.	CDS	28697	29968	.	+	0	ID=cds-9;Parent=gene-N;Name=N;gene=N

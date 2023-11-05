@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region GQ504722 1 27648
+GQ504722	.	gene	529	20390	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+GQ504722	.	CDS	529	12355	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+GQ504722	.	CDS	12355	20390	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+GQ504722	.	gene	20341	23820	.	+	.	ID=gene-S;gene_biotype=protein_coding
+GQ504722	.	CDS	20341	23820	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+GQ504722	.	gene	23820	23993	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+GQ504722	.	CDS	23820	23993	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+GQ504722	.	gene	23993	24187	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+GQ504722	.	CDS	23993	24187	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+GQ504722	.	gene	24168	24497	.	+	.	ID=gene-E;gene_biotype=protein_coding
+GQ504722	.	CDS	24168	24497	.	+	0	ID=cds-5;Parent=gene-E;Name=E;gene=E
+GQ504722	.	gene	24469	25146	.	+	.	ID=gene-M;gene_biotype=protein_coding
+GQ504722	.	CDS	24469	25146	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+GQ504722	.	gene	25147	25440	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+GQ504722	.	CDS	25147	25440	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7
+GQ504722	.	gene	25505	25702	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+GQ504722	.	CDS	25505	25702	.	+	0	ID=cds-8;Parent=gene-5a;Name=5a;gene=5a
+GQ504722	.	gene	25699	25947	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+GQ504722	.	CDS	25699	25947	.	+	0	ID=cds-9;Parent=gene-5b;Name=5b;gene=5b
+GQ504722	.	gene	25890	27119	.	+	.	ID=gene-N;gene_biotype=protein_coding
+GQ504722	.	CDS	25890	27119	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N
+GQ504722	.	gene	27143	27373	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+GQ504722	.	CDS	27143	27373	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11

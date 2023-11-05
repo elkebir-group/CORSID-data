@@ -1,0 +1,23 @@
+##gff-version 3.1.26
+##sequence-region GQ427175 1 27690
+GQ427175	.	gene	529	20345	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+GQ427175	.	CDS	529	12385	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+GQ427175	.	CDS	12385	20345	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+GQ427175	.	gene	20369	24049	.	+	.	ID=gene-S;gene_biotype=protein_coding
+GQ427175	.	CDS	20369	24049	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+GQ427175	.	gene	23997	24170	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+GQ427175	.	CDS	23997	24170	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+GQ427175	.	gene	24170	24364	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+GQ427175	.	CDS	24170	24364	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+GQ427175	.	gene	24345	24644	.	+	.	ID=gene-E;gene_biotype=protein_coding
+GQ427175	.	CDS	24345	24644	.	+	0	ID=cds-5;Parent=gene-E;Name=E;gene=E
+GQ427175	.	gene	24646	25317	.	+	.	ID=gene-M;gene_biotype=protein_coding
+GQ427175	.	CDS	24646	25317	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+GQ427175	.	gene	25318	25602	.	+	.	ID=gene-x;gene_biotype=protein_coding
+GQ427175	.	CDS	25318	25602	.	+	0	ID=cds-7;Parent=gene-x;Name=x;gene=x
+GQ427175	.	gene	25678	25875	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+GQ427175	.	CDS	25678	25875	.	+	0	ID=cds-8;Parent=gene-5a;Name=5a;gene=5a
+GQ427175	.	gene	25872	26120	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+GQ427175	.	CDS	25872	26120	.	+	0	ID=cds-9;Parent=gene-5b;Name=5b;gene=5b
+GQ427175	.	gene	26063	27292	.	+	.	ID=gene-N;gene_biotype=protein_coding
+GQ427175	.	CDS	26063	27292	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N

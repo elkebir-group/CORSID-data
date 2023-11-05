@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region KR822424 1 27739
+KR822424	.	gene	529	20414	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KR822424	.	CDS	529	12379	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KR822424	.	CDS	12379	20414	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KR822424	.	gene	20365	23961	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KR822424	.	CDS	20365	23961	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KR822424	.	gene	23961	24134	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+KR822424	.	CDS	23961	24134	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+KR822424	.	gene	24134	24328	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+KR822424	.	CDS	24134	24328	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+KR822424	.	gene	24309	24590	.	+	.	ID=gene-E;gene_biotype=protein_coding
+KR822424	.	CDS	24309	24590	.	+	0	ID=cds-5;Parent=gene-E;Name=E;gene=E
+KR822424	.	gene	24587	25258	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KR822424	.	CDS	24587	25258	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+KR822424	.	gene	25259	25543	.	+	.	ID=gene-4b;gene_biotype=protein_coding
+KR822424	.	CDS	25259	25543	.	+	0	ID=cds-7;Parent=gene-4b;Name=4b;gene=4b
+KR822424	.	gene	25618	25815	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+KR822424	.	CDS	25618	25815	.	+	0	ID=cds-8;Parent=gene-5a;Name=5a;gene=5a
+KR822424	.	gene	25812	26060	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+KR822424	.	CDS	25812	26060	.	+	0	ID=cds-9;Parent=gene-5b;Name=5b;gene=5b
+KR822424	.	gene	26003	27232	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KR822424	.	CDS	26003	27232	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N
+KR822424	.	gene	27241	27465	.	+	.	ID=gene-6b;gene_biotype=protein_coding
+KR822424	.	CDS	27241	27465	.	+	0	ID=cds-11;Parent=gene-6b;Name=6b;gene=6b

@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region KX236001 1 27631
+KX236001	.	gene	529	20390	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KX236001	.	CDS	529	12355	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KX236001	.	CDS	12355	20390	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KX236001	.	gene	20341	23838	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KX236001	.	CDS	20341	23838	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KX236001	.	gene	23838	23981	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+KX236001	.	CDS	23838	23981	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+KX236001	.	gene	23968	24159	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+KX236001	.	CDS	23968	24159	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+KX236001	.	gene	24140	24469	.	+	.	ID=gene-3c;gene_biotype=protein_coding
+KX236001	.	CDS	24140	24469	.	+	0	ID=cds-5;Parent=gene-3c;Name=3c;gene=3c
+KX236001	.	gene	24441	25118	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KX236001	.	CDS	24441	25118	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+KX236001	.	gene	25119	25403	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+KX236001	.	CDS	25119	25403	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7
+KX236001	.	gene	25478	25675	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+KX236001	.	CDS	25478	25675	.	+	0	ID=cds-8;Parent=gene-5a;Name=5a;gene=5a
+KX236001	.	gene	25672	25920	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+KX236001	.	CDS	25672	25920	.	+	0	ID=cds-9;Parent=gene-5b;Name=5b;gene=5b
+KX236001	.	gene	25863	27092	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KX236001	.	CDS	25863	27092	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N
+KX236001	.	gene	27116	27346	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+KX236001	.	CDS	27116	27346	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11

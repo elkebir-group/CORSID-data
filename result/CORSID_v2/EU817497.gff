@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region EU817497 1 27646
+EU817497	.	gene	529	20363	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+EU817497	.	CDS	529	12328	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+EU817497	.	CDS	12328	20363	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+EU817497	.	gene	20314	23802	.	+	.	ID=gene-2;gene_biotype=protein_coding
+EU817497	.	CDS	20314	23802	.	+	0	ID=cds-2;Parent=gene-2;Name=2;gene=2
+EU817497	.	gene	23802	23975	.	+	.	ID=gene-3;gene_biotype=protein_coding
+EU817497	.	CDS	23802	23975	.	+	0	ID=cds-3;Parent=gene-3;Name=3;gene=3
+EU817497	.	gene	23975	24169	.	+	.	ID=gene-3#;gene_biotype=protein_coding
+EU817497	.	CDS	23975	24169	.	+	0	ID=cds-4;Parent=gene-3#;Name=3#;gene=3#
+EU817497	.	gene	24150	24479	.	+	.	ID=gene-3##;gene_biotype=protein_coding
+EU817497	.	CDS	24150	24479	.	+	0	ID=cds-5;Parent=gene-3##;Name=3##;gene=3##
+EU817497	.	gene	24451	25128	.	+	.	ID=gene-4;gene_biotype=protein_coding
+EU817497	.	CDS	24451	25128	.	+	0	ID=cds-6;Parent=gene-4;Name=4;gene=4
+EU817497	.	gene	25129	25371	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+EU817497	.	CDS	25129	25371	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7
+EU817497	.	gene	25488	25685	.	+	.	ID=gene-5;gene_biotype=protein_coding
+EU817497	.	CDS	25488	25685	.	+	0	ID=cds-8;Parent=gene-5;Name=5;gene=5
+EU817497	.	gene	25682	25930	.	+	.	ID=gene-5#;gene_biotype=protein_coding
+EU817497	.	CDS	25682	25930	.	+	0	ID=cds-9;Parent=gene-5#;Name=5#;gene=5#
+EU817497	.	gene	25873	27102	.	+	.	ID=gene-6;gene_biotype=protein_coding
+EU817497	.	CDS	25873	27102	.	+	0	ID=cds-10;Parent=gene-6;Name=6;gene=6
+EU817497	.	gene	27126	27356	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+EU817497	.	CDS	27126	27356	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11

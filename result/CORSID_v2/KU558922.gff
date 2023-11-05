@@ -1,0 +1,23 @@
+##gff-version 3.1.26
+##sequence-region KU558922 1 31039
+KU558922	.	gene	211	21494	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KU558922	.	CDS	211	13360	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KU558922	.	CDS	13360	21494	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KU558922	.	gene	21504	22340	.	+	.	ID=gene-32kda;gene_biotype=protein_coding
+KU558922	.	CDS	21504	22340	.	+	0	ID=cds-2;Parent=gene-32kda;Name=32kda;gene=32kda
+KU558922	.	gene	22352	23626	.	+	.	ID=gene-he;gene_biotype=protein_coding
+KU558922	.	CDS	22352	23626	.	+	0	ID=cds-3;Parent=gene-he;Name=he;gene=he
+KU558922	.	gene	23641	27732	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KU558922	.	CDS	23641	27732	.	+	0	ID=cds-4;Parent=gene-S;Name=S;gene=S
+KU558922	.	gene	28099	28428	.	+	.	ID=gene-12.7kda;gene_biotype=protein_coding
+KU558922	.	CDS	28099	28428	.	+	0	ID=cds-5;Parent=gene-12.7kda;Name=12.7kda;gene=12.7kda
+KU558922	.	gene	28415	28669	.	+	.	ID=gene-E;gene_biotype=protein_coding
+KU558922	.	CDS	28415	28669	.	+	0	ID=cds-6;Parent=gene-E;Name=E;gene=E
+KU558922	.	gene	28684	29376	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KU558922	.	CDS	28684	29376	.	+	0	ID=cds-7;Parent=gene-M;Name=M;gene=M
+KU558922	.	gene	29386	30732	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KU558922	.	CDS	29386	30732	.	+	0	ID=cds-8;Parent=gene-N;Name=N;gene=N
+KU558922	.	gene	30698	30826	.	+	.	ID=putative-gene-9;gene_biotype=protein_coding
+KU558922	.	CDS	30698	30826	.	+	0	ID=cds-9;Parent=putative-gene-9;Name=protein-9;gene=ORF9
+KU558922	.	gene	30884	30988	.	+	.	ID=putative-gene-10;gene_biotype=protein_coding
+KU558922	.	CDS	30884	30988	.	+	0	ID=cds-10;Parent=putative-gene-10;Name=protein-10;gene=ORF10

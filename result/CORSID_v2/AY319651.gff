@@ -1,0 +1,23 @@
+##gff-version 3.1.26
+##sequence-region AY319651 1 27733
+AY319651	.	gene	530	20454	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+AY319651	.	CDS	530	12419	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+AY319651	.	CDS	12419	20454	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+AY319651	.	gene	20405	23914	.	+	.	ID=gene-S;gene_biotype=protein_coding
+AY319651	.	CDS	20405	23914	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+AY319651	.	gene	23914	24087	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+AY319651	.	CDS	23914	24087	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+AY319651	.	gene	24087	24275	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+AY319651	.	CDS	24087	24275	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+AY319651	.	gene	24533	25237	.	+	.	ID=putative-gene-5;gene_biotype=protein_coding
+AY319651	.	CDS	24533	25237	.	+	0	ID=cds-5;Parent=putative-gene-5;Name=protein-5;gene=ORF5
+AY319651	.	gene	25238	25522	.	+	.	ID=putative-gene-6;gene_biotype=protein_coding
+AY319651	.	CDS	25238	25522	.	+	0	ID=cds-6;Parent=putative-gene-6;Name=protein-6;gene=ORF6
+AY319651	.	gene	25601	25798	.	+	.	ID=gene-6a;gene_biotype=protein_coding
+AY319651	.	CDS	25601	25798	.	+	0	ID=cds-7;Parent=gene-6a;Name=6a;gene=6a
+AY319651	.	gene	25795	26040	.	+	.	ID=gene-6b;gene_biotype=protein_coding
+AY319651	.	CDS	25795	26040	.	+	0	ID=cds-8;Parent=gene-6b;Name=6b;gene=6b
+AY319651	.	gene	25983	27212	.	+	.	ID=gene-N;gene_biotype=protein_coding
+AY319651	.	CDS	25983	27212	.	+	0	ID=cds-9;Parent=gene-N;Name=N;gene=N
+AY319651	.	gene	27221	27442	.	+	.	ID=putative-gene-10;gene_biotype=protein_coding
+AY319651	.	CDS	27221	27442	.	+	0	ID=cds-10;Parent=putative-gene-10;Name=protein-10;gene=ORF10

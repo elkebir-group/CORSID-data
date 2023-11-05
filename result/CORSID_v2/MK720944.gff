@@ -1,0 +1,17 @@
+##gff-version 3.1.26
+##sequence-region MK720944 1 27636
+MK720944	.	gene	278	20052	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MK720944	.	CDS	278	12086	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MK720944	.	CDS	12086	20052	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MK720944	.	gene	20053	24150	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MK720944	.	CDS	20053	24150	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MK720944	.	gene	24150	24755	.	+	.	ID=gene-ns3;gene_biotype=protein_coding
+MK720944	.	CDS	24150	24755	.	+	0	ID=cds-3;Parent=gene-ns3;Name=ns3;gene=ns3
+MK720944	.	gene	24777	25004	.	+	.	ID=gene-E;gene_biotype=protein_coding
+MK720944	.	CDS	24777	25004	.	+	0	ID=cds-4;Parent=gene-E;Name=E;gene=E
+MK720944	.	gene	25011	25697	.	+	.	ID=gene-M;gene_biotype=protein_coding
+MK720944	.	CDS	25011	25697	.	+	0	ID=cds-5;Parent=gene-M;Name=M;gene=M
+MK720944	.	gene	25706	26977	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MK720944	.	CDS	25706	26977	.	+	0	ID=cds-6;Parent=gene-N;Name=N;gene=N
+MK720944	.	gene	26989	27348	.	+	.	ID=gene-ns7;gene_biotype=protein_coding
+MK720944	.	CDS	26989	27348	.	+	0	ID=cds-7;Parent=gene-ns7;Name=ns7;gene=ns7

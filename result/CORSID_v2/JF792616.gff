@@ -1,0 +1,19 @@
+##gff-version 3.1.26
+##sequence-region JF792616 1 31286
+JF792616	.	gene	183	21712	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+JF792616	.	CDS	183	13587	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+JF792616	.	CDS	13587	21712	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+JF792616	.	gene	21726	22523	.	+	.	ID=putative-gene-2;gene_biotype=protein_coding
+JF792616	.	CDS	21726	22523	.	+	0	ID=cds-2;Parent=putative-gene-2;Name=protein-2;gene=ORF2
+JF792616	.	gene	22569	23882	.	+	.	ID=gene-HE;gene_biotype=protein_coding
+JF792616	.	CDS	22569	23882	.	+	0	ID=cds-3;Parent=gene-HE;Name=HE;gene=HE
+JF792616	.	gene	23897	27979	.	+	.	ID=gene-S;gene_biotype=protein_coding
+JF792616	.	CDS	23897	27979	.	+	0	ID=cds-4;Parent=gene-S;Name=S;gene=S
+JF792616	.	gene	28070	28471	.	+	.	ID=gene-15 kd non-structural;gene_biotype=protein_coding
+JF792616	.	CDS	28070	28471	.	+	0	ID=cds-5;Parent=gene-15 kd non-structural;Name=15 kd non-structural;gene=15 kd non-structural
+JF792616	.	gene	28645	28911	.	+	.	ID=gene-E;gene_biotype=protein_coding
+JF792616	.	CDS	28645	28911	.	+	0	ID=cds-6;Parent=gene-E;Name=E;gene=E
+JF792616	.	gene	28908	29594	.	+	.	ID=gene-M;gene_biotype=protein_coding
+JF792616	.	CDS	28908	29594	.	+	0	ID=cds-7;Parent=gene-M;Name=M;gene=M
+JF792616	.	gene	29609	30973	.	+	.	ID=gene-N;gene_biotype=protein_coding
+JF792616	.	CDS	29609	30973	.	+	0	ID=cds-8;Parent=gene-N;Name=N;gene=N

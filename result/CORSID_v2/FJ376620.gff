@@ -1,0 +1,21 @@
+##gff-version 3.1.26
+##sequence-region FJ376620 1 26476
+FJ376620	.	gene	607	19394	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+FJ376620	.	CDS	607	11350	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+FJ376620	.	CDS	11350	19394	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+FJ376620	.	gene	19376	22867	.	+	.	ID=gene-S;gene_biotype=protein_coding
+FJ376620	.	CDS	19376	22867	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+FJ376620	.	gene	22861	23109	.	+	.	ID=gene-E;gene_biotype=protein_coding
+FJ376620	.	CDS	22861	23109	.	+	0	ID=cds-3;Parent=gene-E;Name=E;gene=E
+FJ376620	.	gene	23106	23807	.	+	.	ID=gene-M;gene_biotype=protein_coding
+FJ376620	.	CDS	23106	23807	.	+	0	ID=cds-4;Parent=gene-M;Name=M;gene=M
+FJ376620	.	gene	23807	24094	.	+	.	ID=gene-ns6;gene_biotype=protein_coding
+FJ376620	.	CDS	23807	24094	.	+	0	ID=cds-5;Parent=gene-ns6;Name=ns6;gene=ns6
+FJ376620	.	gene	24115	25164	.	+	.	ID=gene-N;gene_biotype=protein_coding
+FJ376620	.	CDS	24115	25164	.	+	0	ID=cds-6;Parent=gene-N;Name=N;gene=N
+FJ376620	.	gene	25343	25714	.	+	.	ID=gene-ns7a;gene_biotype=protein_coding
+FJ376620	.	CDS	25343	25714	.	+	0	ID=cds-7;Parent=gene-ns7a;Name=ns7a;gene=ns7a
+FJ376620	.	gene	25720	25974	.	+	.	ID=gene-ns7b;gene_biotype=protein_coding
+FJ376620	.	CDS	25720	25974	.	+	0	ID=cds-8;Parent=gene-ns7b;Name=ns7b;gene=ns7b
+FJ376620	.	gene	25971	26255	.	+	.	ID=gene-ns7c;gene_biotype=protein_coding
+FJ376620	.	CDS	25971	26255	.	+	0	ID=cds-9;Parent=gene-ns7c;Name=ns7c;gene=ns7c

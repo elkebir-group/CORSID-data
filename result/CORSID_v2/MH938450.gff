@@ -1,0 +1,21 @@
+##gff-version 3.1.26
+##sequence-region MH938450 1 28146
+MH938450	.	gene	253	20192	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MH938450	.	CDS	253	12208	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MH938450	.	CDS	12208	20192	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MH938450	.	gene	20189	24388	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MH938450	.	CDS	20189	24388	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MH938450	.	gene	24388	25041	.	+	.	ID=gene-3;gene_biotype=protein_coding
+MH938450	.	CDS	24388	25041	.	+	0	ID=cds-3;Parent=gene-3;Name=3;gene=3
+MH938450	.	gene	25022	25129	.	+	.	ID=putative-gene-4;gene_biotype=protein_coding
+MH938450	.	CDS	25022	25129	.	+	0	ID=cds-4;Parent=putative-gene-4;Name=protein-4;gene=ORF4
+MH938450	.	gene	25120	25347	.	+	.	ID=gene-E;gene_biotype=protein_coding
+MH938450	.	CDS	25120	25347	.	+	0	ID=cds-5;Parent=gene-E;Name=E;gene=E
+MH938450	.	gene	25360	26067	.	+	.	ID=gene-M;gene_biotype=protein_coding
+MH938450	.	CDS	25360	26067	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+MH938450	.	gene	26075	27373	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MH938450	.	CDS	26075	27373	.	+	0	ID=cds-7;Parent=gene-N;Name=N;gene=N
+MH938450	.	gene	27388	27714	.	+	.	ID=putative-gene-8;gene_biotype=protein_coding
+MH938450	.	CDS	27388	27714	.	+	0	ID=cds-8;Parent=putative-gene-8;Name=protein-8;gene=ORF8
+MH938450	.	gene	27872	27976	.	+	.	ID=putative-gene-9;gene_biotype=protein_coding
+MH938450	.	CDS	27872	27976	.	+	0	ID=cds-9;Parent=putative-gene-9;Name=protein-9;gene=ORF9

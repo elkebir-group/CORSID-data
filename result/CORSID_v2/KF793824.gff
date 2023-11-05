@@ -1,0 +1,33 @@
+##gff-version 3.1.26
+##sequence-region KF793824 1 31769
+KF793824	.	gene	520	20510	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KF793824	.	CDS	520	12412	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KF793824	.	CDS	12412	20510	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KF793824	.	gene	20446	24927	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KF793824	.	CDS	20446	24927	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KF793824	.	gene	24933	25220	.	+	.	ID=gene-E;gene_biotype=protein_coding
+KF793824	.	CDS	24933	25220	.	+	0	ID=cds-3;Parent=gene-E;Name=E;gene=E
+KF793824	.	gene	25204	26028	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KF793824	.	CDS	25204	26028	.	+	0	ID=cds-4;Parent=gene-M;Name=M;gene=M
+KF793824	.	gene	26031	26447	.	+	.	ID=gene-ns5a;gene_biotype=protein_coding
+KF793824	.	CDS	26031	26447	.	+	0	ID=cds-5;Parent=gene-ns5a;Name=ns5a;gene=ns5a
+KF793824	.	gene	26809	26958	.	+	.	ID=putative-gene-6;gene_biotype=protein_coding
+KF793824	.	CDS	26809	26958	.	+	0	ID=cds-6;Parent=putative-gene-6;Name=protein-6;gene=ORF6
+KF793824	.	gene	26948	27475	.	+	.	ID=gene-ns5c;gene_biotype=protein_coding
+KF793824	.	CDS	26948	27475	.	+	0	ID=cds-7;Parent=gene-ns5c;Name=ns5c;gene=ns5c
+KF793824	.	gene	27479	28165	.	+	.	ID=gene-ns6;gene_biotype=protein_coding
+KF793824	.	CDS	27479	28165	.	+	0	ID=cds-8;Parent=gene-ns6;Name=ns6;gene=ns6
+KF793824	.	gene	28168	28359	.	+	.	ID=gene-ns7a;gene_biotype=protein_coding
+KF793824	.	CDS	28168	28359	.	+	0	ID=cds-9;Parent=gene-ns7a;Name=ns7a;gene=ns7a
+KF793824	.	gene	28804	28983	.	+	.	ID=gene-ns8;gene_biotype=protein_coding
+KF793824	.	CDS	28804	28983	.	+	0	ID=cds-10;Parent=gene-ns8;Name=ns8;gene=ns8
+KF793824	.	gene	29040	29498	.	+	.	ID=gene-ns9;gene_biotype=protein_coding
+KF793824	.	CDS	29040	29498	.	+	0	ID=cds-11;Parent=gene-ns9;Name=ns9;gene=ns9
+KF793824	.	gene	29501	30133	.	+	.	ID=gene-ns10;gene_biotype=protein_coding
+KF793824	.	CDS	29501	30133	.	+	0	ID=cds-12;Parent=gene-ns10;Name=ns10;gene=ns10
+KF793824	.	gene	30139	30390	.	+	.	ID=putative-gene-13;gene_biotype=protein_coding
+KF793824	.	CDS	30139	30390	.	+	0	ID=cds-13;Parent=putative-gene-13;Name=protein-13;gene=ORF13
+KF793824	.	gene	30690	30890	.	+	.	ID=putative-gene-14;gene_biotype=protein_coding
+KF793824	.	CDS	30690	30890	.	+	0	ID=cds-14;Parent=putative-gene-14;Name=protein-14;gene=ORF14
+KF793824	.	gene	30890	31384	.	+	.	ID=putative-gene-15;gene_biotype=protein_coding
+KF793824	.	CDS	30890	31384	.	+	0	ID=cds-15;Parent=putative-gene-15;Name=protein-15;gene=ORF15

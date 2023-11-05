@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region JF705860 1 27673
+JF705860	.	gene	528	20434	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+JF705860	.	CDS	528	12384	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+JF705860	.	CDS	12384	20434	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+JF705860	.	gene	20370	23867	.	+	.	ID=gene-S;gene_biotype=protein_coding
+JF705860	.	CDS	20370	23867	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+JF705860	.	gene	23867	24040	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+JF705860	.	CDS	23867	24040	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+JF705860	.	gene	24040	24228	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+JF705860	.	CDS	24040	24228	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+JF705860	.	gene	24212	24541	.	+	.	ID=gene-E;gene_biotype=protein_coding
+JF705860	.	CDS	24212	24541	.	+	0	ID=cds-5;Parent=gene-E;Name=E;gene=E
+JF705860	.	gene	24510	25190	.	+	.	ID=gene-M;gene_biotype=protein_coding
+JF705860	.	CDS	24510	25190	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+JF705860	.	gene	25191	25493	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+JF705860	.	CDS	25191	25493	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7
+JF705860	.	gene	25545	25742	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+JF705860	.	CDS	25545	25742	.	+	0	ID=cds-8;Parent=gene-5a;Name=5a;gene=5a
+JF705860	.	gene	25739	25987	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+JF705860	.	CDS	25739	25987	.	+	0	ID=cds-9;Parent=gene-5b;Name=5b;gene=5b
+JF705860	.	gene	25930	27159	.	+	.	ID=gene-N;gene_biotype=protein_coding
+JF705860	.	CDS	25930	27159	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N
+JF705860	.	gene	27168	27389	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+JF705860	.	CDS	27168	27389	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11

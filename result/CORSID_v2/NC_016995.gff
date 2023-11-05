@@ -1,0 +1,23 @@
+##gff-version 3.1.26
+##sequence-region NC_016995 1 26227
+NC_016995	.	gene	219	18838	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+NC_016995	.	CDS	219	10926	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+NC_016995	.	CDS	10926	18838	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+NC_016995	.	gene	18817	22455	.	+	.	ID=gene-S;gene_biotype=protein_coding
+NC_016995	.	CDS	18817	22455	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+NC_016995	.	gene	22455	22715	.	+	.	ID=gene-E;gene_biotype=protein_coding
+NC_016995	.	CDS	22455	22715	.	+	0	ID=cds-3;Parent=gene-E;Name=E;gene=E
+NC_016995	.	gene	22708	23358	.	+	.	ID=gene-M;gene_biotype=protein_coding
+NC_016995	.	CDS	22708	23358	.	+	0	ID=cds-4;Parent=gene-M;Name=M;gene=M
+NC_016995	.	gene	23358	23630	.	+	.	ID=gene-ns6;gene_biotype=protein_coding
+NC_016995	.	CDS	23358	23630	.	+	0	ID=cds-5;Parent=gene-ns6;Name=ns6;gene=ns6
+NC_016995	.	gene	23646	24698	.	+	.	ID=gene-N;gene_biotype=protein_coding
+NC_016995	.	CDS	23646	24698	.	+	0	ID=cds-6;Parent=gene-N;Name=N;gene=N
+NC_016995	.	gene	24695	24928	.	+	.	ID=gene-ns7a;gene_biotype=protein_coding
+NC_016995	.	CDS	24695	24928	.	+	0	ID=cds-7;Parent=gene-ns7a;Name=ns7a;gene=ns7a
+NC_016995	.	gene	25218	25466	.	+	.	ID=gene-ns7b;gene_biotype=protein_coding
+NC_016995	.	CDS	25218	25466	.	+	0	ID=cds-8;Parent=gene-ns7b;Name=ns7b;gene=ns7b
+NC_016995	.	gene	25450	25716	.	+	.	ID=gene-ns7c;gene_biotype=protein_coding
+NC_016995	.	CDS	25450	25716	.	+	0	ID=cds-9;Parent=gene-ns7c;Name=ns7c;gene=ns7c
+NC_016995	.	gene	25752	25952	.	+	.	ID=gene-ns7d;gene_biotype=protein_coding
+NC_016995	.	CDS	25752	25952	.	+	0	ID=cds-10;Parent=gene-ns7d;Name=ns7d;gene=ns7d

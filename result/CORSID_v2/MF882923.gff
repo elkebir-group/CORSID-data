@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region MF882923 1 27705
+MF882923	.	gene	526	20420	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MF882923	.	CDS	526	12385	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MF882923	.	CDS	12385	20420	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MF882923	.	gene	20371	23883	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MF882923	.	CDS	20371	23883	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MF882923	.	gene	23883	24056	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+MF882923	.	CDS	23883	24056	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+MF882923	.	gene	24056	24244	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+MF882923	.	CDS	24056	24244	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+MF882923	.	gene	24225	24536	.	+	.	ID=gene-E;gene_biotype=protein_coding
+MF882923	.	CDS	24225	24536	.	+	0	ID=cds-5;Parent=gene-E;Name=E;gene=E
+MF882923	.	gene	24526	25206	.	+	.	ID=gene-M;gene_biotype=protein_coding
+MF882923	.	CDS	24526	25206	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+MF882923	.	gene	25207	25491	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+MF882923	.	CDS	25207	25491	.	+	0	ID=cds-7;Parent=gene-5a;Name=5a;gene=5a
+MF882923	.	gene	25570	25767	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+MF882923	.	CDS	25570	25767	.	+	0	ID=cds-8;Parent=gene-5b;Name=5b;gene=5b
+MF882923	.	gene	25764	26012	.	+	.	ID=putative-gene-9;gene_biotype=protein_coding
+MF882923	.	CDS	25764	26012	.	+	0	ID=cds-9;Parent=putative-gene-9;Name=protein-9;gene=ORF9
+MF882923	.	gene	25955	27181	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MF882923	.	CDS	25955	27181	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N
+MF882923	.	gene	27190	27411	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+MF882923	.	CDS	27190	27411	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11

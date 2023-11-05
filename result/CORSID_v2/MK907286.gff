@@ -1,0 +1,19 @@
+##gff-version 3.1.26
+##sequence-region MK907286 1 29951
+MK907286	.	gene	244	21497	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MK907286	.	CDS	244	13435	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MK907286	.	CDS	13435	21497	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MK907286	.	gene	21442	25425	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MK907286	.	CDS	21442	25425	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MK907286	.	gene	25441	25752	.	+	.	ID=gene-3;gene_biotype=protein_coding
+MK907286	.	CDS	25441	25752	.	+	0	ID=cds-3;Parent=gene-3;Name=3;gene=3
+MK907286	.	gene	25947	26624	.	+	.	ID=gene-4b;gene_biotype=protein_coding
+MK907286	.	CDS	25947	26624	.	+	0	ID=cds-4;Parent=gene-4b;Name=4b;gene=4b
+MK907286	.	gene	26634	27320	.	+	.	ID=gene-5;gene_biotype=protein_coding
+MK907286	.	CDS	26634	27320	.	+	0	ID=cds-5;Parent=gene-5;Name=5;gene=5
+MK907286	.	gene	27395	27643	.	+	.	ID=gene-E;gene_biotype=protein_coding
+MK907286	.	CDS	27395	27643	.	+	0	ID=cds-6;Parent=gene-E;Name=E;gene=E
+MK907286	.	gene	27654	28310	.	+	.	ID=gene-M;gene_biotype=protein_coding
+MK907286	.	CDS	27654	28310	.	+	0	ID=cds-7;Parent=gene-M;Name=M;gene=M
+MK907286	.	gene	28365	29648	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MK907286	.	CDS	28365	29648	.	+	0	ID=cds-8;Parent=gene-N;Name=N;gene=N

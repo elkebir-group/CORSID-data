@@ -1,0 +1,27 @@
+##gff-version 3.1.26
+##sequence-region MK720945 1 29201
+MK720945	.	gene	291	20428	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MK720945	.	CDS	291	12435	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MK720945	.	CDS	12435	20428	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MK720945	.	gene	20430	24485	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MK720945	.	CDS	20430	24485	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MK720945	.	gene	24485	25153	.	+	.	ID=gene-ns3;gene_biotype=protein_coding
+MK720945	.	CDS	24485	25153	.	+	0	ID=cds-3;Parent=gene-ns3;Name=ns3;gene=ns3
+MK720945	.	gene	25184	25543	.	+	.	ID=gene-ns4;gene_biotype=protein_coding
+MK720945	.	CDS	25184	25543	.	+	0	ID=cds-4;Parent=gene-ns4;Name=ns4;gene=ns4
+MK720945	.	gene	25544	25888	.	+	.	ID=gene-ns5a;gene_biotype=protein_coding
+MK720945	.	CDS	25544	25888	.	+	0	ID=cds-5;Parent=gene-ns5a;Name=ns5a;gene=ns5a
+MK720945	.	gene	25948	26058	.	+	.	ID=putative-gene-6;gene_biotype=protein_coding
+MK720945	.	CDS	25948	26058	.	+	0	ID=cds-6;Parent=putative-gene-6;Name=protein-6;gene=ORF6
+MK720945	.	gene	26209	26433	.	+	.	ID=gene-E;gene_biotype=protein_coding
+MK720945	.	CDS	26209	26433	.	+	0	ID=cds-7;Parent=gene-E;Name=E;gene=E
+MK720945	.	gene	26440	27126	.	+	.	ID=gene-M;gene_biotype=protein_coding
+MK720945	.	CDS	26440	27126	.	+	0	ID=cds-8;Parent=gene-M;Name=M;gene=M
+MK720945	.	gene	27137	28279	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MK720945	.	CDS	27137	28279	.	+	0	ID=cds-9;Parent=gene-N;Name=N;gene=N
+MK720945	.	gene	28290	28568	.	+	.	ID=putative-gene-10;gene_biotype=protein_coding
+MK720945	.	CDS	28290	28568	.	+	0	ID=cds-10;Parent=putative-gene-10;Name=protein-10;gene=ORF10
+MK720945	.	gene	28593	28955	.	+	.	ID=gene-10;gene_biotype=protein_coding
+MK720945	.	CDS	28593	28955	.	+	0	ID=cds-11;Parent=gene-10;Name=10;gene=10
+MK720945	.	gene	29092	29203	.	+	.	ID=putative-gene-12;gene_biotype=protein_coding
+MK720945	.	CDS	29092	29203	.	+	0	ID=cds-12;Parent=putative-gene-12;Name=protein-12;gene=ORF12

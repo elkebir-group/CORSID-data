@@ -1,0 +1,21 @@
+##gff-version 3.1.26
+##sequence-region MH687970 1 31038
+MH687970	.	gene	188	21495	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MH687970	.	CDS	188	13364	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MH687970	.	CDS	13364	21495	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MH687970	.	gene	21508	22296	.	+	.	ID=gene-nsns2a;gene_biotype=protein_coding
+MH687970	.	CDS	21508	22296	.	+	0	ID=cds-2;Parent=gene-nsns2a;Name=nsns2a;gene=nsns2a
+MH687970	.	gene	22352	23593	.	+	.	ID=gene-HE;gene_biotype=protein_coding
+MH687970	.	CDS	22352	23593	.	+	0	ID=cds-3;Parent=gene-HE;Name=HE;gene=HE
+MH687970	.	gene	23606	27643	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MH687970	.	CDS	23606	27643	.	+	0	ID=cds-4;Parent=gene-S;Name=S;gene=S
+MH687970	.	gene	27710	28132	.	+	.	ID=gene-nsns4;gene_biotype=protein_coding
+MH687970	.	CDS	27710	28132	.	+	0	ID=cds-5;Parent=gene-nsns4;Name=nsns4;gene=nsns4
+MH687970	.	gene	28114	28443	.	+	.	ID=gene-nsns4#;gene_biotype=protein_coding
+MH687970	.	CDS	28114	28443	.	+	0	ID=cds-6;Parent=gene-nsns4#;Name=nsns4#;gene=nsns4#
+MH687970	.	gene	28436	28690	.	+	.	ID=gene-E;gene_biotype=protein_coding
+MH687970	.	CDS	28436	28690	.	+	0	ID=cds-7;Parent=gene-E;Name=E;gene=E
+MH687970	.	gene	28701	29393	.	+	.	ID=gene-M;gene_biotype=protein_coding
+MH687970	.	CDS	28701	29393	.	+	0	ID=cds-8;Parent=gene-M;Name=M;gene=M
+MH687970	.	gene	29403	30755	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MH687970	.	CDS	29403	30755	.	+	0	ID=cds-9;Parent=gene-N;Name=N;gene=N

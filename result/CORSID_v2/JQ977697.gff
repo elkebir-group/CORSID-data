@@ -1,0 +1,23 @@
+##gff-version 3.1.26
+##sequence-region JQ977697 1 27708
+JQ977697	.	gene	529	20423	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+JQ977697	.	CDS	529	12388	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+JQ977697	.	CDS	12388	20423	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+JQ977697	.	gene	20374	23883	.	+	.	ID=gene-S;gene_biotype=protein_coding
+JQ977697	.	CDS	20374	23883	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+JQ977697	.	gene	23883	24056	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+JQ977697	.	CDS	23883	24056	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+JQ977697	.	gene	24056	24250	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+JQ977697	.	CDS	24056	24250	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+JQ977697	.	gene	24234	24560	.	+	.	ID=gene-E;gene_biotype=protein_coding
+JQ977697	.	CDS	24234	24560	.	+	0	ID=cds-5;Parent=gene-E;Name=E;gene=E
+JQ977697	.	gene	24532	25209	.	+	.	ID=gene-M;gene_biotype=protein_coding
+JQ977697	.	CDS	24532	25209	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+JQ977697	.	gene	25210	25494	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+JQ977697	.	CDS	25210	25494	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7
+JQ977697	.	gene	25569	25766	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+JQ977697	.	CDS	25569	25766	.	+	0	ID=cds-8;Parent=gene-5a;Name=5a;gene=5a
+JQ977697	.	gene	25763	26011	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+JQ977697	.	CDS	25763	26011	.	+	0	ID=cds-9;Parent=gene-5b;Name=5b;gene=5b
+JQ977697	.	gene	25954	27183	.	+	.	ID=gene-N;gene_biotype=protein_coding
+JQ977697	.	CDS	25954	27183	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N

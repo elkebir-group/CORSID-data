@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region NC_003045 1 31028
+NC_003045	.	gene	211	21494	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+NC_003045	.	CDS	211	13360	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+NC_003045	.	CDS	13360	21494	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+NC_003045	.	gene	21504	22340	.	+	.	ID=gene-ns;gene_biotype=protein_coding
+NC_003045	.	CDS	21504	22340	.	+	0	ID=cds-2;Parent=gene-ns;Name=ns;gene=ns
+NC_003045	.	gene	22352	23626	.	+	.	ID=gene-he;gene_biotype=protein_coding
+NC_003045	.	CDS	22352	23626	.	+	0	ID=cds-3;Parent=gene-he;Name=he;gene=he
+NC_003045	.	gene	23641	27732	.	+	.	ID=gene-S;gene_biotype=protein_coding
+NC_003045	.	CDS	23641	27732	.	+	0	ID=cds-4;Parent=gene-S;Name=S;gene=S
+NC_003045	.	gene	27889	28026	.	+	.	ID=gene-4.8 kda non-structural;gene_biotype=protein_coding
+NC_003045	.	CDS	27889	28026	.	+	0	ID=cds-5;Parent=gene-4.8 kda non-structural;Name=4.8 kda non-structural;gene=4.8 kda non-structural
+NC_003045	.	gene	28106	28435	.	+	.	ID=gene-12.7 kda non-structural;gene_biotype=protein_coding
+NC_003045	.	CDS	28106	28435	.	+	0	ID=cds-6;Parent=gene-12.7 kda non-structural;Name=12.7 kda non-structural;gene=12.7 kda non-structural
+NC_003045	.	gene	28422	28676	.	+	.	ID=gene-E;gene_biotype=protein_coding
+NC_003045	.	CDS	28422	28676	.	+	0	ID=cds-7;Parent=gene-E;Name=E;gene=E
+NC_003045	.	gene	28691	29383	.	+	.	ID=gene-M;gene_biotype=protein_coding
+NC_003045	.	CDS	28691	29383	.	+	0	ID=cds-8;Parent=gene-M;Name=M;gene=M
+NC_003045	.	gene	29393	30739	.	+	.	ID=gene-N;gene_biotype=protein_coding
+NC_003045	.	CDS	29393	30739	.	+	0	ID=cds-9;Parent=gene-N;Name=N;gene=N
+NC_003045	.	gene	30705	30833	.	+	.	ID=putative-gene-10;gene_biotype=protein_coding
+NC_003045	.	CDS	30705	30833	.	+	0	ID=cds-10;Parent=putative-gene-10;Name=protein-10;gene=ORF10
+NC_003045	.	gene	30891	30995	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+NC_003045	.	CDS	30891	30995	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11

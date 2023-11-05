@@ -1,0 +1,17 @@
+##gff-version 3.1.26
+##sequence-region MF737355 1 28038
+MF737355	.	gene	293	20637	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MF737355	.	CDS	293	12644	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MF737355	.	CDS	12644	20637	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MF737355	.	gene	20634	24794	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MF737355	.	CDS	20634	24794	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MF737355	.	gene	24794	25468	.	+	.	ID=gene-3;gene_biotype=protein_coding
+MF737355	.	CDS	24794	25468	.	+	0	ID=cds-3;Parent=gene-3;Name=3;gene=3
+MF737355	.	gene	25449	25679	.	+	.	ID=gene-E;gene_biotype=protein_coding
+MF737355	.	CDS	25449	25679	.	+	0	ID=cds-4;Parent=gene-E;Name=E;gene=E
+MF737355	.	gene	25687	26367	.	+	.	ID=gene-M;gene_biotype=protein_coding
+MF737355	.	CDS	25687	26367	.	+	0	ID=cds-5;Parent=gene-M;Name=M;gene=M
+MF737355	.	gene	26379	27704	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MF737355	.	CDS	26379	27704	.	+	0	ID=cds-6;Parent=gene-N;Name=N;gene=N
+MF737355	.	gene	27708	27815	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+MF737355	.	CDS	27708	27815	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7

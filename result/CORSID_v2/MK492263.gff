@@ -1,0 +1,21 @@
+##gff-version 3.1.26
+##sequence-region MK492263 1 29585
+MK492263	.	gene	227	20823	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MK492263	.	CDS	227	12767	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MK492263	.	CDS	12767	20823	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MK492263	.	gene	20777	24601	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MK492263	.	CDS	20777	24601	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MK492263	.	gene	24598	25290	.	+	.	ID=gene-ns3;gene_biotype=protein_coding
+MK492263	.	CDS	24598	25290	.	+	0	ID=cds-3;Parent=gene-ns3;Name=ns3;gene=ns3
+MK492263	.	gene	25290	25520	.	+	.	ID=gene-small M;gene_biotype=protein_coding
+MK492263	.	CDS	25290	25520	.	+	0	ID=cds-4;Parent=gene-small M;Name=small M;gene=small M
+MK492263	.	gene	25523	26188	.	+	.	ID=gene-M;gene_biotype=protein_coding
+MK492263	.	CDS	25523	26188	.	+	0	ID=cds-5;Parent=gene-M;Name=M;gene=M
+MK492263	.	gene	26243	27634	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MK492263	.	CDS	26243	27634	.	+	0	ID=cds-6;Parent=gene-N;Name=N;gene=N
+MK492263	.	gene	27670	28272	.	+	.	ID=gene-?;gene_biotype=protein_coding
+MK492263	.	CDS	27670	28272	.	+	0	ID=cds-7;Parent=gene-?;Name=?;gene=?
+MK492263	.	gene	28296	28889	.	+	.	ID=gene-?#;gene_biotype=protein_coding
+MK492263	.	CDS	28296	28889	.	+	0	ID=cds-8;Parent=gene-?#;Name=?#;gene=?#
+MK492263	.	gene	28886	29326	.	+	.	ID=putative-gene-9;gene_biotype=protein_coding
+MK492263	.	CDS	28886	29326	.	+	0	ID=cds-9;Parent=putative-gene-9;Name=protein-9;gene=ORF9

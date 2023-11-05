@@ -1,0 +1,23 @@
+##gff-version 3.1.26
+##sequence-region KY419112 1 30531
+KY419112	.	gene	172	21455	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KY419112	.	CDS	172	13321	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KY419112	.	CDS	13321	21455	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KY419112	.	gene	21535	21681	.	+	.	ID=putative-gene-2;gene_biotype=protein_coding
+KY419112	.	CDS	21535	21681	.	+	0	ID=cds-2;Parent=putative-gene-2;Name=protein-2;gene=ORF2
+KY419112	.	gene	21788	21916	.	+	.	ID=putative-gene-3;gene_biotype=protein_coding
+KY419112	.	CDS	21788	21916	.	+	0	ID=cds-3;Parent=putative-gene-3;Name=protein-3;gene=ORF3
+KY419112	.	gene	22034	22162	.	+	.	ID=putative-gene-4;gene_biotype=protein_coding
+KY419112	.	CDS	22034	22162	.	+	0	ID=cds-4;Parent=putative-gene-4;Name=protein-4;gene=ORF4
+KY419112	.	gene	22221	23495	.	+	.	ID=gene-HE;gene_biotype=protein_coding
+KY419112	.	CDS	22221	23495	.	+	0	ID=cds-5;Parent=gene-HE;Name=HE;gene=HE
+KY419112	.	gene	23510	27556	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KY419112	.	CDS	23510	27556	.	+	0	ID=cds-6;Parent=gene-S;Name=S;gene=S
+KY419112	.	gene	27613	27942	.	+	.	ID=gene-ns;gene_biotype=protein_coding
+KY419112	.	CDS	27613	27942	.	+	0	ID=cds-7;Parent=gene-ns;Name=ns;gene=ns
+KY419112	.	gene	27929	28183	.	+	.	ID=gene-E;gene_biotype=protein_coding
+KY419112	.	CDS	27929	28183	.	+	0	ID=cds-8;Parent=gene-E;Name=E;gene=E
+KY419112	.	gene	28198	28890	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KY419112	.	CDS	28198	28890	.	+	0	ID=cds-9;Parent=gene-M;Name=M;gene=M
+KY419112	.	gene	28900	30249	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KY419112	.	CDS	28900	30249	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N

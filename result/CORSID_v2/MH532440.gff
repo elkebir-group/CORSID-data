@@ -1,0 +1,17 @@
+##gff-version 3.1.26
+##sequence-region MH532440 1 25881
+MH532440	.	gene	496	19277	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MH532440	.	CDS	496	11359	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MH532440	.	CDS	11359	19277	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MH532440	.	gene	19259	22789	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MH532440	.	CDS	19259	22789	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MH532440	.	gene	22783	23034	.	+	.	ID=gene-E;gene_biotype=protein_coding
+MH532440	.	CDS	22783	23034	.	+	0	ID=cds-3;Parent=gene-E;Name=E;gene=E
+MH532440	.	gene	23027	23680	.	+	.	ID=gene-M;gene_biotype=protein_coding
+MH532440	.	CDS	23027	23680	.	+	0	ID=cds-4;Parent=gene-M;Name=M;gene=M
+MH532440	.	gene	23680	23961	.	+	.	ID=gene-ns6;gene_biotype=protein_coding
+MH532440	.	CDS	23680	23961	.	+	0	ID=cds-5;Parent=gene-ns6;Name=ns6;gene=ns6
+MH532440	.	gene	23986	25011	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MH532440	.	CDS	23986	25011	.	+	0	ID=cds-6;Parent=gene-N;Name=N;gene=N
+MH532440	.	gene	25022	25429	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+MH532440	.	CDS	25022	25429	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7

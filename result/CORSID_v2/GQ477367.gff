@@ -1,0 +1,21 @@
+##gff-version 3.1.26
+##sequence-region GQ477367 1 29363
+GQ477367	.	gene	314	20364	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+GQ477367	.	CDS	314	12362	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+GQ477367	.	CDS	12362	20364	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+GQ477367	.	gene	20361	24734	.	+	.	ID=gene-S;gene_biotype=protein_coding
+GQ477367	.	CDS	20361	24734	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+GQ477367	.	gene	24795	25031	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+GQ477367	.	CDS	24795	25031	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+GQ477367	.	gene	25188	25922	.	+	.	ID=gene-3c;gene_biotype=protein_coding
+GQ477367	.	CDS	25188	25922	.	+	0	ID=cds-4;Parent=gene-3c;Name=3c;gene=3c
+GQ477367	.	gene	25909	26157	.	+	.	ID=gene-E;gene_biotype=protein_coding
+GQ477367	.	CDS	25909	26157	.	+	0	ID=cds-5;Parent=gene-E;Name=E;gene=E
+GQ477367	.	gene	26168	26971	.	+	.	ID=gene-M;gene_biotype=protein_coding
+GQ477367	.	CDS	26168	26971	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+GQ477367	.	gene	26984	28132	.	+	.	ID=gene-N;gene_biotype=protein_coding
+GQ477367	.	CDS	26984	28132	.	+	0	ID=cds-7;Parent=gene-N;Name=N;gene=N
+GQ477367	.	gene	28137	28442	.	+	.	ID=gene-7a;gene_biotype=protein_coding
+GQ477367	.	CDS	28137	28442	.	+	0	ID=cds-8;Parent=gene-7a;Name=7a;gene=7a
+GQ477367	.	gene	28447	29088	.	+	.	ID=gene-7b;gene_biotype=protein_coding
+GQ477367	.	CDS	28447	29088	.	+	0	ID=cds-9;Parent=gene-7b;Name=7b;gene=7b

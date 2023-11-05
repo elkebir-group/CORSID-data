@@ -1,0 +1,17 @@
+##gff-version 3.1.26
+##sequence-region MH687938 1 28349
+MH687938	.	gene	257	20637	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MH687938	.	CDS	257	12641	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MH687938	.	CDS	12641	20637	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MH687938	.	gene	20634	24752	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MH687938	.	CDS	20634	24752	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MH687938	.	gene	24752	25426	.	+	.	ID=gene-3;gene_biotype=protein_coding
+MH687938	.	CDS	24752	25426	.	+	0	ID=cds-3;Parent=gene-3;Name=3;gene=3
+MH687938	.	gene	25407	25637	.	+	.	ID=gene-E;gene_biotype=protein_coding
+MH687938	.	CDS	25407	25637	.	+	0	ID=cds-4;Parent=gene-E;Name=E;gene=E
+MH687938	.	gene	25644	26327	.	+	.	ID=gene-matrix;gene_biotype=protein_coding
+MH687938	.	CDS	25644	26327	.	+	0	ID=cds-5;Parent=gene-matrix;Name=matrix;gene=matrix
+MH687938	.	gene	26338	27522	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MH687938	.	CDS	26338	27522	.	+	0	ID=cds-6;Parent=gene-N;Name=N;gene=N
+MH687938	.	gene	27537	28031	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+MH687938	.	CDS	27537	28031	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7

@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region MH021175 1 27599
+MH021175	.	gene	529	20360	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MH021175	.	CDS	529	12325	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MH021175	.	CDS	12325	20360	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MH021175	.	gene	20311	23802	.	+	.	ID=gene-spike s glyco;gene_biotype=protein_coding
+MH021175	.	CDS	20311	23802	.	+	0	ID=cds-2;Parent=gene-spike s glyco;Name=spike s glyco;gene=spike s glyco
+MH021175	.	gene	23802	23975	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+MH021175	.	CDS	23802	23975	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+MH021175	.	gene	23975	24169	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+MH021175	.	CDS	23975	24169	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+MH021175	.	gene	24150	24473	.	+	.	ID=gene-envelope e;gene_biotype=protein_coding
+MH021175	.	CDS	24150	24473	.	+	0	ID=cds-5;Parent=gene-envelope e;Name=envelope e;gene=envelope e
+MH021175	.	gene	24442	25122	.	+	.	ID=gene-membrane m;gene_biotype=protein_coding
+MH021175	.	CDS	24442	25122	.	+	0	ID=cds-6;Parent=gene-membrane m;Name=membrane m;gene=membrane m
+MH021175	.	gene	25123	25407	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+MH021175	.	CDS	25123	25407	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7
+MH021175	.	gene	25478	25678	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+MH021175	.	CDS	25478	25678	.	+	0	ID=cds-8;Parent=gene-5a;Name=5a;gene=5a
+MH021175	.	gene	25675	25923	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+MH021175	.	CDS	25675	25923	.	+	0	ID=cds-9;Parent=gene-5b;Name=5b;gene=5b
+MH021175	.	gene	25866	27095	.	+	.	ID=gene-nucleopcapsid n;gene_biotype=protein_coding
+MH021175	.	CDS	25866	27095	.	+	0	ID=cds-10;Parent=gene-nucleopcapsid n;Name=nucleopcapsid n;gene=nucleopcapsid n
+MH021175	.	gene	27104	27313	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+MH021175	.	CDS	27104	27313	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11

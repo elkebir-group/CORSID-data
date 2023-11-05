@@ -1,0 +1,21 @@
+##gff-version 3.1.26
+##sequence-region KP886808 1 29723
+KP886808	.	gene	264	21484	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KP886808	.	CDS	264	13410	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KP886808	.	CDS	13410	21484	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KP886808	.	gene	21491	25216	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KP886808	.	CDS	21491	25216	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KP886808	.	gene	25225	26049	.	+	.	ID=gene-3;gene_biotype=protein_coding
+KP886808	.	CDS	25225	26049	.	+	0	ID=cds-3;Parent=gene-3;Name=3;gene=3
+KP886808	.	gene	26074	26304	.	+	.	ID=gene-E;gene_biotype=protein_coding
+KP886808	.	CDS	26074	26304	.	+	0	ID=cds-4;Parent=gene-E;Name=E;gene=E
+KP886808	.	gene	26352	27017	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KP886808	.	CDS	26352	27017	.	+	0	ID=cds-5;Parent=gene-M;Name=M;gene=M
+KP886808	.	gene	27227	27595	.	+	.	ID=gene-7a;gene_biotype=protein_coding
+KP886808	.	CDS	27227	27595	.	+	0	ID=cds-6;Parent=gene-7a;Name=7a;gene=7a
+KP886808	.	gene	27592	27726	.	+	.	ID=gene-7b;gene_biotype=protein_coding
+KP886808	.	CDS	27592	27726	.	+	0	ID=cds-7;Parent=gene-7b;Name=7b;gene=7b
+KP886808	.	gene	27733	28101	.	+	.	ID=gene-8;gene_biotype=protein_coding
+KP886808	.	CDS	27733	28101	.	+	0	ID=cds-8;Parent=gene-8;Name=8;gene=8
+KP886808	.	gene	28103	29368	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KP886808	.	CDS	28103	29368	.	+	0	ID=cds-9;Parent=gene-N;Name=N;gene=N

@@ -1,0 +1,21 @@
+##gff-version 3.1.26
+##sequence-region MN514967 1 30799
+MN514967	.	gene	215	21492	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MN514967	.	CDS	215	13358	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MN514967	.	CDS	13358	21492	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MN514967	.	gene	21502	22338	.	+	.	ID=gene-ns2;gene_biotype=protein_coding
+MN514967	.	CDS	21502	22338	.	+	0	ID=cds-2;Parent=gene-ns2;Name=ns2;gene=ns2
+MN514967	.	gene	22350	23624	.	+	.	ID=gene-he;gene_biotype=protein_coding
+MN514967	.	CDS	22350	23624	.	+	0	ID=cds-3;Parent=gene-he;Name=he;gene=he
+MN514967	.	gene	23639	27739	.	+	.	ID=gene-s;gene_biotype=protein_coding
+MN514967	.	CDS	23639	27739	.	+	0	ID=cds-4;Parent=gene-s;Name=s;gene=s
+MN514967	.	gene	27886	28215	.	+	.	ID=gene-ns5;gene_biotype=protein_coding
+MN514967	.	CDS	27886	28215	.	+	0	ID=cds-5;Parent=gene-ns5;Name=ns5;gene=ns5
+MN514967	.	gene	28208	28459	.	+	.	ID=gene-e;gene_biotype=protein_coding
+MN514967	.	CDS	28208	28459	.	+	0	ID=cds-6;Parent=gene-e;Name=e;gene=e
+MN514967	.	gene	28470	29162	.	+	.	ID=gene-m;gene_biotype=protein_coding
+MN514967	.	CDS	28470	29162	.	+	0	ID=cds-7;Parent=gene-m;Name=m;gene=m
+MN514967	.	gene	29172	30518	.	+	.	ID=gene-n;gene_biotype=protein_coding
+MN514967	.	CDS	29172	30518	.	+	0	ID=cds-8;Parent=gene-n;Name=n;gene=n
+MN514967	.	gene	30484	30618	.	+	.	ID=putative-gene-9;gene_biotype=protein_coding
+MN514967	.	CDS	30484	30618	.	+	0	ID=cds-9;Parent=putative-gene-9;Name=protein-9;gene=ORF9

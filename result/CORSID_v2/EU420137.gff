@@ -1,0 +1,17 @@
+##gff-version 3.1.26
+##sequence-region EU420137 1 28476
+EU420137	.	gene	273	21238	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+EU420137	.	CDS	273	13245	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+EU420137	.	CDS	13245	21238	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+EU420137	.	gene	21240	25397	.	+	.	ID=gene-S;gene_biotype=protein_coding
+EU420137	.	CDS	21240	25397	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+EU420137	.	gene	25366	26025	.	+	.	ID=gene-3;gene_biotype=protein_coding
+EU420137	.	CDS	25366	26025	.	+	0	ID=cds-3;Parent=gene-3;Name=3;gene=3
+EU420137	.	gene	26019	26243	.	+	.	ID=gene-E;gene_biotype=protein_coding
+EU420137	.	CDS	26019	26243	.	+	0	ID=cds-4;Parent=gene-E;Name=E;gene=E
+EU420137	.	gene	26250	27017	.	+	.	ID=gene-M;gene_biotype=protein_coding
+EU420137	.	CDS	26250	27017	.	+	0	ID=cds-5;Parent=gene-M;Name=M;gene=M
+EU420137	.	gene	27038	28189	.	+	.	ID=gene-N;gene_biotype=protein_coding
+EU420137	.	CDS	27038	28189	.	+	0	ID=cds-6;Parent=gene-N;Name=N;gene=N
+EU420137	.	gene	28125	28337	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+EU420137	.	CDS	28125	28337	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7

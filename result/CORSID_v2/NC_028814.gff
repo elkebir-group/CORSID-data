@@ -1,0 +1,17 @@
+##gff-version 3.1.26
+##sequence-region NC_028814 1 27608
+NC_028814	.	gene	42	20224	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+NC_028814	.	CDS	42	12231	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+NC_028814	.	CDS	12231	20224	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+NC_028814	.	gene	20503	20697	.	+	.	ID=putative-gene-2;gene_biotype=protein_coding
+NC_028814	.	CDS	20503	20697	.	+	0	ID=cds-2;Parent=putative-gene-2;Name=protein-2;gene=ORF2
+NC_028814	.	gene	20730	24338	.	+	.	ID=putative-gene-3;gene_biotype=protein_coding
+NC_028814	.	CDS	20730	24338	.	+	0	ID=cds-3;Parent=putative-gene-3;Name=protein-3;gene=ORF3
+NC_028814	.	gene	24365	25027	.	+	.	ID=putative-gene-4;gene_biotype=protein_coding
+NC_028814	.	CDS	24365	25027	.	+	0	ID=cds-4;Parent=putative-gene-4;Name=protein-4;gene=ORF4
+NC_028814	.	gene	25008	25232	.	+	.	ID=putative-gene-5;gene_biotype=protein_coding
+NC_028814	.	CDS	25008	25232	.	+	0	ID=cds-5;Parent=putative-gene-5;Name=protein-5;gene=ORF5
+NC_028814	.	gene	25389	25925	.	+	.	ID=putative-gene-6;gene_biotype=protein_coding
+NC_028814	.	CDS	25389	25925	.	+	0	ID=cds-6;Parent=putative-gene-6;Name=protein-6;gene=ORF6
+NC_028814	.	gene	25937	27088	.	+	.	ID=gene-N;gene_biotype=protein_coding
+NC_028814	.	CDS	25937	27088	.	+	0	ID=cds-7;Parent=gene-N;Name=N;gene=N

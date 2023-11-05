@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region KX252786 1 27682
+KX252786	.	gene	526	20417	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KX252786	.	CDS	526	12382	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KX252786	.	CDS	12382	20417	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KX252786	.	gene	20368	23865	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KX252786	.	CDS	20368	23865	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KX252786	.	gene	23865	24038	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+KX252786	.	CDS	23865	24038	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+KX252786	.	gene	24038	24226	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+KX252786	.	CDS	24038	24226	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+KX252786	.	gene	24213	24539	.	+	.	ID=gene-3c;gene_biotype=protein_coding
+KX252786	.	CDS	24213	24539	.	+	0	ID=cds-5;Parent=gene-3c;Name=3c;gene=3c
+KX252786	.	gene	24511	25188	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KX252786	.	CDS	24511	25188	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+KX252786	.	gene	25189	25473	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+KX252786	.	CDS	25189	25473	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7
+KX252786	.	gene	25552	25749	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+KX252786	.	CDS	25552	25749	.	+	0	ID=cds-8;Parent=gene-5a;Name=5a;gene=5a
+KX252786	.	gene	25746	25994	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+KX252786	.	CDS	25746	25994	.	+	0	ID=cds-9;Parent=gene-5b;Name=5b;gene=5b
+KX252786	.	gene	25937	27166	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KX252786	.	CDS	25937	27166	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N
+KX252786	.	gene	27175	27396	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+KX252786	.	CDS	27175	27396	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11

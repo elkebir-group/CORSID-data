@@ -1,0 +1,17 @@
+##gff-version 3.1.26
+##sequence-region MF094685 1 27200
+MF094685	.	gene	304	20489	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MF094685	.	CDS	304	12484	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MF094685	.	CDS	12484	20489	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MF094685	.	gene	20486	23902	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MF094685	.	CDS	20486	23902	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MF094685	.	gene	23902	24591	.	+	.	ID=gene-ns3;gene_biotype=protein_coding
+MF094685	.	CDS	23902	24591	.	+	0	ID=cds-3;Parent=gene-ns3;Name=ns3;gene=ns3
+MF094685	.	gene	24572	24799	.	+	.	ID=gene-E;gene_biotype=protein_coding
+MF094685	.	CDS	24572	24799	.	+	0	ID=cds-4;Parent=gene-E;Name=E;gene=E
+MF094685	.	gene	24808	25497	.	+	.	ID=gene-M;gene_biotype=protein_coding
+MF094685	.	CDS	24808	25497	.	+	0	ID=cds-5;Parent=gene-M;Name=M;gene=M
+MF094685	.	gene	25509	26636	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MF094685	.	CDS	25509	26636	.	+	0	ID=cds-6;Parent=gene-N;Name=N;gene=N
+MF094685	.	gene	26648	26947	.	+	.	ID=gene-ns7a;gene_biotype=protein_coding
+MF094685	.	CDS	26648	26947	.	+	0	ID=cds-7;Parent=gene-ns7a;Name=ns7a;gene=ns7a

@@ -1,0 +1,19 @@
+##gff-version 3.1.26
+##sequence-region DQ011855 1 30480
+DQ011855	.	gene	211	21497	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+DQ011855	.	CDS	211	13360	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+DQ011855	.	CDS	13360	21497	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+DQ011855	.	gene	21501	22085	.	+	.	ID=gene-ns2;gene_biotype=protein_coding
+DQ011855	.	CDS	21501	22085	.	+	0	ID=cds-2;Parent=gene-ns2;Name=ns2;gene=ns2
+DQ011855	.	gene	22138	23412	.	+	.	ID=gene-he;gene_biotype=protein_coding
+DQ011855	.	CDS	22138	23412	.	+	0	ID=cds-3;Parent=gene-he;Name=he;gene=he
+DQ011855	.	gene	23427	27476	.	+	.	ID=gene-S;gene_biotype=protein_coding
+DQ011855	.	CDS	23427	27476	.	+	0	ID=cds-4;Parent=gene-S;Name=S;gene=S
+DQ011855	.	gene	27556	27885	.	+	.	ID=gene-ns12.7;gene_biotype=protein_coding
+DQ011855	.	CDS	27556	27885	.	+	0	ID=cds-5;Parent=gene-ns12.7;Name=ns12.7;gene=ns12.7
+DQ011855	.	gene	27872	28126	.	+	.	ID=gene-E;gene_biotype=protein_coding
+DQ011855	.	CDS	27872	28126	.	+	0	ID=cds-6;Parent=gene-E;Name=E;gene=E
+DQ011855	.	gene	28141	28833	.	+	.	ID=gene-M;gene_biotype=protein_coding
+DQ011855	.	CDS	28141	28833	.	+	0	ID=cds-7;Parent=gene-M;Name=M;gene=M
+DQ011855	.	gene	28843	30192	.	+	.	ID=gene-N;gene_biotype=protein_coding
+DQ011855	.	CDS	28843	30192	.	+	0	ID=cds-8;Parent=gene-N;Name=N;gene=N

@@ -1,0 +1,21 @@
+##gff-version 3.1.26
+##sequence-region GU553362 1 29264
+GU553362	.	gene	293	20379	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+GU553362	.	CDS	293	12377	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+GU553362	.	CDS	12377	20379	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+GU553362	.	gene	20376	24776	.	+	.	ID=gene-S;gene_biotype=protein_coding
+GU553362	.	CDS	20376	24776	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+GU553362	.	gene	24788	25000	.	+	.	ID=gene-ns3a;gene_biotype=protein_coding
+GU553362	.	CDS	24788	25000	.	+	0	ID=cds-3;Parent=gene-ns3a;Name=ns3a;gene=ns3a
+GU553362	.	gene	25166	25879	.	+	.	ID=gene-ns3c;gene_biotype=protein_coding
+GU553362	.	CDS	25166	25879	.	+	0	ID=cds-4;Parent=gene-ns3c;Name=ns3c;gene=ns3c
+GU553362	.	gene	25866	26114	.	+	.	ID=gene-E;gene_biotype=protein_coding
+GU553362	.	CDS	25866	26114	.	+	0	ID=cds-5;Parent=gene-E;Name=E;gene=E
+GU553362	.	gene	26125	26919	.	+	.	ID=gene-M;gene_biotype=protein_coding
+GU553362	.	CDS	26125	26919	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+GU553362	.	gene	26932	28065	.	+	.	ID=gene-N;gene_biotype=protein_coding
+GU553362	.	CDS	26932	28065	.	+	0	ID=cds-7;Parent=gene-N;Name=N;gene=N
+GU553362	.	gene	28070	28375	.	+	.	ID=gene-ns;gene_biotype=protein_coding
+GU553362	.	CDS	28070	28375	.	+	0	ID=cds-8;Parent=gene-ns;Name=ns;gene=ns
+GU553362	.	gene	28380	29000	.	+	.	ID=gene-7b?;gene_biotype=protein_coding
+GU553362	.	CDS	28380	29000	.	+	0	ID=cds-9;Parent=gene-7b?;Name=7b?;gene=7b?

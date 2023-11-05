@@ -1,0 +1,19 @@
+##gff-version 3.1.26
+##sequence-region NC_006213 1 30741
+NC_006213	.	gene	210	21496	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+NC_006213	.	CDS	210	13359	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+NC_006213	.	CDS	13359	21496	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+NC_006213	.	gene	21506	22342	.	+	.	ID=gene-ns2;gene_biotype=protein_coding
+NC_006213	.	CDS	21506	22342	.	+	0	ID=cds-2;Parent=gene-ns2;Name=ns2;gene=ns2
+NC_006213	.	gene	22354	23628	.	+	.	ID=gene-HE;gene_biotype=protein_coding
+NC_006213	.	CDS	22354	23628	.	+	0	ID=cds-3;Parent=gene-HE;Name=HE;gene=HE
+NC_006213	.	gene	23643	27704	.	+	.	ID=gene-S;gene_biotype=protein_coding
+NC_006213	.	CDS	23643	27704	.	+	0	ID=cds-4;Parent=gene-S;Name=S;gene=S
+NC_006213	.	gene	27792	28121	.	+	.	ID=gene-ns12.9;gene_biotype=protein_coding
+NC_006213	.	CDS	27792	28121	.	+	0	ID=cds-5;Parent=gene-ns12.9;Name=ns12.9;gene=ns12.9
+NC_006213	.	gene	28108	28362	.	+	.	ID=gene-E;gene_biotype=protein_coding
+NC_006213	.	CDS	28108	28362	.	+	0	ID=cds-6;Parent=gene-E;Name=E;gene=E
+NC_006213	.	gene	28377	29069	.	+	.	ID=gene-M;gene_biotype=protein_coding
+NC_006213	.	CDS	28377	29069	.	+	0	ID=cds-7;Parent=gene-M;Name=M;gene=M
+NC_006213	.	gene	29079	30425	.	+	.	ID=gene-N;gene_biotype=protein_coding
+NC_006213	.	CDS	29079	30425	.	+	0	ID=cds-8;Parent=gene-N;Name=N;gene=N

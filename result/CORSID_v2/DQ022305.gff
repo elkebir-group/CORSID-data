@@ -1,0 +1,23 @@
+##gff-version 3.1.26
+##sequence-region DQ022305 1 29728
+DQ022305	.	gene	262	21464	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+DQ022305	.	CDS	262	13390	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+DQ022305	.	CDS	13390	21464	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+DQ022305	.	gene	21471	25199	.	+	.	ID=gene-S;gene_biotype=protein_coding
+DQ022305	.	CDS	21471	25199	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+DQ022305	.	gene	25209	26033	.	+	.	ID=gene-3a?;gene_biotype=protein_coding
+DQ022305	.	CDS	25209	26033	.	+	0	ID=cds-3;Parent=gene-3a?;Name=3a?;gene=3a?
+DQ022305	.	gene	26058	26288	.	+	.	ID=gene-E;gene_biotype=protein_coding
+DQ022305	.	CDS	26058	26288	.	+	0	ID=cds-4;Parent=gene-E;Name=E;gene=E
+DQ022305	.	gene	26339	27004	.	+	.	ID=gene-M;gene_biotype=protein_coding
+DQ022305	.	CDS	26339	27004	.	+	0	ID=cds-5;Parent=gene-M;Name=M;gene=M
+DQ022305	.	gene	27015	27206	.	+	.	ID=gene-6?;gene_biotype=protein_coding
+DQ022305	.	CDS	27015	27206	.	+	0	ID=cds-6;Parent=gene-6?;Name=6?;gene=6?
+DQ022305	.	gene	27214	27582	.	+	.	ID=gene-7a?;gene_biotype=protein_coding
+DQ022305	.	CDS	27214	27582	.	+	0	ID=cds-7;Parent=gene-7a?;Name=7a?;gene=7a?
+DQ022305	.	gene	27579	27713	.	+	.	ID=gene-7b?;gene_biotype=protein_coding
+DQ022305	.	CDS	27579	27713	.	+	0	ID=cds-8;Parent=gene-7b?;Name=7b?;gene=7b?
+DQ022305	.	gene	27720	28085	.	+	.	ID=gene-8?;gene_biotype=protein_coding
+DQ022305	.	CDS	27720	28085	.	+	0	ID=cds-9;Parent=gene-8?;Name=8?;gene=8?
+DQ022305	.	gene	28100	29365	.	+	.	ID=gene-N;gene_biotype=protein_coding
+DQ022305	.	CDS	28100	29365	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N

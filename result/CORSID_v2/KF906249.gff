@@ -1,0 +1,21 @@
+##gff-version 3.1.26
+##sequence-region KF906249 1 31052
+KF906249	.	gene	215	21498	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KF906249	.	CDS	215	13364	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KF906249	.	CDS	13364	21498	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KF906249	.	gene	21508	22344	.	+	.	ID=gene-ns2;gene_biotype=protein_coding
+KF906249	.	CDS	21508	22344	.	+	0	ID=cds-2;Parent=gene-ns2;Name=ns2;gene=ns2
+KF906249	.	gene	22356	23630	.	+	.	ID=gene-he;gene_biotype=protein_coding
+KF906249	.	CDS	22356	23630	.	+	0	ID=cds-3;Parent=gene-he;Name=he;gene=he
+KF906249	.	gene	23645	27745	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KF906249	.	CDS	23645	27745	.	+	0	ID=cds-4;Parent=gene-S;Name=S;gene=S
+KF906249	.	gene	28114	28443	.	+	.	ID=gene-ns5;gene_biotype=protein_coding
+KF906249	.	CDS	28114	28443	.	+	0	ID=cds-5;Parent=gene-ns5;Name=ns5;gene=ns5
+KF906249	.	gene	28430	28684	.	+	.	ID=gene-E;gene_biotype=protein_coding
+KF906249	.	CDS	28430	28684	.	+	0	ID=cds-6;Parent=gene-E;Name=E;gene=E
+KF906249	.	gene	28699	29391	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KF906249	.	CDS	28699	29391	.	+	0	ID=cds-7;Parent=gene-M;Name=M;gene=M
+KF906249	.	gene	29401	30747	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KF906249	.	CDS	29401	30747	.	+	0	ID=cds-8;Parent=gene-N;Name=N;gene=N
+KF906249	.	gene	30899	31003	.	+	.	ID=putative-gene-9;gene_biotype=protein_coding
+KF906249	.	CDS	30899	31003	.	+	0	ID=cds-9;Parent=putative-gene-9;Name=protein-9;gene=ORF9

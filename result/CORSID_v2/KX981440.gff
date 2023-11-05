@@ -1,0 +1,19 @@
+##gff-version 3.1.26
+##sequence-region KX981440 1 28124
+KX981440	.	gene	284	20628	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KX981440	.	CDS	284	12635	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KX981440	.	CDS	12635	20628	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KX981440	.	gene	20625	24779	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KX981440	.	CDS	20625	24779	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KX981440	.	gene	24779	25453	.	+	.	ID=gene-?;gene_biotype=protein_coding
+KX981440	.	CDS	24779	25453	.	+	0	ID=cds-3;Parent=gene-?;Name=?;gene=?
+KX981440	.	gene	25434	25664	.	+	.	ID=gene-E;gene_biotype=protein_coding
+KX981440	.	CDS	25434	25664	.	+	0	ID=cds-4;Parent=gene-E;Name=E;gene=E
+KX981440	.	gene	25672	26352	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KX981440	.	CDS	25672	26352	.	+	0	ID=cds-5;Parent=gene-M;Name=M;gene=M
+KX981440	.	gene	26364	27689	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KX981440	.	CDS	26364	27689	.	+	0	ID=cds-6;Parent=gene-N;Name=N;gene=N
+KX981440	.	gene	27693	27800	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+KX981440	.	CDS	27693	27800	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7
+KX981440	.	gene	28014	28126	.	+	.	ID=putative-gene-8;gene_biotype=protein_coding
+KX981440	.	CDS	28014	28126	.	+	0	ID=cds-8;Parent=putative-gene-8;Name=protein-8;gene=ORF8

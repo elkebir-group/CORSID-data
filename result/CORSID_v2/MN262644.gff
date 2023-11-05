@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region MN262644 1 27523
+MN262644	.	gene	529	20384	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MN262644	.	CDS	529	12334	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MN262644	.	CDS	12334	20384	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MN262644	.	gene	20320	23811	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MN262644	.	CDS	20320	23811	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MN262644	.	gene	23811	23984	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+MN262644	.	CDS	23811	23984	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+MN262644	.	gene	23984	24175	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+MN262644	.	CDS	23984	24175	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+MN262644	.	gene	24156	24485	.	+	.	ID=gene-3c;gene_biotype=protein_coding
+MN262644	.	CDS	24156	24485	.	+	0	ID=cds-5;Parent=gene-3c;Name=3c;gene=3c
+MN262644	.	gene	24457	25134	.	+	.	ID=gene-M;gene_biotype=protein_coding
+MN262644	.	CDS	24457	25134	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+MN262644	.	gene	25135	25419	.	+	.	ID=gene-4b;gene_biotype=protein_coding
+MN262644	.	CDS	25135	25419	.	+	0	ID=cds-7;Parent=gene-4b;Name=4b;gene=4b
+MN262644	.	gene	25493	25690	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+MN262644	.	CDS	25493	25690	.	+	0	ID=cds-8;Parent=gene-5a;Name=5a;gene=5a
+MN262644	.	gene	25687	25935	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+MN262644	.	CDS	25687	25935	.	+	0	ID=cds-9;Parent=gene-5b;Name=5b;gene=5b
+MN262644	.	gene	25878	27107	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MN262644	.	CDS	25878	27107	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N
+MN262644	.	gene	27116	27232	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+MN262644	.	CDS	27116	27232	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11

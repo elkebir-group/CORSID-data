@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region MK581205 1 27844
+MK581205	.	gene	717	20602	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MK581205	.	CDS	717	12567	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MK581205	.	CDS	12567	20602	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MK581205	.	gene	20553	24050	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MK581205	.	CDS	20553	24050	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MK581205	.	gene	24050	24223	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+MK581205	.	CDS	24050	24223	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+MK581205	.	gene	24223	24417	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+MK581205	.	CDS	24223	24417	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+MK581205	.	gene	24401	24730	.	+	.	ID=gene-E;gene_biotype=protein_coding
+MK581205	.	CDS	24401	24730	.	+	0	ID=cds-5;Parent=gene-E;Name=E;gene=E
+MK581205	.	gene	24699	25379	.	+	.	ID=putative-gene-6;gene_biotype=protein_coding
+MK581205	.	CDS	24699	25379	.	+	0	ID=cds-6;Parent=putative-gene-6;Name=protein-6;gene=ORF6
+MK581205	.	gene	25380	25667	.	+	.	ID=gene-4b;gene_biotype=protein_coding
+MK581205	.	CDS	25380	25667	.	+	0	ID=cds-7;Parent=gene-4b;Name=4b;gene=4b
+MK581205	.	gene	25730	25930	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+MK581205	.	CDS	25730	25930	.	+	0	ID=cds-8;Parent=gene-5a;Name=5a;gene=5a
+MK581205	.	gene	25927	26175	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+MK581205	.	CDS	25927	26175	.	+	0	ID=cds-9;Parent=gene-5b;Name=5b;gene=5b
+MK581205	.	gene	26118	27347	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MK581205	.	CDS	26118	27347	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N
+MK581205	.	gene	27356	27577	.	+	.	ID=gene-6b;gene_biotype=protein_coding
+MK581205	.	CDS	27356	27577	.	+	0	ID=cds-11;Parent=gene-6b;Name=6b;gene=6b

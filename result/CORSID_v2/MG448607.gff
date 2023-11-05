@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region MG448607 1 27675
+MG448607	.	gene	533	20469	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MG448607	.	CDS	533	12440	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MG448607	.	CDS	12440	20469	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MG448607	.	gene	20420	23911	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MG448607	.	CDS	20420	23911	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MG448607	.	gene	23911	24084	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+MG448607	.	CDS	23911	24084	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+MG448607	.	gene	24084	24278	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+MG448607	.	CDS	24084	24278	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+MG448607	.	gene	24259	24588	.	+	.	ID=gene-3c;gene_biotype=protein_coding
+MG448607	.	CDS	24259	24588	.	+	0	ID=cds-5;Parent=gene-3c;Name=3c;gene=3c
+MG448607	.	gene	24560	25237	.	+	.	ID=gene-M;gene_biotype=protein_coding
+MG448607	.	CDS	24560	25237	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+MG448607	.	gene	25238	25522	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+MG448607	.	CDS	25238	25522	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7
+MG448607	.	gene	25596	25793	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+MG448607	.	CDS	25596	25793	.	+	0	ID=cds-8;Parent=gene-5a;Name=5a;gene=5a
+MG448607	.	gene	25790	26038	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+MG448607	.	CDS	25790	26038	.	+	0	ID=cds-9;Parent=gene-5b;Name=5b;gene=5b
+MG448607	.	gene	25981	27210	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MG448607	.	CDS	25981	27210	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N
+MG448607	.	gene	27280	27390	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+MG448607	.	CDS	27280	27390	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11

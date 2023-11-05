@@ -1,0 +1,27 @@
+##gff-version 3.1.26
+##sequence-region MG518518 1 31034
+MG518518	.	gene	211	21494	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MG518518	.	CDS	211	13360	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MG518518	.	CDS	13360	21494	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MG518518	.	gene	21504	22340	.	+	.	ID=gene-32 kda non-structural;gene_biotype=protein_coding
+MG518518	.	CDS	21504	22340	.	+	0	ID=cds-2;Parent=gene-32 kda non-structural;Name=32 kda non-structural;gene=32 kda non-structural
+MG518518	.	gene	22352	23626	.	+	.	ID=gene-HE;gene_biotype=protein_coding
+MG518518	.	CDS	22352	23626	.	+	0	ID=cds-3;Parent=gene-HE;Name=HE;gene=HE
+MG518518	.	gene	23641	27735	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MG518518	.	CDS	23641	27735	.	+	0	ID=cds-4;Parent=gene-S;Name=S;gene=S
+MG518518	.	gene	27725	27856	.	+	.	ID=gene-4.9 kda non-structural;gene_biotype=protein_coding
+MG518518	.	CDS	27725	27856	.	+	0	ID=cds-5;Parent=gene-4.9 kda non-structural;Name=4.9 kda non-structural;gene=4.9 kda non-structural
+MG518518	.	gene	27892	28092	.	+	.	ID=gene-4.8 kda non-structural;gene_biotype=protein_coding
+MG518518	.	CDS	27892	28092	.	+	0	ID=cds-6;Parent=gene-4.8 kda non-structural;Name=4.8 kda non-structural;gene=4.8 kda non-structural
+MG518518	.	gene	28095	28424	.	+	.	ID=gene-12.7 kda non-structural;gene_biotype=protein_coding
+MG518518	.	CDS	28095	28424	.	+	0	ID=cds-7;Parent=gene-12.7 kda non-structural;Name=12.7 kda non-structural;gene=12.7 kda non-structural
+MG518518	.	gene	28411	28665	.	+	.	ID=gene-E;gene_biotype=protein_coding
+MG518518	.	CDS	28411	28665	.	+	0	ID=cds-8;Parent=gene-E;Name=E;gene=E
+MG518518	.	gene	28680	29372	.	+	.	ID=gene-M;gene_biotype=protein_coding
+MG518518	.	CDS	28680	29372	.	+	0	ID=cds-9;Parent=gene-M;Name=M;gene=M
+MG518518	.	gene	29382	30728	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MG518518	.	CDS	29382	30728	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N
+MG518518	.	gene	30694	30822	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+MG518518	.	CDS	30694	30822	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11
+MG518518	.	gene	30880	30984	.	+	.	ID=putative-gene-12;gene_biotype=protein_coding
+MG518518	.	CDS	30880	30984	.	+	0	ID=cds-12;Parent=putative-gene-12;Name=protein-12;gene=ORF12

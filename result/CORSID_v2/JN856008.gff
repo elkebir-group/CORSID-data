@@ -1,0 +1,21 @@
+##gff-version 3.1.26
+##sequence-region JN856008 1 29271
+JN856008	.	gene	277	20327	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+JN856008	.	CDS	277	12325	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+JN856008	.	CDS	12325	20327	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+JN856008	.	gene	20324	24745	.	+	.	ID=gene-S;gene_biotype=protein_coding
+JN856008	.	CDS	20324	24745	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+JN856008	.	gene	24793	25029	.	+	.	ID=putative-gene-3;gene_biotype=protein_coding
+JN856008	.	CDS	24793	25029	.	+	0	ID=cds-3;Parent=putative-gene-3;Name=protein-3;gene=ORF3
+JN856008	.	gene	25136	25870	.	+	.	ID=gene-ns3c;gene_biotype=protein_coding
+JN856008	.	CDS	25136	25870	.	+	0	ID=cds-4;Parent=gene-ns3c;Name=ns3c;gene=ns3c
+JN856008	.	gene	25857	26105	.	+	.	ID=gene-E;gene_biotype=protein_coding
+JN856008	.	CDS	25857	26105	.	+	0	ID=cds-5;Parent=gene-E;Name=E;gene=E
+JN856008	.	gene	26116	26901	.	+	.	ID=gene-M;gene_biotype=protein_coding
+JN856008	.	CDS	26116	26901	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+JN856008	.	gene	26914	28062	.	+	.	ID=gene-N;gene_biotype=protein_coding
+JN856008	.	CDS	26914	28062	.	+	0	ID=cds-7;Parent=gene-N;Name=N;gene=N
+JN856008	.	gene	28067	28372	.	+	.	ID=gene-ns7a;gene_biotype=protein_coding
+JN856008	.	CDS	28067	28372	.	+	0	ID=cds-8;Parent=gene-ns7a;Name=ns7a;gene=ns7a
+JN856008	.	gene	28377	29018	.	+	.	ID=gene-ns7b;gene_biotype=protein_coding
+JN856008	.	CDS	28377	29018	.	+	0	ID=cds-9;Parent=gene-ns7b;Name=ns7b;gene=ns7b

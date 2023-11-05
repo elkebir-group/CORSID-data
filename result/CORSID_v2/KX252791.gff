@@ -1,0 +1,23 @@
+##gff-version 3.1.26
+##sequence-region KX252791 1 27683
+KX252791	.	gene	528	20419	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KX252791	.	CDS	528	12384	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KX252791	.	CDS	12384	20419	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KX252791	.	gene	20370	23867	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KX252791	.	CDS	20370	23867	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KX252791	.	gene	24040	24228	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+KX252791	.	CDS	24040	24228	.	+	0	ID=cds-3;Parent=gene-3b;Name=3b;gene=3b
+KX252791	.	gene	24215	24544	.	+	.	ID=gene-3c;gene_biotype=protein_coding
+KX252791	.	CDS	24215	24544	.	+	0	ID=cds-4;Parent=gene-3c;Name=3c;gene=3c
+KX252791	.	gene	24513	25193	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KX252791	.	CDS	24513	25193	.	+	0	ID=cds-5;Parent=gene-M;Name=M;gene=M
+KX252791	.	gene	25194	25478	.	+	.	ID=putative-gene-6;gene_biotype=protein_coding
+KX252791	.	CDS	25194	25478	.	+	0	ID=cds-6;Parent=putative-gene-6;Name=protein-6;gene=ORF6
+KX252791	.	gene	25553	25750	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+KX252791	.	CDS	25553	25750	.	+	0	ID=cds-7;Parent=gene-5a;Name=5a;gene=5a
+KX252791	.	gene	25747	25995	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+KX252791	.	CDS	25747	25995	.	+	0	ID=cds-8;Parent=gene-5b;Name=5b;gene=5b
+KX252791	.	gene	25938	27167	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KX252791	.	CDS	25938	27167	.	+	0	ID=cds-9;Parent=gene-N;Name=N;gene=N
+KX252791	.	gene	27176	27397	.	+	.	ID=putative-gene-10;gene_biotype=protein_coding
+KX252791	.	CDS	27176	27397	.	+	0	ID=cds-10;Parent=putative-gene-10;Name=protein-10;gene=ORF10

@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region GU393332 1 27591
+GU393332	.	gene	529	20336	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+GU393332	.	CDS	529	12307	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+GU393332	.	CDS	12307	20336	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+GU393332	.	gene	20287	23739	.	+	.	ID=gene-S;gene_biotype=protein_coding
+GU393332	.	CDS	20287	23739	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+GU393332	.	gene	23785	23958	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+GU393332	.	CDS	23785	23958	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+GU393332	.	gene	23958	24152	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+GU393332	.	CDS	23958	24152	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+GU393332	.	gene	24133	24462	.	+	.	ID=gene-E;gene_biotype=protein_coding
+GU393332	.	CDS	24133	24462	.	+	0	ID=cds-5;Parent=gene-E;Name=E;gene=E
+GU393332	.	gene	24434	25111	.	+	.	ID=gene-M;gene_biotype=protein_coding
+GU393332	.	CDS	24434	25111	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+GU393332	.	gene	25112	25396	.	+	.	ID=gene-4b;gene_biotype=protein_coding
+GU393332	.	CDS	25112	25396	.	+	0	ID=cds-7;Parent=gene-4b;Name=4b;gene=4b
+GU393332	.	gene	25471	25668	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+GU393332	.	CDS	25471	25668	.	+	0	ID=cds-8;Parent=gene-5a;Name=5a;gene=5a
+GU393332	.	gene	25665	25913	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+GU393332	.	CDS	25665	25913	.	+	0	ID=cds-9;Parent=gene-5b;Name=5b;gene=5b
+GU393332	.	gene	25856	27085	.	+	.	ID=gene-N;gene_biotype=protein_coding
+GU393332	.	CDS	25856	27085	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N
+GU393332	.	gene	27094	27318	.	+	.	ID=gene-6b;gene_biotype=protein_coding
+GU393332	.	CDS	27094	27318	.	+	0	ID=cds-11;Parent=gene-6b;Name=6b;gene=6b

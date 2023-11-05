@@ -1,0 +1,19 @@
+##gff-version 3.1.26
+##sequence-region MG762674 1 29134
+MG762674	.	gene	230	20991	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MG762674	.	CDS	230	12950	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MG762674	.	CDS	12950	20991	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MG762674	.	gene	20951	24748	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MG762674	.	CDS	20951	24748	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MG762674	.	gene	24745	25437	.	+	.	ID=gene-?;gene_biotype=protein_coding
+MG762674	.	CDS	24745	25437	.	+	0	ID=cds-3;Parent=gene-?;Name=?;gene=?
+MG762674	.	gene	25437	25667	.	+	.	ID=gene-small M;gene_biotype=protein_coding
+MG762674	.	CDS	25437	25667	.	+	0	ID=cds-4;Parent=gene-small M;Name=small M;gene=small M
+MG762674	.	gene	25672	26346	.	+	.	ID=gene-M;gene_biotype=protein_coding
+MG762674	.	CDS	25672	26346	.	+	0	ID=cds-5;Parent=gene-M;Name=M;gene=M
+MG762674	.	gene	26410	27819	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MG762674	.	CDS	26410	27819	.	+	0	ID=cds-6;Parent=gene-N;Name=N;gene=N
+MG762674	.	gene	27857	28450	.	+	.	ID=gene-ns7a;gene_biotype=protein_coding
+MG762674	.	CDS	27857	28450	.	+	0	ID=cds-7;Parent=gene-ns7a;Name=ns7a;gene=ns7a
+MG762674	.	gene	28447	28890	.	+	.	ID=gene-ns7b;gene_biotype=protein_coding
+MG762674	.	CDS	28447	28890	.	+	0	ID=cds-8;Parent=gene-ns7b;Name=ns7b;gene=ns7b

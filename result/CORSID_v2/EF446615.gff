@@ -1,0 +1,23 @@
+##gff-version 3.1.26
+##sequence-region EF446615 1 30992
+EF446615	.	gene	210	21595	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+EF446615	.	CDS	210	13497	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+EF446615	.	CDS	13497	21595	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+EF446615	.	gene	21610	22446	.	+	.	ID=gene-ns2;gene_biotype=protein_coding
+EF446615	.	CDS	21610	22446	.	+	0	ID=cds-2;Parent=gene-ns2;Name=ns2;gene=ns2
+EF446615	.	gene	22458	23729	.	+	.	ID=gene-he;gene_biotype=protein_coding
+EF446615	.	CDS	22458	23729	.	+	0	ID=cds-3;Parent=gene-he;Name=he;gene=he
+EF446615	.	gene	23744	27835	.	+	.	ID=gene-S;gene_biotype=protein_coding
+EF446615	.	CDS	23744	27835	.	+	0	ID=cds-4;Parent=gene-S;Name=S;gene=S
+EF446615	.	gene	27825	27947	.	+	.	ID=gene-4.7 kda accessory;gene_biotype=protein_coding
+EF446615	.	CDS	27825	27947	.	+	0	ID=cds-5;Parent=gene-4.7 kda accessory;Name=4.7 kda accessory;gene=4.7 kda accessory
+EF446615	.	gene	28076	28405	.	+	.	ID=gene-12.7 kda accessory;gene_biotype=protein_coding
+EF446615	.	CDS	28076	28405	.	+	0	ID=cds-6;Parent=gene-12.7 kda accessory;Name=12.7 kda accessory;gene=12.7 kda accessory
+EF446615	.	gene	28392	28646	.	+	.	ID=gene-E;gene_biotype=protein_coding
+EF446615	.	CDS	28392	28646	.	+	0	ID=cds-7;Parent=gene-E;Name=E;gene=E
+EF446615	.	gene	28661	29353	.	+	.	ID=gene-M;gene_biotype=protein_coding
+EF446615	.	CDS	28661	29353	.	+	0	ID=cds-8;Parent=gene-M;Name=M;gene=M
+EF446615	.	gene	29363	30703	.	+	.	ID=gene-N;gene_biotype=protein_coding
+EF446615	.	CDS	29363	30703	.	+	0	ID=cds-9;Parent=gene-N;Name=N;gene=N
+EF446615	.	gene	30855	30959	.	+	.	ID=putative-gene-10;gene_biotype=protein_coding
+EF446615	.	CDS	30855	30959	.	+	0	ID=cds-10;Parent=putative-gene-10;Name=protein-10;gene=ORF10

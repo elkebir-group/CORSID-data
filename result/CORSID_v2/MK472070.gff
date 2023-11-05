@@ -1,0 +1,19 @@
+##gff-version 3.1.26
+##sequence-region MK472070 1 28009
+MK472070	.	gene	247	20543	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MK472070	.	CDS	247	12550	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MK472070	.	CDS	12550	20543	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MK472070	.	gene	20545	24666	.	+	.	ID=putative-gene-2;gene_biotype=protein_coding
+MK472070	.	CDS	20545	24666	.	+	0	ID=cds-2;Parent=putative-gene-2;Name=protein-2;gene=ORF2
+MK472070	.	gene	24666	25340	.	+	.	ID=gene-3;gene_biotype=protein_coding
+MK472070	.	CDS	24666	25340	.	+	0	ID=cds-3;Parent=gene-3;Name=3;gene=3
+MK472070	.	gene	25321	25548	.	+	.	ID=putative-gene-4;gene_biotype=protein_coding
+MK472070	.	CDS	25321	25548	.	+	0	ID=cds-4;Parent=putative-gene-4;Name=protein-4;gene=ORF4
+MK472070	.	gene	25558	26238	.	+	.	ID=gene-M;gene_biotype=protein_coding
+MK472070	.	CDS	25558	26238	.	+	0	ID=cds-5;Parent=gene-M;Name=M;gene=M
+MK472070	.	gene	26248	27519	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MK472070	.	CDS	26248	27519	.	+	0	ID=cds-6;Parent=gene-N;Name=N;gene=N
+MK472070	.	gene	27467	27766	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+MK472070	.	CDS	27467	27766	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7
+MK472070	.	gene	27870	27983	.	+	.	ID=putative-gene-8;gene_biotype=protein_coding
+MK472070	.	CDS	27870	27983	.	+	0	ID=cds-8;Parent=putative-gene-8;Name=protein-8;gene=ORF8

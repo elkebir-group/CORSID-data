@@ -1,0 +1,33 @@
+##gff-version 3.1.26
+##sequence-region NC_010646 1 31686
+NC_010646	.	gene	524	20514	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+NC_010646	.	CDS	524	12416	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+NC_010646	.	CDS	12416	20514	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+NC_010646	.	gene	20450	24868	.	+	.	ID=gene-S;gene_biotype=protein_coding
+NC_010646	.	CDS	20450	24868	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+NC_010646	.	gene	24874	25161	.	+	.	ID=gene-small M;gene_biotype=protein_coding
+NC_010646	.	CDS	24874	25161	.	+	0	ID=cds-3;Parent=gene-small M;Name=small M;gene=small M
+NC_010646	.	gene	25145	25927	.	+	.	ID=gene-matrix glyco;gene_biotype=protein_coding
+NC_010646	.	CDS	25145	25927	.	+	0	ID=cds-4;Parent=gene-matrix glyco;Name=matrix glyco;gene=matrix glyco
+NC_010646	.	gene	25930	26346	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+NC_010646	.	CDS	25930	26346	.	+	0	ID=cds-5;Parent=gene-5a;Name=5a;gene=5a
+NC_010646	.	gene	26708	26857	.	+	.	ID=putative-gene-6;gene_biotype=protein_coding
+NC_010646	.	CDS	26708	26857	.	+	0	ID=cds-6;Parent=putative-gene-6;Name=protein-6;gene=ORF6
+NC_010646	.	gene	26847	27374	.	+	.	ID=gene-5c;gene_biotype=protein_coding
+NC_010646	.	CDS	26847	27374	.	+	0	ID=cds-7;Parent=gene-5c;Name=5c;gene=5c
+NC_010646	.	gene	27772	27906	.	+	.	ID=putative-gene-8;gene_biotype=protein_coding
+NC_010646	.	CDS	27772	27906	.	+	0	ID=cds-8;Parent=putative-gene-8;Name=protein-8;gene=ORF8
+NC_010646	.	gene	28067	28552	.	+	.	ID=gene-7;gene_biotype=protein_coding
+NC_010646	.	CDS	28067	28552	.	+	0	ID=cds-9;Parent=gene-7;Name=7;gene=7
+NC_010646	.	gene	28705	28884	.	+	.	ID=gene-8;gene_biotype=protein_coding
+NC_010646	.	CDS	28705	28884	.	+	0	ID=cds-10;Parent=gene-8;Name=8;gene=8
+NC_010646	.	gene	28941	29399	.	+	.	ID=gene-9;gene_biotype=protein_coding
+NC_010646	.	CDS	28941	29399	.	+	0	ID=cds-11;Parent=gene-9;Name=9;gene=9
+NC_010646	.	gene	29402	30034	.	+	.	ID=gene-10;gene_biotype=protein_coding
+NC_010646	.	CDS	29402	30034	.	+	0	ID=cds-12;Parent=gene-10;Name=10;gene=10
+NC_010646	.	gene	30040	30291	.	+	.	ID=putative-gene-13;gene_biotype=protein_coding
+NC_010646	.	CDS	30040	30291	.	+	0	ID=cds-13;Parent=putative-gene-13;Name=protein-13;gene=ORF13
+NC_010646	.	gene	30591	30791	.	+	.	ID=putative-gene-14;gene_biotype=protein_coding
+NC_010646	.	CDS	30591	30791	.	+	0	ID=cds-14;Parent=putative-gene-14;Name=protein-14;gene=ORF14
+NC_010646	.	gene	30791	31285	.	+	.	ID=putative-gene-15;gene_biotype=protein_coding
+NC_010646	.	CDS	30791	31285	.	+	0	ID=cds-15;Parent=putative-gene-15;Name=protein-15;gene=ORF15

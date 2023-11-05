@@ -1,0 +1,21 @@
+##gff-version 3.1.26
+##sequence-region MG021451 1 30113
+MG021451	.	gene	237	21517	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MG021451	.	CDS	237	13452	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MG021451	.	CDS	13452	21517	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MG021451	.	gene	21459	25529	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MG021451	.	CDS	21459	25529	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MG021451	.	gene	25539	25841	.	+	.	ID=gene-3;gene_biotype=protein_coding
+MG021451	.	CDS	25539	25841	.	+	0	ID=cds-3;Parent=gene-3;Name=3;gene=3
+MG021451	.	gene	25850	26134	.	+	.	ID=gene-4a;gene_biotype=protein_coding
+MG021451	.	CDS	25850	26134	.	+	0	ID=cds-4;Parent=gene-4a;Name=4a;gene=4a
+MG021451	.	gene	26214	26783	.	+	.	ID=putative-gene-5;gene_biotype=protein_coding
+MG021451	.	CDS	26214	26783	.	+	0	ID=cds-5;Parent=putative-gene-5;Name=protein-5;gene=ORF5
+MG021451	.	gene	26790	27473	.	+	.	ID=gene-5;gene_biotype=protein_coding
+MG021451	.	CDS	26790	27473	.	+	0	ID=cds-6;Parent=gene-5;Name=5;gene=5
+MG021451	.	gene	27551	27799	.	+	.	ID=gene-E;gene_biotype=protein_coding
+MG021451	.	CDS	27551	27799	.	+	0	ID=cds-7;Parent=gene-E;Name=E;gene=E
+MG021451	.	gene	27814	28470	.	+	.	ID=gene-M;gene_biotype=protein_coding
+MG021451	.	CDS	27814	28470	.	+	0	ID=cds-8;Parent=gene-M;Name=M;gene=M
+MG021451	.	gene	28526	29824	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MG021451	.	CDS	28526	29824	.	+	0	ID=cds-9;Parent=gene-N;Name=N;gene=N

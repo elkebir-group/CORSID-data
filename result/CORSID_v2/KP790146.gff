@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region KP790146 1 27672
+KP790146	.	gene	526	20417	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KP790146	.	CDS	526	12382	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KP790146	.	CDS	12382	20417	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KP790146	.	gene	20368	23865	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KP790146	.	CDS	20368	23865	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KP790146	.	gene	23865	24038	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+KP790146	.	CDS	23865	24038	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+KP790146	.	gene	24038	24229	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+KP790146	.	CDS	24038	24229	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+KP790146	.	gene	24213	24539	.	+	.	ID=gene-3c;gene_biotype=protein_coding
+KP790146	.	CDS	24213	24539	.	+	0	ID=cds-5;Parent=gene-3c;Name=3c;gene=3c
+KP790146	.	gene	24511	25188	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KP790146	.	CDS	24511	25188	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+KP790146	.	gene	25189	25473	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+KP790146	.	CDS	25189	25473	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7
+KP790146	.	gene	25542	25739	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+KP790146	.	CDS	25542	25739	.	+	0	ID=cds-8;Parent=gene-5a;Name=5a;gene=5a
+KP790146	.	gene	25736	25984	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+KP790146	.	CDS	25736	25984	.	+	0	ID=cds-9;Parent=gene-5b;Name=5b;gene=5b
+KP790146	.	gene	25927	27156	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KP790146	.	CDS	25927	27156	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N
+KP790146	.	gene	27165	27386	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+KP790146	.	CDS	27165	27386	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11

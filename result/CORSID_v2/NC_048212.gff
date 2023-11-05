@@ -1,0 +1,19 @@
+##gff-version 3.1.26
+##sequence-region NC_048212 1 28975
+NC_048212	.	gene	210	20842	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+NC_048212	.	CDS	210	12825	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+NC_048212	.	CDS	12825	20842	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+NC_048212	.	gene	20814	24623	.	+	.	ID=gene-S;gene_biotype=protein_coding
+NC_048212	.	CDS	20814	24623	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+NC_048212	.	gene	24620	25339	.	+	.	ID=gene-3;gene_biotype=protein_coding
+NC_048212	.	CDS	24620	25339	.	+	0	ID=cds-3;Parent=gene-3;Name=3;gene=3
+NC_048212	.	gene	25339	25566	.	+	.	ID=putative-gene-4;gene_biotype=protein_coding
+NC_048212	.	CDS	25339	25566	.	+	0	ID=cds-4;Parent=putative-gene-4;Name=protein-4;gene=ORF4
+NC_048212	.	gene	25568	26233	.	+	.	ID=gene-M;gene_biotype=protein_coding
+NC_048212	.	CDS	25568	26233	.	+	0	ID=cds-5;Parent=gene-M;Name=M;gene=M
+NC_048212	.	gene	26302	27714	.	+	.	ID=gene-capsid;gene_biotype=protein_coding
+NC_048212	.	CDS	26302	27714	.	+	0	ID=cds-6;Parent=gene-capsid;Name=capsid;gene=capsid
+NC_048212	.	gene	27726	28277	.	+	.	ID=gene-x?;gene_biotype=protein_coding
+NC_048212	.	CDS	27726	28277	.	+	0	ID=cds-7;Parent=gene-x?;Name=x?;gene=x?
+NC_048212	.	gene	28278	28718	.	+	.	ID=gene-y?;gene_biotype=protein_coding
+NC_048212	.	CDS	28278	28718	.	+	0	ID=cds-8;Parent=gene-y?;Name=y?;gene=y?

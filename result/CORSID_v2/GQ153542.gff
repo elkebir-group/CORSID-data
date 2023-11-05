@@ -1,0 +1,23 @@
+##gff-version 3.1.26
+##sequence-region GQ153542 1 29716
+GQ153542	.	gene	262	21476	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+GQ153542	.	CDS	262	13402	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+GQ153542	.	CDS	13402	21476	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+GQ153542	.	gene	21483	25211	.	+	.	ID=gene-S;gene_biotype=protein_coding
+GQ153542	.	CDS	21483	25211	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+GQ153542	.	gene	25221	26045	.	+	.	ID=gene-?;gene_biotype=protein_coding
+GQ153542	.	CDS	25221	26045	.	+	0	ID=cds-3;Parent=gene-?;Name=?;gene=?
+GQ153542	.	gene	26070	26300	.	+	.	ID=gene-small M;gene_biotype=protein_coding
+GQ153542	.	CDS	26070	26300	.	+	0	ID=cds-4;Parent=gene-small M;Name=small M;gene=small M
+GQ153542	.	gene	26351	27016	.	+	.	ID=gene-M;gene_biotype=protein_coding
+GQ153542	.	CDS	26351	27016	.	+	0	ID=cds-5;Parent=gene-M;Name=M;gene=M
+GQ153542	.	gene	27027	27218	.	+	.	ID=gene-?#;gene_biotype=protein_coding
+GQ153542	.	CDS	27027	27218	.	+	0	ID=cds-6;Parent=gene-?#;Name=?#;gene=?#
+GQ153542	.	gene	27226	27594	.	+	.	ID=gene-?##;gene_biotype=protein_coding
+GQ153542	.	CDS	27226	27594	.	+	0	ID=cds-7;Parent=gene-?##;Name=?##;gene=?##
+GQ153542	.	gene	27591	27725	.	+	.	ID=gene-?###;gene_biotype=protein_coding
+GQ153542	.	CDS	27591	27725	.	+	0	ID=cds-8;Parent=gene-?###;Name=?###;gene=?###
+GQ153542	.	gene	27732	28097	.	+	.	ID=gene-?####;gene_biotype=protein_coding
+GQ153542	.	CDS	27732	28097	.	+	0	ID=cds-9;Parent=gene-?####;Name=?####;gene=?####
+GQ153542	.	gene	28112	29377	.	+	.	ID=gene-N;gene_biotype=protein_coding
+GQ153542	.	CDS	28112	29377	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N

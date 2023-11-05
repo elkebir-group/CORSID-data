@@ -1,0 +1,15 @@
+##gff-version 3.1.26
+##sequence-region KX812524 1 28038
+KX812524	.	gene	293	20637	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KX812524	.	CDS	293	12644	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KX812524	.	CDS	12644	20637	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KX812524	.	gene	20634	24794	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KX812524	.	CDS	20634	24794	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KX812524	.	gene	25004	25468	.	+	.	ID=putative-gene-3;gene_biotype=protein_coding
+KX812524	.	CDS	25004	25468	.	+	0	ID=cds-3;Parent=putative-gene-3;Name=protein-3;gene=ORF3
+KX812524	.	gene	25687	26367	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KX812524	.	CDS	25687	26367	.	+	0	ID=cds-4;Parent=gene-M;Name=M;gene=M
+KX812524	.	gene	26379	27704	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KX812524	.	CDS	26379	27704	.	+	0	ID=cds-5;Parent=gene-N;Name=N;gene=N
+KX812524	.	gene	27708	27815	.	+	.	ID=putative-gene-6;gene_biotype=protein_coding
+KX812524	.	CDS	27708	27815	.	+	0	ID=cds-6;Parent=putative-gene-6;Name=protein-6;gene=ORF6

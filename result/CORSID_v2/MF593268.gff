@@ -1,0 +1,21 @@
+##gff-version 3.1.26
+##sequence-region MF593268 1 30009
+MF593268	.	gene	268	21524	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MF593268	.	CDS	268	13459	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MF593268	.	CDS	13459	21524	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MF593268	.	gene	21466	25500	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MF593268	.	CDS	21466	25500	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MF593268	.	gene	25515	25826	.	+	.	ID=gene-3;gene_biotype=protein_coding
+MF593268	.	CDS	25515	25826	.	+	0	ID=cds-3;Parent=gene-3;Name=3;gene=3
+MF593268	.	gene	25835	26164	.	+	.	ID=gene-4a;gene_biotype=protein_coding
+MF593268	.	CDS	25835	26164	.	+	0	ID=cds-4;Parent=gene-4a;Name=4a;gene=4a
+MF593268	.	gene	26271	26816	.	+	.	ID=putative-gene-5;gene_biotype=protein_coding
+MF593268	.	CDS	26271	26816	.	+	0	ID=cds-5;Parent=putative-gene-5;Name=protein-5;gene=ORF5
+MF593268	.	gene	26823	27497	.	+	.	ID=gene-5;gene_biotype=protein_coding
+MF593268	.	CDS	26823	27497	.	+	0	ID=cds-6;Parent=gene-5;Name=5;gene=5
+MF593268	.	gene	27573	27821	.	+	.	ID=gene-E;gene_biotype=protein_coding
+MF593268	.	CDS	27573	27821	.	+	0	ID=cds-7;Parent=gene-E;Name=E;gene=E
+MF593268	.	gene	27836	28495	.	+	.	ID=gene-M;gene_biotype=protein_coding
+MF593268	.	CDS	27836	28495	.	+	0	ID=cds-8;Parent=gene-M;Name=M;gene=M
+MF593268	.	gene	28553	29797	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MF593268	.	CDS	28553	29797	.	+	0	ID=cds-9;Parent=gene-N;Name=N;gene=N

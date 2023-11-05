@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region MG738155 1 27660
+MG738155	.	gene	526	20411	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+MG738155	.	CDS	526	12376	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+MG738155	.	CDS	12376	20411	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+MG738155	.	gene	20362	23859	.	+	.	ID=gene-S;gene_biotype=protein_coding
+MG738155	.	CDS	20362	23859	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+MG738155	.	gene	23859	24032	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+MG738155	.	CDS	23859	24032	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+MG738155	.	gene	24032	24220	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+MG738155	.	CDS	24032	24220	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+MG738155	.	gene	24207	24533	.	+	.	ID=gene-E;gene_biotype=protein_coding
+MG738155	.	CDS	24207	24533	.	+	0	ID=cds-5;Parent=gene-E;Name=E;gene=E
+MG738155	.	gene	24505	25182	.	+	.	ID=gene-M;gene_biotype=protein_coding
+MG738155	.	CDS	24505	25182	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+MG738155	.	gene	25183	25467	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+MG738155	.	CDS	25183	25467	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7
+MG738155	.	gene	25542	25739	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+MG738155	.	CDS	25542	25739	.	+	0	ID=cds-8;Parent=gene-5a;Name=5a;gene=5a
+MG738155	.	gene	25736	25984	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+MG738155	.	CDS	25736	25984	.	+	0	ID=cds-9;Parent=gene-5b;Name=5b;gene=5b
+MG738155	.	gene	25927	27156	.	+	.	ID=gene-N;gene_biotype=protein_coding
+MG738155	.	CDS	25927	27156	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N
+MG738155	.	gene	27165	27386	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+MG738155	.	CDS	27165	27386	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11

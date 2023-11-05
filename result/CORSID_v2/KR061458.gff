@@ -1,0 +1,17 @@
+##gff-version 3.1.26
+##sequence-region KR061458 1 27986
+KR061458	.	gene	264	20608	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KR061458	.	CDS	264	12615	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KR061458	.	CDS	12615	20608	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KR061458	.	gene	20605	24756	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KR061458	.	CDS	20605	24756	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KR061458	.	gene	24756	25430	.	+	.	ID=gene-3;gene_biotype=protein_coding
+KR061458	.	CDS	24756	25430	.	+	0	ID=cds-3;Parent=gene-3;Name=3;gene=3
+KR061458	.	gene	25411	25641	.	+	.	ID=gene-E;gene_biotype=protein_coding
+KR061458	.	CDS	25411	25641	.	+	0	ID=cds-4;Parent=gene-E;Name=E;gene=E
+KR061458	.	gene	25649	26329	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KR061458	.	CDS	25649	26329	.	+	0	ID=cds-5;Parent=gene-M;Name=M;gene=M
+KR061458	.	gene	26341	27666	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KR061458	.	CDS	26341	27666	.	+	0	ID=cds-6;Parent=gene-N;Name=N;gene=N
+KR061458	.	gene	27670	27777	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+KR061458	.	CDS	27670	27777	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7

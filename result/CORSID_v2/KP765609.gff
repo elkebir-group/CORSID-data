@@ -1,0 +1,17 @@
+##gff-version 3.1.26
+##sequence-region KP765609 1 28056
+KP765609	.	gene	293	20637	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KP765609	.	CDS	293	12644	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KP765609	.	CDS	12644	20637	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KP765609	.	gene	20634	24770	.	+	.	ID=gene-S;gene_biotype=protein_coding
+KP765609	.	CDS	20634	24770	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+KP765609	.	gene	24800	25474	.	+	.	ID=gene-?;gene_biotype=protein_coding
+KP765609	.	CDS	24800	25474	.	+	0	ID=cds-3;Parent=gene-?;Name=?;gene=?
+KP765609	.	gene	25455	25685	.	+	.	ID=gene-E;gene_biotype=protein_coding
+KP765609	.	CDS	25455	25685	.	+	0	ID=cds-4;Parent=gene-E;Name=E;gene=E
+KP765609	.	gene	25693	26373	.	+	.	ID=gene-M;gene_biotype=protein_coding
+KP765609	.	CDS	25693	26373	.	+	0	ID=cds-5;Parent=gene-M;Name=M;gene=M
+KP765609	.	gene	26385	27710	.	+	.	ID=gene-N;gene_biotype=protein_coding
+KP765609	.	CDS	26385	27710	.	+	0	ID=cds-6;Parent=gene-N;Name=N;gene=N
+KP765609	.	gene	27714	27821	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+KP765609	.	CDS	27714	27821	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7

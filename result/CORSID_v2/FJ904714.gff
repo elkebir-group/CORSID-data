@@ -1,0 +1,25 @@
+##gff-version 3.1.26
+##sequence-region FJ904714 1 27664
+FJ904714	.	gene	529	20423	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+FJ904714	.	CDS	529	12388	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+FJ904714	.	CDS	12388	20423	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+FJ904714	.	gene	20374	23874	.	+	.	ID=gene-S;gene_biotype=protein_coding
+FJ904714	.	CDS	20374	23874	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+FJ904714	.	gene	23874	24047	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+FJ904714	.	CDS	23874	24047	.	+	0	ID=cds-3;Parent=gene-3a;Name=3a;gene=3a
+FJ904714	.	gene	24047	24241	.	+	.	ID=gene-3b;gene_biotype=protein_coding
+FJ904714	.	CDS	24047	24241	.	+	0	ID=cds-4;Parent=gene-3b;Name=3b;gene=3b
+FJ904714	.	gene	24222	24503	.	+	.	ID=gene-E;gene_biotype=protein_coding
+FJ904714	.	CDS	24222	24503	.	+	0	ID=cds-5;Parent=gene-E;Name=E;gene=E
+FJ904714	.	gene	24500	25177	.	+	.	ID=gene-M;gene_biotype=protein_coding
+FJ904714	.	CDS	24500	25177	.	+	0	ID=cds-6;Parent=gene-M;Name=M;gene=M
+FJ904714	.	gene	25178	25462	.	+	.	ID=putative-gene-7;gene_biotype=protein_coding
+FJ904714	.	CDS	25178	25462	.	+	0	ID=cds-7;Parent=putative-gene-7;Name=protein-7;gene=ORF7
+FJ904714	.	gene	25537	25734	.	+	.	ID=gene-5a;gene_biotype=protein_coding
+FJ904714	.	CDS	25537	25734	.	+	0	ID=cds-8;Parent=gene-5a;Name=5a;gene=5a
+FJ904714	.	gene	25731	25979	.	+	.	ID=gene-5b;gene_biotype=protein_coding
+FJ904714	.	CDS	25731	25979	.	+	0	ID=cds-9;Parent=gene-5b;Name=5b;gene=5b
+FJ904714	.	gene	25922	27151	.	+	.	ID=gene-N;gene_biotype=protein_coding
+FJ904714	.	CDS	25922	27151	.	+	0	ID=cds-10;Parent=gene-N;Name=N;gene=N
+FJ904714	.	gene	27160	27390	.	+	.	ID=putative-gene-11;gene_biotype=protein_coding
+FJ904714	.	CDS	27160	27390	.	+	0	ID=cds-11;Parent=putative-gene-11;Name=protein-11;gene=ORF11

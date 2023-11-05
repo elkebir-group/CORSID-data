@@ -1,0 +1,17 @@
+##gff-version 3.1.26
+##sequence-region NC_028806 1 28111
+NC_028806	.	gene	307	20354	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+NC_028806	.	CDS	307	12352	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+NC_028806	.	CDS	12352	20354	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+NC_028806	.	gene	20355	24503	.	+	.	ID=gene-S;gene_biotype=protein_coding
+NC_028806	.	CDS	20355	24503	.	+	0	ID=cds-2;Parent=gene-S;Name=S;gene=S
+NC_028806	.	gene	24666	25400	.	+	.	ID=gene-ns3b;gene_biotype=protein_coding
+NC_028806	.	CDS	24666	25400	.	+	0	ID=cds-3;Parent=gene-ns3b;Name=ns3b;gene=ns3b
+NC_028806	.	gene	25387	25635	.	+	.	ID=gene-E;gene_biotype=protein_coding
+NC_028806	.	CDS	25387	25635	.	+	0	ID=cds-4;Parent=gene-E;Name=E;gene=E
+NC_028806	.	gene	25646	26434	.	+	.	ID=gene-M;gene_biotype=protein_coding
+NC_028806	.	CDS	25646	26434	.	+	0	ID=cds-5;Parent=gene-M;Name=M;gene=M
+NC_028806	.	gene	26447	27595	.	+	.	ID=gene-N;gene_biotype=protein_coding
+NC_028806	.	CDS	26447	27595	.	+	0	ID=cds-6;Parent=gene-N;Name=N;gene=N
+NC_028806	.	gene	27601	27837	.	+	.	ID=gene-ns7;gene_biotype=protein_coding
+NC_028806	.	CDS	27601	27837	.	+	0	ID=cds-7;Parent=gene-ns7;Name=ns7;gene=ns7

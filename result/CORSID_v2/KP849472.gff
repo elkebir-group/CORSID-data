@@ -1,0 +1,31 @@
+##gff-version 3.1.26
+##sequence-region KP849472 1 30004
+KP849472	.	gene	314	20358	.	+	.	ID=gene-1;Name=ORF1;gene_biotype=protein_coding
+KP849472	.	CDS	314	12356	.	+	.	ID=cds-1a;Parent=gene-1;Name=ORF1a
+KP849472	.	CDS	12356	20358	.	+	.	ID=cds-1b;Parent=gene-1;Name=ORF1b
+KP849472	.	gene	20432	20575	.	+	.	ID=putative-gene-2;gene_biotype=protein_coding
+KP849472	.	CDS	20432	20575	.	+	0	ID=cds-2;Parent=putative-gene-2;Name=protein-2;gene=ORF2
+KP849472	.	gene	20672	20791	.	+	.	ID=putative-gene-3;gene_biotype=protein_coding
+KP849472	.	CDS	20672	20791	.	+	0	ID=cds-3;Parent=putative-gene-3;Name=protein-3;gene=ORF3
+KP849472	.	gene	21062	21187	.	+	.	ID=putative-gene-4;gene_biotype=protein_coding
+KP849472	.	CDS	21062	21187	.	+	0	ID=cds-4;Parent=putative-gene-4;Name=protein-4;gene=ORF4
+KP849472	.	gene	21485	21646	.	+	.	ID=putative-gene-5;gene_biotype=protein_coding
+KP849472	.	CDS	21485	21646	.	+	0	ID=cds-5;Parent=putative-gene-5;Name=protein-5;gene=ORF5
+KP849472	.	gene	21853	24804	.	+	.	ID=putative-gene-6;gene_biotype=protein_coding
+KP849472	.	CDS	21853	24804	.	+	0	ID=cds-6;Parent=putative-gene-6;Name=protein-6;gene=ORF6
+KP849472	.	gene	24812	25435	.	+	.	ID=gene-3;gene_biotype=protein_coding
+KP849472	.	CDS	24812	25435	.	+	0	ID=cds-7;Parent=gene-3;Name=3;gene=3
+KP849472	.	gene	25447	25683	.	+	.	ID=gene-3a;gene_biotype=protein_coding
+KP849472	.	CDS	25447	25683	.	+	0	ID=cds-8;Parent=gene-3a;Name=3a;gene=3a
+KP849472	.	gene	25840	26595	.	+	.	ID=gene-3c;gene_biotype=protein_coding
+KP849472	.	CDS	25840	26595	.	+	0	ID=cds-9;Parent=gene-3c;Name=3c;gene=3c
+KP849472	.	gene	26561	26809	.	+	.	ID=gene-4;gene_biotype=protein_coding
+KP849472	.	CDS	26561	26809	.	+	0	ID=cds-10;Parent=gene-4;Name=4;gene=4
+KP849472	.	gene	26820	27614	.	+	.	ID=gene-5;gene_biotype=protein_coding
+KP849472	.	CDS	26820	27614	.	+	0	ID=cds-11;Parent=gene-5;Name=5;gene=5
+KP849472	.	gene	27627	28769	.	+	.	ID=gene-6;gene_biotype=protein_coding
+KP849472	.	CDS	27627	28769	.	+	0	ID=cds-12;Parent=gene-6;Name=6;gene=6
+KP849472	.	gene	28774	29079	.	+	.	ID=gene-7a;gene_biotype=protein_coding
+KP849472	.	CDS	28774	29079	.	+	0	ID=cds-13;Parent=gene-7a;Name=7a;gene=7a
+KP849472	.	gene	29147	29725	.	+	.	ID=putative-gene-14;gene_biotype=protein_coding
+KP849472	.	CDS	29147	29725	.	+	0	ID=cds-14;Parent=putative-gene-14;Name=protein-14;gene=ORF14
