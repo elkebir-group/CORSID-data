@@ -13,7 +13,7 @@ rule corsid:
     output: 
         txt="{dir}/CORSID_v2/{sample}.txt",
         json="{dir}/CORSID_v2/{sample}.json",
-    log: "{dir}/CORSID/{sample}.log"
+    log: "{dir}/CORSID_v2/{sample}.log"
     shell:
         "corsid_v2 -f {input.fasta} -g {input.gff} -n {params.name} "
         "-o {output.json} > {output.txt} 2> {log}"
